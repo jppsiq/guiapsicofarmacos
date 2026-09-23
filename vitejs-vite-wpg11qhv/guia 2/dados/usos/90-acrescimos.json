@@ -1,0 +1,50 @@
+{
+"_nota": "Usos acrescentados às listas dos outros arquivos (somados, não substituídos). O campo 'tambem' repete o uso em outras condições da página Condições.",
+"fluoxetina": [
+ {"g": "TPB (borderline)", "c": "Sintomas centrais do transtorno de personalidade borderline", "s": "o", "e": "B", "p": "X", "t": "Ensaios antigos mostraram efeitos pequenos sobre raiva; revisões Cochrane (2022) e NICE não recomendam antidepressivos para os sintomas centrais do TPB, apenas para depressão ou ansiedade comórbidas bem caracterizadas."},
+ {"g": "Outros", "c": "Recuperação motora após AVC", "s": "o", "e": "A", "p": "X", "t": "Após o FLAME positivo, os ensaios grandes FOCUS, AFFINITY e EFFECTS foram negativos e mostraram mais fraturas e hiponatremia."}
+],
+"escitalopram": [
+ {"g": "Depressão", "c": "Prevenção de depressão após AVC", "s": "o", "e": "B", "p": "A", "d": "5 a 10 mg/dia", "t": "Robinson 2008 (JAMA) reduziu a incidência de depressão pós-AVC em relação a placebo."},
+ {"g": "Transtornos de ansiedade", "c": "Ansiedade e depressão em cardiopatas", "s": "o", "e": "B", "p": "1", "t": "Estudos em doença coronariana (DECARD, REMIT) mostram segurança e, no REMIT, melhora da isquemia induzida por estresse mental."}
+],
+"quetiapina": [
+ {"g": "TEPT", "c": "TEPT em monoterapia", "s": "o", "e": "B", "p": "U", "d": "50 a 800 mg/dia", "t": "Villarreal 2016 mostrou benefício sobre revivescências e hiperexcitação; alternativa quando ISRS e IRSN falham."}
+],
+"mirtazapina": [
+ {"g": "Cocaína e estimulantes", "c": "Dependência de metanfetamina", "s": "o", "e": "B", "p": "A", "d": "30 mg/dia", "t": "Colfax 2011 e Coffin 2020 reduziram testes positivos em homens que fazem sexo com homens; útil pela melhora do sono e do apetite."}
+],
+"gabapentina": [
+ {"g": "Cannabis", "c": "Dependência de cannabis", "s": "o", "e": "C", "p": "A", "d": "1.200 mg/dia", "t": "Mason 2012 reduziu uso e sintomas de abstinência em ensaio pequeno."}
+],
+"clozapina": [
+ {"g": "Suicídio", "c": "Risco de suicídio persistente na esquizofrenia", "s": "a", "e": "A", "p": "1", "t": "InterSePT: redução de comportamento suicida em relação à olanzapina; a única medicação aprovada para essa finalidade."}
+],
+"esketamina": [
+ {"g": "Suicídio", "c": "Depressão com ideação suicida aguda", "s": "a", "e": "B", "p": "S", "t": "Reduz sintomas depressivos em 24 horas, mas não demonstrou reduzir o comportamento suicida em si; associar ao cuidado habitual e à internação quando indicada."}
+],
+"litio": [
+ {"g": "TPB (borderline)", "c": "Instabilidade afetiva e impulsividade no TPB", "s": "o", "e": "C", "p": "U", "t": "Ensaios antigos e pequenos; toxicidade em superdosagem desaconselha o uso em pacientes com tentativas frequentes."}
+],
+"olanzapina": [
+ {"g": "Impulsividade e agressividade", "c": "Agressividade em transtornos psicóticos", "s": "o", "e": "B", "p": "2", "t": "Menos eficaz que a clozapina contra agressividade persistente na esquizofrenia (Krakowski 2006)."}
+],
+"valproato": [
+ {"g": "Agitação na demência", "c": "Agitação na demência", "s": "o", "e": "A", "p": "X", "t": "Revisão Cochrane (2018) sem benefício e com mais efeitos adversos; não usar."}
+],
+"sertralina": [
+ {"g": "Depressão", "c": "Depressão com doença coronariana e insuficiência cardíaca", "s": "o", "e": "B", "p": "1", "t": "Segura no SADHART e no SADHART-CHF, embora a superioridade sobre placebo na insuficiência cardíaca não tenha sido demonstrada."}
+],
+"duloxetina": [
+ {"g": "Depressão", "c": "Depressão no idoso com dor", "s": "o", "e": "B", "p": "1", "t": "Ensaio em idosos com depressão recorrente mostrou melhora do humor e da dor (Raskin 2007)."}
+],
+"aripiprazol": [
+ {"g": "Depressão bipolar", "c": "Depressão bipolar", "s": "o", "e": "A", "p": "X", "t": "Dois ensaios de fase 3 negativos (Thase 2008); não usar como tratamento da depressão bipolar."}
+],
+"risperidona": [
+ {"g": "Esquizofrenia", "c": "Transtorno delirante", "s": "o", "e": "C", "p": "1", "t": "Evidência de séries de casos e estudos abertos para antipsicóticos em geral; adesão é o maior desafio. Doses baixas costumam bastar."}
+],
+"amissulprida": [
+ {"g": "Esquizofrenia", "c": "Primeiro episódio psicótico", "s": "o", "e": "A", "p": "1", "t": "No OPTiMiSE, cerca de dois terços dos pacientes em primeiro episódio que completaram 4 semanas de amissulprida remitiram; nos não remitidos, a troca para olanzapina trouxe pouco ganho, o que reforça avançar cedo para clozapina."}
+]
+}

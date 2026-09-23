@@ -1,0 +1,288 @@
+[
+{
+  "id": "venlafaxina",
+  "nome": "Venlafaxina",
+  "nomes_comerciais": ["Efexor XR", "Venlift OD", "Alenthus XR"],
+  "classe": "antidepressivos", "subclasse": "IRSN",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "baixo a moderado",
+  "relacionados": ["desvenlafaxina", "duloxetina"],
+  "apresentacoes": [
+    {"forma": "Cápsula de liberação prolongada (XR)", "doses": ["37,5 mg", "75 mg", "150 mg"], "aparencia": {"formato": "capsula", "cor": "pessego", "cor2": "pessego", "descricao": "Efexor XR: cápsulas opacas; 37,5 mg cinza e pêssego, 75 mg pêssego, 150 mg laranja-escuro. Genéricos variam."}},
+    {"forma": "Comprimido de liberação prolongada", "doses": ["37,5 mg", "75 mg", "150 mg"], "aparencia": {"formato": "redondo", "cor": "branco", "descricao": "Venlift OD e similares; forma e cor variam entre fabricantes."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Inibidor da recaptação de serotonina e noradrenalina com efeito dose-dependente: até cerca de 150 mg/dia age predominantemente como ISRS; acima de 150 a 225 mg/dia a inibição do NET torna-se relevante. Inibição fraca de DAT em doses muito altas.",
+    "resumo_curto": "IRSN dose-dependente: ISRS em dose baixa, dual acima de 150 mg.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "NET", "acao": "inibição", "intensidade": 2},
+      {"alvo": "DAT", "acao": "inibição", "intensidade": 1}
+    ],
+    "significado_clinico": ["Doses acima de 150 mg adicionam efeito noradrenérgico: útil em depressão grave e dor, com mais sudorese, taquicardia e hipertensão.", "Hipertensão arterial dose-dependente."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Boa (92%).",
+    "biodisponibilidade": "Cerca de 45% (primeira passagem).",
+    "alimentos": "Sem efeito; tomar com refeição reduz náuseas.",
+    "pico": "XR: 5,5 horas (venlafaxina) e 9 horas (desvenlafaxina).",
+    "ligacao_proteica": "27%.",
+    "metabolismo": "Hepático, pelo CYP2D6, a O-desmetilvenlafaxina (desvenlafaxina, ativa); menor parte pelo 3A4.",
+    "meia_vida": "5 horas (venlafaxina) e 11 horas (desvenlafaxina).",
+    "metabolitos_ativos": "O-desmetilvenlafaxina (desvenlafaxina), com potência semelhante.",
+    "excrecao": "Renal (87%).",
+    "equilibrio": "3 dias.",
+    "cyp": {"substrato": ["2D6"], "substrato_menor": ["3A4"], "inibe": {"2D6": "fraco"}, "nota": "Em metabolizadores lentos do CYP2D6 predomina a venlafaxina, com eficácia global semelhante."}
+  },
+  "perfil": {"sedacao": 1, "peso": 1, "sexual": 3, "anticolinergico": 0, "hipotensao": 0, "qt": 1, "serotoninergico": 3, "convulsao": 1, "sangramento": 2, "insonia": 2},
+  "interacoes": [
+    {"com": "IMAO, linezolida, azul de metileno", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Aguardar 7 dias após a venlafaxina para iniciar IMAO; 14 dias após o IMAO para iniciar venlafaxina."},
+    {"com": "Tramadol, triptanos, lítio, outros serotoninérgicos", "gravidade": "moderada", "efeito": "Toxicidade serotoninérgica.", "conduta": "Cautela e orientação."},
+    {"com": "Inibidores fortes do CYP2D6 (fluoxetina, paroxetina, bupropiona)", "gravidade": "leve", "efeito": "Aumento de venlafaxina e queda de desvenlafaxina, sem grande impacto clínico.", "conduta": "Observar tolerabilidade."},
+    {"com": "Clozapina, haloperidol, desipramina", "gravidade": "leve", "efeito": "Aumento discreto dos níveis por inibição fraca do CYP2D6.", "conduta": "Observar."},
+    {"com": "Anti-hipertensivos, simpaticomiméticos", "gravidade": "moderada", "efeito": "Venlafaxina eleva a PA e pode reduzir o efeito anti-hipertensivo.", "conduta": "Monitorar PA."},
+    {"com": "AINE, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior e prevenção de recaídas", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Transtorno de ansiedade generalizada", "grupo": "TAG", "status": "anvisa"},
+    {"condicao": "Fobia social", "grupo": "Fobia social", "status": "anvisa"},
+    {"condicao": "Transtorno de pânico", "grupo": "Transtorno de pânico", "status": "anvisa"},
+    {"condicao": "TEPT", "grupo": "TEPT", "status": "off_label"},
+    {"condicao": "Dor neuropática", "grupo": "Dor neuropática", "status": "off_label"},
+    {"condicao": "Sintomas vasomotores (inclusive em câncer de mama com tamoxifeno)", "grupo": "Sintomas vasomotores", "status": "off_label", "nota": "37,5 a 75 mg; não interfere com o tamoxifeno."},
+    {"condicao": "Cataplexia", "grupo": "Narcolepsia", "status": "off_label"},
+    {"condicao": "TDAH em adultos", "grupo": "TDAH", "status": "off_label", "nota": "Evidência fraca."}
+  ],
+  "prescricao": {
+    "dose_inicial": "37,5 a 75 mg/dia (XR). Em pânico: 37,5 mg por 1 semana.",
+    "faixa": "75 a 225 mg/dia.",
+    "dose_maxima": "225 mg/dia em ambulatório; até 375 mg/dia em depressão grave hospitalizada, com monitorização de PA.",
+    "titulacao": "Aumentos de 75 mg a cada 1 a 2 semanas (mínimo de 4 dias).",
+    "horario": "Dose única pela manhã, com alimento. Não abrir nem mastigar a cápsula.",
+    "latencia": "2 a 4 semanas; efeito dual acima de 150 mg.",
+    "duracao": "Como os demais antidepressivos.",
+    "monitoramento": ["Pressão arterial basal e a cada aumento, sobretudo acima de 150 mg.", "Sódio em idosos.", "Colesterol em uso prolongado (aumento discreto).", "Ideação suicida no início."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 37.5], [1, 75], [3, 150], [5, 225]], "faixa": [75, 225], "legenda": "Acima de 150 mg a inibição de noradrenalina torna-se clinicamente relevante."}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas", "Cefaleia", "Sudorese", "Boca seca", "Insônia", "Tontura", "Disfunção sexual"],
+    "comuns": ["Hipertensão arterial dose-dependente", "Taquicardia", "Constipação", "Nervosismo", "Tremor", "Anorexia", "Bocejos", "Visão turva", "Hiperidrose noturna"],
+    "raros_graves": ["Crise hipertensiva", "Síndrome serotoninérgica", "Hiponatremia", "Sangramento", "Convulsões", "Virada maníaca", "Glaucoma de ângulo fechado", "Arritmias em superdosagem"],
+    "conduta_imediata": ["PA sustentada acima de 160/100 mmHg: reduzir a dose ou suspender.", "Síndrome serotoninérgica."],
+    "manejo": [
+      {"efeito": "Náuseas", "conduta": "Iniciar com 37,5 mg e tomar com alimento; costumam ceder em 1 a 2 semanas."},
+      {"efeito": "Sudorese", "conduta": "Reduzir dose; em casos incômodos, oxibutinina 5 mg ou clonidina em dose baixa."},
+      {"efeito": "Hipertensão", "conduta": "Reduzir a dose ou trocar; tratar se o antidepressivo for indispensável."}
+    ]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Hipertensão não controlada."],
+  "precaucoes": ["Hipertensão, arritmias, doença coronariana.", "Glaucoma de ângulo fechado.", "Bipolaridade.", "Epilepsia."],
+  "populacoes": {
+    "gestacao": {"nivel": "aceitavel", "texto": "Dados sem aumento consistente de malformações; possível aumento de hipertensão gestacional e pré-eclâmpsia. Descontinuação neonatal."},
+    "lactacao": {"nivel": "cautela", "texto": "Venlafaxina e desvenlafaxina passam ao leite em quantidade moderada; observar sonolência e ganho de peso do lactente."},
+    "idosos": {"nivel": "cautela", "texto": "Hiponatremia e aumento de PA; iniciar com 37,5 mg."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem eficácia demonstrada; maior sinal de hostilidade e ideação suicida."},
+    "renal": {"nivel": "cautela", "texto": "Clearance 30 a 89 mL/min: reduzir a dose em 25 a 50%. Diálise ou clearance abaixo de 30: reduzir 50% ou mais."},
+    "hepatica": {"nivel": "cautela", "texto": "Insuficiência leve a moderada: reduzir 50%. Grave: 50% ou mais, com cautela."},
+    "cardiopatas": {"nivel": "cautela", "texto": "Efeito pressor e cronotrópico; controlar PA e FC. Maior toxicidade cardíaca em superdosagem que os ISRS."}
+  },
+  "suspensao": {
+    "risco": "Alto (meia-vida curta).",
+    "sintomas": "Tontura, parestesias em choque, náuseas, irritabilidade, sudorese, sintomas gripais; podem surgir em horas após uma dose esquecida.",
+    "reducao": "Reduzir 37,5 a 75 mg a cada 1 a 2 semanas; abaixo de 37,5 mg, considerar redução em semanas ou meses, ou trocar para fluoxetina 20 mg e depois suspender.",
+    "troca": "Para ISRS: reduzir gradualmente enquanto introduz. Para desvenlafaxina: troca direta (75 mg ≈ 50 mg)."
+  },
+  "superdosagem": {
+    "toxicidade": "Maior que a dos ISRS; menor que a dos tricíclicos.",
+    "quadro": "Sonolência, taquicardia, convulsões, prolongamento de QRS e QT, arritmias ventriculares, síndrome serotoninérgica, rabdomiólise.",
+    "conduta": "Suporte, carvão ativado, ECG contínuo, benzodiazepínico para convulsões, bicarbonato de sódio se QRS alargado."
+  },
+  "pratica": {
+    "perolas": ["Útil para sintomas vasomotores em mulheres em uso de tamoxifeno, pois não inibe o CYP2D6 de forma relevante.", "Em depressão com dor ou fadiga, doses acima de 150 mg aproveitam o efeito noradrenérgico.", "Pacientes com esquecimentos frequentes sentem descontinuação no dia seguinte: considere outra opção."],
+    "erros": ["Parar em 75 mg e concluir que o IRSN falhou.", "Não medir a PA ao subir a dose.", "Abrir a cápsula XR."]
+  },
+  "troca": {"tipo": "irsn", "washout_semanas": 1},
+  "fontes": ["Bula Efexor XR (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+},
+{
+  "id": "desvenlafaxina",
+  "nome": "Desvenlafaxina",
+  "nomes_comerciais": ["Pristiq"],
+  "classe": "antidepressivos", "subclasse": "IRSN",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "moderado",
+  "relacionados": ["venlafaxina"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido de liberação prolongada", "doses": ["50 mg", "100 mg"], "aparencia": {"formato": "losango", "cor": "rosa-claro", "descricao": "Pristiq 50 mg: comprimido rosa-claro, em forma de losango (quadrado com vértices arredondados); 100 mg laranja-avermelhado. Genéricos variam. Não partir."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Metabólito ativo da venlafaxina (O-desmetilvenlafaxina). Inibe SERT e NET com relação mais equilibrada que a venlafaxina (cerca de 10:1).",
+    "resumo_curto": "IRSN, metabólito da venlafaxina; sem metabolismo pelo CYP2D6.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "NET", "acao": "inibição", "intensidade": 3}
+    ],
+    "significado_clinico": ["Farmacocinética previsível: não depende do CYP2D6 e tem poucas interações.", "Curva dose-resposta plana: 50 mg é a dose eficaz para a maioria."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Boa.",
+    "biodisponibilidade": "80%.",
+    "alimentos": "Sem efeito.",
+    "pico": "7,5 horas.",
+    "ligacao_proteica": "30%.",
+    "metabolismo": "Principalmente conjugação (UGT); pequena fração por CYP3A4 (N-desmetilação).",
+    "meia_vida": "11 horas.",
+    "metabolitos_ativos": "Nenhum relevante.",
+    "excrecao": "Renal (45% inalterada).",
+    "equilibrio": "4 a 5 dias.",
+    "cyp": {"substrato": ["UGT"], "substrato_menor": ["3A4"], "inibe": {}, "nota": "Não inibe o CYP2D6 de forma relevante."}
+  },
+  "perfil": {"sedacao": 1, "peso": 1, "sexual": 2, "anticolinergico": 0, "hipotensao": 0, "qt": 1, "serotoninergico": 3, "convulsao": 1, "sangramento": 2, "insonia": 2},
+  "interacoes": [
+    {"com": "IMAO, linezolida, azul de metileno", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Aguardar 7 dias após a desvenlafaxina para iniciar IMAO; 14 dias no sentido inverso."},
+    {"com": "Outros serotoninérgicos (tramadol, triptanos, lítio)", "gravidade": "moderada", "efeito": "Toxicidade serotoninérgica.", "conduta": "Cautela."},
+    {"com": "Inibidores fortes do CYP3A4 (cetoconazol)", "gravidade": "leve", "efeito": "Aumento discreto.", "conduta": "Observar."},
+    {"com": "AINE, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Sintomas vasomotores da menopausa", "grupo": "Sintomas vasomotores", "status": "off_label"},
+    {"condicao": "TAG, dor neuropática", "grupo": "Transtornos de ansiedade", "status": "off_label", "nota": "Extrapolação a partir da venlafaxina."}
+  ],
+  "prescricao": {
+    "dose_inicial": "50 mg/dia.",
+    "faixa": "50 a 100 mg/dia.",
+    "dose_maxima": "200 mg/dia (sem benefício consistente acima de 50 a 100 mg).",
+    "titulacao": "Pode-se aumentar para 100 mg após 2 a 4 semanas, se resposta parcial.",
+    "horario": "Dose única, qualquer horário, com ou sem alimento. Não partir nem mastigar.",
+    "latencia": "2 a 4 semanas.",
+    "duracao": "Como os demais antidepressivos.",
+    "monitoramento": ["Pressão arterial.", "Lipídios em uso prolongado.", "Sódio em idosos."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 50], [4, 100]], "faixa": [50, 100]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas", "Tontura", "Sudorese", "Insônia", "Boca seca"],
+    "comuns": ["Constipação", "Disfunção sexual", "Fadiga", "Tremor", "Aumento de PA", "Ansiedade", "Visão turva", "Aumento de colesterol"],
+    "raros_graves": ["Crise hipertensiva", "Síndrome serotoninérgica", "Hiponatremia", "Sangramento", "Convulsões", "Doença pulmonar intersticial (rara)"],
+    "conduta_imediata": ["Hipertensão sustentada.", "Síndrome serotoninérgica."],
+    "manejo": [{"efeito": "Náuseas", "conduta": "Tomar com alimento; transitórias."}, {"efeito": "Sudorese", "conduta": "Como na venlafaxina."}]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Hipersensibilidade à venlafaxina ou desvenlafaxina."],
+  "precaucoes": ["Hipertensão.", "Glaucoma de ângulo fechado.", "Bipolaridade.", "Insuficiência renal."],
+  "populacoes": {
+    "gestacao": {"nivel": "cautela", "texto": "Dados menores que os da venlafaxina."},
+    "lactacao": {"nivel": "cautela", "texto": "Passa ao leite (é o principal composto encontrado no lactente de mães em venlafaxina)."},
+    "idosos": {"nivel": "aceitavel", "texto": "Poucas interações; ajustar pela função renal; vigiar PA e sódio."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem eficácia demonstrada em ensaios pediátricos."},
+    "renal": {"nivel": "cautela", "texto": "Clearance 30 a 50 mL/min: máximo de 50 mg/dia. Abaixo de 30 ou diálise: 25 mg/dia ou 50 mg em dias alternados."},
+    "hepatica": {"nivel": "aceitavel", "texto": "Moderada a grave: 50 mg/dia; não exceder 100 mg."},
+    "cardiopatas": {"nivel": "cautela", "texto": "Efeito pressor; controlar PA."}
+  },
+  "suspensao": {"risco": "Alto.", "sintomas": "Semelhantes aos da venlafaxina.", "reducao": "Reduzir de 100 para 50 mg; depois 50 mg em dias alternados por 1 a 2 semanas, ou 25 mg (apresentações disponíveis no exterior). Em sintomas intensos, trocar para fluoxetina 20 mg antes de suspender.", "troca": "Venlafaxina ↔ desvenlafaxina: troca direta (75 mg ≈ 50 mg)."},
+  "superdosagem": {"toxicidade": "Moderada.", "quadro": "Semelhante à venlafaxina: taquicardia, sonolência, convulsões, arritmias em doses altas.", "conduta": "Suporte e ECG."},
+  "pratica": {
+    "perolas": ["Boa escolha em polifarmácia e em metabolizadores extremos do CYP2D6.", "O comprimido pode aparecer íntegro nas fezes (matriz vazia); o fármaco foi absorvido."],
+    "erros": ["Subir para 200 mg esperando mais eficácia (curva plana, mais efeitos adversos).", "Não ajustar na insuficiência renal."]
+  },
+  "troca": {"tipo": "irsn", "washout_semanas": 1},
+  "fontes": ["Bula Pristiq (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+},
+{
+  "id": "duloxetina",
+  "nome": "Duloxetina",
+  "nomes_comerciais": ["Cymbalta", "Velija"],
+  "classe": "antidepressivos", "subclasse": "IRSN",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "moderado",
+  "relacionados": ["venlafaxina", "amitriptilina"],
+  "apresentacoes": [
+    {"forma": "Cápsula de liberação retardada (grânulos gastrorresistentes)", "doses": ["30 mg", "60 mg"], "aparencia": {"formato": "capsula", "cor": "azul-escuro", "cor2": "branco", "descricao": "Cymbalta 30 mg: tampa azul-escura e corpo branco; 60 mg: tampa azul e corpo verde. Genéricos variam. Não abrir."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Inibidor equilibrado da recaptação de serotonina e noradrenalina desde doses baixas (relação cerca de 10:1, mais noradrenérgica que a venlafaxina em dose equivalente). A ação noradrenérgica nas vias descendentes inibitórias da dor explica a eficácia em dor neuropática e fibromialgia.",
+    "resumo_curto": "IRSN equilibrado; analgésico em dor crônica; inibidor moderado do CYP2D6.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "NET", "acao": "inibição", "intensidade": 3},
+      {"alvo": "DAT", "acao": "inibição", "intensidade": 1}
+    ],
+    "significado_clinico": ["Eficácia em dor neuropática diabética, fibromialgia, dor musculoesquelética crônica e dor da osteoartrite.", "Incontinência urinária de esforço (aumento do tônus esfincteriano)."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Iniciada após 2 horas (revestimento gastrorresistente).",
+    "biodisponibilidade": "30 a 80% (média 50%).",
+    "alimentos": "Retardam o pico em 6 a 10 horas, sem alterar a extensão.",
+    "pico": "6 horas.",
+    "ligacao_proteica": "Acima de 90%.",
+    "metabolismo": "Hepático, por CYP1A2 e CYP2D6, a metabólitos inativos.",
+    "meia_vida": "12 horas.",
+    "metabolitos_ativos": "Nenhum.",
+    "excrecao": "Renal (70%) e fecal.",
+    "equilibrio": "3 dias.",
+    "cyp": {"substrato": ["1A2", "2D6"], "inibe": {"2D6": "moderado"}, "nota": "Tabagismo reduz os níveis em cerca de 30% (indução do CYP1A2)."}
+  },
+  "perfil": {"sedacao": 1, "peso": 1, "sexual": 2, "anticolinergico": 0, "hipotensao": 0, "qt": 0, "serotoninergico": 3, "convulsao": 1, "sangramento": 2, "insonia": 1},
+  "interacoes": [
+    {"com": "IMAO, linezolida, azul de metileno", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Aguardar 5 dias após a duloxetina para iniciar IMAO; 14 dias no sentido inverso."},
+    {"com": "Fluvoxamina, ciprofloxacino, enoxacino (inibidores fortes do CYP1A2)", "gravidade": "contraindicada", "efeito": "Aumento de cerca de 5 vezes nos níveis de duloxetina.", "conduta": "Não associar."},
+    {"com": "Tioridazina", "gravidade": "contraindicada", "efeito": "Aumento de níveis e de QT (CYP2D6).", "conduta": "Não associar."},
+    {"com": "Tricíclicos, flecainida, propafenona, metoprolol", "gravidade": "moderada", "efeito": "Aumento dos níveis (inibição moderada do CYP2D6).", "conduta": "Reduzir doses; nível sérico de tricíclico."},
+    {"com": "Álcool em excesso", "gravidade": "grave", "efeito": "Risco de hepatotoxicidade.", "conduta": "Evitar em uso nocivo de álcool."},
+    {"com": "Tramadol, triptanos", "gravidade": "moderada", "efeito": "Síndrome serotoninérgica; tramadol também reduz limiar convulsivo.", "conduta": "Cautela."},
+    {"com": "AINE, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Transtorno de ansiedade generalizada", "grupo": "TAG", "status": "anvisa"},
+    {"condicao": "Dor neuropática periférica diabética", "grupo": "Dor neuropática", "status": "anvisa"},
+    {"condicao": "Fibromialgia", "grupo": "Fibromialgia", "status": "anvisa"},
+    {"condicao": "Dor lombar crônica e dor da osteoartrite", "grupo": "Dor crônica", "status": "anvisa"},
+    {"condicao": "Incontinência urinária de esforço", "grupo": "Incontinência urinária", "status": "off_label", "nota": "Aprovada na Europa."},
+    {"condicao": "Neuropatia induzida por quimioterapia", "grupo": "Dor neuropática", "status": "off_label", "nota": "Recomendada pela ASCO."}
+  ],
+  "prescricao": {
+    "dose_inicial": "30 mg/dia por 1 semana, depois 60 mg/dia.",
+    "faixa": "60 mg/dia (dor e depressão); 60 a 120 mg/dia.",
+    "dose_maxima": "120 mg/dia.",
+    "titulacao": "30 mg → 60 mg em 1 semana; aumento para 90 a 120 mg após 4 semanas se resposta parcial (evidência limitada de ganho).",
+    "horario": "Manhã, com alimento. Engolir inteira.",
+    "latencia": "Dor: 1 a 2 semanas; depressão: 2 a 4 semanas.",
+    "duracao": "Como os demais antidepressivos; na dor, reavaliar após 3 meses.",
+    "monitoramento": ["Enzimas hepáticas se hepatopatia ou uso de álcool.", "Pressão arterial.", "Glicemia em diabéticos (aumento discreto)."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 30], [1, 60], [5, 90], [7, 120]], "faixa": [60, 120]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas", "Boca seca", "Sonolência", "Cefaleia", "Tontura"],
+    "comuns": ["Constipação", "Fadiga", "Sudorese", "Insônia", "Disfunção sexual", "Redução de apetite", "Aumento discreto de PA", "Tremor"],
+    "raros_graves": ["Hepatotoxicidade", "Síndrome serotoninérgica", "Hiponatremia", "Sangramento", "Retenção urinária", "Stevens-Johnson (raro)", "Virada maníaca"],
+    "conduta_imediata": ["Icterícia, colúria ou dor em hipocôndrio direito: suspender e dosar transaminases."],
+    "manejo": [{"efeito": "Náuseas", "conduta": "Iniciar com 30 mg após refeição."}, {"efeito": "Constipação", "conduta": "Fibras, hidratação, laxativo osmótico."}]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Hepatopatia ou uso nocivo de álcool.", "Insuficiência renal grave (clearance abaixo de 30 mL/min).", "Glaucoma de ângulo fechado não controlado.", "Uso de fluvoxamina ou quinolonas inibidoras do CYP1A2."],
+  "precaucoes": ["Hipertensão.", "Bipolaridade.", "Epilepsia.", "Retenção urinária."],
+  "populacoes": {
+    "gestacao": {"nivel": "cautela", "texto": "Dados moderados sem aumento consistente de malformações; possível aumento de hemorragia pós-parto."},
+    "lactacao": {"nivel": "aceitavel", "texto": "Baixa passagem para o lactente."},
+    "idosos": {"nivel": "aceitavel", "texto": "Útil em depressão com dor; vigiar quedas, sódio e PA."},
+    "pediatria": {"nivel": "cautela", "texto": "Aprovada pela FDA para TAG a partir de 7 anos e fibromialgia a partir de 13 anos."},
+    "renal": {"nivel": "contraindicado", "texto": "Evitar com clearance abaixo de 30 mL/min."},
+    "hepatica": {"nivel": "contraindicado", "texto": "Evitar em qualquer insuficiência hepática."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Sem efeito relevante no QT; aumento discreto de PA e FC."}
+  },
+  "suspensao": {"risco": "Moderado a alto.", "sintomas": "Tontura, náuseas, cefaleia, parestesias, irritabilidade, pesadelos.", "reducao": "Reduzir para 30 mg por 1 a 2 semanas antes de suspender; em sintomas, contar grânulos (sob orientação) ou trocar para fluoxetina.", "troca": "Direta ou cruzada rápida com ISRS e IRSN; cautela com tricíclicos pela inibição do CYP2D6."},
+  "superdosagem": {"toxicidade": "Baixa a moderada.", "quadro": "Sonolência, vômitos, convulsões, síndrome serotoninérgica, taquicardia.", "conduta": "Suporte, carvão ativado, ECG."},
+  "pratica": {
+    "perolas": ["Primeira escolha quando depressão e dor crônica coexistem.", "Fumantes podem precisar de dose maior; ao parar de fumar, os níveis sobem."],
+    "erros": ["Prescrever a pacientes com consumo pesado de álcool.", "Abrir a cápsula (perde a proteção gástrica)."]
+  },
+  "troca": {"tipo": "irsn", "washout_semanas": 1},
+  "fontes": ["Bula Cymbalta (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+}
+]

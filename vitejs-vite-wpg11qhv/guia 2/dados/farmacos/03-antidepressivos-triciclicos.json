@@ -1,0 +1,1445 @@
+[
+ {
+  "id": "amitriptilina",
+  "nome": "Amitriptilina",
+  "nomes_comerciais": [
+   "Amytril",
+   "Tryptanol",
+   "Neo Amitriptilin"
+  ],
+  "classe": "antidepressivos",
+  "subclasse": "Tricíclico",
+  "comercializacao": "disponivel",
+  "receita": "C1",
+  "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": "Componente Básico",
+  "sus": "Disponível na atenção básica (comprimido de 25 mg).",
+  "custo": "muito baixo",
+  "marcadores": [
+   "janela_estreita"
+  ],
+  "relacionados": [
+   "nortriptilina",
+   "duloxetina"
+  ],
+  "apresentacoes": [
+   {
+    "forma": "Comprimido revestido",
+    "doses": [
+     "10 mg",
+     "25 mg",
+     "50 mg",
+     "75 mg"
+    ],
+    "aparencia": {
+     "formato": "redondo",
+     "descricao": "Forma e cor variam entre fabricantes e doses."
+    }
+   }
+  ],
+  "diagrama": {
+   "nt": "5-HT e noradrenalina",
+   "alvos": [
+    {
+     "alvo": "SERT",
+     "efeito": "bloqueio",
+     "local": "pre"
+    },
+    {
+     "alvo": "NET",
+     "efeito": "bloqueio",
+     "local": "pre"
+    },
+    {
+     "alvo": "H1",
+     "efeito": "antagonismo",
+     "local": "pos"
+    },
+    {
+     "alvo": "M1",
+     "efeito": "antagonismo",
+     "local": "pos"
+    },
+    {
+     "alvo": "α1",
+     "efeito": "antagonismo",
+     "local": "pos"
+    },
+    {
+     "alvo": "Canal Na+",
+     "efeito": "bloqueio",
+     "local": "pos"
+    }
+   ],
+   "legenda": "Tricíclico terciário: bloqueio de SERT e NET (efeito antidepressivo e analgésico) e de H1, M1, α1 e canais de sódio (sedação, efeitos anticolinérgicos, hipotensão e cardiotoxicidade)."
+  },
+  "farmacodinamica": {
+   "resumo": "Tricíclico de amina terciária: inibe a recaptação de serotonina e noradrenalina (esta sobretudo pelo metabólito nortriptilina) e bloqueia receptores H1, M1, α1, 5-HT2A e 5-HT2C, além de canais de sódio voltagem-dependentes. O bloqueio de canais de sódio contribui para o efeito analgésico e para a cardiotoxicidade.",
+   "resumo_curto": "Tricíclico terciário; muito sedativo e anticolinérgico; analgésico em dose baixa.",
+   "afinidade": [
+    {
+     "alvo": "H1",
+     "acao": "antagonismo",
+     "intensidade": 4
+    },
+    {
+     "alvo": "SERT",
+     "acao": "inibição",
+     "intensidade": 3
+    },
+    {
+     "alvo": "NET",
+     "acao": "inibição",
+     "intensidade": 3
+    },
+    {
+     "alvo": "M1",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "α1",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "5-HT2A",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "5-HT2C",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "Canal Na+",
+     "acao": "bloqueio",
+     "intensidade": 2
+    }
+   ],
+   "significado_clinico": [
+    "Em doses de 10 a 50 mg, o efeito anti-H1 e analgésico predomina (insônia, dor, cefaleia).",
+    "Efeito antidepressivo exige 100 a 200 mg/dia ou nível sérico adequado."
+   ]
+  },
+  "farmacocinetica": {
+   "absorcao": "Completa.",
+   "biodisponibilidade": "30 a 60% (primeira passagem).",
+   "alimentos": "Sem efeito relevante.",
+   "pico": "2 a 12 horas.",
+   "ligacao_proteica": "95%.",
+   "metabolismo": "Hepático: desmetilação a nortriptilina (CYP2C19, 1A2, 3A4) e hidroxilação (CYP2D6).",
+   "meia_vida": "10 a 28 horas (nortriptilina 18 a 44 horas).",
+   "metabolitos_ativos": "Nortriptilina (noradrenérgica).",
+   "excrecao": "Renal.",
+   "equilibrio": "4 a 7 dias.",
+   "nivel_serico": "Amitriptilina + nortriptilina: 80 a 200 ng/mL (AGNP). Acima de 300 ng/mL: toxicidade.",
+   "cyp": {
+    "substrato": [
+     "2C19",
+     "2D6"
+    ],
+    "substrato_menor": [
+     "1A2",
+     "3A4"
+    ],
+    "inibe": {},
+    "nota": "Metabolizadores lentos do CYP2D6 ou uso de inibidores (fluoxetina, paroxetina, bupropiona) elevam muito os níveis (orientação CPIC)."
+   }
+  },
+  "perfil": {
+   "sedacao": 3,
+   "peso": 3,
+   "sexual": 2,
+   "anticolinergico": 3,
+   "hipotensao": 3,
+   "qt": 2,
+   "serotoninergico": 2,
+   "convulsao": 2,
+   "sangramento": 1,
+   "metabolico": 1
+  },
+  "interacoes": [
+   {
+    "com": "IMAO",
+    "gravidade": "contraindicada",
+    "efeito": "Síndrome serotoninérgica e crise hipertensiva.",
+    "conduta": "Intervalo de 14 dias."
+   },
+   {
+    "com": "Inibidores do CYP2D6 (fluoxetina, paroxetina, bupropiona, duloxetina)",
+    "gravidade": "grave",
+    "efeito": "Aumento de 2 a 5 vezes dos níveis: cardiotoxicidade, delirium, convulsões.",
+    "conduta": "Doses baixas e nível sérico."
+   },
+   {
+    "com": "Fármacos que prolongam QT e antiarrítmicos classe I",
+    "gravidade": "grave",
+    "efeito": "Arritmias.",
+    "conduta": "Evitar; ECG."
+   },
+   {
+    "com": "Anticolinérgicos (biperideno, antipsicóticos de baixa potência, anti-histamínicos)",
+    "gravidade": "moderada",
+    "efeito": "Delirium, íleo, retenção urinária.",
+    "conduta": "Evitar em idosos."
+   },
+   {
+    "com": "Álcool, benzodiazepínicos, opioides",
+    "gravidade": "moderada",
+    "efeito": "Depressão do SNC.",
+    "conduta": "Orientar."
+   },
+   {
+    "com": "Clonidina, guanetidina",
+    "gravidade": "moderada",
+    "efeito": "Redução do efeito anti-hipertensivo.",
+    "conduta": "Monitorar PA."
+   },
+   {
+    "com": "Tramadol, triptanos",
+    "gravidade": "moderada",
+    "efeito": "Síndrome serotoninérgica e convulsões.",
+    "conduta": "Cautela."
+   },
+   {
+    "com": "Carbamazepina, tabagismo",
+    "gravidade": "moderada",
+    "efeito": "Redução dos níveis por indução.",
+    "conduta": "Ajustar pela clínica e nível sérico."
+   }
+  ],
+  "indicacoes": [
+   {
+    "condicao": "Depressão",
+    "grupo": "Depressão",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Enurese noturna",
+    "grupo": "Enurese",
+    "status": "anvisa",
+    "nota": "Após exclusão de causa orgânica; hoje segunda linha."
+   },
+   {
+    "condicao": "Dor neuropática",
+    "grupo": "Dor neuropática",
+    "status": "off_label",
+    "nota": "Primeira linha em diretrizes (NeuPSIG)."
+   },
+   {
+    "condicao": "Fibromialgia",
+    "grupo": "Fibromialgia",
+    "status": "off_label"
+   },
+   {
+    "condicao": "Profilaxia de enxaqueca e cefaleia tensional crônica",
+    "grupo": "Cefaleia",
+    "status": "off_label"
+   },
+   {
+    "condicao": "Síndrome do intestino irritável",
+    "grupo": "Dor crônica",
+    "status": "off_label"
+   },
+   {
+    "condicao": "Insônia",
+    "grupo": "Insônia",
+    "status": "off_label",
+    "nota": "Evitar em idosos; preferir alternativas."
+   }
+  ],
+  "prescricao": {
+   "dose_inicial": "Depressão: 25 mg à noite. Dor e cefaleia: 10 mg à noite.",
+   "faixa": "Depressão: 100 a 200 mg/dia. Dor: 10 a 75 mg/dia.",
+   "dose_maxima": "300 mg/dia (pacientes internados, com nível sérico e ECG).",
+   "titulacao": "Aumentos de 25 mg a cada 3 a 7 dias. Na dor, 10 mg a cada semana.",
+   "horario": "Dose única à noite.",
+   "latencia": "Depressão: 2 a 4 semanas em dose adequada. Dor: 1 a 2 semanas.",
+   "duracao": "Como os demais antidepressivos.",
+   "monitoramento": [
+    "ECG basal acima de 40 anos ou com cardiopatia, e após atingir dose plena.",
+    "Nível sérico se resposta insuficiente, toxicidade ou interação.",
+    "PA em ortostase.",
+    "Peso e glicemia."
+   ],
+   "esquema": {
+    "unidade_tempo": "semana",
+    "unidade_dose": "mg/dia",
+    "pontos": [
+     [
+      0,
+      25
+     ],
+     [
+      1,
+      50
+     ],
+     [
+      2,
+      75
+     ],
+     [
+      3,
+      100
+     ],
+     [
+      4,
+      150
+     ]
+    ],
+    "faixa": [
+     100,
+     200
+    ],
+    "legenda": "Titulação para depressão; em dor, a maioria responde entre 10 e 75 mg."
+   }
+  },
+  "efeitos_adversos": {
+   "muito_comuns": [
+    "Sonolência",
+    "Boca seca",
+    "Constipação",
+    "Ganho de peso",
+    "Tontura e hipotensão ortostática",
+    "Visão turva"
+   ],
+   "comuns": [
+    "Taquicardia",
+    "Retenção urinária",
+    "Sudorese",
+    "Disfunção sexual",
+    "Tremor",
+    "Confusão em idosos",
+    "Alterações de ECG (PR, QRS, QT)"
+   ],
+   "raros_graves": [
+    "Arritmias e bloqueios de condução",
+    "Delirium anticolinérgico",
+    "Íleo paralítico",
+    "Convulsões",
+    "Glaucoma de ângulo fechado",
+    "Hiponatremia",
+    "Virada maníaca",
+    "Agranulocitose (rara)"
+   ],
+   "conduta_imediata": [
+    "QRS acima de 100 ms, síncope ou palpitações: suspender e investigar.",
+    "Confusão aguda, febre e pele seca: delirium anticolinérgico.",
+    "Dor ocular: glaucoma agudo."
+   ],
+   "manejo": [
+    {
+     "efeito": "Boca seca",
+     "conduta": "Saliva artificial, goma sem açúcar; evitar balas açucaradas (cáries)."
+    },
+    {
+     "efeito": "Constipação",
+     "conduta": "Fibras, hidratação, laxativo osmótico."
+    },
+    {
+     "efeito": "Hipotensão ortostática",
+     "conduta": "Titular devagar, levantar em etapas, hidratação."
+    },
+    {
+     "efeito": "Sonolência diurna",
+     "conduta": "Dose única mais cedo à noite ou redução."
+    }
+   ]
+  },
+  "contraindicacoes": [
+   "Infarto agudo do miocárdio recente (fase de recuperação).",
+   "Bloqueios de ramo ou atrioventriculares, arritmias.",
+   "IMAO nos últimos 14 dias.",
+   "Glaucoma de ângulo fechado não tratado.",
+   "Retenção urinária, hiperplasia prostática com retenção."
+  ],
+  "precaucoes": [
+   "Idosos.",
+   "Epilepsia.",
+   "Risco de suicídio (letalidade em superdosagem).",
+   "Hipertireoidismo.",
+   "Bipolaridade."
+  ],
+  "populacoes": {
+   "gestacao": {
+    "nivel": "aceitavel",
+    "texto": "Longa experiência sem teratogenicidade clara. Retirada neonatal e efeitos anticolinérgicos no recém-nascido."
+   },
+   "lactacao": {
+    "nivel": "aceitavel",
+    "texto": "Níveis baixos no lactente; nortriptilina é preferível entre os tricíclicos."
+   },
+   "idosos": {
+    "nivel": "evitar",
+    "texto": "Critérios de Beers: anticolinérgico, sedativo, hipotensor. Preferir nortriptilina se tricíclico for necessário."
+   },
+   "pediatria": {
+    "nivel": "evitar",
+    "texto": "Sem eficácia na depressão infantil; cardiotoxicidade. Uso restrito à enurese e dor sob supervisão."
+   },
+   "renal": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste habitual; cautela com metabólitos."
+   },
+   "hepatica": {
+    "nivel": "cautela",
+    "texto": "Doses menores e titulação lenta."
+   },
+   "cardiopatas": {
+    "nivel": "contraindicado",
+    "texto": "Evitar em doença coronariana, pós-infarto, arritmias e insuficiência cardíaca."
+   }
+  },
+  "suspensao": {
+   "risco": "Moderado.",
+   "sintomas": "Rebote colinérgico: náuseas, sudorese, diarreia, mal-estar, cefaleia, insônia, sonhos vívidos.",
+   "reducao": "Reduzir 25 mg a cada 1 a 2 semanas; em doses baixas (dor), 10 mg por semana.",
+   "troca": "Cross-titration; cautela com inibidores do CYP2D6 no destino. Para IMAO, intervalo de 2 semanas."
+  },
+  "superdosagem": {
+   "toxicidade": "Alta: 10 a 20 mg/kg pode ser fatal (em adulto, a partir de cerca de 1 a 1,5 g).",
+   "quadro": "Síndrome anticolinérgica (midríase, pele seca, hipertermia, retenção, taquicardia), coma, convulsões, hipotensão, QRS alargado (acima de 100 ms prediz convulsões; acima de 160 ms, arritmias ventriculares), R terminal em aVR.",
+   "conduta": "Emergência: via aérea, carvão ativado se até 1 a 2 horas, ECG contínuo, bicarbonato de sódio 1 a 2 mEq/kg se QRS acima de 100 ms ou arritmia (pH alvo 7,45 a 7,55), benzodiazepínico para convulsões. Evitar flumazenil e fisostigmina. Antiarrítmicos classe IA e IC contraindicados."
+  },
+  "pratica": {
+   "perolas": [
+    "Excelente em dor crônica e cefaleia em doses baixas, onde a toxicidade é pequena.",
+    "Em pacientes com risco de suicídio, prescrever quantidades pequenas ou preferir antidepressivo seguro em superdosagem."
+   ],
+   "erros": [
+    "Considerar 25 a 50 mg como dose antidepressiva adequada.",
+    "Prescrever para idosos com demência ou prostatismo.",
+    "Associar a fluoxetina ou paroxetina sem ajuste."
+   ]
+  },
+  "troca": {
+   "tipo": "atc",
+   "washout_semanas": 2
+  },
+  "fontes": [
+   "Bula Amytril (Anvisa)",
+   "Hiemke C et al. Consenso AGNP 2017",
+   "CPIC Guideline for TCAs 2016",
+   "Maudsley Prescribing Guidelines 15ª ed.",
+   "Critérios de Beers AGS 2023"
+  ]
+ },
+ {
+  "id": "nortriptilina",
+  "nome": "Nortriptilina",
+  "nomes_comerciais": [
+   "Pamelor"
+  ],
+  "classe": "antidepressivos",
+  "subclasse": "Tricíclico",
+  "comercializacao": "disponivel",
+  "receita": "C1",
+  "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": "Componente Básico",
+  "sus": "Disponível na atenção básica (cápsula de 25 mg).",
+  "custo": "baixo",
+  "marcadores": [
+   "janela_estreita"
+  ],
+  "relacionados": [
+   "amitriptilina",
+   "bupropiona"
+  ],
+  "apresentacoes": [
+   {
+    "forma": "Cápsula",
+    "doses": [
+     "10 mg",
+     "25 mg",
+     "50 mg",
+     "75 mg"
+    ],
+    "aparencia": {
+     "formato": "capsula",
+     "descricao": "Cores variam por dose e fabricante."
+    }
+   },
+   {
+    "forma": "Solução oral",
+    "doses": [
+     "2 mg/mL"
+    ],
+    "aparencia": {
+     "formato": "solucao",
+     "cor": "incolor"
+    }
+   }
+  ],
+  "farmacodinamica": {
+   "resumo": "Tricíclico de amina secundária (metabólito da amitriptilina), predominantemente inibidor da recaptação de noradrenalina, com ação serotoninérgica menor e menor afinidade por H1, M1 e α1 que as aminas terciárias.",
+   "resumo_curto": "Tricíclico secundário noradrenérgico; o mais tolerado da classe; nível sérico com janela terapêutica.",
+   "afinidade": [
+    {
+     "alvo": "NET",
+     "acao": "inibição",
+     "intensidade": 4
+    },
+    {
+     "alvo": "SERT",
+     "acao": "inibição",
+     "intensidade": 2
+    },
+    {
+     "alvo": "H1",
+     "acao": "antagonismo",
+     "intensidade": 2
+    },
+    {
+     "alvo": "M1",
+     "acao": "antagonismo",
+     "intensidade": 2
+    },
+    {
+     "alvo": "α1",
+     "acao": "antagonismo",
+     "intensidade": 2
+    },
+    {
+     "alvo": "Canal Na+",
+     "acao": "bloqueio",
+     "intensidade": 2
+    }
+   ],
+   "significado_clinico": [
+    "Menos hipotensão ortostática que outros tricíclicos: preferível em idosos quando um tricíclico é indicado.",
+    "Janela terapêutica: níveis acima de 150 a 170 ng/mL podem perder eficácia."
+   ]
+  },
+  "farmacocinetica": {
+   "absorcao": "Completa.",
+   "biodisponibilidade": "46 a 59%.",
+   "alimentos": "Sem efeito.",
+   "pico": "7 a 8,5 horas.",
+   "ligacao_proteica": "92%.",
+   "metabolismo": "Hepático, pelo CYP2D6 (10-hidroxinortriptilina).",
+   "meia_vida": "18 a 44 horas.",
+   "metabolitos_ativos": "10-hidroxinortriptilina (fraca).",
+   "excrecao": "Renal.",
+   "equilibrio": "4 a 19 dias.",
+   "nivel_serico": "70 a 170 ng/mL (AGNP); janela terapêutica (curva em U invertido).",
+   "cyp": {
+    "substrato": [
+     "2D6"
+    ],
+    "substrato_menor": [
+     "1A2",
+     "2C19"
+    ],
+    "inibe": {}
+   }
+  },
+  "perfil": {
+   "sedacao": 2,
+   "peso": 2,
+   "sexual": 1,
+   "anticolinergico": 2,
+   "hipotensao": 1,
+   "qt": 2,
+   "serotoninergico": 1,
+   "convulsao": 2,
+   "sangramento": 0
+  },
+  "interacoes": [
+   {
+    "com": "IMAO",
+    "gravidade": "contraindicada",
+    "efeito": "Crise hipertensiva e síndrome serotoninérgica.",
+    "conduta": "Intervalo de 14 dias."
+   },
+   {
+    "com": "Inibidores do CYP2D6 (fluoxetina, paroxetina, bupropiona, duloxetina, terbinafina)",
+    "gravidade": "grave",
+    "efeito": "Níveis sobem 2 a 5 vezes.",
+    "conduta": "Reduzir a dose e dosar nível sérico."
+   },
+   {
+    "com": "Fármacos que prolongam QT, antiarrítmicos",
+    "gravidade": "grave",
+    "efeito": "Arritmias.",
+    "conduta": "ECG."
+   },
+   {
+    "com": "Anticolinérgicos",
+    "gravidade": "moderada",
+    "efeito": "Carga anticolinérgica.",
+    "conduta": "Evitar em idosos."
+   },
+   {
+    "com": "Álcool e depressores do SNC",
+    "gravidade": "moderada",
+    "efeito": "Sedação.",
+    "conduta": "Orientar."
+   }
+  ],
+  "indicacoes": [
+   {
+    "condicao": "Depressão",
+    "grupo": "Depressão",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Cessação do tabagismo",
+    "grupo": "Tabagismo",
+    "status": "off_label",
+    "nota": "Eficácia semelhante à bupropiona em metanálises (Cochrane); 75 a 100 mg/dia."
+   },
+   {
+    "condicao": "Dor neuropática",
+    "grupo": "Dor neuropática",
+    "status": "off_label",
+    "nota": "Melhor tolerada que a amitriptilina."
+   },
+   {
+    "condicao": "Profilaxia de enxaqueca",
+    "grupo": "Cefaleia",
+    "status": "off_label"
+   },
+   {
+    "condicao": "Depressão pós-AVC",
+    "grupo": "Depressão",
+    "status": "off_label"
+   }
+  ],
+  "prescricao": {
+   "dose_inicial": "25 mg à noite (10 mg em idosos).",
+   "faixa": "75 a 150 mg/dia (idosos: 30 a 75 mg), guiada por nível sérico.",
+   "dose_maxima": "150 mg/dia.",
+   "titulacao": "Aumentos de 25 mg a cada 3 a 7 dias.",
+   "horario": "Noite, dose única.",
+   "latencia": "2 a 4 semanas.",
+   "duracao": "Como os demais. No tabagismo: 12 semanas, iniciando 10 a 28 dias antes da data de parada.",
+   "monitoramento": [
+    "Nível sérico após 1 semana em dose estável.",
+    "ECG basal e em dose plena.",
+    "PA em ortostase."
+   ],
+   "esquema": {
+    "unidade_tempo": "semana",
+    "unidade_dose": "mg/dia",
+    "pontos": [
+     [
+      0,
+      25
+     ],
+     [
+      1,
+      50
+     ],
+     [
+      2,
+      75
+     ],
+     [
+      4,
+      100
+     ]
+    ],
+    "faixa": [
+     75,
+     150
+    ]
+   }
+  },
+  "efeitos_adversos": {
+   "muito_comuns": [
+    "Boca seca",
+    "Constipação",
+    "Sonolência"
+   ],
+   "comuns": [
+    "Tontura",
+    "Taquicardia",
+    "Visão turva",
+    "Sudorese",
+    "Tremor",
+    "Ganho de peso",
+    "Retenção urinária"
+   ],
+   "raros_graves": [
+    "Arritmias",
+    "Delirium",
+    "Convulsões",
+    "Íleo",
+    "Virada maníaca",
+    "Glaucoma agudo"
+   ],
+   "conduta_imediata": [
+    "QRS alargado ou arritmia.",
+    "Delirium anticolinérgico."
+   ],
+   "manejo": [
+    {
+     "efeito": "Boca seca e constipação",
+     "conduta": "Medidas habituais."
+    },
+    {
+     "efeito": "Resposta insuficiente",
+     "conduta": "Dosar nível: ajustar para 70 a 170 ng/mL."
+    }
+   ]
+  },
+  "contraindicacoes": [
+   "Infarto recente.",
+   "Bloqueios de condução.",
+   "IMAO nos últimos 14 dias.",
+   "Glaucoma de ângulo fechado não tratado."
+  ],
+  "precaucoes": [
+   "Epilepsia.",
+   "Risco de suicídio.",
+   "Prostatismo."
+  ],
+  "populacoes": {
+   "gestacao": {
+    "nivel": "aceitavel",
+    "texto": "Tricíclico com mais dados na gestação; ajuste de dose pode ser necessário no terceiro trimestre."
+   },
+   "lactacao": {
+    "nivel": "preferencial",
+    "texto": "Tricíclico preferido na amamentação; níveis baixos no lactente."
+   },
+   "idosos": {
+    "nivel": "cautela",
+    "texto": "Tricíclico preferível em idosos (menos hipotensão), ainda assim com carga anticolinérgica; doses de 30 a 75 mg."
+   },
+   "pediatria": {
+    "nivel": "evitar",
+    "texto": "Sem eficácia na depressão infantil."
+   },
+   "renal": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste habitual."
+   },
+   "hepatica": {
+    "nivel": "cautela",
+    "texto": "Doses menores."
+   },
+   "cardiopatas": {
+    "nivel": "contraindicado",
+    "texto": "Evitar em doença coronariana, arritmias e pós-infarto."
+   }
+  },
+  "suspensao": {
+   "risco": "Moderado.",
+   "sintomas": "Rebote colinérgico.",
+   "reducao": "Reduzir 25 mg a cada 1 a 2 semanas.",
+   "troca": "Cross-titration; 2 semanas antes de IMAO."
+  },
+  "superdosagem": {
+   "toxicidade": "Alta, como os demais tricíclicos.",
+   "quadro": "Cardiotoxicidade (QRS alargado), convulsões, coma, síndrome anticolinérgica.",
+   "conduta": "Como na amitriptilina: bicarbonato de sódio para QRS alargado, benzodiazepínico para convulsões."
+  },
+  "pratica": {
+   "perolas": [
+    "Opção barata e eficaz para cessação do tabagismo quando bupropiona e vareniclina não estão disponíveis.",
+    "Único tricíclico com janela terapêutica bem descrita: se não responde com nível alto, reduzir pode ajudar."
+   ],
+   "erros": [
+    "Não dosar nível sérico em resposta parcial.",
+    "Associar a bupropiona no tabagismo sem ajuste (inibição do CYP2D6)."
+   ]
+  },
+  "troca": {
+   "tipo": "atc",
+   "washout_semanas": 2
+  },
+  "fontes": [
+   "Bula Pamelor (Anvisa)",
+   "Hiemke C et al. Consenso AGNP 2017",
+   "Cochrane: antidepressants for smoking cessation 2020",
+   "Maudsley Prescribing Guidelines 15ª ed."
+  ]
+ },
+ {
+  "id": "imipramina",
+  "nome": "Imipramina",
+  "nomes_comerciais": [
+   "Tofranil (drágeas com registro cancelado em 2023)",
+   "Tofranil Pamoato"
+  ],
+  "classe": "antidepressivos",
+  "subclasse": "Tricíclico",
+  "comercializacao": "restrito",
+  "receita": "C1",
+  "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "baixo",
+  "marcadores": [
+   "janela_estreita"
+  ],
+  "relacionados": [
+   "clomipramina",
+   "amitriptilina"
+  ],
+  "apresentacoes": [
+   {
+    "forma": "Drágea (cloridrato)",
+    "doses": [
+     "10 mg",
+     "25 mg"
+    ],
+    "aparencia": {
+     "formato": "redondo",
+     "descricao": "Forma e cor variam entre fabricantes."
+    }
+   },
+   {
+    "forma": "Cápsula de pamoato (liberação lenta)",
+    "doses": [
+     "75 mg",
+     "150 mg"
+    ],
+    "aparencia": {
+     "formato": "capsula",
+     "descricao": "Tofranil Pamoato; dose única diária."
+    }
+   }
+  ],
+  "farmacodinamica": {
+   "resumo": "Tricíclico terciário, protótipo da classe. Inibe a recaptação de serotonina e, por meio do metabólito desipramina, de noradrenalina; bloqueia H1, M1 e α1 e canais de sódio.",
+   "resumo_curto": "Tricíclico terciário protótipo; pânico e enurese.",
+   "afinidade": [
+    {
+     "alvo": "SERT",
+     "acao": "inibição",
+     "intensidade": 3
+    },
+    {
+     "alvo": "NET",
+     "acao": "inibição",
+     "intensidade": 3
+    },
+    {
+     "alvo": "H1",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "M1",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "α1",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "Canal Na+",
+     "acao": "bloqueio",
+     "intensidade": 2
+    }
+   ],
+   "significado_clinico": [
+    "Primeiro antidepressivo com eficácia demonstrada no transtorno de pânico.",
+    "Efeito anticolinérgico sobre a bexiga e sobre a arquitetura do sono explica o uso na enurese."
+   ]
+  },
+  "farmacocinetica": {
+   "absorcao": "Completa.",
+   "biodisponibilidade": "22 a 77%.",
+   "alimentos": "Sem efeito.",
+   "pico": "1 a 2 horas (pamoato: mais tardio).",
+   "ligacao_proteica": "86%.",
+   "metabolismo": "Desmetilação a desipramina (CYP2C19, 1A2, 3A4) e hidroxilação (CYP2D6).",
+   "meia_vida": "8 a 20 horas (desipramina 12 a 30 horas).",
+   "metabolitos_ativos": "Desipramina (noradrenérgica).",
+   "excrecao": "Renal.",
+   "equilibrio": "5 a 7 dias.",
+   "nivel_serico": "Imipramina + desipramina: 175 a 300 ng/mL (AGNP).",
+   "cyp": {
+    "substrato": [
+     "2D6",
+     "2C19"
+    ],
+    "substrato_menor": [
+     "1A2",
+     "3A4"
+    ],
+    "inibe": {}
+   }
+  },
+  "perfil": {
+   "sedacao": 2,
+   "peso": 2,
+   "sexual": 2,
+   "anticolinergico": 3,
+   "hipotensao": 3,
+   "qt": 2,
+   "serotoninergico": 2,
+   "convulsao": 2,
+   "sangramento": 1
+  },
+  "interacoes": [
+   {
+    "com": "IMAO",
+    "gravidade": "contraindicada",
+    "efeito": "Síndrome serotoninérgica e crise hipertensiva, uma das combinações mais perigosas.",
+    "conduta": "Intervalo de 3 semanas entre imipramina e IMAO."
+   },
+   {
+    "com": "Inibidores do CYP2D6 e 2C19 (fluoxetina, paroxetina, fluvoxamina, bupropiona)",
+    "gravidade": "grave",
+    "efeito": "Aumento importante dos níveis.",
+    "conduta": "Doses baixas e nível sérico."
+   },
+   {
+    "com": "Fármacos que prolongam QT, antiarrítmicos classe I",
+    "gravidade": "grave",
+    "efeito": "Arritmias.",
+    "conduta": "ECG."
+   },
+   {
+    "com": "Anticolinérgicos, depressores do SNC",
+    "gravidade": "moderada",
+    "efeito": "Efeitos aditivos.",
+    "conduta": "Cautela."
+   }
+  ],
+  "indicacoes": [
+   {
+    "condicao": "Depressão",
+    "grupo": "Depressão",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Transtorno de pânico",
+    "grupo": "Transtorno de pânico",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Enurese noturna em crianças acima de 5 anos",
+    "grupo": "Enurese",
+    "status": "anvisa",
+    "nota": "Após excluir causas orgânicas; alarme e desmopressina são preferíveis."
+   },
+   {
+    "condicao": "Dor crônica",
+    "grupo": "Dor crônica",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "TDAH",
+    "grupo": "TDAH",
+    "status": "off_label",
+    "nota": "Segunda ou terceira linha, pouco usada."
+   }
+  ],
+  "prescricao": {
+   "dose_inicial": "25 mg/dia (10 mg em pânico e idosos). Enurese: 10 a 25 mg 1 hora antes de deitar.",
+   "faixa": "100 a 200 mg/dia (pânico: 100 a 200 mg; enurese: 25 a 50 mg).",
+   "dose_maxima": "300 mg/dia em internação; enurese: 2,5 mg/kg/dia.",
+   "titulacao": "Aumentos de 25 mg a cada 3 a 7 dias; no pânico, mais lento pela ativação inicial.",
+   "horario": "Noite, dose única; pamoato uma vez ao dia.",
+   "latencia": "2 a 4 semanas (pânico: 4 a 8 semanas).",
+   "duracao": "Como os demais; pânico: 12 meses após resposta.",
+   "monitoramento": [
+    "ECG basal e em dose plena (obrigatório em crianças).",
+    "Nível sérico.",
+    "PA em ortostase."
+   ],
+   "esquema": {
+    "unidade_tempo": "semana",
+    "unidade_dose": "mg/dia",
+    "pontos": [
+     [
+      0,
+      25
+     ],
+     [
+      1,
+      50
+     ],
+     [
+      2,
+      75
+     ],
+     [
+      3,
+      100
+     ],
+     [
+      5,
+      150
+     ]
+    ],
+    "faixa": [
+     100,
+     200
+    ]
+   }
+  },
+  "efeitos_adversos": {
+   "muito_comuns": [
+    "Boca seca",
+    "Constipação",
+    "Tontura e hipotensão ortostática",
+    "Sudorese",
+    "Sonolência"
+   ],
+   "comuns": [
+    "Taquicardia",
+    "Visão turva",
+    "Retenção urinária",
+    "Ganho de peso",
+    "Tremor",
+    "Disfunção sexual",
+    "Ativação inicial no pânico"
+   ],
+   "raros_graves": [
+    "Arritmias, morte súbita em crianças (desipramina)",
+    "Convulsões",
+    "Delirium",
+    "Íleo",
+    "Virada maníaca",
+    "Agranulocitose"
+   ],
+   "conduta_imediata": [
+    "QRS alargado, síncope.",
+    "Delirium anticolinérgico."
+   ],
+   "manejo": [
+    {
+     "efeito": "Piora inicial da ansiedade no pânico",
+     "conduta": "Iniciar com 10 mg e subir devagar; benzodiazepínico por curto período."
+    }
+   ]
+  },
+  "contraindicacoes": [
+   "Infarto recente.",
+   "Bloqueios de condução.",
+   "IMAO nas últimas 2 a 3 semanas.",
+   "Glaucoma de ângulo fechado."
+  ],
+  "precaucoes": [
+   "Crianças (ECG).",
+   "Epilepsia.",
+   "Risco de suicídio."
+  ],
+  "populacoes": {
+   "gestacao": {
+    "nivel": "aceitavel",
+    "texto": "Longa experiência sem teratogenicidade clara."
+   },
+   "lactacao": {
+    "nivel": "aceitavel",
+    "texto": "Níveis baixos no lactente."
+   },
+   "idosos": {
+    "nivel": "evitar",
+    "texto": "Beers: anticolinérgico e hipotensor."
+   },
+   "pediatria": {
+    "nivel": "cautela",
+    "texto": "Aprovada para enurese acima de 5 anos com ECG; relatos de morte súbita com desipramina."
+   },
+   "renal": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste habitual."
+   },
+   "hepatica": {
+    "nivel": "cautela",
+    "texto": "Doses menores."
+   },
+   "cardiopatas": {
+    "nivel": "contraindicado",
+    "texto": "Evitar."
+   }
+  },
+  "suspensao": {
+   "risco": "Moderado.",
+   "sintomas": "Rebote colinérgico.",
+   "reducao": "Reduzir 25 mg a cada 1 a 2 semanas.",
+   "troca": "Cross-titration; 3 semanas antes de IMAO."
+  },
+  "superdosagem": {
+   "toxicidade": "Alta.",
+   "quadro": "Como nos demais tricíclicos.",
+   "conduta": "Bicarbonato de sódio para QRS alargado, benzodiazepínico para convulsões, suporte intensivo."
+  },
+  "pratica": {
+   "perolas": [
+    "No pânico, a ativação inicial é comum: começar com 10 mg.",
+    "Na enurese, a resposta é rápida (dias), mas a recaída após a suspensão é frequente."
+   ],
+   "erros": [
+    "Esquecer o ECG em crianças.",
+    "Não respeitar 3 semanas antes de IMAO."
+   ]
+  },
+  "troca": {
+   "tipo": "atc",
+   "washout_semanas": 3
+  },
+  "fontes": [
+   "Bula Tofranil (Anvisa)",
+   "Hiemke C et al. Consenso AGNP 2017",
+   "Maudsley Prescribing Guidelines 15ª ed."
+  ],
+  "nota_comercializacao": "O registro do Tofranil drágeas (10 e 25 mg) foi cancelado em maio de 2023. A oferta atual depende de outras apresentações e fabricantes e é irregular."
+ },
+ {
+  "id": "clomipramina",
+  "nome": "Clomipramina",
+  "nomes_comerciais": [
+   "Anafranil",
+   "Anafranil SR",
+   "Clo"
+  ],
+  "classe": "antidepressivos",
+  "subclasse": "Tricíclico",
+  "comercializacao": "disponivel",
+  "receita": "C1",
+  "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": "Componente Básico",
+  "sus": "Disponível na atenção básica (comprimido de 25 mg).",
+  "custo": "baixo",
+  "marcadores": [
+   "janela_estreita"
+  ],
+  "relacionados": [
+   "fluvoxamina",
+   "imipramina"
+  ],
+  "apresentacoes": [
+   {
+    "forma": "Drágea (comprimido revestido)",
+    "doses": [
+     "10 mg",
+     "25 mg"
+    ],
+    "aparencia": {
+     "formato": "redondo",
+     "descricao": "Forma e cor variam entre fabricantes."
+    }
+   },
+   {
+    "forma": "Comprimido de liberação lenta (SR)",
+    "doses": [
+     "75 mg"
+    ],
+    "aparencia": {
+     "formato": "redondo",
+     "descricao": "Anafranil SR 75 mg; sulcado, pode ser partido ao meio."
+    }
+   }
+  ],
+  "farmacodinamica": {
+   "resumo": "O tricíclico com maior potência de inibição do SERT (comparável a um ISRS). O metabólito desmetilclomipramina é potente inibidor do NET. Bloqueia H1, M1 e α1.",
+   "resumo_curto": "Tricíclico mais serotoninérgico; padrão-ouro histórico no TOC.",
+   "afinidade": [
+    {
+     "alvo": "SERT",
+     "acao": "inibição",
+     "intensidade": 4
+    },
+    {
+     "alvo": "NET",
+     "acao": "inibição",
+     "intensidade": 2
+    },
+    {
+     "alvo": "H1",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "M1",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "α1",
+     "acao": "antagonismo",
+     "intensidade": 3
+    },
+    {
+     "alvo": "5-HT2A",
+     "acao": "antagonismo",
+     "intensidade": 2
+    }
+   ],
+   "significado_clinico": [
+    "Eficácia no TOC igual ou discretamente superior à dos ISRS em metanálises antigas, com pior tolerabilidade: reservada após falha de ISRS.",
+    "Maior risco de convulsões da classe (dose-dependente)."
+   ]
+  },
+  "farmacocinetica": {
+   "absorcao": "Completa.",
+   "biodisponibilidade": "Cerca de 50%.",
+   "alimentos": "Sem efeito.",
+   "pico": "2 a 6 horas.",
+   "ligacao_proteica": "97%.",
+   "metabolismo": "Desmetilação a desmetilclomipramina (CYP1A2, 2C19, 3A4) e hidroxilação (CYP2D6).",
+   "meia_vida": "19 a 37 horas (desmetilclomipramina 54 a 77 horas).",
+   "metabolitos_ativos": "Desmetilclomipramina (noradrenérgica).",
+   "excrecao": "Renal.",
+   "equilibrio": "1 a 2 semanas.",
+   "nivel_serico": "Clomipramina + desmetilclomipramina: 230 a 450 ng/mL (AGNP).",
+   "cyp": {
+    "substrato": [
+     "1A2",
+     "2C19",
+     "2D6"
+    ],
+    "substrato_menor": [
+     "3A4"
+    ],
+    "inibe": {
+     "2D6": "moderado"
+    },
+    "nota": "Fluvoxamina (inibe 1A2 e 2C19) aumenta a razão clomipramina/desmetilclomipramina, o que alguns serviços usam intencionalmente no TOC."
+   }
+  },
+  "perfil": {
+   "sedacao": 2,
+   "peso": 2,
+   "sexual": 3,
+   "anticolinergico": 3,
+   "hipotensao": 2,
+   "qt": 2,
+   "serotoninergico": 3,
+   "convulsao": 3,
+   "sangramento": 2
+  },
+  "interacoes": [
+   {
+    "com": "IMAO, linezolida, azul de metileno",
+    "gravidade": "contraindicada",
+    "efeito": "Síndrome serotoninérgica grave, com relatos fatais.",
+    "conduta": "Intervalo de 3 semanas."
+   },
+   {
+    "com": "ISRS e IRSN",
+    "gravidade": "grave",
+    "efeito": "Toxicidade serotoninérgica e elevação dos níveis (fluoxetina, paroxetina, fluvoxamina).",
+    "conduta": "Associação só em TOC refratário, em doses baixas, com nível sérico e ECG."
+   },
+   {
+    "com": "Fármacos que prolongam QT",
+    "gravidade": "grave",
+    "efeito": "Arritmias.",
+    "conduta": "ECG."
+   },
+   {
+    "com": "Fármacos que reduzem o limiar convulsivo (bupropiona, tramadol, clozapina)",
+    "gravidade": "grave",
+    "efeito": "Convulsões.",
+    "conduta": "Evitar ou limitar doses."
+   },
+   {
+    "com": "Anticolinérgicos, depressores do SNC",
+    "gravidade": "moderada",
+    "efeito": "Efeitos aditivos.",
+    "conduta": "Cautela."
+   },
+   {
+    "com": "Tabagismo, carbamazepina",
+    "gravidade": "moderada",
+    "efeito": "Redução dos níveis.",
+    "conduta": "Ajustar pelo nível."
+   }
+  ],
+  "indicacoes": [
+   {
+    "condicao": "Depressão",
+    "grupo": "Depressão",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Transtorno obsessivo-compulsivo",
+    "grupo": "TOC",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Fobias e transtorno de pânico",
+    "grupo": "Transtorno de pânico",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Cataplexia associada à narcolepsia",
+    "grupo": "Narcolepsia",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Dor crônica",
+    "grupo": "Dor crônica",
+    "status": "anvisa"
+   },
+   {
+    "condicao": "Ejaculação precoce",
+    "grupo": "Ejaculação precoce",
+    "status": "off_label",
+    "nota": "25 a 50 mg sob demanda ou contínuo."
+   },
+   {
+    "condicao": "TOC em crianças acima de 10 anos",
+    "grupo": "TOC",
+    "status": "off_label",
+    "nota": "Aprovado pela FDA."
+   }
+  ],
+  "prescricao": {
+   "dose_inicial": "25 mg à noite (10 mg em pânico).",
+   "faixa": "Depressão: 100 a 150 mg/dia. TOC: 150 a 250 mg/dia.",
+   "dose_maxima": "250 mg/dia (risco de convulsões aumenta acima disso).",
+   "titulacao": "Aumentos de 25 mg a cada 3 a 7 dias até 100 mg nas primeiras 2 semanas; depois gradual.",
+   "horario": "Noite; em doses altas, dividir para reduzir efeitos de pico.",
+   "latencia": "Depressão: 2 a 4 semanas. TOC: 10 a 12 semanas.",
+   "duracao": "TOC: 1 a 2 anos após resposta.",
+   "monitoramento": [
+    "ECG basal e em dose plena.",
+    "Nível sérico em doses acima de 150 mg.",
+    "PA."
+   ],
+   "esquema": {
+    "unidade_tempo": "semana",
+    "unidade_dose": "mg/dia",
+    "pontos": [
+     [
+      0,
+      25
+     ],
+     [
+      1,
+      50
+     ],
+     [
+      2,
+      100
+     ],
+     [
+      4,
+      150
+     ],
+     [
+      6,
+      200
+     ]
+    ],
+    "faixa": [
+     150,
+     250
+    ],
+    "legenda": "Titulação típica no TOC."
+   }
+  },
+  "efeitos_adversos": {
+   "muito_comuns": [
+    "Boca seca",
+    "Constipação",
+    "Sonolência",
+    "Tontura",
+    "Sudorese",
+    "Tremor",
+    "Disfunção sexual (anorgasmia, retardo ejaculatório)"
+   ],
+   "comuns": [
+    "Ganho de peso",
+    "Hipotensão ortostática",
+    "Taquicardia",
+    "Visão turva",
+    "Náuseas",
+    "Fadiga"
+   ],
+   "raros_graves": [
+    "Convulsões (cerca de 1% em doses de 250 mg ou mais)",
+    "Arritmias",
+    "Síndrome serotoninérgica",
+    "Delirium",
+    "Hipertermia",
+    "Agranulocitose"
+   ],
+   "conduta_imediata": [
+    "Convulsão: suspender e reavaliar.",
+    "QRS alargado."
+   ],
+   "manejo": [
+    {
+     "efeito": "Disfunção sexual",
+     "conduta": "Frequente; reduzir dose ou estratégias habituais."
+    }
+   ]
+  },
+  "contraindicacoes": [
+   "Infarto recente.",
+   "Bloqueios de condução.",
+   "IMAO nas últimas 3 semanas.",
+   "Glaucoma de ângulo fechado."
+  ],
+  "precaucoes": [
+   "Epilepsia.",
+   "Risco de suicídio.",
+   "Prostatismo."
+  ],
+  "populacoes": {
+   "gestacao": {
+    "nivel": "cautela",
+    "texto": "Retirada neonatal marcante (tremor, convulsões) com uso no terceiro trimestre."
+   },
+   "lactacao": {
+    "nivel": "aceitavel",
+    "texto": "Níveis baixos no lactente."
+   },
+   "idosos": {
+    "nivel": "evitar",
+    "texto": "Beers."
+   },
+   "pediatria": {
+    "nivel": "cautela",
+    "texto": "TOC acima de 10 anos (FDA), com ECG."
+   },
+   "renal": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste habitual."
+   },
+   "hepatica": {
+    "nivel": "cautela",
+    "texto": "Doses menores."
+   },
+   "cardiopatas": {
+    "nivel": "contraindicado",
+    "texto": "Evitar."
+   }
+  },
+  "suspensao": {
+   "risco": "Moderado a alto (componente serotoninérgico e colinérgico).",
+   "sintomas": "Rebote colinérgico e sintomas FINISH.",
+   "reducao": "Reduzir 25 mg a cada 1 a 2 semanas.",
+   "troca": "Cross-titration; 3 semanas antes de IMAO."
+  },
+  "superdosagem": {
+   "toxicidade": "Alta.",
+   "quadro": "Cardiotoxicidade, convulsões, síndrome serotoninérgica e anticolinérgica.",
+   "conduta": "Bicarbonato de sódio, benzodiazepínico, suporte intensivo."
+  },
+  "pratica": {
+   "perolas": [
+    "Segunda linha no TOC após falha de ao menos dois ISRS.",
+    "Clomipramina intravenosa é usada em alguns centros no TOC refratário."
+   ],
+   "erros": [
+    "Ultrapassar 250 mg sem nível sérico.",
+    "Associar a fluoxetina ou paroxetina sem ajuste."
+   ]
+  },
+  "troca": {
+   "tipo": "atc",
+   "washout_semanas": 3
+  },
+  "fontes": [
+   "Bula Anafranil (Anvisa)",
+   "Hiemke C et al. Consenso AGNP 2017",
+   "Maudsley Prescribing Guidelines 15ª ed.",
+   "APA Practice Guideline for OCD"
+  ]
+ }
+]

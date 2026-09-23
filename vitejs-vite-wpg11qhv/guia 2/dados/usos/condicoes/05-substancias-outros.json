@@ -1,0 +1,115 @@
+{
+"Alcoolismo": {
+ "area":"Substâncias",
+ "resumo":"O transtorno por uso de álcool é subtratado: menos de 10% recebem farmacoterapia, embora existam fármacos com eficácia comprovada. A meta pode ser abstinência ou redução do consumo pesado, conforme a preferência e a gravidade. Fármacos funcionam melhor associados a intervenções psicossociais e grupos de ajuda mútua.",
+ "avaliacao":["Padrão de consumo (AUDIT), dependência e história de abstinência grave (convulsões, delirium tremens).","Função hepática e renal, que orientam a escolha.","Uso de opioides (contraindica naltrexona).","Comorbidades: depressão, ansiedade, TEPT, TDAH, tabagismo.","Deficiência de tiamina e risco de Wernicke."],
+ "nao_farmacologico":["Entrevista motivacional, TCC, manejo de contingências, terapia de casal.","Alcoólicos Anônimos e outros grupos (facilitação em 12 passos tem evidência).","Tratamento da comorbidade psiquiátrica em paralelo."],
+ "etapas":[{"titulo":"Primeira linha","texto":"Naltrexona 50 mg (abstinência ou redução) ou acamprosato (manutenção da abstinência, seguro no fígado)."},{"titulo":"Segunda linha","texto":"Topiramato (titulação lenta até 200 a 300 mg), gabapentina (900 a 1.800 mg); dissulfiram com tomada supervisionada."},{"titulo":"Hepatopatia avançada","texto":"Acamprosato, baclofeno; evitar naltrexona na insuficiência hepática e dissulfiram na cirrose."}],
+ "escolha":[{"se":"Meta de reduzir o consumo","preferir":"naltrexona, topiramato","evitar":"dissulfiram"},{"se":"Cirrose","preferir":"acamprosato, baclofeno","evitar":"naltrexona na descompensação, dissulfiram, duloxetina"},{"se":"Uso de opioides ou dor crônica com opioide","preferir":"acamprosato, topiramato, gabapentina","evitar":"naltrexona"},{"se":"Insônia e ansiedade na abstinência prolongada","preferir":"gabapentina","evitar":"benzodiazepínicos de manutenção"},{"se":"Tabagismo associado","preferir":"vareniclina (reduz os dois consumos)","evitar":""}],
+ "duracao":"Pelo menos 3 a 12 meses; manter se houver benefício.",
+ "armadilhas":["Esperar abstinência para iniciar naltrexona ou topiramato.","Manter benzodiazepínicos após a desintoxicação.","Não oferecer farmacoterapia."],
+ "diretrizes":"APA 2018; NICE CG115; Diretrizes da ABEAD."
+},
+"Abstinência alcoólica": {
+ "area":"Substâncias",
+ "resumo":"Surge de 6 a 24 horas após reduzir ou parar o consumo; convulsões ocorrem em 12 a 48 horas e o delirium tremens em 48 a 96 horas. A gravidade é medida pela CIWA-Ar. Benzodiazepínicos são o tratamento de escolha e previnem convulsões e delirium. Tiamina antes de glicose em todos os pacientes.",
+ "avaliacao":["CIWA-Ar a cada 1 a 4 horas.","História de convulsões ou delirium tremens (maior risco de recorrência).","Comorbidades clínicas: hepatopatia, insuficiência respiratória, infecção, TCE, pancreatite, distúrbios eletrolíticos (magnésio, potássio, fósforo).","Uso de outras substâncias."],
+ "nao_farmacologico":["Ambiente calmo, hidratação, correção de eletrólitos, nutrição.","Internação se CIWA-Ar alta, história de complicação, comorbidade clínica ou ausência de suporte."],
+ "etapas":[{"titulo":"Tiamina","texto":"100 a 300 mg/dia, parenteral em risco alto; 500 mg IV três vezes ao dia se suspeita de Wernicke."},{"titulo":"Benzodiazepínico","texto":"Diazepam ou clordiazepóxido guiados por sintomas (CIWA-Ar acima de 8 a 10) ou esquema fixo decrescente; lorazepam em idosos e hepatopatas."},{"titulo":"Delirium tremens","texto":"Benzodiazepínico IV em doses altas, UTI; fenobarbital em casos resistentes; haloperidol apenas como adjuvante para alucinações."},{"titulo":"Quadros leves ambulatoriais","texto":"Carbamazepina ou gabapentina como alternativas."}],
+ "armadilhas":["Dar glicose antes da tiamina.","Doses fixas altas de benzodiazepínico em idosos e hepatopatas.","Usar antipsicótico como tratamento principal (reduz o limiar convulsivo)."],
+ "diretrizes":"ASAM 2020 (manejo da abstinência alcoólica); NICE CG100."
+},
+"Dependência de opioides": {
+ "area":"Substâncias",
+ "resumo":"A dependência de opioides tem alta mortalidade por sobredose. O tratamento com agonistas (metadona, buprenorfina) reduz mortalidade em cerca de 50%, além de uso ilícito, infecções e criminalidade, e deve ser mantido a longo prazo. A desintoxicação isolada tem recaída acima de 90% e aumenta o risco de sobredose pela perda de tolerância.",
+ "avaliacao":["Tipo de opioide (prescrito, heroína, fentanil), via e padrão de uso.","Uso de benzodiazepínicos, álcool e gabapentinoides (risco de sobredose).","Infecções (HIV, hepatites, endocardite), dor crônica.","ECG antes de metadona."],
+ "nao_farmacologico":["Redução de danos: distribuição de naloxona, material estéril.","Intervenções psicossociais associadas ao tratamento com agonista."],
+ "etapas":[{"titulo":"Primeira linha","texto":"Metadona (60 a 120 mg) ou buprenorfina (no Brasil só em adesivo para dor)."},{"titulo":"Alternativa","texto":"Naltrexona após desintoxicação completa, para pacientes muito motivados; a forma oral tem alta desistência."},{"titulo":"Sobredose","texto":"Naloxona titulada; observação prolongada com opioides de longa ação."}],
+ "armadilhas":["Metas de retirada rápida da metadona.","Doses de metadona baixas demais.","Não distribuir naloxona."],
+ "diretrizes":"OMS 2009; ASAM 2020; NICE TA114."
+},
+"Tabagismo": {
+ "area":"Substâncias",
+ "resumo":"Principal causa evitável de morte em pessoas com transtornos mentais graves. Parar de fumar melhora ansiedade e depressão em vez de piorar. A combinação de aconselhamento e farmacoterapia dobra ou triplica as taxas de abstinência. No SUS, o Programa Nacional de Controle do Tabagismo oferece reposição de nicotina e bupropiona.",
+ "etapas":[{"titulo":"Primeira linha","texto":"Vareniclina por 12 semanas ou reposição de nicotina combinada (adesivo e forma rápida)."},{"titulo":"Alternativas","texto":"Bupropiona, nortriptilina; vareniclina com reposição de nicotina em casos difíceis."},{"titulo":"Ajustes","texto":"Ao parar de fumar, reduzir clozapina, olanzapina e outros substratos do CYP1A2 e dosar níveis."}],
+ "armadilhas":["Achar que o paciente psiquiátrico não quer ou não consegue parar.","Não ajustar a clozapina ao parar de fumar."],
+ "diretrizes":"INCA e Ministério da Saúde; ensaio EAGLES; NICE NG209."
+},
+"Cocaína e estimulantes": {
+ "area":"Substâncias",
+ "resumo":"Não há fármaco aprovado para dependência de cocaína ou crack. Manejo de contingências (incentivos por testes negativos) é a intervenção de maior efeito. Tratar comorbidades (TDAH, depressão, psicose) e reduzir danos são componentes centrais. Na metanfetamina, a combinação de naltrexona injetável com bupropiona e a mirtazapina têm ensaios positivos."
+},
+"Compulsão alimentar": {
+ "area":"Alimentar",
+ "resumo":"Episódios recorrentes de ingestão excessiva com perda de controle, sem comportamentos compensatórios. TCC é primeira linha; lisdexanfetamina é o único fármaco aprovado e reduz episódios e peso. Topiramato e ISRS são alternativas. Tratar obesidade e comorbidades metabólicas em paralelo."
+},
+"Bulimia nervosa": {
+ "area":"Alimentar",
+ "resumo":"Compulsões com comportamentos compensatórios (vômitos, laxantes, exercício excessivo). TCC específica é o tratamento de escolha; fluoxetina 60 mg reduz compulsões e purgação. Monitorar potássio e ECG. Bupropiona é contraindicada pelo risco de convulsões."
+},
+"Anorexia nervosa": {
+ "area":"Alimentar",
+ "resumo":"Restrição alimentar com baixo peso e medo intenso de engordar, com a maior mortalidade entre os transtornos psiquiátricos. Realimentação supervisionada e psicoterapia (tratamento baseado na família em jovens, CBT-E, MANTRA) são o tratamento. Antidepressivos não funcionam no baixo peso. Olanzapina em dose baixa ajuda modestamente no ganho de peso e na ansiedade. Atenção à síndrome de realimentação, QT, hipoglicemia e osteoporose."
+},
+"Ganho de peso por psicofármacos": {
+ "area":"Efeitos adversos",
+ "resumo":"Antipsicóticos (clozapina, olanzapina), mirtazapina, valproato, lítio e alguns antidepressivos causam ganho de peso, mais intenso nos primeiros meses e em jovens. Prevenir é mais fácil que reverter: escolher fármacos de menor risco, monitorar desde o início e intervir cedo quando o peso aumentar 5% ou mais.",
+ "nao_farmacologico":["Orientação nutricional e atividade física desde o início.","Programas estruturados de estilo de vida (STEPWISE teve resultados neutros, o que reforça a necessidade de associar fármacos)."],
+ "etapas":[{"titulo":"Trocar","texto":"Para aripiprazol, lurasidona, ziprasidona ou amissulprida, quando possível."},{"titulo":"Associar","texto":"Metformina (melhor evidência), topiramato, aripiprazol associado à clozapina."},{"titulo":"Obesidade estabelecida","texto":"Agonistas de GLP-1 (semaglutida, liraglutida) com ensaios positivos em pacientes com antipsicóticos."}],
+ "monitorar":["Peso mensal nos primeiros 3 meses, depois trimestral","Cintura","Glicemia e lipídios em 12 semanas e anualmente"]
+},
+"EPS e acatisia": {
+ "area":"Efeitos adversos",
+ "resumo":"Distonia aguda (horas a dias), acatisia (dias a semanas), parkinsonismo (semanas) e discinesia tardia (meses a anos) têm tratamentos diferentes. Acatisia é frequentemente confundida com agitação ou piora psicótica e associa-se a abandono e suicídio.",
+ "etapas":[{"titulo":"Distonia aguda","texto":"Biperideno 2 a 5 mg IM ou prometazina 25 a 50 mg IM; profilaxia em jovens com antipsicótico de alta potência."},{"titulo":"Parkinsonismo","texto":"Reduzir a dose ou trocar; biperideno ou amantadina por tempo limitado."},{"titulo":"Acatisia","texto":"Reduzir a dose ou trocar; propranolol 10 a 40 mg duas a três vezes ao dia, mirtazapina 15 mg ou benzodiazepínico. Anticolinérgicos ajudam pouco."}],
+ "armadilhas":["Aumentar o antipsicótico diante de acatisia interpretada como agitação.","Manter anticolinérgico de rotina por anos."],
+ "monitorar":["Escala de Barnes para acatisia","Escala de Simpson-Angus"]
+},
+"Discinesia tardia": {
+ "area":"Efeitos adversos",
+ "resumo":"Movimentos involuntários, sobretudo orofaciais, após uso prolongado de bloqueadores D2, mais frequente com antipsicóticos típicos, idade avançada e mulheres. Inibidores do VMAT2 (valbenazina, deutetrabenazina) são o tratamento com melhor evidência, mas não estão disponíveis no Brasil. Anticolinérgicos pioram o quadro. Trocar para clozapina ou quetiapina pode ajudar."
+},
+"Hiperprolactinemia": {
+ "area":"Efeitos adversos",
+ "resumo":"Risperidona, paliperidona, amissulprida, sulpirida e antipsicóticos típicos elevam a prolactina, com amenorreia, galactorreia, disfunção sexual, infertilidade e, a longo prazo, osteoporose. Tratar se houver sintomas ou em quem deseja engravidar.",
+ "etapas":[{"titulo":"Primeiro","texto":"Confirmar em amostra adequada e excluir gravidez, hipotireoidismo e prolactinoma (níveis muito altos, sintomas visuais ou cefaleia: RM)."},{"titulo":"Ajuste","texto":"Reduzir a dose ou trocar para aripiprazol, quetiapina, olanzapina ou clozapina."},{"titulo":"Associação","texto":"Aripiprazol 5 mg/dia."},{"titulo":"Último recurso","texto":"Cabergolina em dose baixa, com risco pequeno de piora psicótica."}]
+},
+"SNM": {
+ "area":"Emergência",
+ "resumo":"Síndrome neuroléptica maligna: rigidez em cano de chumbo, hipertermia, alteração de consciência e instabilidade autonômica, com CPK elevada, geralmente nas primeiras semanas ou após aumento rápido de dose ou via parenteral. Mortalidade de 5 a 10%. Diferenciar de síndrome serotoninérgica (clônus, início em horas) e de catatonia maligna.",
+ "etapas":[{"titulo":"Suspender","texto":"Antipsicóticos e outros bloqueadores D2 (metoclopramida); reiniciar levodopa se foi suspensa."},{"titulo":"Suporte","texto":"Hidratação vigorosa, resfriamento, correção de eletrólitos, prevenção de insuficiência renal e trombose."},{"titulo":"Fármacos","texto":"Lorazepam nos casos leves; bromocriptina 2,5 mg a cada 8 horas e dantroleno nos moderados a graves; ECT se refratária."},{"titulo":"Reintrodução","texto":"Após pelo menos 2 semanas, com antipsicótico de baixa potência, dose baixa e titulação lenta."}]
+},
+"Síndrome serotoninérgica": {
+ "area":"Emergência",
+ "resumo":"Toxicidade serotoninérgica com tremor, clônus (induzível, espontâneo, ocular), hiper-reflexia, agitação, diaforese, midríase, diarreia e hipertermia, com início em horas após associação ou aumento de dose. Diagnóstico pelos critérios de Hunter. Formas graves (temperatura acima de 41 °C, rigidez) exigem terapia intensiva.",
+ "etapas":[{"titulo":"Suspender","texto":"Todos os serotoninérgicos."},{"titulo":"Leve a moderada","texto":"Benzodiazepínicos, hidratação; ciproeptadina 12 mg e depois 2 mg a cada 2 horas se persistirem sintomas."},{"titulo":"Grave","texto":"Sedação, intubação e paralisia não despolarizante; evitar antipiréticos (a febre é muscular)."}]
+},
+"Dor neuropática": {
+ "area":"Dor",
+ "resumo":"Dor por lesão do sistema somatossensorial (neuropatia diabética, pós-herpética, radiculopatias, dor central). Os antidepressivos com ação noradrenérgica e os gabapentinoides são a base, com efeito analgésico independente do humor. Respostas são parciais: uma redução de 30% da dor já é clinicamente relevante.",
+ "etapas":[{"titulo":"Primeira linha","texto":"Duloxetina, venlafaxina, tricíclicos em dose baixa (amitriptilina, nortriptilina), gabapentina, pregabalina."},{"titulo":"Neuralgia do trigêmeo","texto":"Carbamazepina ou oxcarbazepina."},{"titulo":"Segunda linha","texto":"Associação de classes diferentes, tramadol, lidocaína ou capsaicina tópicas em dor localizada."}],
+ "diretrizes":"NeuPSIG 2015 e atualização 2023; NICE CG173."
+},
+"Dor crônica": {"area":"Dor","resumo":"Dor persistente por mais de 3 meses, com frequência associada a depressão, ansiedade e insônia. Antidepressivos (duloxetina, tricíclicos em dose baixa) ajudam em síndromes específicas; abordagem multimodal com exercício, TCC e reabilitação é o centro. Evitar benzodiazepínicos e escalada de opioides."},
+"Fibromialgia": {"area":"Dor","resumo":"Dor difusa, fadiga, sono não reparador e queixas cognitivas. Exercício gradual e educação são a base. Amitriptilina em dose baixa, duloxetina e pregabalina têm evidência; o objetivo é melhora funcional."},
+"Cefaleia e enxaqueca": {"area":"Dor","resumo":"Na profilaxia de enxaqueca, amitriptilina, venlafaxina, topiramato, valproato e propranolol são opções que podem ser escolhidas pela comorbidade psiquiátrica (por exemplo, amitriptilina com insônia, topiramato com obesidade). Evitar valproato e topiramato em mulheres que podem engravidar. Na cefaleia tensional crônica, amitriptilina é a primeira escolha."},
+"Epilepsia": {"area":"Outras condições","resumo":"Vários psicofármacos são anticonvulsivantes (valproato, carbamazepina, lamotrigina, topiramato, benzodiazepínicos). Em pessoas com epilepsia, depressão e ansiedade são frequentes e tratáveis com ISRS em doses habituais; evitar bupropiona, clomipramina e clozapina em dose alta. Atenção às interações dos indutores."},
+"Narcolepsia e sonolência": {"area":"Sono","resumo":"A narcolepsia combina sonolência diurna excessiva, cataplexia, paralisia do sono e alucinações hipnagógicas. Modafinila e estimulantes tratam a sonolência; antidepressivos que suprimem o sono REM (venlafaxina, clomipramina, ISRS) tratam a cataplexia. Oxibato de sódio e pitolisanto são opções específicas, com acesso limitado no Brasil."},
+"Síndrome das pernas inquietas": {"area":"Sono","resumo":"Urgência de mover as pernas ao repouso, à noite, com alívio ao movimento. Dosar ferritina e repor ferro se abaixo de 75 ng/mL. Gabapentinoides são hoje primeira linha; agonistas dopaminérgicos causam aumento (augmentation) com o tempo. Antidepressivos, antipsicóticos e anti-histamínicos podem piorar."},
+"Enurese": {"area":"Outras condições","resumo":"Enurese noturna em crianças acima de 5 anos. Alarme e desmopressina são primeira linha; imipramina é alternativa com risco em superdosagem acidental."},
+"Prurido": {"area":"Outras condições","resumo":"Prurido crônico e urêmico podem responder a mirtazapina, gabapentinoides e hidroxizina; prurido colestático, a naltrexona."},
+"Sintomas vasomotores": {"area":"Outras condições","resumo":"Fogachos da menopausa e em mulheres com câncer de mama em que a terapia hormonal é contraindicada respondem a venlafaxina, desvenlafaxina, paroxetina em dose baixa, escitalopram, gabapentina e clonidina. Com tamoxifeno, evitar inibidores fortes do CYP2D6 (paroxetina, fluoxetina)."},
+"Disfunção sexual": {"area":"Efeitos adversos","resumo":"Afeta até metade dos usuários de ISRS e IRSN e é causa frequente de abandono. Opções: aguardar tolerância, reduzir a dose, trocar para bupropiona, vortioxetina, mirtazapina ou agomelatina, associar bupropiona, usar inibidores da PDE5 na disfunção erétil e, pontualmente, ciproeptadina. Pausas de fim de semana só com fármacos de meia-vida curta e risco de descontinuação."},
+"Ejaculação precoce": {"area":"Outras condições","resumo":"ISRS diários (paroxetina é o mais eficaz) ou sob demanda, clomipramina e dapoxetina retardam a ejaculação; anestésicos tópicos e técnicas comportamentais complementam."},
+"Náusea e vômitos": {"area":"Outras condições","resumo":"Haloperidol em dose baixa, olanzapina, levomepromazina e mirtazapina são antieméticos úteis em cuidados paliativos e oncologia, escolhidos pelo mecanismo da náusea."},
+"Sialorreia": {"area":"Efeitos adversos","resumo":"Efeito comum da clozapina, pior à noite. Medidas: toalha no travesseiro, reduzir a dose noturna, atropina 1% sublingual, glicopirrolato, toxina botulínica. Evitar anticolinérgicos sistêmicos potentes pelo risco de íleo."},
+"Apatia": {"area":"Neurocognitivo","resumo":"Redução da motivação e da iniciativa na demência, após AVC, TCE e na depressão. Metilfenidato tem o melhor dado na doença de Alzheimer; bupropiona, modafinila e pramipexol são alternativas com evidência menor. Diferenciar de depressão e de sintomas negativos."},
+"Demência vascular": {"area":"Neurocognitivo","resumo":"Controle de fatores de risco vascular é a principal intervenção. Inibidores de colinesterase e memantina têm efeitos cognitivos pequenos; mais úteis na demência mista."},
+"Dependência de benzodiazepínicos": {"area":"Substâncias","resumo":"Uso prolongado causa tolerância, dependência, prejuízo cognitivo e quedas. A retirada deve ser gradual (redução de 10 a 25% a cada 2 a 4 semanas), às vezes com troca para diazepam ou clonazepam e apoio de TCC para insônia e ansiedade. A suspensão abrupta de doses altas pode causar convulsões."},
+"Abstinência de opioides": {"area":"Substâncias","resumo":"Quadro desconfortável, mas raramente perigoso em adultos saudáveis. Metadona ou buprenorfina em redução gradual é o tratamento mais eficaz; clonidina alivia sintomas autonômicos. A desintoxicação isolada deve ser seguida de tratamento de manutenção ou naltrexona, pelo risco de sobredose na recaída."},
+"Intoxicação": {"area":"Emergência","resumo":"Na intoxicação por opioides, naloxona titulada com observação prolongada. Na intoxicação por benzodiazepínicos, suporte ventilatório; flumazenil só em sedação iatrogênica de pessoas sem uso crônico e sem intoxicação mista."},
+"Cannabis": {"area":"Substâncias","resumo":"Não há fármaco aprovado. Manejo de contingências, entrevista motivacional e TCC são a base. N-acetilcisteína teve resultado positivo em adolescentes; gabapentina reduziu sintomas de abstinência em ensaio pequeno. O uso de cannabis piora psicoses e transtorno bipolar."},
+"Jogo patológico": {"area":"Substâncias","resumo":"TCC e grupos de apoio são a base. Naltrexona reduz fissura e comportamento de jogo, sobretudo com história familiar de alcoolismo. Revisar agonistas dopaminérgicos e aripiprazol, que podem induzir jogo patológico."},
+"Tremor por psicofármacos": {"area":"Efeitos adversos","resumo":"Tremor postural por lítio, valproato e antidepressivos. Revisar nível sérico, cafeína e dose; propranolol 20 a 80 mg/dia é eficaz. Tremor grosseiro com lítio sugere intoxicação."},
+"Outros": {"area":"Outros usos","resumo":"Usos clínicos que não se encaixam nas condições psiquiátricas principais: indicações neurológicas, clínicas e de cuidados paliativos dos psicofármacos."}
+}

@@ -1,0 +1,26 @@
+{
+  "fonte": "Baseado em Maudsley Prescribing Guidelines in Psychiatry (15ª ed., 2025), Stahl's Prescriber's Guide e Keks N et al. Switching and stopping antidepressants. Aust Prescr 2016; Cerovecki A et al. Withdrawal symptoms and rebound syndromes associated with switching and discontinuing atypical antipsychotics. CNS Drugs 2013.",
+  "especificos": [
+    {"de": "id:fluvoxamina", "para": "id:agomelatina", "texto": "Fluvoxamina (inibidor potente do CYP1A2) é contraindicada com agomelatina. Suspender a fluvoxamina e aguardar pelo menos 3 a 4 dias antes de iniciar a agomelatina."},
+    {"de": "id:fluvoxamina", "para": "id:clozapina", "texto": "Não se aplica a este guia de trocas, mas lembre: fluvoxamina eleva a clozapina até 5 a 10 vezes."},
+    {"de": "subclasse:ISRS", "para": "id:vortioxetina", "texto": "Nos ensaios de troca (REVIVE), a vortioxetina foi iniciada no dia seguinte à suspensão do ISRS ou IRSN, sem cross-titration, com boa tolerabilidade."},
+    {"de": "subclasse:IRSN", "para": "id:vortioxetina", "texto": "Nos ensaios de troca (REVIVE), a vortioxetina foi iniciada no dia seguinte à suspensão do ISRS ou IRSN; venlafaxina em doses altas deve ser reduzida antes, pelo risco de descontinuação."},
+    {"de": "id:paroxetina", "para": "subclasse:ISRS", "texto": "Paroxetina tem a síndrome de descontinuação mais intensa entre os ISRS. Se a troca direta causar sintomas, fazer cross-titration em 2 a 4 semanas."},
+    {"de": "id:venlafaxina", "para": "subclasse:ISRS", "texto": "Venlafaxina tem meia-vida curta e descontinuação intensa. Em doses acima de 150 mg, reduzir gradualmente enquanto introduz o ISRS."},
+    {"de": "id:venlafaxina", "para": "id:desvenlafaxina", "texto": "Troca direta: a desvenlafaxina é o metabólito ativo da venlafaxina. Venlafaxina 75 mg ≈ desvenlafaxina 50 mg; 150 mg ≈ 100 mg."},
+    {"de": "subclasse:ISRS", "para": "id:bupropiona", "texto": "Troca cruzada em 1 a 2 semanas. Bupropiona não é serotoninérgica, então os sintomas de descontinuação do ISRS não são cobertos: reduzir o ISRS de forma gradual. Bupropiona inibe o CYP2D6 e eleva paroxetina e fluoxetina durante a sobreposição."},
+    {"de": "id:clomipramina", "para": "id:tranilcipromina", "texto": "Clomipramina e imipramina são as mais perigosas com IMAO. Aguardar 3 semanas após a suspensão antes de iniciar a tranilcipromina."},
+    {"de": "id:imipramina", "para": "id:tranilcipromina", "texto": "Aguardar 3 semanas após a suspensão da imipramina antes de iniciar a tranilcipromina."},
+    {"de": "id:tranilcipromina", "para": "id:moclobemida", "texto": "Mesmo entre IMAO, aguardar 2 semanas após a tranilcipromina antes de iniciar a moclobemida."},
+    {"de": "id:olanzapina", "para": "id:aripiprazol", "texto": "Troca clássica em platô. Manter a olanzapina até o aripiprazol estar em 10 a 15 mg há 1 a 2 semanas; reduzir a olanzapina em 2 a 4 semanas. A perda de peso pode compensar a acatisia inicial."},
+    {"de": "id:quetiapina", "para": "id:aripiprazol", "texto": "Quetiapina tem forte antagonismo H1: a retirada rápida causa insônia e ansiedade de rebote. Reduzir lentamente, 50 a 100 mg por semana."},
+    {"de": "id:risperidona", "para": "id:paliperidona", "texto": "Troca direta: paliperidona é a 9-hidroxirrisperidona. Risperidona 2 mg ≈ paliperidona 3 a 4 mg; 4 mg ≈ 6 mg; 6 mg ≈ 9 mg."},
+    {"de": "id:paliperidona", "para": "id:risperidona", "texto": "Troca direta com as mesmas equivalências inversas: paliperidona 6 mg ≈ risperidona 4 mg."},
+    {"de": "subclasse:Atípico", "para": "id:clozapina", "texto": "Titular a clozapina desde 12,5 mg, e só reduzir o antipsicótico anterior quando a clozapina estiver em 200 a 300 mg/dia, para não deixar o paciente descoberto. Atenção à somação de sedação, hipotensão e QT."},
+    {"de": "subclasse:Típico de alta potência", "para": "id:clozapina", "texto": "Titular a clozapina desde 12,5 mg e reduzir o típico em paralelo. Retirar anticolinérgico (biperideno) aos poucos, depois de reduzir o típico."},
+    {"de": "subclasse:Atípico", "para": "id:cariprazina", "texto": "A cariprazina e seu metabólito didesmetilcariprazina têm meia-vida de 1 a 3 semanas; o equilíbrio leva 4 a 12 semanas. Manter o antipsicótico anterior por 2 a 3 semanas antes de iniciar a redução."},
+    {"de": "subclasse:Atípico", "para": "id:lurasidona", "texto": "Orientar tomar a lurasidona com refeição de pelo menos 350 kcal (a absorção dobra com alimento). Troca cruzada em 1 a 2 semanas; iniciar em 40 mg."},
+    {"de": "subclasse:Atípico", "para": "id:ziprasidona", "texto": "Ziprasidona deve ser tomada com refeição (absorção reduzida pela metade em jejum). ECG se houver fatores de risco para QT."},
+    {"de": "id:clozapina", "para": "subclasse:Atípico", "texto": "Raramente indicada; se inevitável (neutropenia, miocardite), manter o novo antipsicótico em dose plena e retirar a clozapina muito lentamente. Em miocardite ou neutropenia grave, a suspensão é imediata: considerar anticolinérgico (biperideno) para rebote colinérgico e vigilância de psicose."}
+  ]
+}
