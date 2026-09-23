@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/vitejs-vite-wpg11qhv/guia 2/dist/guia-psicofarmacos.html" }
+  ]
+}
