@@ -1,0 +1,1092 @@
+{
+  "amitriptilina": {
+    "alvos": [
+      "Humor deprimido",
+      "Ansiedade",
+      "Sintomas somáticos",
+      "Dor crônica",
+      "Insônia"
+    ],
+    "latencia": "Efeito sobre insônia e ansiedade pode ser imediato; ação antidepressiva costuma levar 2 a 4 semanas. Sem resposta na depressão em 6 a 8 semanas, aumentar a dose ou considerar ineficaz.",
+    "se_funciona": [
+      "Depressão: manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido.",
+      "Dor crônica (neuropática, fibromialgia, cefaleia, lombalgia, cervicalgia): reduz sintomas, raramente os elimina; costuma render mais combinada a outras medidas e pode exigir uso indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum, com insônia, fadiga e dificuldade de concentração residuais.",
+      "Aumentar a dose, trocar ou potencializar; considerar psicoterapia.",
+      "Rever diagnóstico e comorbidades (doença clínica, uso de substâncias).",
+      "Falta de eficácia consistente pode indicar bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Depressão: lítio, buspirona, hormônio tireoidiano.",
+      "Dor crônica: gabapentina, tiagabina, outros anticonvulsivantes; opioides apenas por especialistas, com monitorização cuidadosa."
+    ],
+    "exames": [
+      "ECG basal acima de 50 anos; também útil em quem tem história pessoal ou familiar de QT longo, arritmia, infarto recente, insuficiência cardíaca descompensada ou usa fármacos que prolongam o QT.",
+      "Peso e IMC antes e durante o tratamento; em sobrepeso ou obesidade, rastrear pré-diabetes, diabetes e dislipidemia antes de iniciar.",
+      "Ganho acima de 5% do peso inicial: investigar alterações metabólicas ou trocar de antidepressivo.",
+      "Potássio e magnésio basais e periódicos em quem tem risco de distúrbio eletrolítico (ex.: diuréticos)."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio muscarínico: boca seca, constipação, visão turva, sedação.",
+      "Bloqueio H1: sedação e ganho de peso.",
+      "Bloqueio alfa-1: tontura, sedação e hipotensão.",
+      "Bloqueio de canais iônicos: arritmias e convulsões, sobretudo na superdosagem."
+    ],
+    "peso": "Frequente e muitas vezes importante; aumenta o apetite e a vontade de carboidratos.",
+    "sedacao": "Frequente e muitas vezes intensa; pode haver tolerância com o uso prolongado.",
+    "ea_graves": [
+      "Íleo paralítico e hipertermia, sobretudo associada a outros anticolinérgicos.",
+      "Redução do limiar convulsivo e convulsões raras.",
+      "Hipotensão ortostática, taquicardia, arritmias, prolongamento do QTc e morte súbita.",
+      "Insuficiência hepática e sintomas extrapiramidais.",
+      "Aumento da pressão intraocular.",
+      "Virada maníaca e ativação de ideação suicida (raras; sem aumento do risco em relação ao placebo acima de 24 anos)."
+    ],
+    "manejo": [
+      "Esperar, pois vários efeitos diminuem com o tempo; reduzir a dose; ou trocar para ISRS ou antidepressivo mais novo.",
+      "A maioria dos efeitos adversos não melhora com fármacos adjuvantes.",
+      "Ansiedade, insônia, agitação, acatisia ou ativação intoleráveis ao iniciar ou suspender: pensar em bipolaridade ativada e trocar para estabilizador do humor ou antipsicótico atípico."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 50 a 150 mg/dia; na dor crônica, doses menores costumam bastar.",
+      "Início com 25 mg ao deitar, com aumentos de 25 mg a cada 3 a 7 dias.",
+      "Alternativa: 75 mg/dia em doses divididas, subindo para 150 mg/dia; máximo de 300 mg/dia.",
+      "Dose única ao deitar pela sedação; se dividida, a maior parte à noite.",
+      "Pesadelos: dividir a dose e evitar tomada grande ao deitar."
+    ],
+    "superdosagem": "Pode ser fatal: depressão do SNC, convulsões, arritmias, hipotensão grave, alterações de ECG e coma.",
+    "longo_prazo": "Seguro.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir gradualmente para evitar sintomas de retirada; mesmo assim podem surgir nas primeiras 2 semanas.",
+      "Esquema bem tolerado por muitos: reduzir 50% por 3 dias, mais 50% por 3 dias e então parar.",
+      "Se surgirem sintomas de retirada, voltar à dose anterior e retomar a redução bem mais devagar."
+    ],
+    "interacoes": [
+      "Tramadol aumenta o risco de convulsões.",
+      "Com outros anticolinérgicos: risco de íleo paralítico e hipertermia.",
+      "Inibidores do CYP2D6 (fluoxetina, paroxetina, bupropiona, duloxetina) elevam os níveis do tricíclico.",
+      "Fluvoxamina (inibidor do CYP1A2) reduz a conversão em nortriptilina e eleva a amitriptilina.",
+      "Cimetidina, fenotiazinas, haloperidol e metilfenidato podem elevar os níveis.",
+      "Pode alterar o efeito de anti-hipertensivos e inibir o efeito hipotensor da clonidina; com simpaticomiméticos, aumenta a atividade simpática.",
+      "Não usar com IMAO nem nos 14 dias após sua suspensão; aguardar pelo menos 5 meias-vidas (5 a 7 dias) após a amitriptilina antes de iniciar IMAO."
+    ],
+    "nao_usar": [
+      "Recuperação de infarto do miocárdio.",
+      "História de QTc prolongado ou arritmia, infarto agudo recente ou insuficiência cardíaca descompensada.",
+      "Uso de fármacos que prolongam significativamente o QTc (pimozida, tioridazina, alguns antiarrítmicos, moxifloxacino).",
+      "Uso de inibidores do metabolismo dos tricíclicos (inclusive do CYP2D6) ou metabolizador lento do CYP2D6, salvo por especialista e em dose baixa.",
+      "Alergia comprovada à amitriptilina ou à nortriptilina."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia, retenção urinária, glaucoma de ângulo fechado e hipertireoidismo.",
+      "Toxicidade com prolongamento do QTc e torsades de pointes pode ocorrer por superdosagem ou por associação com inibidores do CYP2D6.",
+      "Cautela com bradicardia ou fármacos que a induzem (betabloqueadores, bloqueadores de canal de cálcio, clonidina, digitálicos) e com hipopotassemia ou hipomagnesemia (diuréticos, laxativos estimulantes, anfotericina B, corticoides).",
+      "Cautela ao iniciar outro antidepressivo nas 2 semanas após a suspensão.",
+      "Ativação e agitação após troca ou associação podem indicar estado misto bipolar com ideação suicida: associar lítio, estabilizador ou antipsicótico atípico, ou suspender.",
+      "Vigiar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Usar com cautela; pode ser preciso reduzir a dose.",
+      "hepatica": "Usar com cautela; pode ser preciso reduzir a dose.",
+      "cardiaca": "ECG basal. Tricíclicos causam arritmias, retardo de condução, hipotensão ortostática, taquicardia sinusal e insuficiência cardíaca; evitar se QT longo, infarto recente ou insuficiência cardíaca descompensada. Reduzem a variabilidade da frequência cardíaca, e os ISRS são mais adequados em cardiopatas; a relação risco/benefício pode não justificar o uso.",
+      "idosos": "ECG basal acima de 50 anos; mais sensíveis a efeitos anticolinérgicos, cardiovasculares, hipotensores e sedativos. Iniciar com 50 mg/dia e subir gradualmente até 100 mg/dia.",
+      "criancas": "Em geral não recomendada abaixo de 12 anos; vários estudos mostram ineficácia dos tricíclicos na depressão infantil e há casos de morte súbita. Pode ser usada em enurese ou hiperatividade e impulsividade. Adolescentes: início com 50 mg/dia, até 100 mg/dia.",
+      "gestacao": "Sem estudos controlados; atravessa a placenta. Relatos de letargia, abstinência e malformações em recém-nascidos. Pesar riscos para o feto contra os da depressão não tratada; muitas vezes a manutenção é justificada.",
+      "lactacao": "Passa para o leite; recomenda-se suspender o fármaco ou usar mamadeira. O pós-parto imediato é período de alto risco de recaída, e para muitas pacientes a manutenção durante a amamentação é a melhor escolha."
+    },
+    "vantagens": [
+      "Pacientes com insônia.",
+      "Depressão grave ou resistente.",
+      "Síndromes dolorosas crônicas variadas."
+    ],
+    "desvantagens": [
+      "Crianças e idosos.",
+      "Pacientes preocupados com ganho de peso.",
+      "Cardiopatas."
+    ],
+    "perolas": [
+      "Um dos tricíclicos preferidos para cefaleia e dor crônica (neuropática, fibromialgia, enxaqueca, cervicalgia, lombalgia), embora a preferência se baseie mais na experiência do que em ensaios comparativos.",
+      "Eficaz na insônia primária.",
+      "Tricíclicos deixaram de ser primeira linha na depressão pelo perfil de efeitos adversos e podem agravar sintomas psicóticos.",
+      "Evitar álcool. Pacientes de baixo peso, desidratados, crianças e cardiopatas são mais suscetíveis à cardiotoxicidade.",
+      "Cerca de 7% da população (sobretudo caucasianos) tem atividade reduzida do CYP2D6 e pode não tolerar doses usuais; efeitos adversos muito intensos em dose baixa sugerem esse fenótipo e justificam dose menor, genotipagem ou troca.",
+      "Pode causar fotossensibilidade e urina azul-esverdeada.",
+      "ISRS podem ser mais eficazes em mulheres e tricíclicos em homens.",
+      "Só para especialistas: em casos muito refratários, associar tricíclico (nunca clomipramina) a IMAO, iniciando ambos juntos em doses baixas após washout e subindo alternadamente a cada poucos dias; os efeitos mais comuns são ganho de peso e hipotensão ortostática."
+    ]
+  },
+  "nortriptilina": {
+    "alvos": [
+      "Humor deprimido",
+      "Dor crônica"
+    ],
+    "latencia": "Efeito sobre insônia e ansiedade pode ser imediato; ação antidepressiva costuma levar 2 a 4 semanas. Sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficaz.",
+    "se_funciona": [
+      "Depressão: manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido.",
+      "Dor neuropática crônica: reduz sintomas, raramente os elimina; pode exigir uso indefinido."
+    ],
+    "se_nao_funciona": [
+      "Dosar o nível sérico, sobretudo sem resposta à dose usual ou quando o tratamento é urgente.",
+      "Aumentar a dose, trocar ou potencializar; considerar psicoterapia.",
+      "Rever diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode indicar bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Depressão: lítio, buspirona, hormônio tireoidiano.",
+      "Dor crônica: gabapentina, tiagabina, outros anticonvulsivantes; opioides apenas por especialistas."
+    ],
+    "exames": [
+      "Nível sérico disponível e bem estudado: útil sem resposta à dose usual, em tratamento urgente, em idosos, crianças e nas insuficiências renal e hepática.",
+      "ECG basal acima de 50 anos e em quem tem QT longo, arritmia, infarto recente, insuficiência cardíaca descompensada ou usa fármacos que prolongam o QT.",
+      "Peso e IMC antes e durante o tratamento; rastrear alterações metabólicas em sobrepeso ou se o ganho passar de 5%.",
+      "Potássio e magnésio em quem tem risco de distúrbio eletrolítico."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio muscarínico: boca seca, constipação, visão turva, sedação.",
+      "Bloqueio H1: sedação e ganho de peso.",
+      "Bloqueio alfa-1: tontura, sedação e hipotensão.",
+      "Bloqueio de canais iônicos: arritmias e convulsões, sobretudo na superdosagem."
+    ],
+    "peso": "Frequente e muitas vezes importante; aumenta o apetite e a vontade de carboidratos.",
+    "sedacao": "Frequente e muitas vezes intensa; pode haver tolerância com o uso prolongado.",
+    "ea_graves": [
+      "Íleo paralítico e hipertermia, sobretudo com outros anticolinérgicos.",
+      "Convulsões raras; o risco aumenta com a dose.",
+      "Hipotensão ortostática, taquicardia, arritmias, prolongamento do QTc e morte súbita.",
+      "Insuficiência hepática e sintomas extrapiramidais.",
+      "Aumento da pressão intraocular.",
+      "Virada maníaca e ativação de ideação suicida (raras)."
+    ],
+    "manejo": [
+      "Esperar, reduzir a dose ou trocar para ISRS ou antidepressivo mais novo; a maioria dos efeitos não melhora com adjuvantes.",
+      "Algumas formulações contêm bissulfito de sódio, que pode causar alergia, talvez mais em asmáticos.",
+      "Ativação intolerável ao iniciar ou suspender: pensar em bipolaridade e trocar para estabilizador do humor ou antipsicótico atípico."
+    ],
+    "dicas_dose": [
+      "Depressão: 75 a 150 mg/dia em dose única ou em até 4 tomadas. Dor crônica: 50 a 150 mg/dia.",
+      "Início com 10 a 25 mg ao deitar, com aumentos de 25 mg a cada 3 a 7 dias; máximo de 300 mg/dia.",
+      "Tabagismo: iniciar 10 a 28 dias antes da data de parada para atingir o estado de equilíbrio.",
+      "Dose única ao deitar; se dividida, a maior parte à noite; se houver pesadelos, dividir.",
+      "Na dor crônica, doses menores costumam bastar."
+    ],
+    "superdosagem": "Pode ser fatal: depressão do SNC, convulsões, arritmias, hipotensão grave, alterações de ECG e coma.",
+    "longo_prazo": "Seguro.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir gradualmente; mesmo assim podem surgir sintomas de retirada nas primeiras 2 semanas.",
+      "Esquema bem tolerado por muitos: reduzir 50% por 3 dias, mais 50% por 3 dias e parar.",
+      "Se surgirem sintomas, voltar à dose anterior e reduzir bem mais devagar."
+    ],
+    "interacoes": [
+      "Tramadol aumenta o risco de convulsões.",
+      "Com anticolinérgicos: íleo paralítico e hipertermia.",
+      "Inibidores do CYP2D6 (fluoxetina, paroxetina, bupropiona, duloxetina) elevam os níveis e podem causar arritmias graves.",
+      "Cimetidina, fenotiazinas, haloperidol e metilfenidato podem elevar os níveis.",
+      "Pode elevar os níveis de dicumarol.",
+      "Pode alterar o efeito de anti-hipertensivos e inibir o da clonidina; com simpaticomiméticos, aumenta a atividade simpática.",
+      "Não usar com IMAO nem nos 14 dias após sua suspensão; aguardar 5 meias-vidas (5 a 7 dias) após a nortriptilina antes de iniciar IMAO."
+    ],
+    "nao_usar": [
+      "Recuperação de infarto do miocárdio.",
+      "História de QTc prolongado ou arritmia, infarto agudo recente ou insuficiência cardíaca descompensada.",
+      "Uso de fármacos que prolongam significativamente o QTc (pimozida, tioridazina, alguns antiarrítmicos, moxifloxacino).",
+      "Uso de inibidores do CYP2D6 ou metabolizador lento do CYP2D6, salvo por especialista e em dose baixa.",
+      "Alergia comprovada à nortriptilina ou à amitriptilina."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia, retenção urinária, glaucoma de ângulo fechado e hipertireoidismo.",
+      "Risco de torsades de pointes por superdosagem ou por inibição do CYP2D6.",
+      "Cautela com bradicardia, fármacos bradicardizantes, hipopotassemia e hipomagnesemia.",
+      "Cautela ao iniciar outro antidepressivo nas 2 semanas após a suspensão.",
+      "Vigiar ativação e ideação suicida, sobretudo em jovens."
+    ],
+    "pop": {
+      "renal": "Usar com cautela; pode ser preciso reduzir a dose e monitorar o nível sérico.",
+      "hepatica": "Usar com cautela, com dose menor, titulação mais lenta e nível sérico.",
+      "cardiaca": "ECG basal. Evitar se QT longo, infarto recente ou insuficiência cardíaca descompensada; ISRS são mais adequados em cardiopatas, e a relação risco/benefício pode não justificar o uso.",
+      "idosos": "ECG basal acima de 50 anos; mais sensíveis a efeitos anticolinérgicos, cardiovasculares, hipotensores e sedativos. Pode exigir dose menor; o nível sérico é útil.",
+      "criancas": "Não recomendada abaixo de 12 anos nem indicada abaixo de 6. Estudos mostram ineficácia dos tricíclicos na depressão infantil; há casos de morte súbita. Pode ser usada em enurese ou hiperatividade. Dose geralmente abaixo de 50 mg/dia; nível sérico útil. Não é primeira linha no TDAH.",
+      "gestacao": "Atravessa a placenta; relatos de letargia, abstinência e malformações em recém-nascidos. Usar só se o benefício superar o risco e considerar antidepressivo com melhor perfil.",
+      "lactacao": "Passa para o leite; recomenda-se suspender o fármaco ou usar mamadeira. O pós-parto imediato é período de alto risco, e muitas vezes a manutenção durante a amamentação é justificada."
+    },
+    "vantagens": [
+      "Pacientes com insônia.",
+      "Depressão grave ou resistente.",
+      "Quando se deseja monitorização terapêutica pelo nível sérico."
+    ],
+    "desvantagens": [
+      "Crianças e idosos.",
+      "Pacientes preocupados com ganho de peso.",
+      "Cardiopatas."
+    ],
+    "perolas": [
+      "Um dos poucos tricíclicos com monitorização do nível sérico bem estudada.",
+      "Tricíclicos são frequentemente primeira linha na dor crônica, mas não mais na depressão, embora sigam úteis na depressão grave ou resistente.",
+      "Como inibidor da recaptação de noradrenalina, é opção de segunda linha para cessação do tabagismo, dependência de cocaína e TDAH.",
+      "Pode agravar sintomas psicóticos; evitar álcool.",
+      "Pacientes de baixo peso, desidratados, crianças e cardiopatas são mais suscetíveis à cardiotoxicidade.",
+      "Metabolizadores lentos do CYP2D6 (cerca de 7% da população) podem não tolerar doses usuais.",
+      "Só para especialistas: associação com IMAO em casos muito refratários, iniciando ambos juntos em doses baixas."
+    ]
+  },
+  "imipramina": {
+    "alvos": [
+      "Humor deprimido",
+      "Dor crônica"
+    ],
+    "latencia": "Efeito sobre insônia e ansiedade pode ser imediato; ação antidepressiva costuma levar 2 a 4 semanas. Sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficaz.",
+    "se_funciona": [
+      "Depressão: manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido.",
+      "Dor neuropática crônica e transtornos de ansiedade: pode exigir uso indefinido, pouco estudado a longo prazo."
+    ],
+    "se_nao_funciona": [
+      "Aumentar a dose, trocar ou potencializar; considerar psicoterapia.",
+      "Rever diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode indicar bipolaridade latente ativada: suspender e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Depressão: lítio, buspirona, hormônio tireoidiano.",
+      "Dor crônica: gabapentina, tiagabina, outros anticonvulsivantes; opioides apenas por especialistas."
+    ],
+    "exames": [
+      "ECG basal acima de 50 anos e em quem tem QT longo, arritmia, infarto recente, insuficiência cardíaca descompensada ou usa fármacos que prolongam o QT.",
+      "Peso e IMC antes e durante o tratamento; rastrear alterações metabólicas em sobrepeso ou se o ganho passar de 5%.",
+      "Potássio e magnésio em quem tem risco de distúrbio eletrolítico."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio muscarínico: boca seca, constipação, visão turva, sedação.",
+      "Bloqueio H1: sedação e ganho de peso.",
+      "Bloqueio alfa-1: tontura, sedação e hipotensão.",
+      "Bloqueio de canais iônicos: arritmias e convulsões, sobretudo na superdosagem."
+    ],
+    "peso": "Frequente e muitas vezes importante; aumenta o apetite e a vontade de carboidratos.",
+    "sedacao": "Frequente e muitas vezes intensa; pode haver tolerância com o uso prolongado.",
+    "ea_graves": [
+      "Íleo paralítico e hipertermia, sobretudo com outros anticolinérgicos.",
+      "Redução do limiar convulsivo e convulsões raras.",
+      "Hipotensão ortostática, taquicardia, arritmias, prolongamento do QTc e morte súbita.",
+      "Insuficiência hepática e sintomas extrapiramidais.",
+      "Aumento da pressão intraocular e piora de sintomas psicóticos.",
+      "Virada maníaca e ativação de ideação suicida (raras)."
+    ],
+    "manejo": [
+      "Esperar, reduzir a dose ou trocar para ISRS ou antidepressivo mais novo; a maioria dos efeitos não melhora com adjuvantes.",
+      "Ativação intolerável ao iniciar ou suspender: pensar em bipolaridade e trocar para estabilizador do humor ou antipsicótico atípico."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 50 a 150 mg/dia.",
+      "Início com 25 mg ao deitar, com aumentos de 25 mg a cada 3 a 7 dias.",
+      "Alternativa: 75 a 100 mg/dia em dose única ou dividida, subindo gradualmente; máximo de 300 mg/dia.",
+      "Em geral à noite pela sedação; se causar insônia, pode ser dada pela manhã. Se houver pesadelos, dividir a dose.",
+      "Na dor crônica, doses menores costumam bastar.",
+      "O pamoato de imipramina de 100 e 125 mg (apresentação norte-americana) contém tartrazina, que pode causar alergia, sobretudo em sensíveis ao ácido acetilsalicílico."
+    ],
+    "superdosagem": "Pode ser fatal: convulsões, arritmias, hipotensão grave, depressão do SNC, coma e alterações de ECG.",
+    "longo_prazo": "Seguro.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir gradualmente; mesmo assim podem surgir sintomas de retirada nas primeiras 2 semanas.",
+      "Esquema bem tolerado por muitos: reduzir 50% por 3 dias, mais 50% por 3 dias e parar.",
+      "Se surgirem sintomas, voltar à dose anterior e reduzir bem mais devagar."
+    ],
+    "interacoes": [
+      "Tramadol aumenta o risco de convulsões.",
+      "Com anticolinérgicos: íleo paralítico e hipertermia.",
+      "Inibidores do CYP2D6 (fluoxetina, paroxetina, bupropiona, duloxetina) elevam os níveis.",
+      "Fluvoxamina (inibidor do CYP1A2) reduz a conversão em desipramina e eleva a imipramina.",
+      "Cimetidina, fenotiazinas, haloperidol e metilfenidato podem elevar os níveis.",
+      "Pode alterar o efeito de anti-hipertensivos e inibir o da clonidina; com simpaticomiméticos, aumenta a atividade simpática.",
+      "Não usar com IMAO nem nos 14 dias após sua suspensão; aguardar 5 meias-vidas (5 a 7 dias) após a imipramina antes de iniciar IMAO."
+    ],
+    "nao_usar": [
+      "Recuperação de infarto do miocárdio.",
+      "História de QTc prolongado ou arritmia, infarto agudo recente ou insuficiência cardíaca descompensada.",
+      "Uso de fármacos que prolongam significativamente o QTc (pimozida, tioridazina, alguns antiarrítmicos, moxifloxacino).",
+      "Uso de inibidores do CYP2D6 ou metabolizador lento do CYP2D6, salvo por especialista e em dose baixa.",
+      "Alergia comprovada à imipramina, desipramina ou lofepramina."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia, retenção urinária, glaucoma de ângulo fechado e hipertireoidismo.",
+      "Risco de torsades de pointes por superdosagem ou por inibição do CYP2D6.",
+      "Cautela com bradicardia, fármacos bradicardizantes, hipopotassemia e hipomagnesemia.",
+      "Cautela ao iniciar outro antidepressivo nas 2 semanas após a suspensão.",
+      "Vigiar ativação e ideação suicida, sobretudo em jovens."
+    ],
+    "pop": {
+      "renal": "Usar com cautela; pode ser preciso reduzir a dose.",
+      "hepatica": "Usar com cautela; pode ser preciso reduzir a dose.",
+      "cardiaca": "ECG basal. Evitar se QT longo, infarto recente ou insuficiência cardíaca descompensada; ISRS são mais adequados em cardiopatas, e a relação risco/benefício pode não justificar o uso.",
+      "idosos": "ECG basal acima de 50 anos; mais sensíveis a efeitos anticolinérgicos, cardiovasculares, hipotensores e sedativos. Início com 30 a 40 mg/dia; máximo de 100 mg/dia.",
+      "criancas": "Usada a partir de 6 anos na enurese e de 12 anos nos demais transtornos. Estudos mostram ineficácia dos tricíclicos na depressão infantil; há casos de morte súbita. Crianças: início com 1,5 mg/kg/dia, máximo de 5 mg/kg/dia. Enurese funcional: 50 mg/dia (6 a 12 anos) ou 75 mg/dia (acima de 12). Adolescentes: início com 30 a 40 mg/dia, máximo de 100 mg/dia.",
+      "gestacao": "Sem estudos controlados; atravessa a placenta. Relatos de letargia, abstinência e malformações em recém-nascidos. Usar só se o benefício superar o risco e considerar antidepressivo com melhor perfil.",
+      "lactacao": "Passa para o leite; recomenda-se suspender o fármaco ou usar mamadeira. O pós-parto imediato é período de alto risco, e muitas vezes a manutenção durante a amamentação é justificada."
+    },
+    "vantagens": [
+      "Pacientes com insônia.",
+      "Depressão grave ou resistente.",
+      "Enurese."
+    ],
+    "desvantagens": [
+      "Crianças e idosos.",
+      "Pacientes preocupados com ganho de peso.",
+      "Cardiopatas."
+    ],
+    "perolas": [
+      "Provavelmente o tricíclico preferido na enurese infantil, mais por experiência clínica do que por ensaios comparativos.",
+      "Tricíclicos deixaram de ser primeira linha na depressão pelo perfil de efeitos adversos e podem agravar sintomas psicóticos.",
+      "Evitar álcool. Pacientes de baixo peso, desidratados, crianças e cardiopatas são mais suscetíveis à cardiotoxicidade.",
+      "Metabolizadores lentos do CYP2D6 (cerca de 7% da população) podem não tolerar doses usuais; efeitos adversos intensos em dose baixa sugerem esse fenótipo.",
+      "Pode causar fotossensibilidade e urina azul-esverdeada.",
+      "Só para especialistas: associação com IMAO em casos muito refratários, iniciando ambos juntos em doses baixas após washout."
+    ]
+  },
+  "clomipramina": {
+    "alvos": [
+      "Humor deprimido",
+      "Obsessões",
+      "Compulsões"
+    ],
+    "latencia": "Efeito sobre insônia e ansiedade pode ser imediato. Depressão: 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficaz. TOC: início em 6 a 12 semanas; sem resposta em 12 semanas, provavelmente não funcionará.",
+    "se_funciona": [
+      "Depressão: manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido.",
+      "TOC: a remissão completa é menos provável que na depressão, e o uso pode ser indefinido desde o início.",
+      "Pode prevenir recaídas por muitos anos."
+    ],
+    "se_nao_funciona": [
+      "Aumentar a dose, trocar ou potencializar.",
+      "Psicoterapia, especialmente terapia comportamental no TOC.",
+      "Rever diagnóstico e comorbidades; considerar bipolaridade latente ativada."
+    ],
+    "potencializacao": [
+      "Lítio e buspirona (depressão e TOC).",
+      "Hormônio tireoidiano (depressão).",
+      "Antipsicóticos atípicos (TOC).",
+      "Para especialistas: fluvoxamina com cautela no TOC resistente."
+    ],
+    "exames": [
+      "ECG basal acima de 50 anos e em quem tem QT longo, arritmia, infarto recente, insuficiência cardíaca descompensada ou usa fármacos que prolongam o QT.",
+      "Nível sérico disponível em laboratórios especializados, para uso por especialistas.",
+      "Peso e IMC antes e durante o tratamento; rastrear alterações metabólicas em sobrepeso ou se o ganho passar de 5%.",
+      "Potássio e magnésio em quem tem risco de distúrbio eletrolítico."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio muscarínico: boca seca, constipação, visão turva, sedação.",
+      "Bloqueio H1: sedação e ganho de peso.",
+      "Bloqueio alfa-1: tontura, sedação e hipotensão.",
+      "Bloqueio de canais iônicos: arritmias e convulsões, sobretudo na superdosagem."
+    ],
+    "peso": "Frequente e muitas vezes importante; aumenta o apetite e a vontade de carboidratos.",
+    "sedacao": "Frequente e muitas vezes intensa; pode haver tolerância com o uso prolongado.",
+    "ea_graves": [
+      "Convulsões: com 300 mg/dia a incidência chega a 7 em 1.000, risco em geral inaceitável.",
+      "Íleo paralítico e hipertermia, sobretudo com outros anticolinérgicos.",
+      "Hipotensão ortostática, taquicardia, arritmias, prolongamento do QTc e morte súbita.",
+      "Insuficiência hepática e sintomas extrapiramidais.",
+      "Aumento da pressão intraocular.",
+      "Síndrome serotoninérgica potencialmente fatal com IMAO ou ISRS.",
+      "Virada maníaca e ativação de ideação suicida (raras)."
+    ],
+    "manejo": [
+      "Esperar, reduzir a dose ou trocar para ISRS ou antidepressivo mais novo; a maioria dos efeitos não melhora com adjuvantes.",
+      "Ativação intolerável ao iniciar ou suspender: pensar em bipolaridade e trocar para estabilizador do humor ou antipsicótico atípico."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 100 a 200 mg/dia.",
+      "Início com 25 mg/dia, chegando a 100 mg/dia em 2 semanas; máximo geralmente de 250 mg/dia.",
+      "No TOC, costuma ser preciso o topo da faixa (200 a 250 mg/dia).",
+      "O risco de convulsões aumenta com a dose, sobretudo acima de 250 mg/dia.",
+      "Dose única ao deitar; se dividida, a maior parte à noite; se houver pesadelos, dividir.",
+      "Na dor crônica, doses menores costumam bastar."
+    ],
+    "superdosagem": "Pode ser fatal: convulsões, arritmias, hipotensão grave, depressão do SNC, coma e alterações de ECG.",
+    "longo_prazo": "Dados limitados, mas parece eficaz e segura.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir gradualmente; mesmo assim podem surgir sintomas de retirada nas primeiras 2 semanas.",
+      "Esquema bem tolerado por muitos: reduzir 50% por 3 dias, mais 50% por 3 dias e parar.",
+      "Se surgirem sintomas, voltar à dose anterior e reduzir bem mais devagar."
+    ],
+    "interacoes": [
+      "Com IMAO: síndrome serotoninérgica fatal. Não usar com IMAO nem nos 14 dias após; aguardar 5 meias-vidas (5 a 7 dias) após a clomipramina antes de iniciar IMAO.",
+      "Com ISRS: síndrome serotoninérgica potencialmente fatal (febre alta, convulsões, coma).",
+      "Tramadol aumenta o risco de convulsões.",
+      "Com anticolinérgicos: íleo paralítico e hipertermia.",
+      "Inibidores do CYP2D6 (fluoxetina, paroxetina, bupropiona, duloxetina) elevam os níveis; a própria clomipramina inibe o CYP2D6.",
+      "Fluvoxamina (inibidor do CYP1A2) reduz a conversão em desmetilclomipramina e eleva a clomipramina.",
+      "Cimetidina, fenotiazinas, haloperidol e metilfenidato podem elevar os níveis.",
+      "Pode alterar o efeito de anti-hipertensivos e inibir o da clonidina; com simpaticomiméticos, aumenta a atividade simpática."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Recuperação de infarto do miocárdio.",
+      "História de QTc prolongado ou arritmia, infarto agudo recente ou insuficiência cardíaca descompensada.",
+      "Uso de fármacos que prolongam significativamente o QTc (pimozida, tioridazina, alguns antiarrítmicos, moxifloxacino).",
+      "Uso de inibidores do CYP2D6 ou metabolizador lento do CYP2D6, salvo por especialista e em dose baixa.",
+      "Alergia comprovada à clomipramina."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia, retenção urinária, glaucoma de ângulo fechado e hipertireoidismo.",
+      "Risco de torsades de pointes por superdosagem ou por inibição do CYP2D6.",
+      "Cautela com bradicardia, fármacos bradicardizantes, hipopotassemia e hipomagnesemia.",
+      "Cautela ao iniciar outro antidepressivo nas 2 semanas após a suspensão.",
+      "Vigiar ativação e ideação suicida, sobretudo em jovens."
+    ],
+    "pop": {
+      "renal": "Usar com cautela.",
+      "hepatica": "Usar com cautela.",
+      "cardiaca": "ECG basal. Evitar se QT longo, infarto recente ou insuficiência cardíaca descompensada; ISRS são mais adequados em cardiopatas, e a relação risco/benefício pode não justificar o uso.",
+      "idosos": "ECG basal acima de 50 anos; mais sensíveis a efeitos anticolinérgicos, cardiovasculares, hipotensores e sedativos. Dose inicial menor que a do adulto.",
+      "criancas": "Não recomendada abaixo de 10 anos. Eficaz no TOC infantil; ineficaz na depressão; pode ser usada em enurese ou hiperatividade. Há casos de morte súbita com tricíclicos. Titular até 100 mg/dia ou 3 mg/kg/dia (o que for menor) nas 2 primeiras semanas, e depois até 200 mg/dia ou 3 mg/kg/dia.",
+      "gestacao": "Sem estudos controlados; atravessa a placenta. Relatos de letargia, abstinência e malformações em recém-nascidos. Pesar riscos para o feto contra os da recaída da depressão ou do TOC; muitas vezes a manutenção é justificada.",
+      "lactacao": "Passa para o leite; recomenda-se suspender o fármaco ou usar mamadeira. O pós-parto é período de alto risco de recaída da depressão e piora do TOC, e muitas vezes a manutenção é justificada."
+    },
+    "vantagens": [
+      "Pacientes com insônia.",
+      "Depressão grave ou resistente.",
+      "TOC com depressão comórbida.",
+      "Cataplexia."
+    ],
+    "desvantagens": [
+      "Crianças e idosos.",
+      "Pacientes preocupados com ganho de peso.",
+      "Cardiopatas.",
+      "Epilepsia."
+    ],
+    "perolas": [
+      "Único tricíclico com eficácia comprovada no TOC e um dos preferidos na depressão grave.",
+      "Em equilíbrio, é convertida pelo CYP1A2 em desmetilclomipramina (noradrenérgica), e a atividade plasmática fica mais noradrenérgica que serotoninérgica.",
+      "Só para especialistas: associar fluvoxamina no TOC resistente bloqueia essa conversão e potencializa a ação serotoninérgica, somando efeito farmacodinâmico e farmacocinético.",
+      "Diferente dos outros tricíclicos, tem interação potencialmente fatal com IMAO (síndrome serotoninérgica), além do risco hipertensivo comum a todas as associações de IMAO com tricíclicos.",
+      "Tricíclicos costumam ser primeira linha na dor crônica, mas não mais na depressão.",
+      "Pode agravar sintomas psicóticos; evitar álcool.",
+      "Metabolizadores lentos do CYP2D6 (cerca de 7% da população) podem não tolerar doses usuais.",
+      "Pode causar fotossensibilidade e urina azul-esverdeada."
+    ]
+  },
+  "tranilcipromina": {
+    "alvos": [
+      "Humor deprimido",
+      "Sintomas somáticos",
+      "Alterações de sono e apetite",
+      "Retardo psicomotor",
+      "Preocupações mórbidas"
+    ],
+    "latencia": "Alguns pacientes sentem efeito estimulante logo no início; a ação antidepressiva costuma levar 2 a 4 semanas. Sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficaz.",
+    "se_funciona": [
+      "Manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade, o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; alguns perdem a resposta mesmo mantendo o tratamento.",
+      "Aumentar a dose, trocar ou potencializar; considerar psicoterapia.",
+      "Rever diagnóstico e comorbidades; considerar bipolaridade latente ativada."
+    ],
+    "potencializacao": [
+      "Potencialização de IMAO não foi estudada sistematicamente: reservar a especialistas, com cautela e monitorização.",
+      "Estimulante (dexanfetamina ou metilfenidato), com cautela: pode ativar bipolaridade e ideação suicida e elevar a PA.",
+      "Lítio.",
+      "Anticonvulsivantes estabilizadores do humor.",
+      "Antipsicóticos atípicos, com cautela especial com os que inibem recaptação de monoaminas (ziprasidona)."
+    ],
+    "exames": [
+      "Monitorar a pressão arterial.",
+      "Função hepática periódica em doses altas ou uso prolongado."
+    ],
+    "tabela": {
+      "titulo": "Dieta com restrição de tiramina (Stahl 2017)",
+      "colunas": [
+        "Evitar",
+        "Permitido"
+      ],
+      "linhas": [
+        [
+          "Carnes, aves e peixes curados, secos, defumados, fermentados, estragados ou mal armazenados",
+          "Carnes, aves e peixes frescos ou processados; peixe em conserva ou defumado bem armazenado"
+        ],
+        [
+          "Vagem de fava",
+          "Demais vegetais"
+        ],
+        [
+          "Queijos curados",
+          "Queijo processado em fatias, cottage, ricota, iogurte, cream cheese"
+        ],
+        [
+          "Chope e cerveja não pasteurizada",
+          "Cerveja em lata ou garrafa e outras bebidas alcoólicas"
+        ],
+        [
+          "Extratos de levedura (Marmite), levedura de cerveja",
+          "Fermento de pão já assado"
+        ],
+        [
+          "Chucrute, kimchi, produtos de soja e tofu",
+          "Amendoim"
+        ],
+        [
+          "Casca de banana",
+          "Banana, abacate, framboesa"
+        ],
+        [
+          "Suplementos nutricionais com tiramina",
+          ""
+        ]
+      ],
+      "nota": "Fármacos proibidos pelo risco de síndrome serotoninérgica: ISRS, IRSN, clomipramina, erva-de-são-joão, MDMA, cocaína, metanfetamina, anfetamina em dose alta ou injetável, meperidina, tramadol, metadona, fentanil, sumatriptana não subcutânea, clorfeniramina, bronfeniramina, dextrometorfano. Usar só com cautela (elevam noradrenalina): fenilefrina, pseudoefedrina, anfetaminas, metilfenidato, modafinila, armodafinila, fentermina, tapentadol, a maioria dos tricíclicos, inibidores da recaptação de noradrenalina, bupropiona e anestésicos locais com vasoconstritor."
+    },
+    "mecanismo_ea": [
+      "Aumento de monoaminas em locais e receptores não relacionados ao efeito terapêutico: serotonina nos centros do sono (insônia), noradrenalina no músculo liso vascular (hipertensão).",
+      "Os efeitos costumam surgir logo e muitos desaparecem com o tempo."
+    ],
+    "peso": "Ocorre em minoria significativa.",
+    "sedacao": "Frequente e pode ser intensa; também pode causar ativação.",
+    "ea_graves": [
+      "Crise hipertensiva, sobretudo com alimentos ricos em tiramina ou fármacos proibidos.",
+      "Virada maníaca.",
+      "Convulsões.",
+      "Hepatotoxicidade.",
+      "Ativação de ideação suicida (rara)."
+    ],
+    "manejo": [
+      "Esperar; reduzir a dose; tomar à noite se houver sedação diurna ou de dia se houver estímulo noturno; ou trocar, após washout adequado, para ISRS ou antidepressivo mais novo.",
+      "Insônia: benzodiazepínico ou, com cautela, trazodona.",
+      "Hipotensão ortostática em doses altas: dividir em 3 a 4 tomadas diárias.",
+      "Hipertensão urgente por interação ou tiramina: o Stahl sugere dose única oral ou sublingual de bloqueador de canal de cálcio (nifedipina); essa conduta hoje é desaconselhada pelo risco de hipotensão abrupta, e a crise deve ser tratada como emergência, com anti-hipertensivo parenteral."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 30 mg/dia em doses divididas.",
+      "Início com 30 mg/dia divididos; após 2 semanas, aumentar 10 mg/dia a cada 1 a 3 semanas; máximo de 60 mg/dia.",
+      "Hipotensão ortostática em doses altas pode exigir 3 a 4 tomadas diárias.",
+      "Em doses altas, avaliar periodicamente a função hepática."
+    ],
+    "superdosagem": "Tontura, sedação, ataxia, cefaleia, insônia, inquietação, ansiedade e irritabilidade; também efeitos cardiovasculares, confusão, depressão respiratória ou coma.",
+    "longo_prazo": "Avaliar periodicamente a função hepática. IMAO podem perder eficácia a longo prazo.",
+    "dependencia": "Há relatos de dependência de IMAO.",
+    "suspender": [
+      "Em geral não é preciso reduzir gradualmente, pois o efeito se dissipa em 2 a 3 semanas.",
+      "Pela inibição irreversível, a ação clínica dura até 14 dias após a última dose: manter dieta e restrições nesse período."
+    ],
+    "interacoes": [
+      "Síndrome serotoninérgica fatal com inibidores da recaptação de serotonina: não usar juntos nem antes de 5 meias-vidas após a suspensão do inibidor.",
+      "Crise hipertensiva, com hemorragia intracraniana e morte, com simpaticomiméticos (anfetaminas, metilfenidato, cocaína, dopamina, adrenalina, noradrenalina), metildopa, levodopa, L-triptofano, L-tirosina e fenilalanina.",
+      "Não associar a outro IMAO, álcool ou guanetidina.",
+      "Tricíclicos e compostos relacionados (carbamazepina, ciclobenzaprina, mirtazapina): evitar, salvo por especialistas em casos difíceis.",
+      "Tramadol aumenta o risco de convulsões.",
+      "Anestesia raquidiana: hipotensão aditiva. Depressores do SNC: mais sedação e hipotensão.",
+      "Antidiabéticos orais e insulina: risco de hipoglicemia.",
+      "Cautela com reserpina, anestésicos, dissulfiram, metrizamida e anticolinérgicos."
+    ],
+    "nao_usar": [
+      "Uso de meperidina, simpaticomiméticos, guanetidina, outro IMAO, diuréticos ou dextrometorfano.",
+      "Uso de qualquer inibidor da recaptação de serotonina (ISRS, IRSN, clomipramina, tramadol, sibutramina, milnaciprana).",
+      "Feocromocitoma.",
+      "Doença cardiovascular ou cerebrovascular.",
+      "Cefaleias frequentes ou intensas.",
+      "Cirurgia eletiva com anestesia geral.",
+      "Doença hepática ou provas de função hepática alteradas.",
+      "Incapacidade de seguir a dieta com pouca tiramina.",
+      "Alergia comprovada à tranilcipromina."
+    ],
+    "advertencias": [
+      "Exige dieta com restrição de tiramina.",
+      "Paciente e prescritor devem vigiar interações com qualquer fármaco, inclusive anti-hipertensivos e antigripais de venda livre.",
+      "Evitar antigripais e antitussígenos (inclusive com dextrometorfano), descongestionantes orais ou nasais, antialérgicos, medicamentos para sinusite, broncodilatadores inalatórios, anorexígenos e estimulantes.",
+      "Não recomendada para quem não pode ser acompanhado de perto.",
+      "Vigiar ativação e ideação suicida, sobretudo em jovens."
+    ],
+    "pop": {
+      "renal": "Usar com cautela: pode acumular; pode exigir dose menor.",
+      "hepatica": "Não usar em quem tem história de doença hepática ou provas de função hepática alteradas.",
+      "cardiaca": "Contraindicada em qualquer cardiopatia.",
+      "idosos": "Dose inicial menor; maior sensibilidade aos efeitos adversos.",
+      "criancas": "Em geral não recomendada abaixo de 18 anos.",
+      "gestacao": "Sem estudos controlados; em geral não recomendada, sobretudo no primeiro trimestre. Preferir antidepressivo com melhor relação risco/benefício.",
+      "lactacao": "Passa para o leite, com efeitos desconhecidos no lactente. Preferir antidepressivo com melhor relação risco/benefício."
+    },
+    "vantagens": [
+      "Depressão atípica.",
+      "Depressão grave.",
+      "Depressão ou transtornos de ansiedade resistentes."
+    ],
+    "desvantagens": [
+      "Exige adesão a restrições alimentares e medicamentosas.",
+      "Cardiopatas e hipertensos.",
+      "Várias tomadas diárias."
+    ],
+    "perolas": [
+      "IMAO costumam ser reservados para segunda linha, após falha de ISRS, IRSN e combinações, mas não devem ser esquecidos nos casos resistentes; são para especialistas.",
+      "Orientar o paciente a não tomar nenhum medicamento, com ou sem receita, sem consultar o médico.",
+      "Cefaleia costuma ser o primeiro sintoma da crise hipertensiva.",
+      "O perigo da tiramina da dieta costuma ser exagerado, enquanto as proibições de fármacos são seguidas com menos rigor do que deveriam.",
+      "Hipotensão ortostática, insônia e disfunção sexual costumam ser os efeitos comuns mais incômodos.",
+      "Pode tratar depressão e bulimia ao mesmo tempo.",
+      "Associação com clomipramina é sempre proibida. Em casos heroicos, especialistas podem associar outro tricíclico (amoxapina seria o preferido, pelo antagonismo 5-HT2A), iniciando ambos juntos em doses baixas após washout; os efeitos mais comuns são ganho de peso e hipotensão ortostática."
+    ]
+  },
+  "moclobemida": {
+    "alvos": [
+      "Humor deprimido"
+    ],
+    "latencia": "Ação antidepressiva costuma levar 2 a 4 semanas. Sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficaz.",
+    "se_funciona": [
+      "Manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade, o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Aumentar a dose, trocar ou potencializar; considerar psicoterapia.",
+      "Rever diagnóstico e comorbidades; considerar bipolaridade latente ativada."
+    ],
+    "potencializacao": [
+      "Potencialização de IMAO não foi estudada sistematicamente: reservar a especialistas, embora com moclobemida o risco seja um pouco menor que com outros IMAO.",
+      "Estimulante (dexanfetamina ou metilfenidato), com cautela: pode ativar bipolaridade e ideação suicida.",
+      "Lítio.",
+      "Anticonvulsivantes estabilizadores do humor.",
+      "Antipsicóticos atípicos, com cautela especial com os que inibem recaptação de monoaminas (ziprasidona)."
+    ],
+    "exames": [
+      "Monitorar a pressão arterial."
+    ],
+    "tabela": {
+      "titulo": "Fármacos a evitar com IMAO (Stahl 2017)",
+      "colunas": [
+        "Grupo",
+        "Contraindicados (risco serotoninérgico)",
+        "Usar só com cautela (elevam noradrenalina)"
+      ],
+      "linhas": [
+        [
+          "Antidepressivos",
+          "ISRS, IRSN, clomipramina, erva-de-são-joão",
+          "Maioria dos tricíclicos, inibidores da recaptação de noradrenalina, bupropiona"
+        ],
+        [
+          "Opioides",
+          "Meperidina, tramadol, metadona, fentanil",
+          "Tapentadol"
+        ],
+        [
+          "Estimulantes e drogas",
+          "MDMA, cocaína, metanfetamina, anfetamina em dose alta ou injetável",
+          "Anfetaminas, metilfenidato, modafinila, armodafinila, fentermina"
+        ],
+        [
+          "Antigripais e outros",
+          "Dextrometorfano, clorfeniramina, bronfeniramina, sumatriptana não subcutânea",
+          "Fenilefrina, pseudoefedrina, anestésicos locais com vasoconstritor"
+        ]
+      ],
+      "nota": "A moclobemida exige menos restrição de tiramina que os IMAO irreversíveis, mas em doses altas os alimentos muito ricos em tiramina (queijos curados, embutidos, extratos de levedura, chope, chucrute, soja fermentada, fava) devem ser evitados."
+    },
+    "mecanismo_ea": [
+      "Aumento de monoaminas em locais e receptores não relacionados ao efeito terapêutico: serotonina nos centros do sono (insônia), noradrenalina no músculo liso vascular (alterações da PA).",
+      "Os efeitos costumam surgir logo e muitos desaparecem com o tempo."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Ocorre em minoria significativa.",
+    "ea_graves": [
+      "Crise hipertensiva com alimentos ricos em tiramina, com risco menor que o dos IMAO irreversíveis.",
+      "Virada maníaca.",
+      "Convulsões.",
+      "Ativação de ideação suicida (rara)."
+    ],
+    "manejo": [
+      "Esperar, reduzir a dose ou trocar para ISRS ou antidepressivo mais novo.",
+      "Insônia: benzodiazepínico ou, com cautela, trazodona.",
+      "Hipertensão urgente por interação ou tiramina: o Stahl sugere dose única de bloqueador de canal de cálcio (nifedipina); essa conduta hoje é desaconselhada pelo risco de hipotensão abrupta, e a crise deve ser tratada como emergência."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 300 a 600 mg/dia.",
+      "Início com 300 mg/dia em 3 tomadas após as refeições, com aumento gradual; máximo geralmente de 600 mg/dia e mínimo de 150 mg/dia.",
+      "Tomar após as refeições reduz a chance de interação com tiramina.",
+      "A ação clínica dura mais que a meia-vida (1 a 4 horas; efeito de pelo menos 24 horas), o que permite 2 tomadas ou mesmo 1, sobretudo em doses baixas.",
+      "Em doses altas também inibe a MAO-B e perde a seletividade pela MAO-A, com consequências clínicas incertas."
+    ],
+    "superdosagem": "Agitação, agressividade, alterações de comportamento e irritação gastrointestinal; parece menos tóxica que tricíclicos e IMAO antigos.",
+    "longo_prazo": "IMAO podem perder eficácia a longo prazo.",
+    "dependencia": "Há relatos de dependência de IMAO.",
+    "suspender": [
+      "Em geral não é preciso reduzir gradualmente."
+    ],
+    "interacoes": [
+      "Síndrome serotoninérgica fatal com inibidores da recaptação de serotonina: não usar juntos nem antes de 5 meias-vidas após a suspensão do inibidor.",
+      "Crise hipertensiva com simpaticomiméticos, metildopa, levodopa e outros dopaminérgicos, L-triptofano, L-tirosina e fenilalanina.",
+      "Não associar a outro IMAO, álcool ou guanetidina.",
+      "Tricíclicos, carbamazepina, ciclobenzaprina e mirtazapina: evitar, salvo por especialistas.",
+      "Tramadol aumenta o risco de convulsões.",
+      "Cimetidina eleva os níveis da moclobemida.",
+      "Pode potencializar anti-inflamatórios como o ibuprofeno.",
+      "Anestesia raquidiana e depressores do SNC: hipotensão e sedação aditivas."
+    ],
+    "nao_usar": [
+      "Uso de meperidina, simpaticomiméticos, guanetidina ou outro IMAO.",
+      "Uso de qualquer inibidor da recaptação de serotonina (ISRS, IRSN, clomipramina, tramadol, sibutramina, milnaciprana).",
+      "Estado confusional agudo.",
+      "Feocromocitoma ou tireotoxicose.",
+      "Cefaleias frequentes ou intensas.",
+      "Cirurgia eletiva com anestesia geral.",
+      "Alergia comprovada à moclobemida."
+    ],
+    "advertencias": [
+      "Ainda exige restrição de tiramina, embora tolere mais tiramina que os outros IMAO.",
+      "Vigiar interações com qualquer fármaco, inclusive antigripais, descongestionantes, anorexígenos e broncodilatadores de venda livre.",
+      "Cautela em hipertensos.",
+      "Não recomendada para quem não pode ser acompanhado de perto.",
+      "Vigiar ativação e ideação suicida, sobretudo em jovens."
+    ],
+    "pop": {
+      "renal": "Usar com cautela.",
+      "hepatica": "Concentrações aumentadas; pode exigir metade a um terço da dose usual.",
+      "cardiaca": "Pode exigir dose menor; pacientes com angina ou doença coronariana devem limitar o esforço físico.",
+      "idosos": "Maior sensibilidade aos efeitos adversos.",
+      "criancas": "Não recomendada abaixo de 18 anos.",
+      "gestacao": "Em geral não recomendada, sobretudo no primeiro trimestre; preferir antidepressivo com melhor relação risco/benefício.",
+      "lactacao": "Passa para o leite, com efeitos desconhecidos no lactente; preferir antidepressivo com melhor relação risco/benefício."
+    },
+    "vantagens": [
+      "Depressão atípica.",
+      "Depressão grave.",
+      "Depressão ou transtornos de ansiedade resistentes."
+    ],
+    "desvantagens": [
+      "Pacientes que não aderem às restrições alimentares e medicamentosas nem a tomadas após as refeições."
+    ],
+    "perolas": [
+      "Pode ser alternativa mais segura aos IMAO irreversíveis e não seletivos, com menos interação com tiramina e fármacos e menos hepatotoxicidade, embora não seja isenta de interações.",
+      "Pode ser menos eficaz em doses baixas e ter mais efeitos adversos em doses altas, quando o perfil se aproxima dos IMAO clássicos.",
+      "Cefaleia costuma ser o primeiro sintoma da crise hipertensiva.",
+      "Orientar o paciente a não tomar nenhum medicamento sem consultar o médico.",
+      "Hipotensão ortostática, insônia e disfunção sexual costumam ser os efeitos comuns mais incômodos dos IMAO.",
+      "Associação com clomipramina é sempre proibida."
+    ]
+  },
+  "bupropiona": {
+    "alvos": [
+      "Humor deprimido",
+      "Alterações do sono, sobretudo hipersonia",
+      "Fissura na abstinência de nicotina",
+      "Funcionamento cognitivo"
+    ],
+    "latencia": "Ação antidepressiva costuma levar 2 a 4 semanas. Sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficaz.",
+    "se_funciona": [
+      "Depressão: manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido.",
+      "Tabagismo: um ciclo único de tratamento (o Stahl cita 6 semanas; até 6 meses se mostrou eficaz)."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; alguns perdem a resposta mesmo mantendo o tratamento.",
+      "Aumentar a dose, trocar ou potencializar; considerar psicoterapia.",
+      "Rever diagnóstico e comorbidades.",
+      "A ativação de bipolaridade latente parece menos frequente que com outros antidepressivos."
+    ],
+    "potencializacao": [
+      "Associada a ISRS em respondedores parciais e para reverter disfunção sexual e apatia induzidas por ISRS.",
+      "Frequentemente usada como potencializador de estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar.",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão psicótica ou resistente.",
+      "Mirtazapina, modafinila ou atomoxetina (esta em dose menor, pois a bupropiona pode elevar seus níveis) para sintomas residuais de depressão e TDAH.",
+      "Trazodona ou hipnóticos para insônia residual; benzodiazepínicos para ansiedade residual."
+    ],
+    "exames": [
+      "Pressão arterial basal e periódica."
+    ],
+    "mecanismo_ea": [
+      "Ação de noradrenalina e dopamina no SNC: insônia, tremor, agitação, cefaleia, tontura.",
+      "Ação noradrenérgica periférica: boca seca, constipação, náuseas, anorexia, sudorese.",
+      "A maioria dos efeitos é imediata e costuma melhorar com o tempo."
+    ],
+    "peso": "Relatado, mas não esperado; pode haver perda de peso.",
+    "sedacao": "Relatada, mas não esperada.",
+    "ea_graves": [
+      "Convulsões raras: mais frequentes com a liberação imediata que com a prolongada; o risco sobe acima das doses máximas e na presença de fatores predisponentes.",
+      "Reações anafilactoides ou anafiláticas e síndrome de Stevens-Johnson.",
+      "Hipomania (mais provável em bipolares, mas talvez menos comum que com outros antidepressivos) e virada maníaca rara.",
+      "Ativação de ideação suicida (rara)."
+    ],
+    "manejo": [
+      "Esperar; manter a menor dose possível; tomar até o meio da tarde para evitar insônia; ou trocar.",
+      "Antes de associar fármacos para efeitos adversos, costuma ser melhor tentar outra monoterapia.",
+      "Insônia: trazodona ou hipnótico. Insônia, agitação e efeitos gastrointestinais: mirtazapina. Ansiedade e agitação: benzodiazepínico ou buspirona.",
+      "Ativação e agitação podem indicar estado misto bipolar com ideação suicida: associar lítio, estabilizador ou antipsicótico atípico, ou suspender."
+    ],
+    "dicas_dose": [
+      "Faixas por formulação: liberação imediata 225 a 450 mg/dia em 3 tomadas (máximo de 150 mg por tomada); SR 200 a 450 mg/dia em 2 tomadas (máximo de 200 mg por tomada); XL 150 a 450 mg em dose única; bromidrato 174 a 522 mg em dose única (formulações de liberação imediata e bromidrato são norte-americanas).",
+      "SR na depressão: 100 mg 2 vezes ao dia, subindo para 150 mg 2 vezes ao dia após pelo menos 3 dias; esperar 4 semanas antes de novo aumento; máximo de 400 mg/dia.",
+      "XL na depressão: 150 mg pela manhã, podendo passar a 300 mg após 4 dias; máximo de 450 mg em dose única.",
+      "Tabagismo (SR): 150 mg/dia por pelo menos 3 dias, depois 150 mg 2 vezes ao dia; máximo de 300 mg/dia. Iniciar 1 a 2 semanas antes da data de parada; pode ser associada à reposição de nicotina.",
+      "O XL substituiu as outras formulações como opção preferida. Não partir nem mastigar SR ou XL.",
+      "Acima de 450 mg/dia (400 mg/dia do SR) o risco de convulsões aumenta. Sem resposta a 450 mg/dia, suspender ou dosar bupropiona e hidroxibupropiona; se os níveis forem baixos, especialistas podem ultrapassar a faixa com monitorização e consentimento sobre o risco de convulsão.",
+      "Quanto mais ansioso ou agitado o paciente, menor a dose inicial, mais lenta a titulação e maior a chance de precisar de trazodona ou benzodiazepínico associado.",
+      "Na depressão bipolar, costuma ser usada como adjuvante de lítio, estabilizadores ou antipsicóticos atípicos."
+    ],
+    "superdosagem": "Raramente letal: convulsões, alterações cardíacas, alucinações e perda de consciência.",
+    "longo_prazo": "Na depressão, até 1 ano reduz recaídas; no tabagismo, até 6 meses se mostrou eficaz.",
+    "dependencia": "Não causa dependência, mas pode ser abusada por quem tritura o comprimido e aspira ou injeta.",
+    "suspender": [
+      "Reduzir gradualmente é prudente, embora não haja tolerância, dependência ou retirada bem documentadas."
+    ],
+    "interacoes": [
+      "Tramadol aumenta o risco de convulsões.",
+      "Pode elevar os níveis de tricíclicos: cautela na associação e na troca de tricíclico para bupropiona.",
+      "Com IMAO ou outros fármacos que elevam noradrenalina: risco de reação hipertensiva; associação só por especialistas, inclusive nos 14 dias após suspender o IMAO.",
+      "Com reposição de nicotina: possível aumento da PA.",
+      "Pela inibição do CYP2D6, pode reduzir a analgesia da codeína e elevar níveis de alguns betabloqueadores, da atomoxetina e da tioridazina (risco de arritmia grave).",
+      "Cautela com outros fármacos que reduzem o limiar convulsivo (tricíclicos, lítio, fenotiazinas, tioxantenos, alguns antipsicóticos).",
+      "Com levodopa ou amantadina, pode potencializar a neurotransmissão dopaminérgica e ser ativadora.",
+      "Parar de fumar pode alterar a farmacocinética de outros fármacos e exigir ajuste de dose."
+    ],
+    "nao_usar": [
+      "História de convulsões.",
+      "Anorexia ou bulimia, atuais ou prévias (ver pérolas).",
+      "Suspensão abrupta de álcool, sedativos ou anticonvulsivantes.",
+      "Traumatismo craniano recente.",
+      "Tumor do sistema nervoso.",
+      "Uso de IMAO (salvo situações de especialista) ou de tioridazina.",
+      "Uso simultâneo de dois produtos com bupropiona (ex.: formulação para tabagismo com a antidepressiva).",
+      "Alergia comprovada à bupropiona."
+    ],
+    "advertencias": [
+      "Não usar em insônia grave.",
+      "Cautela no transtorno bipolar sem estabilizador do humor associado.",
+      "Vigiar ativação e ideação suicida, sobretudo em jovens."
+    ],
+    "pop": {
+      "renal": "Dose inicial menor, talvez com menor frequência; a concentração pode aumentar; monitorar de perto.",
+      "hepatica": "Dose inicial menor, talvez com menor frequência; monitorar de perto. Cirrose grave: XL no máximo 150 mg em dias alternados.",
+      "cardiaca": "Dados limitados; há evidência de aumento da PA em decúbito. Usar com cautela.",
+      "idosos": "Alguns toleram melhor doses menores.",
+      "criancas": "Segurança e eficácia não estabelecidas. Pode ser usada no TDAH e para cessação do tabagismo em adolescentes; dados preliminares sugerem eficácia em depressão com TDAH. Adolescentes seguem a dose adulta; crianças iniciam com dose menor, máximo de 300 mg/dia.",
+      "gestacao": "Sem estudos controlados; estudos epidemiológicos não mostram aumento de malformações em geral nem cardiovasculares. O Stahl não recomenda de rotina, sobretudo no primeiro trimestre, mas pesar o risco da depressão não tratada; na gestante que quer parar de fumar, tentar terapia comportamental antes.",
+      "lactacao": "Passa para o leite; se o lactente ficar irritado ou sedado, suspender a amamentação ou o fármaco. Muitas vezes a manutenção é justificada pelo risco no pós-parto."
+    },
+    "vantagens": [
+      "Depressão com retardo psicomotor.",
+      "Depressão atípica.",
+      "Depressão bipolar.",
+      "Pacientes preocupados com disfunção sexual ou ganho de peso."
+    ],
+    "desvantagens": [
+      "Depressão com perda de peso.",
+      "Pacientes muito ativados."
+    ],
+    "perolas": [
+      "Pode funcionar quando ISRS falharam ou perderam efeito.",
+      "Menos propensa a induzir hipomania que outros antidepressivos.",
+      "Pode melhorar lentificação cognitiva e pseudodemência; reduz hipersonia e fadiga.",
+      "Raramente causa disfunção sexual; pode piorar tiques; talvez menos eficaz nos transtornos de ansiedade.",
+      "A proibição em transtornos alimentares vem de convulsões com liberação imediata em doses altas em pacientes de baixo peso com anorexia ativa; hoje, pacientes com IMC normal e sem outros fatores de risco podem se beneficiar de doses prudentes de XL, com especialista, monitorização e consentimento.",
+      "O bromidrato permite dose única equivalente a 450 mg de cloridrato; o efeito anticonvulsivante do brometo é teórico.",
+      "A associação com naltrexona tem eficácia comprovada na obesidade."
+    ]
+  },
+  "mirtazapina": {
+    "alvos": [
+      "Humor deprimido",
+      "Alterações do sono",
+      "Ansiedade"
+    ],
+    "latencia": "Efeito sobre insônia e ansiedade pode começar logo após o início; ação antidepressiva costuma levar 2 a 4 semanas. Sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficaz.",
+    "se_funciona": [
+      "Manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade, o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Aumentar a dose, trocar ou potencializar; considerar psicoterapia.",
+      "Rever diagnóstico e comorbidades; considerar bipolaridade latente ativada."
+    ],
+    "potencializacao": [
+      "ISRS, bupropiona, reboxetina ou atomoxetina (associações de antidepressivos podem ativar bipolaridade e ideação suicida).",
+      "Venlafaxina (California rocket fuel): combinação serotoninérgica e noradrenérgica potente; vigiar ativação.",
+      "Modafinila para fadiga, sonolência e falta de concentração.",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente.",
+      "Benzodiazepínicos; hipnóticos ou trazodona para insônia."
+    ],
+    "exames": [
+      "Nenhum em pessoas saudáveis.",
+      "Provas de função hepática antes de iniciar em quem tem hepatopatia.",
+      "Hemograma durante o tratamento em quem tem discrasia sanguínea, leucopenia ou granulocitopenia.",
+      "Peso e IMC antes e durante o tratamento; rastrear alterações metabólicas em sobrepeso ou se o ganho passar de 5%."
+    ],
+    "mecanismo_ea": [
+      "Antagonismo H1: sedação.",
+      "Antagonismo H1 e 5-HT2C: ganho de peso.",
+      "A maioria dos efeitos é imediata e costuma melhorar com o tempo."
+    ],
+    "peso": "Frequente e muitas vezes importante. Mais provável em mulheres, sobretudo antes da menopausa; se não ocorrer até a sexta semana, ganho importante é menos provável.",
+    "sedacao": "Frequente e muitas vezes intensa; pode não piorar com o aumento da dose.",
+    "ea_graves": [
+      "Convulsões raras.",
+      "Virada maníaca rara.",
+      "Ativação de ideação suicida (rara)."
+    ],
+    "manejo": [
+      "Esperar ou trocar; antes de associar fármacos para efeitos adversos, costuma ser melhor tentar outra monoterapia.",
+      "Insônia: trazodona ou hipnótico.",
+      "Ganho de peso: ISRS, venlafaxina, bupropiona, fentermina ou estimulantes podem atenuá-lo.",
+      "Sintomas gripais podem indicar leucopenia ou granulocitopenia: avaliar hemograma.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou antipsicótico atípico, ou suspender."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 15 a 45 mg à noite.",
+      "Início com 15 mg à noite, com aumentos a cada 1 a 2 semanas; máximo geralmente de 45 mg/dia.",
+      "Alguns pacientes difíceis precisam e toleram mais de 45 mg/dia, até 90 mg.",
+      "Partir o comprimido de 15 mg para usar 7,5 mg pode aumentar a sedação."
+    ],
+    "superdosagem": "Raramente letal; as mortes envolveram outros fármacos. Sedação, desorientação, prejuízo de memória e taquicardia.",
+    "longo_prazo": "Seguro.",
+    "dependencia": "Não esperada.",
+    "suspender": [
+      "Reduzir gradualmente é prudente, embora tolerância, dependência e retirada não tenham sido relatadas de forma consistente."
+    ],
+    "interacoes": [
+      "Tramadol aumenta o risco de convulsões.",
+      "Sem interações farmacocinéticas significativas; não afeta o sistema CYP450.",
+      "Síndrome serotoninérgica fatal com IMAO: não usar juntos nem nos 14 dias após o IMAO; aguardar 5 meias-vidas (5 a 7 dias) após a mirtazapina antes de iniciar IMAO.",
+      "Álcool aumenta a sedação e os efeitos cognitivos e motores."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Alergia comprovada à mirtazapina."
+    ],
+    "advertencias": [
+      "Pode reduzir leucócitos (raro; talvez não mais que outros antidepressivos).",
+      "Pode aumentar o colesterol e causar fotossensibilidade.",
+      "Cautela em epilepsia e no transtorno bipolar sem estabilizador do humor.",
+      "Vigiar ativação e ideação suicida, sobretudo em jovens."
+    ],
+    "pop": {
+      "renal": "Usar com cautela.",
+      "hepatica": "Usar com cautela; pode exigir dose menor.",
+      "cardiaca": "Usar com cautela, considerando o risco de hipotensão.",
+      "idosos": "Alguns toleram melhor doses menores.",
+      "criancas": "Segurança e eficácia não estabelecidas.",
+      "gestacao": "Sem estudos controlados; o Stahl não recomenda de rotina, sobretudo no primeiro trimestre, mas pesar o risco da depressão não tratada; muitas vezes a manutenção é justificada.",
+      "lactacao": "Excreção no leite desconhecida; se o lactente ficar irritado ou sedado, suspender a amamentação ou o fármaco. Muitas vezes a manutenção é justificada pelo risco no pós-parto."
+    },
+    "vantagens": [
+      "Pacientes preocupados com efeitos sexuais.",
+      "Pacientes com ansiedade.",
+      "Pacientes com muitos medicamentos concomitantes.",
+      "Como potencializador de outros antidepressivos."
+    ],
+    "desvantagens": [
+      "Pacientes preocupados com ganho de peso.",
+      "Pacientes com pouca energia."
+    ],
+    "perolas": [
+      "Somar o antagonismo alfa-2 a inibidores da recaptação de serotonina ou noradrenalina pode ser sinérgico na depressão grave.",
+      "Associada a venlafaxina ou ISRS, pode reverter ansiedade, insônia, náuseas, diarreia e cólicas induzidas por eles (antagonismo 5-HT3).",
+      "Início de ação mais rápido que o dos ISRS.",
+      "Raramente causa disfunção sexual.",
+      "Pacientes sensíveis podem ter sedação residual e sensação de embriaguez no início.",
+      "Dados preliminares de eficácia como adjuvante do haloperidol nos sintomas negativos da esquizofrenia.",
+      "Raramente causa rastros visuais ou pós-imagens."
+    ]
+  },
+  "trazodona": {
+    "alvos": [
+      "Depressão",
+      "Ansiedade",
+      "Alterações do sono"
+    ],
+    "latencia": "Na insônia, efeito imediato se a dose for adequada. Na depressão, em monoterapia ou como adjuvante, costuma levar 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficaz.",
+    "se_funciona": [
+      "Insônia: o uso pode ser indefinido, pois não há evidência confiável de tolerância, dependência ou retirada, embora faltem estudos longos.",
+      "Insônia secundária: se o transtorno de base remitiu, pode-se suspender caso a insônia não retorne.",
+      "Depressão: manter até a remissão e depois por 1 ano no primeiro episódio; a partir do segundo, o tratamento pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Insônia: aumentar a dose ou trocar.",
+      "Depressão: aumentar a dose, trocar ou potencializar; considerar psicoterapia.",
+      "Rever diagnóstico e comorbidades; considerar bipolaridade latente ativada."
+    ],
+    "potencializacao": [
+      "Pouco usada em monoterapia para insônia; em casos difíceis, pode ser associada a benzodiazepínicos hipnóticos.",
+      "Na depressão, é usada sobretudo como adjuvante de outros antidepressivos, melhorando a insônia e potencializando o efeito antidepressivo.",
+      "Pode tratar insônia em transtorno bipolar, esquizofrenia e abstinência alcoólica, associada a lítio, estabilizadores ou antipsicóticos."
+    ],
+    "exames": [
+      "Nenhum em pessoas saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio H1: sedação.",
+      "Bloqueio alfa-1: tontura, sedação e hipotensão.",
+      "A maioria dos efeitos é imediata e costuma melhorar com o tempo."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e muitas vezes intensa; pode haver sedação residual intensa se a dose for alta.",
+    "ea_graves": [
+      "Priapismo raro (cerca de 1 em 8.000 homens).",
+      "Convulsões raras.",
+      "Virada maníaca rara.",
+      "Ativação de ideação suicida (rara)."
+    ],
+    "manejo": [
+      "Esperar; concentrar a dose à noite para evitar sedação diurna; ou trocar.",
+      "A maioria dos efeitos não melhora com adjuvantes.",
+      "Ereção prolongada: suspender, pelo risco de disfunção erétil permanente. Orientar a procurar atendimento imediato se houver ereção dolorosa por mais de 1 hora. Em geral reverte espontaneamente; em casos urgentes, fenilefrina local ou cirurgia.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou antipsicótico atípico, ou suspender."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 150 a 600 mg/dia; liberação prolongada, 150 a 375 mg/dia.",
+      "Depressão em monoterapia: 150 mg/dia divididos, com aumentos de 50 mg/dia a cada 3 a 4 dias; máximo de 400 mg/dia em ambulatório ou 600 mg/dia em internação, em 2 tomadas.",
+      "Insônia e potencialização de antidepressivos: 25 a 50 mg ao deitar, geralmente 50 a 100 mg/dia; alguns precisam da faixa antidepressiva completa.",
+      "Liberação prolongada: 150 mg uma vez ao dia, com aumentos de 75 mg/dia a cada 3 dias; máximo geralmente de 375 mg/dia.",
+      "Começar baixo e subir devagar: doses agressivas no início causam sedação residual, ataxia e sensação de embriaguez.",
+      "Não abandonar por falta de efeito em doses abaixo de 50 mg: casos difíceis podem responder a 150 a 300 mg, até 600 mg.",
+      "Como adjuvante, costuma ser mais eficaz e tolerada em dose única ao deitar; parte da dose pode ser dada de dia para ansiedade, se não sedar demais."
+    ],
+    "superdosagem": "Raramente letal: sedação, vômitos, priapismo, parada respiratória, convulsão e alterações de ECG.",
+    "longo_prazo": "Seguro.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir gradualmente é prudente, embora tolerância, dependência e retirada não tenham sido demonstradas de forma consistente."
+    ],
+    "interacoes": [
+      "Tramadol aumenta o risco de convulsões.",
+      "Fluoxetina e outros ISRS podem elevar os níveis de trazodona.",
+      "Pode reduzir o efeito de anti-hipertensivos e da clonidina.",
+      "Pode elevar os níveis de digoxina e fenitoína.",
+      "Relatos de aumento e de redução do tempo de protrombina com varfarina.",
+      "Em geral não usar com IMAO nem nos 14 dias após sua suspensão (ver pérolas).",
+      "Efeitos aditivos com outros depressores do SNC."
+    ],
+    "nao_usar": [
+      "Uso de IMAO (salvo situação de especialista, ver pérolas).",
+      "Alergia comprovada à trazodona."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia e no transtorno bipolar sem estabilizador do humor.",
+      "Vigiar ativação e ideação suicida, sobretudo em jovens."
+    ],
+    "pop": {
+      "renal": "Sem ajuste de dose.",
+      "hepatica": "Usar com cautela.",
+      "cardiaca": "Pode ser arritmogênica; monitorar de perto. Não recomendada na recuperação de infarto do miocárdio.",
+      "idosos": "Mais sensíveis aos efeitos adversos; podem precisar de doses menores.",
+      "criancas": "Segurança e eficácia não estabelecidas, mas usada em alterações de comportamento, depressão e terror noturno. Dose inicial menor e titulação lenta; meninos podem ser ainda mais sensíveis a ereções prolongadas.",
+      "gestacao": "Sem estudos controlados; evitar no primeiro trimestre. Pesar o risco da depressão não tratada; muitas vezes a manutenção é justificada.",
+      "lactacao": "Passa para o leite; se o lactente ficar irritado ou sedado, suspender a amamentação ou o fármaco. Muitas vezes a manutenção é justificada pelo risco no pós-parto."
+    },
+    "vantagens": [
+      "Insônia quando se quer evitar fármacos que causam dependência.",
+      "Adjuvante para ansiedade e insônia residuais com outros antidepressivos.",
+      "Depressão com ansiedade.",
+      "Pacientes preocupados com efeitos sexuais ou ganho de peso."
+    ],
+    "desvantagens": [
+      "Pacientes com fadiga ou hipersonia.",
+      "Pacientes que não toleram sedação."
+    ],
+    "perolas": [
+      "Pode ser menos propensa a precipitar hipomania ou mania que outros antidepressivos.",
+      "Raramente causa disfunção sexual.",
+      "Muitas vezes não é tolerada em monoterapia na depressão moderada a grave, pois muitos não suportam doses acima de 150 mg; se doses menores forem bem toleradas e ineficazes, tentar até 600 mg/dia.",
+      "Sinal precoce de priapismo iminente: detumescência lenta ao acordar do sono REM.",
+      "Pode ajudar em agitação e agressividade na demência e, segundo dados preliminares, em discinesias induzidas por fármacos.",
+      "Para especialistas: pode ser usada com cautela para insônia associada a IMAO, apesar da advertência, com monitorização rigorosa.",
+      "Ao tratar insônia, investigar transtorno psiquiátrico ou clínico de base.",
+      "Raramente causa rastros visuais ou pós-imagens."
+    ]
+  }
+}

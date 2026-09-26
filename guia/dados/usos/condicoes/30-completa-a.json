@@ -1,0 +1,174 @@
+{
+"Espectro obsessivo": {
+ "armadilhas": [
+  "Encaminhar ou apoiar cirurgia estética e procedimentos dermatológicos no dismórfico corporal: raramente reduzem os sintomas e com frequência pioram a preocupação ou geram insatisfação e litígio.",
+  "Tratar o insight delirante do dismórfico corporal como psicose e prescrever antipsicótico em monoterapia, em vez de ISRS em dose alta.",
+  "Usar ISRS em dose e tempo insuficientes no dismórfico corporal (menos de 12 semanas ou dose de depressão), concluindo cedo por falha.",
+  "Esperar da tricotilomania e da escoriação a mesma resposta a ISRS do TOC e deixar de oferecer terapia de reversão de hábito e N-acetilcisteína.",
+  "Subestimar o risco de suicídio no dismórfico corporal e não perguntar ativamente sobre ideação e tentativas.",
+  "Promover ou apoiar limpeza forçada da casa na acumulação sem tratamento associado: alta recaída e ruptura do vínculo.",
+  "Não examinar a pele e o couro cabeludo nem perguntar sobre tricofagia (risco de tricobezoar) e infecções na escoriação."
+ ]
+},
+"Sintomas negativos": {
+ "armadilhas": [
+  "Tratar como primários sintomas negativos secundários a acinesia por antipsicótico, sedação, depressão ou sintomas positivos não controlados.",
+  "Aumentar a dose do antipsicótico para 'tratar' a apatia, o que agrava EPS e sedação e piora o quadro.",
+  "Associar um segundo antipsicótico sedativo ou benzodiazepínico crônico, somando embotamento e prejuízo cognitivo.",
+  "Usar psicoestimulantes para avolição: benefício inconsistente e risco de reativar sintomas positivos.",
+  "Avaliar adjuvantes por pouco tempo (N-acetilcisteína precisa de cerca de 24 semanas; antidepressivos, de 8 a 12 semanas).",
+  "Esquecer as intervenções psicossociais (treino de habilidades sociais, emprego apoiado, exercício), que têm efeito igual ou maior que os fármacos.",
+  "Rotular o paciente como 'preguiçoso' ou 'sem vontade' diante da família, sem psicoeducação sobre os sintomas negativos."
+ ]
+},
+"Transtorno esquizoafetivo": {
+ "avaliacao": [
+  "Linha do tempo da doença inteira (gráfico de vida com família e prontuários): tempo com psicose sem humor alterado (critério B) e proporção do curso com episódios de humor (critério C); definir tipo bipolar ou depressivo.",
+  "Uso de substâncias (cannabis, estimulantes, álcool) com exame toxicológico, e causas médicas no primeiro episódio (TSH, sorologias para sífilis e HIV, neuroimagem e EEG se atípico).",
+  "Risco de suicídio com C-SSRS, elevado sobretudo no tipo depressivo e após alta hospitalar.",
+  "Escalas de base: PANSS ou BPRS, YMRS e MADRS ou Calgary, para acompanhar cada dimensão separadamente.",
+  "Linha de base metabólica para antipsicótico: peso, IMC, circunferência abdominal, PA, glicemia ou HbA1c, lipídios; prolactina se sintomas.",
+  "Antes do lítio: creatinina e TFG, eletrólitos, TSH, cálcio, ECG se mais de 40 anos ou cardiopatia, beta-hCG; antes do valproato: hemograma, função hepática e beta-hCG.",
+  "Possibilidade de gestação e contracepção em mulheres em idade fértil (evitar valproato).",
+  "Adesão prévia e histórico de recaídas, que orientam a indicação precoce de antipsicótico de ação prolongada."
+ ],
+ "nao_farmacologico": [
+  "Psicoeducação individual e familiar sobre as duas dimensões (psicose e humor) e sinais precoces de recaída.",
+  "TCC para psicose (TCCp), com foco em delírios, vozes persistentes e sintomas depressivos.",
+  "Intervenção familiar estruturada (10 sessões ou mais em 3 meses a 1 ano, conforme NICE).",
+  "Regularidade de rotina e sono, com técnicas da terapia interpessoal e de ritmos sociais no tipo bipolar.",
+  "Emprego apoiado no modelo IPS e reabilitação psicossocial (CAPS).",
+  "Plano de segurança para crise suicida, com restrição de acesso a meios letais.",
+  "Programa de atividade física e dieta para prevenção metabólica."
+ ],
+ "etapas": [
+  {"titulo": "Antipsicótico contínuo", "texto": "Antipsicótico de segunda geração como base: paliperidona 6 a 12 mg/dia (aprovada pela FDA para o transtorno esquizoafetivo), risperidona 2 a 6 mg/dia, aripiprazol 10 a 30 mg/dia ou olanzapina 10 a 20 mg/dia. Avaliar resposta psicótica em 4 a 6 semanas na dose-alvo."},
+  {"titulo": "Tipo bipolar", "texto": "Na mania ou em recorrência afetiva apesar do antipsicótico, associar lítio (litemia 0,6 a 1,0 mmol/L; 0,8 a 1,2 mmol/L na mania aguda) ou valproato (50 a 100 mcg/mL, evitado em mulheres em idade fértil). Não usar antidepressivo em monoterapia."},
+  {"titulo": "Tipo depressivo", "texto": "Se o episódio depressivo maior persistir com o antipsicótico em dose adequada, associar ISRS (sertralina 50 a 200 mg, escitalopram 10 a 20 mg) ou IRSN, reavaliando em 4 a 8 semanas; evidência limitada."},
+  {"titulo": "Manutenção e adesão", "texto": "Manter o antipsicótico de forma indefinida após múltiplos episódios. Com adesão incerta ou recaídas por abandono, preferir antipsicótico de ação prolongada (palmitato de paliperidona mensal, com dados específicos em esquizoafetivo)."},
+  {"titulo": "Resistência e gravidade", "texto": "Após dois antipsicóticos adequados (6 semanas cada) sem resposta, ou com risco de suicídio persistente, clozapina (alvo sérico de 350 ng/mL ou mais). ECT em mania ou depressão graves, catatonia ou risco suicida iminente. Encaminhar a serviço especializado nesses casos."}
+ ],
+ "armadilhas": [
+  "Diagnosticar esquizoafetivo a partir de um corte transversal (psicose e humor alterado no mesmo momento), sem reconstruir a linha do tempo do curso inteiro.",
+  "Suspender o antipsicótico após a remissão do episódio de humor, como se fosse transtorno bipolar com psicose, ignorando a psicose que persiste fora dos episódios.",
+  "Usar antidepressivo sem antipsicótico ou sem estabilizador no tipo bipolar, com risco de virada maníaca e ciclagem.",
+  "Prescrever valproato a mulher em idade fértil sem contracepção eficaz e sem discutir teratogenicidade.",
+  "Atrasar a clozapina em pacientes resistentes ou com comportamento suicida recorrente.",
+  "Deixar de investigar uso de substâncias, que produz quadros mistos de psicose e humor e confunde o diagnóstico.",
+  "Não avaliar o risco de suicídio a cada consulta, principalmente no tipo depressivo."
+ ],
+ "diretrizes": "APA, diretriz para esquizofrenia, 3.ª ed. (2020); NICE CG178 (2014), psicose e esquizofrenia em adultos; CANMAT/ISBD (2018) para o componente bipolar; Maudsley Prescribing Guidelines, 15.ª ed. (2025); ensaios de paliperidona no esquizoafetivo (Canuso 2010; Fu 2015) e InterSePT (Meltzer 2003) para clozapina."
+},
+"Psicose no Parkinson": {
+ "nao_farmacologico": [
+  "Psicoeducação do paciente e do cuidador: alucinações menores com crítica são comuns, não indicam loucura e muitas vezes não precisam de fármaco.",
+  "Orientação ao cuidador para não confrontar delírios, validar a emoção e redirecionar a atenção.",
+  "Iluminação adequada à noite, redução de sombras e reflexos, correção de déficits visuais (óculos, catarata) e auditivos.",
+  "Rotina regular de sono e vigília, com exposição à luz diurna e atividade física adaptada.",
+  "Segurança do ambiente (quedas, acesso a objetos perigosos) e apoio ao cuidador, inclusive grupos de apoio.",
+  "Reabilitação multiprofissional (fisioterapia, terapia ocupacional) para manter a funcionalidade enquanto se reduzem dopaminérgicos."
+ ],
+ "diretrizes": "MDS, revisão baseada em evidências dos tratamentos não motores da doença de Parkinson (Seppi 2019); NICE NG71 (2017); AAN, parâmetro de prática (Miyasaki 2006); critérios diagnósticos NINDS-NIMH (Ravina 2007); ensaios PSYCLOPS e French Clozapine Study (1999) e da pimavanserina (Cummings 2014)."
+},
+"Catatonia": {
+ "nao_farmacologico": [
+  "ECT bilateral, tratamento de segunda linha e de urgência na catatonia maligna, sem resposta ao benzodiazepínico ou com risco clínico.",
+  "Hidratação e nutrição garantidas (via venosa ou sonda nasoenteral quando há recusa), com balanço hídrico.",
+  "Profilaxia de tromboembolismo (heparina e meias ou compressão pneumática), mudança de decúbito a cada 2 horas e cuidados com a pele.",
+  "Fisioterapia motora e respiratória para prevenir contraturas, atelectasia e pneumonia aspirativa.",
+  "Ambiente calmo e com poucos estímulos, comunicação simples e explicação dos procedimentos, mesmo ao paciente mudo.",
+  "Orientação à família sobre a natureza tratável do quadro e o risco de recaída."
+ ]
+},
+"Irritabilidade no TEA": {
+ "armadilhas": [
+  "Iniciar antipsicótico sem investigar dor, constipação, problemas dentários, otite, distúrbios do sono, convulsões e mudanças no ambiente.",
+  "Prescrever sem definir o comportamento-alvo e a medida de resposta (por exemplo, ABC-I) e manter o fármaco sem resposta clara após 6 semanas.",
+  "Não monitorar peso, glicemia, lipídios e prolactina com risperidona ou aripiprazol, deixando o ganho de peso rápido avançar.",
+  "Usar benzodiazepínicos para agitação, com risco de desinibição paradoxal.",
+  "Confundir catatonia (lentificação, mutismo, perda de habilidades, posturas) com piora comportamental e aumentar o antipsicótico.",
+  "Manter o antipsicótico indefinidamente sem tentar redução planejada após 6 meses de estabilidade, acumulando polifarmácia na vida adulta.",
+  "Usar o fármaco no lugar da intervenção comportamental e do treino parental, em vez de associá-los."
+ ]
+},
+"Tiques e Tourette": {
+ "avaliacao": [
+  "Gravidade e prejuízo dos tiques com a YGTSS, incluindo dor, lesão, prejuízo escolar, bullying e isolamento; a decisão de tratar depende do prejuízo.",
+  "Comorbidades que costumam prejudicar mais que os tiques: TDAH, TOC, ansiedade, depressão, problemas de aprendizagem e explosões de raiva.",
+  "Fenomenologia para excluir diferenciais: impulso premonitório, supressibilidade, idade de início (tiques funcionais, estereotipias, coreia); exame neurológico.",
+  "Fármacos que podem induzir ou piorar tiques (estimulantes em dose alta, lamotrigina, levodopa) e antecedentes de antipsicóticos (discinesia tardia).",
+  "Antes de antipsicótico: peso, IMC, circunferência abdominal, PA, glicemia e lipídios; prolactina de base com risperidona ou haloperidol.",
+  "ECG antes de pimozida ou haloperidol em dose alta, com revisão de interações (inibidores de CYP3A4 e CYP2D6) e história familiar de morte súbita.",
+  "Antes de clonidina: PA, FC e história de síncope ou arritmia.",
+  "Recursos de tratamento comportamental disponíveis (CBIT) e contexto escolar e familiar."
+ ],
+ "armadilhas": [
+  "Medicar tiques leves sem prejuízo, sem considerar a flutuação natural e a melhora frequente na adolescência.",
+  "Suspender o estimulante no TDAH comórbido por medo de tiques, quando na maioria dos pacientes eles não pioram.",
+  "Trocar o fármaco precocemente por uma piora que faz parte da flutuação natural dos tiques; julgar a resposta em períodos de semanas a meses.",
+  "Suspender a clonidina abruptamente, com risco de hipertensão de rebote e piora dos tiques.",
+  "Usar pimozida ou haloperidol sem ECG e sem checar interações que prolongam o QT.",
+  "Não reconhecer tiques funcionais (início abrupto em adolescente ou adulto, complexos desde o início) e tratá-los com antipsicótico.",
+  "Tratar apenas os tiques e negligenciar TDAH, TOC ou ansiedade, que costumam determinar mais o prejuízo."
+ ]
+},
+"Demência com corpos de Lewy": {
+ "avaliacao": [
+  "Critérios de McKeith 2017: flutuações, alucinações visuais, transtorno comportamental do sono REM e parkinsonismo; biomarcadores (DaTscan, polissonografia, cintilografia miocárdica com MIBG) quando o diagnóstico é incerto.",
+  "Avaliação cognitiva com perfil atencional, executivo e visuoespacial (MoCA, cópia de figuras), menos amnésico que no Alzheimer.",
+  "Excluir delirium e causas reversíveis: hemograma, eletrólitos, função renal e hepática, TSH, B12, glicemia, exame de urina; neuroimagem.",
+  "Revisar fármacos com carga anticolinérgica, antipsicóticos, benzodiazepínicos, agonistas dopaminérgicos e amantadina.",
+  "Antes do inibidor de colinesterase: ECG e FC (bradicardia, bloqueio AV, síncope), história de úlcera péptica e asma ou DPOC.",
+  "PA deitado e em pé (hipotensão ortostática), história de quedas e síncope.",
+  "Sintomas de sono, humor e disautonomia (constipação, urgência urinária) e capacidade do cuidador.",
+  "Registrar a sensibilidade a antipsicóticos no prontuário e informar a equipe antes de internações."
+ ],
+ "nao_farmacologico": [
+  "Psicoeducação do cuidador sobre flutuações, alucinações (não confrontar, redirecionar) e a sensibilidade a antipsicóticos.",
+  "Segurança do ambiente de sono no transtorno comportamental do sono REM: afastar móveis e objetos, proteger cabeceira, colchão no chão ou cama separada.",
+  "Fisioterapia e treino de marcha e equilíbrio para prevenção de quedas; terapia ocupacional para adaptar a casa.",
+  "Medidas para hipotensão ortostática: hidratação, aumento de sal se não houver contraindicação, meias compressivas, cabeceira elevada, levantar-se devagar.",
+  "Iluminação adequada, correção visual e rotina estruturada, com atividade física e estimulação cognitiva adaptadas.",
+  "Fonoterapia para disfagia e comunicação.",
+  "Apoio ao cuidador, grupos de apoio e planejamento antecipado de cuidados."
+ ],
+ "diretrizes": "Critérios do Consórcio DLB (McKeith 2017); revisão de manejo de Taylor e colaboradores (Lancet Neurology, 2020); NICE NG97 (2018), demência; AASM (2023) para o transtorno comportamental do sono REM; MDS (Seppi 2019) para psicose na doença de Parkinson."
+},
+"Transtornos de ansiedade": {
+ "avaliacao": [
+  "Diagnóstico específico com entrevista estruturada (MINI) e escalas: GAD-7, OASIS, PDSS, LSAS ou SCARED em jovens; o transtorno específico define a primeira linha.",
+  "Causas médicas conforme o quadro: TSH, glicemia, hemograma, eletrólitos; ECG se palpitações ou dor torácica.",
+  "Medicamentos e substâncias: cafeína, estimulantes, corticoides, beta-agonistas, levotiroxina, álcool, cannabis e abstinência de benzodiazepínicos.",
+  "Depressão comórbida e risco de suicídio (PHQ-9, C-SSRS), além de rastreio de bipolaridade antes de antidepressivo.",
+  "Uso atual e prévio de benzodiazepínicos, história de dependência de álcool ou outras substâncias.",
+  "Gestação, amamentação e idade (idosos: quedas, cognição, interações e hiponatremia com ISRS).",
+  "Comorbidades clínicas relevantes para a escolha: cardiopatia e QT, hepatopatia, doença renal, glaucoma de ângulo fechado, apneia do sono (benzodiazepínicos)."
+ ],
+ "nao_farmacologico": [
+  "TCC específica para o transtorno, com reestruturação cognitiva e exposição graduada (interoceptiva no pânico, in vivo na agorafobia e nas fobias, em situações sociais na ansiedade social).",
+  "Exposição com prevenção de resposta quando há TOC comórbido.",
+  "Intervenções de baixa intensidade do modelo escalonado: autoajuda guiada e TCC por internet.",
+  "Psicoeducação sobre ansiedade, comportamentos de segurança e evitação.",
+  "Técnicas de relaxamento aplicado e respiração como componentes da TCC, e intervenções baseadas em mindfulness.",
+  "Atividade física regular e redução de cafeína e álcool.",
+  "Na criança e no adolescente: TCC com participação dos pais (programas como Coping Cat)."
+ ],
+ "etapas": [
+  {"titulo": "Definir o diagnóstico específico", "texto": "Identificar TAG, pânico, ansiedade social, fobia específica, TEPT ou TOC e seguir a página própria; excluir causas médicas e substâncias e tratar depressão comórbida."},
+  {"titulo": "Primeira linha", "texto": "TCC e/ou ISRS ou IRSN: sertralina 50 a 200 mg, escitalopram 10 a 20 mg, paroxetina 20 a 50 mg, venlafaxina 75 a 225 mg, duloxetina 60 a 120 mg (TAG); pregabalina 150 a 600 mg no TAG. Começar com metade da dose no pânico para evitar ativação; avaliar em 4 a 6 semanas."},
+  {"titulo": "Benzodiazepínico com prazo", "texto": "Apenas para alívio no início do antidepressivo ou em crises, por 2 a 4 semanas (clonazepam 0,5 a 2 mg/dia, diazepam 5 a 20 mg/dia), com plano de retirada definido desde o início; hidroxizina 25 a 50 mg se houver risco de abuso. Fobia específica: exposição, sem fármaco regular."},
+  {"titulo": "Sem resposta", "texto": "Após 8 a 12 semanas em dose adequada, aumentar a dose, trocar de ISRS ou para IRSN, ou associar TCC. Segunda linha conforme o diagnóstico: mirtazapina, tricíclicos (clomipramina, imipramina no pânico), buspirona no TAG, pregabalina."},
+  {"titulo": "Refratários e encaminhamento", "texto": "Rever diagnóstico, adesão, dose, substâncias e comorbidades. Potencialização com antipsicótico em dose baixa (quetiapina no TAG) só em casos selecionados. Encaminhar ao psiquiatra com dois ensaios fracassados, comorbidade grave, risco de suicídio ou dependência de benzodiazepínicos. Manter 12 a 24 meses após resposta e retirar lentamente."}
+ ],
+ "armadilhas": [
+  "Tratar 'ansiedade' de forma genérica só com benzodiazepínico, sem definir o transtorno específico nem oferecer TCC ou antidepressivo.",
+  "Prescrever benzodiazepínico sem prazo nem plano de retirada, levando a uso crônico, tolerância e dependência, sobretudo em idosos e em quem usa álcool.",
+  "Retirar o benzodiazepínico ou o antidepressivo abruptamente, provocando abstinência ou descontinuação confundidas com recaída.",
+  "Julgar o antidepressivo ineficaz em 2 a 3 semanas ou em dose baixa; a resposta ansiolítica pode levar 4 a 12 semanas.",
+  "Iniciar ISRS em dose plena no pânico, com piora inicial da ansiedade e abandono.",
+  "Não investigar causas médicas, cafeína, substâncias e acatisia por antipsicótico ou antidepressivo em quadros de ansiedade novos ou atípicos.",
+  "Usar antidepressivo isolado em paciente com bipolaridade não reconhecida."
+ ],
+ "diretrizes": "CANMAT (Katzman 2014) para transtornos de ansiedade, TEPT e TOC; WFSBP versão 3 (Bandelow 2022); NICE CG113 (2011, atualizada) e CG123 (2011); DSM-5-TR (APA, 2022)."
+}
+}

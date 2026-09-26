@@ -1,0 +1,1361 @@
+{
+ "Insônia": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno de insônia",
+   "cid": "CID-10 F51.0 (insônia não orgânica) e G47.0; CID-11 7A00 (insônia crônica) e 7A01 (insônia de curto prazo)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Queixa predominante de insatisfação com a quantidade ou a qualidade do sono, com pelo menos um dos seguintes:",
+     "sub": [
+      "Dificuldade para iniciar o sono (em crianças, pode aparecer como dificuldade para adormecer sem a ajuda do cuidador).",
+      "Dificuldade para manter o sono: despertares frequentes ou dificuldade para voltar a dormir.",
+      "Despertar precoce, sem conseguir voltar a dormir."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Sofrimento clinicamente significativo ou prejuízo social, ocupacional, educacional, comportamental ou em outras áreas importantes (fadiga, humor, atenção, desempenho, erros, acidentes)."
+    },
+    {
+     "r": "C",
+     "t": "A dificuldade ocorre em pelo menos 3 noites por semana."
+    },
+    {
+     "r": "D",
+     "t": "Está presente há pelo menos 3 meses."
+    },
+    {
+     "r": "E",
+     "t": "Ocorre apesar de oportunidade adequada para dormir (tempo e ambiente)."
+    },
+    {
+     "r": "F",
+     "t": "Não é mais bem explicada por outro transtorno do sono-vigília (narcolepsia, apneia, transtorno do ritmo circadiano, parassonia) nem ocorre exclusivamente durante ele."
+    },
+    {
+     "r": "G",
+     "t": "Não é atribuível aos efeitos fisiológicos de uma substância (droga de abuso ou medicamento)."
+    },
+    {
+     "r": "H",
+     "t": "Transtornos mentais e condições médicas coexistentes não explicam adequadamente a queixa principal de insônia."
+    }
+   ],
+   "especificadores": [
+    "Com comorbidade mental não relacionada ao sono (inclui uso de substâncias); com comorbidade médica; com outro transtorno do sono.",
+    "Episódico: sintomas por 1 a 3 meses.",
+    "Persistente: sintomas por 3 meses ou mais.",
+    "Recorrente: dois ou mais episódios no intervalo de 1 ano."
+   ],
+   "notas": [
+    "Insônia aguda ou de curto prazo (menos de 3 meses) entra como outro transtorno de insônia especificado no DSM-5-TR e como 7A01 na CID-11.",
+    "O DSM-5 abandonou a distinção entre insônia primária e secundária: quando a insônia é suficientemente grave para atenção clínica própria, diagnostica-se mesmo com depressão, ansiedade ou dor comórbidas, e trata-se ativamente.",
+    "Não há critério numérico no DSM, mas na prática latência do sono ou tempo acordado após o início do sono acima de 30 minutos é considerado clinicamente relevante.",
+    "Pouco sono sem oportunidade de dormir (privação voluntária, turnos) não é insônia; pouco sono sem queixa diurna em dormidor curto também não."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Quanto tempo você leva para pegar no sono? Acorda durante a noite? Quantas vezes e por quanto tempo fica acordado?",
+    "Acorda antes da hora e não consegue voltar a dormir?",
+    "Em quantas noites por semana isso acontece, e desde quando?",
+    "Como fica no dia seguinte: cansaço, irritação, falta de concentração, cochilos, erros no trabalho ou ao dirigir?",
+    "A que horas deita, a que horas apaga a luz e a que horas levanta, em dias de trabalho e de folga?",
+    "O que faz na cama quando não dorme: celular, TV, fica olhando o relógio, preocupado com o sono?",
+    "Alguém já disse que você ronca alto, para de respirar ou engasga dormindo?",
+    "Sente vontade de mexer as pernas ou sensação desagradável nelas ao deitar, que melhora ao andar?",
+    "Quanto café, chá, energético, álcool, nicotina ou outras substâncias usa, e em que horário?",
+    "Já usou ou usa remédio para dormir? Qual, há quanto tempo, e o que acontece quando tenta ficar sem?"
+   ],
+   "sinais": [
+    "Queixa de cansaço, irritabilidade ou dificuldade de concentração em paciente com depressão, ansiedade, TEPT, bipolaridade ou dor crônica.",
+    "Pedido de renovação de benzodiazepínico ou zolpidem usado há meses ou anos.",
+    "Insônia nova ou redução súbita da necessidade de sono sem cansaço: pensar em hipomania ou mania.",
+    "Início ou troca recente de ISRS, IRSN, bupropiona, corticoide, estimulante, betabloqueador lipofílico ou descongestionante.",
+    "Ronco, obesidade, hipertensão resistente ou sonolência diurna marcada (Epworth alto): apneia até prova em contrário, não insônia isolada.",
+    "Horários tardios de dormir e acordar que se normalizam nas férias: atraso de fase circadiano.",
+    "Uso de álcool como indutor do sono ou abstinência recente de álcool ou benzodiazepínico.",
+    "Trabalho em turnos, cuidadores, puérperas, menopausa com fogachos, noctúria."
+   ],
+   "instrumentos": [
+    "ISI (Índice de Gravidade de Insônia): 0 a 7 sem insônia clínica; 8 a 14 subclínica; 15 a 21 moderada; 22 a 28 grave. Resposta: queda de 8 pontos ou mais; remissão: escore abaixo de 8.",
+    "PSQI (Pittsburgh): escore global acima de 5 indica sono ruim.",
+    "Diário do sono por 1 a 2 semanas: calcula latência, tempo acordado após o início do sono, tempo total de sono e eficiência (tempo dormindo dividido pelo tempo na cama; normal 85% ou mais).",
+    "Escala de Sonolência de Epworth: acima de 10 sugere sonolência excessiva e aponta para apneia, narcolepsia ou privação, pouco típica da insônia pura.",
+    "STOP-Bang: 3 ou mais aumenta a probabilidade de apneia obstrutiva; considerar polissonografia.",
+    "Polissonografia não é necessária para diagnosticar insônia; indicar se suspeita de apneia, movimentos periódicos, parassonia ou refratariedade."
+   ]
+  },
+  "diferencial": [
+   "Apneia obstrutiva do sono: ronco, pausas testemunhadas, sonolência diurna (mais que fadiga), cefaleia matinal; polissonografia. Pode coexistir com insônia (COMISA).",
+   "Síndrome das pernas inquietas: urgência de mover as pernas ao repouso, piora à noite e alívio com movimento; dosar ferritina.",
+   "Transtorno do ritmo circadiano (atraso de fase): dificuldade para iniciar o sono no horário convencional, mas sono normal quando dorme no horário próprio; comum em adolescentes.",
+   "Sono insuficiente por comportamento: dorme pouco por falta de oportunidade e dorme bem quando pode; sem dificuldade de iniciar o sono.",
+   "Depressão, mania, TAG, TEPT: a insônia é parte do quadro; a mania cursa com menor necessidade de sono sem cansaço.",
+   "Insônia induzida por substância ou medicamento: relação temporal com cafeína, álcool, estimulantes, antidepressivos ativadores, corticoides, abstinência de hipnóticos.",
+   "Dormidor curto: dorme 5 a 6 horas sem prejuízo diurno e sem queixa; não precisa de tratamento.",
+   "Má percepção do sono (insônia paradoxal): queixa grave com polissonografia praticamente normal; responde à TCC-I."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "AASM 2021 (Edinger et al.): tratamentos comportamentais e psicológicos",
+    "pontos": [
+     "Recomendação forte: TCC-I multicomponente (controle de estímulos, restrição de sono, reestruturação cognitiva, relaxamento e educação), em 4 a 8 sessões; formatos individual, em grupo, telessaúde ou digital.",
+     "Recomendações condicionais: terapia breve para insônia (BBTI, 1 a 4 sessões, centrada em restrição e controle de estímulos), controle de estímulos isolado, restrição de sono isolada e relaxamento isolado.",
+     "Condicional contra higiene do sono como tratamento único: tem efeito pequeno e deve ser só um componente.",
+     "Restrição de sono na prática: tempo na cama igual ao tempo médio de sono do diário (nunca abaixo de 5 horas), com horário fixo de levantar; aumentar 15 a 30 minutos por semana quando a eficiência passar de 85% a 90%. Cautela em bipolar (pode precipitar mania), epilepsia, apneia não tratada, quedas e motoristas profissionais.",
+     "Controle de estímulos: deitar só com sono; se não dormir em cerca de 20 minutos, levantar e voltar só com sono; cama só para sono e sexo; levantar no mesmo horário todos os dias; evitar cochilos."
+    ]
+   },
+   {
+    "fonte": "AASM 2017 (Sateia et al.): tratamento farmacológico da insônia crônica em adultos",
+    "pontos": [
+     "Todas as recomendações são fracas e pressupõem uso associado à TCC-I ou quando ela não é possível.",
+     "Insônia de início do sono: zolpidem (5 a 10 mg; 5 mg em mulheres e idosos), eszopiclona (1 a 3 mg), zaleplona (não comercializada no Brasil), ramelteona (8 mg), triazolam e temazepam (não disponíveis no Brasil).",
+     "Insônia de manutenção: suvorexanto (10 a 20 mg), eszopiclona, zolpidem, temazepam e doxepina em dose baixa (3 a 6 mg; formulação não disponível no Brasil).",
+     "Sugere não usar: trazodona, tiagabina, difenidramina, melatonina, triptofano e valeriana.",
+     "Antagonistas de orexina posteriores (lemborexanto 5 a 10 mg, daridorexanto 25 a 50 mg) não constavam em 2017, mas têm ensaios de fase 3 positivos em início e manutenção e seguem a lógica do suvorexanto."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "TCC-I (ou BBTI, ou TCC-I digital) para todos."
+     },
+     {
+      "linha": "Se TCC-I indisponível, insuficiente ou enquanto começa",
+      "texto": "Hipnótico escolhido pelo padrão de insônia: início (zolpidem, ramelteona, eszopiclona) ou manutenção (antagonista de orexina, eszopiclona), na menor dose, com plano de duração."
+     },
+     {
+      "linha": "Com comorbidade",
+      "texto": "Tratar o transtorno de base; antidepressivo sedativo (mirtazapina 7,5 a 15 mg, trazodona 25 a 100 mg) quando há depressão ou quando benzodiazepínicos e drogas Z devem ser evitados."
+     }
+    ]
+   },
+   {
+    "fonte": "Diretriz europeia de insônia 2023 (Riemann et al., ESRS)",
+    "pontos": [
+     "TCC-I é o tratamento de primeira linha em adultos de todas as idades, com ou sem comorbidade, presencial ou digital.",
+     "Farmacoterapia só se a TCC-I não for suficientemente eficaz ou não estiver disponível.",
+     "Benzodiazepínicos e agonistas do receptor benzodiazepínico (drogas Z): eficazes a curto prazo, até 4 semanas; uso mais longo pode ser considerado caso a caso, preferindo o esquema intermitente (3 a 5 noites por semana ou sob demanda).",
+     "Daridorexanto: pode ser usado por até 3 meses; uso mais longo caso a caso.",
+     "Antidepressivos sedativos em dose baixa: curto prazo, quando não houver contraindicação.",
+     "Melatonina de liberação prolongada (2 mg): até 3 meses em pacientes com 55 anos ou mais.",
+     "Não recomendados: anti-histamínicos, antipsicóticos, melatonina de liberação imediata, ramelteona (não aprovada na Europa) e fitoterápicos, pela evidência insuficiente ou pelo perfil de risco.",
+     "Terapia com luz e exercício podem ser adjuvantes; acupuntura, aromaterapia e homeopatia não são recomendadas."
+    ]
+   },
+   {
+    "fonte": "ACP 2016 (American College of Physicians) e prática clínica",
+    "pontos": [
+     "TCC-I como tratamento inicial para todos os adultos com insônia crônica (recomendação forte).",
+     "Farmacoterapia por decisão compartilhada, discutindo benefício modesto, custos e efeitos adversos, quando a TCC-I isolada não basta.",
+     "Retirada de hipnótico de uso crônico: reduzir cerca de 25% da dose a cada 2 semanas (mais lento no final), de preferência com TCC-I concomitante, que dobra a taxa de sucesso; trocar benzodiazepínico de meia-vida curta por equivalente de meia-vida longa só se necessário.",
+     "Reavaliar em 4 a 8 semanas com diário do sono e ISI; se refratária, rever diagnóstico e pedir polissonografia (apneia, movimentos periódicos dos membros) e encaminhar à medicina do sono."
+    ]
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Idosos",
+    "texto": "TCC-I funciona tão bem quanto em adultos jovens. Critérios de Beers: evitar benzodiazepínicos, drogas Z (quedas, fraturas, delirium, acidentes), anti-histamínicos e antidepressivos tricíclicos em dose plena. Preferir TCC-I, antagonistas de orexina, melatonina de liberação prolongada ou ramelteona; doxepina em dose baixa (3 a 6 mg) onde existir."
+   },
+   {
+    "grupo": "Gestação e lactação",
+    "texto": "TCC-I primeiro. Se necessário, doses baixas de antidepressivo sedativo (trazodona, mirtazapina) ou zolpidem por curto prazo têm dados mais tranquilizadores; evitar benzodiazepínicos no fim da gestação (síndrome do bebê hipotônico, abstinência neonatal)."
+   },
+   {
+    "grupo": "Crianças e adolescentes",
+    "texto": "Intervenções comportamentais e de rotina; atraso de fase é comum em adolescentes (luz pela manhã, melatonina em dose baixa no horário certo). Melatonina tem boa evidência em TEA e TDAH. Hipnóticos não têm eficácia demonstrada em crianças."
+   },
+   {
+    "grupo": "Uso de substâncias",
+    "texto": "Evitar benzodiazepínicos e drogas Z. Na abstinência de álcool, a insônia persiste por meses e é fator de recaída: TCC-I, trazodona ou gabapentina têm uso prático."
+   },
+   {
+    "grupo": "Transtorno bipolar",
+    "texto": "Insônia pode ser pródromo de mania; restrição de sono exige cautela (limitar a no mínimo 6 horas na cama e monitorar humor). Regularidade de horários é central."
+   }
+  ],
+  "monitorar": [
+   "Diário do sono e ISI a cada 4 a 8 semanas",
+   "Sonolência residual pela manhã e segurança ao dirigir",
+   "Comportamentos complexos do sono com drogas Z (sonambulismo, dirigir dormindo): suspender se ocorrerem",
+   "Sinais de tolerância, escalada de dose e dependência",
+   "Quedas e cognição em idosos",
+   "Humor (insônia persistente aumenta o risco de depressão e de suicídio)"
+  ]
+ },
+ "Narcolepsia e sonolência": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): narcolepsia; ICSD-3-TR (AASM, 2023): narcolepsia tipos 1 e 2 e hipersonia idiopática",
+   "cid": "CID-10 G47.4; CID-11 7A20 (narcolepsia)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "DSM-5-TR: episódios recorrentes de necessidade irresistível de dormir, lapsos para o sono ou cochilos no mesmo dia, pelo menos 3 vezes por semana nos últimos 3 meses."
+    },
+    {
+     "r": "B",
+     "t": "DSM-5-TR: pelo menos um dos seguintes:",
+     "sub": [
+      "Cataplexia: em doença de longa data, episódios breves (segundos a minutos) de perda bilateral súbita do tônus muscular com consciência preservada, desencadeados por riso ou brincadeira; em crianças ou nos primeiros 6 meses, caretas ou abertura da mandíbula com protrusão da língua, ou hipotonia global, sem gatilho emocional claro.",
+      "Deficiência de hipocretina (orexina-A) no líquor: 110 pg/mL ou menos, ou menos de um terço dos valores de controles saudáveis no mesmo ensaio.",
+      "Polissonografia noturna com latência do sono REM de 15 minutos ou menos, ou teste de latências múltiplas do sono (TLMS) com latência média de 8 minutos ou menos e dois ou mais episódios de sono REM no início do sono (SOREMPs)."
+     ]
+    },
+    {
+     "r": "NT1",
+     "t": "ICSD-3-TR, narcolepsia tipo 1: sonolência diurna excessiva diária há pelo menos 3 meses, mais cataplexia com TLMS positivo (latência média de 8 minutos ou menos e 2 ou mais SOREMPs; um SOREMP na polissonografia da noite anterior pode contar como um deles), ou hipocretina liquórica de 110 pg/mL ou menos."
+    },
+    {
+     "r": "NT2",
+     "t": "ICSD-3-TR, narcolepsia tipo 2: sonolência há pelo menos 3 meses, TLMS positivo como acima, ausência de cataplexia, hipocretina normal ou não dosada, e quadro não explicado por sono insuficiente, apneia, atraso de fase ou efeito de medicamentos ou substâncias (inclusive retirada de antidepressivos supressores de REM)."
+    },
+    {
+     "r": "HI",
+     "t": "ICSD-3-TR, hipersonia idiopática: sonolência há pelo menos 3 meses, sem cataplexia, menos de 2 SOREMPs, e TLMS com latência média de 8 minutos ou menos ou tempo total de sono de 660 minutos ou mais em 24 horas (polissonografia prolongada ou actigrafia com diário)."
+    }
+   ],
+   "especificadores": [
+    "DSM-5-TR: sem cataplexia mas com deficiência de hipocretina; com cataplexia mas sem deficiência de hipocretina; ataxia cerebelar autossômica dominante com surdez e narcolepsia; narcolepsia autossômica dominante com obesidade e diabetes tipo 2; narcolepsia secundária a outra condição médica.",
+    "Gravidade: leve (cataplexia infrequente, menos de uma vez por semana; cochilos 1 a 2 vezes ao dia; pouco sono noturno perturbado), moderada (cataplexia diária ou a cada poucos dias; sono noturno perturbado; cochilos várias vezes ao dia), grave (cataplexia resistente, várias por dia; sonolência quase constante)."
+   ],
+   "notas": [
+    "Transtorno de hipersonolência (DSM-5-TR): sonolência excessiva apesar de sono principal de pelo menos 7 horas, com pelo menos um de: lapsos de sono no mesmo dia; sono principal acima de 9 horas não reparador; dificuldade de ficar plenamente desperto após despertar abrupto (inércia do sono). Pelo menos 3 vezes por semana, por 3 meses ou mais, com prejuízo, sem outra explicação.",
+    "O TLMS deve ser precedido de polissonografia noturna (excluir apneia e garantir pelo menos 6 horas de sono), de 1 a 2 semanas de diário ou actigrafia e, idealmente, de 2 semanas sem antidepressivos, estimulantes e outros fármacos que alteram o REM.",
+    "Paralisia do sono, alucinações hipnagógicas ou hipnopômpicas e sono noturno fragmentado são comuns, mas não entram nos critérios.",
+    "HLA-DQB1*06:02 está presente em quase todos com tipo 1, mas também em cerca de 25% da população: só ajuda como exclusão."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Você cochila sem querer durante o dia, em reuniões, aulas, conversas ou dirigindo, mesmo tendo dormido o suficiente?",
+    "Quando cochila por 15 a 20 minutos, acorda revigorado? (sugere narcolepsia; na hipersonia idiopática o cochilo não restaura)",
+    "Quando ri, se surpreende ou fica com raiva, sente fraqueza nas pernas, no rosto ou no pescoço, a ponto de dobrar os joelhos ou deixar cair objetos?",
+    "Já acordou sem conseguir se mexer por alguns segundos ou minutos?",
+    "Vê, ouve ou sente presenças muito vívidas ao adormecer ou ao acordar?",
+    "Quantas horas dorme por noite, nos dias de trabalho e de folga? Precisa de despertador e tem muita dificuldade para acordar?",
+    "Ronca ou alguém já viu você parar de respirar dormindo?",
+    "Faz coisas automaticamente, sem lembrar depois (escrever sem sentido, errar o caminho)?",
+    "Que medicamentos usa (sedativos, antipsicóticos, antidepressivos, anti-histamínicos, opioides) e usa álcool ou cannabis?",
+    "Quando começou? (pico na adolescência e no início da vida adulta)"
+   ],
+   "sinais": [
+    "Adolescente ou adulto jovem com sonolência intensa rotulado como preguiçoso, deprimido ou com TDAH.",
+    "Episódios de 'desmaio' com consciência preservada ao rir: cataplexia confundida com síncope, crise epiléptica atônica ou conversão.",
+    "Alucinações ao adormecer ou acordar em paciente sem outros sintomas psicóticos: não é esquizofrenia.",
+    "Ganho de peso rápido, puberdade precoce e sonolência em criança (narcolepsia tipo 1 de início infantil).",
+    "Sono noturno fragmentado, parassonia REM ou sonhos vívidos em pessoa jovem.",
+    "Acidentes de trânsito ou quase acidentes por sonolência.",
+    "Sonolência que persiste apesar de CPAP bem usado na apneia (sonolência residual).",
+    "Depressão atípica com hipersonia que não melhora com tratamento do humor."
+   ],
+   "instrumentos": [
+    "Escala de Sonolência de Epworth: acima de 10 indica sonolência excessiva; 16 ou mais, grave. Usada também para seguir a resposta.",
+    "TLMS: latência média de 8 minutos ou menos com 2 ou mais SOREMPs sustenta narcolepsia; normal acima de 10 minutos.",
+    "Teste de manutenção da vigília: avalia resposta ao tratamento e aptidão para dirigir.",
+    "Diário do sono e actigrafia por 1 a 2 semanas antes do TLMS (excluir sono insuficiente e atraso de fase).",
+    "Hipocretina no líquor (110 pg/mL ou menos): útil quando o TLMS não é interpretável (uso de psicofármacos que não podem ser retirados, crianças)."
+   ]
+  },
+  "diferencial": [
+   "Sono insuficiente crônico: melhora com extensão do sono nas férias ou com diário que prova sono curto; causa mais comum de sonolência.",
+   "Apneia obstrutiva do sono: ronco, obesidade, pausas; polissonografia. Pode coexistir com narcolepsia.",
+   "Hipersonia idiopática: sono longo, inércia do sono intensa, cochilos longos e não reparadores, sem cataplexia.",
+   "Depressão e bipolaridade com hipersonia: sonolência é mais clinofilia e falta de energia que lapsos de sono; TLMS costuma ser normal.",
+   "Sedação por fármacos ou substâncias: antipsicóticos, antidepressivos sedativos, benzodiazepínicos, gabapentinoides, opioides, cannabis.",
+   "Transtorno do ritmo circadiano (atraso de fase): sonolência pela manhã que some à tarde; horários tardios.",
+   "Cataplexia versus síncope, crise atônica, drop attack, pseudocataplexia funcional: na cataplexia a consciência é preservada, o gatilho é emocional positivo e os reflexos somem durante o episódio.",
+   "Síndrome de Kleine-Levin: episódios de hipersonia de dias a semanas, com hiperfagia e desinibição, intercalados com normalidade."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "AASM 2021 (Maski et al.): tratamento dos transtornos centrais de hipersonolência",
+    "pontos": [
+     "Narcolepsia, recomendação forte: modafinila (sonolência), pitolisanto (sonolência e cataplexia), oxibato de sódio (sonolência, cataplexia e sono fragmentado) e solriamfetol (sonolência).",
+     "Narcolepsia, recomendação condicional: armodafinila, dextroanfetamina e metilfenidato (sonolência); em crianças, oxibato de sódio.",
+     "Hipersonia idiopática: recomendação forte para modafinila; condicional para claritromicina, metilfenidato, pitolisanto e oxibato de sódio.",
+     "Disponibilidade no Brasil: modafinila e metilfenidato disponíveis; armodafinila, solriamfetol e oxibato de sódio não comercializados; pitolisanto com acesso restrito. Lisdexanfetamina é uso fora da bula."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha (sonolência)",
+      "texto": "Modafinila 100 a 200 mg pela manhã, até 400 mg/dia (pode dividir: manhã e início da tarde). Pitolisanto 4,5 mg titulado até 18 a 36 mg pela manhã, onde houver acesso."
+     },
+     {
+      "linha": "Segunda linha ou associação",
+      "texto": "Metilfenidato 10 a 60 mg/dia (liberação imediata ou prolongada) ou anfetaminas; associar a modafinila quando a resposta é parcial."
+     },
+     {
+      "linha": "Cataplexia",
+      "texto": "Oxibato de sódio (4,5 a 9 g por noite em duas tomadas) ou pitolisanto onde acessíveis; no Brasil, na prática, venlafaxina 37,5 a 225 mg (liberação prolongada), clomipramina 10 a 75 mg, fluoxetina 20 a 60 mg."
+     }
+    ]
+   },
+   {
+    "fonte": "EAN, ERS e ESRS 2021 (Bassetti et al.): diretriz europeia de narcolepsia",
+    "pontos": [
+     "Sonolência: modafinila, pitolisanto, oxibato de sódio e solriamfetol como primeira escolha; metilfenidato e anfetaminas como alternativas; combinação de fármacos com mecanismos diferentes quando a monoterapia falha.",
+     "Cataplexia: oxibato de sódio e pitolisanto; antidepressivos (venlafaxina, clomipramina, ISRS) como alternativas, com efeito rápido (dias).",
+     "Suspensão abrupta de antidepressivo usado para cataplexia pode causar rebote grave, até estado cataplético: retirar lentamente.",
+     "Sono noturno fragmentado, paralisia do sono e alucinações: oxibato de sódio; antidepressivos também reduzem paralisia e alucinações."
+    ]
+   },
+   {
+    "fonte": "Medidas comportamentais e segurança (AASM, prática clínica)",
+    "pontos": [
+     "Sono noturno regular e suficiente e 1 a 3 cochilos programados de 15 a 20 minutos (por exemplo, no almoço e no meio da tarde).",
+     "Orientação sobre direção: não dirigir sonolento; reavaliar aptidão após tratamento (teste de manutenção da vigília quando necessário).",
+     "Modafinila induz CYP3A4 e reduz a eficácia de anticoncepcionais hormonais por até 1 mês após a suspensão: usar método de barreira ou DIU.",
+     "Avaliar e tratar depressão, ansiedade e obesidade, frequentes na narcolepsia; adaptações escolares e laborais.",
+     "Encaminhar à medicina do sono para confirmação diagnóstica por polissonografia e TLMS antes de iniciar estimulantes, sempre que possível."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Sonolência predominante, sem cataplexia",
+    "preferir": "modafinila; metilfenidato como segunda opção ou associação",
+    "evitar": "sedativos, anti-histamínicos"
+   },
+   {
+    "se": "Cataplexia incapacitante",
+    "preferir": "oxibato de sódio ou pitolisanto onde acessíveis; venlafaxina ou clomipramina",
+    "evitar": "suspensão abrupta do antidepressivo"
+   },
+   {
+    "se": "Sono noturno fragmentado",
+    "preferir": "oxibato de sódio",
+    "evitar": "benzodiazepínicos com oxibato (depressão respiratória)"
+   },
+   {
+    "se": "Mulher em idade fértil usando anticoncepcional hormonal",
+    "preferir": "metilfenidato, pitolisanto (também reduz anticoncepcional), método não hormonal",
+    "evitar": "modafinila sem contracepção adicional"
+   },
+   {
+    "se": "Hipertensão ou doença cardiovascular",
+    "preferir": "pitolisanto, oxibato (atenção ao sódio)",
+    "evitar": "anfetaminas; cautela com metilfenidato"
+   },
+   {
+    "se": "Depressão comórbida",
+    "preferir": "venlafaxina (cataplexia e humor)",
+    "evitar": "antidepressivos sedativos"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Gestação",
+    "texto": "Dados limitados. Modafinila foi associada a malformações congênitas em registros; em geral, suspender estimulantes e modafinila, ajustando rotina e cochilos. Cataplexia pode aumentar ao retirar antidepressivos."
+   },
+   {
+    "grupo": "Crianças e adolescentes",
+    "texto": "Início frequentemente na infância, com obesidade e puberdade precoce. Oxibato de sódio tem aprovação pediátrica em outros países; metilfenidato é o mais usado no Brasil. Adaptação escolar."
+   },
+   {
+    "grupo": "Transtornos psicóticos",
+    "texto": "Alucinações hipnagógicas não são psicose; estimulantes podem precipitar psicose em predispostos: preferir modafinila ou pitolisanto e monitorar."
+   }
+  ],
+  "duracao": "Condição crônica; o tratamento é, em geral, por toda a vida, com ajuste de dose e combinações. Feriados de estimulante podem ser usados para limitar tolerância. Retirar antidepressivos anticatapléticos lentamente.",
+  "monitorar": [
+   "Escala de Epworth e episódios de cataplexia a cada consulta",
+   "Pressão arterial e frequência cardíaca com estimulantes e modafinila",
+   "Humor, ansiedade e sintomas psicóticos",
+   "Peso (tipo 1 tende à obesidade)",
+   "Contracepção com modafinila",
+   "Direção veicular e acidentes"
+  ]
+ },
+ "Síndrome das pernas inquietas": {
+  "criterios": {
+   "fonte": "Critérios diagnósticos do IRLSSG (Allen et al., 2014); DSM-5-TR (APA, 2022)",
+   "cid": "CID-10 G25.8; CID-11 7A80",
+   "itens": [
+    {
+     "r": "1",
+     "t": "Urgência de mover as pernas, em geral acompanhada ou causada por sensações desconfortáveis e desagradáveis nelas (às vezes também nos braços)."
+    },
+    {
+     "r": "2",
+     "t": "A urgência e as sensações começam ou pioram durante períodos de repouso ou inatividade, como sentado ou deitado."
+    },
+    {
+     "r": "3",
+     "t": "São aliviadas parcial ou totalmente pelo movimento (andar, alongar), pelo menos enquanto a atividade dura."
+    },
+    {
+     "r": "4",
+     "t": "Ocorrem exclusiva ou predominantemente no fim da tarde ou à noite, ou pioram nesse período."
+    },
+    {
+     "r": "5",
+     "t": "Os sintomas não são explicados apenas por outra condição médica ou comportamental: mialgia, estase venosa, edema, artrite, cãibras, desconforto postural, batida habitual dos pés."
+    }
+   ],
+   "especificadores": [
+    "Curso crônico-persistente: sintomas em média pelo menos 2 vezes por semana no último ano, sem tratamento.",
+    "Curso intermitente: menos de 2 vezes por semana no último ano, com pelo menos 5 episódios ao longo da vida.",
+    "Clinicamente significativa: sintomas causam sofrimento ou prejuízo no sono, energia, humor, cognição, trabalho ou vida social.",
+    "DSM-5-TR exige também frequência de pelo menos 3 vezes por semana por pelo menos 3 meses, com prejuízo, e exclusão de efeito de substância ou medicamento (acatisia, por exemplo)."
+   ],
+   "notas": [
+    "Achados de suporte: movimentos periódicos dos membros no sono, resposta a dopaminérgicos, história familiar em parente de primeiro grau, ausência de sonolência diurna marcante.",
+    "Formas secundárias: deficiência de ferro, gestação (sobretudo no terceiro trimestre), doença renal crônica, neuropatia periférica, e induzida por fármacos (antidepressivos, antipsicóticos, anti-H1, metoclopramida, lítio).",
+    "Gravidade pela escala IRLS (0 a 40): leve até 10, moderada 11 a 20, grave 21 a 30, muito grave 31 a 40."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Quando você fica sentado ou deitado, sente vontade incontrolável de mexer as pernas?",
+    "Como descreve a sensação: formigamento, agonia, repuxar, choque, 'bichos andando' por dentro?",
+    "Melhora quando você anda ou mexe as pernas, e volta quando para?",
+    "É pior no fim da tarde e à noite do que de manhã?",
+    "Isso atrapalha para pegar no sono ou faz você acordar e levantar?",
+    "Alguém nota que suas pernas dão chutes ou espasmos enquanto dorme?",
+    "Alguém da família tem o mesmo problema?",
+    "Começou ou piorou depois de algum remédio novo (antidepressivo, antipsicótico, antialérgico, remédio para enjoo)?",
+    "Tem anemia, sangramento menstrual intenso, doação de sangue frequente, doença renal, diabetes ou está grávida?"
+   ],
+   "sinais": [
+    "Insônia de início do sono com inquietação motora noturna.",
+    "Piora da insônia ou 'ansiedade noturna' após iniciar mirtazapina, ISRS, IRSN, antipsicótico ou anti-histamínico.",
+    "Ferritina baixa, anemia ferropriva, menorragia, cirurgia bariátrica, doação de sangue.",
+    "Gestação, especialmente no terceiro trimestre.",
+    "Doença renal crônica em diálise, neuropatia periférica, doença de Parkinson.",
+    "Uso de agonista dopaminérgico com sintomas que começam mais cedo, ficam mais intensos ou atingem braços: aumento (augmentation).",
+    "Viagens longas, cinema ou reuniões insuportáveis por inquietação nas pernas."
+   ],
+   "instrumentos": [
+    "Escala IRLS (International RLS Rating Scale, 0 a 40): gravidade e resposta.",
+    "Ferritina sérica e saturação de transferrina, colhidas pela manhã, em jejum e longe de reposição de ferro: repor se ferritina até 75 ng/mL (oral) ou até 100 ng/mL (IV), com saturação abaixo de 45%.",
+    "Hemograma, creatinina, glicemia; B12 e eletroneuromiografia se suspeita de neuropatia.",
+    "Polissonografia não é necessária para o diagnóstico; útil se dúvida diagnóstica ou apneia associada."
+   ]
+  },
+  "diferencial": [
+   "Acatisia induzida por antipsicótico ou antidepressivo: inquietação mais global (tronco, andar de um lado para outro), sem ritmo circadiano claro, relação com dose e início do fármaco.",
+   "Cãibras noturnas: contração muscular dolorosa e palpável, alívio com alongamento, não com movimento contínuo.",
+   "Neuropatia periférica: dor ou parestesia sem urgência de movimento e sem alívio pelo movimento; déficit sensitivo ao exame. Pode coexistir.",
+   "Desconforto postural e hábito de balançar as pernas: alívio com mudança de posição simples, sem urgência.",
+   "Insuficiência venosa e edema: peso nas pernas que melhora com elevação, não com movimento.",
+   "Ansiedade e TAG: inquietação sem foco nas pernas e sem padrão vespertino.",
+   "Movimentos periódicos dos membros isolados: movimentos no sono sem queixa sensitiva ao repouso acordado."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "AASM 2024 (Winkelman et al.): diretriz de tratamento da SPI em adultos",
+    "pontos": [
+     "Recomendação forte a favor: carboximaltose férrica IV (com índices de ferro adequados para reposição), gabapentina enacarbila (não disponível no Brasil), gabapentina e pregabalina.",
+     "Condicional a favor: sulfato ferroso oral, outras formulações de ferro IV, dipiridamol, opioides de liberação prolongada (oxicodona e outros) em casos refratários, e estimulação bilateral do nervo fibular.",
+     "Condicional contra o uso padrão de pramipexol, ropinirol e rotigotina, pelo risco de aumento a longo prazo; podem ser usados em quem prioriza alívio a curto prazo e aceita o risco.",
+     "Forte contra levodopa e cabergolina.",
+     "Condicional contra bupropiona, carbamazepina, clonazepam, valproato, valeriana e cannabis.",
+     "Reposição de ferro: oral se ferritina até 75 ng/mL e saturação de transferrina abaixo de 45%; IV se ferritina até 100 ng/mL e saturação abaixo de 45%, ou se falha, intolerância ou má absorção do oral."
+    ],
+    "linhas": [
+     {
+      "linha": "Sempre",
+      "texto": "Ferro conforme índices; retirar agravantes; higiene do sono, evitar álcool e cafeína à noite, exercício moderado, atividade mental no repouso."
+     },
+     {
+      "linha": "Primeira linha",
+      "texto": "Gabapentina 300 mg, titulada até 900 a 2.400 mg/dia, 1 a 3 horas antes do início dos sintomas; ou pregabalina 75 mg, até 150 a 450 mg/dia. Úteis também com dor, insônia e ansiedade."
+     },
+     {
+      "linha": "Alternativa",
+      "texto": "Agonista dopaminérgico em dose baixa por prazo definido: pramipexol 0,125 a 0,5 mg (evitar acima de 0,75 mg), ropinirol 0,25 a 4 mg, rotigotina adesivo 1 a 3 mg/24 horas (menor risco de aumento)."
+     },
+     {
+      "linha": "Refratária ou com aumento",
+      "texto": "Opioide em dose baixa: oxicodona de liberação prolongada 10 a 40 mg/dia, metadona 5 a 20 mg/dia, buprenorfina; exige avaliação de risco e seguimento."
+     }
+    ]
+   },
+   {
+    "fonte": "IRLSSG e EURLSSG 2016 (Garcia-Borreguero et al.): prevenção e tratamento do aumento (augmentation)",
+    "pontos": [
+     "Aumento: sintomas mais intensos, com início mais cedo no dia, latência menor ao repouso, extensão para braços ou tronco e menor duração do efeito, após início ou aumento de dopaminérgico.",
+     "Prevenção: preferir gabapentinoides como primeira linha; se agonista dopaminérgico, usar a menor dose e não ultrapassar a dose máxima aprovada; manter ferritina acima de 75 ng/mL.",
+     "Tratamento do aumento leve: corrigir ferro, dividir a dose ou antecipá-la; evitar aumentar a dose do agonista.",
+     "Aumento clinicamente significativo: trocar para gabapentinoide, rotigotina ou opioide; a retirada do agonista piora transitoriamente os sintomas por 1 a 2 semanas e pode causar síndrome de retirada."
+    ]
+   },
+   {
+    "fonte": "Algoritmo da Mayo Clinic 2021 (Silber et al.) e manejo em psiquiatria",
+    "pontos": [
+     "Tratamento só com sintomas clinicamente significativos; formas intermitentes podem usar dose sob demanda (gabapentina, agonista dopaminérgico ou benzodiazepínico ocasional).",
+     "Sulfato ferroso 325 mg (cerca de 65 mg de ferro elementar) com vitamina C, em dias alternados, longe de refeições e de cálcio; repetir ferritina em 3 meses.",
+     "Revisar psicofármacos: mirtazapina é o antidepressivo que mais causa ou piora SPI; ISRS, IRSN, tricíclicos, antipsicóticos, lítio, anti-H1 sedativos e metoclopramida também. Bupropiona não piora e pode ser preferida em quem precisa de antidepressivo.",
+     "Transtorno de controle de impulsos com agonistas dopaminérgicos (jogo, compras, sexo, comer): perguntar ativamente."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Ferritina até 75 ng/mL ou saturação abaixo de 20%",
+    "preferir": "ferro oral; ferro IV (carboximaltose) se ferritina até 100, intolerância ou urgência",
+    "evitar": "iniciar dopaminérgico sem corrigir ferro"
+   },
+   {
+    "se": "Dor, insônia ou ansiedade associadas",
+    "preferir": "gabapentina, pregabalina",
+    "evitar": ""
+   },
+   {
+    "se": "Uso de substâncias ou risco de abuso",
+    "preferir": "gabapentina com cautela, ferro, rotigotina",
+    "evitar": "pregabalina em doses altas, opioides, benzodiazepínicos"
+   },
+   {
+    "se": "Precisa de antidepressivo",
+    "preferir": "bupropiona",
+    "evitar": "mirtazapina, ISRS e IRSN se possível"
+   },
+   {
+    "se": "Aumento com agonista dopaminérgico",
+    "preferir": "trocar para gabapentinoide, rotigotina ou opioide",
+    "evitar": "subir a dose do agonista"
+   },
+   {
+    "se": "Doença renal crônica",
+    "preferir": "ajustar gabapentinoides à função renal; ropinirol, rotigotina",
+    "evitar": "doses plenas de gabapentina e pregabalina"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Gestação",
+    "texto": "Comum no terceiro trimestre e costuma melhorar após o parto. Medidas não farmacológicas e ferro (oral ou IV no segundo e terceiro trimestres) se ferritina abaixo de 75 ng/mL. Casos graves: clonazepam em dose baixa ou gabapentina (dados limitados); evitar dopaminérgicos."
+   },
+   {
+    "grupo": "Doença renal crônica",
+    "texto": "Prevalência alta em diálise; corrigir ferro e anemia; gabapentinoides em dose reduzida; melhora após transplante."
+   },
+   {
+    "grupo": "Pacientes psiquiátricos",
+    "texto": "SPI induzida por antidepressivo ou antipsicótico é frequente e é confundida com acatisia ou ansiedade: reduzir ou trocar o fármaco, repor ferro."
+   }
+  ],
+  "duracao": "Crônica na forma primária; tratamento contínuo com reavaliação periódica e menor dose eficaz. Formas secundárias (ferro, gestação, fármacos) podem remitir com a correção da causa. Retirar agonistas dopaminérgicos gradualmente.",
+  "monitorar": [
+   "IRLS a cada consulta",
+   "Ferritina e saturação de transferrina a cada 3 a 12 meses se houve deficiência ou em uso de dopaminérgico",
+   "Sinais de aumento com dopaminérgicos",
+   "Transtorno de controle de impulsos com agonistas dopaminérgicos",
+   "Sedação, tontura, edema e ganho de peso com gabapentinoides",
+   "Sinais de uso indevido com gabapentinoides e opioides"
+  ]
+ },
+ "Esquizofrenia": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10 F20; CID-11 6A20",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Dois ou mais dos seguintes, cada um presente por parte significativa de 1 mês (ou menos, se tratado com sucesso), sendo pelo menos um dos três primeiros:",
+     "sub": [
+      "Delírios.",
+      "Alucinações.",
+      "Discurso desorganizado (descarrilamento frequente, incoerência).",
+      "Comportamento grosseiramente desorganizado ou catatônico.",
+      "Sintomas negativos (expressão emocional diminuída ou avolição)."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Por parte significativa do tempo desde o início, o funcionamento em uma ou mais áreas (trabalho, relações, autocuidado) está claramente abaixo do nível prévio; na infância ou adolescência, fracasso em atingir o nível esperado."
+    },
+    {
+     "r": "C",
+     "t": "Sinais contínuos por pelo menos 6 meses, incluindo pelo menos 1 mês de sintomas do critério A (fase ativa) e podendo incluir períodos prodrômicos ou residuais, nos quais aparecem só sintomas negativos ou formas atenuadas dos sintomas do critério A (crenças estranhas, percepções incomuns)."
+    },
+    {
+     "r": "D",
+     "t": "Transtorno esquizoafetivo e transtornos do humor com características psicóticas foram excluídos: não houve episódio depressivo maior ou maníaco concomitante à fase ativa, ou, se houve, esteve presente só por uma minoria da duração total dos períodos ativo e residual."
+    },
+    {
+     "r": "E",
+     "t": "Não é atribuível aos efeitos de substância (droga de abuso, medicamento) ou a outra condição médica."
+    },
+    {
+     "r": "F",
+     "t": "Com história de transtorno do espectro autista ou de transtorno da comunicação de início na infância, o diagnóstico adicional de esquizofrenia só é feito se delírios ou alucinações proeminentes estiverem presentes por pelo menos 1 mês (ou menos, se tratados)."
+    }
+   ],
+   "especificadores": [
+    "Curso (só após 1 ano de doença): primeiro episódio, atualmente em episódio agudo, em remissão parcial ou em remissão completa; episódios múltiplos, idem; contínuo; não especificado.",
+    "Com catatonia.",
+    "Gravidade atual: avaliação dimensional de 0 a 4 de delírios, alucinações, discurso desorganizado, comportamento anormal, sintomas negativos, cognição, depressão e mania nos últimos 7 dias (opcional)."
+   ],
+   "notas": [
+    "Menos de 1 mês de sintomas com recuperação completa: transtorno psicótico breve. De 1 a menos de 6 meses: transtorno esquizofreniforme.",
+    "CID-11 (6A20) exige apenas 1 mês de sintomas, não exige declínio funcional e aboliu os subtipos (paranoide, hebefrênico etc.), substituídos por descritores de sintomas.",
+    "Critérios de remissão de Andreasen (2005): 8 itens da PANSS (P1 delírios, P2 desorganização conceitual, P3 alucinações, N1 afeto embotado, N4 retraimento social, N6 falta de espontaneidade, G5 maneirismos, G9 conteúdo incomum do pensamento) com escore de 3 ou menos, mantidos por 6 meses.",
+    "Resposta ao tratamento: redução de 20% (resposta mínima), 50% (resposta clara) na PANSS ou BPRS, descontados os pontos mínimos da escala."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Você tem ouvido vozes ou barulhos que outras pessoas não ouvem? O que as vozes dizem? Conversam entre si ou comentam o que você faz?",
+    "Sente que as pessoas estão contra você, te seguindo, falando de você ou querendo te fazer mal?",
+    "Tem a sensação de que a TV, o rádio ou a internet mandam mensagens especiais para você?",
+    "Sente que seus pensamentos são colocados, tirados ou ouvidos por outras pessoas, ou que algo controla seu corpo?",
+    "Tem tido dificuldade para organizar os pensamentos ou as pessoas dizem que você fala coisas sem sentido?",
+    "Como estão os estudos, o trabalho, os amigos e os cuidados com você mesmo nos últimos meses?",
+    "Para a família: houve mudança de comportamento, isolamento, perda de interesse, queda no desempenho ou hábitos estranhos? Desde quando?",
+    "Usa maconha, cocaína, estimulantes, álcool ou outras substâncias? Os sintomas começaram antes ou depois?",
+    "Já pensou em se matar ou em machucar alguém? As vozes mandam fazer algo?",
+    "Houve fases de humor muito para baixo ou muito para cima, com pouca necessidade de sono? Os sintomas psicóticos aparecem também fora dessas fases?"
+   ],
+   "sinais": [
+    "Adolescente ou adulto jovem com declínio funcional, isolamento e queda no desempenho escolar ou profissional sem causa clara (pródromo).",
+    "Interesse súbito por temas místicos, filosóficos ou conspiratórios, com perplexidade.",
+    "Fala para si mesmo, ri sem motivo, parece escutar algo.",
+    "Uso pesado de cannabis de alta potência, sobretudo na adolescência, com sintomas psicóticos que persistem além da intoxicação.",
+    "História familiar de esquizofrenia em parente de primeiro grau.",
+    "Descuido com higiene e autocuidado, inversão do ciclo sono-vigília.",
+    "Queixas somáticas bizarras ou medo intenso sem justificativa.",
+    "Recusa de alimentos por suspeita de envenenamento; barricadas em casa."
+   ],
+   "instrumentos": [
+    "PANSS (30 itens, 30 a 210): padrão em pesquisa e para medir resposta; 58 corresponde aproximadamente a 'levemente doente' e 75 a 'moderadamente doente'.",
+    "BPRS (18 itens): mais rápida para seguimento clínico.",
+    "CGI-S (1 a 7): gravidade global.",
+    "PQ-16 (Prodromal Questionnaire): 6 ou mais itens positivos com sofrimento sugere encaminhar para avaliação de alto risco.",
+    "CAARMS ou SIPS: definem estado mental de alto risco (sintomas atenuados, psicose breve intermitente, risco genético com declínio funcional).",
+    "Escala de Calgary para depressão na esquizofrenia (CDSS): 7 ou mais sugere depressão."
+   ]
+  },
+  "diferencial": [
+   "Transtorno bipolar ou depressão com sintomas psicóticos: psicose restrita aos episódios de humor.",
+   "Transtorno esquizoafetivo: psicose de pelo menos 2 semanas sem episódio de humor, mas episódios de humor na maior parte da duração total.",
+   "Psicose induzida por substância (cannabis, estimulantes, alucinógenos, álcool): relação temporal clara; remite em dias a semanas de abstinência; persistência além de 4 semanas sugere transtorno primário.",
+   "Psicose devida a condição médica: encefalite autoimune (anti-NMDA: psicose aguda, discinesias, crises, disautonomia), epilepsia do lobo temporal, lúpus, HIV, sífilis, tumores, doença de Wilson, porfiria, deficiência de B12, tireoidopatias, delirium.",
+   "Transtorno delirante: delírios não bizarros sem outros sintomas proeminentes e com funcionamento preservado fora do tema.",
+   "Transtorno da personalidade esquizotípica: ideias de referência e excentricidade estáveis, sem psicose franca sustentada.",
+   "TOC com crítica pobre, TEPT com revivescências e TEA: conteúdo ligado ao tema e ausência de delírios e alucinações francas fora do contexto.",
+   "Transtornos psicóticos breve e esquizofreniforme: pela duração (menos de 1 mês e menos de 6 meses)."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "APA 2020: diretriz prática para o tratamento da esquizofrenia (3.ª edição)",
+    "pontos": [
+     "1A: tratar com antipsicótico e monitorar eficácia e efeitos adversos; 1A: manter antipsicótico quando houve melhora; 1B: manter o mesmo antipsicótico que funcionou.",
+     "1B: clozapina na esquizofrenia resistente; 1B: clozapina se risco de suicídio persistente apesar de outros tratamentos; 2C: clozapina se agressividade persistente.",
+     "2B: antipsicótico de ação prolongada (LAI) se o paciente preferir ou se houver história de adesão incerta ou baixa.",
+     "Efeitos adversos: 2C anticolinérgico para distonia aguda; para parkinsonismo, reduzir dose, trocar ou associar anticolinérgico; 2C para acatisia, reduzir dose, trocar, associar benzodiazepínico ou betabloqueador; 1B inibidor de VMAT2 (valbenazina, deutetrabenazina; não disponíveis no Brasil) na discinesia tardia moderada a grave.",
+     "Psicossociais: 1B programa de cuidado especializado coordenado no primeiro episódio; 2B TCC para psicose, psicoeducação, emprego apoiado, tratamento assertivo comunitário (se alto uso de serviços), intervenção familiar; 2C treino de autogestão, remediação cognitiva, treino de habilidades sociais, psicoterapia de apoio.",
+     "Avaliação inicial e seguimento com escalas quantitativas e plano de tratamento documentado, incluindo avaliação de risco e saúde física."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeiro episódio",
+      "texto": "Antipsicótico de segunda geração em dose baixa (risperidona 2 a 4 mg, aripiprazol 10 a 15 mg, amissulprida 200 a 400 mg, olanzapina 5 a 10 mg) dentro de programa de intervenção precoce."
+     },
+     {
+      "linha": "Falha do primeiro",
+      "texto": "Confirmar adesão e dose; trocar para antipsicótico de perfil diferente; considerar LAI."
+     },
+     {
+      "linha": "Falha do segundo",
+      "texto": "Clozapina."
+     }
+    ]
+   },
+   {
+    "fonte": "NICE CG178 (2014, atualizada): psicose e esquizofrenia em adultos",
+    "pontos": [
+     "Primeiro episódio: oferecer antipsicótico oral associado a intervenção psicológica (intervenção familiar e TCC individual); se a pessoa recusar o antipsicótico, oferecer intervenções psicológicas isoladamente, explicando que são mais eficazes em conjunto.",
+     "Intervenção familiar: pelo menos 10 sessões planejadas ao longo de 3 meses a 1 ano, incluindo a pessoa com psicose se possível.",
+     "TCC para psicose: pelo menos 16 sessões planejadas, individuais, seguindo manual.",
+     "Escolha do antipsicótico em decisão compartilhada, discutindo efeitos metabólicos, extrapiramidais, cardiovasculares, hormonais e outros; registrar linha de base (peso, cintura, pulso, pressão, glicemia de jejum ou HbA1c, lipídios, prolactina, ECG se indicado).",
+     "Ensaio de 4 a 6 semanas na dose ideal; não usar dose de ataque; não iniciar associações de antipsicóticos regulares, salvo por períodos curtos durante trocas.",
+     "Clozapina para quem não respondeu a pelo menos 2 antipsicóticos usados sequencialmente em dose adequada, sendo pelo menos um de segunda geração que não a clozapina.",
+     "Emprego apoiado, terapias por artes, programas de exercício e de cessação do tabagismo; monitorar saúde física pelo menos anualmente."
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025) e metanálises de referência",
+    "pontos": [
+     "Eficácia: clozapina, amissulprida, olanzapina e risperidona ficam no topo das metanálises de rede (Huhn 2019), mas as diferenças entre os demais são pequenas; a escolha é guiada por efeitos adversos.",
+     "Doses: no primeiro episódio, respostas com doses menores (por exemplo, haloperidol 2 a 5 mg, risperidona 2 a 4 mg). Em episódios múltiplos, a dose que dá 95% do efeito máximo (Leucht 2020) fica em torno de risperidona 6 mg, olanzapina 15 mg, aripiprazol 12 mg, haloperidol 6 mg, quetiapina 480 mg; acima disso, mais efeitos sem ganho.",
+     "Ausência de qualquer melhora (menos de 20%) após 2 semanas em dose adequada prediz não resposta: considerar troca mais cedo; resposta parcial merece até 4 a 6 semanas.",
+     "Manutenção: suspender antipsicótico após remissão aumenta a recaída em 1 ano de cerca de 27% para 64% (Leucht 2012); após um primeiro episódio, manter pelo menos 1 a 2 anos, e após múltiplos episódios, por tempo indefinido. Se houver retirada, reduzir lentamente (hiperbólica, ao longo de meses).",
+     "LAI reduz reinternação e mortalidade em estudos de coorte nacionais (Tiihonen, Taipale): oferecer desde cedo, não apenas como último recurso.",
+     "Polifarmácia antipsicótica: evitar, exceto clozapina com potencialização ou associação de aripiprazol para reduzir prolactina ou ganho de peso."
+    ]
+   },
+   {
+    "fonte": "Brasil: Protocolo Clínico e Diretrizes Terapêuticas (PCDT) da esquizofrenia, Ministério da Saúde",
+    "pontos": [
+     "O SUS dispensa haloperidol e clorpromazina (atenção básica) e, pelo Componente Especializado, risperidona, olanzapina, quetiapina, ziprasidona e clozapina, conforme critérios do protocolo.",
+     "Clozapina exige laudo, termo de consentimento e hemograma conforme protocolo (semanal nas primeiras 18 semanas e mensal depois, pela bula brasileira).",
+     "Reabilitação psicossocial pela rede de atenção psicossocial (CAPS, residências terapêuticas, programas de geração de renda)."
+    ]
+   }
+  ]
+ },
+ "Esquizofrenia resistente": {
+  "criterios": {
+   "fonte": "Consenso TRRIP (Treatment Response and Resistance in Psychosis; Howes et al., 2017)",
+   "itens": [
+    {
+     "r": "Diagnóstico",
+     "t": "Diagnóstico de esquizofrenia confirmado segundo DSM ou CID, com revisão de outras causas de não resposta (uso de substâncias, condição médica, diagnóstico alternativo)."
+    },
+    {
+     "r": "Sintomas atuais",
+     "t": "Avaliados com escala padronizada (PANSS, BPRS, SANS, SAPS), idealmente de forma prospectiva:",
+     "sub": [
+      "Gravidade pelo menos moderada.",
+      "Prejuízo funcional pelo menos moderado (por exemplo, SOFAS de 60 ou menos).",
+      "Duração dos sintomas de pelo menos 12 semanas."
+     ]
+    },
+    {
+     "r": "Tratamento adequado",
+     "t": "Pelo menos dois ensaios com antipsicóticos diferentes:",
+     "sub": [
+      "Cada ensaio por pelo menos 6 semanas na dose terapêutica.",
+      "Dose equivalente a pelo menos 600 mg/dia de clorpromazina (ou faixa média ou alta da bula).",
+      "Adesão de pelo menos 80% das doses, confirmada por pelo menos duas fontes (contagem de comprimidos, farmácia, informante) e, pelo menos uma vez, por nível sérico.",
+      "Idealmente, um dos ensaios com LAI por pelo menos 4 meses (critério opcional para resistência de alta certeza)."
+     ]
+    },
+    {
+     "r": "Resposta",
+     "t": "Melhora de menos de 20% nos sintomas durante o ensaio prospectivo ou em ensaios prévios documentados."
+    }
+   ],
+   "especificadores": [
+    "Domínio: positivo, negativo, cognitivo (a resistência pode existir em um domínio e não em outro).",
+    "Início: precoce (no primeiro ano de tratamento), médio (1 a 5 anos), tardio (após 5 anos).",
+    "Resistência à clozapina (ultrarresistência): falta de resposta após pelo menos 3 meses de clozapina com nível sérico de pelo menos 350 ng/mL, preenchidos os demais critérios."
+   ],
+   "notas": [
+    "Pseudorresistência: não adesão (a causa mais comum), dose insuficiente, metabolizador ultrarrápido (CYP2D6, CYP1A2 em fumantes), interações indutoras (carbamazepina, tabagismo), uso de substâncias, diagnóstico errado. Checar nível sérico antes de rotular.",
+    "Cerca de 70% a 84% dos resistentes já são resistentes desde o primeiro episódio: a clozapina não deve ser adiada.",
+    "Na prática clínica, um ensaio adequado com resposta mínima é suficiente para avançar; o TRRIP é mais estrito porque foi pensado para pesquisa."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Quantos antipsicóticos já foram usados, em que doses e por quanto tempo cada um?",
+    "Você tomou o remédio todos os dias? Quantas doses esquece por semana? Para a família: quem guarda e entrega o remédio?",
+    "As vozes e as ideias persistem mesmo tomando o remédio certinho? O que melhorou e o que não melhorou?",
+    "Usa maconha, cocaína, álcool? Fuma quantos cigarros por dia? (tabaco reduz nível de clozapina e olanzapina)",
+    "Algum antipsicótico foi interrompido por efeito colateral antes de ter tempo de agir?",
+    "Já foi internado quantas vezes no último ano? Houve tentativa de suicídio ou agressividade?",
+    "Já falaram em clozapina com você? O que você sabe sobre os exames de sangue que ela exige?"
+   ],
+   "sinais": [
+    "Dois ou mais antipsicóticos em dose adequada sem melhora significativa.",
+    "Reinternações frequentes apesar de adesão confirmada (LAI ou nível sérico).",
+    "Polifarmácia antipsicótica ou doses acima do máximo da bula: sinal de que a clozapina foi pulada.",
+    "Sintomas positivos persistentes com risco de suicídio ou comportamento agressivo.",
+    "Nível sérico baixo com dose alta: metabolizador rápido, tabagismo ou não adesão.",
+    "Primeiro episódio com resposta ruim já no primeiro ensaio adequado (a resistência costuma ser precoce)."
+   ],
+   "instrumentos": [
+    "PANSS ou BPRS antes e após cada ensaio: resposta mínima é queda de 20% ou mais.",
+    "Nível sérico do antipsicótico (dosagem disponível para clozapina, olanzapina, risperidona e outros em laboratórios de referência).",
+    "Clozapinemia: alvo acima de 350 ng/mL; razão clozapina/norclozapina (em torno de 1,3 a 2) ajuda a identificar não adesão recente e inibição ou indução metabólica.",
+    "Genotipagem de CYP2D6 e CYP2C19 quando há discrepância entre dose e nível."
+   ]
+  },
+  "diferencial": [
+   "Não adesão parcial ou oculta: a causa mais comum de falsa resistência; confirmar com nível sérico ou LAI.",
+   "Uso de substâncias persistente: cannabis e estimulantes mantêm sintomas positivos.",
+   "Transtorno esquizoafetivo ou bipolar mal tratado: sintomas afetivos sem estabilizador.",
+   "Sintomas negativos secundários a EPS, sedação ou depressão, rotulados como resistência.",
+   "Psicose orgânica não reconhecida: encefalite autoimune, epilepsia, doenças metabólicas ou genéticas (deleção 22q11.2), neurossífilis.",
+   "Acatisia confundida com agitação psicótica, levando a aumentos de dose.",
+   "TOC ou TEPT comórbidos, com sintomas intrusivos interpretados como psicóticos."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "TRRIP 2017, APA 2020 e NICE CG178: indicação de clozapina",
+    "pontos": [
+     "Oferecer clozapina após dois antipsicóticos adequados sem resposta (NICE exige que um deles seja de segunda geração não clozapina); a APA 2020 recomenda também para risco de suicídio persistente e agressividade persistente.",
+     "A resposta à clozapina cai com a demora: iniciar em até 2 a 3 anos de doença resulta em taxas de resposta bem maiores que início tardio.",
+     "A clozapina reduz mortalidade total e por suicídio em coortes nacionais, apesar dos efeitos adversos."
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025): uso da clozapina",
+    "pontos": [
+     "Linha de base: hemograma com neutrófilos, troponina, PCR, ECG, peso, cintura, pressão, glicemia e HbA1c, lipídios, função hepática, hábito intestinal, história de convulsões.",
+     "Titulação: 12,5 mg no dia 1, aumentando 25 a 50 mg a cada 1 a 2 dias até 200 a 300 mg em 2 a 3 semanas; mais lenta em idosos, mulheres, não fumantes, asiáticos e com inibidores do CYP1A2 (fluvoxamina, ciprofloxacino).",
+     "Alvo de clozapinemia: acima de 350 ng/mL; avaliar resposta após pelo menos 8 a 12 semanas no nível adequado; parte dos pacientes responde tardiamente (até 6 meses).",
+     "Tabagismo reduz o nível em cerca de 30% a 50%: ao parar de fumar (inclusive internação), reduzir a dose em cerca de 25% a 50% e dosar em 1 semana. Cafeína e infecções aumentam o nível.",
+     "Hemograma no Brasil (bula): semanal nas primeiras 18 semanas e mensal depois, durante todo o tratamento; iniciar com leucócitos de pelo menos 3.500/mm³ e neutrófilos de pelo menos 2.000/mm³; interromper se leucócitos abaixo de 3.000/mm³ ou neutrófilos abaixo de 1.500/mm³. Considerar neutropenia étnica benigna (fenótipo Duffy nulo) em pacientes de ascendência africana.",
+     "Miocardite: troponina e PCR semanais nas primeiras 4 semanas (protocolo de Ronaldson); troponina acima de 2 vezes o limite ou PCR acima de 100 mg/L: suspender e avaliar com cardiologia.",
+     "Constipação (hipomotilidade potencialmente fatal): laxativo profilático desde o início (macrogol, senna), perguntar ativamente a cada consulta; evitar anticolinérgicos associados.",
+     "Convulsões dose-dependentes (maior risco com nível acima de 1.000 ng/mL): reduzir dose e considerar valproato ou lamotrigina.",
+     "Sialorreia: ipratrópio spray sublingual, atropina colírio 1% sublingual à noite, ou amissulprida associada.",
+     "Interrupção por mais de 48 horas: reiniciar titulação desde 12,5 mg."
+    ],
+    "linhas": [
+     {
+      "linha": "Resposta parcial à clozapina",
+      "texto": "Confirmar nível acima de 350 ng/mL e adesão; subir até 550 a 600 ng/mL se tolerado."
+     },
+     {
+      "linha": "Potencialização",
+      "texto": "Amissulprida 400 a 800 mg/dia ou aripiprazol 5 a 15 mg/dia (também reduz peso e prolactina), por 8 a 10 semanas; ECT (8 a 20 sessões) nos sintomas positivos persistentes, com cerca de 50% de resposta (Petrides 2015)."
+     },
+     {
+      "linha": "Evidência menor",
+      "texto": "Lamotrigina, ácido graxo ômega-3, memantina (negativos e cognição), TCC para psicose."
+     },
+     {
+      "linha": "Sem acesso ou contraindicação à clozapina",
+      "texto": "Olanzapina em dose alta (20 a 40 mg/dia, fora da bula acima de 20 mg), LAI para garantir adesão, ECT; evidência muito inferior à clozapina."
+     }
+    ]
+   },
+   {
+    "fonte": "NICE CG178 e consenso TRRIP: psicoterapias e reavaliação",
+    "pontos": [
+     "TCC para psicose (pelo menos 16 sessões) para sintomas positivos persistentes e sofrimento associado, junto com a clozapina.",
+     "Intervenção familiar e reabilitação psicossocial mantidas; emprego apoiado quando possível.",
+     "Na não resposta, revisar diagnóstico, adesão, uso de substâncias e comorbidades antes de cada nova etapa.",
+     "Encaminhar a serviço especializado em psicose refratária quando houver falha da clozapina ou impossibilidade de usá-la."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Resposta parcial à clozapina com ganho de peso ou hiperprolactinemia",
+    "preferir": "aripiprazol associado",
+    "evitar": "associar olanzapina ou quetiapina"
+   },
+   {
+    "se": "Resposta parcial com sintomas positivos intensos",
+    "preferir": "amissulprida associada ou ECT",
+    "evitar": "subir clozapina acima de 1.000 ng/mL"
+   },
+   {
+    "se": "Sialorreia intensa",
+    "preferir": "amissulprida associada, ipratrópio ou atropina sublingual",
+    "evitar": "anticolinérgicos sistêmicos (piora constipação)"
+   },
+   {
+    "se": "Fumante que vai parar ou vai ser internado",
+    "preferir": "reduzir dose em 25% a 50% e dosar nível",
+    "evitar": "manter a mesma dose sem monitorar"
+   },
+   {
+    "se": "Metabolizador rápido com dose alta e nível baixo",
+    "preferir": "fluvoxamina 25 a 50 mg com nível seriado (serviço experiente)",
+    "evitar": "doses muito altas de clozapina"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Gestação",
+    "texto": "Manter clozapina se é o único tratamento eficaz; monitorar diabetes gestacional, constipação e, no recém-nascido, sedação e agranulocitose (hemograma do bebê se amamentar; amamentação geralmente desaconselhada)."
+   },
+   {
+    "grupo": "Idosos",
+    "texto": "Titulação mais lenta e doses menores; mais hipotensão, quedas, constipação e delirium."
+   },
+   {
+    "grupo": "Adolescentes",
+    "texto": "Esquizofrenia de início precoce resistente responde à clozapina (superior a olanzapina em ensaios pediátricos); mais neutropenia e convulsões."
+   }
+  ],
+  "duracao": "Com resposta, manter a clozapina por tempo indefinido: a suspensão, sobretudo abrupta, leva a recaída rápida e psicose de rebote. Se precisar suspender (exceto por agranulocitose ou miocardite), reduzir ao longo de pelo menos 1 a 2 semanas e cobrir com outro antipsicótico."
+ },
+ "Sintomas negativos": {
+  "criterios": {
+   "fonte": "Consenso NIMH-MATRICS (Kirkpatrick et al., 2006); sintomas negativos persistentes (Buchanan, 2007); síndrome deficitária (Carpenter e Kirkpatrick, SDS 1989); DSM-5-TR (critério A5 da esquizofrenia)",
+   "itens": [
+    {
+     "r": "Domínios",
+     "t": "Cinco domínios consensuais, em dois fatores:",
+     "sub": [
+      "Déficit expressivo: embotamento afetivo (menos expressão facial, gestos e prosódia) e alogia (redução da quantidade de fala e de conteúdo espontâneo).",
+      "Déficit motivacional ou experiencial: avolição (menos iniciativa e persistência em atividades), anedonia (sobretudo antecipatória, menos prazer esperado) e associalidade (menos interesse e iniciativa em relações)."
+     ]
+    },
+    {
+     "r": "Persistentes",
+     "t": "Sintomas negativos persistentes (Buchanan 2007):",
+     "sub": [
+      "Pelo menos um sintoma negativo em grau moderado ou mais.",
+      "Sintomas positivos, depressivos e extrapiramidais ausentes ou leves.",
+      "Duração de pelo menos 6 meses, incluindo períodos de estabilidade clínica."
+     ]
+    },
+    {
+     "r": "Deficitária",
+     "t": "Síndrome deficitária (critérios de Carpenter e Kirkpatrick):",
+     "sub": [
+      "Pelo menos 2 de 6: afeto restrito, redução da amplitude emocional, pobreza do discurso, restrição de interesses, redução do senso de propósito, redução do impulso social.",
+      "Presentes nos últimos 12 meses, inclusive em períodos de estabilidade clínica.",
+      "Primários: não explicados por ansiedade, efeito de medicamento, suspeição, deficiência intelectual ou depressão.",
+      "Critérios de esquizofrenia preenchidos."
+     ]
+    }
+   ],
+   "notas": [
+    "Primários: intrínsecos à doença; secundários: causados por sintomas positivos (retraimento por paranoia), depressão, EPS (acinesia), sedação, subestimulação ambiental ou institucionalização, uso de substâncias. Só os secundários respondem bem ao tratamento da causa.",
+    "Não são um diagnóstico isolado no DSM-5-TR: aparecem como critério A5 da esquizofrenia e na avaliação dimensional de gravidade.",
+    "Afetam 40% a 60% dos pacientes com esquizofrenia e predizem pior funcionamento que os sintomas positivos."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "O que você fez na última semana? Houve algo que você quis fazer e não conseguiu começar?",
+    "Quando pensa em algo bom que vai acontecer (sair, encontrar alguém, comer algo de que gosta), fica com vontade? E quando acontece, sente prazer?",
+    "Tem vontade de estar com amigos ou família? Procura as pessoas ou espera que procurem você?",
+    "Você se sente triste, culpado ou sem esperança? (diferencia de depressão)",
+    "Sente o corpo travado, lento, rígido, ou muito sonolento durante o dia? (EPS e sedação)",
+    "As vozes ou a desconfiança fazem você evitar sair ou falar com as pessoas?",
+    "Para a família: toma banho, cuida das coisas, ajuda em casa sem que peçam? Conversa espontaneamente?",
+    "Usa maconha, álcool ou outras substâncias todos os dias?"
+   ],
+   "sinais": [
+    "Paciente sem sintomas positivos, mas parado em casa, sem trabalho, estudos ou relações.",
+    "Rosto pouco expressivo, pouca gesticulação, fala monótona e breve, respostas curtas.",
+    "Família descreve como 'preguiçoso' ou 'sem vontade'.",
+    "Uso de antipsicótico de alta potência em dose alta ou sedativos associados.",
+    "Rigidez, bradicinesia, tremor ou hipomimia ao exame (acinesia induzida).",
+    "Institucionalização prolongada ou ambiente sem estímulo.",
+    "Queda do interesse após remissão dos sintomas positivos (pode ser depressão pós-psicótica)."
+   ],
+   "instrumentos": [
+    "BNSS (Brief Negative Symptom Scale, 13 itens): cobre os cinco domínios, inclusive anedonia antecipatória; recomendada pela EPA.",
+    "CAINS (Clinical Assessment Interview for Negative Symptoms): separa expressão de motivação e prazer.",
+    "SANS (Andreasen) e fator negativo da PANSS (Marder); a subescala negativa original da PANSS inclui itens cognitivos e é menos específica.",
+    "Escala de Calgary (CDSS): distingue depressão de sintomas negativos (7 ou mais sugere depressão).",
+    "Escala de Simpson-Angus: rastreia parkinsonismo induzido que pode imitar sintomas negativos."
+   ]
+  },
+  "diferencial": [
+   "Depressão: humor triste, culpa, desesperança e ideação suicida; nos negativos predomina indiferença sem sofrimento. Escala de Calgary ajuda.",
+   "Parkinsonismo induzido (acinesia): bradicinesia, rigidez, hipomimia, melhora ao reduzir dose ou com anticolinérgico.",
+   "Sedação por antipsicótico ou associações: sonolência, melhora com redução de dose ou mudança de horário.",
+   "Retraimento por sintomas positivos: evita contatos por medo ou vozes; melhora com controle da psicose.",
+   "Catatonia: mutismo, negativismo, posturas, rigidez cérea; responde a lorazepam (teste com 1 a 2 mg).",
+   "Déficit cognitivo: dificuldade de planejar e executar, com motivação preservada.",
+   "Uso crônico de cannabis (síndrome amotivacional), hipotireoidismo, lesões frontais, TEA."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "EPA 2021 (Galderisi et al.): avaliação e tratamento dos sintomas negativos",
+    "pontos": [
+     "Avaliar com escalas de segunda geração (BNSS, CAINS) e diferenciar primários de secundários antes de tratar.",
+     "Secundários: tratar a causa (controlar sintomas positivos, tratar depressão, reduzir dose ou trocar antipsicótico se EPS ou sedação, tratar uso de substâncias, aumentar estímulo ambiental).",
+     "Preferir antipsicóticos de segunda geração aos de primeira na presença de sintomas negativos.",
+     "Cariprazina pode ser considerada nos sintomas negativos primários predominantes (superior à risperidona em ensaio de 26 semanas; Németh 2017, dose de 4,5 mg/dia, faixa de 3 a 6 mg).",
+     "Antidepressivos associados podem ser considerados, com efeito pequeno; cautela com interações e com risco de piorar sintomas positivos.",
+     "Psicossociais recomendados: treino de habilidades sociais (maior evidência), TCC, remediação cognitiva (sobretudo quando há déficit cognitivo associado) e exercício físico."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeiro passo",
+      "texto": "Excluir e tratar causas secundárias; antipsicótico na menor dose eficaz; retirar sedativos desnecessários."
+     },
+     {
+      "linha": "Primários persistentes",
+      "texto": "Trocar para cariprazina (1,5 mg, titulando até 3 a 6 mg) ou amissulprida em dose baixa (50 a 300 mg/dia); associar intervenções psicossociais."
+     },
+     {
+      "linha": "Adjuvantes",
+      "texto": "Antidepressivo (ISRS, mirtazapina), com efeito pequeno; evidência mais fraca para memantina, N-acetilcisteína 1.200 a 2.400 mg/dia (efeito após cerca de 24 semanas)."
+     }
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025) e metanálises",
+    "pontos": [
+     "Nenhum fármaco tem efeito robusto em sintomas negativos primários; amissulprida em dose baixa, cariprazina, olanzapina e clozapina têm os melhores dados entre antipsicóticos, com efeitos modestos.",
+     "Associar aripiprazol em dose baixa pode ajudar quando há hiperprolactinemia ou sedação por outro antipsicótico.",
+     "Antidepressivos associados: metanálises mostram efeito pequeno a moderado, maior em pacientes crônicos estáveis; mirtazapina e ISRS mais estudados.",
+     "Sem benefício consistente: psicoestimulantes (risco de piora positiva), glicina e D-cicloserina, ondansetrona com evidência limitada.",
+     "Evitar doses altas de antipsicóticos de alta potência e polifarmácia sedativa."
+    ]
+   },
+   {
+    "fonte": "NICE CG178 e APA 2020: intervenções psicossociais",
+    "pontos": [
+     "Emprego apoiado (modelo IPS) para quem deseja trabalhar, sem exigir remissão prévia.",
+     "Programas de exercício físico supervisionado, que melhoram sintomas negativos e cognição.",
+     "Intervenção familiar para reduzir crítica e expectativas desajustadas ('preguiça').",
+     "Remediação cognitiva e treino de habilidades sociais (APA 2020, 2C) para melhorar funcionamento."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Parkinsonismo ou acinesia",
+    "preferir": "reduzir dose, trocar para aripiprazol, quetiapina ou clozapina",
+    "evitar": "haloperidol e outros de alta potência em dose alta"
+   },
+   {
+    "se": "Sedação excessiva",
+    "preferir": "reduzir dose, trocar para aripiprazol, cariprazina, amissulprida",
+    "evitar": "olanzapina e quetiapina em dose alta, benzodiazepínicos crônicos"
+   },
+   {
+    "se": "Sintomas negativos primários predominantes",
+    "preferir": "cariprazina, amissulprida em dose baixa",
+    "evitar": "polifarmácia antipsicótica"
+   },
+   {
+    "se": "Depressão associada",
+    "preferir": "antidepressivo associado (ISRS, mirtazapina)",
+    "evitar": "atribuir tudo a sintoma negativo"
+   }
+  ],
+  "duracao": "Avaliar cada intervenção por pelo menos 8 a 12 semanas (adjuvantes como N-acetilcisteína até 24 semanas); intervenções psicossociais são contínuas.",
+  "monitorar": [
+   "BNSS ou fator negativo da PANSS a cada 3 meses",
+   "EPS (Simpson-Angus) e sedação",
+   "Depressão (Calgary)",
+   "Funcionamento (trabalho, estudo, relações, autocuidado)",
+   "Sintomas positivos ao trocar ou reduzir antipsicótico"
+  ]
+ },
+ "Transtorno esquizoafetivo": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10 F25; CID-11 6A21",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Período ininterrupto de doença durante o qual há um episódio de humor maior (depressivo maior ou maníaco) concomitante ao critério A da esquizofrenia. O episódio depressivo deve incluir humor deprimido (anedonia isolada não basta)."
+    },
+    {
+     "r": "B",
+     "t": "Delírios ou alucinações por 2 semanas ou mais na ausência de episódio de humor maior (depressivo ou maníaco), em algum momento da duração total da doença."
+    },
+    {
+     "r": "C",
+     "t": "Sintomas que preenchem critérios para episódio de humor maior estão presentes na maior parte da duração total das fases ativa e residual da doença."
+    },
+    {
+     "r": "D",
+     "t": "Não é atribuível aos efeitos de substância ou a outra condição médica."
+    }
+   ],
+   "especificadores": [
+    "Tipo bipolar: um episódio maníaco faz parte da apresentação (episódios depressivos maiores também podem ocorrer).",
+    "Tipo depressivo: apenas episódios depressivos maiores fazem parte da apresentação.",
+    "Com catatonia.",
+    "Curso (após 1 ano): primeiro episódio ou episódios múltiplos, em episódio agudo, remissão parcial ou completa; contínuo; não especificado.",
+    "Gravidade: avaliação dimensional de 0 a 4 dos sintomas psicóticos e de humor nos últimos 7 dias."
+   ],
+   "notas": [
+    "O diagnóstico é longitudinal: exige a linha do tempo da doença inteira, somando tempo de psicose e tempo de episódios de humor. Por isso é pouco estável e muitas vezes revisto para bipolar ou esquizofrenia.",
+    "Se a psicose ocorre só durante os episódios de humor: transtorno bipolar ou depressão com características psicóticas. Se os episódios de humor ocupam uma minoria do tempo total: esquizofrenia (com depressão ou mania comórbida).",
+    "CID-11 (6A21) define por episódio: sintomas de esquizofrenia e de episódio de humor presentes simultaneamente ou com poucos dias de diferença no mesmo episódio, sem exigir que o humor ocupe a maior parte do curso.",
+    "Excluir sempre psicose induzida por substância, frequente nos quadros mistos."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Desde que tudo começou, houve períodos em que você ouvia vozes ou tinha essas ideias mesmo com o humor normal, sem estar deprimido nem acelerado? Por quanto tempo?",
+    "Quanto tempo da sua doença você passou deprimido ou eufórico, comparado ao total?",
+    "Já teve fases de muita energia, pouca necessidade de sono, gastos, falar muito, ideias de grandeza?",
+    "Já teve fases de tristeza profunda, sem prazer, com culpa, alterações de sono e apetite, por semanas?",
+    "As vozes ou as ideias mudam de conteúdo com o humor (culpa e ruína na depressão, grandeza na mania)?",
+    "Já pensou em se matar ou tentou? (risco elevado, sobretudo no tipo depressivo)",
+    "Usa álcool, cannabis ou estimulantes? Os episódios coincidem com o uso?"
+   ],
+   "sinais": [
+    "Diagnóstico que oscila entre esquizofrenia e bipolar ao longo das internações.",
+    "Psicose que persiste após a remissão da mania ou da depressão.",
+    "Episódios de humor recorrentes e bem definidos em paciente com psicose crônica.",
+    "Resposta parcial a antipsicótico isolado com recaídas afetivas.",
+    "Psicose com conteúdo incongruente com o humor durante episódios afetivos.",
+    "História familiar de transtorno bipolar e de esquizofrenia."
+   ],
+   "instrumentos": [
+    "Linha do tempo (gráfico de vida) com fases de psicose e de humor, com ajuda da família e dos prontuários.",
+    "PANSS ou BPRS para sintomas psicóticos.",
+    "YMRS para mania (resposta: queda de 50%; remissão: 12 ou menos) e MADRS ou HAM-D para depressão; Calgary quando a psicose é proeminente.",
+    "Entrevista estruturada (SCID-5) quando o diagnóstico tem impacto no tratamento."
+   ]
+  },
+  "diferencial": [
+   "Transtorno bipolar com características psicóticas: psicose só nos episódios de humor, sem 2 semanas de psicose com humor normal.",
+   "Depressão maior com características psicóticas: idem, com delírios geralmente congruentes com o humor.",
+   "Esquizofrenia com sintomas de humor: episódios de humor ocupam minoria do curso total.",
+   "Depressão pós-psicótica na esquizofrenia: depressão após remissão da psicose, sem ocupar a maior parte do curso.",
+   "Psicose induzida por substâncias (estimulantes, cannabis, álcool): relação temporal e remissão com abstinência.",
+   "Condições médicas: encefalite autoimune, epilepsia, doenças endócrinas, lesões cerebrais."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "APA 2020 (esquizofrenia) e evidência de ensaios em esquizoafetivo",
+    "pontos": [
+     "A diretriz da APA para esquizofrenia se aplica ao componente psicótico: antipsicótico contínuo, LAI se adesão incerta, clozapina após dois ensaios adequados ou com risco de suicídio persistente.",
+     "Paliperidona oral (6 a 12 mg/dia) é o único antipsicótico com aprovação específica pela FDA no transtorno esquizoafetivo, em monoterapia ou associada a estabilizador ou antidepressivo; o palmitato de paliperidona mensal reduziu recaídas psicóticas e afetivas em manutenção (Fu 2015).",
+     "Outros antipsicóticos de segunda geração (risperidona, olanzapina, aripiprazol, ziprasidona, quetiapina) têm dados de subgrupos de ensaios em esquizofrenia e são usados na prática.",
+     "Clozapina: eficaz nos casos resistentes e reduziu comportamento suicida em pacientes com esquizofrenia e esquizoafetivo no InterSePT (2003)."
+    ],
+    "linhas": [
+     {
+      "linha": "Tipo bipolar",
+      "texto": "Antipsicótico de segunda geração; associar lítio (litemia 0,6 a 1,0 mmol/L) ou valproato (50 a 100 mcg/mL) se episódios maníacos persistem ou se recorrência afetiva apesar do antipsicótico."
+     },
+     {
+      "linha": "Tipo depressivo",
+      "texto": "Antipsicótico; associar antidepressivo (ISRS ou IRSN) no episódio depressivo maior que não melhora com o antipsicótico isolado, com evidência limitada."
+     },
+     {
+      "linha": "Resistência",
+      "texto": "Clozapina, com as mesmas regras da esquizofrenia resistente; ECT em episódios graves, catatonia ou risco suicida alto."
+     }
+    ]
+   },
+   {
+    "fonte": "NICE CG178 e Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "O NICE inclui o transtorno esquizoafetivo em 'psicose e esquizofrenia': antipsicótico com TCC para psicose e intervenção familiar, mesmo cuidado com saúde física e emprego apoiado.",
+     "Maudsley: tratar o componente psicótico como na esquizofrenia; muitos pacientes respondem ao antipsicótico isolado, inclusive nos sintomas de humor. Estabilizador é associado quando há mania recorrente, e antidepressivo quando há depressão persistente, sem evidência forte de superioridade da combinação.",
+     "Diante de diagnóstico duvidoso entre bipolar e esquizoafetivo, priorizar o tratamento pelas dimensões presentes (psicose persistente fora do humor exige antipsicótico contínuo; episódios maníacos pedem estabilizador).",
+     "Lítio reduz suicídio em transtornos do humor; considerar no tipo bipolar com risco suicida."
+    ]
+   },
+   {
+    "fonte": "CANMAT/ISBD 2018 aplicada ao componente afetivo (tipo bipolar)",
+    "pontos": [
+     "Episódio maníaco: lítio, quetiapina, valproato, aripiprazol, paliperidona, risperidona, cariprazina (primeira linha em monoterapia); combinação de antipsicótico com lítio ou valproato na mania grave.",
+     "Manutenção: continuar a combinação que tratou o episódio agudo; evitar antidepressivo em monoterapia no tipo bipolar.",
+     "Adaptação para o esquizoafetivo: como a psicose persiste fora dos episódios, o antipsicótico é mantido de forma contínua, diferentemente de muitos pacientes bipolares."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Tipo bipolar com mania recorrente",
+    "preferir": "antipsicótico de segunda geração com lítio ou valproato",
+    "evitar": "antidepressivo em monoterapia"
+   },
+   {
+    "se": "Tipo depressivo",
+    "preferir": "antipsicótico com ISRS ou IRSN associado",
+    "evitar": "antidepressivo sem antipsicótico"
+   },
+   {
+    "se": "Baixa adesão",
+    "preferir": "palmitato de paliperidona ou outro LAI",
+    "evitar": ""
+   },
+   {
+    "se": "Risco de suicídio persistente",
+    "preferir": "clozapina; lítio no tipo bipolar",
+    "evitar": "grandes quantidades de fármacos letais em superdosagem (tricíclicos)"
+   },
+   {
+    "se": "Mulher em idade fértil",
+    "preferir": "antipsicótico com lítio ou lamotrigina",
+    "evitar": "valproato"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Gestação",
+    "texto": "Mesmos princípios da esquizofrenia e do transtorno bipolar: manter antipsicótico eficaz; evitar valproato; lítio com monitoração rigorosa; risco alto de recaída no pós-parto."
+   },
+   {
+    "grupo": "Adolescentes",
+    "texto": "Diagnóstico ainda mais instável; reavaliar ao longo do seguimento; atenção a efeitos metabólicos."
+   }
+  ],
+  "duracao": "Tratamento de manutenção prolongado, em geral indefinido após múltiplos episódios, pois a psicose persiste fora dos episódios afetivos. O estabilizador ou o antidepressivo associados podem ser reavaliados após remissão sustentada do componente afetivo.",
+  "monitorar": [
+   "Sintomas psicóticos e afetivos (PANSS ou BPRS, YMRS, MADRS)",
+   "Risco de suicídio a cada consulta",
+   "Parâmetros metabólicos do antipsicótico (peso, cintura, glicemia, lipídios)",
+   "Litemia, função renal e tireoidiana com lítio; hemograma e função hepática com valproato",
+   "EPS e discinesia tardia"
+  ]
+ },
+ "Psicose no Parkinson": {
+  "criterios": {
+   "fonte": "Critérios diagnósticos de psicose associada à doença de Parkinson NINDS-NIMH (Ravina et al., 2007); no DSM-5-TR, transtorno psicótico devido a outra condição médica",
+   "cid": "CID-10 F06.0 (alucinose orgânica) ou F06.2 (transtorno delirante orgânico); CID-11 6E61 (síndrome psicótica secundária)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Presença de pelo menos um dos sintomas:",
+     "sub": [
+      "Ilusões (percepção distorcida de estímulo real, como ver um rosto em um tecido).",
+      "Falsa sensação de presença (sentir que há alguém perto, geralmente atrás ou ao lado).",
+      "Alucinações (visuais, mais comuns; também auditivas, táteis, olfativas).",
+      "Delírios (ciúme, infidelidade, perseguição, roubo, abandono)."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Diagnóstico primário de doença de Parkinson pelos critérios do Banco de Cérebros do Reino Unido (atualmente também pelos critérios da MDS 2015)."
+    },
+    {
+     "r": "C",
+     "t": "Os sintomas psicóticos começam após o início da doença de Parkinson."
+    },
+    {
+     "r": "D",
+     "t": "Sintomas recorrentes ou contínuos por pelo menos 1 mês."
+    },
+    {
+     "r": "E",
+     "t": "Não são mais bem explicados por outra causa: demência com corpos de Lewy, esquizofrenia, transtorno esquizoafetivo, transtorno delirante, transtorno do humor com características psicóticas, ou condição médica geral, inclusive delirium."
+    }
+   ],
+   "especificadores": [
+    "Com ou sem crítica (insight).",
+    "Com ou sem demência.",
+    "Com ou sem tratamento para doença de Parkinson (especificar fármacos, doses e relação temporal)."
+   ],
+   "notas": [
+    "Fenômenos menores (ilusões, presença, passagem de vultos no campo visual periférico) são frequentes e precoces; costumam preceder alucinações com perda de crítica e delírios.",
+    "Regra de 1 ano: demência antes do parkinsonismo ou até 1 ano depois dele sugere demência com corpos de Lewy (McKeith 2017); psicose com flutuação cognitiva acentuada precoce também aponta para Lewy.",
+    "No DSM-5-TR, psicose induzida por medicamento (dopaminérgico) e transtorno psicótico devido a outra condição médica são categorias separadas; na prática, os dois fatores quase sempre coexistem.",
+    "Psicose na doença de Parkinson é fator de risco para demência, institucionalização e mortalidade."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Você vê coisas que os outros não veem, como pessoas, crianças ou animais dentro de casa?",
+    "Sente que tem alguém ao seu lado ou atrás de você, sem ter ninguém?",
+    "Vê vultos passando pelo canto do olho? Objetos parecem se transformar em outras coisas?",
+    "Sabe que essas visões não são reais, ou acredita nelas? Elas incomodam ou assustam?",
+    "Para a família: ele tem desconfiado de traição, roubo, de estranhos na casa, de que querem prejudicá-lo?",
+    "Houve mudança recente de remédio para o Parkinson, dose maior ou remédio novo (inclusive para bexiga, dor ou sono)?",
+    "A memória e a atenção pioraram? Há dias muito melhores e outros muito piores, ou confusão que começou de repente?",
+    "Ele fala, grita ou se debate durante o sono (transtorno comportamental do sono REM)?",
+    "Tem febre, dor ao urinar, tosse, constipação, desidratação, ou parou de comer e beber?"
+   ],
+   "sinais": [
+    "Doença de Parkinson de longa duração com doses crescentes de dopaminérgicos, sobretudo agonistas e anticolinérgicos.",
+    "Declínio cognitivo, idade avançada, distúrbio visual, sonolência diurna, transtorno comportamental do sono REM.",
+    "Depressão e ansiedade associadas.",
+    "Mudança aguda de comportamento, desorientação e flutuação de atenção: delirium até prova em contrário.",
+    "Ciúme patológico recente em idoso com Parkinson.",
+    "Início recente de amantadina, anticolinérgico (triexifenidil, biperideno, oxibutinina), opioide, benzodiazepínico.",
+    "Internação, cirurgia, infecção urinária ou pneumonia."
+   ],
+   "instrumentos": [
+    "Item 1.2 da MDS-UPDRS (alucinações e psicose): graduação de 0 a 4.",
+    "NPI (Inventário Neuropsiquiátrico): domínios de delírios e alucinações, com frequência e gravidade.",
+    "SAPS-PD (9 itens da SAPS adaptados): usada nos ensaios de pimavanserina.",
+    "MoCA ou MEEM para cognição; MoCA abaixo de 26 sugere comprometimento na doença de Parkinson.",
+    "CAM (Confusion Assessment Method) para delirium."
+   ]
+  },
+  "diferencial": [
+   "Delirium: início agudo, flutuação da atenção e da consciência, causa clínica (infecção, desidratação, fármaco novo, retenção urinária, constipação).",
+   "Demência com corpos de Lewy: alucinações visuais precoces, flutuações cognitivas, demência que antecede ou acompanha em até 1 ano o parkinsonismo; hipersensibilidade grave a antipsicóticos.",
+   "Psicose induzida por medicamento isolada: início logo após introdução ou aumento de dopaminérgico, anticolinérgico ou amantadina, com melhora na redução.",
+   "Depressão com características psicóticas: humor deprimido, delírios de culpa, ruína, hipocondria.",
+   "Síndrome de Charles Bonnet: alucinações visuais complexas com crítica em perda visual, sem outros sintomas psicóticos.",
+   "Transtorno do controle de impulsos e síndrome de desregulação dopaminérgica: comportamento compulsivo, não psicótico, associado a agonistas.",
+   "Transtorno comportamental do sono REM e alucinações hipnopômpicas: ocorrem ao despertar ou durante o sono."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "MDS 2019 (Seppi et al.): revisão baseada em evidências dos tratamentos não motores da doença de Parkinson",
+    "pontos": [
+     "Clozapina: eficaz e clinicamente útil (dois ensaios controlados positivos, PSYCLOPS 1999 e French Clozapine Study 1999), com risco aceitável sob monitoração específica (hemograma).",
+     "Pimavanserina: eficaz e clinicamente útil (Cummings 2014), sem piora motora; alerta de mortalidade aumentada em idosos com demência, como os demais antipsicóticos. Não disponível no Brasil.",
+     "Quetiapina: evidência insuficiente de eficácia (ensaios negativos ou inconclusivos), mas considerada possivelmente útil por segurança motora aceitável.",
+     "Olanzapina: não útil, com risco inaceitável de piora motora. Risperidona, haloperidol e outros antipsicóticos típicos também pioram o parkinsonismo e devem ser evitados.",
+     "Inibidores de colinesterase (rivastigmina) têm evidência insuficiente especificamente para psicose, mas são usados quando há demência, podendo reduzir alucinações."
+    ],
+    "linhas": [
+     {
+      "linha": "Passo 1",
+      "texto": "Excluir e tratar delirium, infecção, desidratação, distúrbios metabólicos; tratar insônia, depressão e déficit visual; orientar a família (fenômenos menores com crítica não precisam de antipsicótico)."
+     },
+     {
+      "linha": "Passo 2",
+      "texto": "Reduzir ou retirar, nesta ordem: anticolinérgicos, amantadina, inibidores da MAO-B, agonistas dopaminérgicos, inibidores da COMT; por último, reduzir levodopa até o menor nível motor tolerável."
+     },
+     {
+      "linha": "Passo 3",
+      "texto": "Com demência: rivastigmina (oral 1,5 mg 2 vezes ao dia até 6 mg 2 vezes ao dia, ou adesivo 4,6 a 9,5 mg/24 h) ou donepezila 5 a 10 mg."
+     },
+     {
+      "linha": "Passo 4",
+      "texto": "Antipsicótico: clozapina 6,25 a 12,5 mg à noite, aumentando a cada 3 a 7 dias até 25 a 50 mg (raramente mais de 100 mg), ou quetiapina 12,5 mg à noite até 50 a 150 mg; pimavanserina 34 mg/dia onde disponível."
+     }
+    ]
+   },
+   {
+    "fonte": "NICE NG71 (2017): doença de Parkinson em adultos",
+    "pontos": [
+     "Alucinações e delírios bem tolerados pela pessoa e pelo cuidador não precisam de tratamento.",
+     "Primeiro, tratar comorbidades agudas e revisar medicações que possam ter causado os sintomas, reduzindo a dose conforme tolerância motora.",
+     "Considerar quetiapina em pessoas sem comprometimento cognitivo; se não for eficaz, considerar clozapina, com monitoração hematológica obrigatória.",
+     "Não oferecer olanzapina. Em demência associada à doença de Parkinson, inibidor de colinesterase é recomendado para a demência."
+    ]
+   },
+   {
+    "fonte": "AAN 2006 (Miyasaki et al.) e prática clínica",
+    "pontos": [
+     "Clozapina deve ser considerada (nível B); quetiapina pode ser considerada (nível C); olanzapina não deve ser usada rotineiramente (nível B).",
+     "Clozapina em dose baixa exige o mesmo protocolo de hemograma da esquizofrenia; hipotensão ortostática, sedação e sialorreia (às vezes melhora) são os efeitos mais comuns nessa população.",
+     "Quetiapina: iniciar à noite, avaliar hipotensão, quedas e sedação; efeito sobre alucinações é inconstante, mas ajuda no sono.",
+     "Reavaliar a necessidade do antipsicótico a cada 3 a 6 meses; em muitos casos é possível reduzir após estabilização e ajuste dopaminérgico, mas recaídas são frequentes.",
+     "Encaminhar ao neurologista para ajustar o esquema dopaminérgico e discutir a relação entre benefício motor e psicose; estimulação cerebral profunda permite reduzir medicação em casos selecionados."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Psicose com piora motora inaceitável ao reduzir dopaminérgicos",
+    "preferir": "clozapina em dose baixa",
+    "evitar": "haloperidol, risperidona, olanzapina"
+   },
+   {
+    "se": "Clozapina inviável (sem acesso a hemograma, recusa)",
+    "preferir": "quetiapina em dose baixa",
+    "evitar": "antipsicóticos típicos e risperidona"
+   },
+   {
+    "se": "Demência associada",
+    "preferir": "rivastigmina ou donepezila antes ou junto do antipsicótico",
+    "evitar": "anticolinérgicos, amantadina"
+   },
+   {
+    "se": "Insônia e agitação noturna",
+    "preferir": "quetiapina à noite",
+    "evitar": "benzodiazepínicos (quedas, delirium)"
+   },
+   {
+    "se": "Hipotensão ortostática grave",
+    "preferir": "titulação muito lenta; pimavanserina onde disponível",
+    "evitar": "doses rápidas de clozapina ou quetiapina"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Demência com corpos de Lewy",
+    "texto": "Mesma lógica, com sensibilidade ainda maior a antipsicóticos (reações graves, inclusive síndrome neuroléptica maligna com típicos); inibidores de colinesterase são a base."
+   },
+   {
+    "grupo": "Internados e em delirium",
+    "texto": "Tratar a causa; se agitação grave, quetiapina em dose baixa; evitar haloperidol mesmo em dose baixa e não suspender levodopa abruptamente (risco de síndrome de hiperpirexia e parkinsonismo agudo)."
+   }
+  ],
+  "duracao": "Manter o antipsicótico enquanto houver sintomas incômodos; tentar redução gradual após 3 a 6 meses de estabilidade, sabendo que a psicose tende a progredir com a doença. A clozapina exige hemograma por todo o tratamento.",
+  "monitorar": [
+   "Sintomas psicóticos (NPI ou item 1.2 da MDS-UPDRS)",
+   "Função motora (piora do parkinsonismo)",
+   "Pressão arterial em pé e deitado, quedas",
+   "Cognição e sinais de delirium",
+   "Hemograma com clozapina, conforme protocolo",
+   "Sedação e constipação"
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+  "intro": "Calculadoras de conversão aproximada entre fármacos da mesma classe. Use como ponto de partida para trocas e para comparar cargas de tratamento, nunca como regra fixa.",
+  "aviso": "Equivalências são estimativas populacionais derivadas de consenso de especialistas ou de ensaios clínicos. Não consideram diferenças de meia-vida, perfil de receptores, metabolizadores lentos ou rápidos, idade e comorbidades. Em trocas, iniciar abaixo do valor calculado e titular pela resposta.",
+  "tabelas": [
+    {
+      "id": "antipsicoticos",
+      "titulo": "Antipsicóticos",
+      "unidade": "mg/dia",
+      "coluna": "Equivalente a olanzapina 20 mg/dia",
+      "exemplo_de": "haloperidol",
+      "exemplo_dose": 10,
+      "aviso": "Equivalências de consenso para doses orais diárias. Não servem para converter antipsicóticos de depósito nem para clozapina em pacientes resistentes. Os valores marcados como DDD usam a razão entre doses diárias definidas pela OMS (método de Leucht e colaboradores, 2016), menos precisa para agonistas parciais.",
+      "fonte": "Gardner DM et al. International consensus study of antipsychotic dosing. Am J Psychiatry 2010;167:686-93. Leucht S et al. Dose equivalents for antipsychotic drugs: the DDD method. Schizophr Bull 2016;42 Suppl 1:S90-4. Equivalente em clorpromazina: multiplicar por 30 a dose equivalente de olanzapina (olanzapina 20 mg ≈ clorpromazina 600 mg).",
+      "itens": [
+        {"id": "olanzapina", "dose": 20},
+        {"id": "haloperidol", "dose": 10},
+        {"id": "clorpromazina", "dose": 600},
+        {"id": "risperidona", "dose": 6},
+        {"id": "paliperidona", "dose": 9},
+        {"id": "quetiapina", "dose": 750},
+        {"id": "ziprasidona", "dose": 160},
+        {"id": "aripiprazol", "dose": 30},
+        {"id": "amissulprida", "dose": 700},
+        {"id": "asenapina", "dose": 20},
+        {"id": "clozapina", "dose": 400},
+        {"id": "flufenazina", "dose": 12},
+        {"id": "tioridazina", "dose": 500},
+        {"id": "sulpirida", "dose": 1000, "nota": "Baixa potência D2; doses baixas (até 200 mg) têm ação predominantemente pré-sináptica."},
+        {"id": "zuclopentixol", "dose": 50},
+        {"id": "levomepromazina", "dose": 600, "nota": "DDD da OMS; muito sedativa e hipotensora, raramente usada como antipsicótico isolado nessa dose."},
+        {"id": "periciazina", "dose": 100, "nota": "DDD da OMS."},
+        {"id": "lurasidona", "dose": 120, "nota": "DDD da OMS."},
+        {"id": "cariprazina", "dose": 6, "nota": "DDD da OMS; agonista parcial de meia-vida muito longa."},
+        {"id": "brexpiprazol", "dose": 4, "nota": "Aproximação pela dose máxima em esquizofrenia; agonista parcial."}
+      ]
+    },
+    {
+      "id": "benzodiazepinicos",
+      "titulo": "Benzodiazepínicos e drogas Z",
+      "unidade": "mg",
+      "coluna": "Equivalente a diazepam 10 mg",
+      "exemplo_de": "alprazolam",
+      "exemplo_dose": 2,
+      "aviso": "Equivalências para uso oral, úteis na conversão para diazepam antes de retirada gradual. Fármacos de meia-vida curta e alta potência (alprazolam, lorazepam) podem exigir dose de diazepam um pouco maior no início para evitar sintomas de abstinência entre doses.",
+      "fonte": "Ashton CH. Benzodiazepines: how they work and how to withdraw (The Ashton Manual), 2002. Maudsley Prescribing Guidelines in Psychiatry, 15ª ed., 2025.",
+      "itens": [
+        {"id": "diazepam", "dose": 10},
+        {"id": "alprazolam", "dose": 0.5},
+        {"id": "bromazepam", "dose": 6},
+        {"id": "clonazepam", "dose": 0.5},
+        {"id": "clobazam", "dose": 20},
+        {"id": "clordiazepoxido", "dose": 25},
+        {"id": "flunitrazepam", "dose": 1},
+        {"id": "lorazepam", "dose": 1},
+        {"id": "nitrazepam", "dose": 10},
+        {"id": "zolpidem", "dose": 20, "nota": "Droga Z; equivalência de uso hipnótico."},
+        {"id": "zopiclona", "dose": 15, "nota": "Droga Z; equivalência de uso hipnótico."}
+      ]
+    },
+    {
+      "id": "antidepressivos",
+      "titulo": "Antidepressivos",
+      "unidade": "mg/dia",
+      "coluna": "Equivalente a fluoxetina 40 mg/dia",
+      "exemplo_de": "sertralina",
+      "exemplo_dose": 100,
+      "aviso": "Equivalências derivadas de ensaios clínicos randomizados (método de dose-resposta). Servem para comparar doses e planejar trocas; não indicam que os fármacos sejam intercambiáveis quanto a perfil adverso ou eficácia em subgrupos.",
+      "fonte": "Hayasaka Y et al. Dose equivalents of antidepressants: evidence-based recommendations from randomized controlled trials. J Affect Disord 2015;180:179-84. Valores arredondados.",
+      "itens": [
+        {"id": "fluoxetina", "dose": 40},
+        {"id": "sertralina", "dose": 100},
+        {"id": "paroxetina", "dose": 34},
+        {"id": "citalopram", "dose": 40},
+        {"id": "escitalopram", "dose": 18},
+        {"id": "fluvoxamina", "dose": 143},
+        {"id": "venlafaxina", "dose": 149},
+        {"id": "duloxetina", "dose": 60},
+        {"id": "amitriptilina", "dose": 122},
+        {"id": "nortriptilina", "dose": 101},
+        {"id": "imipramina", "dose": 137},
+        {"id": "clomipramina", "dose": 116},
+        {"id": "moclobemida", "dose": 575},
+        {"id": "bupropiona", "dose": 349},
+        {"id": "mirtazapina", "dose": 51},
+        {"id": "trazodona", "dose": 401},
+        {"id": "agomelatina", "dose": 53},
+        {"id": "reboxetina", "dose": 11.5}
+      ]
+    }
+  ]
+}

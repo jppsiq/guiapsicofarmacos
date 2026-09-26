@@ -1,0 +1,1222 @@
+{
+ "Agitação": [
+  {
+   "id": "agitacao-o-que-e",
+   "titulo": "Agitação: o que é e como se trata",
+   "subtitulo": "Entender o que está acontecendo ajuda a passar pela crise com mais segurança",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é agitação",
+     "texto": "Agitação é um estado de **inquietação intensa**: a pessoa não consegue ficar parada, fala alto ou rápido, fica irritada, com medo ou desconfiada, e pode perder o controle do que faz.\n\nAgitação **não é um diagnóstico**. É um sinal de que algo está pesando demais naquele momento. Por isso, a equipe sempre procura a causa antes de decidir o tratamento."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Causas mais comuns",
+     "itens": [
+      "Crise de uma doença mental, como psicose ou mania (fase de euforia do transtorno bipolar).",
+      "Uso de álcool, cocaína, crack ou outras drogas, ou a falta delas (abstinência).",
+      "**Delirium**: confusão causada por infecção, febre, desidratação, remédios ou outras doenças do corpo, muito comum em pessoas idosas.",
+      "Dor, fome, sono, calor ou um ambiente barulhento e cheio de gente.",
+      "Medo, sensação de ameaça ou de não estar sendo ouvido."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como a equipe de saúde costuma agir",
+     "itens": [
+      "Garante a segurança de todos, inclusive da própria pessoa agitada.",
+      "Conversa com calma, escuta e tenta entender o que a pessoa precisa. Isso se chama **desescalada** e muitas vezes basta.",
+      "Examina o corpo: pressão, temperatura, açúcar no sangue, oxigênio, sinais de intoxicação ou de doença.",
+      "Se for preciso, **oferece um remédio por boca** para acalmar. O objetivo é tranquilizar, não deixar a pessoa desacordada.",
+      "Só quando há risco grave e as outras medidas não bastaram usa injeção ou contenção, seguindo protocolo e com acompanhamento de perto."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Sobre os remédios",
+     "texto": "Os remédios usados na crise podem dar **sono, tontura, pressão baixa ou rigidez nos músculos**. Nas horas seguintes a equipe acompanha a respiração e os sinais vitais.\n\nSe a pessoa já passou por crises antes, conte à equipe o que ajudou e o que fez mal. Essa informação é muito valiosa."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Importante",
+     "texto": "Passada a crise, vale combinar com a equipe um **plano para os próximos momentos difíceis**: sinais de que a agitação está chegando, o que acalma e a quem pedir ajuda."
+    }
+   ],
+   "ajuda": [
+    "Agressão ou ameaça séria a si mesmo ou a outras pessoas.",
+    "Agitação com febre, confusão, fala enrolada, convulsão ou dificuldade para respirar.",
+    "Suspeita de uso de grande quantidade de álcool, drogas ou remédios."
+   ],
+   "fonte": "Projeto BETA (American Association for Emergency Psychiatry); NICE NG10"
+  },
+  {
+   "id": "desescalada-em-casa",
+   "titulo": "Como acalmar a situação em casa",
+   "subtitulo": "Orientações para a família diante de alguém muito agitado",
+   "publico": "Família",
+   "figura": "semaforo",
+   "figura_legenda": "Verde: tudo calmo. Amarelo: sinais de tensão. Vermelho: risco, chame ajuda.",
+   "figura_posicao": "fim",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Primeiro, a sua segurança",
+     "texto": "Quando alguém que você ama fica muito agitado, é natural sentir medo ou raiva. Lembre que **a agitação costuma vir da doença, do medo ou de uma substância**, e não de falta de amor por você.\n\nAntes de tentar acalmar, cuide da sua segurança e da de quem está por perto, principalmente crianças e pessoas idosas."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Na hora da tensão",
+     "sim": [
+      "Fale **devagar, baixo e com frases curtas**.",
+      "Fique a uma distância de mais ou menos dois braços, de lado, e não bloqueie a porta.",
+      "Deixe um caminho livre para você sair também.",
+      "Chame a pessoa pelo nome e mostre que está ouvindo: \"Estou vendo que você está com muita raiva.\"",
+      "Pergunte o que ela precisa: água, comida, silêncio, ficar sozinha um pouco.",
+      "Ofereça escolhas simples: \"Quer sentar aqui ou na varanda?\"",
+      "Diminua barulho, TV e o número de pessoas no cômodo."
+     ],
+     "nao": [
+      "Gritar, ameaçar, discutir quem tem razão ou rir da situação.",
+      "Tocar, segurar ou encurralar a pessoa.",
+      "Discutir ideias estranhas ou desconfianças; não é hora de convencer.",
+      "Ficar sozinho com a pessoa se houver risco.",
+      "Oferecer álcool ou dar remédio que não foi combinado com a equipe."
+     ]
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Quando chamar ajuda",
+     "verde": [
+      "A pessoa está tensa mas conversa, aceita ajuda e vai se acalmando.",
+      "Siga as orientações acima e avise a equipe que acompanha o caso."
+     ],
+     "amarelo": [
+      "Não dorme há dias, fala sem parar, está muito desconfiada ou ouvindo vozes.",
+      "Quebra objetos, ameaça, recusa comida ou remédio.",
+      "Procure o CAPS, a UBS ou o serviço que acompanha a pessoa no mesmo dia."
+     ],
+     "vermelho": [
+      "Agressão, arma ou objeto perigoso na mão, ameaça séria de se machucar ou de machucar alguém.",
+      "Confusão com febre, sonolência forte ou suspeita de intoxicação.",
+      "Afaste-se, proteja as pessoas e ligue para o **SAMU 192**. Se houver risco imediato de violência, chame a **Polícia Militar 190**."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Depois da crise",
+     "texto": "Quando tudo estiver calmo, converse sem culpar. Pergunte o que ajudou e o que piorou. Leve essas informações para a equipe e monte um plano junto com a pessoa.\n\nRetire de fácil acesso facas, armas, cordas e remédios em grande quantidade. Cuide também de você: conviver com crises cansa, e você tem direito a apoio."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Telefones e contatos úteis",
+     "texto": "Equipe que acompanha, CAPS mais próximo, familiar de confiança.",
+     "linhas_vazias": 4
+    }
+   ],
+   "ajuda": [
+    "Violência ou ameaça séria contra alguém.",
+    "Fala ou plano de suicídio.",
+    "Agitação com febre, confusão ou suspeita de intoxicação."
+   ],
+   "fonte": "Projeto BETA de desescalada verbal (Richmond e colaboradores, 2012); NICE NG10"
+  },
+  {
+   "id": "meu-plano-agitacao",
+   "titulo": "Meu plano para quando a tensão sobe",
+   "subtitulo": "Reconhecer os primeiros sinais e agir antes da crise",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que fazer um plano",
+     "texto": "A agitação quase nunca surge do nada. Antes dela aparecem **sinais de aviso**: dormir menos, ficar irritado com pouco, sentir o coração acelerado. Quando você conhece seus sinais, consegue agir mais cedo.\n\nPreencha este plano com calma, de preferência com alguém da equipe ou uma pessoa de confiança."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meus sinais e o que faço",
+     "colunas": [
+      "Fase",
+      "Meus sinais",
+      "O que eu faço"
+     ],
+     "linhas": [
+      [
+       "Começando",
+       "",
+       ""
+      ],
+      [
+       "Aumentando",
+       "",
+       ""
+      ],
+      [
+       "Quase perdendo o controle",
+       "",
+       ""
+      ]
+     ],
+     "linhas_vazias": 0
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Coisas que costumam me acalmar",
+     "itens": [
+      "Sair do lugar e ir para um canto mais calmo.",
+      "Respirar devagar, soltando o ar por mais tempo do que puxo.",
+      "Tomar água, comer algo, tomar banho.",
+      "Caminhar ou fazer exercício.",
+      "Ouvir música, rezar ou meditar.",
+      "Falar com uma pessoa de confiança.",
+      "Tomar o remédio \"se necessário\" que a equipe combinou comigo, do jeito que foi combinado."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Nos dias difíceis",
+     "sim": [
+      "Dormir em horário regular.",
+      "Tomar os remédios como combinado.",
+      "Avisar a equipe se estiver piorando."
+     ],
+     "nao": [
+      "Álcool e outras drogas, que aumentam muito o risco de perder o controle.",
+      "Parar ou mudar remédios por conta própria.",
+      "Ficar em discussões que já estão esquentando."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Pessoas que posso chamar e o que gostaria que fizessem por mim",
+     "linhas_vazias": 5
+    }
+   ],
+   "ajuda": [
+    "Vontade forte de machucar alguém ou a si mesmo.",
+    "Vozes mandando fazer coisas perigosas.",
+    "Muitos dias sem dormir com agitação crescente."
+   ],
+   "fonte": "NICE NG10 (planos antecipados e prevenção da violência); Projeto BETA"
+  }
+ ],
+ "Delirium": [
+  {
+   "id": "delirium-o-que-e",
+   "titulo": "Delirium: a confusão que aparece de repente",
+   "subtitulo": "Por que a pessoa internada pode ficar diferente e o que isso significa",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é delirium",
+     "texto": "Delirium é uma **confusão mental que começa de repente**, em horas ou dias. A pessoa tem dificuldade de prestar atenção, não sabe bem onde está, troca o dia pela noite e pode ver coisas que não existem.\n\nÉ um sinal de que **o cérebro está sofrendo por causa de um problema no corpo**. É muito comum em pessoas idosas internadas, depois de cirurgias e na UTI. Não é loucura e não é o mesmo que demência, embora quem tem demência tenha mais risco."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Como ele aparece",
+     "itens": [
+      "**Agitado**: inquieta, tenta sair da cama, arranca soro ou sonda, fica desconfiada ou com medo.",
+      "**Quieto** (hipoativo): fica sonolenta, lenta, fala pouco. Parece tristeza ou cansaço e por isso passa despercebido.",
+      "Os sintomas **melhoram e pioram ao longo do dia**, muitas vezes piorando no fim da tarde e à noite."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Causas frequentes",
+     "itens": [
+      "Infecções (urina, pulmão), febre, desidratação.",
+      "Alterações do sódio, do açúcar ou do oxigênio no sangue.",
+      "Dor, prisão de ventre, dificuldade para urinar.",
+      "Remédios, principalmente para dormir, para dor forte e alguns para alergia ou bexiga.",
+      "Parada brusca de álcool ou de calmantes."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "O tratamento principal é **encontrar e corrigir a causa**. Junto com isso, cuidados simples no dia a dia (veja a ficha \"Como ajudar no hospital\") ajudam muito e **a presença da família faz diferença**.\n\nRemédios para acalmar só são usados quando a agitação é perigosa ou a pessoa sofre muito com medo ou alucinações, na menor dose e pelo menor tempo. Não existe remédio que cure o delirium.\n\nA recuperação pode levar **dias ou semanas**, e em algumas pessoas a memória demora mais para voltar ao que era."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Você conhece essa pessoa melhor do que ninguém",
+     "texto": "Se notar que ela está **diferente do jeito habitual**, mais confusa, mais sonolenta ou estranha, avise a equipe. Essa observação ajuda a descobrir o delirium cedo."
+    }
+   ],
+   "ajuda": [
+    "Sonolência muito forte, dificuldade de acordar a pessoa.",
+    "Falta de ar, febre alta, convulsão ou fraqueza de um lado do corpo.",
+    "Em casa: confusão que surge de repente em pessoa idosa. Procure atendimento no mesmo dia."
+   ],
+   "fonte": "NICE CG103; programa HELP (Inouye); SCCM PADIS 2018"
+  },
+  {
+   "id": "como-ajudar-no-hospital",
+   "titulo": "Como ajudar no hospital",
+   "subtitulo": "Cuidados simples da família que previnem e aliviam o delirium",
+   "publico": "Família",
+   "figura": "rotina-dia",
+   "figura_legenda": "Dia claro e ativo, noite escura e silenciosa: o ritmo ajuda o cérebro a se reorganizar.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Estudos mostram que **medidas simples** evitam cerca de um terço dos casos de delirium e ajudam na recuperação de quem já está confuso. Muitas delas a família pode fazer."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Orientação",
+     "itens": [
+      "Diga com calma quem você é, onde a pessoa está e por quê: \"Sou a Ana, sua filha. Você está no hospital tratando uma infecção.\"",
+      "Deixe à vista um **relógio e um calendário** grandes; comente o dia e a hora durante as conversas.",
+      "Traga fotos da família e objetos conhecidos, como uma manta ou um travesseiro.",
+      "Conte notícias da casa e da família de um jeito leve."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Ver, ouvir e se comunicar",
+     "itens": [
+      "Traga os **óculos** e verifique se estão limpos.",
+      "Traga o **aparelho auditivo** com pilhas ou carregador, e a **dentadura**.",
+      "Fale de frente, devagar, uma coisa de cada vez.",
+      "Não discuta se ela disser algo que não é real; acolha o medo e mude de assunto com calma."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Sono",
+     "itens": [
+      "Durante o dia: janela aberta, luz, conversa, sentar na cadeira quando a equipe liberar.",
+      "À noite: luz baixa, pouco barulho, TV desligada.",
+      "Pergunte à equipe se procedimentos e remédios podem ser evitados durante a madrugada.",
+      "Evite que ela durma a tarde inteira."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Corpo",
+     "itens": [
+      "Ofereça **água** e ajude nas refeições, se a equipe permitir.",
+      "Ajude a sair da cama e caminhar quando for seguro.",
+      "Avise se ela parecer com dor, sem urinar ou sem evacuar há dias."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Presença",
+     "itens": [
+      "Revezem-se para que haja **um rosto conhecido** o maior tempo possível, principalmente no fim da tarde e à noite.",
+      "Pergunte ao hospital sobre acompanhante e horários flexíveis de visita.",
+      "Leve a lista de todos os remédios que a pessoa usa em casa e conte se ela bebe álcool todos os dias."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Cuide de você também",
+     "texto": "Ver alguém querido confuso assusta. Revezar com outros familiares é importante. Pergunte à equipe tudo o que não entender."
+    }
+   ],
+   "ajuda": [
+    "Piora rápida da confusão ou sonolência forte: chame a enfermagem na hora.",
+    "Tentativa de arrancar tubos ou sair da cama sem ajuda."
+   ],
+   "fonte": "Hospital Elder Life Program (HELP, Inouye 1999); NICE CG103"
+  },
+  {
+   "id": "depois-do-delirium",
+   "titulo": "Depois do delirium",
+   "subtitulo": "O que esperar na volta para casa e como prevenir novos episódios",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A recuperação leva tempo",
+     "texto": "Muitas pessoas se lembram do delirium como um **pesadelo confuso**, com medo e imagens estranhas. Outras não lembram de nada. As duas coisas são comuns.\n\nNas semanas seguintes podem continuar cansaço, esquecimento e dificuldade de concentração. Na maioria das vezes isso melhora aos poucos. Em algumas pessoas, principalmente com problemas de memória anteriores, a recuperação é mais lenta e merece avaliação."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Na volta para casa",
+     "itens": [
+      "Pergunte à equipe se algum **remédio para acalmar ou dormir** usado no hospital deve ser **suspenso** na alta.",
+      "Leve a lista atualizada de remédios à consulta de retorno.",
+      "Mantenha rotina: horários de sono, refeições, luz do dia e caminhadas.",
+      "Óculos, aparelho auditivo e água sempre à mão.",
+      "Converse sobre o que aconteceu, se a pessoa quiser. Explicar que foi uma confusão causada pela doença costuma aliviar."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para prevenir novos episódios",
+     "sim": [
+      "Tratar cedo infecções, febre e desidratação.",
+      "Revisar os remédios com o médico, principalmente calmantes, remédios para dormir e para dor.",
+      "Avisar em futuras internações ou cirurgias que já houve delirium."
+     ],
+     "nao": [
+      "Começar remédio para dormir por conta própria.",
+      "Parar álcool ou calmantes de repente sem orientação, se a pessoa usa todos os dias."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Minhas anotações e perguntas para o retorno",
+     "linhas_vazias": 5
+    }
+   ],
+   "ajuda": [
+    "Nova confusão de início rápido.",
+    "Sonolência forte, febre ou queda."
+   ],
+   "fonte": "NICE CG103; SCCM PADIS 2018"
+  }
+ ],
+ "Catatonia": [
+  {
+   "id": "catatonia-o-que-e",
+   "titulo": "Catatonia: o que é e como se trata",
+   "subtitulo": "Um quadro que assusta, mas que costuma responder bem ao tratamento",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Catatonia é uma alteração na **forma de se mexer, falar e reagir**. A pessoa pode ficar parada por horas, sem falar, manter posições estranhas, recusar comida e bebida ou fazer o contrário do que pedem. Às vezes acontece o oposto: agitação sem motivo e movimentos repetidos.\n\nEla **não é falta de vontade nem teimosia**. A pessoa muitas vezes está consciente e com muito medo, mas não consegue responder."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Quando aparece",
+     "itens": [
+      "Em depressão grave e no transtorno bipolar (é a causa mais comum).",
+      "Em psicoses, como a esquizofrenia, e no autismo.",
+      "Em doenças do corpo: infecções e inflamações do cérebro, problemas de metabolismo, epilepsia, lúpus.",
+      "Após uso ou retirada de alguns remédios e drogas."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como se trata",
+     "itens": [
+      "A equipe examina o corpo e pede exames para procurar **causas médicas**.",
+      "Costuma fazer um **teste com lorazepam**, um calmante da família dos benzodiazepínicos. Muitas pessoas melhoram em uma ou duas horas.",
+      "Se houver resposta, o remédio continua em doses regulares por dias ou semanas, **sem parar de repente**.",
+      "Se não houver melhora em poucos dias, ou se o quadro for grave, a equipe pode indicar **eletroconvulsoterapia (ECT)**, feita com anestesia e muito eficaz na catatonia: mais de 80% das pessoas melhoram.",
+      "A doença de base (depressão, bipolar, psicose ou doença do corpo) também é tratada."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "É frescura ou a pessoa está fingindo.",
+       "fato": "É um problema real do funcionamento do cérebro, que tem tratamento."
+      },
+      {
+       "mito": "A ECT é um castigo perigoso, como nos filmes.",
+       "fato": "Hoje é feita com anestesia e relaxante muscular, com monitorização, e é um dos tratamentos mais eficazes para a catatonia."
+      },
+      {
+       "mito": "Catatonia não tem cura.",
+       "fato": "A maioria das pessoas melhora bastante com benzodiazepínicos ou ECT."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Informe a equipe",
+     "texto": "Conte se a pessoa começou ou aumentou algum **antipsicótico** recentemente. Em quem está em catatonia, esses remédios podem piorar o quadro e precisam ser usados com cuidado."
+    }
+   ],
+   "ajuda": [
+    "Febre, suor intenso, rigidez do corpo ou coração muito acelerado (catatonia maligna, uma emergência).",
+    "Ficar sem beber ou comer por um dia ou mais.",
+    "Sonolência forte ou dificuldade para respirar após o remédio."
+   ],
+   "fonte": "Consenso da British Association for Psychopharmacology sobre catatonia (2023); DSM-5-TR"
+  },
+  {
+   "id": "cuidados-catatonia",
+   "titulo": "Cuidados diários na catatonia",
+   "subtitulo": "Como a família pode proteger o corpo enquanto o tratamento faz efeito",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Quando a pessoa fica muito parada ou recusa comida e água, o corpo corre riscos: **desidratação, trombose (coágulo nas veias das pernas), feridas na pele e pneumonia**. Por isso, junto com o tratamento, alguns cuidados são essenciais. Siga sempre as orientações da equipe."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "No dia a dia",
+     "itens": [
+      "Anote quanto a pessoa **bebe e come** e quantas vezes urina.",
+      "Ofereça líquidos e alimentos com paciência, sem forçar. Se ela não engolir bem, avise a equipe.",
+      "Ajude a **mudar de posição** a cada duas horas, se estiver deitada.",
+      "Observe a pele de costas, quadril e calcanhares.",
+      "Fale com ela normalmente, explique o que vai fazer. Ela pode estar ouvindo tudo.",
+      "Tome o remédio nos horários certos e **não pare de repente**."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Registro diário",
+     "texto": "Leve para a equipe nas consultas ou mostre à enfermagem.",
+     "colunas": [
+      "Data",
+      "Líquidos (copos)",
+      "Refeições",
+      "Fala e movimento",
+      "Febre?"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Sinais de alerta",
+     "verde": [
+      "Mais falante, se mexendo mais, comendo e bebendo melhor."
+     ],
+     "amarelo": [
+      "Pouca melhora depois de alguns dias de remédio.",
+      "Come e bebe menos do que a metade do habitual. Fale com a equipe no mesmo dia."
+     ],
+     "vermelho": [
+      "Febre, suor, rigidez, coração acelerado, confusão.",
+      "Perna inchada e dolorida, falta de ar.",
+      "Sem beber nada por um dia. Procure emergência ou ligue **SAMU 192**."
+     ]
+    }
+   ],
+   "ajuda": [
+    "Febre com rigidez ou confusão.",
+    "Perna inchada e dolorida ou falta de ar súbita.",
+    "Recusa total de líquidos."
+   ],
+   "fonte": "Consenso da British Association for Psychopharmacology sobre catatonia (2023)"
+  }
+ ],
+ "Síndrome serotoninérgica": [
+  {
+   "id": "sinais-sindrome-serotoninergica",
+   "titulo": "Síndrome serotoninérgica: sinais de alerta",
+   "subtitulo": "Uma reação rara, mas séria, a remédios que aumentam a serotonina",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Serotonina é uma substância que leva mensagens entre as células do cérebro e do corpo. Muitos antidepressivos e outros remédios aumentam a serotonina, e isso ajuda no tratamento.\n\nQuando a serotonina sobe **demais**, geralmente porque dois ou mais remédios foram **combinados** ou a dose aumentou, pode surgir a **síndrome serotoninérgica**. Ela costuma começar **em poucas horas**, quase sempre no primeiro dia após a mudança."
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Reconheça os sinais",
+     "verde": [
+      "Enjoo leve, um pouco de dor de cabeça ou inquietação nos primeiros dias de um antidepressivo, que vão melhorando. Comente na próxima consulta."
+     ],
+     "amarelo": [
+      "**Tremores**, suor excessivo, pupilas grandes, diarreia, coração acelerado, sensação de agitação.",
+      "Começaram horas depois de iniciar, aumentar ou juntar um remédio.",
+      "Não tome a próxima dose do remédio novo e procure atendimento **no mesmo dia**."
+     ],
+     "vermelho": [
+      "**Tremores ou abalos musculares** que não param, principalmente nas pernas, ou olhos que se mexem sozinhos de um lado para o outro.",
+      "Febre, rigidez muscular, confusão, desmaio ou convulsão.",
+      "Vá à emergência ou ligue **SAMU 192** e leve todos os remédios."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Combinações que exigem cuidado",
+     "texto": "Estes remédios e substâncias só devem ser juntados com orientação de quem prescreve:",
+     "itens": [
+      "Antidepressivos entre si, principalmente os **IMAO** (como tranilcipromina) com qualquer outro.",
+      "Remédios para dor como **tramadol**, meperidina, metadona e fentanil.",
+      "Xaropes com **dextrometorfano**, remédios para enxaqueca (triptanos) e para enjoo (ondansetrona), em algumas situações.",
+      "Lítio, linezolida (antibiótico) e azul de metileno.",
+      "Erva-de-são-joão, triptofano e outros suplementos.",
+      "Drogas como ecstasy (MDMA), cocaína e anfetaminas."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Como se proteger",
+     "sim": [
+      "Mostre a **lista de todos os seus remédios** a cada médico, dentista e farmacêutico.",
+      "Pergunte antes de tomar qualquer remédio novo, mesmo sem receita.",
+      "Siga o intervalo indicado pela equipe ao trocar de antidepressivo."
+     ],
+     "nao": [
+      "Aumentar a dose por conta própria.",
+      "Juntar antidepressivos ou remédios para dor sem perguntar.",
+      "Usar drogas junto com antidepressivos."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "A boa notícia",
+     "texto": "Na maioria das vezes, **ao parar o remédio que causou a reação**, os sintomas melhoram em um a dois dias. Por isso é tão importante procurar ajuda cedo."
+    }
+   ],
+   "ajuda": [
+    "Febre com tremores, rigidez ou confusão.",
+    "Abalos musculares que não param.",
+    "Convulsão ou desmaio."
+   ],
+   "fonte": "Critérios de Hunter (Dunkley e colaboradores, 2003); Boyer e Shannon, NEJM 2005"
+  },
+  {
+   "id": "antes-de-remedio-novo",
+   "titulo": "Antes de tomar um remédio novo",
+   "subtitulo": "Checklist para quem usa antidepressivo ou outro remédio que mexe com a serotonina",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Muitas reações perigosas acontecem porque **um médico não sabia o que o outro receitou**. Guarde esta ficha junto com seus remédios e use-a sempre que alguém for prescrever algo novo, inclusive em pronto-socorro, cirurgia ou dentista."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Antes de começar",
+     "itens": [
+      "Avisei que uso antidepressivo e disse o nome.",
+      "Mostrei a lista completa, incluindo remédios sem receita, chás e suplementos.",
+      "Perguntei: \"Esse remédio aumenta a serotonina ou interage com os meus?\"",
+      "Perguntei ao farmacêutico na hora de comprar.",
+      "Sei o que fazer se aparecerem tremores, suor, diarreia ou febre nas primeiras horas."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meus remédios",
+     "texto": "Mantenha atualizada e leve em toda consulta.",
+     "colunas": [
+      "Nome",
+      "Para quê",
+      "Como tomo",
+      "Quem receitou"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Se usa IMAO",
+     "texto": "Os IMAO têm **mais interações** do que outros antidepressivos, com remédios e alimentos. Siga à risca a lista de cuidados que a equipe entregou e só troque de antidepressivo com o intervalo que ela indicar."
+    }
+   ],
+   "fonte": "Boyer e Shannon, NEJM 2005; bulas aprovadas pela ANVISA"
+  }
+ ],
+ "SNM": [
+  {
+   "id": "sinais-snm",
+   "titulo": "Síndrome neuroléptica maligna: sinais de alerta",
+   "subtitulo": "Uma reação rara aos antipsicóticos que precisa de atendimento urgente",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "A **síndrome neuroléptica maligna (SNM)** é uma reação rara a remédios que bloqueiam a dopamina, principalmente os **antipsicóticos** (como haloperidol, risperidona, olanzapina e outros) e alguns remédios para enjoo, como a metoclopramida.\n\nEla é mais comum **nas primeiras semanas** de tratamento, quando a dose sobe rápido, com injeções ou quando a pessoa está desidratada ou muito agitada. Também pode acontecer quando alguém com Parkinson para de repente seus remédios.\n\nÉ rara, mas é grave. Reconhecida cedo, **tem tratamento** e a maioria das pessoas se recupera."
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Reconheça os sinais",
+     "verde": [
+      "Um pouco de sono, tremor leve ou sensação de corpo mais duro, sem febre. Comente com a equipe na próxima consulta."
+     ],
+     "amarelo": [
+      "Músculos **cada vez mais rígidos**, dificuldade para engolir ou falar, muito suor.",
+      "Procure a equipe ou um serviço de saúde **no mesmo dia**."
+     ],
+     "vermelho": [
+      "**Febre** junto com **corpo muito duro**.",
+      "Confusão, sonolência forte, não responde direito.",
+      "Coração acelerado, pressão subindo e descendo, urina escura.",
+      "Vá à emergência ou ligue **SAMU 192**. Leve os remédios e diga que usa antipsicótico."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "O que acontece no hospital",
+     "itens": [
+      "O antipsicótico é **suspenso**.",
+      "A pessoa recebe soro, resfriamento e controle dos sinais vitais.",
+      "Exames de sangue medem a **CPK**, uma enzima que sobe quando os músculos sofrem, e avaliam os rins.",
+      "Podem ser usados remédios específicos e, em casos que não melhoram, ECT.",
+      "A melhora costuma levar de dias a cerca de duas semanas."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para reduzir o risco",
+     "sim": [
+      "Beber água, principalmente no calor e em dias de agitação.",
+      "Avisar sobre febre ou rigidez logo que aparecerem.",
+      "Contar a qualquer médico que usa antipsicótico."
+     ],
+     "nao": [
+      "Aumentar a dose por conta própria.",
+      "Tomar metoclopramida ou outros remédios para enjoo sem avisar que usa antipsicótico."
+     ]
+    }
+   ],
+   "ajuda": [
+    "Febre com rigidez muscular.",
+    "Confusão ou sonolência forte em quem usa antipsicótico.",
+    "Urina escura com dor e fraqueza muscular."
+   ],
+   "fonte": "DSM-5-TR; consenso internacional de Gurrera e colaboradores (2011)"
+  },
+  {
+   "id": "depois-da-snm",
+   "titulo": "Depois da SNM: voltar ao tratamento com segurança",
+   "subtitulo": "O que muda nos cuidados de quem já teve a reação",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Ter tido SNM **não significa que nunca mais poderá usar antipsicótico**. Muitas pessoas precisam desse tipo de remédio para não voltar a adoecer. A maioria consegue voltar a usá-lo com segurança, desde que alguns cuidados sejam seguidos. Há, porém, risco de a reação voltar, e por isso a decisão é tomada junto com a equipe."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Como a equipe costuma fazer",
+     "itens": [
+      "Espera **pelo menos duas semanas** após a recuperação.",
+      "Escolhe um remédio com menor risco e começa com **dose baixa**, subindo devagar.",
+      "Evita injeções de longa duração no início.",
+      "Acompanha de perto temperatura, rigidez e, às vezes, exames de sangue.",
+      "Cuida da hidratação e trata a agitação cedo."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "O que você e sua família podem fazer",
+     "itens": [
+      "Anotar o nome do remédio que causou a SNM e a data.",
+      "**Avisar em qualquer atendimento** que já teve SNM, inclusive em cirurgias e pronto-socorro.",
+      "Medir a temperatura se sentir o corpo duro ou quente nas primeiras semanas de remédio novo.",
+      "Beber água ao longo do dia."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meu registro",
+     "texto": "Remédio que causou a reação, data e hospital onde fui tratado:",
+     "linhas_vazias": 4
+    }
+   ],
+   "ajuda": [
+    "Febre com rigidez muscular.",
+    "Confusão nova nas semanas após recomeçar o remédio."
+   ],
+   "fonte": "Consenso de Gurrera e colaboradores (2011); Maudsley Prescribing Guidelines"
+  }
+ ],
+ "Intoxicação": [
+  {
+   "id": "prevencao-sobredose",
+   "titulo": "Prevenção de sobredose",
+   "subtitulo": "Como reduzir o risco quando há uso de álcool, remédios ou drogas",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Quando o risco é maior",
+     "texto": "**Sobredose** (ou overdose) é quando a quantidade de uma substância é demais para o corpo. As mais perigosas são as que **deixam a respiração lenta**: álcool, calmantes (como clonazepam e diazepam), remédios para dormir e opioides (como morfina, codeína, tramadol, metadona e fentanil).\n\nO risco sobe muito quando **essas substâncias são misturadas** e quando a pessoa volta a usar depois de um tempo sem uso, por exemplo, após internação ou prisão, porque o corpo perdeu a tolerância."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para reduzir o risco",
+     "sim": [
+      "Tome os remédios **só como foram receitados**.",
+      "Se usar, **não use sozinho** e evite misturar substâncias.",
+      "Após um período sem usar, lembre que uma quantidade menor já pode ser perigosa.",
+      "Converse com a equipe do **CAPS AD** ou da UBS sobre tratamento e sobre redução de danos.",
+      "Combine com alguém de confiança o que fazer em uma emergência."
+     ],
+     "nao": [
+      "Misturar álcool com calmantes, remédios para dormir ou opioides.",
+      "Tomar remédios de outras pessoas.",
+      "Deixar alguém muito sonolento \"dormir para passar\" sem vigiar a respiração."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Se alguém não acorda ou respira mal",
+     "itens": [
+      "Chame a pessoa alto e aperte o ombro. Se não responder, **ligue para o SAMU 192**.",
+      "Veja se respira. Se não respira, siga as instruções do atendente do SAMU, que pode orientar massagem no peito.",
+      "Se respira, deite-a **de lado** (posição lateral de segurança) para não engasgar com vômito.",
+      "Se houver **naloxona** e a suspeita for de opioide, use conforme foi ensinado. Ela reverte o efeito do opioide, mas **dura menos do que ele**: a pessoa precisa ser levada ao hospital mesmo que acorde.",
+      "Não provoque vômito, não dê café, leite ou banho frio.",
+      "Fique junto até o socorro chegar e guarde as embalagens e cartelas para mostrar à equipe."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Sobre a naloxona",
+     "texto": "A naloxona é um antídoto para opioides usado em serviços de saúde. Se você ou alguém da sua casa usa opioides, pergunte à equipe se é possível ter acesso a ela e como usar. **Ela não age** contra álcool, calmantes ou cocaína."
+    }
+   ],
+   "ajuda": [
+    "Pessoa que não acorda, respira devagar, ronca de forma estranha ou está com lábios roxos.",
+    "Convulsão, dor no peito, febre alta ou agitação intensa após uso de droga.",
+    "Qualquer ingestão de muitos comprimidos, de propósito ou por engano."
+   ],
+   "fonte": "OMS, Community management of opioid overdose (2014); DSM-5-TR"
+  },
+  {
+   "id": "guarda-segura-medicamentos",
+   "titulo": "Guarda segura de medicamentos em casa",
+   "subtitulo": "Proteger crianças, idosos e pessoas em sofrimento",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Remédios estão entre as causas mais frequentes de intoxicação em crianças e em tentativas de suicídio. Ter **menos remédios à mão** e **guardá-los bem** salva vidas. Em momentos de crise, dificultar o acesso dá tempo para a vontade passar e para a ajuda chegar."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Em casa",
+     "itens": [
+      "Guarde os remédios em **caixa com chave ou cadeado**, fora do alcance e da vista das crianças.",
+      "Quando alguém está em crise, **uma pessoa de confiança** guarda os remédios e entrega a dose do dia.",
+      "Peça à equipe receitas com **quantidades menores**, para poucos dias ou semanas.",
+      "Não acumule sobras. Leve remédios vencidos ou que não usa mais a uma farmácia ou UBS que receba descarte.",
+      "Mantenha cada remédio na embalagem original, com a bula.",
+      "Use organizador semanal de comprimidos para evitar tomar em dobro.",
+      "Guarde também produtos de limpeza, venenos e álcool em local fechado.",
+      "Se houver armas em casa, converse com a equipe; o mais seguro é que fiquem fora da casa."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Na hora de tomar",
+     "sim": [
+      "Acenda a luz e leia o nome antes de tomar.",
+      "Anote que tomou, principalmente pessoas idosas.",
+      "Pergunte ao farmacêutico se tiver dúvida."
+     ],
+     "nao": [
+      "Chamar remédio de \"docinho\" para crianças.",
+      "Tomar remédio de outra pessoa.",
+      "Deixar cartelas na bolsa, na mesa de cabeceira ou na cozinha."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Quem guarda os remédios e como vamos organizar",
+     "linhas_vazias": 4
+    }
+   ],
+   "ajuda": [
+    "Suspeita de que alguém tomou remédios a mais, mesmo sem sintomas: ligue **SAMU 192**.",
+    "Fala sobre morrer ou plano de suicídio: procure ajuda no mesmo dia; o **CVV 188** atende 24 horas."
+   ],
+   "fonte": "OMS, Prevenção do suicídio: LIVE LIFE (2021), restrição de acesso a meios"
+  },
+  {
+   "id": "suspeita-de-intoxicacao",
+   "titulo": "O que fazer diante de suspeita de intoxicação",
+   "subtitulo": "Passos simples enquanto a ajuda chega",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "passos",
+     "titulo": "Passo a passo",
+     "itens": [
+      "Mantenha a calma e afaste a pessoa da substância.",
+      "**Ligue para o SAMU 192**. Diga a idade, o peso aproximado, o que foi tomado, quanto e há quanto tempo.",
+      "Se a pessoa estiver sonolenta mas respirando, deite-a **de lado**.",
+      "**Não provoque vômito** e não ofereça leite, óleo, sal ou outras receitas caseiras.",
+      "Separe **embalagens, cartelas e frascos** para levar ao hospital.",
+      "Não deixe a pessoa sozinha, mesmo que pareça bem. Alguns remédios, como o paracetamol, só mostram o dano horas ou dias depois.",
+      "O Centro de Informação e Assistência Toxicológica (CIATox) do seu estado também orienta profissionais e o público."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Informações para o socorro",
+     "texto": "Preencha se der tempo e leve ao hospital.",
+     "colunas": [
+      "O que foi tomado",
+      "Quantidade",
+      "Horário",
+      "Sintomas"
+     ],
+     "linhas": [],
+     "linhas_vazias": 4
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Depois do atendimento",
+     "texto": "Se a intoxicação foi **de propósito**, a pessoa precisa de avaliação da saúde mental **antes** de voltar para casa. Não trate como bobagem ou chantagem: é sinal de sofrimento. Revise a guarda de remédios da casa."
+    }
+   ],
+   "ajuda": [
+    "Sonolência, respiração lenta, convulsão, vômitos, confusão ou agitação intensa.",
+    "Qualquer ingestão intencional de remédios ou venenos."
+   ],
+   "fonte": "Diretrizes de primeiros socorros e atendimento pré-hospitalar; DSM-5-TR"
+  }
+ ],
+ "TPB (borderline)": [
+  {
+   "id": "tpb-o-que-e",
+   "titulo": "Transtorno de personalidade borderline: o que é",
+   "subtitulo": "Emoções muito intensas, relações difíceis e um caminho real de melhora",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Entendendo o diagnóstico",
+     "texto": "O **transtorno de personalidade borderline (TPB)** é uma condição em que as emoções são **muito intensas, mudam rápido** e demoram a baixar. A pessoa pode sentir raiva, vazio ou medo de ser abandonada com uma força difícil de controlar.\n\nTer TPB **não é ser manipulador, fraco ou mau caráter**. Muitas pessoas com TPB viveram situações difíceis e têm uma sensibilidade emocional maior. O resultado é sofrimento real, que merece cuidado e respeito."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Sinais comuns",
+     "itens": [
+      "Humor que muda muitas vezes no mesmo dia, em reação ao que acontece.",
+      "Relações intensas, que oscilam entre admirar e desvalorizar.",
+      "Medo forte de ser abandonado.",
+      "Sensação de vazio e dúvidas sobre quem se é.",
+      "Impulsividade: gastos, comida, álcool, drogas, sexo sem proteção, direção perigosa.",
+      "Autolesão ou pensamentos de suicídio nos momentos de crise.",
+      "Sob muito estresse, desconfiança ou sensação de estar desligado de si."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "O tratamento principal é a **psicoterapia estruturada**, como a terapia comportamental dialética (DBT), a terapia baseada em mentalização e outras. Elas ensinam a lidar com emoções, relações e crises.\n\n**Nenhum remédio trata o TPB em si.** Às vezes o médico indica um remédio para um sintoma específico ou para outra condição junto, como depressão, por tempo limitado e revendo sempre se está ajudando. Calmantes da família do clonazepam costumam ser evitados, porque podem aumentar a impulsividade e causar dependência."
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Borderline não tem tratamento.",
+       "fato": "Tem. Cerca de metade das pessoas deixa de preencher o diagnóstico em 10 anos, e a impulsividade costuma melhorar primeiro."
+      },
+      {
+       "mito": "A pessoa faz isso para chamar atenção.",
+       "fato": "Os comportamentos são formas de lidar com uma dor muito grande. Todo sinal de risco deve ser levado a sério."
+      },
+      {
+       "mito": "Basta achar o remédio certo.",
+       "fato": "A psicoterapia é a base. Remédios ajudam pouco e só em situações específicas."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Esperança com os pés no chão",
+     "texto": "A melhora costuma ser **gradual**, com altos e baixos. Cada habilidade nova conta."
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de suicídio com plano ou intenção.",
+    "Autolesão grave ou que precisa de pontos.",
+    "Ingestão de muitos comprimidos."
+   ],
+   "fonte": "APA Practice Guideline for Borderline Personality Disorder (2024); NICE CG78; estudo McLean (Zanarini)"
+  },
+  {
+   "id": "habilidades-dbt",
+   "titulo": "Habilidades para emoções intensas",
+   "subtitulo": "Técnicas inspiradas na DBT para atravessar o mal-estar e regular as emoções",
+   "publico": "Paciente",
+   "figura": "onda-fissura",
+   "figura_legenda": "Como uma onda, a emoção intensa sobe, atinge o pico e desce. As habilidades ajudam a atravessar a onda sem agir por impulso.",
+   "figura_posicao": "fim",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Estas habilidades vêm da **terapia comportamental dialética (DBT)**. Funcionam melhor quando **treinadas em dias calmos**, para estarem prontas quando a crise vier. Converse com seu terapeuta sobre quais servem mais para você."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "PARE: antes de agir no impulso",
+     "itens": [
+      "**P**are: congele, não faça nada ainda.",
+      "**A**faste-se um passo: respire fundo, saia do lugar se puder.",
+      "**R**epare: observe o que sente, pensa e o que está acontecendo.",
+      "**E**scolha com calma: o que me ajuda de verdade, pensando no amanhã?"
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Tolerância ao mal-estar: baixar a emoção rápido",
+     "itens": [
+      "**Frio no rosto**: água gelada ou gelo na testa e bochechas por 30 segundos, prendendo a respiração. Acalma o coração. (Evite se tiver problema cardíaco e pergunte ao médico.)",
+      "**Exercício intenso** por alguns minutos: correr, polichinelos, subir escada.",
+      "**Respiração lenta**: solte o ar mais devagar do que puxa.",
+      "**Relaxar os músculos**: contraia e solte cada parte do corpo.",
+      "**Distrair**: tarefa, música, contar objetos azuis, falar com alguém.",
+      "**Acalmar pelos sentidos**: cheiro bom, banho morno, textura macia, música tranquila."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Regulação emocional: ficar menos vulnerável",
+     "itens": [
+      "Cuide do corpo: dormir, comer em horários, tratar doenças, evitar álcool e drogas, se mexer.",
+      "Dê nome à emoção: \"Isto é raiva\", \"Isto é medo de ser deixado\".",
+      "**Ação oposta**: quando a emoção não combina com os fatos, faça o contrário do impulso (com vergonha, apareça; com raiva, afaste-se com gentileza).",
+      "Faça todos os dias algo pequeno que traga prazer ou sensação de capacidade."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Treino da semana",
+     "texto": "Anote a situação, a emoção (de 0 a 10) e a habilidade usada.",
+     "colunas": [
+      "Dia",
+      "Situação",
+      "Emoção (0 a 10)",
+      "Habilidade",
+      "Depois (0 a 10)"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    }
+   ],
+   "ajuda": [
+    "As habilidades não bastam e há risco de se machucar: use seu plano de crise e busque ajuda.",
+    "Pensamentos de suicídio: **CVV 188**, 24 horas."
+   ],
+   "fonte": "Linehan, DBT Skills Training Manual (2015); APA 2024"
+  },
+  {
+   "id": "plano-crise-tpb",
+   "titulo": "Meu plano para crises",
+   "subtitulo": "Um roteiro preenchido com calma para usar nos momentos mais difíceis",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Em crise, fica difícil pensar com clareza. Por isso, preencha este plano **num dia tranquilo**, de preferência com seu terapeuta ou médico. Deixe uma cópia no celular e outra com alguém de confiança."
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Meus sinais",
+     "verde": [
+      "Estou estável. Mantenho sono, rotina, terapia e treino das habilidades."
+     ],
+     "amarelo": [
+      "Emoção acima de 6 de 10, briga, sensação de abandono, vazio forte, vontade de beber ou de me machucar.",
+      "Uso as habilidades e falo com uma pessoa da minha lista."
+     ],
+     "vermelho": [
+      "Vontade forte de me matar ou de me machucar, ou já tenho um plano.",
+      "Afasto os meios, fico perto de alguém e ligo **CVV 188**, **SAMU 192** ou vou à emergência."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "1. Meus gatilhos",
+     "linhas_vazias": 3
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "2. O que posso fazer sozinho para me acalmar",
+     "linhas_vazias": 3
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "3. Pessoas e lugares que me ajudam a distrair",
+     "linhas_vazias": 3
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "4. Pessoas a quem posso pedir ajuda (nome e telefone)",
+     "linhas_vazias": 3
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "5. Profissionais e serviços (terapeuta, CAPS, emergência mais próxima)",
+     "linhas_vazias": 3
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "6. Deixar o ambiente mais seguro",
+     "itens": [
+      "Pedi a alguém que guarde meus remédios e me entregue só a dose do dia.",
+      "Tirei de perto objetos com que já me machuquei.",
+      "Evito álcool e drogas nos dias difíceis."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "7. Minhas razões para viver",
+     "linhas_vazias": 3
+    }
+   ],
+   "ajuda": [
+    "Plano ou intenção de suicídio.",
+    "Autolesão grave ou ingestão de remédios em excesso."
+   ],
+   "fonte": "Stanley e Brown, Safety Planning Intervention (2012); APA 2024"
+  },
+  {
+   "id": "familia-tpb",
+   "titulo": "Para a família: como apoiar sem se perder",
+   "subtitulo": "Validar, colocar limites e cuidar de si",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Conviver com alguém com TPB pode ser intenso: momentos de muito afeto e momentos de conflito. **Você não causou o transtorno** e não consegue curá-lo sozinho, mas o jeito como a família reage pode ajudar muito."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Validar: mostrar que entende o sentimento",
+     "texto": "Validar não é concordar com tudo. É reconhecer que a emoção faz sentido para a pessoa.",
+     "itens": [
+      "\"Estou vendo que você está muito magoado.\"",
+      "\"Faz sentido você ficar com medo quando eu demoro a responder.\"",
+      "Escute primeiro, dê conselhos depois, se ela quiser."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "No dia a dia",
+     "sim": [
+      "Mantenha **combinados claros e previsíveis**, ditos com calma.",
+      "Coloque limites sobre o que você aceita: \"Eu quero conversar, mas não com gritos. Volto em 20 minutos.\"",
+      "Elogie os esforços e o uso das habilidades.",
+      "Leve a sério toda fala sobre suicídio ou autolesão e ajude a procurar ajuda.",
+      "Conheça o plano de crise da pessoa."
+     ],
+     "nao": [
+      "Chamar de manipulador, exagerado ou \"louco\".",
+      "Discutir no auge da crise tentando provar quem tem razão.",
+      "Ceder a tudo por medo, ou ameaçar abandonar.",
+      "Assumir sozinho toda a responsabilidade pela segurança dela."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Cuide de você",
+     "texto": "Você também precisa de descanso, amigos e, se possível, apoio psicológico. Alguns serviços oferecem grupos para familiares; pergunte à equipe ou ao CAPS.\n\nA melhora costuma vir **aos poucos**. Recaídas não significam fracasso."
+    }
+   ],
+   "ajuda": [
+    "Fala sobre suicídio com plano, despedidas, doação de objetos.",
+    "Autolesão grave ou ingestão de remédios em excesso: **SAMU 192**."
+   ],
+   "fonte": "APA 2024; NICE CG78; Gunderson, Family Connections e manejo psiquiátrico geral"
+  }
+ ],
+ "Impulsividade e agressividade": [
+  {
+   "id": "entender-raiva-impulsividade",
+   "titulo": "Raiva e impulsividade: entender para controlar",
+   "subtitulo": "De onde vêm as explosões e o que ajuda",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Raiva não é o problema",
+     "texto": "A raiva é uma emoção normal. O problema aparece quando ela vira **explosões** que machucam: gritos, objetos quebrados, agressões, arrependimento depois.\n\nAgressividade **não é um diagnóstico**. Ela pode aparecer em várias situações: TDAH, transtorno bipolar, depressão, psicose, autismo, deficiência intelectual, lesões no cérebro, demência, uso de álcool e drogas, ou dificuldades de lidar com emoções. Descobrir a causa ajuda a escolher o tratamento."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que costuma piorar",
+     "itens": [
+      "**Álcool e drogas**, o maior acelerador de brigas.",
+      "Pouco sono, fome, dor e cansaço.",
+      "Estresse acumulado, sensação de injustiça ou de não ser ouvido.",
+      "Em crianças e pessoas com dificuldade de comunicação: não conseguir dizer o que querem ou o que dói."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "A base é **tratar a condição de fundo** e aprender a lidar com a raiva, com terapia individual ou em grupo e, para crianças, orientação aos pais.\n\nEm algumas situações o médico indica remédios, sempre de acordo com a causa. Eles ajudam mais nas explosões impulsivas do que em comportamentos planejados, e devem ser revistos com frequência para não serem usados por mais tempo do que o necessário."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Diário das explosões",
+     "texto": "Registrar ajuda a descobrir padrões. Leve à consulta.",
+     "colunas": [
+      "Data e hora",
+      "O que aconteceu antes",
+      "Raiva (0 a 10)",
+      "O que eu fiz",
+      "O que aconteceu depois"
+     ],
+     "linhas": [],
+     "linhas_vazias": 6
+    }
+   ],
+   "ajuda": [
+    "Vontade de machucar alguém ou acesso a armas durante crises.",
+    "Explosões com confusão, febre ou após pancada na cabeça."
+   ],
+   "fonte": "NICE NG11 e CG158; APA 2024"
+  },
+  {
+   "id": "plano-de-pausa",
+   "titulo": "Plano de pausa e manejo da raiva",
+   "subtitulo": "Sair da situação antes de perder o controle, e voltar para resolver",
+   "publico": "Paciente",
+   "figura": "semaforo",
+   "figura_legenda": "Verde: calmo. Amarelo: a raiva está subindo, hora da pausa. Vermelho: pare tudo e saia.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "A raiva sobe como uma escada. No começo ainda dá para pensar. Perto do topo, o corpo age antes da cabeça. **O segredo é sair antes do topo.** A pausa não é fugir da conversa: é uma forma de voltar a ela sem machucar ninguém."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meus sinais de raiva subindo",
+     "texto": "No corpo (calor, mandíbula tensa, punho fechado), nos pensamentos (\"Ele está me desrespeitando\") e no que faço (levanto a voz, ando de um lado para o outro).",
+     "linhas_vazias": 3
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como fazer a pausa",
+     "itens": [
+      "**Combine antes**, num momento calmo, com as pessoas da casa: \"Quando eu disser 'preciso de uma pausa', vou sair um pouco e depois volto.\"",
+      "Ao perceber os sinais, diga a frase combinada com voz calma.",
+      "Saia do lugar por **20 a 60 minutos**. Não dirija com raiva.",
+      "Use o tempo para baixar a raiva: caminhar, respirar devagar, tomar água, ouvir música.",
+      "Evite remoer frases do tipo \"Ele vai ver só\". Troque por \"Vou voltar e resolver com calma\".",
+      "**Não use álcool ou drogas** durante a pausa.",
+      "Volte no horário combinado. Se ainda estiver com muita raiva, avise e combine outro horário.",
+      "Retome a conversa falando de você: \"Eu fiquei com raiva quando...\" em vez de \"Você sempre...\"."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para diminuir as explosões",
+     "sim": [
+      "Dormir bem e manter rotina.",
+      "Fazer exercício físico com frequência.",
+      "Treinar respiração lenta em dias calmos.",
+      "Tomar os remédios como combinado com a equipe."
+     ],
+     "nao": [
+      "Beber ou usar drogas, principalmente em dias tensos.",
+      "Guardar armas em casa.",
+      "Resolver conflitos por mensagem de celular no calor da raiva."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meu combinado de pausa",
+     "texto": "Frase que vou usar, para onde vou, quanto tempo, com quem posso falar.",
+     "linhas_vazias": 4
+    }
+   ],
+   "ajuda": [
+    "Vontade de machucar alguém que não passa com a pausa.",
+    "Pensamentos de suicídio depois de uma explosão: **CVV 188**."
+   ],
+   "fonte": "Terapia cognitivo-comportamental para raiva (Deffenbacher; SAMHSA Anger Management Manual); NICE CG158"
+  }
+ ]
+}

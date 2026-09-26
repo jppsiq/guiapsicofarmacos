@@ -1,0 +1,197 @@
+{
+"fluoxetina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "20 a 60 mg/dia", "t": "Eficácia equivalente aos demais ISRS. Preferida quando a adesão é irregular (meia-vida longa) e quando fadiga, hipersonia e ganho de peso predominam."},
+ {"g": "Depressão", "c": "Depressão em crianças e adolescentes", "s": "o", "e": "A", "p": "1", "d": "10 a 20 mg/dia", "t": "Antidepressivo com melhor relação benefício e risco nessa faixa (TADS e metanálises de Cipriani 2016). Monitorar ativação e ideação suicida nas primeiras semanas. Aprovada pela FDA a partir de 8 anos."},
+ {"g": "TOC", "c": "Transtorno obsessivo-compulsivo", "s": "a", "e": "A", "p": "1", "d": "40 a 80 mg/dia", "t": "No TOC são necessárias doses mais altas e 8 a 12 semanas para avaliar resposta. Também aprovada para TOC pediátrico nos EUA."},
+ {"g": "Bulimia nervosa", "c": "Bulimia nervosa", "s": "a", "e": "A", "p": "1", "d": "60 mg/dia", "t": "Único fármaco aprovado para bulimia. Reduz episódios de compulsão e purgação mesmo sem depressão; a dose de 60 mg é superior a 20 mg. Associar a TCC."},
+ {"g": "TDPM", "c": "Transtorno disfórico pré-menstrual", "s": "a", "e": "A", "p": "1", "d": "20 mg/dia contínuo ou só na fase lútea", "t": "ISRS agem em dias no TDPM, o que permite o uso intermitente na fase lútea. Uso contínuo é preferível se houver sintomas depressivos fora do ciclo."},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "o", "e": "A", "p": "1", "d": "10 a 40 mg/dia", "t": "Aprovada nos EUA. Começar com 5 a 10 mg pela ativação inicial; benzodiazepínico por 2 a 4 semanas pode servir de ponte."},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar I, associada à olanzapina", "s": "o", "e": "A", "p": "2", "d": "25 a 50 mg com olanzapina 6 a 12 mg", "t": "A combinação olanzapina e fluoxetina é aprovada nos EUA para depressão bipolar e depressão resistente. Nunca usar fluoxetina isolada no bipolar tipo I pelo risco de virada."},
+ {"g": "Depressão resistente", "c": "Depressão resistente, com olanzapina", "s": "o", "e": "B", "p": "P", "d": "20 a 50 mg com olanzapina 5 a 20 mg", "t": "Associação aprovada pela FDA; eficaz, mas o custo metabólico da olanzapina limita o uso prolongado."},
+ {"g": "Espectro obsessivo", "c": "Transtorno dismórfico corporal", "s": "o", "e": "B", "p": "1", "d": "40 a 80 mg/dia", "t": "ISRS em dose alta são o tratamento farmacológico de escolha no transtorno dismórfico corporal, mesmo com insight pobre ou delirante."},
+ {"g": "TEPT", "c": "Transtorno de estresse pós-traumático", "s": "o", "e": "B", "p": "1", "d": "20 a 60 mg/dia", "t": "Primeira linha no CANMAT 2014, ao lado de sertralina, paroxetina e venlafaxina. O VA/DoD 2023 recomenda apenas paroxetina, sertralina e venlafaxina, pela força da evidência."},
+ {"g": "Ejaculação precoce", "c": "Ejaculação precoce", "s": "o", "e": "B", "p": "A", "d": "20 mg/dia", "t": "Retarda a ejaculação, com efeito menor que paroxetina e clomipramina."},
+ {"g": "Narcolepsia e sonolência", "c": "Cataplexia", "s": "o", "e": "C", "p": "A", "d": "20 a 60 mg/dia", "t": "ISRS e IRSN suprimem o sono REM e reduzem cataplexia na narcolepsia tipo 1; alternativa quando oxibato de sódio não é acessível."}
+],
+"sertralina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "50 a 200 mg/dia", "t": "Primeira escolha em muitos protocolos pela eficácia, tolerabilidade, poucas interações e segurança cardíaca (SADHART após infarto)."},
+ {"g": "Depressão pós-parto", "c": "Depressão na gestação e no puerpério", "s": "o", "e": "B", "p": "1", "d": "50 a 200 mg/dia", "t": "ISRS com mais dados de segurança na lactação (níveis quase indetectáveis no lactente) e boa experiência na gestação."},
+ {"g": "TOC", "c": "Transtorno obsessivo-compulsivo, inclusive pediátrico", "s": "a", "e": "A", "p": "1", "d": "100 a 200 mg/dia (até 300 mg fora de bula)", "t": "Aprovada a partir de 6 anos (estudo POTS, com TCC). Doses acima de 200 mg podem ser necessárias em não respondedores tolerantes."},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "a", "e": "A", "p": "1", "d": "50 a 200 mg/dia", "t": "Iniciar com 25 mg por 1 semana para reduzir a piora inicial da ansiedade."},
+ {"g": "TEPT", "c": "Transtorno de estresse pós-traumático", "s": "a", "e": "A", "p": "1", "d": "50 a 200 mg/dia", "t": "Um dos dois ISRS aprovados para TEPT; efeito moderado sobre revivescência e hiperexcitação. A psicoterapia focada no trauma continua sendo o tratamento de base."},
+ {"g": "Fobia social", "c": "Transtorno de ansiedade social", "s": "a", "e": "A", "p": "1", "d": "50 a 200 mg/dia", "t": "Resposta costuma levar 8 a 12 semanas."},
+ {"g": "TDPM", "c": "Transtorno disfórico pré-menstrual", "s": "a", "e": "A", "p": "1", "d": "50 a 150 mg/dia (contínuo ou fase lútea)", "t": "Eficaz também em uso intermitente na fase lútea."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "o", "e": "A", "p": "1", "d": "50 a 200 mg/dia", "t": "Eficácia comparável à do escitalopram em ensaios; aprovada no TAG em alguns países."},
+ {"g": "Espectro obsessivo", "c": "Transtorno dismórfico corporal e tricotilomania", "s": "o", "e": "C", "p": "2", "d": "100 a 200 mg/dia", "t": "No dismórfico corporal é opção de primeira linha; na tricotilomania o efeito dos ISRS é pequeno e a N-acetilcisteína e a terapia de reversão de hábito são preferíveis."},
+ {"g": "Ejaculação precoce", "c": "Ejaculação precoce", "s": "o", "e": "B", "p": "A", "d": "50 mg/dia ou 50 mg 4 a 8 horas antes", "t": "Retarda a ejaculação de forma dose-dependente."},
+ {"g": "Agitação na demência", "c": "Agitação e depressão na demência", "s": "o", "e": "C", "p": "A", "d": "25 a 100 mg/dia", "t": "Alternativa ao citalopram quando o QT preocupa; benefício modesto (estudos DIADS e HTA-SADD com resultados mistos na depressão da demência)."}
+],
+"paroxetina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "20 a 50 mg/dia", "t": "Eficaz, mas com mais ganho de peso, sedação, efeito anticolinérgico, disfunção sexual e descontinuação que os demais ISRS."},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "a", "e": "A", "p": "1", "d": "10 a 60 mg/dia", "t": "Muito estudada no pânico; o perfil sedativo pode ajudar no início."},
+ {"g": "Fobia social", "c": "Transtorno de ansiedade social", "s": "a", "e": "A", "p": "1", "d": "20 a 50 mg/dia", "t": "Primeiro ISRS aprovado para ansiedade social."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "a", "e": "A", "p": "1", "d": "20 a 50 mg/dia", "t": "Aprovada no TAG; escolher outras opções quando ganho de peso ou efeitos sexuais preocupam."},
+ {"g": "TEPT", "c": "Transtorno de estresse pós-traumático", "s": "a", "e": "A", "p": "1", "d": "20 a 50 mg/dia", "t": "Um dos dois ISRS aprovados pela FDA para TEPT."},
+ {"g": "TOC", "c": "Transtorno obsessivo-compulsivo", "s": "a", "e": "A", "p": "1", "d": "40 a 60 mg/dia", "t": "Doses mais altas são necessárias no TOC."},
+ {"g": "Sintomas vasomotores", "c": "Fogachos da menopausa", "s": "o", "e": "A", "p": "A", "d": "7,5 a 20 mg/dia", "t": "A dose de 7,5 mg é aprovada nos EUA. Evitar em mulheres com tamoxifeno (inibição forte do CYP2D6)."},
+ {"g": "Ejaculação precoce", "c": "Ejaculação precoce", "s": "o", "e": "A", "p": "1", "d": "20 mg/dia", "t": "Entre os ISRS, o que mais retarda a ejaculação em metanálises."},
+ {"g": "Depressão pós-parto", "c": "Depressão no puerpério em lactantes", "s": "o", "e": "B", "p": "A", "t": "Baixa passagem ao leite; evitar se houver planejamento de nova gestação."}
+],
+"citalopram": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "20 a 40 mg/dia (20 mg acima de 60 anos)", "t": "Poucas interações; limitado pelo prolongamento do QT dependente da dose."},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "a", "e": "A", "p": "1", "d": "10 a 40 mg/dia", "t": "Iniciar com 10 mg."},
+ {"g": "TOC", "c": "Transtorno obsessivo-compulsivo", "s": "a", "e": "B", "p": "2", "d": "40 mg/dia", "t": "Aprovado no Brasil; o limite de 40 mg por QT restringe a estratégia de dose alta usada no TOC."},
+ {"g": "Agitação na demência", "c": "Agitação na doença de Alzheimer", "s": "o", "e": "B", "p": "1", "d": "10 a 30 mg/dia", "t": "O estudo CitAD mostrou redução de agitação com 30 mg, porém com piora cognitiva leve e prolongamento do QT; usar 10 a 20 mg com ECG. Hoje é uma das primeiras opções não antipsicóticas."},
+ {"g": "TAG", "c": "Ansiedade generalizada e ansiedade no idoso", "s": "o", "e": "B", "p": "2", "d": "10 a 20 mg/dia", "t": "Eficaz em idosos com transtornos de ansiedade (Lenze 2005)."}
+],
+"escitalopram": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "10 a 20 mg/dia", "t": "Entre os antidepressivos com melhor equilíbrio de eficácia e aceitabilidade (Cipriani 2018). Aprovado para adolescentes nos EUA."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "a", "e": "A", "p": "1", "d": "10 a 20 mg/dia", "t": "Primeira escolha frequente; 5 mg na primeira semana reduz a piora inicial."},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "a", "e": "A", "p": "1", "d": "5 a 20 mg/dia", "t": "Gotas permitem começar com 2 a 5 mg em pacientes muito sensíveis."},
+ {"g": "Fobia social", "c": "Transtorno de ansiedade social", "s": "a", "e": "A", "p": "1", "d": "10 a 20 mg/dia"},
+ {"g": "TOC", "c": "Transtorno obsessivo-compulsivo", "s": "a", "e": "A", "p": "1", "d": "20 mg/dia (até 30 a 40 mg fora de bula, com ECG)", "t": "Doses acima de 20 mg aumentam o QT; em não respondedores, alguns especialistas usam 30 a 40 mg com monitorização."},
+ {"g": "Agitação na demência", "c": "Agitação na demência", "s": "o", "e": "C", "p": "A", "d": "5 a 10 mg/dia", "t": "Extrapolado do citalopram (estudo S-CitAD em andamento); preferido por muitos pelo menor QT por dose eficaz."},
+ {"g": "Sintomas vasomotores", "c": "Fogachos da menopausa", "s": "o", "e": "B", "p": "A", "d": "10 a 20 mg/dia", "t": "Reduz a frequência de fogachos com pouca interação com tamoxifeno."}
+],
+"fluvoxamina": [
+ {"g": "TOC", "c": "Transtorno obsessivo-compulsivo (adultos e crianças acima de 8 anos)", "s": "a", "e": "A", "p": "1", "d": "100 a 300 mg/dia", "t": "Eficácia semelhante aos demais ISRS no TOC; as interações (CYP1A2 e 2C19) limitam o uso em polifarmácia."},
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "100 a 300 mg/dia", "t": "Eficaz; mais sedativa e nauseante, útil com insônia."},
+ {"g": "Fobia social", "c": "Transtorno de ansiedade social", "s": "o", "e": "A", "p": "2", "d": "100 a 300 mg/dia", "t": "Aprovada nos EUA (forma de liberação prolongada)."},
+ {"g": "Depressão psicótica", "c": "Depressão psicótica (em alguns centros)", "s": "o", "e": "C", "p": "A", "t": "Estudos italianos pequenos sugerem boa resposta na depressão delirante, possivelmente pelo agonismo sigma-1; o padrão continua sendo antidepressivo com antipsicótico ou ECT."},
+ {"g": "Esquizofrenia resistente", "c": "Potencialização farmacocinética da clozapina", "s": "o", "e": "C", "p": "U", "d": "25 a 50 mg/dia", "t": "Eleva a clozapina e reduz a norclozapina, permitindo doses menores e menos efeitos metabólicos em metabolizadores rápidos ou fumantes. Exige clozapinemia seriada e experiência."}
+],
+"venlafaxina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "75 a 225 mg/dia (até 375 mg)", "t": "Em doses acima de 150 mg soma efeito noradrenérgico; opção em depressão grave, melancólica ou após falha de ISRS."},
+ {"g": "Depressão resistente", "c": "Troca após falha de ISRS", "s": "o", "e": "B", "p": "2", "d": "150 a 375 mg/dia", "t": "No STAR*D e em metanálises, trocar para venlafaxina após ISRS rende taxas de remissão semelhantes às de outras trocas, com leve vantagem em alguns estudos."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "a", "e": "A", "p": "1", "d": "75 a 225 mg/dia"},
+ {"g": "Fobia social", "c": "Transtorno de ansiedade social", "s": "a", "e": "A", "p": "1", "d": "75 a 225 mg/dia"},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "a", "e": "A", "p": "1", "d": "37,5 a 225 mg/dia", "t": "Começar com 37,5 mg."},
+ {"g": "TEPT", "c": "Transtorno de estresse pós-traumático", "s": "o", "e": "A", "p": "1", "d": "75 a 300 mg/dia", "t": "Recomendada como farmacoterapia de primeira linha em várias diretrizes, ao lado de sertralina e paroxetina."},
+ {"g": "Dor neuropática", "c": "Dor neuropática e neuropatia diabética", "s": "o", "e": "B", "p": "2", "d": "150 a 225 mg/dia", "t": "O efeito analgésico exige doses com ação noradrenérgica."},
+ {"g": "Sintomas vasomotores", "c": "Fogachos, inclusive em pacientes com câncer de mama", "s": "o", "e": "A", "p": "1", "d": "37,5 a 75 mg/dia", "t": "Opção preferencial com tamoxifeno por não inibir o CYP2D6 de forma relevante."},
+ {"g": "Narcolepsia e sonolência", "c": "Cataplexia", "s": "o", "e": "C", "p": "A", "d": "75 a 150 mg/dia", "t": "Suprime o sono REM; suspensão abrupta pode causar status cataplético."},
+ {"g": "TDAH", "c": "TDAH em adultos", "s": "o", "e": "C", "p": "U", "t": "Estudos pequenos; pouco usado desde a disponibilidade de atomoxetina e estimulantes."},
+ {"g": "Cefaleia e enxaqueca", "c": "Profilaxia de enxaqueca", "s": "o", "e": "B", "p": "2", "d": "75 a 150 mg/dia", "t": "Alternativa à amitriptilina com menos sedação e ganho de peso."}
+],
+"desvenlafaxina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "50 mg/dia", "t": "Dose de 50 mg é a eficaz; doses maiores trazem pouco ganho. Útil em polifarmácia."},
+ {"g": "Sintomas vasomotores", "c": "Fogachos da menopausa", "s": "o", "e": "A", "p": "A", "d": "100 a 150 mg/dia", "t": "Ensaios de fase 3 positivos; não aprovada para essa finalidade no Brasil."},
+ {"g": "TAG", "c": "Ansiedade comórbida à depressão", "s": "o", "e": "C", "p": "A", "t": "Sem aprovação para transtornos de ansiedade; extrapolação da venlafaxina."}
+],
+"duloxetina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "60 a 120 mg/dia", "t": "Especialmente útil com dor física ou fadiga associadas."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "a", "e": "A", "p": "1", "d": "60 a 120 mg/dia", "t": "Aprovada também para TAG em adolescentes nos EUA."},
+ {"g": "Dor neuropática", "c": "Dor neuropática diabética periférica", "s": "a", "e": "A", "p": "1", "d": "60 mg/dia", "t": "Primeira linha nas diretrizes de dor neuropática, ao lado de gabapentinoides e tricíclicos."},
+ {"g": "Fibromialgia", "c": "Fibromialgia", "s": "a", "e": "A", "p": "1", "d": "60 mg/dia", "t": "Reduz dor e melhora função; associar exercício."},
+ {"g": "Dor crônica", "c": "Dor musculoesquelética crônica (lombalgia, osteoartrite)", "s": "a", "e": "A", "p": "1", "d": "60 mg/dia"},
+ {"g": "Dor neuropática", "c": "Neuropatia induzida por quimioterapia", "s": "o", "e": "B", "p": "1", "d": "60 mg/dia", "t": "Único fármaco recomendado pela ASCO para essa indicação (Smith 2013)."},
+ {"g": "Outros", "c": "Incontinência urinária de esforço", "s": "o", "e": "B", "p": "A", "d": "40 mg duas vezes ao dia", "t": "Aprovada na Europa; náusea limita."}
+],
+"amitriptilina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "75 a 300 mg/dia", "t": "Um dos antidepressivos mais eficazes em metanálises, sobretudo em depressão grave e melancólica, porém com pior tolerabilidade e letalidade em superdosagem."},
+ {"g": "Enurese", "c": "Enurese noturna", "s": "a", "e": "B", "p": "2", "t": "Preteridas por desmopressina e alarme."},
+ {"g": "Dor neuropática", "c": "Dor neuropática (neuropatia diabética, pós-herpética)", "s": "o", "e": "A", "p": "1", "d": "10 a 75 mg à noite", "t": "Primeira linha em diretrizes de dor neuropática; efeito analgésico independente do humor e em doses menores."},
+ {"g": "Fibromialgia", "c": "Fibromialgia", "s": "o", "e": "A", "p": "1", "d": "10 a 50 mg à noite", "t": "Melhora sono e dor; uma das intervenções farmacológicas mais estudadas."},
+ {"g": "Cefaleia e enxaqueca", "c": "Profilaxia de enxaqueca e cefaleia tensional crônica", "s": "o", "e": "A", "p": "1", "d": "10 a 75 mg à noite", "t": "Primeira escolha na cefaleia tensional crônica e opção de primeira linha na enxaqueca, sobretudo com insônia ou depressão."},
+ {"g": "Dor crônica", "c": "Síndrome do intestino irritável e dor abdominal funcional", "s": "o", "e": "A", "p": "1", "d": "10 a 50 mg à noite", "t": "Estudo ATLANTIS (2023) confirmou benefício com titulação pelo próprio paciente."},
+ {"g": "Insônia", "c": "Insônia", "s": "o", "e": "C", "p": "X", "t": "Doses baixas sedam pelo efeito anti-H1, mas a carga anticolinérgica, o ganho de peso e a toxicidade em superdosagem não justificam o uso só como hipnótico, sobretudo em idosos."},
+ {"g": "Sialorreia", "c": "Sialorreia por clozapina", "s": "o", "e": "D", "p": "A", "d": "10 a 25 mg à noite", "t": "Efeito anticolinérgico; evitar pela soma de constipação e risco de íleo com clozapina."}
+],
+"nortriptilina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "50 a 150 mg/dia (nível 50 a 150 ng/mL)", "t": "Tricíclico mais tolerado; boa opção em idosos quando um tricíclico é necessário, com janela terapêutica bem definida."},
+ {"g": "Depressão", "c": "Depressão pós-AVC", "s": "o", "e": "B", "p": "2", "t": "Estudos de Robinson mostraram benefício em humor e recuperação funcional."},
+ {"g": "Tabagismo", "c": "Cessação do tabagismo", "s": "o", "e": "A", "p": "2", "d": "75 a 100 mg/dia", "t": "Eficácia semelhante à bupropiona em metanálise Cochrane; opção barata."},
+ {"g": "Dor neuropática", "c": "Dor neuropática", "s": "o", "e": "B", "p": "1", "d": "25 a 100 mg/dia", "t": "Menos efeitos adversos que a amitriptilina com eficácia comparável."},
+ {"g": "Cefaleia e enxaqueca", "c": "Profilaxia de enxaqueca", "s": "o", "e": "C", "p": "2", "d": "10 a 50 mg à noite"},
+ {"g": "TDAH", "c": "TDAH (alternativa)", "s": "o", "e": "C", "p": "U", "t": "Tricíclicos têm eficácia modesta no TDAH; hoje raramente usados pelo risco cardíaco."}
+],
+"imipramina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "75 a 300 mg/dia", "t": "Referência histórica de eficácia; disponibilidade restrita no Brasil."},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "a", "e": "A", "p": "2", "d": "100 a 200 mg/dia", "t": "Primeira medicação com eficácia demonstrada no pânico (Klein); ativação inicial exige titulação a partir de 10 mg."},
+ {"g": "Enurese", "c": "Enurese noturna em crianças acima de 6 anos", "s": "a", "e": "A", "p": "2", "d": "25 a 50 mg ao deitar", "t": "Resposta rápida, mas alta recaída e risco em superdosagem acidental."},
+ {"g": "Dor crônica", "c": "Dor crônica", "s": "a", "e": "B", "p": "2"},
+ {"g": "TDAH", "c": "TDAH", "s": "o", "e": "C", "p": "U", "t": "Pouco usado pelo risco cardíaco."},
+ {"g": "Narcolepsia e sonolência", "c": "Cataplexia", "s": "o", "e": "C", "p": "A", "t": "Supressão do sono REM."}
+],
+"clomipramina": [
+ {"g": "TOC", "c": "Transtorno obsessivo-compulsivo", "s": "a", "e": "A", "p": "2", "d": "100 a 250 mg/dia", "t": "Referência histórica no TOC; em metanálises antigas, efeito igual ou maior que os ISRS, mas com tolerabilidade pior. Opção após falha de pelo menos dois ISRS."},
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "75 a 250 mg/dia", "t": "Eficaz em depressão grave e melancólica."},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "a", "e": "A", "p": "2", "d": "25 a 150 mg/dia", "t": "Muito eficaz, mas pouco tolerada; iniciar com 10 mg."},
+ {"g": "Narcolepsia e sonolência", "c": "Cataplexia associada à narcolepsia", "s": "a", "e": "B", "p": "2", "d": "10 a 75 mg/dia", "t": "Supressor potente do sono REM; suspensão abrupta pode desencadear rebote de cataplexia."},
+ {"g": "Dor crônica", "c": "Dor crônica", "s": "a", "e": "B", "p": "2"},
+ {"g": "Ejaculação precoce", "c": "Ejaculação precoce", "s": "o", "e": "A", "p": "1", "d": "25 a 50 mg/dia ou 15 a 25 mg 4 a 6 horas antes", "t": "Muito eficaz; o uso sob demanda reduz os efeitos adversos."},
+ {"g": "Espectro obsessivo", "c": "Tricotilomania e escoriação", "s": "o", "e": "C", "p": "2", "t": "Pequeno ensaio clássico (Swedo 1989) favorável na tricotilomania."},
+ {"g": "TOC", "c": "TOC refratário: clomipramina intravenosa", "s": "o", "e": "C", "p": "U", "t": "Pulsos IV em centros especializados produziram resposta em parte dos refratários à via oral."}
+],
+"tranilcipromina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "30 a 60 mg/dia", "t": "Eficácia robusta; reservada pela dieta e interações."},
+ {"g": "Depressão resistente", "c": "Depressão resistente a várias linhas", "s": "o", "e": "B", "p": "U", "d": "30 a 60 mg/dia (até 80 a 100 mg em centros)", "t": "No STAR*D a remissão foi baixa, mas com doses subterapêuticas e alta desistência; estudos europeus em dose alta mostram resposta em parte importante dos resistentes."},
+ {"g": "Depressão", "c": "Depressão atípica (hipersonia, hiperfagia, sensibilidade à rejeição)", "s": "o", "e": "A", "p": "1", "t": "IMAO superam tricíclicos na depressão atípica (estudos de Columbia)."},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar resistente, com estabilizador", "s": "o", "e": "C", "p": "U", "t": "Em ensaio pequeno, superior à imipramina com menor virada. Usar sempre com estabilizador."},
+ {"g": "Fobia social", "c": "Ansiedade social resistente", "s": "o", "e": "B", "p": "U", "t": "Fenelzina tem evidência robusta; tranilcipromina é usada por extrapolação."},
+ {"g": "Transtorno de pânico", "c": "Pânico resistente", "s": "o", "e": "C", "p": "U"}
+],
+"moclobemida": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "300 a 600 mg/dia", "t": "Menos eficaz que IMAO irreversíveis na depressão grave, mas quase sem restrição alimentar e sem efeitos sexuais."},
+ {"g": "Fobia social", "c": "Transtorno de ansiedade social", "s": "a", "e": "B", "p": "A", "d": "300 a 600 mg/dia", "t": "Terceira linha no CANMAT 2014 por resultados mistos; opção quando ISRS causam disfunção sexual."},
+ {"g": "Transtorno de pânico", "c": "Transtorno de pânico", "s": "o", "e": "C", "p": "A"}
+],
+"bupropiona": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "150 a 450 mg/dia", "t": "Eficácia semelhante aos ISRS, sem disfunção sexual nem ganho de peso; menos eficaz em depressão com ansiedade proeminente."},
+ {"g": "Tabagismo", "c": "Cessação do tabagismo", "s": "a", "e": "A", "p": "1", "d": "150 mg duas vezes ao dia", "t": "Dobra as taxas de abstinência; combina bem com reposição de nicotina."},
+ {"g": "Depressão resistente", "c": "Associação a ISRS ou IRSN", "s": "o", "e": "B", "p": "P", "d": "150 a 300 mg/dia", "t": "No STAR*D e no VAST-D, a associação foi tão eficaz quanto outras estratégias, com boa tolerância; no CANMAT 2023 fica abaixo dos antipsicóticos atípicos pela evidência mais fraca. Útil quando há fadiga, sonolência ou disfunção sexual."},
+ {"g": "Disfunção sexual", "c": "Disfunção sexual induzida por ISRS", "s": "o", "e": "B", "p": "1", "d": "150 a 300 mg/dia", "t": "Estratégia de antídoto com maior evidência entre as farmacológicas."},
+ {"g": "TDAH", "c": "TDAH em adultos", "s": "o", "e": "B", "p": "2", "d": "150 a 450 mg/dia", "t": "Efeito menor que estimulantes; útil com tabagismo, uso de substâncias ou depressão comórbida."},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar, com estabilizador", "s": "o", "e": "B", "p": "A", "t": "Entre os antidepressivos, um dos de menor risco de virada; não recomendada em monoterapia."},
+ {"g": "Ganho de peso por psicofármacos", "c": "Obesidade (com naltrexona)", "s": "o", "e": "A", "p": "A", "t": "A combinação naltrexona e bupropiona é aprovada para obesidade em outros países."},
+ {"g": "Cocaína e estimulantes", "c": "Dependência de metanfetamina", "s": "o", "e": "B", "p": "A", "t": "O ensaio ADAPT-2 (2021) mostrou benefício de naltrexona injetável com bupropiona; na cocaína os resultados são negativos."},
+ {"g": "Apatia", "c": "Apatia e fadiga", "s": "o", "e": "C", "p": "S", "t": "Usada pela ação dopaminérgica em apatia pós-AVC e em depressão com fadiga, com evidência limitada."}
+],
+"mirtazapina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "15 a 45 mg à noite", "t": "Início de efeito possivelmente mais rápido sobre sono e apetite; boa opção em idosos, oncologia e com anticoagulantes."},
+ {"g": "Depressão resistente", "c": "Associação a ISRS ou IRSN", "s": "o", "e": "B", "p": "P", "d": "15 a 45 mg à noite", "t": "O racional farmacológico é bom, mas o ensaio MIR (2018) não mostrou benefício clínico relevante da associação; no CANMAT 2023 fica entre as opções de evidência mais fraca. Útil quando insônia e perda de apetite predominam."},
+ {"g": "Insônia", "c": "Insônia com depressão", "s": "o", "e": "B", "p": "A", "d": "7,5 a 15 mg à noite", "t": "Doses baixas são mais sedativas; ganho de peso limita o uso só como hipnótico."},
+ {"g": "TAG", "c": "Ansiedade comórbida", "s": "o", "e": "C", "p": "A", "t": "Ansiolítica pelo bloqueio 5-HT2 e H1; estudos pequenos em pânico e TEPT."},
+ {"g": "Outros", "c": "Anorexia, caquexia e náuseas em oncologia", "s": "o", "e": "B", "p": "S", "d": "15 a 30 mg à noite", "t": "Estimula apetite e é antiemética (bloqueio 5-HT3)."},
+ {"g": "EPS e acatisia", "c": "Acatisia por antipsicótico", "s": "o", "e": "B", "p": "2", "d": "15 mg/dia", "t": "Dose baixa foi tão eficaz quanto o propranolol em ensaio (Poyurovsky 2006)."},
+ {"g": "Prurido", "c": "Prurido crônico e urêmico", "s": "o", "e": "C", "p": "A", "d": "7,5 a 15 mg à noite"},
+ {"g": "Espectro obsessivo", "c": "Potencialização no TOC", "s": "o", "e": "C", "p": "P", "t": "Ensaio pequeno sugeriu aceleração da resposta ao citalopram."}
+],
+"trazodona": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "150 a 400 mg/dia", "t": "Antidepressivo pleno apenas em doses altas, que muitos não toleram pela sedação."},
+ {"g": "Insônia", "c": "Insônia, inclusive associada a antidepressivos ativadores", "s": "o", "e": "B", "p": "A", "d": "25 a 100 mg à noite", "t": "Muito prescrita, mas a AASM 2017 sugere não usá-la na insônia crônica (danos superam benefícios na evidência disponível) e a diretriz europeia de 2023 só admite antidepressivos sedativos em dose baixa por curto prazo. Tem lugar quando há depressão comórbida ou quando benzodiazepínicos e drogas Z devem ser evitados (uso de substâncias)."},
+ {"g": "Agitação na demência", "c": "Agitação e insônia na demência", "s": "o", "e": "C", "p": "A", "d": "25 a 150 mg/dia", "t": "Estudo pequeno em demência frontotemporal positivo; metanálise sugere melhora do sono na demência."},
+ {"g": "Insônia", "c": "Insônia no uso de substâncias", "s": "o", "e": "C", "p": "A", "t": "Preferível a benzodiazepínicos na abstinência prolongada de álcool, embora sem reduzir recaída."},
+ {"g": "Disfunção sexual", "c": "Disfunção erétil (antigo)", "s": "o", "e": "D", "p": "X", "t": "Efeito priapogênico já foi explorado, mas não é recomendada."}
+],
+"vortioxetina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "1", "d": "10 a 20 mg/dia", "t": "Eficácia semelhante aos ISRS com menos disfunção sexual e sem ganho de peso."},
+ {"g": "Depressão", "c": "Sintomas cognitivos da depressão", "s": "o", "e": "B", "p": "1", "t": "Melhora do teste de substituição de símbolos por dígitos parcialmente independente do humor (FOCUS, CONNECT)."},
+ {"g": "Depressão", "c": "Depressão no idoso", "s": "o", "e": "B", "p": "1", "d": "5 a 10 mg/dia", "t": "Ensaio específico positivo em idosos, com boa tolerância."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "o", "e": "B", "p": "2", "t": "Segunda linha no CANMAT 2014; resultados mistos entre os ensaios."},
+ {"g": "Disfunção sexual", "c": "Troca por disfunção sexual por ISRS", "s": "o", "e": "B", "p": "1", "t": "Ensaio de troca a partir de ISRS mostrou melhora da função sexual (Jacobsen 2015)."}
+],
+"vilazodona": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "20 a 40 mg/dia com refeição", "t": "Eficaz; efeitos gastrointestinais iniciais são o principal limite."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "o", "e": "B", "p": "A", "t": "Ensaios positivos em TAG, sem aprovação."}
+],
+"agomelatina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "A", "p": "2", "d": "25 a 50 mg ao deitar", "t": "Eficácia semelhante à de outros antidepressivos em metanálises, com perfil sexual e ponderal favorável. Monitorar transaminases."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "o", "e": "B", "p": "1", "t": "Primeira linha no TAG pelo CANMAT 2014, com ensaios positivos inclusive de prevenção de recaída."},
+ {"g": "Insônia", "c": "Insônia com atraso de fase na depressão", "s": "o", "e": "C", "p": "A", "t": "Ressincroniza o ritmo circadiano; melhora a latência do sono já na primeira semana."}
+],
+"tianeptina": [
+ {"g": "Depressão", "c": "Episódio depressivo leve a moderado", "s": "a", "e": "B", "p": "2", "d": "12,5 mg três vezes ao dia", "t": "Eficácia modesta; útil em idosos pela boa tolerância, evitando pessoas com história de uso de substâncias."},
+ {"g": "Depressão", "c": "Depressão com ansiedade e queixas somáticas", "s": "a", "e": "B", "p": "A"},
+ {"g": "Depressão resistente", "c": "Uso de doses altas", "s": "o", "e": "D", "p": "X", "t": "Doses altas não são recomendadas: o efeito mu predomina, com dependência e abstinência de tipo opioide."}
+],
+"reboxetina": [
+ {"g": "Depressão", "c": "Episódio depressivo maior", "s": "a", "e": "C", "p": "U", "d": "4 a 8 mg/dia", "t": "Metanálise com dados não publicados (Eyding 2010) mostrou eficácia pequena ou nula; pouco usada."},
+ {"g": "TDAH", "c": "TDAH", "s": "o", "e": "C", "p": "U"},
+ {"g": "Narcolepsia e sonolência", "c": "Narcolepsia (sonolência e cataplexia)", "s": "o", "e": "C", "p": "U", "t": "Estudo aberto pequeno sugeriu benefício."}
+],
+"esketamina": [
+ {"g": "Depressão resistente", "c": "Depressão resistente ao tratamento, com antidepressivo oral", "s": "a", "e": "A", "p": "2", "d": "56 a 84 mg intranasal, 2 vezes por semana na indução", "t": "Segunda linha no CANMAT 2023, após falha de ao menos 2 antidepressivos. Reduz recaída na manutenção (SUSTAIN-1). No ESCAPE-TRD foi superior à quetiapina associada."},
+ {"g": "Depressão", "c": "Sintomas depressivos agudos com ideação ou comportamento suicida", "s": "a", "e": "B", "p": "S", "d": "84 mg duas vezes por semana por 4 semanas", "t": "Reduz sintomas depressivos em 24 horas (ASPIRE); não demonstrou redução de comportamento suicida em si. Não substitui internação."}
+]
+}

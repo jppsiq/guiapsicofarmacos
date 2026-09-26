@@ -1,0 +1,1002 @@
+{
+  "diazepam": {
+    "alvos": [
+      "Ataques de pânico",
+      "Ansiedade",
+      "Espasmo muscular",
+      "Crises convulsivas (adjuvante)"
+    ],
+    "latencia": "Algum alívio já na primeira dose é comum; o benefício máximo com uso diário pode levar algumas semanas.",
+    "se_funciona": [
+      "Ansiedade ou espasmo muscular de curto prazo: suspender após poucas semanas ou passar a uso conforme necessidade. Espasmo muscular crônico pode exigir uso contínuo.",
+      "Transtornos de ansiedade crônicos: preferir ISRS ou IRSN para manutenção; se o benzodiazepínico for indispensável, manter por 6 meses após a remissão e retirar lentamente.",
+      "Se os sintomas voltarem, considerar ISRS ou IRSN ou reintroduzir o benzodiazepínico; às vezes a combinação é o que funciona melhor."
+    ],
+    "se_nao_funciona": [
+      "Trocar de agente ou associar potencializador.",
+      "Psicoterapia, sobretudo TCC.",
+      "Investigar uso de substâncias, inclusive abuso do próprio diazepam.",
+      "Rever o diagnóstico (comorbidade clínica)."
+    ],
+    "potencializacao": [
+      "Adjuvante de antipsicóticos e estabilizadores do humor em quadros psicóticos e bipolares",
+      "Adjuvante de ISRS e IRSN nos transtornos de ansiedade",
+      "Em geral não faz sentido associar dois benzodiazepínicos; cautela ao somar outro hipnótico para dormir"
+    ],
+    "exames": [
+      "Nenhum de rotina. Em epilépticos, pacientes com doença clínica ou polifarmácia prolongada, provas hepáticas e hemograma periódicos podem ser prudentes."
+    ],
+    "mecanismo_ea": [
+      "Os efeitos adversos decorrem do mesmo mecanismo terapêutico: ação excessiva nos receptores benzodiazepínicos do GABA-A.",
+      "Adaptações de longo prazo desses receptores explicam tolerância, dependência e abstinência.",
+      "Os efeitos são imediatos e muitos desaparecem com o tempo."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e às vezes importante, sobretudo no início e a cada aumento de dose; costuma haver tolerância com o tempo.",
+    "ea_graves": [
+      "Depressão respiratória, sobretudo em superdosagem associada a outros depressores do SNC.",
+      "Raros: disfunção hepática ou renal, discrasias sanguíneas."
+    ],
+    "manejo": [
+      "Esperar: boa parte da sedação e da incoordenação regride.",
+      "Reduzir a dose ou concentrar a maior dose ao deitar.",
+      "Trocar de agente.",
+      "Efeitos graves ou com risco de vida: flumazenil (evitar em quem usa diazepam como anticonvulsivante, pelo risco de convulsão)."
+    ],
+    "dicas_dose": [
+      "Faixa oral usual: 4 a 40 mg/dia em tomadas divididas; ansiedade, espasmo muscular e convulsões: 2 a 10 mg, 2 a 4 vezes ao dia.",
+      "Abstinência alcoólica (esquema do Stahl): 10 mg 3 a 4 vezes no primeiro dia, depois 5 mg 3 a 4 vezes ao dia, conforme a necessidade.",
+      "IV em adultos: no máximo 5 mg por minuto; em crianças, 0,25 mg/kg a cada 3 minutos.",
+      "A forma injetável é para uso agudo; quem precisar de tratamento prolongado deve passar para via oral.",
+      "Diazepam retal (forma não disponível no Brasil): não repetir antes de 5 dias nem mais de 2 vezes por ciclo de tratamento, pelo risco de depressão respiratória.",
+      "Menor dose eficaz pelo menor tempo possível, reavaliando a necessidade com regularidade; o risco de dependência cresce com dose e duração.",
+      "Ansiedade entre doses: aumentar a dose, fracionar a mesma dose total em mais tomadas ou usar dose extra ocasional.",
+      "A duração clínica do efeito costuma ser menor que a meia-vida sugere, por isso muitos precisam de mais tomadas diárias do que o esperado."
+    ],
+    "superdosagem": "Pode ser fatal: hipotensão, cansaço, ataxia, confusão e coma, com risco maior em associação com outros depressores.",
+    "longo_prazo": "Eficácia documentada até 16 semanas. Risco de dependência sobretudo após 12 semanas e em quem tem história de uso de múltiplas substâncias. Não recomendado para tratamento de longo prazo da epilepsia.",
+    "dependencia": "Controlado (lista IV nos EUA). Tolerância e dependência com uso prolongado; pacientes que precisam de mais de 40 mg/dia têm risco maior.",
+    "suspender": [
+      "Retirada abrupta pode causar convulsões, sobretudo em quem tem história de crises.",
+      "Reduzir 2 mg a cada 3 dias; nos casos difíceis, abaixo de 20 mg/dia reduzir bem mais devagar (0,5 a 1 mg por semana ou menos).",
+      "Casos muito difíceis: retirada ao longo de meses, diluindo o comprimido em 100 mL de suco e descartando 1 mL a mais a cada 3 a 7 dias (redução de cerca de 1% por vez), o que também funciona como dessensibilização comportamental.",
+      "Diferenciar retorno da doença, rebote e abstinência. Dependência fisiológica não é adição: é comparável à do diabético à insulina."
+    ],
+    "interacoes": [
+      "Potencialização com outros depressores do SNC; alerta em caixa sobre a associação com opioides (depressão respiratória e morte). Se inevitável, limitar dose e duração de ambos e orientar paciente e cuidadores sobre sinais de alarme.",
+      "Substrato do CYP2C19 e 3A4; cimetidina reduz a depuração e eleva os níveis.",
+      "Flumazenil pode precipitar convulsões em quem usa diazepam para epilepsia."
+    ],
+    "nao_usar": [
+      "Glaucoma de ângulo fechado.",
+      "Alergia comprovada ao diazepam ou a qualquer benzodiazepínico."
+    ],
+    "advertencias": [
+      "Doença pulmonar: há relatos raros de morte após início de benzodiazepínico em insuficiência pulmonar grave.",
+      "História de abuso de álcool ou drogas aumenta o risco de dependência.",
+      "Alguns deprimidos podem ter piora da ideação suicida.",
+      "Pode haver alterações de pensamento e comportamento, depressoras ou desinibitórias."
+    ],
+    "pop": {
+      "renal": "Iniciar com 2 a 2,5 mg, 1 a 2 vezes ao dia, e aumentar gradualmente.",
+      "hepatica": "Iniciar com 2 a 2,5 mg, 1 a 2 vezes ao dia, e aumentar gradualmente.",
+      "cardiaca": "Benzodiazepínicos são usados na ansiedade do infarto agudo; o diazepam pode ser adjuvante em emergências cardiovasculares.",
+      "idosos": "Iniciar com 2 a 2,5 mg, 1 a 2 vezes ao dia, e aumentar gradualmente.",
+      "criancas": "Oral a partir de 6 meses: 1 a 2,5 mg, 3 a 4 vezes ao dia. Parenteral a partir de 30 dias de vida; retal a partir de 2 anos. Doses menores e monitorização mais próxima; efeitos de longo prazo desconhecidos.",
+      "gestacao": "Possível aumento de malformações; em geral não recomendado para ansiedade na gestação, sobretudo no primeiro trimestre. Uso no fim da gestação pode causar abstinência e hipotonia neonatal. Se suspender, retirar gradualmente. Convulsões, mesmo leves, também podem lesar o feto.",
+      "lactacao": "Presume-se que passe ao leite; recomenda-se suspender o fármaco ou usar fórmula. Há relatos de dificuldade de sucção, sedação e perda de peso no lactente."
+    },
+    "vantagens": [
+      "Início de ação rápido.",
+      "Múltiplas vias: oral (comprimido e solução), retal e injetável."
+    ],
+    "desvantagens": [
+      "Euforia pode levar a abuso, sobretudo em quem tem ou teve uso de substâncias.",
+      "Pode sedar nas doses necessárias para ansiedade moderada a grave."
+    ],
+    "perolas": [
+      "Frequentemente o benzodiazepínico de primeira escolha no estado de mal epiléptico, por via IV ou retal.",
+      "Continua popular no espasmo muscular e na abstinência alcoólica aguda; pouco útil como anticonvulsivante oral de manutenção.",
+      "Adjuvante útil de ISRS e IRSN na ansiedade, embora menos usado para isso que outros benzodiazepínicos.",
+      "Não trata psicose nem transtorno bipolar em monoterapia, mas serve como adjuvante de antipsicóticos e estabilizadores.",
+      "Por suprimir o sono de ondas lentas (estágio 4), pode prevenir terror noturno em adultos.",
+      "Pode tanto causar quanto tratar depressão, conforme o paciente.",
+      "Na insônia, lembrar que ela pode ser sintoma de outro transtorno psiquiátrico ou clínico.",
+      "Benzodiazepínicos são o tratamento inicial recomendado da catatonia, embora pouco estudados sistematicamente."
+    ]
+  },
+  "flunitrazepam": {
+    "alvos": [
+      "Latência para o sono",
+      "Tempo total de sono",
+      "Despertares noturnos"
+    ],
+    "latencia": "Em geral age em menos de 1 hora.",
+    "se_funciona": [
+      "Melhora a qualidade do sono.",
+      "O efeito sobre o tempo acordado e o número de despertares pode diminuir com o tempo."
+    ],
+    "se_nao_funciona": [
+      "Se a insônia não melhorar em 7 a 10 dias, investigar causa primária psiquiátrica ou clínica (apneia obstrutiva do sono, síndrome das pernas inquietas).",
+      "Aumentar a dose, reforçar a higiene do sono ou trocar de agente."
+    ],
+    "potencializacao": [
+      "Em geral é melhor trocar de agente",
+      "Trazodona"
+    ],
+    "exames": [
+      "Nenhum de rotina. Em epilépticos, pacientes com doença clínica ou polifarmácia prolongada, provas hepáticas e hemograma periódicos podem ser prudentes."
+    ],
+    "mecanismo_ea": [
+      "Ação excessiva nos receptores benzodiazepínicos, o mesmo mecanismo do efeito terapêutico.",
+      "A ação que se estende ao dia seguinte causa sedação diurna, amnésia e ataxia.",
+      "Adaptações de longo prazo explicam tolerância, dependência e abstinência."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e às vezes importante (é o efeito desejado à noite; o problema é a sedação residual).",
+    "ea_graves": [
+      "Depressão respiratória, sobretudo em superdosagem com outros depressores do SNC.",
+      "Raros: disfunção hepática ou renal, discrasias sanguíneas.",
+      "Reações psiquiátricas e paradoxais (agitação, agressividade, fúria, delírios, alucinações, psicose), possivelmente mais graves e frequentes que com outros benzodiazepínicos."
+    ],
+    "manejo": [
+      "Para evitar problemas de memória, tomar só quando houver uma noite inteira de sono pela frente.",
+      "Reduzir a dose.",
+      "Trocar por hipnótico de ação mais curta ou por hipnótico não benzodiazepínico.",
+      "Efeitos graves ou com risco de vida: flumazenil."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 0,5 a 1 mg ao deitar; máximo geralmente 2 mg.",
+      "Doses acima de 1 mg só em situações excepcionais; quem pede ou precisa de mais de 1 mg tem maior probabilidade de uso indevido de substâncias.",
+      "Pacientes de baixo peso podem precisar de doses menores.",
+      "Não prescrever quantidade para mais de 1 mês.",
+      "Cerca de 10 vezes mais potente que o diazepam (1 mg equivale a cerca de 10 mg de diazepam).",
+      "Idealmente, usar por menos de 10 noites seguidas e em menos da metade das noites do mês; pausas podem restaurar a eficácia se houver tolerância."
+    ],
+    "superdosagem": "Sedação, disartria, incoordenação, confusão, coma e depressão respiratória.",
+    "longo_prazo": "Não indicado para uso prolongado; não ultrapassar 4 semanas.",
+    "dependencia": "Dependência e tolerância possíveis, mais com doses altas e em quem tem história de adição. Lista III da OMS; lista IV nos EUA, onde não é comercializado legalmente.",
+    "suspender": [
+      "Se usado por mais de algumas semanas, retirar gradualmente.",
+      "Pacientes com história de convulsões podem ter crises na retirada abrupta.",
+      "Insônia de rebote é possível nas 1 a 2 primeiras noites.",
+      "Casos difíceis: retirada ao longo de meses com o método de diluição em suco (redução de cerca de 1% a cada 3 a 7 dias)."
+    ],
+    "interacoes": [
+      "Potencialização com outros depressores do SNC; alerta em caixa sobre a associação com opioides (depressão respiratória e morte).",
+      "Cisaprida acelera a absorção e pode aumentar transitoriamente a sedação."
+    ],
+    "nao_usar": [
+      "Gestação.",
+      "Hipercapnia crônica grave, insuficiência respiratória grave, apneia do sono ou miastenia gravis.",
+      "Insuficiência hepática grave (pode precipitar encefalopatia).",
+      "Crianças.",
+      "Glaucoma de ângulo fechado.",
+      "Alergia comprovada ao flunitrazepam ou a qualquer benzodiazepínico."
+    ],
+    "advertencias": [
+      "Insônia pode ser sintoma de outro transtorno.",
+      "Pode causar alterações de pensamento e comportamento, depressoras ou desinibitórias; alguns deprimidos têm piora da ideação suicida.",
+      "Cautela extrema em comprometimento respiratório.",
+      "Administrar somente ao deitar."
+    ],
+    "pop": {
+      "renal": "Usar com cautela.",
+      "hepatica": "Reduzir a dose; não usar na insuficiência hepática grave.",
+      "cardiaca": "Benzodiazepínicos são usados na insônia associada ao infarto agudo.",
+      "idosos": "Iniciar com 0,5 mg ao deitar; máximo geralmente 1 mg. Reações paradoxais (inquietação, agitação) são mais prováveis.",
+      "criancas": "Segurança e eficácia não estabelecidas; não recomendado. Reações paradoxais mais prováveis.",
+      "gestacao": "Evidência de risco fetal; contraindicado. Uso no fim da gestação pode causar abstinência e hipotonia neonatal.",
+      "lactacao": "Presume-se que passe ao leite; suspender o fármaco ou usar fórmula. Há relatos de dificuldade de sucção, sedação e perda de peso no lactente."
+    },
+    "vantagens": [
+      "Insônia grave e incapacitante que não respondeu a outros hipnóticos."
+    ],
+    "desvantagens": [
+      "Quem precisa de tratamento por mais que algumas semanas.",
+      "Quem tem ou teve uso indevido de substâncias."
+    ],
+    "perolas": [
+      "Reações paradoxais podem ser intensas: inquietação, irritabilidade, agressividade, fúria, pesadelos, alucinações, delírios e comportamento inadequado.",
+      "Ficou conhecido como droga usada em crimes sexuais: com álcool, reduz julgamento, inibição, capacidade de resistência e lembrança dos fatos. Desde 1999 recebe corante que deixa a bebida azulada, o que reduziu o uso ilícito.",
+      "Se surgir tolerância, pode haver ansiedade diurna e despertar precoce no fim da noite.",
+      "Benzodiazepínicos são o tratamento inicial recomendado da catatonia, embora pouco estudados sistematicamente."
+    ]
+  },
+  "lorazepam": {
+    "alvos": [
+      "Ataques de pânico",
+      "Ansiedade",
+      "Espasmo muscular",
+      "Crises convulsivas (adjuvante)"
+    ],
+    "latencia": "Algum alívio já na primeira dose é comum; o benefício máximo com uso diário pode levar algumas semanas.",
+    "se_funciona": [
+      "Ansiedade de curto prazo: suspender após poucas semanas ou passar a uso conforme necessidade.",
+      "Transtornos de ansiedade crônicos: preferir ISRS ou IRSN para manutenção; se o benzodiazepínico for indispensável, manter por 6 meses após a remissão e retirar lentamente."
+    ],
+    "se_nao_funciona": [
+      "Trocar de agente ou associar potencializador.",
+      "Psicoterapia, sobretudo TCC.",
+      "Investigar uso de substâncias, inclusive abuso do próprio lorazepam.",
+      "Rever o diagnóstico (comorbidade clínica)."
+    ],
+    "potencializacao": [
+      "Adjuvante de antipsicóticos e estabilizadores do humor em quadros psicóticos e bipolares",
+      "Adjuvante de ISRS e IRSN nos transtornos de ansiedade",
+      "Em geral não faz sentido associar dois benzodiazepínicos; cautela ao somar outro hipnótico para dormir"
+    ],
+    "exames": [
+      "Nenhum de rotina. Em epilépticos, pacientes com doença clínica ou polifarmácia prolongada, provas hepáticas e hemograma periódicos podem ser prudentes."
+    ],
+    "mecanismo_ea": [
+      "Ação excessiva nos receptores benzodiazepínicos, o mesmo mecanismo do efeito terapêutico.",
+      "Adaptações de longo prazo explicam tolerância, dependência e abstinência.",
+      "Os efeitos são imediatos e muitos desaparecem com o tempo."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e às vezes importante, sobretudo no início e a cada aumento de dose; costuma haver tolerância. Possivelmente mais sedativo que outros benzodiazepínicos usados na ansiedade.",
+    "ea_graves": [
+      "Depressão respiratória, sobretudo em superdosagem com outros depressores do SNC.",
+      "Raros: disfunção hepática ou renal, discrasias sanguíneas."
+    ],
+    "manejo": [
+      "Esperar: boa parte da sedação e da incoordenação regride.",
+      "Reduzir a dose ou concentrar a maior dose ao deitar.",
+      "Trocar de agente.",
+      "Efeitos graves ou com risco de vida: flumazenil (evitar em quem usa lorazepam como anticonvulsivante)."
+    ],
+    "dicas_dose": [
+      "Oral: iniciar com 2 a 3 mg/dia em 2 a 3 tomadas, aumentando primeiro a dose noturna; faixa usual 2 a 6 mg/dia com a maior dose ao deitar; máximo geralmente 10 mg/dia.",
+      "Transtorno de pânico pode exigir mais de 6 mg/dia, e alguns pacientes graves 10 mg/dia ou mais, com maior risco de dependência.",
+      "Catatonia: 1 a 2 mg, repetindo após 3 horas e novamente após mais 3 horas se necessário.",
+      "Injetável (não comercializado no Brasil): 4 mg aplicados lentamente, podendo repetir após 10 a 15 minutos; é para uso agudo, com passagem para via oral depois.",
+      "Menor dose eficaz pelo menor tempo possível; reavaliar a necessidade regularmente.",
+      "Ansiedade entre doses: aumentar a dose, fracionar em mais tomadas ou usar dose extra ocasional. Muitos precisam de mais de 2 a 3 tomadas diárias, pois a duração clínica é menor que a meia-vida."
+    ],
+    "superdosagem": "Pode ser fatal: hipotensão, cansaço, ataxia, confusão e coma.",
+    "longo_prazo": "Eficácia documentada até 16 semanas. Risco de dependência sobretudo após 12 semanas e em quem tem história de uso de múltiplas substâncias.",
+    "dependencia": "Controlado (lista IV nos EUA). Tolerância e dependência com uso prolongado.",
+    "suspender": [
+      "Retirada abrupta pode causar convulsões, sobretudo em quem tem história de crises.",
+      "Reduzir 0,5 mg a cada 3 dias; nos casos difíceis, abaixo de 3 mg/dia reduzir bem mais devagar (0,25 mg por semana ou menos).",
+      "Casos muito difíceis: retirada ao longo de meses com o método de diluição em suco (redução de cerca de 1% a cada 3 a 7 dias).",
+      "Diferenciar retorno da doença, rebote e abstinência; dependência fisiológica não é adição."
+    ],
+    "interacoes": [
+      "Potencialização com outros depressores do SNC; alerta em caixa sobre a associação com opioides (depressão respiratória e morte).",
+      "Valproato e probenecida reduzem a depuração e elevam os níveis de lorazepam.",
+      "Contraceptivos orais aumentam a depuração e reduzem os níveis.",
+      "Flumazenil pode precipitar convulsões em quem usa lorazepam para epilepsia."
+    ],
+    "nao_usar": [
+      "Glaucoma de ângulo fechado.",
+      "Apneia do sono (forma injetável).",
+      "Via intra-arterial (arterioespasmo e gangrena).",
+      "Alergia comprovada ao lorazepam ou a qualquer benzodiazepínico."
+    ],
+    "advertencias": [
+      "Doença pulmonar: relatos raros de morte após início de benzodiazepínico em insuficiência pulmonar grave.",
+      "Apneia obstrutiva do sono: forma oral só com cautela extrema.",
+      "História de abuso de álcool ou drogas aumenta o risco de dependência.",
+      "Alguns deprimidos podem ter piora da ideação suicida; pode haver alterações de comportamento depressoras ou desinibitórias."
+    ],
+    "pop": {
+      "renal": "1 a 2 mg/dia em 2 a 3 tomadas.",
+      "hepatica": "1 a 2 mg/dia em 2 a 3 tomadas. Pela meia-vida curta e ausência de metabólitos ativos, pode ser o benzodiazepínico preferido na hepatopatia.",
+      "cardiaca": "Usado na ansiedade do infarto agudo e como adjuvante em emergências cardiovasculares induzidas por drogas. Relatos raros de prolongamento de QTc em arritmia prévia.",
+      "idosos": "1 a 2 mg/dia em 2 a 3 tomadas; mais sensíveis à sedação e à depressão respiratória.",
+      "criancas": "Oral: segurança e eficácia não estabelecidas abaixo de 12 anos; injetável, abaixo de 18 anos. Doses menores e monitorização mais próxima.",
+      "gestacao": "Possível aumento de malformações; em geral não recomendado para ansiedade na gestação, sobretudo no primeiro trimestre. Uso no fim da gestação pode causar abstinência e hipotonia neonatal. Se suspender, retirar gradualmente.",
+      "lactacao": "Passa ao leite; o Stahl recomenda suspender o fármaco ou usar fórmula. Há relatos de dificuldade de sucção, sedação e perda de peso no lactente."
+    },
+    "vantagens": [
+      "Início de ação rápido.",
+      "Formas oral, líquida e injetável (as duas últimas não comercializadas no Brasil)."
+    ],
+    "desvantagens": [
+      "Euforia pode levar a abuso, sobretudo em quem tem ou teve uso de substâncias.",
+      "Possivelmente mais sedação que outros benzodiazepínicos usados na ansiedade."
+    ],
+    "perolas": [
+      "Um dos benzodiazepínicos mais úteis na agitação da psicose, do transtorno bipolar e de outros quadros, sobretudo em internação.",
+      "Benzodiazepínicos, e o lorazepam em particular, são o tratamento inicial recomendado da catatonia.",
+      "Adjuvante muito útil de ISRS e IRSN nos transtornos de ansiedade.",
+      "Não trata psicose nem transtorno bipolar em monoterapia, mas serve como adjuvante.",
+      "Pode ser preferido a outros benzodiazepínicos no delirium; quando associado ao haloperidol, usa-se a dose de haloperidol igual ao dobro da de lorazepam. Diretrizes atuais restringem benzodiazepínicos no delirium, exceto na abstinência alcoólica.",
+      "Usado para induzir amnésia anterógrada pré-operatória.",
+      "Pode tanto causar quanto tratar depressão, conforme o paciente."
+    ]
+  },
+  "midazolam": {
+    "alvos": [
+      "Ansiedade (pré-procedimento)",
+      "Sedação"
+    ],
+    "latencia": "IV: início em 3 a 5 minutos. IM: início em cerca de 15 minutos, pico em 30 a 60 minutos. A recuperação (conseguir ficar de pé e andar) costuma levar 2 a 6 horas após o despertar.",
+    "se_nao_funciona": [
+      "Aumentar a dose ou trocar de agente."
+    ],
+    "potencializacao": [
+      "Estratégias de potencialização não foram adequadamente estudadas"
+    ],
+    "exames": [
+      "Nenhum de rotina em indivíduos saudáveis; monitorização clínica e respiratória durante e após a administração."
+    ],
+    "mecanismo_ea": [
+      "Ação excessiva nos receptores benzodiazepínicos; a que se estende após o procedimento causa sedação, amnésia e ataxia."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e intensa; é o efeito buscado, mas pode haver sedação excessiva.",
+    "ea_graves": [
+      "Depressão respiratória, apneia e parada respiratória.",
+      "Parada cardíaca."
+    ],
+    "manejo": [
+      "Esperar ou trocar de agente.",
+      "Efeitos graves ou com risco de vida: flumazenil."
+    ],
+    "dicas_dose": [
+      "IV em adultos: 1 a 2,5 mg, aplicados em 2 minutos; observar por mais 2 minutos ou mais e aguardar 3 a 5 minutos entre doses; não exceder 2,5 mg em 2 minutos.",
+      "Idosos IV: 1 a 3,5 mg no total; não exceder 1,5 mg em 2 minutos.",
+      "Solução oral pediátrica (até 16 anos): 0,25 a 1 mg/kg em dose única; máximo geralmente 20 mg.",
+      "Com outros depressores do SNC, reduzir a dose de midazolam à metade ou mais.",
+      "Melhor subdosar, observar e aumentar com prudência sob monitorização."
+    ],
+    "superdosagem": "Sedação, confusão, incoordenação, depressão respiratória e coma.",
+    "longo_prazo": "Não indicado para uso prolongado.",
+    "dependencia": "Dependência e tolerância possíveis, mais com doses altas e em quem tem história de adição.",
+    "suspender": [
+      "Após administração prolongada, não suspender abruptamente."
+    ],
+    "interacoes": [
+      "Depressores do SNC potencializam o efeito (reduzir a dose de midazolam à metade ou mais); alerta em caixa sobre a associação com opioides.",
+      "Inibidores do CYP3A4, como nefazodona e fluvoxamina, reduzem a depuração e elevam os níveis.",
+      "Reduz a concentração alveolar mínima de halotano necessária para anestesia geral."
+    ],
+    "nao_usar": [
+      "Glaucoma de ângulo fechado.",
+      "Alergia comprovada ao midazolam ou a qualquer benzodiazepínico."
+    ],
+    "advertencias": [
+      "Usar apenas em ambiente com monitorização próxima (por exemplo, hospital), pelo risco de depressão e parada respiratória.",
+      "Crianças sedadas devem ser monitorizadas durante todo o procedimento.",
+      "DPOC: doses menores; cautela em qualquer comprometimento respiratório."
+    ],
+    "pop": {
+      "renal": "Meia-vida pode ser mais longa, prolongando a recuperação.",
+      "hepatica": "Depuração reduzida e meia-vida mais longa.",
+      "cardiaca": "Depuração reduzida e meia-vida mais longa.",
+      "idosos": "Depuração reduzida e meia-vida mais longa; IV 1 a 3,5 mg, sem exceder 1,5 mg em 2 minutos.",
+      "criancas": "Farmacocinética semelhante à do adulto na maioria das faixas etárias; recém-nascidos graves têm depuração menor e meia-vida maior. Hipotensão relatada em neonatos com midazolam e fentanil. Dose conforme idade, peso, via e procedimento.",
+      "gestacao": "Sem estudos controlados; atravessa a placenta. Há relatos de hipotonia neonatal com benzodiazepínicos na gestação.",
+      "lactacao": "Passa ao leite; há relatos de dificuldade de sucção, sedação e perda de peso no lactente. Pode ser usado para dor pós-operatória após cesariana."
+    },
+    "vantagens": [
+      "Início muito rápido.",
+      "Formas parenterais."
+    ],
+    "desvantagens": [
+      "Pode sedar em excesso."
+    ],
+    "perolas": [
+      "Meia-vida de eliminação de 1,8 a 6,4 horas, com metabólito ativo; pode ser mais longa em obesos.",
+      "A depuração pode ser menor em mulheres na pós-menopausa; mulheres com síndrome pré-menstrual podem ser menos sensíveis ao fármaco.",
+      "Benzodiazepínicos são o tratamento inicial recomendado da catatonia, embora pouco estudados sistematicamente.",
+      "O Stahl aborda o midazolam em sedação para procedimentos; o uso IM na agitação psicomotora não é tratado no capítulo."
+    ]
+  },
+  "zolpidem": {
+    "alvos": [
+      "Latência para o sono",
+      "Tempo total de sono",
+      "Despertares noturnos"
+    ],
+    "latencia": "Em geral age em menos de 1 hora; tomado com alimento, a absorção é mais lenta e o início pode atrasar.",
+    "se_funciona": [
+      "Melhora a qualidade do sono.",
+      "O efeito sobre o tempo acordado e o número de despertares pode diminuir com o tempo."
+    ],
+    "se_nao_funciona": [
+      "Se a insônia não melhorar em 7 a 10 dias, investigar causa primária psiquiátrica ou clínica (apneia obstrutiva do sono, síndrome das pernas inquietas).",
+      "Aumentar a dose, reforçar a higiene do sono ou trocar de agente."
+    ],
+    "potencializacao": [
+      "Em geral é melhor trocar de agente",
+      "Trazodona",
+      "Agentes com ação anti-histamínica (difenidramina, tricíclicos)"
+    ],
+    "exames": [
+      "Nenhum de rotina em indivíduos saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Ação nos receptores benzodiazepínicos que se estende ao dia seguinte causa sedação diurna, amnésia e ataxia.",
+      "Adaptações de longo prazo pouco estudadas na liberação imediata; estudos crônicos com a forma de liberação prolongada e outros hipnóticos seletivos alfa-1 não mostram tolerância ou dependência notáveis."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e às vezes importante.",
+    "ea_graves": [
+      "Depressão respiratória, sobretudo em superdosagem com outros depressores do SNC.",
+      "Angioedema raro, com risco de obstrução fatal de vias aéreas: suspender.",
+      "Comportamentos complexos durante o sono (dirigir, comer, preparar comida, telefonar) com hipnóticos sedativos."
+    ],
+    "manejo": [
+      "Para evitar problemas de memória, tomar só quando houver uma noite inteira de sono pela frente.",
+      "Reduzir a dose.",
+      "Trocar por hipnótico de ação mais curta.",
+      "Efeitos graves ou com risco de vida: flumazenil."
+    ],
+    "dicas_dose": [
+      "Liberação imediata: homens 10 mg ao deitar, mulheres 5 mg (exigência da FDA, pois a depuração é mais lenta nelas); a FDA recomenda considerar também 5 mg para homens.",
+      "Liberação prolongada: homens 12,5 mg, mulheres 6,25 mg ao deitar.",
+      "Sublingual em dose baixa para despertar no meio da noite (EUA): 3,5 mg em homens e 1,75 mg em mulheres, só se restarem pelo menos 4 horas de cama, e no máximo 1 vez por noite.",
+      "Pacientes de baixo peso podem precisar só de 5 mg (liberação imediata) ou 6,25 mg (liberação prolongada).",
+      "Níveis matinais podem prejudicar a direção; perda de memória transitória é mais provável acima de 10 mg.",
+      "Evitar tomar com ou logo após refeição, que retarda o início.",
+      "Liberação prolongada: engolir inteiro, sem partir, triturar ou mastigar.",
+      "Não prescrever liberação imediata para mais de 1 mês; nos EUA, a forma de liberação prolongada não tem restrição de curto prazo."
+    ],
+    "superdosagem": "Sem mortes relatadas em monoterapia; sedação, ataxia, confusão, hipotensão, depressão respiratória e coma.",
+    "longo_prazo": "Os estudos originais da liberação imediata não avaliaram uso prolongado; a liberação prolongada não é restrita ao curto prazo nos EUA. Despertar no fim da noite (fim do efeito) ou ansiedade diurna (rebote) são mais comuns com a liberação imediata.",
+    "dependencia": "Controlado (lista IV nos EUA). Dependência e tolerância possíveis, mais com doses altas e em quem tem história de adição; provavelmente menores que com benzodiazepínicos.",
+    "suspender": [
+      "Insônia de rebote é possível, mas pouco vista em doses terapêuticas.",
+      "Se usado por mais de algumas semanas, retirar gradualmente."
+    ],
+    "interacoes": [
+      "Potencialização com outros depressores do SNC.",
+      "Sertralina e cetoconazol elevam os níveis; rifampicina reduz.",
+      "Com imipramina ou clorpromazina, pode haver redução do estado de alerta."
+    ],
+    "nao_usar": [
+      "Alergia comprovada ao zolpidem.",
+      "Sublingual para despertar noturno se restarem menos de 4 horas até a hora de acordar."
+    ],
+    "advertencias": [
+      "Insônia pode ser sintoma de outro transtorno.",
+      "Pode causar alterações de pensamento e comportamento; alguns deprimidos têm piora da ideação suicida.",
+      "Cautela extrema em comprometimento respiratório ou apneia obstrutiva do sono.",
+      "Administrar somente ao deitar."
+    ],
+    "pop": {
+      "renal": "Sem ajuste; monitorizar.",
+      "hepatica": "5 mg (liberação imediata), 6,25 mg (liberação prolongada) ou 1,75 mg (sublingual noturno); monitorizar.",
+      "cardiaca": "Sem dados disponíveis.",
+      "idosos": "Iniciar com 5 mg (liberação imediata), 6,25 mg (liberação prolongada) ou 1,75 mg (sublingual noturno); maior risco de quedas e confusão.",
+      "criancas": "Segurança e eficácia não estabelecidas; alucinações relatadas entre 6 e 17 anos.",
+      "gestacao": "Sem estudos controlados; hipnóticos no fim da gestação podem causar abstinência e hipotonia neonatal.",
+      "lactacao": "Passa ao leite; o Stahl recomenda suspender o fármaco ou usar fórmula."
+    },
+    "vantagens": [
+      "Pacientes que precisam de tratamento prolongado, sobretudo com a forma de liberação prolongada."
+    ],
+    "desvantagens": [
+      "Mais caro que alguns outros hipnóticos.",
+      "Menos adequado para quem quer efeito imediato e costuma comer pouco antes de deitar."
+    ],
+    "perolas": [
+      "Um dos hipnóticos mais usados; pode ser preferido aos benzodiazepínicos pelo início rápido, duração curta e perfil de segurança.",
+      "Não é benzodiazepínico, mas liga-se ao receptor benzodiazepínico.",
+      "Aumenta o tempo total de sono e reduz despertares; a forma de liberação prolongada pode ser ainda mais eficaz nesses parâmetros.",
+      "Pode ter menos efeito residual e causar menos dependência que outros hipnóticos, sobretudo em quem não tem história de abuso de substâncias."
+    ]
+  },
+  "zopiclona": {
+    "alvos": [
+      "Latência para o sono",
+      "Despertares noturnos",
+      "Tempo total de sono"
+    ],
+    "latencia": "Em geral age em menos de 1 hora.",
+    "se_funciona": [
+      "Melhora a qualidade do sono.",
+      "O efeito sobre o tempo acordado e o número de despertares pode diminuir com o tempo."
+    ],
+    "se_nao_funciona": [
+      "Se a insônia não melhorar em 7 a 10 dias, investigar causa primária psiquiátrica ou clínica (apneia obstrutiva do sono, síndrome das pernas inquietas).",
+      "Aumentar a dose, reforçar a higiene do sono ou trocar de agente."
+    ],
+    "potencializacao": [
+      "Em geral é melhor trocar de agente",
+      "Trazodona"
+    ],
+    "exames": [
+      "Nenhum de rotina em indivíduos saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Ação nos receptores benzodiazepínicos que se estende ao dia seguinte causa sedação diurna, amnésia e ataxia.",
+      "É mistura de um enantiômero S ativo e um R inativo; as adaptações de longo prazo foram pouco estudadas, mas os estudos crônicos com o isômero ativo (eszopiclona) não mostram tolerância ou dependência notáveis."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e às vezes importante.",
+    "ea_graves": [
+      "Depressão respiratória, sobretudo em superdosagem com outros depressores do SNC.",
+      "Angioedema raro, com risco de obstrução fatal de vias aéreas: suspender.",
+      "Comportamentos complexos durante o sono (dirigir, comer, telefonar) com hipnóticos sedativos."
+    ],
+    "manejo": [
+      "Para evitar problemas de memória, tomar só quando houver uma noite inteira de sono pela frente.",
+      "Reduzir a dose.",
+      "Trocar por hipnótico de ação mais curta.",
+      "Efeitos graves ou com risco de vida: flumazenil."
+    ],
+    "dicas_dose": [
+      "7,5 mg ao deitar, sem titulação.",
+      "Idosos: 3,75 mg, podendo subir para 7,5 mg se necessário e tolerado.",
+      "Não prescrever quantidade para mais de 1 mês.",
+      "O risco de dependência cresce com dose e duração, mas hipnóticos seletivos alfa-1 parecem causar menos tolerância e dependência que os benzodiazepínicos."
+    ],
+    "superdosagem": "Pode ser fatal: incoordenação, alterações de humor, sedação, fraqueza, dificuldade respiratória e perda de consciência.",
+    "longo_prazo": "Em geral não indicado por mais de 4 semanas.",
+    "dependencia": "Dependência e tolerância possíveis, mais com doses altas e em quem tem história de adição; não parece causar muita dependência em quem não tem história de abuso de substâncias.",
+    "suspender": [
+      "Insônia de rebote é possível na primeira noite, mas não parece comum.",
+      "Se usado por mais de algumas semanas, retirar gradualmente."
+    ],
+    "interacoes": [
+      "Potencialização com outros depressores do SNC.",
+      "Metabolizada pelo CYP3A4; inibidores como nefazodona e fluvoxamina podem, em teoria, elevar os níveis."
+    ],
+    "nao_usar": [
+      "Miastenia gravis.",
+      "Comprometimento respiratório grave.",
+      "AVC prévio.",
+      "Insuficiência hepática grave.",
+      "Alergia comprovada à zopiclona."
+    ],
+    "advertencias": [
+      "Insônia pode ser sintoma de outro transtorno.",
+      "Pode causar alterações de pensamento e comportamento; alguns deprimidos têm piora da ideação suicida.",
+      "Cautela extrema em comprometimento respiratório ou apneia obstrutiva do sono.",
+      "Administrar somente ao deitar."
+    ],
+    "pop": {
+      "renal": "Níveis plasmáticos aumentados; pode ser preciso reduzir a dose.",
+      "hepatica": "Contraindicada na insuficiência hepática grave.",
+      "cardiaca": "Ajuste provavelmente desnecessário.",
+      "idosos": "Mais suscetíveis a efeitos adversos; iniciar com 3,75 mg ao deitar.",
+      "criancas": "Segurança e eficácia não estabelecidas.",
+      "gestacao": "Sem estudos controlados; alguns estudos animais mostram efeitos adversos. Hipnóticos no fim da gestação podem causar abstinência e hipotonia neonatal.",
+      "lactacao": "Passa ao leite; o Stahl recomenda suspender o fármaco ou usar fórmula."
+    },
+    "vantagens": [
+      "Quem precisa de tratamento prolongado."
+    ],
+    "desvantagens": [
+      "Mais cara que alguns outros hipnóticos."
+    ],
+    "perolas": [
+      "Pode ser preferida aos benzodiazepínicos pelo início rápido, duração curta e perfil de segurança.",
+      "Não é benzodiazepínico, mas liga-se ao receptor benzodiazepínico.",
+      "Pode ter menos efeito residual que outros hipnóticos.",
+      "Efeitos adversos característicos: gosto amargo, boca seca, perda de apetite, constipação e alteração visual."
+    ]
+  },
+  "eszopiclona": {
+    "alvos": [
+      "Latência para o sono",
+      "Despertares noturnos",
+      "Tempo total de sono"
+    ],
+    "latencia": "Em geral age em menos de 1 hora; refeição pesada e gordurosa retarda a absorção e pode reduzir o efeito sobre a latência do sono.",
+    "se_funciona": [
+      "Melhora a qualidade do sono.",
+      "O efeito sobre o tempo acordado e o número de despertares pode diminuir com o tempo."
+    ],
+    "se_nao_funciona": [
+      "Se a insônia não melhorar em 7 a 10 dias, investigar causa primária psiquiátrica ou clínica (apneia obstrutiva do sono, síndrome das pernas inquietas).",
+      "Aumentar a dose, reforçar a higiene do sono ou trocar de agente."
+    ],
+    "exames": [
+      "Nenhum de rotina em indivíduos saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Ação nos receptores benzodiazepínicos que se estende ao dia seguinte causa sedação diurna, amnésia e ataxia.",
+      "Estudos crônicos não mostram tolerância ou dependência notáveis."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e às vezes importante à noite; sedação residual no dia seguinte é incomum.",
+    "ea_graves": [
+      "Depressão respiratória, sobretudo em superdosagem com outros depressores do SNC.",
+      "Angioedema raro, com risco de obstrução fatal de vias aéreas: suspender.",
+      "Comportamentos complexos durante o sono (dirigir, comer, telefonar) com hipnóticos sedativos."
+    ],
+    "manejo": [
+      "Para evitar problemas de memória ou sedação residual, tomar só quando houver uma noite inteira de sono pela frente.",
+      "Reduzir a dose.",
+      "Trocar por hipnótico de ação mais curta.",
+      "Efeitos graves ou com risco de vida: flumazenil."
+    ],
+    "dicas_dose": [
+      "2 a 3 mg ao deitar, sem titulação (a FDA passou a recomendar início com 1 mg em 2014).",
+      "A maioria dos estudos usou 3 mg ou menos; alguns pacientes com insônia associada a transtornos psiquiátricos podem precisar de mais, mas acima de 3 mg aumentam efeito residual, alucinações e outros efeitos no SNC.",
+      "Idosos e insuficiência hepática grave: iniciar com 1 mg; máximo 2 mg.",
+      "Evitar tomar logo após refeição pesada e gordurosa.",
+      "O efeito adverso mais marcante pode ser o gosto desagradável; outros: sedação, tontura, amnésia dose-dependente, nervosismo, boca seca e cefaleia."
+    ],
+    "superdosagem": "Poucos relatos; provavelmente semelhante à zopiclona, com raras mortes: incoordenação, alterações de humor, sedação, fraqueza, dificuldade respiratória e perda de consciência.",
+    "longo_prazo": "Sem desenvolvimento de tolerância em estudos de até 6 meses; nos EUA não é restrita ao uso de curto prazo.",
+    "dependencia": "Controlada (lista IV nos EUA). Sem tolerância ou dependência notáveis em estudos de até 6 meses.",
+    "suspender": [
+      "Insônia de rebote é possível na primeira noite, mas não parece comum.",
+      "Se usada por mais de algumas semanas, retirar gradualmente."
+    ],
+    "interacoes": [
+      "Potencialização com outros depressores do SNC.",
+      "Metabolizada pelo CYP3A4 e 2E1: inibidores do 3A4 (nefazodona, fluvoxamina) podem elevar os níveis; indutores (rifampicina) podem reduzi-los."
+    ],
+    "nao_usar": [
+      "Alergia comprovada à eszopiclona ou à zopiclona."
+    ],
+    "advertencias": [
+      "Insônia pode ser sintoma de outro transtorno.",
+      "Pode causar alterações de pensamento e comportamento; alguns deprimidos têm piora da ideação suicida.",
+      "Cautela em comprometimento respiratório ou apneia obstrutiva do sono.",
+      "Administrar somente ao deitar."
+    ],
+    "pop": {
+      "renal": "Em geral sem ajuste.",
+      "hepatica": "Sem ajuste na insuficiência leve a moderada; na grave, iniciar com 1 mg e não passar de 2 mg.",
+      "cardiaca": "Ajuste provavelmente desnecessário.",
+      "idosos": "Mais suscetíveis a efeitos adversos; iniciar com 1 mg ao deitar, máximo geralmente 2 mg.",
+      "criancas": "Segurança e eficácia não estabelecidas.",
+      "gestacao": "Sem estudos controlados; hipnóticos no fim da gestação podem causar abstinência e hipotonia neonatal.",
+      "lactacao": "Presume-se que passe ao leite; o Stahl recomenda suspender o fármaco ou usar fórmula."
+    },
+    "vantagens": [
+      "Insônia primária e crônica.",
+      "Quem precisa de tratamento prolongado.",
+      "Deprimidos cuja insônia não melhora com o antidepressivo."
+    ],
+    "desvantagens": [
+      "Mais cara que alguns outros hipnóticos."
+    ],
+    "perolas": [
+      "Segundo o Stahl, o hipnótico mais bem documentado como seguro em uso prolongado, com pouca ou nenhuma tolerância, dependência ou abuso; pode ser considerada até em quem tem história de abuso de substâncias.",
+      "Associada à fluoxetina em depressão com resposta parcial, melhorou não só a insônia residual, mas outros sintomas residuais.",
+      "Tratar a insônia pode prevenir o início de depressão e ajudar a manter a remissão.",
+      "Não é benzodiazepínico, mas liga-se ao receptor benzodiazepínico; insônia de rebote não parece comum."
+    ]
+  },
+  "buspirona": {
+    "alvos": [
+      "Ansiedade"
+    ],
+    "latencia": "Em geral 2 a 4 semanas para eficácia; se não houver efeito em 6 a 8 semanas, pode ser preciso aumentar a dose ou ela pode não funcionar.",
+    "se_funciona": [
+      "O objetivo é a remissão completa e a prevenção de recaídas; os sintomas podem voltar após a suspensão.",
+      "Transtornos de ansiedade crônicos podem exigir manutenção prolongada."
+    ],
+    "se_nao_funciona": [
+      "Trocar por benzodiazepínico ou antidepressivo."
+    ],
+    "potencializacao": [
+      "A buspirona é usada principalmente como potencializadora de ISRS ou IRSN",
+      "Hipnótico sedativo para a insônia"
+    ],
+    "exames": [
+      "Nenhum de rotina em indivíduos saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Agonismo parcial serotoninérgico em regiões do cérebro e do corpo e em receptores diferentes dos responsáveis pela ação terapêutica."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Ocorre em minoria significativa; mais provável acima de 20 mg/dia.",
+    "ea_graves": [
+      "Sintomas cardíacos raros."
+    ],
+    "manejo": [
+      "Esperar: tontura, cefaleia, nervosismo e náuseas costumam ceder.",
+      "Reduzir a dose.",
+      "Dividir a dose diária em 3, 4 ou mais tomadas.",
+      "Trocar de agente."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 20 a 30 mg/dia.",
+      "Início com 15 mg/dia em 2 tomadas; aumentar 5 mg/dia a cada 2 a 3 dias até o efeito desejado; máximo geralmente 60 mg/dia.",
+      "Precisa de 2 a 3 tomadas diárias para efeito pleno.",
+      "O alimento altera a absorção: tomar sempre da mesma forma em relação às refeições."
+    ],
+    "superdosagem": "Sem mortes relatadas em monoterapia; sedação, tontura, miose, náuseas e vômitos.",
+    "longo_prazo": "Dados limitados sugerem que é segura.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Em geral não precisa de retirada gradual; praticamente sem sintomas de abstinência."
+    ],
+    "interacoes": [
+      "IMAO: contraindicada, inclusive até 14 dias após a suspensão do IMAO (uso só por especialista).",
+      "Inibidores do CYP3A4 (fluoxetina, fluvoxamina, nefazodona) reduzem a depuração e elevam os níveis: pode ser preciso reduzir a dose de buspirona.",
+      "Indutores do CYP3A4 (carbamazepina) aumentam a depuração: pode ser preciso aumentar a dose."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Alergia comprovada à buspirona."
+    ],
+    "pop": {
+      "renal": "Cautela; não recomendada na insuficiência renal grave.",
+      "hepatica": "Cautela; não recomendada na insuficiência hepática grave.",
+      "cardiaca": "Já usada para tratar hostilidade em cardiopatas.",
+      "idosos": "Alguns toleram melhor doses menores.",
+      "criancas": "Estudos de 6 a 17 anos no TAG não mostraram redução significativa da ansiedade, mas o perfil de segurança favorece o uso.",
+      "gestacao": "Sem estudos controlados; estudos animais sem efeitos adversos. Em geral não recomendada, mas pode ser mais segura que outras opções.",
+      "lactacao": "Passa ao leite em pequena quantidade; se o lactente ficar irritado ou sedado, suspender a amamentação ou o fármaco."
+    },
+    "vantagens": [
+      "Perfil de segurança.",
+      "Sem dependência ou abstinência.",
+      "Sem disfunção sexual ou ganho de peso."
+    ],
+    "desvantagens": [
+      "Leva cerca de 4 semanas para agir, enquanto os benzodiazepínicos agem de imediato."
+    ],
+    "perolas": [
+      "Pode ter menos efeitos adversos graves que os benzodiazepínicos, mas também menor eficácia ansiolítica em alguns pacientes.",
+      "Em geral não causa disfunção sexual e pode reduzir a disfunção sexual associada ao TAG e aos antidepressivos serotoninérgicos.",
+      "Costuma ser reservada como potencializadora no tratamento da ansiedade."
+    ]
+  },
+  "hidroxizina": {
+    "alvos": [
+      "Ansiedade",
+      "Tensão muscular esquelética",
+      "Prurido",
+      "Náuseas e vômitos"
+    ],
+    "latencia": "15 a 20 minutos por via oral; nas condições crônicas, o benefício máximo com uso diário pode levar algumas semanas.",
+    "se_funciona": [
+      "Ansiedade de curto prazo: suspender após poucas semanas ou usar conforme necessidade.",
+      "Transtornos de ansiedade crônicos: o objetivo é a remissão completa e a prevenção de recaídas."
+    ],
+    "se_nao_funciona": [
+      "Trocar de agente ou associar potencializador."
+    ],
+    "potencializacao": [
+      "Pode ser usada como adjuvante de ISRS ou IRSN nos transtornos de ansiedade"
+    ],
+    "exames": [
+      "Nenhum de rotina em indivíduos saudáveis.",
+      "Pode elevar falsamente a dosagem urinária de 17-hidroxicorticosteroides em alguns métodos laboratoriais."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio H1: sedação."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e às vezes importante, mas geralmente transitória; costuma haver tolerância, o que permite doses maiores com o tempo.",
+    "ea_graves": [
+      "Convulsões raras, em geral com doses altas.",
+      "Parada cardíaca e morte raras com a forma IM associada a depressores do SNC.",
+      "Depressão respiratória."
+    ],
+    "manejo": [
+      "Esperar: a sedação costuma ser transitória.",
+      "Trocar de agente."
+    ],
+    "dicas_dose": [
+      "Ansiedade (Stahl, critério norte-americano): 50 a 100 mg até 4 vezes ao dia. Na Europa e no Brasil, após a revisão de 2015 sobre QT, o limite em adultos é 100 mg/dia (50 mg/dia em idosos).",
+      "Sedação: 50 a 100 mg por via oral ou 25 a 100 mg IM.",
+      "Prurido: 75 mg/dia em 3 a 4 tomadas.",
+      "Por via oral não precisa de titulação.",
+      "IM de urgência: 50 a 100 mg, repetindo a cada 4 a 6 horas se necessário; passar para via oral assim que possível. Aplicar no quadrante superior externo do glúteo ou na face lateral da coxa; no deltoide só se bem desenvolvido, nunca no terço médio ou inferior do braço.",
+      "Não administrar por via subcutânea, intra-arterial ou IV."
+    ],
+    "superdosagem": "Sedação, hipotensão e possível prolongamento de QTc.",
+    "longo_prazo": "Eficácia documentada até 16 semanas.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Em geral não precisa de retirada gradual."
+    ],
+    "interacoes": [
+      "Com outro depressor do SNC, reduzir a dose do depressor à metade; no pré e pós-operatório, a dose de opioide pode ser reduzida.",
+      "Potencializa efeitos de anticolinérgicos.",
+      "Pode reverter o efeito vasopressor da adrenalina: se precisar de vasopressor, usar noradrenalina ou metaraminol."
+    ],
+    "nao_usar": [
+      "Início da gestação.",
+      "Alergia comprovada à hidroxizina."
+    ],
+    "advertencias": [
+      "Não administrar por via subcutânea, intra-arterial ou IV."
+    ],
+    "pop": {
+      "renal": "Ajuste provavelmente desnecessário.",
+      "hepatica": "Ajuste provavelmente desnecessário.",
+      "cardiaca": "Pode ser usada para ansiedade em cardiopatas.",
+      "idosos": "Alguns toleram melhor doses menores; mais sensíveis a sedação e efeitos anticolinérgicos. Evitar em idosos com demência.",
+      "criancas": "Ansiedade e prurido: 50 a 100 mg/dia divididos a partir de 6 anos; 50 mg/dia divididos abaixo de 6 anos. Sedação: 0,6 mg/kg por via oral ou 1,1 mg/kg IM. Em crianças pequenas, evitar IM na periferia do quadrante superior do glúteo (risco de lesão do nervo ciático). Observar efeitos paradoxais em crianças hiperativas.",
+      "gestacao": "Contraindicada no início da gestação. A forma IM pode ser usada no pré-parto, reduzindo a necessidade de opioide em até 50%.",
+      "lactacao": "Presume-se que passe ao leite; o Stahl recomenda suspender o fármaco ou usar fórmula."
+    },
+    "vantagens": [
+      "Várias formas: cápsulas, comprimidos, solução e injetável.",
+      "Sem potencial de abuso, dependência ou abstinência."
+    ],
+    "desvantagens": [
+      "Transtornos de ansiedade graves.",
+      "Idosos.",
+      "Pacientes com demência."
+    ],
+    "perolas": [
+      "Ansiolítico preferido em pacientes com dermatite ou sintomas cutâneos como prurido.",
+      "O efeito ansiolítico pode ser proporcional ao sedativo.",
+      "Por via IM, pode ser usada na agitação da abstinência alcoólica.",
+      "Pode ser menos eficaz que benzodiazepínicos ou agentes mais novos no manejo da ansiedade."
+    ]
+  },
+  "ramelteona": {
+    "alvos": [
+      "Latência para o sono"
+    ],
+    "latencia": "Em geral age em menos de 1 hora.",
+    "se_funciona": [
+      "Reduz a latência do sono, aumenta o tempo total de sono e pode melhorar a qualidade do sono."
+    ],
+    "se_nao_funciona": [
+      "Se a insônia não melhorar em 7 a 10 dias, investigar causa primária psiquiátrica ou clínica (apneia obstrutiva do sono, síndrome das pernas inquietas).",
+      "Aumentar a dose, reforçar a higiene do sono ou trocar de agente."
+    ],
+    "potencializacao": [
+      "Em geral é melhor trocar de agente",
+      "Eszopiclona, zolpidem",
+      "Trazodona",
+      "Agentes com ação anti-histamínica (difenidramina, tricíclicos)"
+    ],
+    "exames": [
+      "Nenhum de rotina em indivíduos saudáveis.",
+      "Se houver amenorreia, galactorreia, redução de libido ou problemas de fertilidade sem explicação, considerar dosar prolactina e testosterona."
+    ],
+    "mecanismo_ea": [
+      "Ação nos receptores de melatonina que se estende ao dia seguinte poderia, em teoria, causar sonolência, fadiga e lentidão diurnas, mas isso é incomum."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente logo após a dose, mas incomum ao despertar após uma noite de sono.",
+    "ea_graves": [
+      "Angioedema raro: não reexpor quem o apresentou.",
+      "Depressão respiratória em superdosagem com outros depressores do SNC (advertência de classe)."
+    ],
+    "manejo": [
+      "Esperar.",
+      "Tomar só quando houver uma noite inteira de sono pela frente.",
+      "Reduzir a dose.",
+      "Trocar por hipnótico não benzodiazepínico."
+    ],
+    "dicas_dose": [
+      "8 mg ao deitar, sem titulação (dose única aprovada).",
+      "Curva dose-resposta atípica: doses de 4 a 64 mg têm efeitos e efeitos adversos semelhantes, sugerindo um efeito tipo liga-desliga acima de um limiar.",
+      "Como a biodisponibilidade oral é muito baixa e variável, alguns pacientes podem precisar de doses maiores: o Stahl sugere aumentar a dose antes de concluir que não funciona (uso fora da bula).",
+      "Doses de até 160 mg foram estudadas sem sinais de potencial de abuso.",
+      "Não tomar com ou logo após refeição gordurosa, que pode atrasar o início ou reduzir a eficácia."
+    ],
+    "superdosagem": "Sem relatos de superdosagem; sem problemas de segurança ou tolerabilidade em estudos com até 160 mg.",
+    "longo_prazo": "Sem relatos de dependência, tolerância ou abuso; não é restrita ao curto prazo, mas há poucos estudos longos.",
+    "dependencia": "Não causa dependência; é o único hipnótico aprovado nos EUA que não é controlado.",
+    "suspender": [
+      "Sem evidência de insônia de rebote; não precisa de retirada gradual."
+    ],
+    "interacoes": [
+      "Metabolizada principalmente pelo CYP1A2, com participação do 3A4 e 2C.",
+      "Fluvoxamina (inibidor do 1A2) eleva muito os níveis: contraindicada.",
+      "Cetoconazol (3A4) e fluconazol (2C9) podem elevar os níveis; rifampicina e outros indutores podem reduzi-los.",
+      "Cautela com álcool. Sem interação com fluoxetina."
+    ],
+    "nao_usar": [
+      "Com fluvoxamina.",
+      "Insuficiência hepática grave.",
+      "Alergia comprovada à ramelteona."
+    ],
+    "advertencias": [
+      "Insônia pode ser sintoma de outro transtorno.",
+      "Cautela extrema em comprometimento respiratório ou apneia obstrutiva do sono; sem evidência de piora do índice de apneia e hipopneia na DPOC ou apneia leve a moderada, mas não recomendada nos casos graves.",
+      "Administrar somente ao deitar.",
+      "Pode reduzir testosterona ou elevar prolactina, de significado clínico incerto."
+    ],
+    "pop": {
+      "renal": "Em geral sem ajuste.",
+      "hepatica": "Cautela na insuficiência moderada; não recomendada na grave.",
+      "cardiaca": "Ajuste provavelmente desnecessário.",
+      "idosos": "Sem ajuste; absorção e níveis maiores, sem aumento de efeitos adversos.",
+      "criancas": "Segurança e eficácia não estabelecidas.",
+      "gestacao": "Sem estudos controlados.",
+      "lactacao": "Presume-se que passe ao leite; o Stahl recomenda suspender o fármaco ou usar fórmula."
+    },
+    "vantagens": [
+      "Quem precisa de tratamento prolongado.",
+      "Quem precisa de hipnótico e tem história de abuso de substâncias.",
+      "Possivelmente, distúrbios do ritmo circadiano."
+    ],
+    "desvantagens": [
+      "Mais cara que alguns outros hipnóticos.",
+      "Pacientes que precisam de sedação."
+    ],
+    "perolas": [
+      "Primeiro cronohipnótico: estimula receptores de melatonina no núcleo supraquiasmático; o MT1 medeia a supressão desse marca-passo e o MT2, o deslocamento de fase.",
+      "Pode ser útil em distúrbios do ritmo circadiano, como trabalho em turnos e jet lag.",
+      "Sem ação GABAérgica, o que explicaria a ausência de potencial de abuso.",
+      "Pode ter menos efeito residual que outros hipnóticos; rebote não parece comum."
+    ]
+  },
+  "suvorexanto": {
+    "alvos": [
+      "Latência para o sono",
+      "Despertares noturnos",
+      "Tempo total de sono"
+    ],
+    "latencia": "Em geral age em menos de 1 hora; tomar com ou logo após refeição pode atrasar o efeito.",
+    "se_funciona": [
+      "Melhora a qualidade do sono.",
+      "O efeito sobre o tempo acordado e os despertares poderia, em teoria, diminuir com o tempo."
+    ],
+    "se_nao_funciona": [
+      "Se a insônia não melhorar em 7 a 10 dias, investigar causa primária psiquiátrica ou clínica (apneia obstrutiva do sono, síndrome das pernas inquietas).",
+      "Aumentar a dose, reforçar a higiene do sono ou trocar de agente."
+    ],
+    "exames": [
+      "Nenhum de rotina."
+    ],
+    "mecanismo_ea": [
+      "Em teoria, efeitos a jusante do bloqueio dos receptores de orexina."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Frequente e às vezes importante; a bula norte-americana alerta para prejuízo do alerta e da coordenação no dia seguinte.",
+    "ea_graves": [
+      "Raros: paralisia do sono e alucinações hipnagógicas ou hipnopômpicas.",
+      "Raros: sintomas dose-dependentes semelhantes à cataplexia leve."
+    ],
+    "manejo": [
+      "Esperar.",
+      "Tomar só quando houver uma noite inteira de sono pela frente.",
+      "Reduzir a dose.",
+      "Trocar de hipnótico."
+    ],
+    "dicas_dose": [
+      "Iniciar com 10 mg, no máximo 1 vez por noite, até 30 minutos antes de deitar e só se restarem pelo menos 7 horas de sono.",
+      "Quem tolera, mas não responde a 10 mg, pode passar para 15 ou 20 mg; máximo 20 mg.",
+      "Usar a menor dose eficaz.",
+      "Com inibidores moderados do CYP3A4: 5 mg, podendo chegar a 10 mg."
+    ],
+    "superdosagem": "Dados limitados; sedação.",
+    "longo_prazo": "Eficaz em estudos de até 1 ano; não é restrito ao curto prazo.",
+    "dependencia": "Controlado (lista IV nos EUA). Sem evidência de dependência fisiológica ou abstinência com uso prolongado.",
+    "suspender": [
+      "Não precisa de retirada gradual; rebote não parece comum."
+    ],
+    "interacoes": [
+      "Metabolizado pelo CYP3A4.",
+      "Inibidores fortes do CYP3A4: não recomendado.",
+      "Inibidores moderados: reduzir para 5 mg (até 10 mg).",
+      "Indutores do CYP3A4 podem reduzir a eficácia."
+    ],
+    "nao_usar": [
+      "Narcolepsia.",
+      "Uso de inibidores fortes do CYP3A4.",
+      "Alergia comprovada ao suvorexanto."
+    ],
+    "advertencias": [
+      "Insônia pode ser sintoma de outro transtorno.",
+      "Pode causar alterações de pensamento e comportamento; alguns deprimidos têm piora da ideação suicida.",
+      "Cautela em comprometimento respiratório ou apneia obstrutiva do sono.",
+      "Administrar somente ao deitar."
+    ],
+    "pop": {
+      "renal": "Sem ajuste.",
+      "hepatica": "Sem ajuste na insuficiência leve a moderada; não recomendado na grave.",
+      "cardiaca": "Não estudado.",
+      "idosos": "Alguns toleram melhor doses menores.",
+      "criancas": "Segurança e eficácia não estabelecidas.",
+      "gestacao": "Sem estudos controlados.",
+      "lactacao": "Presume-se que passe ao leite; o Stahl recomenda suspender o fármaco ou usar fórmula."
+    },
+    "vantagens": [
+      "Insônia primária e crônica.",
+      "Quem precisa de tratamento prolongado.",
+      "Deprimidos cuja insônia não melhora com o antidepressivo."
+    ],
+    "desvantagens": [
+      "Mais caro que alguns outros hipnóticos."
+    ],
+    "perolas": [
+      "Pode ser seguro em uso prolongado, com pouca ou nenhuma tolerância, dependência ou abuso; pode ser considerado em quem tem história de abuso de substâncias.",
+      "Pode funcionar em insônia que não respondeu a hipnóticos de outros mecanismos (drogas Z, benzodiazepínicos).",
+      "Tratar a insônia pode prevenir depressão maior ou TAG e ajudar a manter a remissão."
+    ]
+  }
+}

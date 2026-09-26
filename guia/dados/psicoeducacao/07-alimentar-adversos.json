@@ -1,0 +1,1110 @@
+{
+ "Compulsão alimentar": [
+  {
+   "id": "o-que-e-compulsao",
+   "titulo": "Compulsão alimentar: o que é e como se trata",
+   "subtitulo": "Entender o ciclo é o primeiro passo para sair dele",
+   "publico": "Paciente e família",
+   "figura": "ciclo-compulsao",
+   "figura_legenda": "Dieta rígida, emoções difíceis e culpa alimentam novos episódios.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "No transtorno de compulsão alimentar, a pessoa tem **episódios** em que come uma quantidade muito grande de comida em pouco tempo, com a sensação de **perder o controle**: não consegue parar nem escolher o que ou quanto come.\n\nDepois vêm vergonha, culpa e tristeza. Diferente da bulimia, a pessoa não vomita nem usa laxantes de forma regular. É um problema de saúde comum e tratável, e **não é falta de força de vontade**."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Como costuma ser um episódio",
+     "itens": [
+      "Comer muito mais rápido que o normal.",
+      "Comer até ficar desconfortavelmente cheio.",
+      "Comer sem sentir fome no corpo.",
+      "Comer escondido, por vergonha da quantidade.",
+      "Sentir culpa, nojo de si ou tristeza depois."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Por que o ciclo se repete",
+     "texto": "Depois de um episódio, é comum prometer uma dieta muito rígida ou pular refeições. A fome acumulada e a sensação de estar \"proibido\" de comer certos alimentos aumentam a chance de um novo episódio. Emoções difíceis, estresse, tédio e solidão também funcionam como gatilhos. Por isso, **comer com regularidade** é parte central do tratamento."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Como se trata",
+     "itens": [
+      "**Terapia cognitivo-comportamental (TCC)**: é o tratamento de primeira escolha. Ensina a comer com regularidade, a reconhecer gatilhos e a lidar com as emoções sem usar a comida.",
+      "**Remédios**: podem ajudar em alguns casos. A lisdexanfetamina é o remédio com melhor estudo; topiramato e alguns antidepressivos são alternativas. Cada um tem efeitos colaterais e cuidados, que a equipe vai explicar.",
+      "**Saúde do corpo**: pressão, glicose, colesterol e peso são acompanhados junto, sem culpa e sem dietas radicais.",
+      "**Outras condições**: depressão e ansiedade são comuns junto com a compulsão e também merecem tratamento."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "É só fechar a boca.",
+       "fato": "Compulsão alimentar é um transtorno com causas biológicas, emocionais e de hábito. Culpa e dietas duras costumam piorar o quadro."
+      },
+      {
+       "mito": "Primeiro preciso emagrecer, depois trato a compulsão.",
+       "fato": "O caminho costuma ser o contrário: reduzir os episódios vem primeiro. Dietas muito restritivas aumentam a compulsão."
+      },
+      {
+       "mito": "Se tive um episódio, o dia está perdido.",
+       "fato": "Um episódio não apaga o progresso. O melhor é voltar à próxima refeição planejada, sem compensar."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Lembre",
+     "texto": "A melhora costuma levar alguns meses. Recaídas acontecem e fazem parte do caminho. Fale com a equipe sobre o que está difícil, sem vergonha."
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de se machucar ou de não querer mais viver.",
+    "Tristeza profunda que não passa e atrapalha a vida."
+   ],
+   "fonte": "DSM-5-TR (APA, 2022); APA Practice Guideline for Eating Disorders 2023; NICE NG69 2017"
+  },
+  {
+   "id": "alimentacao-regular",
+   "titulo": "Alimentação regular: 3 refeições e 2 a 3 lanches",
+   "subtitulo": "Comer em horários previsíveis protege contra a compulsão",
+   "publico": "Paciente",
+   "figura": "rotina-dia",
+   "figura_legenda": "Um ritmo com intervalos de 3 a 4 horas entre as refeições.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que isso funciona",
+     "texto": "Ficar muitas horas sem comer deixa o corpo com muita fome e a cabeça com muita vontade. Isso abre espaço para a compulsão. Comer em **horários combinados**, a cada 3 a 4 horas, ajuda o corpo a confiar que a comida vai chegar.\n\nNo começo, o objetivo não é comer \"certinho\" nem emagrecer. O objetivo é **não pular refeições**."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como começar",
+     "itens": [
+      "Escolha horários fixos: café da manhã, lanche, almoço, lanche, jantar e, se precisar, um lanche à noite.",
+      "Anote os horários e deixe um alarme no celular, se ajudar.",
+      "Coma nesses horários mesmo sem muita fome e mesmo depois de um episódio.",
+      "Entre as refeições, tente não beliscar. Se vier vontade, lembre que a próxima refeição está perto.",
+      "Coma sentado, sem pressa, de preferência sem tela, prestando atenção ao que come.",
+      "Anote tudo no diário, inclusive os episódios. Leve à consulta."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Faça e evite",
+     "sim": [
+      "Planejar as refeições do dia seguinte.",
+      "Ter lanches práticos à mão (fruta, iogurte, pão, castanhas).",
+      "Incluir aos poucos alimentos que você costuma \"proibir\".",
+      "Procurar uma atividade que ocupe as mãos nos horários de maior risco."
+     ],
+     "nao": [
+      "Pular o café da manhã ou o almoço.",
+      "Fazer jejum ou dieta muito restrita para compensar.",
+      "Comprar grandes quantidades dos alimentos que mais disparam episódios.",
+      "Pesar-se várias vezes por dia."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu diário alimentar",
+     "texto": "Marque um X na coluna \"Compulsão\" quando sentir perda de controle. Na última coluna, anote o que estava sentindo ou acontecendo antes.",
+     "colunas": [
+      "Dia e hora",
+      "O que comi e bebi",
+      "Onde e com quem",
+      "Compulsão",
+      "O que senti ou aconteceu antes"
+     ],
+     "linhas_vazias": 8
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meus horários combinados",
+     "linhas_vazias": 4
+    }
+   ],
+   "fonte": "Fairburn, TCC aprimorada (CBT-E); NICE NG69 2017; APA Practice Guideline for Eating Disorders 2023"
+  },
+  {
+   "id": "plano-para-a-vontade",
+   "titulo": "Quando a vontade aperta: meu plano",
+   "subtitulo": "O que fazer nos minutos de maior risco",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A vontade sobe e desce",
+     "texto": "A vontade forte de comer costuma crescer, chegar a um pico e **baixar sozinha** depois de alguns minutos, se você não agir em cima dela. Ter um plano pronto ajuda a atravessar esse momento."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Meus gatilhos mais comuns",
+     "itens": [
+      "Ficar muitas horas sem comer.",
+      "Estar sozinho em casa.",
+      "Fim do dia, cansaço.",
+      "Brigas, tristeza, ansiedade ou raiva.",
+      "Tédio.",
+      "Beber álcool.",
+      "Ter muita comida \"proibida\" em casa."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Quando perceber a vontade",
+     "itens": [
+      "Pare e dê um nome: \"é a vontade de compulsão, ela vai passar\".",
+      "Pergunte: estou com fome de verdade? Se estiver, coma a refeição ou o lanche planejado.",
+      "Se não for fome, adie por 20 minutos e escolha uma atividade da lista abaixo.",
+      "Saia do ambiente onde está a comida.",
+      "Se o episódio acontecer, não se castigue: volte à próxima refeição no horário, sem pular."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Coisas que posso fazer no lugar",
+     "itens": [
+      "Sair para caminhar.",
+      "Tomar banho.",
+      "Ligar ou mandar mensagem para alguém.",
+      "Escovar os dentes.",
+      "Fazer uma respiração lenta por alguns minutos.",
+      "Ouvir música, desenhar, arrumar algo.",
+      "Escrever o que estou sentindo."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meu plano pessoal",
+     "texto": "Escreva as 3 coisas que mais funcionam para você e quem pode ajudar.",
+     "linhas_vazias": 5
+    }
+   ],
+   "fonte": "Fairburn, TCC aprimorada (CBT-E); NICE NG69 2017"
+  }
+ ],
+ "Bulimia nervosa": [
+  {
+   "id": "o-que-e-bulimia",
+   "titulo": "Bulimia nervosa: o que é e como se trata",
+   "subtitulo": "Um ciclo que tem saída",
+   "publico": "Paciente e família",
+   "figura": "ciclo-compulsao",
+   "figura_legenda": "Restrição, compulsão, purgação e culpa se alimentam umas às outras.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Na bulimia nervosa, a pessoa tem episódios de **compulsão alimentar** (come muito, com perda de controle) e depois tenta \"compensar\": vomita, usa laxantes, diuréticos ou chás, faz jejum ou exercício em excesso. O peso e a forma do corpo pesam muito na forma como a pessoa se vê.\n\nMuitas vezes o peso é normal, e por isso o problema fica escondido por anos. A vergonha é grande, mas a bulimia é uma **doença tratável**."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Por que o ciclo continua",
+     "texto": "Depois de compensar, vem a promessa de uma dieta rígida. A fome e a restrição levam a nova compulsão, e a culpa leva a nova compensação.\n\nUm ponto importante: **vomitar e usar laxantes não eliminam a maior parte do que foi comido**. Os laxantes quase não reduzem calorias; eles tiram água e sais minerais do corpo. Ou seja, a compensação traz riscos e não resolve o que promete."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Como se trata",
+     "itens": [
+      "**Terapia cognitivo-comportamental (TCC) específica para bulimia**: é o tratamento de escolha. Trabalha alimentação regular, gatilhos, pensamentos sobre peso e forma e prevenção de recaída.",
+      "**Remédio**: a fluoxetina tem estudos que mostram redução de compulsões e vômitos, em doses mais altas que as usadas na depressão. Outros remédios podem ser usados conforme o caso. A bupropiona não é indicada na bulimia porque aumenta o risco de convulsão.",
+      "**Cuidados com o corpo**: exames de sangue (principalmente o potássio), eletrocardiograma quando indicado e acompanhamento com dentista.",
+      "**Família**: em adolescentes, a participação da família ajuda muito."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Se o peso está normal, não é grave.",
+       "fato": "A bulimia pode causar alterações perigosas no potássio e no coração, com qualquer peso."
+      },
+      {
+       "mito": "É só uma fase, passa sozinho.",
+       "fato": "Sem tratamento, costuma durar anos. Com tratamento, muitas pessoas melhoram bastante."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Para a família",
+     "texto": "Evite brigas, vigilância no banheiro ou comentários sobre peso e corpo. Diga que se preocupa, que não está julgando e que quer ajudar a buscar tratamento."
+    }
+   ],
+   "ajuda": [
+    "Desmaio, tontura forte ao levantar ou sensação de que vai desmaiar.",
+    "Coração muito lento, muito acelerado ou batendo de forma irregular; dor no peito.",
+    "Fraqueza muscular intensa, câimbras fortes ou formigamento que não passa.",
+    "Vômito com sangue ou dor forte na barriga.",
+    "Confusão, sonolência fora do comum ou convulsão.",
+    "Pensamentos de se machucar ou de não querer mais viver."
+   ],
+   "fonte": "DSM-5-TR (APA, 2022); APA Practice Guideline for Eating Disorders 2023; NICE NG69 2017"
+  },
+  {
+   "id": "riscos-da-purgacao",
+   "titulo": "Vômitos e laxantes: riscos e cuidados",
+   "subtitulo": "Proteger o corpo enquanto o tratamento avança",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que a purgação faz no corpo",
+     "texto": "Vômitos, laxantes e diuréticos fazem o corpo perder água e sais minerais, principalmente o **potássio**. Potássio baixo pode causar fraqueza, câimbras e **alterações perigosas nos batimentos do coração**. O ácido do vômito desgasta os dentes e irrita o esôfago. O uso prolongado de laxantes deixa o intestino preguiçoso.\n\nContar para a equipe com que frequência isso acontece não é motivo de vergonha. É o que permite pedir os exames certos e proteger você."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Cuidados enquanto você ainda tem vômitos",
+     "sim": [
+      "Enxaguar a boca com água logo depois de vomitar.",
+      "Esperar um pouco antes de escovar os dentes, para não espalhar o ácido.",
+      "Usar creme dental com flúor e ir ao dentista regularmente.",
+      "Beber líquidos ao longo do dia.",
+      "Fazer os exames de sangue que a equipe pedir."
+     ],
+     "nao": [
+      "Escovar os dentes logo após vomitar.",
+      "Aumentar laxantes, diuréticos ou chás \"detox\" por conta.",
+      "Usar remédios para emagrecer ou hormônio da tireoide sem indicação.",
+      "Parar laxantes de uma vez depois de muito tempo de uso sem conversar com a equipe (pode haver inchaço e intestino preso por um tempo)."
+     ]
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Sinais de alerta",
+     "verde": [
+      "Sem tontura, com energia para as atividades.",
+      "Exames em dia e sem alterações."
+     ],
+     "amarelo": [
+      "Vômitos ou laxantes aumentando.",
+      "Cansaço, câimbras, inchaço nas pernas ou no rosto.",
+      "Dor de garganta frequente, dentes sensíveis.",
+      "Ficar sem menstruar."
+     ],
+     "vermelho": [
+      "Desmaio ou quase desmaio.",
+      "Coração disparado, lento ou irregular.",
+      "Fraqueza muscular intensa.",
+      "Vômito com sangue.",
+      "Confusão mental."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Dúvidas para a próxima consulta",
+     "linhas_vazias": 4
+    }
+   ],
+   "ajuda": [
+    "Desmaio, tontura forte ao levantar ou sensação de que vai desmaiar.",
+    "Coração muito lento, muito acelerado ou batendo de forma irregular; dor no peito.",
+    "Fraqueza muscular intensa, câimbras fortes ou formigamento que não passa.",
+    "Vômito com sangue ou dor forte na barriga.",
+    "Confusão, sonolência fora do comum ou convulsão.",
+    "Pensamentos de se machucar ou de não querer mais viver."
+   ],
+   "fonte": "APA Practice Guideline for Eating Disorders 2023; Medical Emergencies in Eating Disorders (MEED), RCPsych 2022"
+  },
+  {
+   "id": "diario-bulimia",
+   "titulo": "Comer com regularidade e registrar",
+   "subtitulo": "O diário é uma ferramenta da terapia, não um julgamento",
+   "publico": "Paciente",
+   "figura": "rotina-dia",
+   "figura_legenda": "3 refeições e 2 a 3 lanches, sem longos jejuns.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que comer com regularidade",
+     "texto": "Pular refeições e fazer jejum depois de um episódio é o que mais alimenta a próxima compulsão. O primeiro passo da terapia é comer **3 refeições e 2 a 3 lanches por dia**, com intervalos de 3 a 4 horas, mesmo que você tenha medo de engordar.\n\nNo começo o peso pode oscilar um pouco por causa da água. Isso não é ganho de gordura e costuma se estabilizar."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como usar o diário",
+     "itens": [
+      "Anote logo depois de comer, não no fim do dia.",
+      "Escreva tudo, inclusive episódios e vômitos. Ninguém vai julgar.",
+      "Marque o que sentiu antes e o que aconteceu.",
+      "Leve o diário para a terapia: é daí que saem as estratégias."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu diário",
+     "texto": "C = compulsão; V = vômito; L = laxante ou diurético.",
+     "colunas": [
+      "Dia e hora",
+      "O que comi e bebi",
+      "C",
+      "V ou L",
+      "O que senti ou aconteceu antes"
+     ],
+     "linhas_vazias": 8
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Depois de um episódio",
+     "texto": "Não compense. Volte à próxima refeição no horário combinado. Isso quebra o ciclo."
+    }
+   ],
+   "fonte": "Fairburn, TCC aprimorada (CBT-E); NICE NG69 2017"
+  }
+ ],
+ "Anorexia nervosa": [
+  {
+   "id": "o-que-e-anorexia",
+   "titulo": "Anorexia nervosa: o que é e como se trata",
+   "subtitulo": "Uma doença séria, com tratamento e recuperação possível",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Na anorexia nervosa, a pessoa come muito menos do que o corpo precisa, chega a um **peso baixo** e tem **muito medo de engordar**. Muitas vezes não percebe o quanto está magra ou o quanto a situação é grave. Pode haver também exercício em excesso, vômitos ou uso de laxantes.\n\nNão é vaidade nem escolha. É uma doença que afeta o cérebro e o corpo, e é uma das condições de saúde mental com **maior risco para a vida**. Por isso, o tratamento precisa ser levado a sério desde o início."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "O que a desnutrição faz",
+     "texto": "O cérebro com pouca energia fica mais rígido e ansioso, com pensamentos fixos em comida, peso e calorias. Isso piora o medo de comer, e o ciclo se fecha. Por isso, **recuperar o peso é parte do tratamento**, e não apenas o resultado dele.\n\nNo corpo, podem surgir frio, tontura, cabelo e unhas fracos, batimento lento, intestino preso, fim da menstruação e perda de massa óssea."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Como se trata",
+     "itens": [
+      "**Realimentação acompanhada**: recuperar o peso aos poucos, com plano alimentar e exames. Nos primeiros dias, o corpo precisa de monitorização, porque voltar a comer depois de muito tempo pode alterar sais minerais do sangue (síndrome de realimentação).",
+      "**Psicoterapia**: em crianças e adolescentes, o **tratamento baseado na família** é a primeira escolha. Em adultos, há terapias específicas, como a TCC aprimorada e o MANTRA.",
+      "**Remédios**: não existe remédio que cure a anorexia. Antidepressivos ajudam pouco enquanto o peso está baixo. Em alguns casos, um antipsicótico em dose baixa (olanzapina) ajuda com a ansiedade e o ganho de peso.",
+      "**Local do tratamento**: pode ser no ambulatório, no hospital-dia ou internação, conforme o risco para o corpo."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "É uma escolha, basta querer comer.",
+       "fato": "A doença distorce a forma de ver o corpo e causa medo real de comer. A pessoa precisa de ajuda, não de cobrança."
+      },
+      {
+       "mito": "A culpa é da família.",
+       "fato": "A família não causa a anorexia. Ao contrário: ela é uma das maiores aliadas na recuperação."
+      },
+      {
+       "mito": "Se ainda não está muito magra, não é grave.",
+       "fato": "O risco médico depende também da velocidade da perda de peso, de vômitos e de exames. A avaliação deve ser feita cedo."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Esperança realista",
+     "texto": "A recuperação costuma levar meses a anos, com altos e baixos. Muitas pessoas se recuperam, principalmente quando o tratamento começa cedo."
+    }
+   ],
+   "ajuda": [
+    "Desmaio, tontura forte ao levantar ou sensação de que vai desmaiar.",
+    "Coração muito lento, muito acelerado ou batendo de forma irregular; dor no peito.",
+    "Fraqueza muscular intensa, câimbras fortes ou formigamento que não passa.",
+    "Vômito com sangue ou dor forte na barriga.",
+    "Confusão, sonolência fora do comum ou convulsão.",
+    "Pensamentos de se machucar ou de não querer mais viver."
+   ],
+   "fonte": "DSM-5-TR (APA, 2022); APA Practice Guideline for Eating Disorders 2023; NICE NG69 2017"
+  },
+  {
+   "id": "tratamento-baseado-na-familia",
+   "titulo": "A família no tratamento da anorexia",
+   "subtitulo": "Como funciona o tratamento baseado na família",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A ideia principal",
+     "texto": "No tratamento baseado na família, indicado principalmente para crianças e adolescentes, **os pais ou responsáveis assumem, por um tempo, a tarefa de alimentar** o filho ou a filha, com apoio da equipe. A doença tira da pessoa a capacidade de escolher comer o suficiente. Enquanto isso, a família \"empresta\" essa capacidade.\n\nA família **não causou** a anorexia. Ela é chamada porque é quem mais pode ajudar."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "As três fases",
+     "itens": [
+      "**Recuperar o peso**: os pais decidem o que, quanto e quando se come, e acompanham todas as refeições. A equipe orienta e acompanha o peso e a saúde.",
+      "**Devolver o controle aos poucos**: quando o peso melhora e as refeições ficam mais tranquilas, a pessoa volta a decidir parte da alimentação, passo a passo.",
+      "**Retomar a vida**: o foco passa para escola, amizades, independência e prevenção de recaídas."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Atitudes que ajudam",
+     "sim": [
+      "Separar a pessoa da doença: \"estamos contra a anorexia, não contra você\".",
+      "Manter firmeza e carinho ao mesmo tempo.",
+      "Os adultos combinarem as regras entre si e falarem a mesma língua.",
+      "Elogiar o esforço, não o corpo.",
+      "Cuidar também dos irmãos e de si mesmos.",
+      "Levar dúvidas e dificuldades para a equipe."
+     ],
+     "nao": [
+      "Negociar quantidades durante a refeição.",
+      "Discutir calorias, dietas ou peso na mesa.",
+      "Culpar a pessoa ou a si mesmos.",
+      "Comentar o corpo, o seu ou o de outras pessoas.",
+      "Desistir depois de uma refeição difícil: amanhã é outra chance."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Obrigar a comer vai estragar nossa relação.",
+       "fato": "A firmeza calma e amorosa protege a vida. Muitas pessoas recuperadas dizem depois que foi importante a família não ter desistido."
+      },
+      {
+       "mito": "Temos que esperar que ela ou ele queira se tratar.",
+       "fato": "A doença costuma impedir essa vontade. Em jovens, os responsáveis podem e devem tomar a frente."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Cuidem de vocês",
+     "texto": "Esse trabalho é cansativo. Revezem, peçam ajuda à equipe e ao CAPS ou à UBS da sua região, e reservem momentos de descanso."
+    }
+   ],
+   "fonte": "Lock e Le Grange, Treatment Manual for Anorexia Nervosa: A Family-Based Approach; NICE NG69 2017; APA 2023"
+  },
+  {
+   "id": "hora-da-refeicao",
+   "titulo": "Na hora da refeição: guia prático",
+   "subtitulo": "Antes, durante e depois de comer",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "lista",
+     "titulo": "Antes",
+     "itens": [
+      "Planeje o cardápio com antecedência, de acordo com o que a equipe orientou. Não pergunte \"o que você quer comer?\".",
+      "Sirva o prato já pronto, na quantidade combinada.",
+      "Deixe a mesa tranquila: sem TV, sem celular, sem discussões pendentes."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Durante",
+     "itens": [
+      "Fale de assuntos leves, que não sejam comida, peso ou corpo.",
+      "Se houver resistência, repita com calma: \"você precisa comer isso agora; eu vou ficar aqui com você\".",
+      "Não discuta com a doença nem entre em barganhas. Poucas palavras, tom calmo.",
+      "Combine um tempo razoável para terminar, sem pressa e sem arrastar por horas."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Depois",
+     "itens": [
+      "Fique junto por um tempo (algo como 30 a 60 minutos) com uma atividade tranquila: jogo, série, conversa.",
+      "Isso reduz a vontade de vomitar ou de fazer exercício para compensar.",
+      "Se a refeição foi difícil, não retome a briga. Reconheça o esforço."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Sinais para contar à equipe",
+     "itens": [
+      "Esconder ou jogar comida fora.",
+      "Ir ao banheiro logo após comer.",
+      "Exercício escondido ou excessivo.",
+      "Beber muita água antes da pesagem.",
+      "Tontura, desmaio, frio intenso.",
+      "Tristeza profunda, isolamento ou falas de morte."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "O que funcionou em casa",
+     "linhas_vazias": 4
+    }
+   ],
+   "fonte": "Lock e Le Grange, Family-Based Treatment; NICE NG69 2017"
+  },
+  {
+   "id": "sinais-de-risco-medico",
+   "titulo": "Sinais de risco médico na anorexia",
+   "subtitulo": "Quando procurar atendimento sem esperar a consulta",
+   "publico": "Paciente e família",
+   "figura": "semaforo",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que ficar atento",
+     "texto": "A desnutrição afeta o coração, a pressão, a glicose e os sais minerais do sangue. Às vezes a pessoa parece bem, mas os exames mostram risco. Por isso a equipe pede **pesagem, pressão, frequência cardíaca, exames de sangue e eletrocardiograma** com regularidade.\n\nNo começo da realimentação, o corpo pode ter queda de fósforo, potássio e magnésio (síndrome de realimentação). Por isso, os primeiros dias de aumento da comida devem ser acompanhados de perto."
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Semáforo de risco",
+     "verde": [
+      "Peso estável ou subindo, conforme o plano.",
+      "Consegue fazer as refeições combinadas.",
+      "Sem tontura, com exames em dia."
+     ],
+     "amarelo": [
+      "Perda de peso continuando.",
+      "Pulando refeições ou comendo cada vez menos.",
+      "Frio intenso, mãos roxas, cansaço forte.",
+      "Exercício que não consegue parar.",
+      "Vômitos ou laxantes."
+     ],
+     "vermelho": [
+      "Desmaio ou tontura forte ao levantar.",
+      "Coração muito lento, irregular ou dor no peito.",
+      "Recusa total de comer ou beber.",
+      "Confusão ou fraqueza que impede ficar de pé.",
+      "Pensamentos de suicídio."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Em caso de sinal vermelho",
+     "texto": "Procure uma emergência ou chame o SAMU 192. Leve a lista de remédios e, se tiver, os últimos exames. Informe que se trata de uma pessoa com anorexia nervosa."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Contatos da equipe e do serviço de referência",
+     "linhas_vazias": 4
+    }
+   ],
+   "ajuda": [
+    "Desmaio ou tontura forte ao levantar.",
+    "Batimento muito lento, irregular ou dor no peito.",
+    "Recusa de comida e de líquidos.",
+    "Confusão, convulsão ou fraqueza intensa.",
+    "Vômitos repetidos.",
+    "Pensamentos de se machucar ou de não querer mais viver."
+   ],
+   "fonte": "Medical Emergencies in Eating Disorders (MEED), RCPsych 2022; APA Practice Guideline for Eating Disorders 2023"
+  }
+ ],
+ "Ganho de peso por psicofármacos": [
+  {
+   "id": "peso-desde-o-inicio",
+   "titulo": "Remédio e peso: o que fazer desde o início",
+   "subtitulo": "Prevenir é mais fácil do que reverter",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que alguns remédios aumentam o peso",
+     "texto": "Alguns remédios usados em saúde mental aumentam o **apetite** e mudam a forma como o corpo usa açúcar e gordura. Os que mais fazem isso são clozapina, olanzapina, mirtazapina, valproato e lítio, além de outros antipsicóticos e alguns antidepressivos.\n\nO ganho costuma ser **maior nos primeiros meses** e em pessoas jovens. Por isso, os cuidados devem começar junto com o remédio, e não só quando o peso já subiu. **Não pare o remédio por conta própria**: converse com a equipe, que tem várias opções."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Alimentação no dia a dia",
+     "sim": [
+      "Beber água no lugar de refrigerante e suco adoçado.",
+      "Montar metade do prato com verduras e legumes.",
+      "Ter frutas e lanches simples por perto para a fome entre refeições.",
+      "Comer devagar e em horários regulares.",
+      "Pedir orientação de nutricionista na UBS ou no serviço."
+     ],
+     "nao": [
+      "Beliscar o dia todo.",
+      "Comer em frente à TV ou ao celular.",
+      "Fazer dietas radicais, que costumam falhar.",
+      "Deixar doces e salgadinhos à vista."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Movimento e rotina",
+     "itens": [
+      "Procure se movimentar quase todos os dias: caminhar 30 minutos já ajuda. Se estiver parado há muito tempo, comece com 10 minutos.",
+      "Escolha algo de que goste: dança, bicicleta, futebol, academia ao ar livre.",
+      "Durma em horários regulares; noites mal dormidas aumentam a fome.",
+      "Parar de fumar protege o coração; o SUS oferece tratamento gratuito para o tabagismo."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Exames que a equipe acompanha",
+     "colunas": [
+      "O quê",
+      "Quando"
+     ],
+     "linhas": [
+      [
+       "Peso",
+       "Antes de começar, todo mês nos 3 primeiros meses e depois a cada 3 meses"
+      ],
+      [
+       "Cintura",
+       "Antes de começar e depois periodicamente"
+      ],
+      [
+       "Pressão arterial",
+       "Nas consultas"
+      ],
+      [
+       "Glicose e colesterol no sangue",
+       "Antes de começar, por volta de 3 meses e depois uma vez por ano"
+      ]
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu registro",
+     "colunas": [
+      "Data",
+      "Peso (kg)",
+      "Cintura (cm)",
+      "Observações"
+     ],
+     "linhas_vazias": 7
+    }
+   ],
+   "fonte": "Consenso ADA/APA 2004 de monitorização metabólica; Maudsley Prescribing Guidelines 2025"
+  },
+  {
+   "id": "quando-o-peso-sobe",
+   "titulo": "Quando o peso sobe: opções que a equipe pode discutir",
+   "subtitulo": "Trocar, associar ou tratar a obesidade",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Quando conversar",
+     "texto": "Um aumento de **5% ou mais** do peso que você tinha antes do remédio já é motivo para a equipe agir. Por exemplo, quem pesava 70 kg e passou a pesar 73,5 kg ou mais. Se o aumento vier muito rápido, no primeiro mês, é ainda mais importante avisar.\n\nAlimentação e atividade física continuam sendo a base, mas nem sempre bastam. Isso **não é falha sua**: o remédio tem um efeito real no apetite e no metabolismo."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que pode ser feito",
+     "itens": [
+      "**Rever o remédio**: às vezes é possível trocar para outro com menor efeito no peso (por exemplo, aripiprazol, lurasidona ou ziprasidona). A troca é feita pela equipe, aos poucos, pesando o risco de a doença voltar.",
+      "**Metformina**: remédio usado no diabetes que tem os melhores estudos para frear o ganho de peso causado por antipsicóticos. Pode causar enjoo e diarreia no início.",
+      "**Análogos de GLP-1** (como semaglutida e liraglutida): remédios injetáveis para obesidade que mostraram bons resultados também em pessoas que usam antipsicóticos. Podem causar enjoo e intestino preso; o custo e o acesso variam.",
+      "**Outros**: em alguns casos a equipe pode propor topiramato ou associar aripiprazol à clozapina."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Importante",
+     "texto": "Não use remédios para emagrecer, chás ou fórmulas por conta própria. Alguns interagem com os remédios psiquiátricos ou podem piorar ansiedade, sono e humor."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Perguntas para levar à consulta",
+     "linhas_vazias": 5
+    }
+   ],
+   "fonte": "Consenso ADA/APA 2004; Maudsley Prescribing Guidelines 2025"
+  }
+ ],
+ "EPS e acatisia": [
+  {
+   "id": "efeitos-no-movimento",
+   "titulo": "Efeitos dos antipsicóticos nos movimentos",
+   "subtitulo": "O que é acatisia, distonia e parkinsonismo e o que avisar",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que acontece",
+     "texto": "Os antipsicóticos agem na dopamina, uma substância do cérebro que também participa do controle dos movimentos. Por isso, alguns podem causar **efeitos nos músculos e nos movimentos**. São conhecidos pela sigla EPS (efeitos extrapiramidais). Eles têm tratamento, e avisar cedo faz diferença."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Os principais tipos",
+     "colunas": [
+      "Nome",
+      "Como é",
+      "Quando costuma surgir"
+     ],
+     "linhas": [
+      [
+       "Distonia aguda",
+       "Músculos que \"travam\": pescoço torto, olhos virando para cima, língua ou mandíbula presas",
+       "Horas a poucos dias após começar ou aumentar a dose"
+      ],
+      [
+       "Acatisia",
+       "Inquietação por dentro, não conseguir ficar parado, precisar andar de um lado para o outro, angústia",
+       "Dias a semanas"
+      ],
+      [
+       "Parkinsonismo",
+       "Rigidez, lentidão, tremor com as mãos paradas, rosto com pouca expressão, passos curtos, baba",
+       "Semanas"
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Atenção à acatisia",
+     "texto": "A acatisia é muito desconfortável e às vezes é confundida com ansiedade ou piora da doença. Se você sente que \"não cabe na própria pele\", diga isso com essas palavras para a equipe. Ela pode aumentar a angústia e até pensamentos de se machucar, por isso **merece atenção rápida**. O tratamento costuma ser ajustar a dose, trocar o remédio ou acrescentar outro que alivie a inquietação."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "O que fazer",
+     "sim": [
+      "Avisar a equipe logo que notar algo diferente nos movimentos.",
+      "Descrever o que sente e quando começou.",
+      "Levar a lista de todos os remédios que usa."
+     ],
+     "nao": [
+      "Parar o antipsicótico de repente.",
+      "Aumentar a dose por achar que é piora da doença.",
+      "Usar remédio para os movimentos (como biperideno) por conta própria ou por anos sem reavaliação."
+     ]
+    }
+   ],
+   "ajuda": [
+    "Músculos travados no pescoço, na boca ou na língua, principalmente se houver dificuldade para respirar ou engolir.",
+    "Febre alta com rigidez muscular forte, suor e confusão.",
+    "Inquietação intensa com pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "DSM-5-TR (APA, 2022); Maudsley Prescribing Guidelines 2025"
+  },
+  {
+   "id": "familia-observar-movimentos",
+   "titulo": "Para a família: como perceber e ajudar",
+   "subtitulo": "Nem toda inquietação é piora da doença",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "texto": "Quem usa antipsicótico nem sempre consegue explicar o que sente. A família costuma ser a primeira a perceber mudanças no jeito de andar, falar ou se mexer. Anotar o que viu e quando começou ajuda muito a equipe."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Observe e anote",
+     "itens": [
+      "Anda de um lado para o outro, não consegue ficar sentado.",
+      "Fica trocando o peso de uma perna para a outra quando está em pé.",
+      "Movimentos mais lentos, rosto \"parado\", passos curtos.",
+      "Tremor nas mãos quando estão em repouso.",
+      "Mais baba ou dificuldade para engolir.",
+      "Pescoço, olhos ou língua presos em posição estranha.",
+      "Mudança recente de dose ou de remédio."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Como ajudar",
+     "sim": [
+      "Perguntar com calma: \"você está sentindo uma agitação por dentro?\".",
+      "Acompanhar à consulta e contar o que observou.",
+      "Ajudar a manter o remédio como prescrito."
+     ],
+     "nao": [
+      "Chamar a inquietação de birra ou preguiça.",
+      "Dar remédio extra \"para acalmar\" sem orientação."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "O que observei (data e descrição)",
+     "linhas_vazias": 5
+    }
+   ],
+   "ajuda": [
+    "Músculos travados com dificuldade para respirar ou engolir.",
+    "Febre alta com rigidez e confusão.",
+    "Falas de se machucar ou de morte."
+   ],
+   "fonte": "Maudsley Prescribing Guidelines 2025"
+  }
+ ],
+ "Hiperprolactinemia": [
+  {
+   "id": "prolactina-e-sexualidade",
+   "titulo": "Prolactina e sexualidade: vamos conversar sem vergonha",
+   "subtitulo": "Menstruação, mamas, desejo e fertilidade também são assunto da consulta",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é a prolactina",
+     "texto": "A prolactina é um hormônio que, entre outras funções, produz o leite depois do parto. Alguns remédios, principalmente certos antipsicóticos (como risperidona, paliperidona, amissulprida, sulpirida e haloperidol), podem **aumentar a prolactina**. Quando ela fica alta por muito tempo, os hormônios sexuais caem.\n\nMuita gente sente vergonha de falar disso ou acha que não tem relação com o remédio. Tem, e **existe o que fazer**."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Sinais para contar à equipe",
+     "itens": [
+      "Menstruação irregular ou que parou.",
+      "Saída de leite ou líquido pelas mamas.",
+      "Aumento ou dor nas mamas (também em homens).",
+      "Menos desejo sexual.",
+      "Dificuldade de ereção ou para chegar ao orgasmo.",
+      "Dificuldade para engravidar."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que a equipe pode fazer",
+     "itens": [
+      "Pedir um exame de sangue da prolactina e outros exames, como teste de gravidez e tireoide.",
+      "Diminuir a dose ou trocar por um remédio que mexe menos com a prolactina.",
+      "Associar um segundo remédio que ajuda a baixar a prolactina.",
+      "Se o valor for muito alto ou houver dor de cabeça e alteração da visão, investigar a hipófise com exame de imagem."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Gravidez e contracepção",
+     "texto": "A prolactina alta pode dificultar engravidar. Quando o remédio é trocado, a fertilidade pode **voltar rápido**. Se você não quer engravidar, converse sobre um método contraceptivo. Se quer, planeje com a equipe antes."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Longo prazo",
+     "texto": "Com hormônios sexuais baixos por muito tempo, os ossos podem ficar mais fracos. Por isso vale tratar, mesmo quando os sintomas parecem pequenos. Não pare nem troque o remédio por conta: a mudança precisa ser planejada."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "O que quero perguntar",
+     "linhas_vazias": 4
+    }
+   ],
+   "ajuda": [
+    "Dor de cabeça forte e persistente com alteração da visão."
+   ],
+   "fonte": "Endocrine Society Clinical Practice Guideline 2011; Maudsley Prescribing Guidelines 2025"
+  }
+ ],
+ "Discinesia tardia": [
+  {
+   "id": "o-que-e-discinesia-tardia",
+   "titulo": "Discinesia tardia: movimentos involuntários",
+   "subtitulo": "Perceber cedo ajuda a proteger",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "A discinesia tardia são **movimentos que a pessoa não controla**, que podem aparecer depois de meses ou anos de uso de antipsicóticos e de alguns remédios para enjoo (como metoclopramida). O nome \"tardia\" vem daí: ela surge tarde.\n\nÉ mais comum com antipsicóticos mais antigos, em pessoas mais velhas e em mulheres, mas pode acontecer com qualquer antipsicótico. Muitas vezes a própria pessoa não percebe, e quem nota é a família."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Como pode aparecer",
+     "itens": [
+      "Mastigar sem ter nada na boca.",
+      "Mexer ou pôr a língua para fora.",
+      "Estalar ou franzir os lábios, fazer caretas.",
+      "Piscar muito.",
+      "Movimentos dos dedos, das mãos ou dos pés.",
+      "Balançar o tronco ou os quadris."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que a equipe faz",
+     "itens": [
+      "Examina os movimentos regularmente, muitas vezes com uma escala própria.",
+      "Revê a necessidade, a dose e o tipo de antipsicótico. Trocar para clozapina ou quetiapina pode ajudar.",
+      "Suspende, se possível, remédios que pioram o quadro, como biperideno e outros anticolinérgicos.",
+      "Existem remédios específicos para discinesia tardia em outros países, mas eles ainda não estão disponíveis no Brasil."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Faça e evite",
+     "sim": [
+      "Avisar a equipe assim que notar movimentos novos.",
+      "Manter as consultas de acompanhamento.",
+      "Contar se usa remédio para enjoo ou para o estômago."
+     ],
+     "nao": [
+      "Parar o antipsicótico por conta própria: os movimentos podem piorar por um tempo e a doença pode voltar.",
+      "Tomar biperideno por conta para \"tratar\" os movimentos."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Com honestidade",
+     "texto": "Às vezes a discinesia melhora devagar depois dos ajustes; às vezes permanece. Quanto mais cedo for percebida, maiores as chances de melhora."
+    }
+   ],
+   "fonte": "DSM-5-TR (APA, 2022); APA Practice Guideline for Schizophrenia 2020; Maudsley Prescribing Guidelines 2025"
+  }
+ ],
+ "Disfunção sexual": [
+  {
+   "id": "remedio-e-vida-sexual",
+   "titulo": "Remédio e vida sexual",
+   "subtitulo": "Um efeito comum, que pode e deve ser conversado",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Você não está sozinho",
+     "texto": "Mudanças na vida sexual são um dos efeitos mais comuns de alguns remédios, principalmente dos antidepressivos (como sertralina, fluoxetina, paroxetina, escitalopram, venlafaxina e duloxetina). Podem afetar **até metade das pessoas** que usam esses remédios. Alguns antipsicóticos também podem causar, por aumento da prolactina.\n\nMuita gente desiste do tratamento por isso e não conta ao médico. Falar sobre o assunto é normal na consulta e **abre caminho para soluções**."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "O que pode acontecer",
+     "itens": [
+      "Menos vontade de ter relações.",
+      "Dificuldade de excitação ou de lubrificação.",
+      "Dificuldade de ereção.",
+      "Demora ou dificuldade para chegar ao orgasmo.",
+      "Alteração na ejaculação."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Nem sempre é só o remédio",
+     "texto": "A própria depressão e a ansiedade diminuem o desejo. Álcool, cigarro, diabetes, pressão alta, outros remédios, cansaço e problemas no relacionamento também contam. A equipe vai olhar para tudo isso junto com você."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Opções que a equipe pode discutir",
+     "itens": [
+      "Aguardar algumas semanas, pois às vezes o efeito diminui.",
+      "Ajustar a dose.",
+      "Trocar para um remédio com menos efeito sexual (como bupropiona, mirtazapina, vortioxetina ou agomelatina).",
+      "Associar outro remédio que ajuda a reduzir o efeito.",
+      "Usar remédio para a ereção, quando indicado."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Faça e evite",
+     "sim": [
+      "Contar à equipe o que mudou e desde quando.",
+      "Conversar com a parceria, se quiser, sobre o que está acontecendo."
+     ],
+     "nao": [
+      "Parar o remédio ou pular doses no fim de semana por conta: isso pode causar sintomas de retirada e recaída.",
+      "Comprar remédios para ereção sem avaliação."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "O que quero contar ou perguntar",
+     "linhas_vazias": 4
+    }
+   ],
+   "fonte": "DSM-5-TR (APA, 2022); CANMAT 2023; Maudsley Prescribing Guidelines 2025"
+  }
+ ],
+ "Sialorreia": [
+  {
+   "id": "salivacao-clozapina",
+   "titulo": "Salivação com a clozapina: dicas práticas",
+   "subtitulo": "Travesseiro molhado tem jeito",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que acontece",
+     "texto": "Excesso de saliva é um efeito muito comum da clozapina, e **costuma piorar à noite**. O remédio aumenta a saliva e diminui o reflexo de engolir. Não é perigoso na maioria das vezes, mas incomoda, dá vergonha e pode levar a engasgos. Por isso, merece ser tratado e não apenas tolerado."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Dicas para a noite",
+     "itens": [
+      "Coloque uma toalha sobre o travesseiro.",
+      "Durma de lado e com a cabeceira um pouco mais alta.",
+      "Pergunte à equipe se é possível mudar o horário ou a divisão da dose noturna."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Dicas para o dia",
+     "itens": [
+      "Mascar chiclete sem açúcar estimula a pessoa a engolir com mais frequência.",
+      "Lembre-se de engolir a saliva de vez em quando, principalmente ao conversar.",
+      "Leve um lenço no bolso.",
+      "Lave e seque bem a pele ao redor da boca para evitar assaduras.",
+      "Mantenha a higiene da boca e as visitas ao dentista."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Tratamentos que a equipe pode propor",
+     "texto": "Existem opções como gotas colocadas embaixo da língua, remédios que diminuem a saliva e, em casos difíceis, aplicação nas glândulas salivares. **Não use por conta própria** remédios que \"secam\" a boca, como biperideno: com a clozapina, eles podem prender muito o intestino e causar confusão."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Intestino preso também importa",
+     "texto": "A clozapina costuma prender o intestino, às vezes de forma grave. Conte à equipe se estiver há mais de 2 ou 3 dias sem evacuar."
+    }
+   ],
+   "ajuda": [
+    "Febre, tosse com catarro ou falta de ar (pode ser pneumonia por engasgo).",
+    "Engasgos frequentes ou dificuldade para engolir.",
+    "Barriga inchada e dura, dor forte, vômitos ou vários dias sem evacuar."
+   ],
+   "fonte": "Maudsley Prescribing Guidelines 2025; Meyer e Stahl, The Clozapine Handbook 2019"
+  }
+ ],
+ "Tremor por psicofármacos": [
+  {
+   "id": "tremor-e-litio",
+   "titulo": "Tremor causado por remédios e o lítio",
+   "subtitulo": "Quando é esperado e quando é sinal de alerta",
+   "publico": "Paciente e família",
+   "figura": "semaforo",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O tremor mais comum",
+     "texto": "Alguns remédios podem causar um **tremor fino nas mãos**, que aparece mais quando você segura algo, escreve ou estica os braços. Os mais ligados a isso são o **lítio**, o valproato e alguns antidepressivos.\n\nCom o lítio, o tremor fino é comum no início do tratamento e muitas vezes diminui com o tempo. Ele não significa, sozinho, que há algo errado. Mas um **tremor forte e grosseiro** pode ser sinal de que o nível de lítio no sangue está alto demais."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que pode piorar o tremor",
+     "itens": [
+      "Café, chá-preto, chimarrão, refrigerantes de cola e energéticos.",
+      "Ansiedade, estresse e cansaço.",
+      "Álcool e a ressaca.",
+      "Dose mais alta ou nível de lítio mais alto."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que pode ajudar",
+     "itens": [
+      "Reduzir a cafeína.",
+      "Tomar o remédio sempre do jeito que foi prescrito.",
+      "Fazer os exames de nível de lítio nas datas marcadas.",
+      "A equipe pode ajustar a dose, o horário ou a forma do remédio, ou indicar outro remédio para o tremor (como propranolol)."
+     ]
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Semáforo do lítio",
+     "verde": [
+      "Tremor fino e estável, que não atrapalha a vida.",
+      "Exames em dia."
+     ],
+     "amarelo": [
+      "Tremor aumentando ou atrapalhando escrever e comer.",
+      "Diarreia, vômitos, muito calor ou pouca água (desidratação eleva o lítio).",
+      "Começou anti-inflamatório (como ibuprofeno ou diclofenaco), diurético ou remédio de pressão: avise a equipe."
+     ],
+     "vermelho": [
+      "Tremor grosseiro junto com vômitos ou diarreia.",
+      "Desequilíbrio ao andar, fala enrolada.",
+      "Confusão, sonolência forte, abalos musculares."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Em caso de sinal vermelho",
+     "texto": "Pode ser intoxicação por lítio. **Não tome a próxima dose** e procure uma emergência no mesmo momento, levando a caixa do remédio."
+    }
+   ],
+   "ajuda": [
+    "Tremor grosseiro com vômitos, diarreia, desequilíbrio, fala enrolada ou confusão em quem usa lítio.",
+    "Sonolência forte ou convulsão."
+   ],
+   "fonte": "DSM-5-TR (APA, 2022); CANMAT/ISBD 2018; Maudsley Prescribing Guidelines 2025"
+  }
+ ]
+}

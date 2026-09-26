@@ -1,0 +1,980 @@
+{
+ "carbamazepina": {
+  "alvos": [
+   "Crises epilépticas",
+   "Instabilidade do humor, sobretudo mania",
+   "Dor neuropática (neuralgia do trigêmeo)"
+  ],
+  "latencia": "Mania aguda: efeito em poucas semanas; otimizar a estabilização do humor pode levar semanas a meses. Crises: redução em cerca de 2 semanas.",
+  "se_funciona": [
+   "Meta é a remissão; manter indefinidamente enquanto houver benefício, para prevenir recorrência de mania e de crises.",
+   "Na dor neuropática crônica, costuma reduzir sem eliminar a dor, que volta ao suspender."
+  ],
+  "se_nao_funciona": [
+   "Resposta parcial é frequente no bipolar: aumentar a dose, trocar ou potencializar.",
+   "Checar adesão e comorbidades (uso de substâncias, doença clínica).",
+   "Trocar para a formulação de liberação prolongada ou para estabilizador mais tolerável."
+  ],
+  "potencializacao": [
+   "Lítio",
+   "Antipsicóticos atípicos (risperidona, olanzapina, quetiapina, ziprasidona, aripiprazol), lembrando que a carbamazepina reduz o nível de vários deles",
+   "Valproato (a carbamazepina reduz o nível do valproato)",
+   "Lamotrigina (a carbamazepina reduz o nível da lamotrigina)",
+   "Antidepressivos com cautela (risco de virada e ciclagem rápida): preferir bupropiona, ISRS ou IRSN; evitar tricíclicos e IMAO"
+  ],
+  "exames": [
+   "Antes de iniciar: hemograma, função hepática, renal e tireoidiana.",
+   "Hemograma a cada 2 a 4 semanas nos 2 primeiros meses, depois a cada 3 a 6 meses.",
+   "Função hepática, renal e tireoidiana a cada 6 a 12 meses; considerar sódio pelo risco de hiponatremia.",
+   "Ascendência asiática: pesquisar HLA-B*15:02 antes de iniciar; se positivo, não usar."
+  ],
+  "mecanismo_ea": [
+   "Efeitos no SNC por ação excessiva em canais de sódio voltagem-dependentes.",
+   "O metabólito carbamazepina-10,11-epóxido responde por muitos efeitos adversos.",
+   "Leve efeito anticolinérgico contribui para sedação e visão turva."
+  ],
+  "peso": "Ocorre em minoria significativa.",
+  "sedacao": "Frequente e dose-dependente; pode não passar em doses altas. Efeitos no SNC bem menores com liberação controlada.",
+  "ea_graves": [
+   "Anemia aplástica e agranulocitose (raras; risco 5 a 8 vezes o da população geral).",
+   "Reações cutâneas graves (Stevens-Johnson, NET), mais prováveis com HLA-B*15:02.",
+   "SIADH com hiponatremia.",
+   "Raros: problemas cardíacos, indução de psicose ou mania, insuficiência hepática.",
+   "Aumento de crises generalizadas em quem tem ausências atípicas.",
+   "Rara ativação de ideação e comportamento suicida (alerta de classe dos anticonvulsivantes): orientar paciente e familiares."
+  ],
+  "manejo": [
+   "Muitos efeitos passam com o tempo; tomar com alimento ou dividir a dose para sintomas gastrointestinais.",
+   "Dose à noite para sedação diurna; trocar para liberação prolongada (pode ser aberta sobre alimento pastoso).",
+   "Leucopenia inicial benigna (até 10%): titulação lenta e monitorização próxima podem permitir reverter a tendência e seguir aumentando.",
+   "Orientar a procurar atendimento com sangramento ou equimoses, aftas, febre, dor de garganta ou infecções.",
+   "Hiponatremia: pode exigir restrição hídrica."
+  ],
+  "dicas_dose": [
+   "Faixa usual de 400 a 1.200 mg/dia; manutenção em adultos em geral 800 a 1.200 mg/dia; alguns precisam de até 1.600 mg/dia.",
+   "Bipolar e epilepsia (13 anos ou mais): 200 mg duas vezes ao dia, com aumentos de até 200 mg/dia por semana, divididos (2 tomadas na liberação prolongada, 3 a 4 nas demais).",
+   "Neuralgia do trigêmeo: 100 mg duas vezes ao dia, aumentando até 200 mg/dia por semana; máximo em geral 1.200 mg/dia.",
+   "Autoindução: o nível cai nas primeiras semanas a meses, e a dose costuma precisar subir.",
+   "Suspensão oral dá picos maiores que o comprimido: começar com dose menor e titular mais devagar.",
+   "Titulação lenta atrasa o efeito, mas melhora a tolerância; ir mais devagar se houver outros sedativos.",
+   "Não partir nem mastigar o comprimido de liberação prolongada."
+  ],
+  "superdosagem": "Pode ser fatal (menor dose fatal conhecida de 3,2 g em adultos e 1,6 g em crianças): vômitos, movimentos involuntários, arritmias, retenção urinária, depressão respiratória, sedação e coma.",
+  "longo_prazo": "Pode reduzir a libido. Manter monitorização de hemograma, sódio e funções hepática, renal e tireoidiana.",
+  "dependencia": "Não causa dependência.",
+  "suspender": [
+   "Reduzir gradualmente e reajustar os fármacos associados, cujos níveis sobem com o fim da indução.",
+   "Retirada rápida aumenta o risco de recaída no bipolar e de crises na epilepsia.",
+   "Sintomas de descontinuação são incomuns."
+  ],
+  "interacoes": [
+   "Substrato e indutor do CYP3A4; induz também 2C9 e, fracamente, 1A2 e 2C19.",
+   "Inibidores do CYP3A4 (nefazodona, fluvoxamina, fluoxetina) elevam o nível; fenobarbital, fenitoína e primidona o reduzem.",
+   "Reduz níveis de clozapina, haloperidol, benzodiazepínicos, varfarina, teofilina, doxiciclina, paracetamol e de anticonvulsivantes (valproato, lamotrigina, topiramato, tiagabina, etossuximida, fenitoína).",
+   "Pode elevar clomipramina, fenitoína e primidona.",
+   "Reduz a eficácia de contraceptivos hormonais.",
+   "Com lítio: maior risco de neurotoxicidade. Com outros anticonvulsivantes: pode alterar a função tireoidiana.",
+   "A suspensão oral não deve ser misturada a outros medicamentos líquidos (precipitado com clorpromazina líquida)."
+  ],
+  "nao_usar": [
+   "História de depressão medular.",
+   "HLA-B*15:02 positivo.",
+   "Alergia comprovada a carbamazepina ou a qualquer composto tricíclico.",
+   "Suspensão oral: intolerância hereditária à frutose."
+  ],
+  "advertencias": [
+   "Estrutura tricíclica: cautela com IMAO, inclusive até 14 dias após suspendê-lo.",
+   "Pode agravar glaucoma de ângulo fechado.",
+   "Cautela em epilepsia mista com ausências atípicas."
+  ],
+  "pop": {
+   "renal": "Eliminação renal: pode ser preciso reduzir a dose.",
+   "hepatica": "Usar com cautela; há casos raros de insuficiência hepática.",
+   "cardiaca": "Usar com cautela.",
+   "idosos": "Mais sensíveis a efeitos adversos; alguns toleram melhor doses menores.",
+   "criancas": "Aprovada para epilepsia nos EUA, com a mesma faixa de nível sérico do adulto. De 6 a 12 anos: 100 mg duas vezes ao dia, aumentos de até 100 mg/dia por semana, manutenção de 400 a 800 mg/dia (máximo 1.000 mg/dia). Até 5 anos: 10 a 20 mg/kg/dia, máximo 35 mg/kg/dia.",
+   "gestacao": "Risco de defeitos de tubo neural e outras malformações no primeiro trimestre; se mantida, ácido fólico 1 mg/dia desde o início e rastreio de malformações. No bipolar, em geral suspender antes de gestação planejada. No bipolar, o puerpério tem alto risco de recaída: se ficou sem medicação na gestação, reintroduzir estabilizador logo após o parto; antipsicóticos atípicos tendem a ser preferíveis na gestação.",
+   "lactacao": "Passa ao leite; o Stahl recomenda suspender ou usar mamadeira. Se mantida, vigiar efeitos hematológicos, irritabilidade e sedação no lactente. No puerpério, atípicos ou valproato podem ser mais seguros."
+  },
+  "vantagens": [
+   "Bipolar e transtornos psicóticos resistentes.",
+   "Quem não respondeu ao lítio ou a outros estabilizadores."
+  ],
+  "desvantagens": [
+   "Quem não pode ou não quer fazer exames de sangue e acompanhamento próximo.",
+   "Intolerância à sedação.",
+   "Gestantes."
+  ],
+  "perolas": [
+   "Primeiro anticonvulsivante de uso amplo no bipolar; aprovada pela FDA para mania aguda e episódio misto na forma de liberação prolongada.",
+   "A liberação prolongada tem melhor evidência e tolerabilidade no bipolar, com menos sedação, diplopia, confusão e ataxia.",
+   "O risco de efeitos graves é maior nos primeiros meses; a sedação costuma melhorar após alguns meses.",
+   "Pode ajudar na fase depressiva e na manutenção do bipolar.",
+   "As interações tornam complexo o uso com outros fármacos."
+  ]
+ },
+ "oxcarbazepina": {
+  "alvos": [
+   "Crises epilépticas (frequência e gravidade)",
+   "Instabilidade do humor, sobretudo mania"
+  ],
+  "latencia": "Mania aguda: efeito em poucas semanas; otimizar a estabilização pode levar semanas a meses. Crises: redução em cerca de 2 semanas.",
+  "se_funciona": [
+   "Meta é a remissão; manter indefinidamente enquanto houver benefício para prevenir recorrências."
+  ],
+  "se_nao_funciona": [
+   "Resposta parcial é comum: aumentar a dose, trocar ou potencializar.",
+   "Checar adesão e comorbidades; trocar para estabilizador mais bem estudado."
+  ],
+  "potencializacao": [
+   "É ela própria um potencializador de segunda linha de outros anticonvulsivantes, lítio e antipsicóticos atípicos no bipolar.",
+   "Pode ser potencializador de segunda ou terceira linha de antipsicóticos na esquizofrenia (pouco estudado)."
+  ],
+  "exames": [
+   "Considerar sódio, sobretudo nos 3 primeiros meses (hiponatremia)."
+  ],
+  "mecanismo_ea": [
+   "Efeitos no SNC por ação excessiva em canais de sódio voltagem-dependentes."
+  ],
+  "peso": "Ocorre em minoria significativa; alguns têm aumento do apetite.",
+  "sedacao": "Minoria significativa, dose-dependente; menor que a da carbamazepina e maior com outros anticonvulsivantes.",
+  "ea_graves": [
+   "Hiponatremia clinicamente relevante (sódio abaixo de 125 mmol/L) em 2 a 3%, em geral nos 3 primeiros meses.",
+   "Rara ativação de ideação e comportamento suicida (alerta de classe dos anticonvulsivantes): orientar paciente e familiares."
+  ],
+  "manejo": [
+   "Sedação, tontura, ataxia, náuseas e diplopia são dose-dependentes: esperar, reduzir ou titular mais devagar.",
+   "Hiponatremia: pode exigir restrição hídrica; vigiar mais na associação com ISRS."
+  ],
+  "dicas_dose": [
+   "Faixa usual de 1.200 a 2.400 mg/dia.",
+   "Monoterapia (epilepsia ou bipolar): 600 mg/dia em 2 tomadas, com aumentos de 300 mg/dia a cada 3 dias; máximo em geral 2.400 mg/dia.",
+   "Adjuvante: 600 mg/dia em 2 tomadas, com aumentos de até 600 mg/dia por semana; dose recomendada 1.200 mg/dia.",
+   "Doses cerca de um terço maiores que as de carbamazepina para efeito semelhante.",
+   "2.400 mg/dia é mais eficaz que 1.200 mg/dia na epilepsia, mas os efeitos no SNC podem ser intoleráveis.",
+   "No bipolar, costuma ser usada como adjuvante de outros anticonvulsivantes, lítio ou atípicos.",
+   "A suspensão oral pode ser dada em água ou direto da seringa dosadora."
+  ],
+  "superdosagem": "Sem mortes relatadas.",
+  "longo_prazo": "Segura; pode ser preciso monitorar o sódio, sobretudo nos 3 primeiros meses.",
+  "dependencia": "Não causa dependência.",
+  "suspender": [
+   "Reduzir gradualmente; retirada rápida aumenta o risco de recaída no bipolar e de crises na epilepsia.",
+   "Sintomas de descontinuação são incomuns."
+  ],
+  "interacoes": [
+   "Pró-fármaco rapidamente convertido ao metabólito ativo MHD (licarbazepina); meia-vida de cerca de 2 horas da oxcarbazepina e 9 horas do MHD.",
+   "Indutor leve do CYP3A4 e inibidor do 2C19: bem menos interações que a carbamazepina.",
+   "Carbamazepina, fenobarbital, fenitoína, primidona e verapamil reduzem o MHD.",
+   "Reduz níveis de contraceptivos hormonais e de bloqueadores de canal de cálcio di-hidropiridínicos.",
+   "Acima de 1.200 mg/dia pode elevar a fenitoína, exigindo reduzi-la."
+  ],
+  "nao_usar": [
+   "Uso de IMAO (não iniciar IMAO antes de 2 semanas da suspensão, nem a oxcarbazepina antes de 14 dias da suspensão do IMAO).",
+   "Alergia comprovada a oxcarbazepina ou a qualquer composto tricíclico."
+  ],
+  "advertencias": [
+   "Cautela em quem teve hipersensibilidade à carbamazepina.",
+   "Pode agravar glaucoma de ângulo fechado.",
+   "Reduz a eficácia de contraceptivos hormonais."
+  ],
+  "pop": {
+   "renal": "Excreção renal com meia-vida do MHD aumentada: iniciar com metade da dose e titular mais devagar.",
+   "hepatica": "Sem ajuste na insuficiência leve a moderada; cautela na grave.",
+   "cardiaca": "Sem ajuste recomendado.",
+   "idosos": "Clearance de creatinina menor pode exigir doses menores; mais sensíveis a efeitos adversos.",
+   "criancas": "Aprovada nos EUA para crises focais a partir de 4 anos (adjuvante ou monoterapia). Monoterapia: 8 a 10 mg/kg/dia em 2 tomadas, aumentando 5 mg/kg/dia a cada 3 dias; manutenção conforme o peso (por exemplo, 900 a 1.200 mg/dia entre 21 e 30 kg; 1.200 a 1.800 mg/dia entre 46 e 55 kg). Abaixo de 8 anos o clearance pode ser maior.",
+   "gestacao": "Semelhante estruturalmente à carbamazepina: risco possível de defeitos de tubo neural; se mantida, ácido fólico 1 mg/dia e rastreio de malformações. No bipolar, em geral suspender antes de gestação planejada. No bipolar, o puerpério tem alto risco de recaída: se ficou sem medicação na gestação, reintroduzir estabilizador logo após o parto; antipsicóticos atípicos tendem a ser preferíveis na gestação.",
+   "lactacao": "Passa ao leite; o Stahl recomenda suspender ou usar mamadeira. Se mantida, vigiar irritabilidade e sedação no lactente."
+  },
+  "vantagens": [
+   "Bipolar e transtornos psicóticos resistentes.",
+   "Quem responde à carbamazepina mas não a tolera."
+  ],
+  "desvantagens": [
+   "Pacientes com risco de hiponatremia."
+  ],
+  "perolas": [
+   "Análogo 10-ceto da carbamazepina (não é metabólito dela), com mesmo mecanismo e menos efeitos adversos; menos estudada no bipolar.",
+   "Não parece ter os riscos de leucopenia, anemia aplástica, agranulocitose, elevação de enzimas hepáticas e Stevens-Johnson da carbamazepina.",
+   "Cerca de 75% dos que tiveram rash com carbamazepina não o repetem com oxcarbazepina; 25% repetem.",
+   "Associação com ISRS (que também causam SIADH) pede monitorização cuidadosa do sódio no início.",
+   "Alguma evidência na mania aguda e como adjuvante na esquizofrenia e no transtorno esquizoafetivo.",
+   "Por analogia à carbamazepina, pode ser útil na dor neuropática crônica."
+  ],
+  "troca": [
+   "Epilepsia, de adjuvante para monoterapia: iniciar 600 mg/dia em 2 tomadas e subir em 2 a 4 semanas, reduzindo o fármaco anterior em 3 a 6 semanas."
+  ]
+ },
+ "lamotrigina": {
+  "alvos": [
+   "Instabilidade do humor, sobretudo depressão bipolar",
+   "Crises epilépticas",
+   "Dor"
+  ],
+  "latencia": "Depressão bipolar: várias semanas; otimizar a estabilização pode levar semanas a meses (a titulação obrigatória atrasa o efeito). Crises: redução a partir de 2 semanas.",
+  "se_funciona": [
+   "Meta é a remissão; manter indefinidamente para prevenir recorrências de mania, depressão e crises.",
+   "Na dor neuropática, reduz sem eliminar a dor."
+  ],
+  "se_nao_funciona": [
+   "Resposta parcial é comum: aumentar a dose, trocar ou potencializar.",
+   "Checar adesão e comorbidades; considerar psicoterapia."
+  ],
+  "potencializacao": [
+   "Lítio",
+   "Antipsicóticos atípicos (risperidona, olanzapina, quetiapina, ziprasidona, aripiprazol)",
+   "Valproato, com cautela e com metade da dose de lamotrigina (o valproato dobra o nível)",
+   "Antidepressivos com cautela (risco de virada): preferir bupropiona, ISRS ou IRSN; evitar tricíclicos e IMAO"
+  ],
+  "exames": [
+   "Nenhum obrigatório; o valor do nível sérico não está estabelecido.",
+   "Liga-se a tecidos com melanina: considerar avaliação oftalmológica no uso prolongado."
+  ],
+  "tabela": {
+   "titulo": "Titulação no transtorno bipolar (Stahl 2017)",
+   "colunas": [
+    "Semanas",
+    "Monoterapia",
+    "Com valproato",
+    "Com indutores (carbamazepina, fenitoína, fenobarbital, primidona)"
+   ],
+   "linhas": [
+    [
+     "1 e 2",
+     "25 mg/dia",
+     "25 mg em dias alternados",
+     "50 mg/dia"
+    ],
+    [
+     "3 e 4",
+     "50 mg/dia",
+     "25 mg/dia",
+     "100 mg/dia em 2 tomadas"
+    ],
+    [
+     "5",
+     "100 mg/dia",
+     "50 mg/dia",
+     "Aumentar 100 mg/dia por semana"
+    ],
+    [
+     "6 em diante",
+     "200 mg/dia (dose alvo e máxima usual)",
+     "100 mg/dia (dose alvo e máxima usual)",
+     "Até 400 mg/dia, divididos"
+    ]
+   ],
+   "nota": "Não acelerar o esquema. Pausa de 5 dias ou mais: recomeçar a titulação do início."
+  },
+  "mecanismo_ea": [
+   "Efeitos no SNC por ação excessiva em canais de sódio voltagem-dependentes.",
+   "Rash provavelmente de natureza alérgica."
+  ],
+  "peso": "Relatado, mas não esperado.",
+  "sedacao": "Relatada, mas não esperada; dose-dependente e pode passar com o tempo.",
+  "ea_graves": [
+   "Rash grave (Stevens-Johnson, NET, síndrome de hipersensibilidade), raro, com risco de falência de múltiplos órgãos; maior em crianças, com valproato, titulação rápida e doses altas.",
+   "Discrasias sanguíneas e meningite asséptica, raras.",
+   "Crises na retirada abrupta.",
+   "Rara ativação de ideação e comportamento suicida (alerta de classe dos anticonvulsivantes): orientar paciente e familiares."
+  ],
+  "manejo": [
+   "Rash de aspecto benigno (atinge o pico em dias e some em 10 a 14 dias, manchado, não confluente, indolor, sem sintomas sistêmicos e com exames normais): reduzir a dose ou parar a titulação, anti-histamínico ou corticoide tópico e vigilância próxima; orientar a parar e procurar o médico se piorar.",
+   "Rash de aspecto grave (confluente e extenso, purpúrico ou doloroso, no pescoço ou tronco superior, com acometimento de olhos, lábios ou boca, febre, mal-estar, faringite, anorexia, linfonodomegalia, ou alteração de hemograma, função hepática, ureia ou creatinina): suspender a lamotrigina (e o valproato, se houver), investigar órgãos acometidos e considerar internação.",
+   "Sedação: dose à noite; outros efeitos: dividir em 2 tomadas."
+  ],
+  "dicas_dose": [
+   "Bipolar: 100 a 200 mg/dia em monoterapia; 100 mg/dia com valproato; 400 mg/dia com indutores enzimáticos.",
+   "Epilepsia acima de 12 anos: 300 a 500 mg/dia em 2 tomadas em monoterapia ou com indutores; 100 a 400 mg/dia em esquemas com valproato (100 a 200 mg/dia com valproato isolado).",
+   "Titulação muito lenta reduz o risco de rash; nunca titular mais rápido que o recomendado.",
+   "Nos 3 primeiros meses, evitar alimentos, cosméticos e fármacos novos; não iniciar até 2 semanas após infecção viral, rash ou vacinação.",
+   "Se o valproato for suspenso com a lamotrigina estável: dobrar a lamotrigina gradualmente em pelo menos 2 semanas.",
+   "Se um indutor for suspenso: manter a lamotrigina por 1 semana e depois reduzi-la à metade em 2 semanas.",
+   "Contraceptivos orais e gestação reduzem o nível: ajustar a manutenção ao iniciar ou suspender contraceptivo, na gestação e após o parto.",
+   "Comprimidos dispersíveis só inteiros (arredondar para baixo); não partir o de liberação prolongada."
+  ],
+  "superdosagem": "Há mortes relatadas: ataxia, nistagmo, convulsões, coma e atraso da condução intraventricular.",
+  "longo_prazo": "Segura.",
+  "dependencia": "Não causa dependência.",
+  "suspender": [
+   "Reduzir em pelo menos 2 semanas.",
+   "Retirada rápida aumenta o risco de recaída no bipolar e de crises na epilepsia.",
+   "Sintomas de descontinuação são incomuns."
+  ],
+  "interacoes": [
+   "Metabolizada por glicuronidação, sem CYP450; meia-vida de cerca de 33 horas, 59 horas com valproato e 14 horas com indutores.",
+   "Valproato eleva o nível e a meia-vida (usar metade da dose ou menos) e aumenta o risco de rash.",
+   "Carbamazepina, fenobarbital, fenitoína e primidona reduzem o nível.",
+   "Contraceptivos orais reduzem o nível.",
+   "Sem interações farmacocinéticas relevantes com lítio, oxcarbazepina, atípicos ou antidepressivos.",
+   "Pode dar falso positivo para fenciclidina em triagem urinária por imunoensaio."
+  ],
+  "nao_usar": [
+   "Alergia comprovada à lamotrigina."
+  ],
+  "advertencias": [
+   "Suspender ao primeiro sinal de rash grave; orientar a relatar febre, sintomas gripais, rash, bolhas em pele ou mucosas, edema palpebral, conjuntivite ou linfonodomegalia.",
+   "Meningite asséptica rara: relatar cefaleia, febre, calafrios, vômitos, rigidez de nuca e fotofobia.",
+   "Pode causar fotossensibilidade; poucos pacientes têm piora das crises."
+  ],
+  "pop": {
+   "renal": "Excreção renal: a manutenção pode precisar ser menor. Removida por hemodiálise, podendo exigir doses suplementares.",
+   "hepatica": "Sem ajuste na leve. Moderada ou grave sem ascite: reduzir doses inicial, de titulação e de manutenção em 25%; grave com ascite: em 50%.",
+   "cardiaca": "Experiência limitada; usar com cautela.",
+   "idosos": "Mais sensíveis a efeitos adversos; alguns toleram melhor doses menores.",
+   "criancas": "Aprovada nos EUA a partir de 2 anos como adjuvante na síndrome de Lennox-Gastaut e em crises focais; demais usos só a partir de 16 anos. Risco de rash maior abaixo de 12 anos e com valproato. Doses por peso (com valproato: 0,15 mg/kg/dia nas semanas 1 e 2; com indutores: 0,6 mg/kg/dia), arredondando para baixo; abaixo de 30 kg a manutenção pode precisar ser até 50% maior.",
+   "gestacao": "Registros mostram aumento de fenda labial ou palatina isolada com exposição no primeiro trimestre. O nível cai na gestação, podendo exigir aumento e redução após o parto. No bipolar, o Stahl sugere em geral suspender antes de gestação planejada e reintroduzir logo após o parto; se for necessário um anticonvulsivante na gestação, a lamotrigina é preferível ao valproato.",
+   "lactacao": "Passa ao leite; o Stahl recomenda em geral suspender ou usar mamadeira. Se mantida, vigiar irritabilidade e sedação no lactente."
+  },
+  "vantagens": [
+   "Depressão bipolar.",
+   "Prevenção de recorrências depressivas e maníacas.",
+   "Pouco ganho de peso e pouca sedação."
+  ],
+  "desvantagens": [
+   "Menos eficaz na fase maníaca."
+  ],
+  "perolas": [
+   "Opção de primeira linha, talvez a melhor, na depressão bipolar: trata melhor \"por baixo\" que \"por cima\" e previne recaídas nos dois polos, sobretudo as depressivas.",
+   "Subutilizada por medo exagerado do rash, embora seja um dos estabilizadores mais bem tolerados; o risco de rash grave é comparável ao de carbamazepina, fenitoína e fenobarbital.",
+   "Risco de rash grave abaixo de 1% e próximo de zero em estudos recentes no bipolar, com titulação lenta e cuidado com valproato; rash benigno em até 10%, que some ao suspender.",
+   "Rash nos primeiros 5 dias ou após 8 a 12 semanas raramente é causado pela lamotrigina; em ensaios, 5 a 10% dos pacientes com placebo também têm rash.",
+   "Após rash benigno, reexposição pode ser considerada em paciente informado e confiável, com 5 a 12 mg/dia e titulação muito lenta.",
+   "Útil com atípicos ou lítio; combinações com anticonvulsivantes que não o valproato são pouco demonstradas.",
+   "Pode ser adjuvante de atípicos na esquizofrenia e de antidepressivos no transtorno depressivo maior."
+  ],
+  "troca": [
+   "Epilepsia, de um indutor para lamotrigina em monoterapia: titular até 500 mg/dia em 2 tomadas mantendo o anterior, depois reduzi-lo 20% por semana em 4 semanas.",
+   "Epilepsia, de valproato para lamotrigina em monoterapia: titular até 200 mg/dia mantendo o valproato; depois subir gradualmente até 500 mg/dia enquanto se retira o valproato."
+  ]
+ },
+ "topiramato": {
+  "alvos": [
+   "Crises epilépticas",
+   "Instabilidade do humor",
+   "Enxaqueca"
+  ],
+  "latencia": "Crises: redução em cerca de 2 semanas. Não está claro se estabiliza o humor; se houver resposta, pode levar semanas a meses.",
+  "se_funciona": [
+   "Manter enquanto houver benefício para prevenir recorrência de crises, cefaleia ou mania."
+  ],
+  "se_nao_funciona": [
+   "No bipolar pode funcionar só num subgrupo ou não funcionar: aumentar a dose ou trocar por agente com eficácia mais bem demonstrada."
+  ],
+  "potencializacao": [
+   "É ele próprio um potencializador de segunda linha de outros anticonvulsivantes, lítio e antipsicóticos no bipolar."
+  ],
+  "exames": [
+   "Bicarbonato sérico basal e periódico, pelo risco de acidose metabólica hiperclorêmica sem ânion gap.",
+   "Amônia se houver letargia, vômitos ou alteração mental inexplicados, sobretudo com valproato."
+  ],
+  "mecanismo_ea": [
+   "Efeitos no SNC por ação excessiva em canais de sódio voltagem-dependentes.",
+   "Inibição fraca da anidrase carbônica: cálculo renal, parestesias e acidose metabólica."
+  ],
+  "peso": "Ganho relatado, mas não esperado; costuma causar perda de peso.",
+  "sedacao": "Frequente e pode ser importante.",
+  "ea_graves": [
+   "Acidose metabólica.",
+   "Nefrolitíase.",
+   "Glaucoma de ângulo fechado secundário.",
+   "Oligoidrose e hipertermia, mais em crianças.",
+   "Hiperamonemia com ou sem encefalopatia na associação com valproato.",
+   "Rara ativação de ideação e comportamento suicida (alerta de classe dos anticonvulsivantes): orientar paciente e familiares."
+  ],
+  "manejo": [
+   "Esperar; dose à noite para sedação diurna.",
+   "Aumentar a ingestão de líquidos para reduzir o risco de cálculo renal.",
+   "Sintomas de acidose (hiperventilação, fadiga, anorexia, arritmias, estupor): reduzir ou suspender.",
+   "Se persistirem: trocar de agente."
+  ],
+  "dicas_dose": [
+   "Liberação imediata: iniciar 25 a 50 mg/dia e aumentar 50 mg/dia por semana, em 2 tomadas; epilepsia 200 a 400 mg/dia; máximo em geral 1.600 mg/dia.",
+   "Bipolar (adjuvante): 50 a 300 mg/dia, em geral no limite inferior; muitos não toleram mais de 200 mg/dia.",
+   "Titular desde 25 mg/dia reduz a sedação; efeitos adversos aumentam com a dose.",
+   "A perda de peso é dose-dependente, mas o uso para ganho de peso costuma ser em doses baixas.",
+   "Liberação prolongada (monoterapia na epilepsia, 10 anos ou mais): 50 mg/dia, subindo 50 mg por semana por 4 semanas e 100 mg nas semanas 5 e 6, até 400 mg/dia.",
+   "A cápsula sprinkle pode ser aberta sobre uma colher de alimento pastoso, consumido na hora."
+  ],
+  "superdosagem": "Sem mortes em monoterapia: convulsões, sedação, alteração da fala, diplopia, acidose metabólica, incoordenação, hipotensão, dor abdominal e agitação.",
+  "longo_prazo": "Provavelmente seguro; monitorar bicarbonato periodicamente.",
+  "dependencia": "Não causa dependência.",
+  "suspender": [
+   "Reduzir gradualmente; retirada rápida aumenta o risco de recaída no bipolar e de crises na epilepsia.",
+   "Sintomas de descontinuação são incomuns."
+  ],
+  "interacoes": [
+   "Meia-vida de cerca de 21 horas; excreção renal.",
+   "Carbamazepina, fenitoína e valproato aumentam o clearance do topiramato, podendo exigir dose maior.",
+   "Pode reduzir o nível de valproato.",
+   "Com metformina: aumento mútuo de níveis.",
+   "Com outros inibidores da anidrase carbônica: mais cálculo renal; cautela também com anticolinérgicos (distúrbios pelo calor).",
+   "Pode reduzir a eficácia de contraceptivos orais."
+  ],
+  "nao_usar": [
+   "Alergia comprovada ao topiramato.",
+   "Liberação prolongada: uso de álcool nas 6 horas antes ou depois da dose.",
+   "Liberação prolongada: acidose metabólica em uso de metformina."
+  ],
+  "advertencias": [
+   "Suspender ou reduzir se surgirem sinais de acidose metabólica.",
+   "Cautela com outros fármacos que predispõem a hipertermia."
+  ],
+  "pop": {
+   "renal": "Excreção renal: reduzir a dose à metade. Removido por hemodiálise, podendo exigir doses suplementares.",
+   "hepatica": "Usar com cautela.",
+   "cardiaca": "Usar com cautela.",
+   "idosos": "Mais sensíveis a efeitos adversos.",
+   "criancas": "Aprovado nos EUA para epilepsia a partir de 2 anos (liberação imediata); clearance maior. De 2 a 16 anos: 1 a 3 mg/kg/dia à noite, subindo 1 a 3 mg/kg/dia a cada 1 a 2 semanas até 5 a 9 mg/kg/dia em 2 tomadas. Sem eficácia em lactentes de 1 a 24 meses. Efeitos adversos podem ser menos frequentes que no adulto.",
+   "gestacao": "Aumento de fenda labial ou palatina; relatos de hipospádia. Sem eficácia convincente no bipolar: em geral suspender antes e durante a gestação nessa indicação; atípicos são preferíveis. Se suspender, reduzir gradualmente.",
+   "lactacao": "Passa ao leite; o Stahl recomenda suspender ou usar mamadeira. No puerpério bipolar, atípicos ou valproato são mais seguros e eficazes."
+  },
+  "vantagens": [
+   "Bipolar resistente.",
+   "Quem quer evitar ganho de peso."
+  ],
+  "desvantagens": [
+   "Eficácia incerta no bipolar.",
+   "História de cálculo renal ou risco de acidose metabólica."
+  ],
+  "perolas": [
+   "Ensaios randomizados não mostraram eficácia no bipolar (não publicados pelo fabricante, que abandonou essa indicação); percepções equivocadas levaram a usá-lo mais que agentes eficazes como a lamotrigina.",
+   "Usado para ganho de peso por psicofármacos. Na epilepsia, a perda média foi de 6,5 kg (7,3%) em doses altas e 1,6 kg (2,2%) em doses baixas, maior em quem pesava mais de 100 kg.",
+   "A perda de peso aparece nos 3 primeiros meses, atinge o pico (média de 6 kg) em 12 a 18 meses e tende a voltar ao basal depois de 18 meses.",
+   "Alguns com ganho de peso por psicofármacos perdem mais de 7% com até 200 mg/dia por 3 meses, mas isso não é típico nem costuma se manter.",
+   "Estudado em TEPT, transtorno de compulsão alimentar e obesidade; a combinação fentermina com topiramato é aprovada para obesidade nos EUA."
+  ]
+ },
+ "gabapentina": {
+  "alvos": [
+   "Crises epilépticas",
+   "Dor neuropática",
+   "Ansiedade"
+  ],
+  "latencia": "Crises e neuralgia pós-herpética: cerca de 2 semanas (alguns antes). Outras dores neuropáticas e ansiedade: poucas semanas. Sem melhora da dor em 6 a 8 semanas: aumentar a dose ou considerar ineficaz.",
+  "se_funciona": [
+   "Na dor neuropática crônica, reduz sem eliminar os sintomas, que voltam ao suspender; melhor em combinação.",
+   "Manter enquanto houver benefício."
+  ],
+  "se_nao_funciona": [
+   "No bipolar pode funcionar só num subgrupo ou não funcionar.",
+   "Aumentar a dose, trocar ou potencializar; biofeedback ou hipnose na dor; checar adesão e comorbidades."
+  ],
+  "potencializacao": [
+   "Potencializador de outros anticonvulsivantes na epilepsia.",
+   "Dor neuropática: pode potencializar tricíclicos e IRSN, outros anticonvulsivantes e até opioides (com especialista e monitorização); na neuralgia pós-herpética reduz o uso de opioides.",
+   "Ansiedade: segunda linha para potencializar ISRS, IRSN ou benzodiazepínicos."
+  ],
+  "exames": [
+   "Nenhum em indivíduos saudáveis.",
+   "Com outros anticonvulsivantes, há falso positivo para proteína urinária em fita reagente."
+  ],
+  "mecanismo_ea": [
+   "Efeitos no SNC provavelmente por bloqueio excessivo de canais de cálcio voltagem-dependentes."
+  ],
+  "peso": "Ocorre em minoria significativa.",
+  "sedacao": "Frequente e dose-dependente; pode ser problemática e não passar em doses altas.",
+  "ea_graves": [
+   "Anafilaxia e angioedema.",
+   "Rara ativação de ideação e comportamento suicida (alerta de classe dos anticonvulsivantes): orientar paciente e familiares."
+  ],
+  "manejo": [
+   "Esperar; concentrar a dose à noite; reduzir a dose ou trocar.",
+   "Em doses altas, dividir em mais de 3 tomadas melhora a tolerância."
+  ],
+  "tabela": {
+   "titulo": "Ajuste renal da gabapentina de liberação imediata (Stahl 2017)",
+   "colunas": [
+    "Clearance de creatinina (mL/min)",
+    "Dose"
+   ],
+   "linhas": [
+    [
+     "30 a 59",
+     "400 a 1.400 mg/dia em 2 tomadas"
+    ],
+    [
+     "16 a 29",
+     "200 a 700 mg/dia em 1 tomada"
+    ],
+    [
+     "Abaixo de 16",
+     "100 a 300 mg/dia em 1 tomada"
+    ],
+    [
+     "Hemodiálise",
+     "Doses suplementares após a diálise"
+    ]
+   ]
+  },
+  "dicas_dose": [
+   "Faixa usual de 900 a 1.800 mg/dia em 3 tomadas.",
+   "Neuralgia pós-herpética: 300 mg no dia 1, 600 mg em 2 tomadas no dia 2, 900 mg em 3 tomadas no dia 3; máximo em geral 1.800 mg/dia.",
+   "Epilepsia (12 anos ou mais): 900 mg/dia em 3 tomadas, dose usual 1.800 mg/dia, máximo em geral 3.600 mg/dia; intervalo entre doses de no máximo 12 horas.",
+   "Liberação prolongada (formulações dos EUA): 600 mg às 17 h na síndrome das pernas inquietas; na neuralgia pós-herpética, 600 mg pela manhã e 600 mg duas vezes ao dia a partir do dia 4, com alimento.",
+   "Tomar 2 horas depois de antiácido.",
+   "Com outro anticonvulsivante, titular em pelo menos 1 semana.",
+   "Na dor ou ansiedade, alguns precisam só de 2 tomadas; para melhorar o sono de ondas lentas, pode bastar a dose ao deitar.",
+   "Absorção saturável: resposta a doses altas nem sempre é proporcional."
+  ],
+  "superdosagem": "Sem mortes relatadas: fala arrastada, sedação, diplopia e diarreia.",
+  "longo_prazo": "Segura.",
+  "dependencia": "O Stahl (2017) a considera sem potencial de dependência.",
+  "suspender": [
+   "Reduzir em pelo menos 1 semana.",
+   "Retirada rápida pode causar crises na epilepsia e recaída no bipolar; sintomas de descontinuação são incomuns."
+  ],
+  "interacoes": [
+   "Não é metabolizada nem se liga a proteínas; excreção renal inalterada; meia-vida de 5 a 7 horas.",
+   "Antiácidos reduzem a absorção (tomar a gabapentina cerca de 2 horas antes).",
+   "Naproxeno pode aumentar a absorção; morfina e hidrocodona podem elevar os níveis.",
+   "Efeito depressor somado a álcool e outros depressores do SNC."
+  ],
+  "nao_usar": [
+   "Alergia comprovada a gabapentina ou pregabalina."
+  ],
+  "advertencias": [
+   "Tontura e sedação aumentam o risco de quedas em idosos.",
+   "Adenocarcinoma pancreático em ratos machos e relatos de tumores novos ou em piora em humanos, com relação causal desconhecida."
+  ],
+  "pop": {
+   "renal": "Excreção renal: reduzir conforme o clearance (ver tabela); removida por hemodiálise. Não estudada em insuficiência renal abaixo de 12 anos.",
+   "hepatica": "Não é metabolizada no fígado; experiência clínica sugere dose normal.",
+   "cardiaca": "Sem recomendações específicas.",
+   "idosos": "Mais sensíveis a efeitos adversos, incluindo edema periférico e ataxia; alguns toleram melhor doses menores.",
+   "criancas": "Aprovada nos EUA como adjuvante em crises focais a partir de 3 anos: 10 a 15 mg/kg/dia em 3 tomadas, titulando em 3 dias até 25 a 35 mg/kg/dia (5 a 12 anos) ou 40 mg/kg/dia (3 e 4 anos); máximo 50 mg/kg/dia. Abaixo de 12 anos pode causar hostilidade, labilidade emocional, hipercinesia e ganho de peso.",
+   "gestacao": "Sem estudos controlados. Sem eficácia convincente no bipolar ou na psicose: em geral suspender antes e durante a gestação nessas indicações; atípicos são preferíveis. Se suspender, reduzir gradualmente.",
+   "lactacao": "Passa ao leite; o Stahl recomenda suspender ou usar mamadeira. Se mantida, vigiar irritabilidade e sedação no lactente."
+  },
+  "vantagens": [
+   "Dor neuropática crônica.",
+   "Perfil de efeitos adversos relativamente leve.",
+   "Poucas interações farmacocinéticas."
+  ],
+  "desvantagens": [
+   "Em geral exige 3 tomadas ao dia.",
+   "Evidência fraca em muitos usos fora da bula, sobretudo no bipolar."
+  ],
+  "perolas": [
+   "A maior parte do uso é fora da bula: justificável na dor neuropática (primeira linha) e na ansiedade (segunda linha); não justificável como adjuvante no bipolar ou na esquizofrenia.",
+   "Percepções equivocadas sobre eficácia no bipolar levaram a usá-la mais que agentes comprovados como a lamotrigina.",
+   "Um dos poucos agentes que aumentam o sono de ondas lentas, útil na dor neuropática crônica; pode ajudar na fibromialgia.",
+   "Pode ser útil em alguns pacientes na abstinência alcoólica."
+  ]
+ },
+ "pregabalina": {
+  "alvos": [
+   "Dor neuropática",
+   "Ansiedade",
+   "Crises epilépticas",
+   "Sono"
+  ],
+  "latencia": "Dor neuropática e ansiedade: melhora em até 1 semana. Crises: cerca de 2 semanas. Sem benefício em 6 a 8 semanas: aumentar a dose ou considerar ineficaz.",
+  "se_funciona": [
+   "Meta é reduzir ao máximo os sintomas, se preciso em combinação; na dor neuropática, reduz sem eliminar, e os sintomas voltam ao suspender.",
+   "Manter enquanto houver benefício."
+  ],
+  "se_nao_funciona": [
+   "Aumentar a dose, trocar ou potencializar; psicoterapia na ansiedade, biofeedback ou hipnose na dor.",
+   "Checar adesão, outro diagnóstico ou comorbidades."
+  ],
+  "potencializacao": [
+   "Dor neuropática: tricíclicos, IRSN, outros anticonvulsivantes e até opioides (com especialista e monitorização); na neuralgia pós-herpética reduz o uso de opioides.",
+   "Ansiedade: ISRS, IRSN ou benzodiazepínicos.",
+   "Potencializador de outros anticonvulsivantes na epilepsia."
+  ],
+  "exames": [
+   "Nenhum em indivíduos saudáveis."
+  ],
+  "mecanismo_ea": [
+   "Efeitos no SNC provavelmente por bloqueio excessivo de canais de cálcio voltagem-dependentes."
+  ],
+  "peso": "Ocorre em minoria significativa; aumento do apetite.",
+  "sedacao": "Frequente e dose-dependente; pode passar com o tempo.",
+  "ea_graves": [
+   "Rara ativação de ideação e comportamento suicida (alerta de classe dos anticonvulsivantes): orientar paciente e familiares."
+  ],
+  "manejo": [
+   "Esperar; concentrar a dose à noite; reduzir a dose ou trocar.",
+   "Em doses altas, dividir em 3 ou mais tomadas melhora a tolerância."
+  ],
+  "dicas_dose": [
+   "Faixa usual de 150 a 600 mg/dia em 2 a 3 tomadas.",
+   "Dor neuropática e epilepsia: 150 mg/dia em 2 a 3 tomadas; após 7 dias, 300 mg/dia; após mais 7 dias, 600 mg/dia (máximo; pode ser menor na neuropatia diabética e na fibromialgia).",
+   "Em geral usada em um terço a um sexto da dose de gabapentina.",
+   "Com outro sedativo (anticonvulsivante, benzodiazepínico, opioide), titular em pelo menos 1 semana.",
+   "A maioria precisa só de 2 tomadas; para o sono de ondas lentas, pode bastar a dose ao deitar.",
+   "Pode ser tomada com ou sem alimento."
+  ],
+  "superdosagem": "Sem mortes relatadas.",
+  "longo_prazo": "Segura.",
+  "dependencia": "O Stahl (2017) a considera sem potencial de dependência.",
+  "suspender": [
+   "Reduzir em pelo menos 1 semana.",
+   "Retirada abrupta pode causar crises na epilepsia; sintomas de descontinuação são incomuns."
+  ],
+  "interacoes": [
+   "Não é metabolizada; excreção renal inalterada; meia-vida de 5 a 7 horas. Interações farmacocinéticas relevantes improváveis.",
+   "Soma sedação com oxicodona, lorazepam e álcool."
+  ],
+  "nao_usar": [
+   "Alergia comprovada a pregabalina ou gabapentina.",
+   "Intolerância à galactose, deficiência de lactase de Lapp ou má absorção de glicose-galactose."
+  ],
+  "advertencias": [
+   "Tontura e sedação aumentam o risco de quedas em idosos.",
+   "Hemangiossarcoma em camundongos com doses altas, por mecanismo sem evidência de risco em humanos."
+  ],
+  "tabela": {
+   "titulo": "Ajuste renal da pregabalina (Stahl 2017)",
+   "colunas": [
+    "Clearance de creatinina (mL/min)",
+    "Dose"
+   ],
+   "linhas": [
+    [
+     "30 a 59",
+     "75 a 300 mg/dia em 2 a 3 tomadas"
+    ],
+    [
+     "15 a 29",
+     "25 a 150 mg/dia em 1 a 2 tomadas"
+    ],
+    [
+     "Abaixo de 15",
+     "25 a 75 mg/dia em 1 tomada"
+    ],
+    [
+     "Hemodiálise",
+     "Suplemento de 25 a 100 mg após a sessão"
+    ]
+   ],
+   "nota": "Começar no limite inferior da faixa e titular como de costume."
+  },
+  "pop": {
+   "renal": "Excreção renal: ajustar pelo clearance (ver tabela); removida por hemodiálise.",
+   "hepatica": "Sem ajuste.",
+   "cardiaca": "Sem recomendações específicas.",
+   "idosos": "Mais sensíveis a efeitos adversos; alguns toleram melhor doses menores.",
+   "criancas": "Segurança e eficácia não estabelecidas; uso reservado a especialistas.",
+   "gestacao": "Sem estudos controlados; pesar riscos e benefícios. Se suspender, reduzir gradualmente.",
+   "lactacao": "Excreção no leite desconhecida, mas presumida; o Stahl recomenda suspender ou usar mamadeira."
+  },
+  "vantagens": [
+   "Primeira linha na neuropatia diabética periférica.",
+   "Fibromialgia.",
+   "Transtornos de ansiedade.",
+   "Sono.",
+   "Perfil de efeitos adversos relativamente leve e poucas interações.",
+   "Mais potente e provavelmente mais bem tolerada que a gabapentina."
+  ],
+  "desvantagens": [
+   "Exige 2 a 3 tomadas ao dia.",
+   "Não aprovada para ansiedade nos EUA (é aprovada para TAG na Europa)."
+  ],
+  "perolas": [
+   "Primeiro tratamento aprovado pela FDA para fibromialgia; aprovada também para neuropatia diabética e neuralgia pós-herpética, melhorando o sono junto com a dor.",
+   "Bem estudada no TAG, com efeito robusto nos sintomas psíquicos e somáticos; uso fora da bula no TAG, pânico e ansiedade social pode ser justificado nos EUA.",
+   "Uso como adjuvante no bipolar provavelmente não se justifica.",
+   "Aumenta o sono de ondas lentas, útil na dor neuropática crônica.",
+   "Absorção por mais de um sistema de transporte: resposta mais consistente em doses altas que a da gabapentina."
+  ]
+ },
+ "alprazolam": {
+  "alvos": [
+   "Ataques de pânico",
+   "Ansiedade"
+  ],
+  "latencia": "Algum alívio já na primeira dose; o benefício máximo com uso diário pode levar várias semanas.",
+  "se_funciona": [
+   "Ansiedade de curta duração: após algumas semanas, suspender ou usar se necessário.",
+   "Ansiedade crônica: considerar troca por ISRS ou IRSN na manutenção; se o benzodiazepínico for necessário a longo prazo, manter 6 meses após a remissão e então reduzir lentamente.",
+   "Se os sintomas voltarem: ISRS ou IRSN, ou reintroduzir o benzodiazepínico (às vezes a combinação é a melhor opção)."
+  ],
+  "se_nao_funciona": [
+   "Trocar ou potencializar; psicoterapia, sobretudo TCC.",
+   "Investigar uso de substâncias, abuso do próprio alprazolam e comorbidade clínica."
+  ],
+  "potencializacao": [
+   "Gabapentina ou pregabalina nos transtornos de ansiedade.",
+   "Como adjuvante: de ISRS e IRSN na ansiedade, e de antipsicóticos e estabilizadores em psicoses e no bipolar.",
+   "Não é racional associar dois benzodiazepínicos; cautela com hipnóticos para dormir."
+  ],
+  "exames": [
+   "Com epilepsia, doença clínica ou polifarmácia prolongada, pode ser prudente dosar função hepática e hemograma periodicamente."
+  ],
+  "mecanismo_ea": [
+   "Mesmo mecanismo do efeito terapêutico: ação excessiva em receptores benzodiazepínicos.",
+   "Adaptações dos receptores a longo prazo explicam tolerância, dependência e abstinência.",
+   "Efeitos imediatos que costumam diminuir com o tempo."
+  ],
+  "peso": "Relatado, mas não esperado.",
+  "sedacao": "Em minoria significativa, sobretudo no início e nos aumentos de dose; tolerância costuma surgir.",
+  "ea_graves": [
+   "Depressão respiratória, sobretudo com outros depressores do SNC em superdosagem.",
+   "Raros: disfunção hepática ou renal e discrasias sanguíneas.",
+   "Hipomania e mania em deprimidos."
+  ],
+  "manejo": [
+   "Esperar; reduzir a dose; maior dose ao deitar; trocar para alprazolam XR ou outro agente.",
+   "Efeitos graves ou com risco de vida: flumazenil."
+  ],
+  "dicas_dose": [
+   "Ansiedade (liberação imediata): 0,75 a 1,5 mg/dia em 3 tomadas, aumentando a cada 3 a 4 dias; faixa de 1 a 4 mg/dia, máximo em geral 4 mg/dia.",
+   "Pânico (liberação imediata): 1,5 mg/dia em 3 tomadas, aumentando até 1 mg a cada 3 a 4 dias (menos acima de 4 mg/dia); usual 5 a 6 mg/dia, até 10 mg/dia em casos difíceis.",
+   "Pânico (XR): 0,5 a 1 mg uma vez pela manhã, aumentando até 1 mg/dia a cada 3 a 4 dias; usual 3 a 6 mg/dia, máximo em geral 10 mg/dia. Não partir nem mastigar.",
+   "Menor dose eficaz pelo menor tempo; reavaliar a necessidade com regularidade; o risco de dependência cresce com dose e duração.",
+   "Ansiedade entre doses: aumentar, fracionar mais a mesma dose total, usar XR ou dose extra ocasional.",
+   "A duração do efeito é mais curta que a meia-vida sugere; alguns precisam de mais de 3 tomadas por dia.",
+   "Equivalência pelo Stahl: cerca de um décimo da dose de diazepam e o dobro da de clonazepam."
+  ],
+  "superdosagem": "Há mortes em monoterapia e com álcool: sedação, confusão, incoordenação, hiporreflexia e coma.",
+  "longo_prazo": "Risco de dependência, sobretudo após 12 semanas e em quem tem ou teve abuso de múltiplas substâncias.",
+  "dependencia": "Controlado nos EUA (classe IV); pode haver tolerância e dependência com uso prolongado. O pânico, por exigir doses maiores, aumenta o risco.",
+  "suspender": [
+   "Reduzir 0,5 mg a cada 3 dias; nos casos difíceis, abaixo de 3 mg/dia ir mais devagar, até 0,25 mg por semana ou menos (não se aplica ao XR).",
+   "Casos muito difíceis: retirada ao longo de meses, reduzindo cerca de 1% da dose a cada 3 a 7 dias (comprimido dissolvido em 100 mL de suco, descartando 1 mL, depois 2 mL, e assim por diante); funciona também como dessensibilização comportamental. Não se aplica ao XR.",
+   "Convulsões raras na retirada, sobretudo abrupta, acima de 4 mg/dia ou com história de crises; o risco é maior nos 3 primeiros dias.",
+   "Diferenciar retorno da doença, rebote (piora acima do basal) e sintomas de abstinência; dependência fisiológica em paciente ansioso não equivale a adição."
+  ],
+  "interacoes": [
+   "Metabolizado pelo CYP3A4 a metabólitos inativos; meia-vida de 12 a 15 horas.",
+   "Inibidores do CYP3A4 (nefazodona, fluvoxamina, fluoxetina, suco de toranja, antifúngicos azólicos, macrolídeos, inibidores de protease) elevam o nível: reduzir o alprazolam à metade ou mais.",
+   "Indutores do CYP3A4, como a carbamazepina, reduzem o nível e o efeito.",
+   "Depressão do SNC somada a outros depressores."
+  ],
+  "nao_usar": [
+   "Glaucoma de ângulo fechado.",
+   "Uso de cetoconazol ou itraconazol.",
+   "Alergia comprovada ao alprazolam ou a qualquer benzodiazepínico."
+  ],
+  "advertencias": [
+   "Associação com opioides (alerta em tarja da FDA): risco de depressão respiratória e morte; se inevitável, menor dose e menor tempo de ambos, orientando paciente e familiares a procurar atendimento em caso de sedação intensa, respiração lenta ou irresponsividade.",
+   "Doença pulmonar grave: relatos raros de morte após início de benzodiazepínico; apneia obstrutiva do sono só com extrema cautela.",
+   "História de uso de álcool ou drogas aumenta o risco de dependência.",
+   "Alguns deprimidos podem ter piora da ideação suicida; pode haver desinibição ou alterações de comportamento.",
+   "Hipomania e mania já ocorreram em deprimidos em uso de alprazolam."
+  ],
+  "pop": {
+   "renal": "Usar com cautela.",
+   "hepatica": "Iniciar com dose menor (0,5 a 0,75 mg/dia em 2 a 3 tomadas).",
+   "cardiaca": "Benzodiazepínicos já foram usados na ansiedade do infarto agudo do miocárdio.",
+   "idosos": "Iniciar com 0,5 a 0,75 mg/dia em 2 a 3 tomadas e monitorar de perto.",
+   "criancas": "Segurança e eficácia não estabelecidas, mas usado, sobretudo por curto prazo e em doses baixas, com vigilância maior; efeitos a longo prazo desconhecidos.",
+   "gestacao": "Possível aumento de malformações; não recomendado para ansiedade na gestação, sobretudo no primeiro trimestre. Uso no fim da gestação: abstinência e hipotonia neonatal. Se suspender, reduzir gradualmente.",
+   "lactacao": "Passa ao leite; recomendado suspender ou usar mamadeira. Descritos sedação, dificuldade de sucção e perda de peso no lactente."
+  },
+  "vantagens": [
+   "Início de ação rápido.",
+   "Menos sedação que alguns benzodiazepínicos.",
+   "Existência de formulação XR de ação mais longa."
+  ],
+  "desvantagens": [
+   "Euforia pode levar a abuso.",
+   "Abuso especialmente arriscado em quem tem ou teve uso de substâncias."
+  ],
+  "perolas": [
+   "Um dos benzodiazepínicos mais usados na ansiedade; adjuvante muito útil de ISRS e IRSN.",
+   "Pode tanto causar quanto tratar depressão, em pacientes diferentes.",
+   "A duração clínica curta, sobretudo na liberação imediata, leva a doses mais frequentes e \"olhar o relógio\"; o XR é menos sedativo, tomado menos vezes e reduz os sintomas entre doses.",
+   "O XR tem ação biológica mais longa que o clonazepam e, em teoria, menos euforia, abuso e abstinência, sem comprovação.",
+   "Não trata psicose nem transtorno bipolar em monoterapia, mas é útil como adjuvante de antipsicóticos e estabilizadores.",
+   "Na insônia, lembrar que ela costuma ser sintoma de outro transtorno clínico ou psiquiátrico a investigar.",
+   "Benzodiazepínicos são o tratamento inicial recomendado da catatonia, embora pouco estudados de forma sistemática."
+  ]
+ },
+ "clonazepam": {
+  "alvos": [
+   "Ataques de pânico",
+   "Ansiedade",
+   "Frequência e duração de crises epilépticas",
+   "Descargas de ponta-onda nas ausências"
+  ],
+  "latencia": "Algum alívio já na primeira dose; o benefício máximo com uso diário pode levar várias semanas.",
+  "se_funciona": [
+   "Ansiedade de curta duração: após algumas semanas, suspender ou usar se necessário.",
+   "Ansiedade crônica: considerar troca por ISRS ou IRSN na manutenção; se o benzodiazepínico for necessário a longo prazo, manter 6 meses após a remissão e então reduzir lentamente.",
+   "Na epilepsia, é comum surgir tolerância com perda de eficácia, exigindo aumento de dose, associação ou troca de anticonvulsivante."
+  ],
+  "se_nao_funciona": [
+   "Trocar ou potencializar; psicoterapia, sobretudo TCC.",
+   "Investigar uso de substâncias, abuso do próprio clonazepam e comorbidade clínica."
+  ],
+  "potencializacao": [
+   "Como adjuvante: de ISRS e IRSN na ansiedade, de antipsicóticos e estabilizadores em psicoses e no bipolar, e de outros anticonvulsivantes na epilepsia.",
+   "Não é racional associar dois benzodiazepínicos; cautela com hipnóticos para dormir."
+  ],
+  "exames": [
+   "Com epilepsia, doença clínica ou polifarmácia prolongada, pode ser prudente dosar função hepática e hemograma periodicamente."
+  ],
+  "mecanismo_ea": [
+   "Mesmo mecanismo do efeito terapêutico: ação excessiva em receptores benzodiazepínicos.",
+   "Adaptações dos receptores a longo prazo explicam tolerância, dependência e abstinência."
+  ],
+  "peso": "Relatado, mas não esperado.",
+  "sedacao": "Em minoria significativa, sobretudo no início e nos aumentos de dose; tolerância costuma surgir.",
+  "ea_graves": [
+   "Depressão respiratória, sobretudo com outros depressores do SNC em superdosagem.",
+   "Raros: disfunção hepática ou renal e discrasias sanguíneas.",
+   "Crises tônico-clônicas generalizadas, sobretudo em quem tem vários tipos de crise."
+  ],
+  "manejo": [
+   "Esperar; reduzir a dose; maior dose ao deitar; trocar de agente.",
+   "Efeitos graves ou com risco de vida: flumazenil, exceto em epilépticos em uso de clonazepam (pode precipitar crises)."
+  ],
+  "dicas_dose": [
+   "Pânico: iniciar 0,25 mg duas vezes ao dia e chegar a 1 mg/dia após 3 dias; usual 0,5 a 2 mg/dia, em 2 tomadas ou dose única ao deitar; máximo em geral 4 mg/dia.",
+   "Epilepsia: 1,5 mg/dia em 3 tomadas, aumentando 0,5 mg a cada 3 dias; máximo em geral 20 mg/dia (alguns casos graves precisam de mais).",
+   "Menor dose eficaz pelo menor tempo na ansiedade; o risco de dependência cresce com dose e duração.",
+   "Ansiedade entre doses: aumentar, fracionar mais a mesma dose ou usar dose extra ocasional.",
+   "Na ansiedade, em geral não surge tolerância e não é preciso escalar a dose; na epilepsia, pode ser.",
+   "Equivalência pelo Stahl: cerca de metade da dose de alprazolam.",
+   "Existe comprimido orodispersível."
+  ],
+  "superdosagem": "Raramente fatal em monoterapia: sedação, confusão, hiporreflexia e coma.",
+  "longo_prazo": "Pode perder eficácia na epilepsia (aumentar a dose pode restaurá-la). Risco de dependência, sobretudo após 12 semanas e em quem tem ou teve abuso de múltiplas substâncias.",
+  "dependencia": "Controlado nos EUA (classe IV); pode haver tolerância e dependência com uso prolongado. Doses maiores (epilepsia, pânico) aumentam o risco.",
+  "suspender": [
+   "Reduzir 0,25 mg a cada 3 dias; nos casos difíceis, abaixo de 1,5 mg/dia ir mais devagar, até 0,125 mg por semana ou menos.",
+   "Casos muito difíceis: retirada ao longo de meses, reduzindo cerca de 1% da dose a cada 3 a 7 dias (comprimido dissolvido em 100 mL de suco, descartando 1 mL, depois 2 mL, e assim por diante); funciona também como dessensibilização comportamental.",
+   "Quem tem história de crises pode convulsionar na retirada, sobretudo abrupta.",
+   "Diferenciar retorno da doença, rebote (piora acima do basal) e sintomas de abstinência; dependência fisiológica em paciente ansioso não equivale a adição."
+  ],
+  "interacoes": [
+   "Substrato do CYP3A4; meia-vida de 30 a 40 horas. Inibidores do CYP3A4 podem alterar o clearance, mas em geral sem necessidade de ajuste.",
+   "Flumazenil pode precipitar crises em epilépticos tratados com clonazepam.",
+   "Com valproato: pode causar estado de ausência.",
+   "Depressão do SNC somada a outros depressores."
+  ],
+  "nao_usar": [
+   "Glaucoma de ângulo fechado.",
+   "Doença hepática grave.",
+   "Alergia comprovada ao clonazepam ou a qualquer benzodiazepínico."
+  ],
+  "advertencias": [
+   "Associação com opioides (alerta em tarja da FDA): risco de depressão respiratória e morte; se inevitável, menor dose e menor tempo de ambos, orientando paciente e familiares a procurar atendimento em caso de sedação intensa, respiração lenta ou irresponsividade.",
+   "Doença pulmonar grave: relatos raros de morte após início de benzodiazepínico; apneia obstrutiva do sono só com extrema cautela.",
+   "História de uso de álcool ou drogas aumenta o risco de dependência.",
+   "Alguns deprimidos podem ter piora da ideação suicida; pode haver desinibição ou alterações de comportamento.",
+   "Pode induzir crises tônico-clônicas em quem tem vários tipos de crise."
+  ],
+  "pop": {
+   "renal": "Reduzir a dose.",
+   "hepatica": "Reduzir a dose; contraindicado na doença grave.",
+   "cardiaca": "Benzodiazepínicos já foram usados na ansiedade do infarto agudo do miocárdio.",
+   "idosos": "Doses menores e monitorização.",
+   "criancas": "Epilepsia até 10 anos ou 30 kg: 0,01 a 0,03 mg/kg/dia em 2 a 3 tomadas, máximo 0,05 mg/kg/dia. Não estabelecido no pânico; na ansiedade, doses menores e vigilância maior.",
+   "gestacao": "Possível aumento de malformações; não recomendado para ansiedade na gestação, sobretudo no primeiro trimestre. Uso no fim da gestação: abstinência e hipotonia neonatal. Se suspender, reduzir gradualmente.",
+   "lactacao": "Passa ao leite; recomendado suspender ou usar mamadeira. Descritos sedação, dificuldade de sucção e perda de peso no lactente."
+  },
+  "vantagens": [
+   "Início de ação rápido.",
+   "Ação mais longa e menos sedação que alguns benzodiazepínicos.",
+   "Comprimido orodispersível."
+  ],
+  "desvantagens": [
+   "Tolerância pode exigir aumento de dose, sobretudo na epilepsia.",
+   "Abuso especialmente arriscado em quem tem ou teve uso de substâncias."
+  ],
+  "perolas": [
+   "Um dos benzodiazepínicos mais usados por psiquiatras na ansiedade; adjuvante muito útil de ISRS e IRSN.",
+   "Mais fácil de retirar que outros pela meia-vida longa; pode ter menos potencial de abuso, euforia, depressão e dependência.",
+   "Visto como um \"alprazolam de ação longa\", com possível melhor tolerabilidade, sem comprovação.",
+   "Único benzodiazepínico usado como manutenção isolada na epilepsia; segunda linha nas ausências quando as succinimidas falham.",
+   "Não trata psicose nem transtorno bipolar em monoterapia, mas é útil como adjuvante de antipsicóticos e estabilizadores.",
+   "Na insônia, lembrar que ela costuma ser sintoma de outro transtorno clínico ou psiquiátrico a investigar.",
+   "Benzodiazepínicos são o tratamento inicial recomendado da catatonia, embora pouco estudados de forma sistemática."
+  ]
+ },
+ "clordiazepoxido": {
+  "alvos": [
+   "Ansiedade",
+   "Ataques de pânico",
+   "Abstinência alcoólica"
+  ],
+  "latencia": "Algum alívio já na primeira dose; o benefício máximo com uso diário pode levar várias semanas.",
+  "se_funciona": [
+   "Ansiedade de curta duração: após algumas semanas, suspender ou usar se necessário.",
+   "Ansiedade crônica: considerar troca por ISRS ou IRSN na manutenção."
+  ],
+  "se_nao_funciona": [
+   "Trocar ou potencializar; psicoterapia, sobretudo TCC.",
+   "Investigar uso de substâncias, abuso do próprio clordiazepóxido e comorbidade clínica."
+  ],
+  "potencializacao": [
+   "Como adjuvante: de ISRS e IRSN na ansiedade, e de antipsicóticos e estabilizadores em psicoses e no bipolar.",
+   "Não é racional associar dois benzodiazepínicos; cautela com hipnóticos para dormir."
+  ],
+  "exames": [
+   "Com epilepsia, doença clínica ou polifarmácia prolongada, pode ser prudente dosar função hepática e hemograma periodicamente."
+  ],
+  "mecanismo_ea": [
+   "Mesmo mecanismo do efeito terapêutico: ação excessiva em receptores benzodiazepínicos.",
+   "Adaptações dos receptores a longo prazo explicam tolerância, dependência e abstinência."
+  ],
+  "peso": "Relatado, mas não esperado.",
+  "sedacao": "Frequente e pode ser importante, sobretudo no início e nos aumentos de dose; tolerância costuma surgir.",
+  "ea_graves": [
+   "Depressão respiratória, sobretudo com outros depressores do SNC em superdosagem.",
+   "Raros: disfunção hepática ou renal e discrasias sanguíneas."
+  ],
+  "manejo": [
+   "Esperar; reduzir a dose; maior dose ao deitar; trocar de agente.",
+   "Efeitos graves ou com risco de vida: flumazenil."
+  ],
+  "dicas_dose": [
+   "Oral: ansiedade leve a moderada 15 a 40 mg/dia em 3 a 4 tomadas; ansiedade grave 60 a 100 mg/dia em 3 a 4 tomadas.",
+   "Injetável (formulação citada pelo Stahl nos EUA): ansiedade aguda grave 50 a 100 mg, depois 25 a 50 mg 3 a 4 vezes ao dia se preciso; abstinência alcoólica 50 a 100 mg, repetindo em 2 horas se preciso; observar por até 3 horas após a aplicação e passar à via oral se o tratamento se prolongar.",
+   "Menor dose eficaz pelo menor tempo; reavaliar a necessidade com regularidade; o risco de dependência cresce com dose e duração.",
+   "Ansiedade entre doses: aumentar, fracionar mais a mesma dose ou usar dose extra ocasional.",
+   "A duração do efeito é mais curta que a meia-vida (24 a 48 horas) sugere."
+  ],
+  "superdosagem": "Pode ser fatal: hipotensão, sonolência, ataxia, confusão e coma.",
+  "longo_prazo": "Eficácia demonstrada por até 16 semanas. Risco de dependência, sobretudo após 12 semanas e em quem tem ou teve abuso de múltiplas substâncias.",
+  "dependencia": "Controlado nos EUA (classe IV); pode haver tolerância e dependência com uso prolongado.",
+  "suspender": [
+   "Reduzir 10 mg a cada 3 dias; nos casos difíceis, abaixo de 20 mg/dia ir mais devagar, até 5 mg por semana ou menos.",
+   "Casos muito difíceis: retirada ao longo de meses, reduzindo cerca de 1% da dose a cada 3 a 7 dias (comprimido dissolvido em 100 mL de suco, descartando 1 mL, depois 2 mL, e assim por diante); funciona também como dessensibilização comportamental.",
+   "Quem tem história de crises pode convulsionar na retirada, sobretudo abrupta.",
+   "Diferenciar retorno da doença, rebote (piora acima do basal) e sintomas de abstinência; dependência fisiológica em paciente ansioso não equivale a adição."
+  ],
+  "interacoes": [
+   "Depressão do SNC somada a outros depressores (álcool, opioides, hipnóticos)."
+  ],
+  "nao_usar": [
+   "Glaucoma de ângulo fechado.",
+   "Alergia comprovada ao clordiazepóxido ou a qualquer benzodiazepínico."
+  ],
+  "advertencias": [
+   "Associação com opioides (alerta em tarja da FDA): risco de depressão respiratória e morte; se inevitável, menor dose e menor tempo de ambos, orientando paciente e familiares a procurar atendimento em caso de sedação intensa, respiração lenta ou irresponsividade.",
+   "Doença pulmonar grave: relatos raros de morte após início de benzodiazepínico; apneia obstrutiva do sono só com extrema cautela.",
+   "História de uso de álcool ou drogas aumenta o risco de dependência.",
+   "Alguns deprimidos podem ter piora da ideação suicida; pode haver desinibição ou alterações de comportamento."
+  ],
+  "pop": {
+   "renal": "Oral: iniciar 10 a 20 mg/dia em 2 a 4 tomadas e aumentar se preciso (injetável: 25 a 50 mg).",
+   "hepatica": "Oral: iniciar 10 a 20 mg/dia em 2 a 4 tomadas e aumentar se preciso (injetável: 25 a 50 mg).",
+   "cardiaca": "Benzodiazepínicos já foram usados na ansiedade do infarto agudo do miocárdio.",
+   "idosos": "Mais sensíveis à sedação: oral 10 a 20 mg/dia em 2 a 4 tomadas, aumentando se preciso.",
+   "criancas": "Oral não recomendado abaixo de 6 anos (10 a 20 mg/dia em 2 a 4 tomadas, até 20 a 30 mg/dia); injetável não recomendado abaixo de 12 anos. Vigiar efeitos paradoxais em crianças hiperativas.",
+   "gestacao": "Possível aumento de malformações; não recomendado para ansiedade na gestação, sobretudo no primeiro trimestre. Uso no fim da gestação: abstinência e hipotonia neonatal. Se suspender, reduzir gradualmente.",
+   "lactacao": "Excreção no leite desconhecida, mas presumida; recomendado suspender ou usar mamadeira. Benzodiazepínicos causam sedação, dificuldade de sucção e perda de peso no lactente."
+  },
+  "vantagens": [
+   "Início de ação rápido."
+  ],
+  "desvantagens": [
+   "Euforia pode levar a abuso.",
+   "Abuso especialmente arriscado em quem tem ou teve uso de substâncias."
+  ],
+  "perolas": [
+   "Continua opção viável na abstinência alcoólica.",
+   "Útil como adjuvante de ISRS e IRSN na ansiedade, mas menos usado que outros benzodiazepínicos.",
+   "Pode tanto causar quanto tratar depressão, em pacientes diferentes.",
+   "Não trata psicose nem transtorno bipolar em monoterapia, mas é útil como adjuvante de antipsicóticos e estabilizadores.",
+   "Na insônia, lembrar que ela costuma ser sintoma de outro transtorno clínico ou psiquiátrico a investigar.",
+   "Benzodiazepínicos são o tratamento inicial recomendado da catatonia, embora pouco estudados de forma sistemática."
+  ]
+ }
+}

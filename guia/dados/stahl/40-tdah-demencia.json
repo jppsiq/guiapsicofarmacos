@@ -1,0 +1,853 @@
+{
+"metilfenidato": {
+ "alvos": ["Atenção e concentração", "Hiperatividade motora", "Impulsividade", "Fadiga física e mental", "Sonolência diurna", "Sintomas depressivos (uso adjuvante)"],
+ "latencia": "Parte do efeito aparece já com a primeira dose; o benefício máximo pode levar algumas semanas de ajuste.",
+ "se_funciona": [
+  "No TDAH, o objetivo é reduzir desatenção, hiperatividade e impulsividade que prejudicam o funcionamento social, escolar ou ocupacional.",
+  "Manter enquanto houver benefício, reavaliando periodicamente a necessidade; o tratamento iniciado na infância pode precisar continuar na adolescência e na vida adulta."
+ ],
+ "se_nao_funciona": [
+  "Ajustar a dose, trocar de formulação de metilfenidato ou trocar de fármaco.",
+  "Associar terapia comportamental; investigar má adesão e orientar paciente e família.",
+  "Reavaliar o diagnóstico e comorbidades (transtorno bipolar, uso de substâncias, doença clínica).",
+  "Eficácia inconsistente pode refletir ativação de transtorno bipolar latente: pode ser preciso associar ou trocar por estabilizador do humor."
+ ],
+ "potencializacao": [
+  "Preferir tentar outras monoterapias antes de potencializar.",
+  "Uso por especialista: associar liberação imediata a uma formulação prolongada.",
+  "Uso por especialista: modafinila ou atomoxetina no TDAH.",
+  "Casos muito refratários: antipsicótico atípico (TDAH ou transtorno bipolar) ou antidepressivo (depressão resistente), com monitorização próxima."
+ ],
+ "exames": [
+  "Antes de iniciar: rastrear doença cardíaca (história pessoal e familiar, exame físico).",
+  "PA regularmente; peso e altura nas crianças.",
+  "No uso prolongado, considerar hemograma com plaquetas periódico (leucopenia e anemia raras); PA, peso e função hepática periódicos podem ser prudentes.",
+  "A American Heart Association recomenda ECG antes de estimulante em crianças, mas nem todos os especialistas concordam."
+ ],
+ "tabela": {
+  "titulo": "Formulações de metilfenidato (Stahl 2017)",
+  "colunas": ["Formulação", "Duração clínica", "Início e titulação", "Máximo usual"],
+  "linhas": [
+   ["Liberação imediata", "2 a 4 horas", "5 mg de manhã e 5 mg no almoço; aumentos de 5 a 10 mg por semana", "60 mg/dia"],
+   ["Liberação sustentada antiga (SR)", "4 a 6 horas", "Substitui a imediata quando a dose de 4 a 6 horas coincide; média de 20 a 30 mg/dia em 2 tomadas", "60 mg/dia"],
+   ["Esferas bifásicas (tipo LA ou CD), pico precoce", "Cerca de 8 horas", "20 mg pela manhã; aumentos de 10 mg por semana", "60 mg/dia"],
+   ["OROS (comprimido de 3 camadas)", "Até 12 horas", "18 mg pela manhã; aumentos de 18 mg por semana", "72 mg/dia"],
+   ["Suspensão oral ou cápsula multicamadas prolongadas (nos EUA)", "Até 12 horas", "10 a 20 mg pela manhã; aumentos de 10 a 20 mg por semana", "60 mg/dia"],
+   ["Adesivo transdérmico (nos EUA)", "Uso por 9 horas", "10 mg/9 h; aumentos de 5 mg/9 h por semana", "30 mg/9 h"]
+  ],
+  "nota": "A duração clínica difere da meia-vida plasmática. Tomar com alimento pode atrasar o pico das formas orais em 2 a 3 horas."
+ },
+ "mecanismo_ea": [
+  "Aumento periférico de noradrenalina: tremor, taquicardia, hipertensão e arritmias.",
+  "Aumento central de noradrenalina e dopamina: insônia, agitação, psicose e abuso."
+ ],
+ "peso": "Ganho relatado, mas não esperado; perda de peso é mais comum.",
+ "sedacao": "Relatada, mas não esperada; ativação é muito mais comum.",
+ "ea_graves": [
+  "Priapismo (raro).",
+  "Episódios psicóticos, sobretudo com uso parenteral abusivo.",
+  "Convulsões.",
+  "Palpitações, taquicardia, hipertensão; morte súbita em portadores de anomalia cardíaca estrutural.",
+  "Síndrome neuroléptica maligna (rara).",
+  "Ativação de hipomania, mania ou ideação suicida (rara e controversa)."
+ ],
+ "manejo": [
+  "Aguardar, ajustar a dose, trocar de formulação ou de fármaco.",
+  "Insônia: evitar doses à tarde e à noite.",
+  "Efeitos autonômicos periféricos: betabloqueador.",
+  "Na maioria dos efeitos adversos, reduzir a dose ou trocar funciona melhor que acrescentar outro fármaco."
+ ],
+ "dicas_dose": [
+  "TDAH oral: em crianças a partir de 6 anos, até 2 mg/kg/dia com máximo de 60 mg/dia; em adultos, em geral 20 a 30 mg/dia, podendo chegar a 40 a 60 mg/dia (OROS até 72 mg/dia).",
+  "Narcolepsia: 20 a 60 mg/dia em 2 a 3 tomadas, 30 a 45 minutos antes das refeições.",
+  "As formas SR antigas (4 a 6 horas) em geral não cobrem o dia escolar e exigem dose no almoço; as formas prolongadas modernas dispensam a dose na escola, evitando problemas de armazenamento, desvio e supervisão.",
+  "Formas prolongadas devem ser engolidas inteiras, sem mastigar (exceto as mastigáveis).",
+  "O comprimido OROS não muda de forma no trato gastrointestinal: evitar em estreitamento gastrointestinal pelo risco de obstrução.",
+  "Pode-se usar só nos dias de aula e fazer pausas nas férias para reavaliar a necessidade, avaliar efeitos adversos e permitir recuperação do crescimento.",
+  "Evitar doses no fim do dia pelo risco de insônia; os efeitos adversos são em geral dose-dependentes.",
+  "Usos off-label seguem a mesma posologia do TDAH.",
+  "Adesivo (nos EUA): aplicar 2 horas antes do efeito desejado, no quadril, pele seca e íntegra, trocando o local diariamente; não cortar; lavar as mãos após aplicar; evitar calor local (aumenta a absorção); retirar antes para encerrar o efeito; mesma titulação para quem vem de outra formulação."
+ ],
+ "superdosagem": "Vômitos, tremor, hiper-reflexia, euforia, confusão, alucinações, convulsões, coma, taquicardia, arritmia, hipertensão, rubor, sudorese, hipertermia e midríase. Antipsicóticos atípicos podem ajudar nas consequências estimulantes ou psicóticas.",
+ "longo_prazo": "Usado por longo prazo no TDAH quando a monitorização documenta eficácia contínua. Pode haver tolerância ao efeito terapêutico em alguns pacientes, dependência ou abuso e, em crianças, supressão do crescimento (controversa).",
+ "dependencia": "Alto potencial de abuso (substância controlada, lista II nos EUA; no Brasil, lista A3). Pode haver tolerância e dependência psicológica.",
+ "suspender": [
+  "Reduzir gradualmente para evitar sintomas de retirada.",
+  "A suspensão após uso terapêutico crônico pode revelar os sintomas do transtorno de base e exigir reintrodução.",
+  "Na retirada após uso abusivo, supervisionar de perto: pode ocorrer depressão grave."
+ ],
+ "interacoes": [
+  "Pode inibir o metabolismo de ISRS, anticonvulsivantes (fenobarbital, fenitoína, primidona), tricíclicos e anticoagulantes cumarínicos, exigindo redução da dose desses fármacos.",
+  "Pode alterar a PA: cautela com anti-hipertensivos.",
+  "Relatos controversos de eventos graves com clonidina.",
+  "IMAO (inclusive até 14 dias após): não recomendado, salvo por especialista em depressão refratária com monitorização próxima.",
+  "Bloqueadores da recaptação de noradrenalina (desipramina, protriptilina, venlafaxina, duloxetina, atomoxetina, milnaciprana, reboxetina) podem somar efeitos centrais e cardiovasculares.",
+  "Antipsicóticos e metilfenidato podem antagonizar-se mutuamente; a associação com estabilizadores do humor é para especialistas."
+ ],
+ "nao_usar": [
+  "Ansiedade ou agitação extremas.",
+  "Tiques motores, síndrome de Tourette ou história familiar de Tourette, salvo por especialista quando o benefício no TDAH superar o risco.",
+  "Uso de IMAO ou até 14 dias após, salvo situações excepcionais e por especialista.",
+  "Glaucoma.",
+  "Anomalias cardíacas estruturais.",
+  "Alergia ao metilfenidato."
+ ],
+ "advertencias": [
+  "Cautela em hipertensão de qualquer grau, hipertireoidismo e história de abuso de substâncias ou álcool.",
+  "Suspender, ao menos temporariamente, em crianças que não crescem ou não ganham peso.",
+  "Pode piorar tiques e sintomas psicóticos; pode reduzir o limiar convulsivo.",
+  "Prescrever com parcimônia, documentar o uso e ficar atento a desvio para terceiros.",
+  "Não é tratamento de primeira linha para depressão nem para fadiga comum.",
+  "Ativação ou agitação novas podem indicar indução de estado bipolar (sobretudo misto disfórico, com risco de ideação suicida): associar estabilizador e/ou suspender.",
+  "Adesivo: pode causar leucodermia química (despigmentação permanente) e sensibilização de contato; retirar antes de ressonância magnética se tiver metal no verso."
+ ],
+ "pop": {
+  "renal": "Sem ajuste.",
+  "hepatica": "Sem ajuste.",
+  "cardiaca": "Cautela, sobretudo após infarto recente ou em condições que pioram com aumento da PA. Não usar em anomalia cardíaca estrutural.",
+  "idosos": "Alguns toleram melhor doses menores.",
+  "criancas": "Segurança e eficácia não estabelecidas abaixo de 6 anos; em crianças pequenas, uso reservado a especialistas. Efeito agudo sobre o hormônio do crescimento: monitorar peso e altura. Relatos de morte súbita em cardiopatas graves. Meia-vida e duração de ação menores em crianças pequenas.",
+  "gestacao": "Sem estudos controlados; teratogênico em coelhos com doses muito altas. Recém-nascidos expostos podem ter sintomas de abstinência. No TDAH, em geral suspender antes de uma gestação planejada.",
+  "lactacao": "Excreção no leite desconhecida; o Stahl recomenda suspender o fármaco ou usar mamadeira e suspender se o lactente ficar irritado."
+ },
+ "vantagens": [
+  "Eficácia de longo prazo estabelecida como primeira linha no TDAH.",
+  "Muitas opções de formulação, pico e duração de ação."
+ ],
+ "desvantagens": [
+  "Uso atual ou prévio de substâncias.",
+  "Transtorno bipolar ou psicose atuais ou prévios."
+ ],
+ "perolas": [
+  "Pode ajudar em sintomas depressivos de idosos com doença clínica e na depressão pós-AVC; estratégia clássica de potencialização na depressão refratária, sobretudo para disfunção cognitiva e fadiga residuais.",
+  "Pode tratar prejuízo cognitivo, sintomas depressivos e fadiga intensa em HIV e câncer; potencializa a analgesia opioide e reduz a sedação em cuidados de fim de vida.",
+  "Alguns respondem melhor ou toleram melhor metilfenidato que anfetamina, e vice-versa.",
+  "OROS: menor pico inicial e maior duração; útil para quem trabalha ou estuda à noite. Formas bifásicas de 8 horas: úteis para quem perde o apetite no jantar ou tem insônia com o OROS.",
+  "Alguns se beneficiam de 5 a 10 mg ocasionais de liberação imediata somados à base prolongada.",
+  "O abuso de drogas pode ser menor em adolescentes com TDAH tratados com estimulantes do que nos não tratados.",
+  "Adesivo: menor potencial de abuso, absorção mais estável e possibilidade de retirada precoce, mas início mais lento e sensibilização cutânea."
+ ]
+},
+"lisdexanfetamina": {
+ "alvos": ["Atenção e concentração", "Hiperatividade motora", "Impulsividade", "Compulsão alimentar", "Fadiga física e mental", "Sonolência diurna", "Sintomas depressivos (uso adjuvante)"],
+ "latencia": "Parte do efeito aparece já com a primeira dose; o benefício máximo pode levar algumas semanas de ajuste.",
+ "se_funciona": [
+  "No TDAH, o objetivo é reduzir desatenção, hiperatividade e impulsividade que prejudicam o funcionamento.",
+  "Manter enquanto houver benefício, reavaliando periodicamente; o tratamento iniciado na infância pode continuar na vida adulta."
+ ],
+ "se_nao_funciona": [
+  "Ajustar a dose ou trocar por outra formulação de anfetamina ou outro fármaco.",
+  "Associar terapia comportamental; investigar má adesão e orientar paciente e família.",
+  "Reavaliar diagnóstico e comorbidades (transtorno bipolar, uso de substâncias, doença clínica).",
+  "Eficácia inconsistente pode refletir ativação de transtorno bipolar latente: associar ou trocar por estabilizador do humor."
+ ],
+ "potencializacao": [
+  "Preferir tentar outras monoterapias antes de potencializar.",
+  "Uso por especialista: modafinila ou atomoxetina no TDAH.",
+  "Casos muito refratários: antipsicótico atípico (TDAH ou transtorno bipolar) ou antidepressivo (depressão resistente), com monitorização próxima."
+ ],
+ "exames": [
+  "Antes de iniciar: rastrear doença cardíaca (história pessoal e familiar, exame físico).",
+  "PA regularmente; peso e altura nas crianças.",
+  "No uso prolongado, PA, peso, hemograma com plaquetas e função hepática periódicos podem ser prudentes.",
+  "A American Heart Association recomenda ECG antes de estimulante em crianças, mas nem todos os especialistas concordam."
+ ],
+ "mecanismo_ea": [
+  "Pró-fármaco: só vira dextroanfetamina após absorção intestinal.",
+  "Aumento periférico de noradrenalina: tremor, taquicardia, hipertensão e arritmias.",
+  "Aumento central de noradrenalina e dopamina: insônia, agitação, psicose e abuso."
+ ],
+ "peso": "Ganho relatado, mas não esperado; perda de peso é mais comum.",
+ "sedacao": "Relatada, mas não esperada; ativação é muito mais comum.",
+ "ea_graves": [
+  "Episódios psicóticos.",
+  "Convulsões.",
+  "Palpitações, taquicardia, hipertensão; morte súbita em portadores de anomalia cardíaca estrutural.",
+  "Ativação de hipomania, mania ou ideação suicida (rara e controversa)."
+ ],
+ "manejo": [
+  "Aguardar, ajustar a dose, trocar por outro estimulante de longa ação ou por outro fármaco.",
+  "Insônia: não tomar depois da manhã.",
+  "Efeitos autonômicos periféricos: betabloqueador.",
+  "Na maioria dos efeitos adversos, reduzir a dose ou trocar funciona melhor que acrescentar outro fármaco.",
+  "Disfunção sexual pode surgir no uso prolongado, embora a curto prazo possa até melhorar a função sexual."
+ ],
+ "dicas_dose": [
+  "TDAH: início com 30 mg pela manhã, aumentos de 10 a 20 mg por semana; faixa de 30 a 70 mg/dia; máximo de 70 mg/dia.",
+  "Compulsão alimentar: início com 30 mg pela manhã, aumentos de 20 mg por semana até 50 a 70 mg/dia; máximo de 70 mg/dia.",
+  "Duração clínica de 10 a 12 horas: uma dose diária dispensa a dose na escola.",
+  "A cápsula pode ser engolida inteira ou aberta e dissolvida em água; beber toda a solução logo em seguida. Não dividir a dose de uma cápsula.",
+  "Pode ser tomada com ou sem alimento.",
+  "Pode-se usar só nos dias de aula e fazer pausas nas férias para reavaliar a necessidade e o crescimento."
+ ],
+ "superdosagem": "Raramente fatal: pânico, hiper-reflexia, rabdomiólise, taquipneia, confusão, alucinações, convulsões, arritmias, alterações da PA, colapso circulatório e coma. Acidificantes urinários aumentam a eliminação; antipsicóticos atípicos podem ajudar nas consequências estimulantes ou psicóticas.",
+ "longo_prazo": "Pode ser usada por longo prazo no TDAH quando a monitorização documenta eficácia contínua. Pode haver tolerância, dependência ou abuso e, em crianças, supressão do crescimento (controversa).",
+ "dependencia": "Substância controlada (lista II nos EUA). Pode haver tolerância e dependência psicológica, mas, por ser pró-fármaco com início tardio e ação longa, tem teoricamente menor potencial de abuso que outros estimulantes quando usada como prescrita.",
+ "suspender": [
+  "Reduzir gradualmente para evitar sintomas de retirada.",
+  "A suspensão após uso crônico pode revelar os sintomas do transtorno de base e exigir reintrodução.",
+  "Na retirada após uso abusivo, supervisionar de perto: pode ocorrer depressão grave."
+ ],
+ "interacoes": [
+  "Acidificantes gastrointestinais ou urinários (vitamina C, sucos de fruta, cloreto de amônio) reduzem os níveis de anfetamina; alcalinizantes (bicarbonato de sódio, acetazolamida, alguns tiazídicos) aumentam os níveis e potencializam o efeito.",
+  "Desipramina e protriptilina aumentam muito a dextroanfetamina cerebral e somam efeitos cardiovasculares; outros bloqueadores da recaptação de noradrenalina (venlafaxina, duloxetina, atomoxetina, milnaciprana, reboxetina) podem somar efeitos.",
+  "IMAO: potencializam a anfetamina, com risco de crise hipertensiva e hipertermia maligna, às vezes fatais; não associar (inclusive até 14 dias após), salvo por especialista em depressão refratária.",
+  "Haloperidol, clorpromazina e lítio podem inibir o efeito estimulante; antipsicóticos e anfetaminas podem antagonizar-se mutuamente.",
+  "Pode reduzir o efeito de anti-hipertensivos e bloqueadores adrenérgicos e antagonizar a sedação de anti-histamínicos.",
+  "Retarda a absorção de fenobarbital, fenitoína e etossuximida; aumenta a analgesia da meperidina e os níveis de corticoides."
+ ],
+ "nao_usar": [
+  "Ansiedade ou agitação extremas.",
+  "Tiques motores, síndrome de Tourette ou história familiar de Tourette, salvo por especialista.",
+  "Uso de IMAO ou até 14 dias após, salvo situações excepcionais e por especialista.",
+  "Arteriosclerose, doença cardiovascular, hipertensão grave ou anomalia cardíaca estrutural.",
+  "Glaucoma.",
+  "Hipertireoidismo.",
+  "Alergia a simpaticomiméticos."
+ ],
+ "advertencias": [
+  "Cautela em hipertensão de qualquer grau e história de abuso de substâncias ou álcool.",
+  "Suspender, ao menos temporariamente, em crianças que não crescem ou não ganham peso.",
+  "Pode piorar tiques e sintomas psicóticos; pode reduzir o limiar convulsivo.",
+  "Prescrever com parcimônia e ficar atento a desvio para terceiros.",
+  "Não é tratamento de primeira linha para depressão nem para fadiga comum.",
+  "Ativação ou agitação novas podem indicar indução de estado bipolar: associar estabilizador e/ou suspender."
+ ],
+ "pop": {
+  "renal": "Insuficiência grave: máximo de 50 mg/dia. Doença renal terminal: máximo de 30 mg/dia.",
+  "hepatica": "Usar com cautela.",
+  "cardiaca": "Cautela após infarto recente ou em condições que pioram com aumento da PA. Não usar em anomalia estrutural, cardiomiopatia, arritmia grave ou doença coronariana.",
+  "idosos": "Alguns toleram melhor doses menores.",
+  "criancas": "Segurança e eficácia não estabelecidas abaixo de 6 anos; em crianças pequenas, uso reservado a especialistas. Pode piorar psicose em crianças psicóticas. Monitorar peso e altura. Relatos de morte súbita em cardiopatas graves.",
+  "gestacao": "Sem estudos controlados. A dextroanfetamina na gestação aumenta o risco de prematuridade e baixo peso ao nascer, e o recém-nascido pode ter abstinência. No TDAH, em geral suspender antes de uma gestação planejada.",
+  "lactacao": "Passa para o leite; recomendado suspender o fármaco ou usar mamadeira."
+ },
+ "vantagens": [
+  "Primeiro tratamento aprovado nos EUA para transtorno de compulsão alimentar.",
+  "Como pró-fármaco, pode ter menor propensão a abuso, intoxicação e dependência; útil em adultos sem diagnóstico prévio de TDAH na infância, para reduzir risco de abuso e desvio."
+ ],
+ "desvantagens": [
+  "Uso atual ou prévio de substâncias.",
+  "Transtorno bipolar ou psicose atuais ou prévios."
+ ],
+ "perolas": [
+  "Na compulsão alimentar, a liberação controlada favoreceria o disparo dopaminérgico tônico e reverteria a passagem do comer por recompensa para o comer por hábito.",
+  "Útil em sintomas depressivos de idosos com doença clínica, depressão pós-AVC e como potencialização na depressão refratária, sobretudo para disfunção cognitiva e fadiga residuais.",
+  "Pode tratar prejuízo cognitivo, depressão e fadiga intensa em HIV e câncer e potencializar a analgesia opioide em cuidados de fim de vida.",
+  "Pode reverter disfunção sexual da doença psiquiátrica ou de ISRS (libido, ereção, ejaculação retardada, anorgasmia).",
+  "Apesar das advertências, pode ser adjuvante de IMAO em transtornos do humor muito refratários, com vigilância rigorosa (uso por especialista).",
+  "Alguns respondem melhor ou toleram melhor a lisdexanfetamina que o metilfenidato ou outras anfetaminas, e vice-versa.",
+  "Meia-vida e duração de ação menores em crianças pequenas."
+ ]
+},
+"atomoxetina": {
+ "alvos": ["Atenção e concentração", "Hiperatividade motora", "Humor deprimido"],
+ "latencia": "O início pode ser visto já no primeiro dia, mas o efeito continua a melhorar por 8 a 12 semanas. Se não houver resposta em 6 a 8 semanas, provavelmente não funcionará.",
+ "se_funciona": [
+  "No TDAH, o objetivo é reduzir desatenção, hiperatividade e impulsividade que prejudicam o funcionamento.",
+  "Manter enquanto houver benefício, reavaliando periodicamente; o tratamento iniciado na infância pode continuar na vida adulta."
+ ],
+ "se_nao_funciona": [
+  "Ajustar a dose ou trocar de fármaco.",
+  "Associar terapia comportamental; investigar má adesão e orientar paciente e família.",
+  "Reavaliar diagnóstico e comorbidades (transtorno bipolar, uso de substâncias, doença clínica).",
+  "Eficácia inconsistente pode refletir ativação de transtorno bipolar latente: suspender e trocar por estabilizador do humor."
+ ],
+ "potencializacao": [
+  "Preferir tentar outras monoterapias antes de potencializar.",
+  "Uso por especialista: modafinila, metilfenidato ou anfetamina no TDAH.",
+  "Depressão resistente: ISRS, IRSN ou mirtazapina, com cautela pelo risco teórico de ativar transtorno bipolar e ideação suicida.",
+  "Transtorno bipolar comórbido: estabilizador do humor ou antipsicótico atípico."
+ ],
+ "exames": [
+  "Nenhum obrigatório em pessoas saudáveis.",
+  "Prudente medir PA e pulso no início e até estabilizar a dose.",
+  "Monitorar crescimento (peso e altura) nas crianças."
+ ],
+ "mecanismo_ea": [
+  "Aumento de noradrenalina em áreas do cérebro e do corpo não ligadas ao efeito terapêutico: redução do apetite, aumento de FC e PA, boca seca, retenção urinária.",
+  "Não aumenta dopamina no núcleo accumbens (que tem pouco transportador de noradrenalina), o que explicaria a ausência de potencial de abuso.",
+  "A maioria dos efeitos é imediata e melhora com o tempo."
+ ],
+ "peso": "Ganho relatado, mas não esperado; pode haver perda de peso.",
+ "sedacao": "Ocorre em minoria significativa, sobretudo em crianças.",
+ "ea_graves": [
+  "Aumento de FC e hipertensão; hipotensão ortostática.",
+  "Lesão hepática grave (rara).",
+  "Hipomania e, teoricamente, indução rara de mania.",
+  "Ativação rara de ideação e comportamento suicida.",
+  "Priapismo (raro)."
+ ],
+ "manejo": [
+  "Aguardar: muitos efeitos são dose e tempo-dependentes e melhoram com a tolerância.",
+  "Reduzir a dose ou dividir em duas tomadas se estiver em dose única.",
+  "Se causar sedação, tomar à noite.",
+  "Hesitação urinária: bloqueador alfa-1, como tansulosina.",
+  "Ativação e agitação podem indicar estado bipolar (sobretudo misto disfórico): associar lítio, estabilizador ou antipsicótico atípico e/ou suspender.",
+  "Se persistir após algumas semanas, trocar ou associar outro fármaco."
+ ],
+ "dicas_dose": [
+  "Até 70 kg: início com 0,5 mg/kg/dia; após 7 dias, 1,2 mg/kg/dia (dose-alvo), em dose única matinal ou dividida; máximo de 1,4 mg/kg/dia ou 100 mg/dia, o que for menor.",
+  "Adultos e acima de 70 kg: início com 40 mg/dia; após 7 dias, 80 mg/dia; após 2 a 4 semanas, 100 mg/dia se necessário; máximo de 100 mg/dia.",
+  "Faixa usual: 0,5 a 1,2 mg/kg/dia em crianças; 40 a 100 mg/dia em adultos. Alguns precisam de até 1,8 mg/kg/dia.",
+  "Funciona em dose única diária apesar da meia-vida de 5 horas: o efeito terapêutico persiste além do nível plasmático, ao contrário dos estimulantes.",
+  "A dose única pode aumentar efeitos gastrointestinais.",
+  "A dose inicial baixa identifica os sensíveis a taquicardia e aumento de PA, como os metabolizadores lentos do CYP2D6 (cerca de 7% dos brancos e 2% dos negros), nos quais se titula devagar.",
+  "O alimento não altera a absorção."
+ ],
+ "superdosagem": "Sem mortes relatadas em monoterapia; sedação, agitação, hiperatividade, comportamento anormal e sintomas gastrointestinais.",
+ "longo_prazo": "Segura.",
+ "dependencia": "Não causa dependência; não é substância controlada.",
+ "suspender": ["Não é necessário reduzir gradualmente."],
+ "interacoes": [
+  "Inibidores do CYP2D6 (paroxetina, fluoxetina) aumentam os níveis: pode ser preciso reduzir a dose.",
+  "Salbutamol oral ou intravenoso pode aumentar FC e PA.",
+  "Com metilfenidato, os efeitos cardiovasculares não superam os do metilfenidato isolado.",
+  "Tramadol aumenta o risco de convulsões.",
+  "IMAO (inclusive até 14 dias após): só por especialista, com cautela.",
+  "Cautela com anti-hipertensivos."
+ ],
+ "nao_usar": [
+  "Uso de IMAO (salvo por especialista, como acima).",
+  "Feocromocitoma atual ou prévio.",
+  "Doença cardiovascular grave que possa piorar com aumento de FC e PA.",
+  "Glaucoma de ângulo fechado.",
+  "Alergia à atomoxetina."
+ ],
+ "advertencias": [
+  "Monitorar crescimento; considerar interromper se a criança não cresce ou não ganha peso.",
+  "Cautela em hipertensão, taquicardia, doença cardiovascular ou cerebrovascular.",
+  "Cautela em transtorno bipolar e em retenção urinária ou hiperplasia prostática.",
+  "Hepatotoxicidade rara: suspender se icterícia ou disfunção hepática significativa.",
+  "Morte súbita relatada em crianças com anomalia cardíaca estrutural ou cardiopatia grave.",
+  "Orientar paciente e cuidadores sobre ativação e ideação suicida (sobretudo crianças e adolescentes) e documentar risco e benefício no prontuário."
+ ],
+ "pop": {
+  "renal": "Em geral sem ajuste.",
+  "hepatica": "Insuficiência moderada: 50% da dose habitual. Grave: 25% da dose.",
+  "cardiaca": "Cautela, pois aumenta FC e PA. Não usar em anomalia cardíaca estrutural.",
+  "idosos": "Alguns toleram melhor doses menores. Em maiores de 65 anos, os antidepressivos reduzem o risco de suicidalidade em relação ao placebo.",
+  "criancas": "Aprovada nos EUA a partir de 6 anos; dose-alvo de 1,2 mg/kg/dia. Não usar em anomalia estrutural ou cardiopatia grave. Documentar risco e benefício, avaliar presencialmente nas primeiras semanas e vigiar ativação de bipolaridade e ideação suicida, envolvendo os pais.",
+  "gestacao": "Sem estudos controlados; alguns estudos em animais mostraram efeitos adversos. Em geral suspender antes de uma gestação planejada.",
+  "lactacao": "Excreção no leite desconhecida; recomendado suspender o fármaco ou usar mamadeira."
+ },
+ "vantagens": [
+  "Sem potencial de abuso conhecido.",
+  "Pode não piorar tiques em pacientes com Tourette e TDAH."
+ ],
+ "desvantagens": [
+  "Pode agir mais devagar que os estimulantes no início do tratamento."
+ ],
+ "perolas": [
+  "Ao contrário dos outros fármacos para TDAH, não tem potencial de abuso e não é controlada.",
+  "Apesar de ser inibidor seletivo da recaptação de noradrenalina, aumenta dopamina e noradrenalina no córtex pré-frontal (que quase não tem transportador de dopamina), o que explicaria o efeito na atenção.",
+  "O mecanismo sugere ação antidepressiva e possível utilidade na dor crônica, mas também risco de desestabilizar transtorno bipolar latente: cautela em TDAH com possível bipolaridade.",
+  "Retenção urinária em homens acima de 50 anos com fluxo limítrofe foi vista com outros bloqueadores potentes da recaptação de noradrenalina: usar com cautela."
+ ]
+},
+"guanfacina": {
+ "alvos": ["Concentração", "Hiperatividade motora", "Comportamento opositor e impulsivo", "Hipertensão arterial"],
+ "latencia": "No TDAH, pode levar algumas semanas até o benefício máximo. A PA cai 30 a 60 minutos após a primeira dose, com efeito máximo em 2 a 4 horas; o controle adequado pode levar semanas.",
+ "se_funciona": [
+  "No TDAH, o objetivo é reduzir desatenção, hiperatividade e impulsividade que prejudicam o funcionamento.",
+  "Manter enquanto houver benefício (há estudos de até 2 anos), reavaliando periodicamente; o tratamento iniciado na infância pode continuar na vida adulta."
+ ],
+ "se_nao_funciona": [
+  "Ajustar a dose ou trocar de fármaco.",
+  "Associar terapia comportamental; investigar má adesão e orientar paciente e família.",
+  "Reavaliar diagnóstico e comorbidades (transtorno bipolar, uso de substâncias, doença clínica)."
+ ],
+ "potencializacao": [
+  "No TDAH, preferir outra monoterapia antes de associar.",
+  "Possível associação com estimulantes, com cautela, por especialista, quando outras opções falharam.",
+  "Na hipertensão: clortalidona, tiazídicos ou furosemida."
+ ],
+ "exames": ["PA regularmente durante o tratamento."],
+ "mecanismo_ea": [
+  "Ação excessiva em receptores alfa-2A e ação não seletiva em alfa-2B e alfa-2C."
+ ],
+ "peso": "Relatado, mas não esperado.",
+ "sedacao": "Frequente e às vezes intensa; alguns não toleram. Pode diminuir com o tempo e tende a ser menor com a formulação prolongada.",
+ "ea_graves": ["Bradicardia sinusal e hipotensão, dose-dependentes."],
+ "manejo": [
+  "Aguardar ou ajustar a dose; se persistir, suspender.",
+  "Os efeitos são dose-dependentes e em geral transitórios; doses acima de 2 mg/dia (liberação imediata) causam mais efeitos adversos.",
+  "Calor excessivo (sauna) pode piorar tontura e sonolência."
+ ],
+ "dicas_dose": [
+  "Liberação prolongada (TDAH): início com 1 mg/dia, aumentos de 1 mg por semana; faixa de 1 a 4 mg/dia; máximo de 4 mg/dia. Considerar dose por peso de 0,05 a 0,12 mg/kg.",
+  "Liberação imediata: início com 1 mg ao deitar; após 3 a 4 semanas, 2 mg/dia; faixa de 1 a 2 mg/dia. Na hipertensão, 2 mg podem não ser mais eficazes que 1 mg.",
+  "As formulações imediata e prolongada têm cinética diferente: não substituir mg por mg.",
+  "O comprimido prolongado não deve ser triturado, mastigado ou partido, nem tomado com refeição gordurosa (aumenta a exposição)."
+ ],
+ "superdosagem": "Sonolência, letargia, bradicardia e hipotensão.",
+ "longo_prazo": "Segura e eficaz na hipertensão; há estudos de até 2 anos no TDAH.",
+ "dependencia": "Não causa dependência; não é substância controlada.",
+ "suspender": [
+  "Reduzir gradualmente: a suspensão abrupta pode causar hipertensão de rebote em 2 a 4 dias, com nervosismo."
+ ],
+ "interacoes": [
+  "Inibidores do CYP3A4 (nefazodona, fluoxetina, fluvoxamina, cetoconazol) reduzem a depuração e aumentam bastante os níveis.",
+  "Indutores do CYP3A4 (como fenobarbital e fenitoína) reduzem bastante os níveis.",
+  "Pode aumentar os níveis de valproato.",
+  "Soma efeito depressor com outros depressores do SNC."
+ ],
+ "nao_usar": ["Alergia à guanfacina."],
+ "advertencias": [
+  "Cautela em insuficiência coronariana grave, infarto recente, doença cerebrovascular e insuficiência renal ou hepática crônica.",
+  "Cautela em quem tem risco de hipotensão, bradicardia, bloqueio cardíaco ou síncope."
+ ],
+ "pop": {
+  "renal": "Usar doses menores.",
+  "hepatica": "Usar com cautela.",
+  "cardiaca": "Cautela após infarto recente, em insuficiência coronariana grave, doença cerebrovascular e em risco de hipotensão, bradicardia, bloqueio ou síncope.",
+  "idosos": "Meia-vida pode ser mais longa e a sensibilidade à sedação maior.",
+  "criancas": "Formulação prolongada aprovada nos EUA para TDAH de 6 a 17 anos, em monoterapia ou associada. Segurança não estabelecida abaixo de 6 anos. Relatos de mania e agressividade em crianças com TDAH.",
+  "gestacao": "Sem estudos controlados; estudos em animais sem efeitos adversos. Pesar risco e benefício.",
+  "lactacao": "Excreção no leite desconhecida; recomendado suspender o fármaco ou usar mamadeira."
+ },
+ "vantagens": [
+  "Não é estimulante, sem potencial de abuso conhecido e não é controlada.",
+  "Útil no comportamento opositor associado ao TDAH.",
+  "Menos sedação que a clonidina."
+ ],
+ "desvantagens": ["Pouco estudada em adultos com TDAH."],
+ "perolas": [
+  "Eficaz em crianças e adultos; a forma prolongada é aprovada nos EUA para TDAH dos 6 aos 17 anos.",
+  "Também trata tiques, inclusive na síndrome de Tourette.",
+  "É relativamente seletiva para alfa-2A (15 a 20 vezes mais que para alfa-2B e 2C), enquanto a clonidina age em alfa-2A, 2B, 2C e em receptores imidazolínicos, com mais sedação e hipotensão.",
+  "Pode ser usada sozinha ou com estimulantes no comportamento opositor de crianças, com ou sem TDAH."
+ ]
+},
+"clonidina": {
+ "alvos": ["Concentração", "Hiperatividade motora", "Comportamento opositor e impulsivo", "Hipertensão arterial", "Sintomas autonômicos de abstinência"],
+ "latencia": "No TDAH, pode levar algumas semanas até o benefício máximo. A PA cai 30 a 60 minutos após a primeira dose, com efeito máximo em 2 a 4 horas; o controle adequado pode levar semanas.",
+ "se_funciona": [
+  "No TDAH, o objetivo é reduzir desatenção, hiperatividade e impulsividade que prejudicam o funcionamento; manter enquanto houver benefício, reavaliando periodicamente.",
+  "Na hipertensão, manter indefinidamente e medir a PA regularmente."
+ ],
+ "se_nao_funciona": [
+  "Ajustar a dose ou trocar de fármaco.",
+  "Associar terapia comportamental; investigar má adesão e orientar paciente e família.",
+  "Reavaliar diagnóstico e comorbidades (transtorno bipolar, uso de substâncias, doença clínica)."
+ ],
+ "potencializacao": [
+  "No TDAH, preferir outra monoterapia antes de associar.",
+  "Possível associação com estimulantes, com cautela: benefício pouco documentado e relatos de eventos adversos graves; só por especialista, com monitorização.",
+  "Na hipertensão: clortalidona, tiazídicos ou furosemida."
+ ],
+ "exames": ["PA regularmente durante o tratamento."],
+ "mecanismo_ea": [
+  "Ação excessiva em receptores alfa-2 e/ou imidazolínicos."
+ ],
+ "peso": "Relatado, mas não esperado.",
+ "sedacao": "Frequente e às vezes intensa; alguns não toleram. Pode diminuir com o tempo. Muitas vezes leva ao abandono, sobretudo no TDAH e na síndrome de Tourette.",
+ "ea_graves": [
+  "Bradicardia sinusal e bloqueio atrioventricular.",
+  "Na retirada: encefalopatia hipertensiva, AVC e morte (raros)."
+ ],
+ "manejo": [
+  "Aguardar; os efeitos são dose-dependentes e em geral transitórios.",
+  "Dar a dose maior ao deitar para reduzir a sedação diurna.",
+  "Trocar por fármaco com melhor evidência se não tolerar.",
+  "Reações de retirada: reintroduzir a clonidina e, após estabilizar, reduzir muito devagar."
+ ],
+ "dicas_dose": [
+  "TDAH (liberação prolongada, nos EUA): 0,1 a 0,4 mg/dia em doses divididas. Início com 0,1 mg ao deitar; aumentos de 0,1 mg/dia por semana, com a dose maior ao deitar; máximo de 0,4 mg/dia.",
+  "Abstinência de opioides: 0,1 mg 3 vezes ao dia (mais alto em internação); omitir a dose se PA abaixo de 90/60 mmHg. Ambulatorialmente, fornecer no máximo 3 dias de medicação; a desintoxicação de opioides de ação curta leva 4 a 6 dias.",
+  "Hipertensão: início com 0,1 mg/dia em 2 tomadas (manhã e noite); aumentos de 0,1 mg/dia por semana; faixa de 0,2 a 0,6 mg/dia; máximo de 2,4 mg/dia. A última dose ao deitar controla a PA à noite.",
+  "Adesivo semanal (nos EUA): aplicar a cada 7 dias em área sem pelos, trocando o local.",
+  "O comprimido prolongado não deve ser mastigado, triturado ou partido; os diferentes produtos de clonidina não são intercambiáveis mg por mg.",
+  "Associar outro anti-hipertensivo pode atenuar a tolerância ao efeito hipotensor.",
+  "Doses de 0,1 mg 3 vezes ao dia foram relatadas para reduzir a insônia causada por estimulantes e a impulsividade."
+ ],
+ "superdosagem": "Hipotensão ou hipertensão, miose, depressão respiratória, convulsões, bradicardia, hipotermia, arritmias, sedação, hiporreflexia, fraqueza e coma. Crianças são mais suscetíveis e podem ter toxicidade com apenas 0,1 mg.",
+ "longo_prazo": "Pode haver tolerância ao efeito anti-hipertensivo. A utilidade prolongada nos usos em SNC não está estabelecida. Esquecimentos ou falta do medicamento causam suspensão abrupta e reações de retirada.",
+ "dependencia": "Há relatos de abuso por dependentes de opioides e por outros pacientes.",
+ "suspender": [
+  "Reações de retirada são comuns e às vezes graves: nervosismo, agitação, cefaleia, tremor e aumento rápido da PA; raramente encefalopatia hipertensiva, AVC e morte.",
+  "Reduzir no máximo 0,1 mg a cada 3 a 7 dias (retirada em pelo menos 2 a 4 dias, idealmente mais); o risco é maior após doses altas.",
+  "Se houver betabloqueador associado, suspendê-lo alguns dias antes de iniciar a retirada da clonidina."
+ ],
+ "interacoes": [
+  "Betabloqueadores aumentam o risco de reação de retirada grave.",
+  "Fármacos que afetam os nós sinusal ou atrioventricular (digitálicos, bloqueadores de canal de cálcio, betabloqueadores) podem causar bradicardia ou bloqueio AV.",
+  "Tricíclicos podem reduzir o efeito hipotensor.",
+  "Soma sedação e depressão com outros depressores do SNC."
+ ],
+ "nao_usar": ["Alergia à clonidina."],
+ "advertencias": [
+  "Suspensão abrupta já causou encefalopatia hipertensiva, AVC e morte.",
+  "Sensibilização de contato ao adesivo: continuar o adesivo em outro local ou trocar para via oral pode causar exantema generalizado, urticária ou angioedema.",
+  "Retirar o adesivo antes de ressonância magnética se tiver metal no verso.",
+  "A forma injetável não é recomendada para dor obstétrica, pós-parto ou perioperatória."
+ ],
+ "pop": {
+  "renal": "Usar com cautela e talvez reduzir a dose.",
+  "hepatica": "Usar com cautela.",
+  "cardiaca": "Cautela após infarto recente, em insuficiência coronariana grave e doença cerebrovascular.",
+  "idosos": "Toleram melhor dose inicial menor e são mais sensíveis à sedação.",
+  "criancas": "Formulação prolongada aprovada nos EUA para TDAH de 6 a 17 anos; segurança não estabelecida abaixo de 6 anos. Mais sensíveis à hipertensão de rebote: vômitos por gastroenterite podem interromper a medicação de forma abrupta. Mais suscetíveis à depressão do SNC na superdosagem.",
+  "gestacao": "Sem estudos controlados; alguns estudos em animais mostraram efeitos adversos. No TDAH, em geral suspender antes de uma gestação planejada.",
+  "lactacao": "Passa para o leite, sem efeitos adversos relatados no lactente; se houver irritabilidade ou sedação, suspender o fármaco ou usar mamadeira."
+ },
+ "vantagens": ["Sem potencial de abuso conhecido; não é controlada."],
+ "desvantagens": [
+  "Pouco estudada em adultos com TDAH.",
+  "Reações de retirada.",
+  "Pacientes com má adesão.",
+  "Uso concomitante de outros fármacos de ação central."
+ ],
+ "perolas": [
+  "Sozinha ou com metilfenidato, pode melhorar agressividade e sintomas opositores e de conduta no TDAH; às vezes associada a estimulantes para reduzir efeitos adversos e melhorar a hiperatividade.",
+  "Pode suprimir tiques, sobretudo na síndrome de Tourette grave, e ser ainda melhor para comportamentos explosivos nesse quadro.",
+  "Pode reduzir sintomas autonômicos na ansiedade, no pânico e no TEPT (inclusive associada a ISRS para hiperexcitação e dissociação) e servir como dose avulsa em ansiedade de desempenho.",
+  "Na abstinência de opioides, bloqueia palpitações e sudorese, mas pouco alivia mialgia, irritabilidade e insônia. Com naltrexona, monitorar por 8 horas no primeiro dia.",
+  "Na abstinência de álcool, reduz hipertensão, taquicardia e tremor, mas não previne convulsões nem delirium tremens.",
+  "Pode melhorar relações sociais e respostas sensoriais no autismo e reduzir fogachos da menopausa.",
+  "A guanfacina, agonista alfa-2 relacionado, pode ser mais bem tolerada (menos sedação), mas não há comparações diretas."
+ ]
+},
+"donepezila": {
+ "alvos": ["Perda de memória na doença de Alzheimer", "Sintomas comportamentais na doença de Alzheimer", "Perda de memória em outras demências"],
+ "latencia": "Até 6 semanas para melhora da memória ou do comportamento; a estabilização do curso degenerativo pode levar meses.",
+ "se_funciona": [
+  "Pode melhorar sintomas e retardar a progressão, mas não reverte o processo degenerativo.",
+  "Espera-se atraso de problemas comportamentais e da institucionalização, preservação das atividades diárias e redução da sobrecarga do cuidador; melhora dramática ocorre só em minoria."
+ ],
+ "se_nao_funciona": [
+  "Ajustar a dose, trocar por outro inibidor da colinesterase ou associar potencializador.",
+  "Reavaliar o diagnóstico: depressão ou demência de outro tipo."
+ ],
+ "potencializacao": [
+  "Memantina na doença de Alzheimer moderada a grave.",
+  "Antipsicóticos atípicos para alterações de comportamento.",
+  "Antidepressivos se houver depressão, apatia ou desinteresse.",
+  "Valproato, carbamazepina ou oxcarbazepina para alterações de comportamento.",
+  "Não faz sentido associar outro inibidor da colinesterase."
+ ],
+ "exames": ["Nenhum obrigatório em pessoas saudáveis."],
+ "mecanismo_ea": [
+  "Inibição periférica da acetilcolinesterase: efeitos gastrointestinais.",
+  "Inibição central: pode contribuir para náuseas, vômitos, perda de peso e alterações do sono."
+ ],
+ "peso": "Ganho relatado, mas não esperado; pode haver perda de peso, preocupante em pacientes debilitados.",
+ "sedacao": "Relatada, mas não esperada.",
+ "ea_graves": ["Convulsões (raras).", "Síncope (rara)."],
+ "manejo": [
+  "Aguardar: os efeitos gastrointestinais costumam ser leves e transitórios.",
+  "Tomar de dia se houver insônia; hipnótico ou trazodona podem ajudar.",
+  "Titular mais devagar; considerar reduzir a dose, trocar ou associar outro fármaco."
+ ],
+ "dicas_dose": [
+  "Início com 5 mg/dia; após 4 a 6 semanas, 10 mg/dia. Faixa usual de 5 a 10 mg à noite.",
+  "Titulação mais lenta (6 semanas até 10 mg) reduz efeitos adversos, que são mais frequentes em doses altas.",
+  "Em geral, usar a maior dose tolerada dentro da faixa usual.",
+  "O alimento não altera a absorção.",
+  "Usos off-label em outros distúrbios cognitivos já empregaram doses acima de 10 mg/dia. Há comprimido de 23 mg nos EUA."
+ ],
+ "superdosagem": "Pode ser fatal: náuseas, vômitos, sialorreia, sudorese, hipotensão, bradicardia, colapso, convulsões e fraqueza muscular (a fraqueza respiratória pode levar à morte).",
+ "longo_prazo": "Pode perder eficácia em retardar a progressão após 6 meses, mas em alguns pacientes funciona por vários anos.",
+ "dependencia": "Não causa dependência.",
+ "suspender": [
+  "Reduzir gradualmente para evitar sintomas de retirada.",
+  "A suspensão pode causar piora importante de memória e comportamento, que pode não se recuperar ao reintroduzir o fármaco ou iniciar outro inibidor."
+ ],
+ "interacoes": [
+  "Pode potencializar anestésicos: suspender antes de cirurgia.",
+  "Inibidores do CYP2D6 e do CYP3A4 aumentam os níveis; indutores os reduzem.",
+  "Anticolinérgicos: perda de eficácia de ambos.",
+  "Efeito sinérgico com colinomiméticos (betanecol).",
+  "Betabloqueadores: bradicardia.",
+  "Teoricamente pode reduzir a eficácia da levodopa na doença de Parkinson.",
+  "Não faz sentido associar outro inibidor da colinesterase."
+ ],
+ "nao_usar": ["Alergia à donepezila."],
+ "advertencias": [
+  "Pode piorar asma e outras doenças pulmonares.",
+  "Aumenta a secreção ácida gástrica, com maior risco de úlcera.",
+  "Bradicardia ou bloqueio cardíaco podem ocorrer com ou sem cardiopatia prévia.",
+  "Mulheres acima de 85 anos, sobretudo de baixo peso, e pacientes frágeis têm mais efeitos adversos."
+ ],
+ "pop": {
+  "renal": "Poucos dados; ajuste provavelmente desnecessário.",
+  "hepatica": "Poucos dados; pode ser preciso reduzir a dose.",
+  "cardiaca": "Usar com cautela; há relatos de síncope.",
+  "idosos": "Alguns toleram melhor doses menores. Inibidores da colinesterase associam-se a mais síncope, bradicardia, implante de marca-passo e fratura de quadril em idosos com demência.",
+  "criancas": "Segurança e eficácia não estabelecidas; relatos preliminares como adjuvante no TDAH (8 a 17 anos).",
+  "gestacao": "Sem estudos controlados; não recomendada na gestação nem em mulheres em idade fértil.",
+  "lactacao": "Não recomendada; suspender o fármaco ou usar mamadeira."
+ },
+ "vantagens": [
+  "Dose única diária.",
+  "Pode ser usada na demência vascular.",
+  "Pode funcionar ou ser tolerada em quem não respondeu ou não tolerou outros inibidores da colinesterase."
+ ],
+ "desvantagens": ["Pacientes com insônia: pode causar mais alterações do sono que outros inibidores."],
+ "perolas": [
+  "Nos EUA, há combinação em dose fixa de memantina prolongada com donepezila para Alzheimer moderado a grave já estabilizado com ambas.",
+  "Avaliar falta ou perda de eficácia em meses, não em semanas; tratar o paciente, mas perguntar ao cuidador sobre a eficácia.",
+  "Trata sintomas comportamentais e psicológicos (sobretudo apatia, desinibição, delírios, ansiedade, falta de cooperação e perambulação) além dos cognitivos.",
+  "Queixa de memória do próprio paciente sugere depressão; queixa trazida por cônjuge ou filhos sugere Alzheimer. Os primeiros sintomas do Alzheimer costumam ser alterações do humor.",
+  "Se antidepressivos não melhoram apatia e humor deprimido no idoso, pode ser Alzheimer inicial e um inibidor da colinesterase pode ajudar.",
+  "Depende de alvos colinérgicos preservados: tende a ser mais eficaz nas fases iniciais. O atraso na progressão não prova efeito modificador da doença.",
+  "Pode retardar a progressão do comprometimento cognitivo leve para Alzheimer.",
+  "Pode ser útil na demência com corpos de Lewy (reduz delírios, apatia, agitação e alucinações), na demência vascular e na demência da síndrome de Down.",
+  "Age mais sobre a acetilcolinesterase central que a periférica; a melhora cognitiva pode exigir inibição acima de 65% da enzima."
+ ],
+ "troca": [
+  "Após uso prolongado, trocar para outro inibidor sem período de washout (preferir titulação cruzada) para evitar piora funcional abrupta.",
+  "Se a troca for por efeitos adversos intoleráveis, aguardar a resolução desses efeitos antes de iniciar o outro inibidor.",
+  "Quem não responde a um inibidor pode responder a outro."
+ ]
+},
+"rivastigmina": {
+ "alvos": ["Perda de memória na doença de Alzheimer", "Sintomas comportamentais na doença de Alzheimer", "Perda de memória em outras demências"],
+ "latencia": "Até 6 semanas para melhora da memória ou do comportamento; a estabilização do curso degenerativo pode levar meses.",
+ "se_funciona": [
+  "Pode melhorar sintomas e retardar a progressão, mas não reverte o processo degenerativo.",
+  "Espera-se atraso de problemas comportamentais e da institucionalização, preservação das atividades diárias e redução da sobrecarga do cuidador; melhora dramática ocorre só em minoria."
+ ],
+ "se_nao_funciona": [
+  "Ajustar a dose, trocar por outro inibidor da colinesterase ou associar potencializador.",
+  "Reavaliar o diagnóstico: depressão ou demência de outro tipo."
+ ],
+ "potencializacao": [
+  "Memantina na doença de Alzheimer moderada a grave.",
+  "Antipsicóticos atípicos para alterações de comportamento.",
+  "Antidepressivos se houver depressão, apatia ou desinteresse.",
+  "Valproato, carbamazepina ou oxcarbazepina para alterações de comportamento."
+ ],
+ "exames": ["Nenhum obrigatório em pessoas saudáveis."],
+ "mecanismo_ea": [
+  "Inibição periférica da acetilcolinesterase e também da butirilcolinesterase: efeitos gastrointestinais.",
+  "Inibição central: pode contribuir para náuseas, vômitos, perda de peso e alterações do sono."
+ ],
+ "peso": "Ganho relatado, mas não esperado; pode haver perda de peso, preocupante em pacientes debilitados.",
+ "sedacao": "Relatada, mas não esperada.",
+ "ea_graves": [
+  "Convulsões (raras).",
+  "Síncope (rara).",
+  "Vômitos graves com ruptura esofágica ao reiniciar sem retitular até a dose plena."
+ ],
+ "manejo": [
+  "Aguardar: as náuseas são mais frequentes na titulação que na manutenção.",
+  "Titular mais devagar; considerar reduzir a dose, trocar ou associar outro fármaco.",
+  "O adesivo, nas doses recomendadas, pode causar menos efeitos gastrointestinais que a via oral."
+ ],
+ "dicas_dose": [
+  "Oral: início com 1,5 mg 2 vezes ao dia; aumentos de 3 mg/dia a cada 2 semanas, conforme tolerância; faixa de 6 a 12 mg/dia em 2 tomadas; máximo de 6 mg 2 vezes ao dia. Tomar com alimento.",
+  "Doses orais de 6 a 12 mg/dia são mais eficazes que 1 a 4 mg/dia; titulação rápida aumenta os efeitos gastrointestinais.",
+  "Adesivo: início com 4,6 mg/24 h; após pelo menos 4 semanas e boa tolerância, 9,5 mg/24 h (dose usual); máximo de 13,3 mg/24 h.",
+  "Aplicar o adesivo em pele seca e íntegra do tronco superior ou área sem atrito de roupa, no mesmo horário, trocando o local diariamente e sem repetir o mesmo ponto por 14 dias; um adesivo por vez, sem cortar; lavar as mãos após aplicar.",
+  "No abdome ou na coxa, a exposição é 20 a 30% menor que nas costas, no tórax ou no braço.",
+  "Após interrupção de vários dias ou mais, retitular desde a dose inicial.",
+  "Em geral, usar a maior dose tolerada dentro da faixa usual."
+ ],
+ "superdosagem": "Pode ser fatal: náuseas, vômitos, sialorreia, sudorese, hipotensão, bradicardia, colapso, convulsões e fraqueza muscular (a fraqueza respiratória pode levar à morte).",
+ "longo_prazo": "Pode perder eficácia em retardar a progressão após 6 meses, mas em muitos pacientes funciona por vários anos.",
+ "dependencia": "Não causa dependência.",
+ "suspender": [
+  "Não é necessário reduzir gradualmente.",
+  "A suspensão pode causar piora importante de memória e comportamento, que pode não se recuperar ao reintroduzir o fármaco ou iniciar outro inibidor."
+ ],
+ "interacoes": [
+  "Sem metabolismo hepático: não tem interações farmacocinéticas pelo CYP450.",
+  "Pode potencializar anestésicos: suspender antes de cirurgia.",
+  "Anticolinérgicos: perda de eficácia de ambos.",
+  "A nicotina pode aumentar a depuração.",
+  "Efeito sinérgico com colinomiméticos (betanecol); betabloqueadores: bradicardia.",
+  "Metoclopramida: não recomendada pelo risco de efeitos extrapiramidais aditivos.",
+  "Teoricamente pode reduzir a eficácia da levodopa. Não faz sentido associar outro inibidor da colinesterase."
+ ],
+ "nao_usar": ["Alergia à rivastigmina ou a outros carbamatos."],
+ "advertencias": [
+  "Pode piorar asma e outras doenças pulmonares.",
+  "Aumenta a secreção ácida gástrica, com maior risco de úlcera.",
+  "Bradicardia ou bloqueio cardíaco podem ocorrer com ou sem cardiopatia prévia.",
+  "Baixo peso corporal aumenta o risco de efeitos adversos.",
+  "Retirar o adesivo antes de ressonância magnética se tiver metal no verso."
+ ],
+ "pop": {
+  "renal": "Sem ajuste; titular conforme a tolerância.",
+  "hepatica": "Sem ajuste; titular conforme a tolerância.",
+  "cardiaca": "Usar com cautela; há relatos de síncope.",
+  "idosos": "Alguns toleram melhor doses menores. Inibidores da colinesterase associam-se a mais síncope, bradicardia, implante de marca-passo e fratura de quadril em idosos com demência.",
+  "criancas": "Segurança e eficácia não estabelecidas.",
+  "gestacao": "Sem estudos controlados; estudos em animais sem efeitos adversos. Não recomendada na gestação nem em mulheres em idade fértil.",
+  "lactacao": "Não recomendada; suspender o fármaco ou usar mamadeira."
+ },
+ "vantagens": [
+  "Fases tardias ou Alzheimer de progressão rápida.",
+  "Teoricamente, a inibição central da butirilcolinesterase pode aumentar a eficácia.",
+  "Pode funcionar ou ser tolerada em quem não respondeu ou não tolerou outros inibidores."
+ ],
+ "desvantagens": ["Teoricamente, a inibição periférica da butirilcolinesterase pode aumentar os efeitos adversos; mais efeitos gastrointestinais que outros inibidores, sobretudo sem titulação lenta."],
+ "perolas": [
+  "Avaliar falta ou perda de eficácia em meses, não em semanas; tratar o paciente, mas perguntar ao cuidador sobre a eficácia.",
+  "Trata sintomas comportamentais e psicológicos (apatia, desinibição, delírios, ansiedade, falta de cooperação, perambulação) além dos cognitivos.",
+  "A butirilcolinesterase cerebral aumenta com a gliose nas fases avançadas do Alzheimer: a rivastigmina pode ser mais útil nessas fases ou em formas de progressão rápida.",
+  "Inibe mais a forma G1 da acetilcolinesterase, abundante no cérebro com Alzheimer e no hipocampo, que a forma G4.",
+  "Pode retardar a progressão do comprometimento cognitivo leve para Alzheimer.",
+  "Pode ser útil na demência com corpos de Lewy (reduz delírios, apatia, agitação e alucinações), na demência vascular e na demência da síndrome de Down.",
+  "Depende de alvos colinérgicos preservados: tende a ser mais eficaz nas fases iniciais. O atraso na progressão não prova efeito modificador da doença."
+ ],
+ "troca": [
+  "Da via oral para o adesivo: menos de 6 mg/dia oral passa a 4,6 mg/24 h; 6 a 12 mg/dia passa a 9,5 mg/24 h. Aplicar o primeiro adesivo no dia seguinte à última dose oral.",
+  "Após uso prolongado, trocar para outro inibidor sem washout (preferir titulação cruzada) para evitar piora funcional abrupta.",
+  "Se a troca for por efeitos adversos intoleráveis, aguardar a resolução desses efeitos antes de iniciar o outro inibidor."
+ ]
+},
+"galantamina": {
+ "alvos": ["Perda de memória na doença de Alzheimer", "Sintomas comportamentais na doença de Alzheimer", "Perda de memória em outras demências"],
+ "latencia": "Até 6 semanas para melhora da memória ou do comportamento; a estabilização do curso degenerativo pode levar meses.",
+ "se_funciona": [
+  "Pode melhorar sintomas e retardar a progressão, mas não reverte o processo degenerativo.",
+  "Espera-se atraso de problemas comportamentais e da institucionalização, preservação das atividades diárias e redução da sobrecarga do cuidador; melhora dramática ocorre só em minoria."
+ ],
+ "se_nao_funciona": [
+  "Ajustar a dose, trocar por outro inibidor da colinesterase ou associar potencializador.",
+  "Reavaliar o diagnóstico: depressão ou demência de outro tipo."
+ ],
+ "potencializacao": [
+  "Memantina na doença de Alzheimer moderada a grave.",
+  "Antipsicóticos atípicos para alterações de comportamento.",
+  "Antidepressivos se houver depressão, apatia ou desinteresse.",
+  "Valproato, carbamazepina ou oxcarbazepina para alterações de comportamento.",
+  "Não faz sentido associar outro inibidor da colinesterase."
+ ],
+ "exames": ["Nenhum obrigatório em pessoas saudáveis."],
+ "mecanismo_ea": [
+  "Inibição periférica da acetilcolinesterase: efeitos gastrointestinais.",
+  "Inibição central: pode contribuir para náuseas, vômitos, perda de peso e alterações do sono."
+ ],
+ "peso": "Ganho relatado, mas não esperado; pode haver perda de peso, preocupante em pacientes debilitados.",
+ "sedacao": "Relatada, mas não esperada.",
+ "ea_graves": ["Convulsões (raras).", "Síncope (rara)."],
+ "manejo": [
+  "Aguardar: os efeitos gastrointestinais costumam ser leves e transitórios.",
+  "Tomar com alimento e titular mais devagar reduz os efeitos gastrointestinais.",
+  "Considerar reduzir a dose, trocar ou associar outro fármaco."
+ ],
+ "dicas_dose": [
+  "Liberação imediata: início com 4 mg 2 vezes ao dia; após 4 semanas, 8 mg 2 vezes ao dia; após mais 4 semanas, pode-se chegar a 12 mg 2 vezes ao dia.",
+  "Liberação prolongada: mesma titulação (8, 16 e 24 mg), em dose única pela manhã, de preferência com alimento.",
+  "Faixa usual de 16 a 24 mg/dia; em geral, usar a maior dose tolerada."
+ ],
+ "superdosagem": "Pode ser fatal: náuseas, vômitos, sialorreia, sudorese, hipotensão, bradicardia, colapso, convulsões e fraqueza muscular (a fraqueza respiratória pode levar à morte).",
+ "longo_prazo": "Pode perder eficácia em retardar a progressão após 6 meses, mas em alguns pacientes funciona por vários anos.",
+ "dependencia": "Não causa dependência.",
+ "suspender": [
+  "Não é necessário reduzir gradualmente.",
+  "A suspensão pode causar piora importante de memória e comportamento, que pode não se recuperar ao reintroduzir o fármaco ou iniciar outro inibidor."
+ ],
+ "interacoes": [
+  "Inibidores do CYP2D6 e do CYP3A4 aumentam os níveis; a cimetidina aumenta a biodisponibilidade.",
+  "Pode potencializar anestésicos: suspender antes de cirurgia.",
+  "Anticolinérgicos: perda de eficácia de ambos.",
+  "Efeito sinérgico com colinomiméticos (betanecol); betabloqueadores: bradicardia.",
+  "Teoricamente pode reduzir a eficácia da levodopa. Não faz sentido associar outro inibidor da colinesterase."
+ ],
+ "nao_usar": ["Alergia à galantamina."],
+ "advertencias": [
+  "Pode piorar asma e outras doenças pulmonares.",
+  "Aumenta a secreção ácida gástrica, com maior risco de úlcera.",
+  "Bradicardia ou bloqueio cardíaco podem ocorrer com ou sem cardiopatia prévia.",
+  "Mulheres acima de 85 anos, sobretudo de baixo peso, e pacientes frágeis têm mais efeitos adversos."
+ ],
+ "pop": {
+  "renal": "Usar com cautela; não recomendada na insuficiência renal grave.",
+  "hepatica": "Usar com cautela; a depuração cai com a gravidade. Não recomendada na insuficiência hepática grave.",
+  "cardiaca": "Usar com cautela; há relatos de síncope.",
+  "idosos": "Depuração reduzida. Inibidores da colinesterase associam-se a mais síncope, bradicardia, implante de marca-passo e fratura de quadril em idosos com demência.",
+  "criancas": "Segurança e eficácia não estabelecidas.",
+  "gestacao": "Sem estudos controlados; estudos em animais sem efeitos adversos. Não recomendada na gestação nem em mulheres em idade fértil.",
+  "lactacao": "Não recomendada; suspender o fármaco ou usar mamadeira."
+ },
+ "vantagens": [
+  "Doença de Alzheimer com doença cerebrovascular.",
+  "Teoricamente, a modulação nicotínica pode trazer benefício adicional para memória, comportamento e outros transtornos cognitivos."
+ ],
+ "desvantagens": ["Pacientes com dificuldade de tomar medicação 2 vezes ao dia (a forma prolongada permite dose única)."],
+ "perolas": [
+  "Ação dupla: inibe a acetilcolinesterase de forma reversível e competitiva e modula alostericamente receptores nicotínicos, aumentando a liberação de acetilcolina, dopamina, noradrenalina, serotonina, GABA e glutamato; o ganho clínico adicional é difícil de demonstrar.",
+  "Não inibe a butirilcolinesterase. É um produto natural, presente em narcisos e galantos.",
+  "Avaliar falta ou perda de eficácia em meses, não em semanas; tratar o paciente, mas perguntar ao cuidador sobre a eficácia.",
+  "Trata sintomas comportamentais e psicológicos (apatia, desinibição, delírios, ansiedade, falta de cooperação, perambulação) além dos cognitivos.",
+  "Pode retardar a progressão do comprometimento cognitivo leve para Alzheimer.",
+  "Pode ser útil na demência com corpos de Lewy (reduz delírios, apatia, agitação e alucinações), na demência vascular e na demência da síndrome de Down.",
+  "Depende de alvos colinérgicos preservados: tende a ser mais eficaz nas fases iniciais."
+ ],
+ "troca": [
+  "Após uso prolongado, trocar para outro inibidor sem washout (preferir titulação cruzada) para evitar piora funcional abrupta.",
+  "Se a troca for por efeitos adversos intoleráveis, aguardar a resolução desses efeitos antes de iniciar o outro inibidor.",
+  "Quem não responde a um inibidor pode responder a outro."
+ ]
+},
+"memantina": {
+ "alvos": ["Perda de memória na doença de Alzheimer", "Sintomas comportamentais na doença de Alzheimer", "Perda de memória em outras demências"],
+ "latencia": "Não se espera melhora da memória; a estabilização do curso degenerativo pode levar meses.",
+ "se_funciona": ["Pode retardar a progressão, mas não reverte o processo degenerativo."],
+ "se_nao_funciona": [
+  "Ajustar a dose, trocar por um inibidor da colinesterase ou associá-lo.",
+  "Reavaliar o diagnóstico: depressão ou demência de outro tipo."
+ ],
+ "potencializacao": [
+  "Inibidores da colinesterase (sem interação farmacocinética).",
+  "Antipsicóticos atípicos para alterações de comportamento.",
+  "Antidepressivos se houver depressão, apatia ou desinteresse.",
+  "Valproato, carbamazepina ou oxcarbazepina para alterações de comportamento."
+ ],
+ "exames": ["Nenhum obrigatório em pessoas saudáveis."],
+ "mecanismo_ea": ["Provavelmente ação excessiva em receptores NMDA."],
+ "peso": "Relatado, mas não esperado.",
+ "sedacao": "Relatada, mas não esperada; pode haver fadiga.",
+ "ea_graves": ["Convulsões (raras)."],
+ "manejo": [
+  "Aguardar.",
+  "Considerar reduzir a dose ou trocar de fármaco; a maioria dos efeitos não melhora com fármaco adicional."
+ ],
+ "dicas_dose": [
+  "Liberação imediata: início com 5 mg/dia; aumentos de 5 mg por semana; doses acima de 5 mg divididas; dose usual e máxima de 10 mg 2 vezes ao dia.",
+  "Liberação prolongada (nos EUA): início com 7 mg/dia; aumentos de 7 mg por semana até 28 mg em dose única.",
+  "Apesar da meia-vida muito longa (60 a 80 horas), costuma ser dada 2 vezes ao dia; há dados de que a dose única é segura e tolerada.",
+  "Instruir paciente e cuidador sobre a posologia, pois o paciente pode precisar de ajuda.",
+  "O alimento não altera a absorção."
+ ],
+ "superdosagem": "Sem mortes relatadas: inquietação, psicose, alucinações visuais, sedação, estupor e perda de consciência.",
+ "longo_prazo": "Pode perder eficácia em retardar a progressão após 6 meses.",
+ "dependencia": "Não causa dependência.",
+ "suspender": [
+  "Sem sintomas de retirada conhecidos.",
+  "Teoricamente, a suspensão pode causar piora de memória e comportamento que pode não se recuperar ao reintroduzir."
+ ],
+ "interacoes": [
+  "Pouco metabolizada e excretada inalterada na urina: sem interações pelo CYP450 e sem interação com inibidores da colinesterase.",
+  "Alcalinizantes urinários (inibidores da anidrase carbônica, bicarbonato de sódio) reduzem a eliminação e aumentam os níveis.",
+  "Cautela com outros antagonistas NMDA: amantadina, cetamina e dextrometorfano."
+ ],
+ "nao_usar": ["Alergia à memantina."],
+ "pop": {
+  "renal": "Sem ajuste na insuficiência leve ou moderada; reduzir a dose na grave.",
+  "hepatica": "Ajuste provavelmente desnecessário.",
+  "cardiaca": "Ajuste provavelmente desnecessário.",
+  "idosos": "Farmacocinética semelhante à de adultos jovens.",
+  "criancas": "Não estudada.",
+  "gestacao": "Sem estudos controlados; estudos em animais sem efeitos adversos. Não recomendada na gestação nem em mulheres em idade fértil.",
+  "lactacao": "Não recomendada; suspender o fármaco ou usar mamadeira."
+ },
+ "vantagens": ["Doença de Alzheimer mais avançada.", "Boa tolerância, com baixa incidência de efeitos adversos."],
+ "desvantagens": [
+  "Eficácia não comprovada na doença de Alzheimer leve a moderada.",
+  "Pacientes com dificuldade de tomar medicação 2 vezes ao dia."
+ ],
+ "perolas": [
+  "Antagonista NMDA de canal aberto, de afinidade baixa a moderada: age como um magnésio artificial, bloqueando a hiperativação glutamatérgica crônica sem impedir a ativação fisiológica necessária para aprendizado e memória.",
+  "Estruturalmente relacionada à amantadina, também antagonista NMDA fraca.",
+  "O antagonismo 5-HT3 pode contribuir para a baixa incidência de efeitos gastrointestinais.",
+  "Nos EUA, há combinação em dose fixa de memantina prolongada com donepezila para Alzheimer moderado a grave já estabilizado com ambas.",
+  "Tratar o paciente, mas perguntar ao cuidador sobre a eficácia; o atraso na progressão não prova efeito modificador da doença.",
+  "Eficácia incerta na demência vascular e na dor neuropática crônica; em estudo na demência associada ao HIV."
+ ]
+}
+}

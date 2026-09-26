@@ -1,0 +1,505 @@
+{
+ "Dor neuropática": {
+  "avaliacao": [
+   "Caracterizar a dor: descritores (queimação, choque, formigamento), topografia compatível com lesão neural e sinais sensitivos no exame (hipoestesia, alodinia); aplicar DN4 ou painDETECT",
+   "Investigar a causa tratável: glicemia e HbA1c, vitamina B12 (sobretudo com metformina), TSH, função renal e hepática, sorologias para HIV, sífilis e hepatite C conforme o contexto, eletroneuromiografia quando o diagnóstico for incerto",
+   "Linha de base de intensidade (0 a 10), interferência (BPI) e sono, para medir a meta de redução de 30% ou melhora funcional",
+   "Rastrear depressão, ansiedade, insônia e risco de suicídio (PHQ-9, GAD-7), que orientam a escolha entre IRSN, tricíclico e gabapentinoide",
+   "Contraindicações cardíacas e anticolinérgicas dos tricíclicos: ECG se mais de 40 anos ou cardiopatia, glaucoma de ângulo fechado, retenção urinária, hipotensão ortostática e risco de queda",
+   "Clearance de creatinina para ajustar gabapentina e pregabalina e para evitar duloxetina com ClCr < 30 mL/min",
+   "Uso atual e passado de álcool, opioides, benzodiazepínicos e histórico de uso indevido de substâncias (gabapentinoides e tramadol têm potencial de abuso e somam depressão respiratória)",
+   "Interações: outros serotoninérgicos (tramadol, triptanos, ISRS), inibidores do CYP2D6 com tricíclicos, indução enzimática pela carbamazepina; HLA-B*15:02 antes da carbamazepina em pessoas de origem asiática"
+  ],
+  "nao_farmacologico": [
+   "Educação sobre dor neuropática e metas realistas (alívio parcial e ganho funcional, não dor zero)",
+   "TCC para dor e terapia de aceitação e compromisso, com evidência na neuropatia diabética dolorosa",
+   "Exercício físico supervisionado e fisioterapia, inclusive dessensibilização em áreas de alodinia",
+   "TCC-I quando houver insônia, que amplifica a dor",
+   "Controle da doença de base: glicemia na neuropatia diabética, cessação do álcool, reposição de B12",
+   "Neuroestimulação (TENS; estimulação medular em centros especializados para dor refratária) e procedimentos intervencionistas por equipe de dor",
+   "Encaminhamento neurocirúrgico na neuralgia do trigêmeo refratária (descompressão microvascular ou procedimentos percutâneos)"
+  ],
+  "armadilhas": [
+   "Declarar falha em dose subterapêutica ou curta: venlafaxina abaixo de 150 mg/dia, gabapentina abaixo de 1.200 mg/dia ou avaliação antes de 3 a 8 semanas de titulação",
+   "Usar ISRS isolado como analgésico, apesar da recomendação contra na NeuPSIG",
+   "Associar tramadol a ISRS, IRSN ou tricíclicos sem considerar síndrome serotoninérgica e redução do limiar convulsivo",
+   "Prescrever amitriptilina em dose plena a idoso ou cardiopata sem ECG, causando quedas, confusão, retenção urinária e arritmia",
+   "Não ajustar gabapentina e pregabalina à função renal, com sedação, tontura e confusão em renais crônicos e idosos",
+   "Suspender gabapentinoides ou IRSN de forma abrupta, com risco de síndrome de descontinuação e de crise convulsiva",
+   "Esquecer que carbamazepina é indutora forte do CYP3A4 e reduz níveis de antipsicóticos, antidepressivos, benzodiazepínicos e anticoncepcionais"
+  ]
+ },
+ "Dor crônica": {
+  "avaliacao": [
+   "Classificar a dor: nociceptiva, neuropática (DN4) ou nociplástica (dor crônica primária da CID-11), pois isso muda a escolha do fármaco",
+   "Excluir sinais de alarme de doença inflamatória, neoplásica ou infecciosa (febre, perda de peso, dor noturna, déficit neurológico) antes de assumir dor primária",
+   "Linha de base de intensidade e função com PEG ou BPI, catastrofização (PCS) e metas funcionais combinadas com o paciente",
+   "Rastrear depressão, ansiedade, TEPT, insônia e ideação suicida (PHQ-9, GAD-7, C-SSRS), com risco maior durante redução de opioides",
+   "Inventário de todos os analgésicos, opioides (dose diária em MME), benzodiazepínicos, relaxantes musculares, álcool e cannabis; aplicar ORT e consultar histórico de dispensação",
+   "Contraindicações e interações dos antidepressivos: ECG e risco de queda com tricíclicos, hepatopatia e álcool com duloxetina, associação serotoninérgica com tramadol",
+   "Função renal e hepática e QTc antes de metadona; experiência da equipe na conversão de opioides",
+   "Contexto psicossocial: trabalho, afastamento, perícia, crenças sobre dano e rede de apoio"
+  ],
+  "etapas": [
+   {
+    "titulo": "Base para todos",
+    "texto": "Educação em neurociência da dor, metas funcionais, exercício supervisionado progressivo e TCC ou terapia de aceitação e compromisso. Tratar insônia (TCC-I) e depressão, ansiedade ou TEPT comórbidos nas doses das diretrizes psiquiátricas."
+   },
+   {
+    "titulo": "Primeira escolha farmacológica",
+    "texto": "Duloxetina 30 mg por 1 semana e depois 60 mg/dia na dor musculoesquelética (lombalgia, osteoartrite) e nociplástica, sobretudo com depressão; sem ganho claro com 120 mg. Com insônia ou dor abdominal funcional, amitriptilina 10 mg à noite titulada até 25 a 50 mg (nortriptilina se idoso). Reavaliar em 4 a 8 semanas com PEG; manter só se houver melhora de 30% ou ganho funcional."
+   },
+   {
+    "titulo": "Se falhar",
+    "texto": "Trocar entre duloxetina e tricíclico em dose baixa ou associar com cautela (monitorar síndrome serotoninérgica e efeitos anticolinérgicos). Clomipramina e imipramina são alternativas com mais efeitos adversos. Não iniciar gabapentinoides, benzodiazepínicos, antipsicóticos ou opioides para dor crônica primária (NICE NG193)."
+   },
+   {
+    "titulo": "Quem já usa opioide ou benzodiazepínico",
+    "texto": "Revisar benefício e risco; se não houver ganho funcional, reduzir devagar (em geral 10% por mês ou menos), sem suspensão abrupta, com suporte psicológico e naloxona quando houver risco de overdose. Não associar opioide a benzodiazepínico. Se houver transtorno por uso de opioides, oferecer buprenorfina ou metadona."
+   },
+   {
+    "titulo": "Dor oncológica e cuidados paliativos",
+    "texto": "Opioides seguem as diretrizes de dor oncológica; metadona (ação NMDA, útil em dor neuropática) exige experiência na conversão e ECG; buprenorfina transdérmica é opção em idosos e renais. Levomepromazina é adjuvante quando há agitação, náusea ou insônia."
+   },
+   {
+    "titulo": "Quando encaminhar",
+    "texto": "Incapacidade grave, falha de 2 fármacos adequados associados a exercício e psicoterapia, uso problemático de opioides ou ideação suicida: encaminhar a programa interdisciplinar de dor, psiquiatria ou serviço de dependência química."
+   }
+  ],
+  "armadilhas": [
+   "Buscar dor zero em vez de ganho funcional, o que leva a escalada de doses e polifarmácia",
+   "Iniciar opioide ou aumentar a dose acima de 50 MME/dia sem reavaliar benefício, e associá-lo a benzodiazepínico",
+   "Suspender opioide de forma abrupta, com risco de abstinência, dor rebote, uso de fontes ilícitas e suicídio",
+   "Prescrever pregabalina ou gabapentina em dor crônica primária sem componente neuropático, contra a NICE NG193",
+   "Usar ISRS isolado esperando efeito analgésico, quando a evidência favorece duloxetina e tricíclicos em dose baixa",
+   "Não reconhecer hiperalgesia induzida por opioide (dor que se espalha e piora com aumento da dose)",
+   "Tratar a dor sem tratar depressão, insônia e TEPT, que mantêm a incapacidade"
+  ],
+  "diretrizes": "NICE NG193, dor crônica primária e secundária (2021); CDC, prescrição de opioides para dor (2022); classificação IASP de dor crônica para a CID-11 (Treede et al., 2019); revisões Cochrane de antidepressivos em dor crônica (2023); ensaio ATLANTIS de amitriptilina em dose baixa (Lancet, 2023); metanálise de antidepressivos em dor (Ferreira et al., BMJ, 2023); Maudsley 15.ª ed. (2025)."
+ },
+ "Fibromialgia": {
+  "avaliacao": [
+   "Confirmar pelos critérios ACR 2016 (WPI e SSS, dor generalizada por 3 meses ou mais), lembrando que fibromialgia não exclui outra doença",
+   "Exames para diferencial: hemograma, VHS e PCR, TSH, CK, função hepática e renal, glicemia, vitamina D; FAN e fator reumatoide apenas se houver sinais de doença autoimune",
+   "Linha de base com FIQR, escala de dor 0 a 10, qualidade do sono e fadiga",
+   "Rastrear depressão, ansiedade, TEPT e ideação suicida (PHQ-9, GAD-7, PCL-5), além de apneia do sono (roncos, sonolência)",
+   "Peso, risco de queda, ECG em idosos ou cardiopatas antes de amitriptilina e ciclobenzaprina",
+   "Função renal para dose de pregabalina; uso de álcool, opioides, benzodiazepínicos e histórico de uso indevido de substâncias",
+   "Medicamentos em uso que interagem: tramadol, triptanos e outros serotoninérgicos com duloxetina e amitriptilina"
+  ],
+  "nao_farmacologico": [
+   "Educação sobre a doença (dor real, sem dano articular, prognóstico ligado à atividade) desde o diagnóstico",
+   "Exercício aeróbico e de fortalecimento gradual, com início muito leve (a única recomendação forte da EULAR 2016)",
+   "TCC para dor e insônia (TCC-I), sobretudo com humor deprimido ou enfrentamento ruim",
+   "Movimento meditativo: tai chi, qigong, ioga; mindfulness",
+   "Hidroterapia e exercício em piscina aquecida",
+   "Programa de reabilitação multimodal interdisciplinar na incapacidade grave",
+   "Acupuntura como opção complementar (recomendação fraca)"
+  ],
+  "etapas": [
+   {
+    "titulo": "Diagnóstico e base",
+    "texto": "Confirmar pelo ACR 2016, explicar a condição e iniciar exercício gradual com educação; associar TCC ou movimento meditativo. Metas: função, sono e humor."
+   },
+   {
+    "titulo": "Dor com insônia",
+    "texto": "Amitriptilina 5 a 10 mg à noite, subindo 5 a 10 mg a cada 1 a 2 semanas até 10 a 50 mg; alternativa: pregabalina 75 mg à noite, subindo até 150 a 450 mg/dia em 2 tomadas, ou ciclobenzaprina 5 a 10 mg à noite."
+   },
+   {
+    "titulo": "Dor com depressão, ansiedade ou fadiga",
+    "texto": "Duloxetina 30 mg pela manhã por 1 semana e depois 60 mg/dia; associar psicoterapia. Em depressão maior, tratar com as doses das diretrizes de depressão."
+   },
+   {
+    "titulo": "Resposta parcial ou falha",
+    "texto": "Avaliar em 4 a 12 semanas pelo FIQR. Suspender o que não trouxe benefício claro. Com resposta parcial, associar amitriptilina à noite a duloxetina ou pregabalina, monitorando sedação e síndrome serotoninérgica. Tramadol só em casos selecionados; não usar opioides fortes nem corticoides."
+   },
+   {
+    "titulo": "Quando encaminhar",
+    "texto": "Suspeita de doença reumatológica associada (reumatologia), depressão grave ou risco de suicídio (psiquiatria), incapacidade grave apesar de tratamento combinado (programa interdisciplinar de dor)."
+   }
+  ],
+  "armadilhas": [
+   "Tratar só com fármacos, sem exercício e educação, que são a base do tratamento",
+   "Iniciar em dose plena: esses pacientes são muito sensíveis a efeitos adversos e abandonam o tratamento",
+   "Prescrever opioides fortes, benzodiazepínicos ou corticoides, sem benefício e com risco de dependência e hiperalgesia",
+   "Acumular fármacos sem suspender os que não funcionaram (polifarmácia)",
+   "Pedir exames repetidos e reforçar a busca por lesão, aumentando a catastrofização",
+   "Não rastrear depressão, TEPT e ideação suicida, frequentes nessa população",
+   "Ignorar ganho de peso e edema com pregabalina e amitriptilina, que pioram a adesão e a dor"
+  ],
+  "diretrizes": "Critérios ACR 2016 (Wolfe et al.); EULAR, recomendações revisadas para fibromialgia (Macfarlane et al., 2016); diretrizes canadenses (Fitzcharles et al., 2012); diretriz alemã AWMF (2017); revisões Cochrane de amitriptilina, duloxetina e pregabalina em fibromialgia."
+ },
+ "Cefaleia e enxaqueca": {
+  "avaliacao": [
+   "Classificar pelo ICHD-3 (enxaqueca com ou sem aura, cefaleia tensional, salvas, cefaleia por uso excessivo de medicação) e excluir cefaleia secundária pelos sinais de alarme SNNOOP10",
+   "Diário de cefaleia por pelo menos 4 semanas: dias de dor, dias de medicação aguda e incapacidade (MIDAS ou HIT-6)",
+   "Contar dias de analgésico, triptano ou combinações por mês para identificar uso excessivo (10 dias ou mais com triptanos, opioides ou combinações; 15 ou mais com analgésicos simples)",
+   "Comorbidades que orientam a profilaxia: depressão, ansiedade, bipolaridade, insônia, obesidade, hipertensão, asma, nefrolitíase",
+   "Potencial de gestação e método contraceptivo antes de valproato ou topiramato; aura com anticoncepcional combinado (risco de AVC)",
+   "Contraindicações cardiovasculares a triptanos e betabloqueadores; ECG antes de tricíclicos em idosos e de verapamil na cefaleia em salvas",
+   "Psicofármacos em uso que causam ou pioram cefaleia e interações (triptanos com IMAO, tramadol; lítio com anti-inflamatórios e diuréticos)"
+  ],
+  "nao_farmacologico": [
+   "Educação sobre a doença, gatilhos e limite de uso de medicação aguda (menos de 10 dias por mês)",
+   "Regularidade de sono, refeições e hidratação; redução de cafeína excessiva",
+   "Exercício aeróbico regular",
+   "TCC para dor e relaxamento muscular progressivo",
+   "Biofeedback (EMG na cefaleia tensional, térmico na enxaqueca)",
+   "Acupuntura em curso de até 10 sessões quando a profilaxia medicamentosa falha ou não é adequada",
+   "Neuromodulação não invasiva (estimulação do nervo vago, supraorbitária) em centros especializados"
+  ],
+  "etapas": [
+   {
+    "titulo": "Tratamento da crise",
+    "texto": "Crise leve a moderada: ibuprofeno 400 a 600 mg, naproxeno 500 a 550 mg, dipirona ou paracetamol, com metoclopramida 10 mg se houver náusea. Crise moderada a grave: triptano no início da dor (sumatriptana 50 a 100 mg, rizatriptana 10 mg), associado ou não a anti-inflamatório. Limitar a menos de 10 dias por mês; evitar opioides."
+   },
+   {
+    "titulo": "Profilaxia de primeira escolha",
+    "texto": "Indicar com 4 ou mais dias de cefaleia com incapacidade por mês ou 6 ou mais dias de cefaleia. Escolher pela comorbidade: amitriptilina 10 mg à noite, subindo 10 mg por semana até 25 a 75 mg (depressão, insônia, cefaleia tensional associada); propranolol 40 a 160 mg/dia (ansiedade, hipertensão); topiramato 25 mg/dia, subindo 25 mg por semana até 50 a 100 mg (obesidade); venlafaxina 75 a 150 mg/dia (depressão ou ansiedade com hipertensão controlada)."
+   },
+   {
+    "titulo": "Avaliar e trocar",
+    "texto": "Avaliar após 2 a 3 meses em dose eficaz: resposta é redução de 50% ou mais dos dias de cefaleia. Se falhar ou não for tolerado, trocar de classe. Valproato 500 a 1.000 mg/dia apenas em homens ou mulheres sem potencial de gestação, útil com transtorno bipolar."
+   },
+   {
+    "titulo": "Cefaleia por uso excessivo de medicação",
+    "texto": "Suspender o fármaco em excesso (analgésicos simples e triptanos de forma abrupta, opioides e barbitúricos de forma gradual), iniciar profilaxia ao mesmo tempo e reavaliar em 4 a 8 semanas."
+   },
+   {
+    "titulo": "Enxaqueca crônica ou refratária",
+    "texto": "Após falha de profilaxias orais (ou antes, pelo posicionamento da AHS 2024), anticorpos anti-CGRP ou onabotulinumtoxina A em serviço de cefaleia. Cefaleia em salvas: oxigênio a 100% e sumatriptana SC na crise; verapamil na profilaxia e lítio 600 a 900 mg/dia (litemia 0,6 a 1,0 mmol/L) como segunda linha."
+   },
+   {
+    "titulo": "Quando encaminhar",
+    "texto": "Sinais de alarme (neuroimagem urgente), cefaleia em salvas, enxaqueca crônica, falha de 2 a 3 profilaxias adequadas ou uso excessivo de medicação difícil de retirar: neurologista ou ambulatório de cefaleia."
+   }
+  ],
+  "armadilhas": [
+   "Não perguntar quantos dias por mês o paciente usa analgésico, deixando passar cefaleia por uso excessivo de medicação",
+   "Prescrever valproato ou topiramato a mulher que pode engravidar sem contracepção eficaz (teratogenicidade; topiramato acima de 200 mg reduz eficácia de anticoncepcional)",
+   "Avaliar a profilaxia cedo demais (antes de 2 a 3 meses) ou em dose baixa e declarar falha",
+   "Usar opioides ou combinações com cafeína e barbitúricos no tratamento de crises frequentes",
+   "Deixar de prescrever triptano por medo de síndrome serotoninérgica em quem usa ISRS ou IRSN, cujo risco é muito baixo",
+   "Usar flunarizina em pacientes com depressão, idosos ou em uso de antipsicóticos (depressão e parkinsonismo)",
+   "Ignorar sinais de alarme e tratar como enxaqueca uma cefaleia nova, súbita ou progressiva"
+  ],
+  "diretrizes": "Classificação Internacional das Cefaleias, 3.ª ed. (ICHD-3, IHS 2018); American Headache Society, consenso de 2021 e posicionamento sobre terapias anti-CGRP (2024); NICE CG150 (2012, atualizada 2021); EFNS, cefaleia tipo tensional (Bendtsen et al., 2010); EAN, cefaleia em salvas (2023); consenso da Sociedade Brasileira de Cefaleia para profilaxia da enxaqueca."
+ },
+ "Epilepsia": {
+  "avaliacao": [
+   "Confirmar que os episódios são crises epilépticas (relato de testemunha, vídeo do celular) e classificar tipo de crise e síndrome (ILAE 2017), pois a escolha do fármaco depende disso",
+   "EEG (com privação de sono se o primeiro for normal) e ressonância magnética de crânio; vídeo-EEG se houver suspeita de crises funcionais",
+   "Glicemia, sódio, cálcio, magnésio, função renal e hepática, hemograma; toxicológico e dosagem de álcool quando houver suspeita",
+   "Revisar psicofármacos que reduzem o limiar convulsivo (clozapina, bupropiona, clomipramina, tricíclicos em dose alta, tramadol, lítio em nível tóxico) e retirada recente de benzodiazepínicos ou álcool",
+   "Potencial de gestação, contracepção e planejamento reprodutivo antes de escolher o fármaco anticrise (evitar valproato; indutores reduzem anticoncepcionais)",
+   "Rastrear depressão, ansiedade, psicose e risco de suicídio (NDDI-E, GAD-7, C-SSRS) antes e após iniciar fármacos anticrise",
+   "Interações com o esquema psiquiátrico: indutores (carbamazepina, fenitoína, fenobarbital) e valproato com lamotrigina; HLA-B*15:02 antes de carbamazepina em pessoas de origem asiática",
+   "Orientar sobre direção veicular, trabalho em altura e segurança (banho, natação)"
+  ],
+  "nao_farmacologico": [
+   "Educação sobre adesão, gatilhos (privação de sono, álcool) e primeiros socorros para familiares",
+   "Higiene do sono regular associada a abstinência ou redução importante do álcool",
+   "TCC para depressão e ansiedade comórbidas, com eficácia demonstrada em epilepsia",
+   "Psicoterapia focada em crises funcionais (TCC para crises não epilépticas) quando coexistirem",
+   "Dieta cetogênica ou dieta de Atkins modificada em epilepsia refratária (centro especializado)",
+   "Cirurgia de epilepsia ou estimulação do nervo vago após falha de 2 fármacos anticrise adequados"
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira crise",
+    "texto": "Encaminhar para avaliação neurológica em até 2 semanas. Em geral não se inicia tratamento após crise única provocada; após crise única não provocada, tratar se o risco de recorrência for alto (EEG epileptiforme, lesão estrutural, crise durante o sono), conforme a definição ILAE 2014."
+   },
+   {
+    "titulo": "Primeira monoterapia",
+    "texto": "Crises focais: lamotrigina (titular 25 mg/dia por 2 semanas, 50 mg/dia por 2 semanas e depois subir até 100 a 200 mg/dia; metade da dose com valproato) ou levetiracetam; carbamazepina ou oxcarbazepina como alternativas. Generalizadas: valproato em homens e mulheres sem potencial de gestação; lamotrigina ou levetiracetam nas demais. Evitar carbamazepina, oxcarbazepina, gabapentina e pregabalina em ausências e mioclonias."
+   },
+   {
+    "titulo": "Se falhar",
+    "texto": "Confirmar adesão, dose e diagnóstico. Trocar para outra monoterapia se a primeira falhar por ineficácia ou intolerância; associar apenas se a segunda também falhar. Clobazam, topiramato, gabapentina e pregabalina (focais) são adjuvantes."
+   },
+   {
+    "titulo": "Epilepsia refratária",
+    "texto": "Falha de 2 fármacos adequados e bem tolerados define epilepsia farmacorresistente (ILAE): encaminhar a centro terciário para avaliação cirúrgica, dieta cetogênica ou neuroestimulação."
+   },
+   {
+    "titulo": "Crise prolongada e estado de mal",
+    "texto": "Após 5 minutos: midazolam 10 mg IM ou intranasal, ou diazepam 10 mg IV ou retal (no Brasil não há lorazepam IV). Persistindo após 20 minutos: fenitoína 20 mg/kg IV, valproato 40 mg/kg ou levetiracetam 60 mg/kg. Refratário: UTI com infusão contínua."
+   },
+   {
+    "titulo": "Comorbidade psiquiátrica e retirada",
+    "texto": "Tratar depressão e ansiedade com ISRS (sertralina, escitalopram) em doses habituais e TCC; revisar fármacos anticrise que pioram humor. Retirada: considerar após pelo menos 2 anos sem crises, com o neurologista, reduzindo um fármaco por vez em pelo menos 3 meses."
+   }
+  ],
+  "armadilhas": [
+   "Diagnosticar epilepsia em crises funcionais, síncope ou pânico sem testemunha ou vídeo-EEG, expondo o paciente a fármacos desnecessários",
+   "Usar carbamazepina, oxcarbazepina ou gabapentina em epilepsia generalizada com ausências ou mioclonias, o que piora as crises",
+   "Prescrever valproato a mulher que pode engravidar sem discutir alternativas e contracepção",
+   "Iniciar lamotrigina rápido demais ou sem reduzir a dose com valproato, aumentando o risco de Stevens-Johnson",
+   "Esquecer que indutores (carbamazepina, fenitoína, fenobarbital) reduzem níveis de antipsicóticos, antidepressivos e anticoncepcionais",
+   "Deixar de tratar a depressão por medo de crises: ISRS em dose habitual são seguros; o que se evita é bupropiona, clomipramina e maprotilina",
+   "Atribuir irritabilidade, depressão ou psicose a transtorno primário sem revisar levetiracetam, topiramato e perampanel",
+   "Suspender fármaco anticrise de forma abrupta (sobretudo benzodiazepínicos e barbitúricos), com risco de estado de mal"
+  ],
+  "diretrizes": "Definição clínica prática de epilepsia da ILAE (Fisher et al., 2014); classificação de crises ILAE 2017 e atualização de 2025; definição de epilepsia farmacorresistente da ILAE (Kwan et al., 2010); NICE NG217 (2022); AES, estado de mal epiléptico convulsivo (Glauser et al., 2016) e ensaio ESETT (2019); ILAE, tratamento da depressão em epilepsia (Mula et al., 2022); Maudsley 15.ª ed. (2025)."
+ },
+ "Enurese": {
+  "avaliacao": [
+   "Confirmar enurese (5 anos ou mais, pelo menos 2 vezes por semana por 3 meses ou sofrimento) e classificar em primária ou secundária, monossintomática ou não monossintomática",
+   "Diário miccional de 48 horas e registro de volume noturno por 1 a 2 semanas para identificar poliúria noturna e capacidade vesical reduzida",
+   "Exame de urina tipo 1 (glicosúria, infecção, densidade); exame físico da coluna lombossacra, genitália e neurológico de membros inferiores",
+   "Avaliar constipação e encoprese (escala de Bristol) e tratá-las antes de outras medidas",
+   "Rastrear apneia obstrutiva do sono (roncos, pausas) e TDAH, frequentes e ligados à menor adesão",
+   "Antes de imipramina: história pessoal ou familiar de arritmia, síncope ou morte súbita e ECG quando presentes; possibilidade de guarda segura do medicamento em casa",
+   "Antes de desmopressina: capacidade de restringir líquidos à noite; revisar fármacos que causam enurese em adolescentes e adultos (clozapina, lítio, sedativos, diuréticos)",
+   "Dinâmica familiar, punições, motivação para o alarme e sinais de maus-tratos, sobretudo na enurese secundária"
+  ],
+  "nao_farmacologico": [
+   "Desculpabilização e orientação à família; proibir punições",
+   "Uroterapia básica: micções regulares de dia (5 a 7 vezes), ingestão de líquidos concentrada no início do dia, urinar antes de dormir",
+   "Tratamento da constipação quando presente",
+   "Alarme de enurese, primeira linha de maior eficácia duradoura, até 14 noites secas consecutivas",
+   "Sistema de recompensa por comportamentos combinados (urinar antes de dormir, usar o alarme), não pelas noites secas",
+   "Treino de supersaturação (overlearning) com ingestão extra de líquidos após o sucesso do alarme, para reduzir recaída"
+  ],
+  "etapas": [
+   {
+    "titulo": "Antes de 5 a 6 anos e medidas iniciais",
+    "texto": "Não iniciar tratamento ativo; orientar e desculpabilizar. Em todos: uroterapia básica, tratar constipação e resolver sintomas diurnos antes (enurese não monossintomática)."
+   },
+   {
+    "titulo": "Primeira linha",
+    "texto": "Alarme para família motivada e capacidade vesical reduzida (avaliar em 4 a 8 semanas). Desmopressina para poliúria noturna ou quando se quer resposta rápida: liofilizado sublingual 120 a 240 mcg ou comprimido 0,2 a 0,4 mg 1 hora antes de dormir, com restrição de líquidos 1 hora antes até 8 horas depois; avaliar em 2 a 4 semanas e manter 3 meses com pausas e retirada gradual."
+   },
+   {
+    "titulo": "Não resposta",
+    "texto": "Associar alarme e desmopressina. Se houver hiperatividade vesical, associar oxibutinina 5 mg à noite à desmopressina. Reavaliar diagnóstico (diário miccional, apneia, constipação oculta)."
+   },
+   {
+    "titulo": "Terceira linha",
+    "texto": "Imipramina, em serviço especializado: 25 mg (6 a 8 anos) ou 50 mg (maiores) ao deitar, por no máximo 3 meses por ciclo, com retirada gradual e pausas. Orientar guarda segura pela toxicidade em superdosagem. Amitriptilina é alternativa menos usada."
+   },
+   {
+    "titulo": "Quando encaminhar",
+    "texto": "Enurese com sintomas diurnos persistentes, infecções urinárias de repetição, alteração neurológica ou lombossacra, jato fraco ou gotejamento contínuo (urologia ou nefrologia pediátrica); roncos e apneia (otorrinolaringologia); refratariedade a alarme e desmopressina."
+   }
+  ],
+  "armadilhas": [
+   "Começar por imipramina, que tem alta recaída e risco fatal em superdosagem acidental",
+   "Prescrever desmopressina sem orientar restrição de líquidos à noite, com risco de hiponatremia e convulsão",
+   "Tratar enurese não monossintomática como monossintomática, sem abordar urgência, incontinência diurna e constipação",
+   "Recompensar noites secas ou punir noites molhadas, o que aumenta vergonha e reduz adesão",
+   "Desistir do alarme antes de 6 a 8 semanas ou suspender desmopressina de forma abrupta, aumentando recaída",
+   "Não investigar causas na enurese secundária (diabetes, infecção, estresse, abuso) e em adultos em uso de clozapina ou lítio"
+  ],
+  "diretrizes": "DSM-5-TR (APA, 2022); International Children's Continence Society: terminologia (Austin et al., 2016) e manejo da enurese (Nevéus et al., 2020); NICE CG111 (2010); Maudsley 15.ª ed. (2025) para enurese induzida por clozapina."
+ },
+ "Prurido": {
+  "avaliacao": [
+   "Duração (crônico se 6 semanas ou mais), distribuição, relação com lesões primárias e classificação IFSI (dermatológico, sistêmico, neuropático, somatoforme, misto)",
+   "Exames para prurido sem causa aparente: hemograma, ferritina, função renal e hepática (com fosfatase alcalina e GGT), glicemia, TSH, VHS ou PCR; radiografia de tórax e sorologias conforme idade e risco",
+   "Excluir escabiose e xerose, causas frequentes e tratáveis, antes de atribuir o prurido a causa psicogênica",
+   "Revisar fármacos que causam prurido (opioides, cloroquina, anti-hipertensivos, estatinas, alguns antibióticos) e início recente de medicação",
+   "Intensidade (escala numérica 0 a 10), sono e impacto (ItchyQoL); rastrear depressão, ansiedade, TOC e ideação suicida",
+   "Função renal e hepática para ajustar gabapentina, pregabalina e mirtazapina; idade e risco anticolinérgico antes de hidroxizina",
+   "Uso de opioides antes de naltrexona e de serotoninérgicos antes de sertralina ou paroxetina",
+   "Avaliar crença de infestação (parasitose delirante) e comportamento de escoriação"
+  ],
+  "nao_farmacologico": [
+   "Cuidados com a pele: emolientes diários com pH baixo, banhos mornos e curtos, sabonetes suaves, roupas de algodão",
+   "Unhas curtas, luvas à noite e estratégias para interromper o ciclo prurido e coçadura",
+   "Reversão de hábito e TCC para o comportamento de coçar e para transtorno de escoriação",
+   "Técnicas de relaxamento e manejo do estresse",
+   "Fototerapia UVB de banda estreita (prurido urêmico, prurigo nodular)",
+   "Otimização da diálise na doença renal crônica"
+  ],
+  "etapas": [
+   {
+    "titulo": "Base e causa",
+    "texto": "Medidas gerais para todos e investigação da causa. Tratar a doença de base (colestiramina na colestase, otimizar diálise, reposição de ferro, tratar tireoide)."
+   },
+   {
+    "titulo": "Primeira etapa sintomática",
+    "texto": "Anti-histamínico H1 não sedativo (pode chegar a até 4 vezes a dose padrão) com tratamento tópico (corticoide se inflamação, mentol, polidocanol, capsaicina). Hidroxizina 25 a 75 mg à noite ajuda pelo sono, mas evitar em idosos."
+   },
+   {
+    "titulo": "Prurido refratário: escolha pelo mecanismo",
+    "texto": "Neuropático ou urêmico: gabapentina 300 a 1.800 mg/dia ou pregabalina 75 a 300 mg/dia (na diálise, gabapentina 100 a 300 mg após cada sessão). Noturno, oncológico ou com insônia e depressão: mirtazapina 7,5 a 15 mg à noite (até 30 mg). Colestático: rifampicina, naltrexona iniciada com 12,5 mg até 50 mg/dia, sertralina 75 a 100 mg/dia. Crônico de outras causas: paroxetina 20 mg ou sertralina 50 a 100 mg."
+   },
+   {
+    "titulo": "Componente psicológico",
+    "texto": "Tratar depressão, ansiedade e insônia; TCC e reversão de hábito para coçadura. Parasitose delirante: antipsicótico em dose baixa (risperidona 0,5 a 2 mg, aripiprazol, olanzapina) com abordagem sem confronto."
+   },
+   {
+    "titulo": "Quando encaminhar",
+    "texto": "Dermatologia se causa não identificada ou falha das etapas; hepatologia no prurido colestático refratário; nefrologia no prurido urêmico refratário; hematologia se suspeita de linfoma ou policitemia vera."
+   }
+  ],
+  "armadilhas": [
+   "Rotular como psicogênico antes de investigar causas sistêmicas, escabiose e xerose",
+   "Usar hidroxizina e outros anti-histamínicos de primeira geração em idosos (confusão, quedas, retenção urinária, QT)",
+   "Não reduzir gabapentina e pregabalina na doença renal crônica, causando sedação e confusão",
+   "Esperar efeito de anti-histamínico em prurido não histaminérgico (urêmico, colestático, neuropático)",
+   "Iniciar naltrexona em quem usa opioides ou em dose plena, com síndrome de abstinência",
+   "Confrontar a crença na parasitose delirante ou tratá-la com antiparasitários repetidos em vez de antipsicótico"
+  ],
+  "diretrizes": "Diretriz europeia S2k de prurido crônico (Weisshaar et al., EADV/EDF, 2019); classificação IFSI (Ständer et al., 2007); critérios de prurido funcional do French Psychodermatology Group (Misery et al., 2007); EASL, colangite biliar primária (2017) e colangite esclerosante primária (2022); consensos sobre prurido associado à doença renal crônica."
+ },
+ "Sintomas vasomotores": {
+  "avaliacao": [
+   "Frequência, gravidade e interferência dos fogachos com diário por 1 a 2 semanas; sono (ISI) e humor (PHQ-9)",
+   "Estágio reprodutivo pelo STRAW+10 e excluir causas não menopausais: TSH, e conforme o quadro investigação de feocromocitoma, carcinoide, infecção ou linfoma",
+   "Contraindicações à terapia hormonal: câncer de mama ou endométrio, tromboembolismo, AVC, doença coronariana, hepatopatia ativa, sangramento vaginal não explicado",
+   "Uso de tamoxifeno ou inibidor de aromatase (evitar inibidores fortes do CYP2D6 com tamoxifeno)",
+   "Pressão arterial antes de venlafaxina e desvenlafaxina; função renal antes de gabapentina; provas hepáticas antes de fezolinetante",
+   "Outros serotoninérgicos em uso (triptanos, tramadol) e risco de síndrome serotoninérgica e de sangramento",
+   "Idade, cognição e risco de queda antes de oxibutinina, paroxetina, gabapentina e clonidina",
+   "Preferência da paciente sobre terapia hormonal após informação dos riscos reais"
+  ],
+  "nao_farmacologico": [
+   "TCC para sintomas da menopausa (reduz o incômodo dos fogachos e melhora sono e humor)",
+   "Hipnose clínica, com evidência de nível I pela Menopause Society 2023",
+   "TCC-I quando a insônia persistir mesmo com redução dos fogachos",
+   "Perda de peso em mulheres com excesso de peso (evidência menor)",
+   "Medidas de conforto (ambiente fresco, roupas em camadas), úteis mas sem eficácia comprovada como tratamento"
+  ],
+  "etapas": [
+   {
+    "titulo": "Sem contraindicação a hormônio",
+    "texto": "Com menos de 60 anos ou menos de 10 anos de menopausa, a terapia hormonal é a mais eficaz (redução de cerca de 75%); discutir com ginecologia. Associar progestagênio se houver útero; preferir via transdérmica se houver risco trombótico."
+   },
+   {
+    "titulo": "Não hormonal de primeira escolha",
+    "texto": "Com contraindicação ou recusa: venlafaxina 37,5 mg por 1 semana e depois 75 mg/dia, escitalopram 10 a 20 mg/dia, paroxetina em dose baixa (7,5 mg aprovada nos EUA; no Brasil, 10 mg ou 12,5 mg de liberação controlada) ou desvenlafaxina 100 a 150 mg/dia. Com depressão ou ansiedade, preferir venlafaxina ou escitalopram em dose antidepressiva. Associar TCC ou hipnose."
+   },
+   {
+    "titulo": "Uso de tamoxifeno",
+    "texto": "Preferir venlafaxina, desvenlafaxina, escitalopram ou gabapentina; não usar paroxetina, fluoxetina nem bupropiona (inibidores do CYP2D6)."
+   },
+   {
+    "titulo": "Sudorese noturna e insônia",
+    "texto": "Gabapentina 300 mg à noite, subindo até 900 mg à noite ou 900 a 2.400 mg/dia divididos; ajustar ao rim."
+   },
+   {
+    "titulo": "Se falhar",
+    "texto": "Efeito de ISRS e IRSN aparece em 1 a 2 semanas; sem resposta em 4 semanas na dose-alvo, trocar de classe (antidepressivo para gabapentina ou o inverso). Outras opções: fezolinetante 45 mg/dia com provas hepáticas, oxibutinina (evitar em idosas), clonidina 0,1 mg/dia (efeito pequeno, hipotensão)."
+   },
+   {
+    "titulo": "Quando encaminhar",
+    "texto": "Ginecologia para discutir terapia hormonal; oncologia em pacientes com câncer de mama antes de qualquer fármaco que interfira com o tratamento; endocrinologia se fogachos atípicos sugerirem causa não menopausal."
+   }
+  ],
+  "armadilhas": [
+   "Prescrever paroxetina ou fluoxetina a mulher em uso de tamoxifeno, reduzindo a formação de endoxifeno",
+   "Oferecer antidepressivo como primeira linha isolada a quem não tem contraindicação à terapia hormonal e poderia se beneficiar dela",
+   "Tratar como depressão primária a insônia e irritabilidade da perimenopausa sem avaliar fogachos e sudorese noturna",
+   "Esquecer que ISRS e IRSN também causam sudorese, podendo confundir a avaliação da resposta",
+   "Suspender venlafaxina, paroxetina ou gabapentina de forma abrupta, com descontinuação e rebote dos fogachos",
+   "Usar oxibutinina ou paroxetina em idosas com risco cognitivo pela carga anticolinérgica",
+   "Recomendar fitoterápicos e suplementos sem eficácia demonstrada em vez de tratamento eficaz"
+  ],
+  "diretrizes": "The Menopause Society (NAMS), posicionamento sobre terapia não hormonal (2023) e terapia hormonal (2022); NICE NG23, menopausa (2015, atualizada 2024); STRAW+10 (Harlow et al., 2012)."
+ },
+ "Ejaculação precoce": {
+  "avaliacao": [
+   "Classificar pelo DSM-5-TR e ISSM: ao longo da vida ou adquirida, generalizada ou situacional, latência estimada, controle e sofrimento (PEDT, IPE)",
+   "Avaliar disfunção erétil (IIEF-5), que deve ser tratada primeiro quando presente",
+   "Rastrear prostatite ou dor pélvica crônica e hipertireoidismo (TSH) na EP adquirida",
+   "Rastrear ansiedade, depressão e risco de virada maníaca (história de bipolaridade) antes de ISRS",
+   "Uso de outros serotoninérgicos (tramadol, triptanos), IMAO, anticoagulantes e álcool; interações do CYP2D6 com paroxetina e clomipramina",
+   "Contraindicações dos tricíclicos (cardiopatia, glaucoma, retenção urinária) antes de clomipramina",
+   "Fatores da parceria e do relacionamento: expectativas, disfunção sexual da parceria, conflitos"
+  ],
+  "nao_farmacologico": [
+   "Psicoeducação sobre a latência normal e expectativas realistas, com a parceria quando possível",
+   "Técnica de parar e recomeçar (Semans)",
+   "Técnica da compressão da glande (Masters e Johnson)",
+   "Treino da musculatura do assoalho pélvico",
+   "Terapia sexual e de casal, sobretudo com ansiedade de desempenho ou conflito",
+   "Anestésico tópico (lidocaína e prilocaína) antes da relação, com preservativo ou lavagem antes da penetração"
+  ],
+  "etapas": [
+   {
+    "titulo": "Orientação e causa",
+    "texto": "Psicoeducação e técnicas comportamentais para todos. Na EP adquirida, tratar primeiro disfunção erétil (inibidor da PDE5), prostatite ou hipertireoidismo."
+   },
+   {
+    "titulo": "Relações esporádicas",
+    "texto": "Sob demanda: dapoxetina 30 a 60 mg 1 a 3 horas antes, clomipramina 15 a 25 mg 4 a 6 horas antes, sertralina 50 mg 4 a 8 horas antes, ou anestésico tópico 5 a 20 minutos antes."
+   },
+   {
+    "titulo": "Relações frequentes",
+    "texto": "ISRS diário: paroxetina 10 mg, subindo para 20 mg (a mais eficaz), sertralina 50 mg ou fluoxetina 20 mg/dia. O efeito começa em 5 a 10 dias e é máximo em 2 a 3 semanas; reavaliar em 4 a 6 semanas."
+   },
+   {
+    "titulo": "Se falhar",
+    "texto": "Clomipramina 25 a 50 mg/dia; associar ISRS a anestésico tópico, a terapia comportamental ou a inibidor da PDE5 se houver disfunção erétil. Tramadol sob demanda só como segunda linha, com cautela pela dependência e pela interação serotoninérgica."
+   },
+   {
+    "titulo": "Manutenção e encaminhamento",
+    "texto": "Reavaliar a cada 3 a 6 meses, tentar passar a uso sob demanda e retirar ISRS diário gradualmente. Encaminhar a urologia ou terapia sexual se houver refratariedade, disfunção erétil complexa ou dor ejaculatória."
+   }
+  ],
+  "armadilhas": [
+   "Tratar a ejaculação apressada sem perceber que a causa primária é disfunção erétil",
+   "Suspender paroxetina diária de forma abrupta, com síndrome de descontinuação",
+   "Não avisar sobre redução de libido, disfunção erétil e anejaculação com ISRS, o que leva a abandono",
+   "Associar tramadol a ISRS ou clomipramina, com risco de síndrome serotoninérgica e convulsão",
+   "Prescrever ISRS a jovem sem rastrear bipolaridade e ideação suicida",
+   "Usar anestésico tópico sem preservativo, anestesiando a parceria",
+   "Prometer cura: a recaída após suspensão do fármaco é a regra"
+  ],
+  "diretrizes": "DSM-5-TR (APA, 2022); ISSM, definição e diretriz de ejaculação precoce (Althof et al., 2014); EAU, Saúde Sexual e Reprodutiva (2024); AUA/SMSNA, disfunção ejaculatória (2020)."
+ },
+ "Náusea e vômitos": {
+  "avaliacao": [
+   "Identificar o mecanismo provável (químico ou metabólico, estase gástrica, obstrução, hipertensão intracraniana, vestibular, ansiedade ou antecipatório, induzido por quimioterapia), que orienta o antiemético",
+   "Revisar psicofármacos e outros fármacos causadores: ISRS, IRSN, lítio (dosar nível), clozapina, bupropiona, naltrexona, opioides, colinesterásicos, metformina",
+   "Eletrólitos (potássio, sódio, magnésio, cálcio), função renal e hepática, glicemia; beta-hCG em mulheres em idade fértil",
+   "ECG com QTc antes de haloperidol, levomepromazina, ondansetrona ou domperidona, sobretudo se houver outros fármacos que prolongam QT ou distúrbio eletrolítico",
+   "Doença de Parkinson ou demência com corpos de Lewy (evitar antagonistas D2 centrais)",
+   "Excluir obstrução intestinal e sinais de alarme antes de procinéticos",
+   "Rastrear uso diário de cannabis, bulimia e transtorno de ruminação",
+   "Grau de hidratação, estado nutricional e capacidade de usar via oral (considerar via SC ou retal)"
+  ],
+  "nao_farmacologico": [
+   "Tratar causas reversíveis: constipação, hipercalcemia, infecção, revisão de opioides e de outros fármacos",
+   "Refeições pequenas e frequentes, alimentos frios e com pouco odor, evitar deitar logo após comer",
+   "Hidratação oral fracionada ou venosa conforme a gravidade",
+   "Cessação da cannabis na hiperêmese por canabinoides, com tratamento do transtorno por uso",
+   "Dessensibilização sistemática e relaxamento na náusea antecipatória da quimioterapia",
+   "Sonda nasogástrica descompressiva na obstrução intestinal"
+  ],
+  "etapas": [
+   {
+    "titulo": "Causa e mecanismo",
+    "texto": "Tratar causas reversíveis e retirar ou reduzir o fármaco causador (por exemplo, fracionar a dose do ISRS com alimento, checar litemia). Escolher o antiemético pelo mecanismo."
+   },
+   {
+    "titulo": "Primeira escolha por mecanismo",
+    "texto": "Estase gástrica: metoclopramida 10 mg 3 a 4 vezes ao dia (evitar em obstrução completa e por mais de 12 semanas) ou domperidona. Causa química, metabólica ou por opioide: haloperidol 0,5 a 1,5 mg à noite ou 2 vezes ao dia (máximo em geral 5 mg/dia). Hipertensão intracraniana: dexametasona. Quimioterapia: esquemas MASCC/ESMO com antagonista 5-HT3, NK1, dexametasona e olanzapina 5 a 10 mg nos esquemas altamente emetogênicos."
+   },
+   {
+    "titulo": "Refratária ou de múltiplas causas",
+    "texto": "Olanzapina 2,5 a 5 mg à noite (10 mg/dia por 3 dias no escape da quimioterapia) ou levomepromazina 3 a 6,25 mg à noite VO ou SC, até 25 mg/dia. Não somar vários antagonistas D2. Com depressão, insônia e anorexia, mirtazapina 15 a 30 mg à noite."
+   },
+   {
+    "titulo": "Situações específicas",
+    "texto": "Hiperêmese por canabinoides: haloperidol na crise, capsaicina tópica, cessação da cannabis. Vômitos cíclicos: amitriptilina 25 mg à noite titulada até 75 a 100 mg por pelo menos 3 meses. Gestação: piridoxina com ou sem doxilamina, depois anti-histamínicos e metoclopramida, com obstetrícia."
+   },
+   {
+    "titulo": "Quando encaminhar",
+    "texto": "Obstrução intestinal, desidratação grave ou distúrbio eletrolítico (emergência); náusea refratária em doença avançada (cuidados paliativos); hiperêmese gravídica (obstetrícia); bulimia (serviço de transtornos alimentares)."
+   }
+  ],
+  "armadilhas": [
+   "Dar antiemético sem procurar a causa, deixando passar toxicidade por lítio, síndrome serotoninérgica ou obstrução",
+   "Associar haloperidol, metoclopramida e olanzapina, somando sintomas extrapiramidais, acatisia e prolongamento do QT",
+   "Usar metoclopramida ou haloperidol em Parkinson e demência com corpos de Lewy",
+   "Prescrever procinético em obstrução intestinal completa",
+   "Não reconhecer hiperêmese por canabinoides e tratá-la com opioides, que pioram o quadro",
+   "Esquecer o QTc e os eletrólitos antes de haloperidol, levomepromazina, ondansetrona e domperidona",
+   "Deixar de rastrear bulimia em jovem com vômitos, hipocalemia e erosão dentária"
+  ],
+  "diretrizes": "MASCC/ESMO, antieméticos (2023); ASCO, antieméticos (2020); MASCC/ESMO, náusea e vômitos em câncer avançado (2017); ACG/ANMS, síndrome de vômitos cíclicos (Venkatesan et al., 2019); ensaio HaVOC de haloperidol na hiperêmese por canabinoides (2021); ACOG, náusea e vômitos na gestação (2018); critérios de Roma IV (2016)."
+ }
+}

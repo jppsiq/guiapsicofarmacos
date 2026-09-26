@@ -1,0 +1,147 @@
+{
+"litio": [
+ {"g": "Mania", "c": "Mania aguda", "s": "a", "e": "A", "p": "1", "d": "litemia 0,8 a 1,2 mmol/L", "t": "Mais eficaz na mania eufórica clássica; início de efeito em 1 a 2 semanas, por isso costuma ser associado a antipsicótico na fase aguda."},
+ {"g": "Manutenção bipolar", "c": "Prevenção de recaídas maníacas e depressivas", "s": "a", "e": "A", "p": "1", "d": "litemia 0,6 a 0,8 mmol/L", "t": "Padrão-ouro da manutenção (BALANCE: superior ao valproato). Melhores respondedores: curso episódico, intervalos livres, história familiar de resposta."},
+ {"g": "Suicídio", "c": "Redução do risco de suicídio nos transtornos do humor", "s": "o", "e": "A", "p": "1", "t": "Metanálises mostram redução de suicídio e de mortalidade geral; o ensaio veterano (Katz 2022) não confirmou em população específica, mas o efeito observacional é consistente."},
+ {"g": "Depressão resistente", "c": "Potencialização de antidepressivo", "s": "o", "e": "A", "p": "P", "d": "litemia 0,5 a 0,8 mmol/L", "t": "Segunda linha no CANMAT 2023 (atrás de aripiprazol e brexpiprazol), mas com longa tradição, evidência consistente e efeito antissuicida; resposta em 2 a 4 semanas."},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar", "s": "o", "e": "B", "p": "1", "t": "Primeira linha na depressão bipolar I no CANMAT e ISBD 2018, embora o efeito agudo seja modesto e lento; o maior valor está na prevenção e no efeito antissuicida."},
+ {"g": "Transtorno esquizoafetivo", "c": "Transtorno esquizoafetivo tipo bipolar", "s": "o", "e": "C", "p": "P"},
+ {"g": "Impulsividade e agressividade", "c": "Agressividade e impulsividade (deficiência intelectual, transtorno de conduta, TPB)", "s": "o", "e": "B", "p": "A", "t": "Ensaios antigos em presidiários e em crianças com transtorno de conduta mostraram redução de agressividade; na prática limitado pela toxicidade em superdosagem nessa população."},
+ {"g": "Cefaleia e enxaqueca", "c": "Cefaleia em salvas crônica", "s": "o", "e": "B", "p": "2", "d": "600 a 900 mg/dia"},
+ {"g": "Outros", "c": "Neutropenia (estimulação medular)", "s": "o", "e": "D", "p": "U", "t": "O lítio aumenta neutrófilos; já foi usado para permitir reintrodução de clozapina com neutropenia benigna, apenas com hematologista."}
+],
+"valproato": [
+ {"g": "Mania", "c": "Mania aguda e episódio misto", "s": "a", "e": "A", "p": "1", "d": "ataque de 20 a 30 mg/kg; nível 50 a 125 mcg/mL", "t": "Início rápido com dose de ataque; útil em mania mista, ciclagem rápida e comorbidade com uso de substâncias."},
+ {"g": "Manutenção bipolar", "c": "Manutenção", "s": "o", "e": "B", "p": "1", "t": "Primeira linha na manutenção pelo CANMAT e ISBD 2018, mas menos eficaz que o lítio no BALANCE; evitar em mulheres em idade fértil."},
+ {"g": "Epilepsia", "c": "Epilepsias generalizadas e focais", "s": "a", "e": "A", "p": "1"},
+ {"g": "Cefaleia e enxaqueca", "c": "Profilaxia de enxaqueca", "s": "a", "e": "A", "p": "1", "d": "500 a 1.000 mg/dia"},
+ {"g": "Impulsividade e agressividade", "c": "Agressividade impulsiva e irritabilidade", "s": "o", "e": "B", "p": "A", "t": "Hollander 2003 mostrou benefício em agressividade impulsiva de vários transtornos; útil em lesão cerebral e deficiência intelectual."},
+ {"g": "TPB (borderline)", "c": "Raiva, irritabilidade e impulsividade no TPB", "s": "o", "e": "B", "p": "S", "d": "500 a 1.500 mg/dia", "t": "Pequenos ensaios positivos (Hollander 2001, Frankenburg 2002 com bipolar II comórbido). Evitar em mulheres jovens sem contracepção segura."},
+ {"g": "Abstinência alcoólica", "c": "Abstinência alcoólica leve (alternativa)", "s": "o", "e": "C", "p": "A", "t": "Pode reduzir necessidade de benzodiazepínico; evitar em hepatopatia."}
+],
+"carbamazepina": [
+ {"g": "Epilepsia", "c": "Epilepsias focais", "s": "a", "e": "A", "p": "1"},
+ {"g": "Dor neuropática", "c": "Neuralgia do trigêmeo", "s": "a", "e": "A", "p": "1", "d": "200 a 1.200 mg/dia", "t": "Primeira escolha na neuralgia do trigêmeo."},
+ {"g": "Mania", "c": "Mania aguda e episódio misto", "s": "a", "e": "A", "p": "2", "t": "Liberação prolongada aprovada nos EUA; interações limitam."},
+ {"g": "Manutenção bipolar", "c": "Manutenção em não respondedores ao lítio", "s": "o", "e": "B", "p": "2", "t": "Estudos sugerem benefício em bipolares com curso atípico ou misto."},
+ {"g": "Abstinência alcoólica", "c": "Abstinência alcoólica leve a moderada", "s": "a", "e": "B", "p": "A", "t": "Tão eficaz quanto o lorazepam em quadros leves, sem potencial de abuso."},
+ {"g": "Impulsividade e agressividade", "c": "Agressividade episódica e descontrole após lesão cerebral", "s": "o", "e": "C", "p": "A"},
+ {"g": "TPB (borderline)", "c": "Descontrole comportamental no TPB", "s": "o", "e": "C", "p": "S", "t": "Cowdry 1988 mostrou redução de descontrole; interações e risco em superdosagem limitam."}
+],
+"oxcarbazepina": [
+ {"g": "Epilepsia", "c": "Epilepsias focais", "s": "a", "e": "A", "p": "1"},
+ {"g": "Mania", "c": "Mania", "s": "o", "e": "C", "p": "U", "t": "Evidência fraca; usada quando carbamazepina não é tolerada."},
+ {"g": "Dor neuropática", "c": "Neuralgia do trigêmeo", "s": "o", "e": "B", "p": "2", "t": "Alternativa mais tolerada à carbamazepina."},
+ {"g": "Impulsividade e agressividade", "c": "Agressividade impulsiva", "s": "o", "e": "C", "p": "A", "t": "Pequeno ensaio (Mattes 2005) positivo."}
+],
+"lamotrigina": [
+ {"g": "Manutenção bipolar", "c": "Prevenção de episódios depressivos no transtorno bipolar", "s": "a", "e": "A", "p": "1", "d": "100 a 200 mg/dia", "t": "Previne depressão, não mania. Boa opção no bipolar II e em mulheres que planejam engravidar."},
+ {"g": "Epilepsia", "c": "Epilepsias", "s": "a", "e": "A", "p": "1"},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar aguda", "s": "o", "e": "B", "p": "1", "t": "Primeira linha no CANMAT e ISBD 2018, em monoterapia ou associada (a lítio ou quetiapina, como no CEQUEL). Efeito agudo pequeno e lento pela titulação (Geddes 2009 mostrou benefício maior em depressão grave). Não associar ácido fólico, que reduziu sua eficácia no CEQUEL."},
+ {"g": "Depressão resistente", "c": "Potencialização na depressão unipolar resistente", "s": "o", "e": "C", "p": "P", "t": "Terceira linha no CANMAT 2023; resultados mistos."},
+ {"g": "Esquizofrenia resistente", "c": "Potencialização da clozapina", "s": "o", "e": "C", "p": "P", "t": "Metanálise de Tiihonen (2009) positiva; ensaios posteriores negativos."},
+ {"g": "TPB (borderline)", "c": "Instabilidade afetiva e impulsividade no TPB", "s": "o", "e": "B", "p": "X", "d": "200 mg/dia", "t": "Ensaios pequenos positivos (Tritt 2005, Reich 2009), mas o ensaio grande LABILE (Crawford 2018, 276 pacientes) foi negativo em todos os desfechos. Hoje não recomendada para TPB."},
+ {"g": "Dor neuropática", "c": "Neuropatia e dor central", "s": "o", "e": "C", "p": "U"},
+ {"g": "Outros", "c": "Despersonalização", "s": "o", "e": "C", "p": "P", "t": "Associada a ISRS em séries de casos (Sierra); ensaio controlado em monoterapia negativo."}
+],
+"topiramato": [
+ {"g": "Epilepsia", "c": "Epilepsias", "s": "a", "e": "A", "p": "1"},
+ {"g": "Cefaleia e enxaqueca", "c": "Profilaxia de enxaqueca", "s": "a", "e": "A", "p": "1", "d": "50 a 100 mg/dia"},
+ {"g": "Alcoolismo", "c": "Transtorno por uso de álcool", "s": "o", "e": "A", "p": "2", "d": "100 a 300 mg/dia com titulação de 8 semanas", "t": "Reduz dias de consumo pesado sem exigir abstinência prévia (Johnson 2007). Recomendado como segunda linha em diretrizes."},
+ {"g": "TPB (borderline)", "c": "Raiva e impulsividade no TPB", "s": "o", "e": "B", "p": "S", "d": "200 a 250 mg/dia", "t": "Ensaios de Nickel e Loew (2004 a 2006) mostraram redução de raiva, melhora interpessoal e perda de peso. Útil quando há ganho de peso por outros fármacos. Queixas cognitivas limitam."},
+ {"g": "Compulsão alimentar", "c": "Transtorno de compulsão alimentar", "s": "o", "e": "A", "p": "2", "d": "50 a 300 mg/dia", "t": "Reduz episódios e peso (McElroy 2007), com alto abandono por efeitos adversos."},
+ {"g": "Bulimia nervosa", "c": "Bulimia nervosa", "s": "o", "e": "B", "p": "2", "t": "Ensaios positivos; alternativa quando fluoxetina falha."},
+ {"g": "Ganho de peso por psicofármacos", "c": "Ganho de peso por antipsicóticos", "s": "o", "e": "A", "p": "2", "d": "50 a 200 mg/dia", "t": "Metanálises mostram perda média de 2 a 4 kg; metformina tem melhor tolerância."},
+ {"g": "Cocaína e estimulantes", "c": "Dependência de cocaína", "s": "o", "e": "C", "p": "U", "t": "Resultados mistos; algum benefício em quem também usa álcool."},
+ {"g": "Espectro obsessivo", "c": "Potencialização no TOC", "s": "o", "e": "C", "p": "P", "t": "Adjuvante de segunda linha no CANMAT 2014; ensaio pequeno (Berlin 2011) reduziu compulsões, não obsessões. Efeitos cognitivos limitam."},
+ {"g": "TEPT", "c": "Pesadelos e revivescências no TEPT", "s": "o", "e": "C", "p": "U", "t": "Resultados mistos em pequenos ensaios."},
+ {"g": "Mania", "c": "Mania", "s": "o", "e": "A", "p": "X", "t": "Ensaios controlados negativos; não é estabilizador do humor."}
+],
+"gabapentina": [
+ {"g": "Dor neuropática", "c": "Neuralgia pós-herpética e dor neuropática", "s": "a", "e": "A", "p": "1", "d": "900 a 3.600 mg/dia"},
+ {"g": "Epilepsia", "c": "Crises focais (adjuvante)", "s": "a", "e": "B", "p": "2"},
+ {"g": "Alcoolismo", "c": "Transtorno por uso de álcool", "s": "o", "e": "B", "p": "2", "d": "900 a 1.800 mg/dia", "t": "Mason 2014: aumento dose-dependente de abstinência e redução de consumo pesado; mais útil com sintomas de abstinência persistentes e insônia."},
+ {"g": "Abstinência alcoólica", "c": "Abstinência alcoólica leve ambulatorial", "s": "o", "e": "B", "p": "A", "t": "Alternativa sem potencial de depressão respiratória grave isolado."},
+ {"g": "Transtornos de ansiedade", "c": "Ansiedade social e ansiedade pré-operatória", "s": "o", "e": "B", "p": "A", "t": "Pande 1999 positivo em fobia social."},
+ {"g": "Síndrome das pernas inquietas", "c": "Síndrome das pernas inquietas", "s": "o", "e": "A", "p": "1", "t": "Gabapentinoides são hoje primeira linha por não causarem aumento (augmentation)."},
+ {"g": "Sintomas vasomotores", "c": "Fogachos", "s": "o", "e": "A", "p": "A", "d": "900 mg/dia"},
+ {"g": "Prurido", "c": "Prurido urêmico e neuropático", "s": "o", "e": "B", "p": "1"},
+ {"g": "Insônia", "c": "Insônia no alcoolismo", "s": "o", "e": "C", "p": "A"}
+],
+"pregabalina": [
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "a", "e": "A", "p": "1", "d": "150 a 600 mg/dia", "t": "Primeira linha no CANMAT 2014 (e em diretrizes europeias), com início de efeito na primeira semana; risco de abuso, sobretudo em usuários de opioides."},
+ {"g": "Dor neuropática", "c": "Dor neuropática periférica e central", "s": "a", "e": "A", "p": "1", "d": "150 a 600 mg/dia"},
+ {"g": "Fibromialgia", "c": "Fibromialgia", "s": "a", "e": "A", "p": "1"},
+ {"g": "Epilepsia", "c": "Crises focais (adjuvante)", "s": "a", "e": "B", "p": "2"},
+ {"g": "Fobia social", "c": "Transtorno de ansiedade social", "s": "o", "e": "B", "p": "1", "t": "Primeira linha no CANMAT 2014 (ensaios positivos com 450 a 600 mg/dia)."},
+ {"g": "Dependência de benzodiazepínicos", "c": "Retirada de benzodiazepínicos", "s": "o", "e": "C", "p": "A", "t": "Estudos pequenos sugerem facilitar a retirada; atenção ao próprio potencial de abuso."},
+ {"g": "Alcoolismo", "c": "Transtorno por uso de álcool", "s": "o", "e": "C", "p": "U"}
+],
+"metilfenidato": [
+ {"g": "TDAH", "c": "TDAH em crianças acima de 6 anos, adolescentes e adultos", "s": "a", "e": "A", "p": "1", "d": "0,3 a 1 mg/kg/dia (crianças); 20 a 80 mg/dia (adultos)", "t": "Primeira escolha em crianças em várias diretrizes (Cortese 2018); efeito rápido e titulação semanal."},
+ {"g": "Narcolepsia e sonolência", "c": "Narcolepsia", "s": "a", "e": "B", "p": "2"},
+ {"g": "Apatia", "c": "Apatia na demência de Alzheimer", "s": "o", "e": "B", "p": "1", "d": "10 a 20 mg/dia", "t": "ADMET 2 (2021): melhora da apatia com segurança aceitável."},
+ {"g": "Depressão", "c": "Depressão em idosos e em cuidados paliativos", "s": "o", "e": "B", "p": "P", "t": "Associado ao citalopram acelerou a resposta em idosos (Lavretsky 2015); em paliativos, efeito rápido sobre fadiga."},
+ {"g": "Outros", "c": "Fadiga oncológica", "s": "o", "e": "C", "p": "S"},
+ {"g": "TDAH", "c": "TDAH em deficiência intelectual e autismo", "s": "o", "e": "B", "p": "1", "t": "Eficaz com resposta menor e mais efeitos adversos (irritabilidade)."}
+],
+"lisdexanfetamina": [
+ {"g": "TDAH", "c": "TDAH a partir de 6 anos", "s": "a", "e": "A", "p": "1", "d": "30 a 70 mg/dia", "t": "Em adultos, anfetaminas têm o maior tamanho de efeito entre os fármacos para TDAH (Cortese 2018)."},
+ {"g": "Compulsão alimentar", "c": "Transtorno de compulsão alimentar moderado a grave", "s": "a", "e": "A", "p": "1", "d": "50 a 70 mg/dia", "t": "Único fármaco aprovado; reduz episódios e peso."},
+ {"g": "Depressão resistente", "c": "Potencialização de antidepressivo", "s": "o", "e": "A", "p": "X", "t": "Ensaios de fase 3 negativos."},
+ {"g": "Narcolepsia e sonolência", "c": "Sonolência diurna", "s": "o", "e": "C", "p": "2"}
+],
+"atomoxetina": [
+ {"g": "TDAH", "c": "TDAH a partir de 6 anos", "s": "a", "e": "A", "p": "2", "d": "0,5 a 1,2 mg/kg/dia; adultos 40 a 100 mg/dia", "t": "Sem potencial de abuso; útil com tiques, ansiedade ou uso de substâncias. Efeito pleno em 6 a 12 semanas."},
+ {"g": "TDAH", "c": "TDAH com transtornos de ansiedade comórbidos", "s": "o", "e": "B", "p": "1", "t": "Ensaio de Geller 2007 mostrou melhora das duas condições."},
+ {"g": "TDAH", "c": "TDAH no autismo", "s": "o", "e": "B", "p": "2"}
+],
+"guanfacina": [
+ {"g": "TDAH", "c": "TDAH (monoterapia ou com estimulante)", "s": "o", "e": "A", "p": "2", "t": "Não comercializada no Brasil."},
+ {"g": "Tiques e Tourette", "c": "Tiques com TDAH", "s": "o", "e": "B", "p": "1"},
+ {"g": "Impulsividade e agressividade", "c": "Hiperatividade e agressividade no autismo", "s": "o", "e": "B", "p": "A", "t": "Ensaio RUPP com guanfacina de liberação prolongada positivo para hiperatividade."}
+],
+"clonidina": [
+ {"g": "Outros", "c": "Hipertensão arterial", "s": "a", "e": "A", "p": "2"},
+ {"g": "TDAH", "c": "TDAH, sobretudo com tiques, oposição ou insônia", "s": "o", "e": "B", "p": "2", "d": "0,05 a 0,3 mg/dia", "t": "Aprovada nos EUA (forma prolongada); no Brasil, uso da forma de liberação imediata."},
+ {"g": "Tiques e Tourette", "c": "Síndrome de Tourette", "s": "o", "e": "B", "p": "1", "d": "0,05 a 0,3 mg/dia", "t": "Primeira escolha em muitas diretrizes quando TDAH coexiste."},
+ {"g": "Abstinência de opioides", "c": "Sintomas autonômicos da abstinência de opioides", "s": "o", "e": "A", "p": "2", "d": "0,1 a 0,2 mg a cada 6 a 8 horas", "t": "Alivia sudorese, taquicardia e ansiedade; não reduz fissura."},
+ {"g": "Insônia", "c": "Insônia infantil no TDAH e TEA", "s": "o", "e": "C", "p": "A"},
+ {"g": "TEPT", "c": "Hiperexcitação e pesadelos no TEPT", "s": "o", "e": "C", "p": "A"},
+ {"g": "Sintomas vasomotores", "c": "Fogachos", "s": "o", "e": "B", "p": "A"}
+],
+"donepezila": [
+ {"g": "Demência de Alzheimer", "c": "Doença de Alzheimer leve, moderada e grave", "s": "a", "e": "A", "p": "1", "d": "5 a 10 mg/dia (23 mg em outros países)", "t": "Benefício modesto em cognição, função global e atividades de vida diária; avaliar em 3 a 6 meses."},
+ {"g": "Demência com corpos de Lewy", "c": "Demência com corpos de Lewy", "s": "o", "e": "A", "p": "1", "t": "Aprovada no Japão; melhora cognição, flutuações e alucinações."},
+ {"g": "Demência vascular", "c": "Demência vascular e mista", "s": "o", "e": "B", "p": "2", "t": "Efeito pequeno sobre cognição."},
+ {"g": "Outros", "c": "Comprometimento cognitivo na síndrome de Down, TCE e esclerose múltipla", "s": "o", "e": "C", "p": "U", "t": "Resultados inconsistentes."},
+ {"g": "Agitação na demência", "c": "Agitação na doença de Alzheimer", "s": "o", "e": "A", "p": "X", "t": "Ensaio CALM-AD negativo para agitação."}
+],
+"rivastigmina": [
+ {"g": "Demência de Alzheimer", "c": "Doença de Alzheimer leve a moderada", "s": "a", "e": "A", "p": "1", "d": "adesivo 4,6 a 13,3 mg/24 h"},
+ {"g": "Demência com corpos de Lewy", "c": "Demência da doença de Parkinson", "s": "a", "e": "A", "p": "1", "t": "Única aprovada para essa indicação (EXPRESS); também útil na demência com corpos de Lewy."},
+ {"g": "Demência vascular", "c": "Demência vascular", "s": "o", "e": "B", "p": "2"},
+ {"g": "Delirium", "c": "Prevenção de delirium", "s": "o", "e": "A", "p": "X", "t": "Ensaio em UTI interrompido por aumento de mortalidade (van Eijk 2010)."}
+],
+"galantamina": [
+ {"g": "Demência de Alzheimer", "c": "Doença de Alzheimer leve a moderada", "s": "a", "e": "A", "p": "1", "d": "16 a 24 mg/dia"},
+ {"g": "Demência vascular", "c": "Demência mista e vascular", "s": "o", "e": "B", "p": "2"},
+ {"g": "Esquizofrenia", "c": "Sintomas cognitivos na esquizofrenia", "s": "o", "e": "C", "p": "U", "t": "Resultados inconsistentes."}
+],
+"memantina": [
+ {"g": "Demência de Alzheimer", "c": "Doença de Alzheimer moderada a grave", "s": "a", "e": "A", "p": "1", "d": "20 mg/dia", "t": "Monoterapia ou associada a inibidor de colinesterase; na doença leve não há benefício demonstrado."},
+ {"g": "TOC", "c": "Potencialização no TOC resistente", "s": "o", "e": "B", "p": "P", "d": "10 a 20 mg/dia", "t": "Adjuvante de segunda linha no CANMAT 2014. Vários ECR pequenos, sobretudo iranianos (Ghaleiha 2013, Haghighi 2013), e metanálises (Modarresi 2019) mostram resposta maior quando associada a ISRS. Bem tolerada; em geral usada após ou em vez dos antipsicóticos quando estes não são tolerados."},
+ {"g": "Agitação na demência", "c": "Agitação na demência", "s": "o", "e": "B", "p": "X", "t": "MAGD (Fox 2012) negativo para agitação significativa."},
+ {"g": "Demência vascular", "c": "Demência vascular", "s": "o", "e": "B", "p": "2", "t": "Efeito cognitivo pequeno (MMM 300 e 500)."},
+ {"g": "Esquizofrenia", "c": "Sintomas negativos e cognitivos na esquizofrenia", "s": "o", "e": "C", "p": "P", "t": "Metanálises sugerem efeito pequeno sobre sintomas negativos como adjuvante."},
+ {"g": "Depressão", "c": "Depressão", "s": "o", "e": "B", "p": "X", "t": "Ensaio de Zarate 2006 negativo."},
+ {"g": "Irritabilidade no TEA", "c": "Autismo", "s": "o", "e": "B", "p": "X", "t": "Ensaios de fase 2 e 3 negativos."},
+ {"g": "Outros", "c": "Profilaxia de enxaqueca e dor neuropática", "s": "o", "e": "C", "p": "U"}
+],
+"donanemabe": [
+ {"g": "Demência de Alzheimer", "c": "Comprometimento cognitivo leve e demência leve por Alzheimer com amiloide confirmado", "s": "a", "e": "A", "p": "S", "t": "TRAILBLAZER-ALZ 2: redução de cerca de 35% no declínio em 18 meses; benefício maior em quem tem pouca tau. ARIA é o principal risco."}
+],
+"lecanemabe": [
+ {"g": "Demência de Alzheimer", "c": "Comprometimento cognitivo leve e demência leve por Alzheimer com amiloide confirmado", "s": "a", "e": "A", "p": "S", "t": "CLARITY AD: redução de 27% no declínio (CDR-SB) em 18 meses; significância clínica debatida."}
+]
+}

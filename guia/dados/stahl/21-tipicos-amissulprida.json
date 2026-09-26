@@ -1,0 +1,925 @@
+{
+  "flufenazina": {
+    "alvos": [
+      "Sintomas positivos",
+      "Hiperatividade motora e autonômica",
+      "Comportamento violento ou agressivo"
+    ],
+    "latencia": "Sintomas psicóticos podem melhorar em 1 semana; o efeito pleno sobre o comportamento pode levar várias semanas.",
+    "se_funciona": [
+      "Reduz sobretudo sintomas positivos, sem eliminá-los; a maioria tem redução de cerca de um terço dos sintomas.",
+      "Continuar até atingir um platô de melhora e manter por pelo menos 1 ano após o primeiro episódio; a partir do segundo episódio, o tratamento pode ser indefinido.",
+      "Na mania psicótica reduz os sintomas agudos, mas não é estabilizador comprovado: depois, trocar por estabilizador ou antipsicótico atípico."
+    ],
+    "se_nao_funciona": [
+      "Tentar um antipsicótico atípico de primeira linha ou outro convencional.",
+      "Após falha de duas monoterapias, considerar clozapina."
+    ],
+    "potencializacao": [
+      "Anticonvulsivante estabilizador (valproato, carbamazepina, lamotrigina) na esquizofrenia e na mania",
+      "Lítio na mania",
+      "Benzodiazepínico por curto prazo para agitação"
+    ],
+    "exames": [
+      "Peso e IMC antes e durante o tratamento; em sobrepeso ou obesidade, rastrear pré-diabetes, diabetes e dislipidemia antes de iniciar.",
+      "Triglicerídeos de jejum mensais por alguns meses em alto risco metabólico; ganho acima de 5% do peso inicial: investigar alterações metabólicas ou trocar de antipsicótico.",
+      "PA em idosos antes e nas primeiras semanas.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia ou neutropenia por fármaco; suspender ao primeiro sinal de queda sem outra causa, e se neutrófilos abaixo de 1.000/mm³.",
+      "Fenotiazinas podem dar falso-positivo no teste de fenilcetonúria.",
+      "Dosar prolactina tem utilidade clínica duvidosa, salvo sintomas."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio D2 estriatal: efeitos motores (distonia, parkinsonismo, acatisia, discinesia e distonia tardias).",
+      "Bloqueio D2 hipofisário: hiperprolactinemia (galactorreia, amenorreia).",
+      "Bloqueio D2 excessivo nas vias mesocortical e mesolímbica, sobretudo em doses altas: piora de sintomas negativos e cognitivos (síndrome deficitária induzida por neuroléptico).",
+      "Ação anticolinérgica: boca seca, constipação, visão turva, retenção urinária, redução da sudorese.",
+      "Bloqueio H1: sedação e ganho de peso. Bloqueio alfa-1: tontura, hipotensão, taquicardia, síncope."
+    ],
+    "peso": "Ocorre em uma minoria significativa.",
+    "sedacao": "Ocorre em uma minoria significativa; menos que nas fenotiazinas de baixa potência.",
+    "ea_graves": [
+      "Síndrome neuroléptica maligna (rara).",
+      "Icterícia e agranulocitose (raras).",
+      "Convulsões (raras).",
+      "Aumento de mortalidade e de AVC em idosos com psicose associada à demência."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Efeitos motores: reduzir a dose, associar anticolinérgico (biperideno, triexifenidil) ou amantadina.",
+      "Acatisia: benzodiazepínico.",
+      "Sedação: dose à noite.",
+      "Ganho de peso: dieta, exercício e manejo clínico de IMC alto, diabetes e dislipidemia.",
+      "Trocar por atípico se os efeitos persistirem."
+    ],
+    "dicas_dose": [
+      "Oral: iniciar com 0,5 a 10 mg/dia em tomadas divididas; manutenção de 1 a 20 mg/dia; máximo 40 mg/dia.",
+      "IM de ação curta: em geral 1/3 a 1/2 da dose oral; iniciar com 1,25 mg, depois 2,5 a 10 mg/dia divididos a cada 6 a 8 horas; máximo em geral 10 mg/dia.",
+      "Meia-vida oral de cerca de 15 horas.",
+      "Nos EUA, os comprimidos de 2,5, 5 e 10 mg contêm tartrazina, que pode causar alergia, sobretudo em sensíveis ao ácido acetilsalicílico.",
+      "A solução oral não deve ser misturada a bebidas com cafeína, chá ou suco de maçã.",
+      "Pacientes em atípico podem precisar ocasionalmente de uma dose adicional de convencional para controlar agressividade ou violência."
+    ],
+    "superdosagem": "Sintomas extrapiramidais, sedação, hipotensão, convulsões, coma e depressão respiratória. Não usar adrenalina para a hipotensão.",
+    "longo_prazo": "Alguns efeitos, como a discinesia tardia, podem ser irreversíveis.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir a forma oral lentamente, em 6 a 8 semanas, sobretudo em troca cruzada.",
+      "A suspensão oral rápida pode causar psicose de rebote.",
+      "Se houver antiparkinsoniano associado, mantê-lo por algumas semanas após suspender a flufenazina."
+    ],
+    "interacoes": [
+      "Reduz o efeito de levodopa e agonistas dopaminérgicos.",
+      "Potencializa anti-hipertensivos, exceto a guanetidina, cujo efeito pode antagonizar.",
+      "Soma efeitos com depressores do SNC e, com atropina e afins, efeitos anticolinérgicos.",
+      "Álcool e diuréticos aumentam o risco de hipotensão; com adrenalina pode reduzir a PA.",
+      "Associação com lítio: casos de encefalopatia semelhante à síndrome neuroléptica maligna."
+    ],
+    "nao_usar": [
+      "Coma ou depressão do SNC.",
+      "Uso de cabergolina, pergolida ou metrizamida.",
+      "Alergia à flufenazina ou sensibilidade a qualquer fenotiazina."
+    ],
+    "advertencias": [
+      "Suspender de imediato se houver sinais de síndrome neuroléptica maligna.",
+      "Cautela na abstinência alcoólica e em transtornos convulsivos (reduz o limiar convulsivo).",
+      "Cautela em doença respiratória; evitar exposição excessiva ao sol e ao calor extremo.",
+      "O efeito antiemético pode mascarar outras doenças ou superdosagem.",
+      "Evitar ou usar com muita cautela na doença de Parkinson e na demência com corpos de Lewy."
+    ],
+    "pop": {
+      "renal": "Usar com cautela e titular mais devagar.",
+      "hepatica": "Usar com cautela e titular mais devagar.",
+      "cardiaca": "Pode haver toxicidade cardiovascular, sobretudo hipotensão ortostática.",
+      "idosos": "Titulação mais lenta e dose inicial menor (1 a 2,5 mg/dia); mais suscetíveis a efeitos adversos. Aumento de mortalidade e AVC na psicose associada à demência.",
+      "criancas": "Segurança e eficácia não estabelecidas; decanoato e enantato são contraindicados abaixo de 12 anos. Em geral segunda linha após atípicos.",
+      "gestacao": "Risco de EPS e abstinência neonatal após uso no terceiro trimestre; relatos de EPS, icterícia e hiper ou hiporreflexia em recém-nascidos expostos a fenotiazinas. Usar só se claramente indicado; atípicos podem ser preferíveis.",
+      "lactacao": "Passa ao leite, com efeitos observados no lactente (distonia, discinesia tardia, sedação); recomendado suspender ou usar mamadeira."
+    },
+    "vantagens": [
+      "Formulação IM de ação curta para emergência.",
+      "Depósito de início relativamente rápido."
+    ],
+    "desvantagens": [
+      "Discinesia tardia.",
+      "Crianças.",
+      "Idosos."
+    ],
+    "perolas": [
+      "Fenotiazina de alta potência: menos sedação e hipotensão ortostática, mas mais EPS que as de baixa potência.",
+      "Não se mostrou eficaz para problemas de comportamento na deficiência intelectual.",
+      "A resposta é semelhante entre antipsicóticos convencionais, ao contrário dos atípicos.",
+      "Quem responde mal a atípicos pode se beneficiar de potencialização com flufenazina ou de troca por ela; a associação prolongada, porém, pode somar efeitos adversos sem ganho claro. Em resistentes com impulsividade, agressividade e autolesão pode ser necessária, com vigilância, às vezes combinando um depósito com um oral.",
+      "Associar dois antipsicóticos convencionais tem pouca lógica e piora a tolerabilidade."
+    ]
+  },
+  "flufenazina-depot": {
+    "alvos": [
+      "Sintomas positivos",
+      "Recaídas por baixa adesão"
+    ],
+    "latencia": "Decanoato (dados do Stahl): pico em 0,3 a 1,5 dia; meia-vida de cerca de 14 dias em doses repetidas; estado de equilíbrio em 4 a 6 semanas com dose de ataque.",
+    "exames": [
+      "Nível sérico de vale na manhã do dia da próxima aplicação: limiar de resposta de cerca de 0,81 ng/mL; acima de 2 a 3 ng/mL costuma ser mal tolerado.",
+      "Níveis periódicos ajudam a evitar acúmulo progressivo, já que a necessidade de dose pode cair com o tempo."
+    ],
+    "dicas_dose": [
+      "Decanoato: manutenção de 12,5 a 100 mg a cada 2 semanas, IM ou SC (25 mg/mL).",
+      "Conversão do oral: ou suplementar com a forma oral em metade da dose por pelo menos 2 semanas, ou fazer ataque com aplicações semanais de 1,6 vez a dose oral diária (em mg) por 4 a 6 semanas.",
+      "Cinética de flip-flop: o tempo até o equilíbrio depende da absorção lenta; sem ataque adequado ou cobertura oral, os níveis ficam subterapêuticos por semanas ou meses.",
+      "Veículo em óleo de gergelim: mais reações no local da aplicação."
+    ],
+    "troca": [
+      "Com ataque adequado, o antipsicótico oral pode ser suspenso de imediato; sem ataque, manter o oral em metade da dose por pelo menos 2 semanas.",
+      "Suspender sem redução: amissulprida, aripiprazol, brexpiprazol, cariprazina, paliperidona. Redução de 1 semana: iloperidona, lurasidona, risperidona, ziprasidona. De 3 a 4 semanas: asenapina, olanzapina, quetiapina. Clozapina: 4 semanas ou mais.",
+      "Benzodiazepínico ou anticolinérgico em uso podem ser mantidos durante a transição e retirados um a um depois."
+    ],
+    "vantagens": [
+      "Pico precoce, útil em pacientes agudos.",
+      "Permite dose de ataque."
+    ],
+    "desvantagens": [
+      "O pico precoce aumenta o risco de EPS e acatisia nas primeiras 48 horas.",
+      "Aplicação a cada 2 semanas.",
+      "Reações locais pelo óleo de gergelim."
+    ],
+    "advertencias": [
+      "Formulações depósito de flufenazina (decanoato e enantato) são contraindicadas abaixo de 12 anos."
+    ],
+    "perolas": [
+      "Os dados do Stahl referem-se ao decanoato; no Brasil a apresentação depósito é o enantato, de meia-vida mais curta, e os números de conversão e nível sérico não se transpõem diretamente.",
+      "Estabilizar antes com flufenazina oral para testar tolerabilidade.",
+      "O melhor momento para dosar o nível sérico é a manhã do dia da próxima aplicação."
+    ]
+  },
+  "zuclopentixol": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Agressividade"
+    ],
+    "latencia": "Oral: sintomas psicóticos podem melhorar em 1 semana; o efeito pleno sobre o comportamento pode levar várias semanas.",
+    "se_funciona": [
+      "Reduz sobretudo sintomas positivos, sem eliminá-los; a maioria tem redução de cerca de um terço dos sintomas.",
+      "Continuar até atingir um platô de melhora e manter por pelo menos 1 ano após o primeiro episódio; a partir do segundo episódio, o tratamento pode ser indefinido.",
+      "Na mania psicótica reduz os sintomas agudos, mas não é estabilizador comprovado: depois, trocar por estabilizador ou antipsicótico atípico."
+    ],
+    "se_nao_funciona": [
+      "Tentar um antipsicótico atípico de primeira linha ou outro convencional.",
+      "Após falha de duas monoterapias, considerar clozapina."
+    ],
+    "potencializacao": [
+      "Anticonvulsivante estabilizador (valproato, carbamazepina, lamotrigina) na esquizofrenia e na mania",
+      "Lítio na mania",
+      "Benzodiazepínico por curto prazo para agitação"
+    ],
+    "exames": [
+      "Peso e IMC antes e durante o tratamento; em sobrepeso ou obesidade, rastrear pré-diabetes, diabetes e dislipidemia antes de iniciar.",
+      "Triglicerídeos de jejum mensais por alguns meses em alto risco metabólico; ganho acima de 5% do peso inicial: investigar ou trocar.",
+      "PA em idosos antes e nas primeiras semanas.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia; suspender ao primeiro sinal de queda sem outra causa, e se neutrófilos abaixo de 1.000/mm³.",
+      "Vigiar toxicidade ocular (retinopatia pigmentar, depósitos no cristalino e na córnea).",
+      "Dosar prolactina tem utilidade clínica duvidosa, salvo sintomas."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio D2 estriatal: EPS e discinesia tardia (risco cresce com a dose e a duração).",
+      "Bloqueio D2 hipofisário: hiperprolactinemia (galactorreia, amenorreia).",
+      "Bloqueio D2 excessivo nas vias mesocortical e mesolímbica, sobretudo em doses altas: piora de sintomas negativos e cognitivos.",
+      "Ação anticolinérgica: boca seca, constipação, alterações visuais. Bloqueio H1: sedação e peso. Bloqueio alfa-1: tontura e hipotensão."
+    ],
+    "peso": "Frequente e pode ser importante; alguns perdem peso.",
+    "sedacao": "Frequente e pode ser intensa.",
+    "ea_graves": [
+      "Síndrome neuroléptica maligna (rara).",
+      "Neutropenia e agranulocitose (raras).",
+      "Depressão respiratória (rara).",
+      "Convulsões (raras).",
+      "Aumento de mortalidade e de AVC em idosos com psicose associada à demência."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Efeitos motores: reduzir a dose, associar anticolinérgico (biperideno, triexifenidil) ou amantadina.",
+      "Acatisia: benzodiazepínico.",
+      "Sedação: dose à noite.",
+      "Ganho de peso: dieta, exercício e manejo clínico.",
+      "Trocar por atípico se os efeitos persistirem."
+    ],
+    "dicas_dose": [
+      "Faixa oral usual de 20 a 60 mg/dia.",
+      "Iniciar com 10 a 15 mg/dia em tomadas divididas e aumentar 10 a 20 mg/dia a cada 2 a 3 dias; a manutenção pode ser em dose única à noite; máximo em geral 100 mg/dia.",
+      "Meia-vida oral de cerca de 20 horas; metabolizado pelos CYP2D6 e CYP3A4.",
+      "Suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "superdosagem": "Sedação, convulsões, EPS, coma, hipotensão, choque, hipotermia ou hipertermia. Não usar adrenalina para a hipotensão.",
+    "longo_prazo": "Alguns efeitos, como a discinesia tardia, podem ser irreversíveis. Para manutenção existe o decanoato.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir a forma oral lentamente, em 6 a 8 semanas, sobretudo em troca cruzada.",
+      "A suspensão oral rápida pode causar psicose de rebote.",
+      "Se houver antiparkinsoniano associado, mantê-lo por algumas semanas após suspender."
+    ],
+    "interacoes": [
+      "Inibidores do CYP2D6 (paroxetina, fluoxetina) ou do CYP3A4 (fluoxetina, cetoconazol) podem elevar os níveis e exigir redução de dose.",
+      "Indutores do CYP3A4 (carbamazepina) podem reduzir os níveis.",
+      "Soma efeitos com depressores do SNC e potencializa anticolinérgicos.",
+      "Bloqueia o efeito da guanetidina, mas potencializa outros anti-hipertensivos; com adrenalina pode reduzir a PA.",
+      "Metoclopramida ou piperazina aumentam o risco de EPS.",
+      "Reduz o efeito de levodopa e agonistas dopaminérgicos.",
+      "Associação com lítio: casos de encefalopatia semelhante à síndrome neuroléptica maligna."
+    ],
+    "nao_usar": [
+      "Depressão do SNC, coma ou lesão cerebral subcortical.",
+      "Intoxicação aguda por álcool, barbitúricos ou opioides; uso concomitante de doses altas de sedativo-hipnótico.",
+      "Glaucoma de ângulo fechado.",
+      "Feocromocitoma, colapso circulatório ou discrasias sanguíneas.",
+      "Uso de guanetidina ou compostos similares.",
+      "Gestação.",
+      "Alergia ao zuclopentixol."
+    ],
+    "advertencias": [
+      "Suspender de imediato se houver sinais de síndrome neuroléptica maligna.",
+      "Cautela em epilepsia, glaucoma e retenção urinária.",
+      "O efeito antiemético pode mascarar outras doenças ou superdosagem; a supressão do reflexo da tosse pode causar asfixia.",
+      "Evitar ou usar com muita cautela na doença de Parkinson e na demência com corpos de Lewy.",
+      "Evitar exposição excessiva ao sol e ao calor extremo."
+    ],
+    "pop": {
+      "renal": "Usar com cautela.",
+      "hepatica": "Usar com cautela.",
+      "cardiaca": "Usar com cautela.",
+      "idosos": "Alguns toleram melhor doses menores; acetato no máximo 100 mg por aplicação. Aumento de mortalidade e AVC na psicose associada à demência.",
+      "criancas": "Segurança e eficácia não estabelecidas abaixo de 18 anos; dados abertos preliminares sugerem que o oral reduz agressividade em crianças com deficiência intelectual.",
+      "gestacao": "Não recomendado. Risco de EPS e abstinência neonatal após uso no terceiro trimestre; se for preciso tratar, atípicos podem ser preferíveis.",
+      "lactacao": "Passa ao leite; recomendado suspender ou usar mamadeira; se amamentar, vigiar o lactente."
+    },
+    "vantagens": [
+      "Mesma molécula em oral, acetato (emergência) e decanoato (baixa adesão)."
+    ],
+    "desvantagens": [
+      "Crianças.",
+      "Idosos.",
+      "Discinesia tardia."
+    ],
+    "perolas": [
+      "Pode ter antagonismo 5-HT2A, nunca investigado sistematicamente quanto a propriedades atípicas em doses baixas.",
+      "A resposta é semelhante entre antipsicóticos convencionais, ao contrário dos atípicos.",
+      "Quem responde mal a atípicos pode se beneficiar de potencialização com zuclopentixol ou de troca por ele; a associação prolongada pode somar efeitos adversos sem ganho claro, mas em resistentes com agressividade e autolesão pode ser necessária, com vigilância.",
+      "Associar dois antipsicóticos convencionais tem pouca lógica e piora a tolerabilidade."
+    ]
+  },
+  "zuclopentixol-decanoato": {
+    "alvos": [
+      "Manutenção na esquizofrenia",
+      "Recaídas por baixa adesão",
+      "Agressividade"
+    ],
+    "latencia": "Pico em 4 a 9 dias; meia-vida de 17 a 21 dias em doses repetidas. Sintomas psicóticos podem melhorar em poucos dias, com melhora mais nítida em 1 a 2 semanas.",
+    "exames": [
+      "Peso, IMC e rastreamento metabólico como no oral; triglicerídeos de jejum mensais por alguns meses em alto risco metabólico.",
+      "PA em idosos antes e nas primeiras semanas.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia ou neutropenia por fármaco; suspender se neutrófilos abaixo de 1.000/mm³.",
+      "Vigiar toxicidade ocular (retinopatia pigmentar, depósitos no cristalino e na córnea)."
+    ],
+    "dicas_dose": [
+      "Faixa usual de 150 a 300 mg a cada 2 a 4 semanas.",
+      "Iniciar com 100 mg; após 1 a 4 semanas, segunda aplicação de 100 a 200 mg; manutenção em geral de 100 a 600 mg a cada 1 a 4 semanas.",
+      "Como o pico ocorre em 4 a 9 dias, as aplicações costumam ser necessárias a cada 2 a 3 semanas.",
+      "IM no glúteo, de preferência pela manhã.",
+      "A solução de 200 mg/mL equivale a 144,4 mg/mL de zuclopentixol; em alguns países há apresentação de 500 mg/mL."
+    ],
+    "troca": [
+      "Do acetato para o decanoato: aplicar a última dose de acetato junto com a primeira de decanoato (podem ir na mesma seringa).",
+      "Ao suspender, se houver antiparkinsoniano associado, mantê-lo por algumas semanas após a última aplicação."
+    ],
+    "vantagens": [
+      "Pacientes com baixa adesão.",
+      "Mesma molécula disponível em oral e acetato, o que facilita a transição."
+    ],
+    "desvantagens": [
+      "Crianças e idosos.",
+      "Pacientes com discinesia tardia.",
+      "Pode ter mais efeitos adversos que outros depósitos convencionais.",
+      "Não pode ser retirado rapidamente se surgir efeito grave."
+    ],
+    "advertencias": [
+      "Não associar à clozapina: o depósito não pode ser retirado rapidamente se surgir neutropenia ou outro efeito grave.",
+      "Suspender se houver sinais de síndrome neuroléptica maligna; o efeito do depósito persiste por semanas."
+    ],
+    "perolas": [
+      "Destina-se à manutenção; o acetato cobre a fase aguda.",
+      "Pode reduzir o risco de recaída mais que outros depósitos convencionais, mas talvez com mais efeitos adversos.",
+      "Ao iniciar, acetato e decanoato podem ser combinados na mesma seringa, somando início rápido e longa duração.",
+      "Em resistentes com impulsividade, agressividade ou autolesão, pode ser útil combinar um depósito com um antipsicótico oral, com vigilância."
+    ]
+  },
+  "zuclopentixol-acetato": {
+    "alvos": [
+      "Psicose aguda com agitação",
+      "Agressividade"
+    ],
+    "latencia": "Início em 2 a 4 horas após uma aplicação; duração de 2 a 3 dias; meia-vida de cerca de 32 horas. Pode haver sedação inicial. Melhora psicótica em poucos dias, mais nítida em 1 a 2 semanas.",
+    "exames": [
+      "PA, sobretudo em idosos, e EPS após cada aplicação.",
+      "Hemograma em quem tem leucopenia prévia ou neutropenia por fármaco; suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "dicas_dose": [
+      "50 a 150 mg IM no glúteo, pela manhã, a cada 2 a 3 dias; alguns precisam de segunda dose 24 a 48 horas após a primeira.",
+      "Limites: no máximo 2 semanas de tratamento, 400 mg cumulativos e 4 aplicações.",
+      "Idosos: no máximo 100 mg por aplicação.",
+      "A solução de 50 mg/mL equivale a 45,25 mg/mL de zuclopentixol; em alguns países há ampola de 100 mg/2 mL."
+    ],
+    "troca": [
+      "Se o tratamento precisar passar de 2 semanas, trocar para zuclopentixol oral ou decanoato, ou outro antipsicótico.",
+      "Para o decanoato: aplicar a última dose de acetato junto com a primeira de decanoato (podem ir na mesma seringa)."
+    ],
+    "vantagens": [
+      "Uso em emergência, com efeito de 2 a 3 dias por aplicação, evitando injeções repetidas."
+    ],
+    "desvantagens": [
+      "Não se destina a uso prolongado.",
+      "Sedação inicial.",
+      "Crianças e idosos."
+    ],
+    "advertencias": [
+      "Não usar em depressão do SNC, coma, intoxicação aguda por álcool, barbitúricos ou opioides, nem com doses altas de sedativo-hipnótico.",
+      "Cautela em epilepsia, glaucoma, retenção urinária, doença de Parkinson e demência com corpos de Lewy.",
+      "Na hipotensão por superdosagem, não usar adrenalina."
+    ],
+    "perolas": [
+      "Acetato e decanoato podem ser combinados na mesma seringa ao iniciar o tratamento.",
+      "Superdosagem: sedação, convulsões, EPS, coma, hipotensão, choque, hipotermia ou hipertermia."
+    ]
+  },
+  "clorpromazina": {
+    "alvos": [
+      "Sintomas positivos",
+      "Hiperatividade motora e autonômica",
+      "Comportamento violento ou agressivo"
+    ],
+    "latencia": "Sintomas psicóticos podem melhorar em 1 semana, com efeito pleno sobre o comportamento em várias semanas; a ação sobre náuseas e vômitos é imediata.",
+    "se_funciona": [
+      "Reduz sobretudo sintomas positivos, sem eliminá-los; a maioria tem redução de cerca de um terço dos sintomas.",
+      "Continuar até atingir um platô de melhora e manter por pelo menos 1 ano após o primeiro episódio; a partir do segundo episódio, o tratamento pode ser indefinido.",
+      "Na mania psicótica reduz os sintomas agudos, mas não é estabilizador comprovado: depois, trocar por estabilizador ou antipsicótico atípico."
+    ],
+    "se_nao_funciona": [
+      "Tentar um antipsicótico atípico de primeira linha ou outro convencional.",
+      "Após falha de duas monoterapias, considerar clozapina."
+    ],
+    "potencializacao": [
+      "Anticonvulsivante estabilizador (valproato, carbamazepina, lamotrigina) na esquizofrenia e na mania",
+      "Lítio na mania",
+      "Benzodiazepínico por curto prazo para agitação"
+    ],
+    "exames": [
+      "Peso e IMC antes e durante o tratamento; em sobrepeso ou obesidade, rastrear pré-diabetes, diabetes e dislipidemia antes de iniciar.",
+      "Triglicerídeos de jejum mensais por alguns meses em alto risco metabólico; ganho acima de 5% do peso inicial: investigar ou trocar.",
+      "PA em idosos antes e nas primeiras semanas.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia; suspender ao primeiro sinal de queda sem outra causa, e se neutrófilos abaixo de 1.000/mm³.",
+      "Fenotiazinas podem dar falso-positivo no teste de fenilcetonúria.",
+      "Dosar prolactina tem utilidade clínica duvidosa, salvo sintomas."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio D2 estriatal: EPS, acatisia e discinesia tardia.",
+      "Bloqueio D2 hipofisário: hiperprolactinemia (galactorreia, amenorreia).",
+      "Bloqueio D2 excessivo nas vias mesocortical e mesolímbica, sobretudo em doses altas: síndrome deficitária induzida por neuroléptico.",
+      "Ação anticolinérgica: boca seca, constipação, retenção urinária, visão turva, sedação, prejuízo de memória.",
+      "Bloqueio H1: sedação e ganho de peso. Bloqueio alfa-1: tontura, hipotensão, taquicardia e síncope.",
+      "O efeito antiemético vem da soma de bloqueio D2, H1 e M1 no centro do vômito."
+    ],
+    "peso": "Frequente e pode ser importante.",
+    "sedacao": "Frequente e marcante; pode haver tolerância com o tempo. Em doses baixas a ação sedativa predomina sobre a antipsicótica.",
+    "ea_graves": [
+      "Síndrome neuroléptica maligna (rara).",
+      "Icterícia e agranulocitose (raras).",
+      "Convulsões (raras).",
+      "Aumento de mortalidade e de AVC em idosos com psicose associada à demência."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Efeitos motores: reduzir a dose, associar anticolinérgico (biperideno, triexifenidil) ou amantadina.",
+      "Acatisia: benzodiazepínico.",
+      "Sedação: dose à noite.",
+      "Ganho de peso: dieta, exercício e manejo clínico.",
+      "Trocar por atípico se os efeitos persistirem."
+    ],
+    "dicas_dose": [
+      "Faixa usual de 200 a 800 mg/dia.",
+      "Psicose: aumentar até controlar os sintomas e, após 2 semanas, reduzir à menor dose eficaz. A dose IM varia com a gravidade e o contexto (internação ou ambulatório).",
+      "Doses baixas foram usadas para ansiedade e agitação diurna e para reforçar hipnóticos em não psicóticos, mas hoje outras opções, como atípicos, são preferidas.",
+      "Doses altas podem induzir ou piorar sintomas negativos.",
+      "Ampolas e frascos contêm sulfitos, que podem causar alergia, sobretudo em asmáticos.",
+      "Meia-vida de 8 a 33 horas. Em alguns mercados existe em supositório.",
+      "Suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "superdosagem": "Sintomas extrapiramidais, sedação, hipotensão, coma e depressão respiratória. Não usar adrenalina para a hipotensão.",
+    "longo_prazo": "Alguns efeitos, como a discinesia tardia, podem ser irreversíveis.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir a forma oral lentamente, em 6 a 8 semanas, sobretudo em troca cruzada.",
+      "A suspensão oral rápida pode causar psicose de rebote.",
+      "Se houver antiparkinsoniano associado, mantê-lo por algumas semanas após suspender a clorpromazina."
+    ],
+    "interacoes": [
+      "Reduz o efeito de levodopa e agonistas dopaminérgicos.",
+      "Potencializa anti-hipertensivos, exceto a guanetidina, cujo efeito pode antagonizar.",
+      "Soma efeitos com depressores do SNC; álcool e diuréticos aumentam o risco de hipotensão.",
+      "Com adrenalina e alguns vasopressores pode reduzir a PA.",
+      "Reduz o efeito de anticoagulantes.",
+      "Pode reduzir o metabolismo da fenitoína e elevar seus níveis.",
+      "Com propranolol, os níveis de ambos podem subir.",
+      "Associação com lítio: casos de encefalopatia semelhante à síndrome neuroléptica maligna."
+    ],
+    "nao_usar": [
+      "Coma.",
+      "Uso de metrizamida ou de doses altas de depressores do SNC.",
+      "Alergia à clorpromazina ou sensibilidade a qualquer fenotiazina."
+    ],
+    "advertencias": [
+      "Suspender de imediato se houver sinais de síndrome neuroléptica maligna.",
+      "Cautela na abstinência alcoólica e em transtornos convulsivos (reduz o limiar convulsivo).",
+      "Cautela em doença respiratória, glaucoma e retenção urinária.",
+      "Evitar exposição excessiva ao sol e ao calor extremo.",
+      "O efeito antiemético pode mascarar outras doenças ou superdosagem; a supressão do reflexo da tosse pode causar asfixia.",
+      "Evitar ou usar com muita cautela na doença de Parkinson e na demência com corpos de Lewy."
+    ],
+    "pop": {
+      "renal": "Usar com cautela.",
+      "hepatica": "Usar com cautela.",
+      "cardiaca": "Pode haver toxicidade cardiovascular, sobretudo hipotensão ortostática.",
+      "idosos": "Doses menores e vigilância; muitas vezes não toleram a sedação. Aumento de mortalidade e AVC na psicose associada à demência.",
+      "criancas": "Pode ser usada com cautela acima de 1 ano em problemas graves de comportamento, em geral como segunda linha após atípicos. Oral 0,55 mg/kg a cada 4 a 6 horas se necessário; retal 1,1 mg/kg a cada 6 a 8 horas; IM 0,55 mg/kg a cada 6 a 8 horas. Máximo de 40 mg/dia abaixo de 5 anos e 75 mg/dia entre 5 e 12 anos. Não usar se houver sinais de síndrome de Reye.",
+      "gestacao": "Sem estudos controlados. Em geral não usar no primeiro trimestre e, depois, só se claramente necessário. Risco de EPS e abstinência neonatal após uso no terceiro trimestre; relatos de EPS, icterícia e hiper ou hiporreflexia em recém-nascidos expostos a fenotiazinas. Atípicos podem ser preferíveis.",
+      "lactacao": "Passa ao leite, com efeitos observados no lactente (distonia, discinesia tardia, sedação); recomendado suspender ou usar mamadeira."
+    },
+    "vantagens": [
+      "Formulação IM para emergência.",
+      "Pacientes que precisam de sedação para controle comportamental."
+    ],
+    "desvantagens": [
+      "Discinesia tardia.",
+      "Crianças e idosos.",
+      "Quem quer evitar sedação."
+    ],
+    "perolas": [
+      "Um dos primeiros antipsicóticos; fenotiazina de baixa potência.",
+      "Tem espectro amplo, mas pelo risco de discinesia tardia e pelas alternativas, o uso fora da psicose deve ser curto e de segunda linha.",
+      "A sedação das fenotiazinas de baixa potência é parte do efeito terapêutico em alguns pacientes e efeito adverso em outros; têm mais efeitos cardiovasculares.",
+      "Nos EUA, a bula inclui náuseas e vômitos, inquietação pré-operatória, porfiria aguda intermitente, tétano (adjuvante), soluço intratável e comportamento explosivo ou hiperatividade em crianças.",
+      "Quem responde mal a atípicos pode se beneficiar de potencialização com clorpromazina ou de troca por ela; a associação prolongada pode somar efeitos adversos sem ganho claro, mas em resistentes com agressividade e autolesão pode ser necessária, com vigilância."
+    ]
+  },
+  "tioridazina": {
+    "alvos": [
+      "Sintomas positivos em quem não respondeu a outros antipsicóticos",
+      "Hiperatividade motora e autonômica em quem não respondeu a outros antipsicóticos",
+      "Comportamento violento ou agressivo em quem não respondeu a outros antipsicóticos"
+    ],
+    "latencia": "Sintomas psicóticos podem melhorar em 1 semana; o efeito pleno sobre o comportamento pode levar várias semanas.",
+    "se_funciona": [
+      "É opção de segunda linha.",
+      "Mesmo com resposta, avaliar a troca por antipsicótico com melhor relação risco/benefício."
+    ],
+    "se_nao_funciona": [
+      "Tentar um antipsicótico atípico de primeira linha ou outro convencional.",
+      "Após falha de duas monoterapias, considerar clozapina."
+    ],
+    "potencializacao": [
+      "Não recomendada: não foi estudada e pode ser perigosa, sobretudo com fármacos que prolongam o QTc ou elevam os níveis de tioridazina."
+    ],
+    "exames": [
+      "ECG e potássio basais e periódicos; magnésio também pode ser necessário.",
+      "Avaliar antes bradicardia, hipocalemia e QT longo congênito ou adquirido.",
+      "Peso e IMC antes e durante o tratamento; em sobrepeso ou obesidade, rastrear pré-diabetes, diabetes e dislipidemia; ganho acima de 5%: investigar ou trocar.",
+      "PA em idosos antes e nas primeiras semanas.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia; suspender se neutrófilos abaixo de 1.000/mm³.",
+      "Vigiar retinopatia pigmentar, sobretudo em doses altas.",
+      "Fenotiazinas podem dar falso-positivo no teste de fenilcetonúria."
+    ],
+    "mecanismo_ea": [
+      "Prolongamento do QTc potencialmente perigoso, provavelmente por ação em canais iônicos.",
+      "Bloqueio D2 estriatal e hipofisário: EPS, discinesia tardia, hiperprolactinemia.",
+      "Ação anticolinérgica: boca seca, constipação, visão turva, redução da sudorese.",
+      "Bloqueio H1: sedação e peso. Bloqueio alfa-1: tontura e hipotensão."
+    ],
+    "peso": "Frequente e pode ser importante.",
+    "sedacao": "Frequente e pode ser intensa; em geral transitória.",
+    "ea_graves": [
+      "Prolongamento do QTc dose-dependente, arritmias ventriculares (torsades) e morte súbita.",
+      "Síndrome neuroléptica maligna (rara).",
+      "Icterícia e agranulocitose (raras).",
+      "Convulsões (raras).",
+      "Retinopatia pigmentar em doses acima da faixa recomendada.",
+      "Aumento de mortalidade e de AVC em idosos com psicose associada à demência."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Efeitos motores: reduzir a dose ou associar anticolinérgico.",
+      "Sedação: dose à noite.",
+      "Ganho de peso: dieta, exercício e manejo clínico.",
+      "Trocar por atípico se os efeitos persistirem; associar fármacos para efeitos adversos não foi estudado e pode ser perigoso."
+    ],
+    "dicas_dose": [
+      "Faixa usual de 200 a 800 mg/dia em tomadas divididas.",
+      "Iniciar com 50 a 100 mg 3 vezes ao dia e aumentar gradualmente; máximo 800 mg/dia.",
+      "O prolongamento do QTc depende da dose: começar baixo, subir devagar e monitorar o QTc.",
+      "Acima da faixa recomendada há relatos de retinopatia pigmentar.",
+      "Metabolizada pelo CYP2D6. Suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "superdosagem": "Sedação, confusão, depressão respiratória, alterações cardíacas, hipotensão, convulsões e coma. Não usar adrenalina para a hipotensão.",
+    "longo_prazo": "Alguns efeitos, como a discinesia tardia, podem ser irreversíveis.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir lentamente, em 6 a 8 semanas, sobretudo em troca cruzada.",
+      "A suspensão rápida pode causar psicose de rebote.",
+      "Se houver antiparkinsoniano associado, mantê-lo por algumas semanas após suspender."
+    ],
+    "interacoes": [
+      "Inibidores do CYP2D6 (paroxetina, fluoxetina, duloxetina, bupropiona, sertralina, citalopram e outros) podem elevar a tioridazina a níveis perigosos.",
+      "Fluvoxamina, propranolol e pindolol também inibem seu metabolismo e são perigosos.",
+      "Potencializa o prolongamento do QTc de outros fármacos.",
+      "Com barbitúricos pode haver depressão ou parada respiratória; soma efeitos com depressores do SNC.",
+      "Reduz o efeito de levodopa e agonistas dopaminérgicos; potencializa anti-hipertensivos.",
+      "Álcool e diuréticos aumentam o risco de hipotensão; com adrenalina pode reduzir a PA.",
+      "Associação com lítio: casos de encefalopatia semelhante à síndrome neuroléptica maligna."
+    ],
+    "nao_usar": [
+      "QTc acima de 450 ms ou uso de fármacos que prolongam significativamente o QTc (pimozida, alguns antiarrítmicos, moxifloxacino, esparfloxacino).",
+      "História de QTc longo ou arritmia, infarto recente ou insuficiência cardíaca descompensada.",
+      "Uso de fármacos que inibem o metabolismo da tioridazina (inibidores do CYP450).",
+      "Função reduzida do CYP2D6 (metabolizadores lentos).",
+      "Coma, depressão do SNC, hipertensão ou hipotensão extremas.",
+      "Alergia à tioridazina ou sensibilidade a qualquer fenotiazina."
+    ],
+    "advertencias": [
+      "Pode causar torsades de pointes e morte súbita, sobretudo com fármacos que elevam seus níveis.",
+      "Cautela com bradicardia ou fármacos bradicardizantes (betabloqueadores, bloqueadores de canal de cálcio, clonidina, digitálicos).",
+      "Cautela com hipocalemia ou hipomagnesemia e fármacos que as causam (diuréticos, laxativos estimulantes, anfotericina B IV, glicocorticoides, tetracosactida).",
+      "Suspender de imediato se houver sinais de síndrome neuroléptica maligna.",
+      "Cautela em doença respiratória, glaucoma, retenção urinária, abstinência alcoólica e transtornos convulsivos; evitar calor extremo.",
+      "O efeito antiemético pode mascarar outras doenças ou superdosagem.",
+      "Evitar ou usar com muita cautela na doença de Parkinson e na demência com corpos de Lewy."
+    ],
+    "pop": {
+      "renal": "Usar com cautela.",
+      "hepatica": "Usar com cautela.",
+      "cardiaca": "O prolongamento do QTc é potencializado por bradicardia, hipocalemia e QT longo, que devem ser avaliados antes. Evitar com história de QTc longo, infarto recente ou insuficiência cardíaca descompensada; a relação risco/benefício pode não justificar o uso em cardiopatas.",
+      "idosos": "Alguns toleram melhor doses menores; mais sensíveis a efeitos adversos, inclusive agranulocitose e leucopenia. Aumento de mortalidade e AVC na psicose associada à demência.",
+      "criancas": "Não estabelecida abaixo de 2 anos. Dose: 0,5 mg/kg/dia dividida, aumentando aos poucos até no máximo 3 mg/kg/dia; a relação risco/benefício pode não justificar o uso.",
+      "gestacao": "Sem estudos controlados. Risco de EPS e abstinência neonatal após uso no terceiro trimestre; relatos com fenotiazinas de EPS, icterícia e alteração de reflexos no recém-nascido. Se for preciso tratar, preferir antipsicótico com melhor relação risco/benefício.",
+      "lactacao": "Excreção no leite desconhecida, mas presumida; recomendado suspender ou usar mamadeira."
+    },
+    "vantagens": [
+      "Somente pacientes que respondem a ela e não a outros antipsicóticos."
+    ],
+    "desvantagens": [
+      "Crianças e idosos.",
+      "Pacientes em uso de outros fármacos.",
+      "Metabolizadores lentos do CYP2D6."
+    ],
+    "perolas": [
+      "Para a maioria dos pacientes os benefícios não superam os riscos.",
+      "Pelo efeito no QTc, só deve ser usada após falha de pelo menos 2 outros antipsicóticos; não foi estudada sistematicamente na esquizofrenia refratária.",
+      "Cerca de 7% dos caucasianos têm variante com atividade reduzida do CYP2D6, o que contraindica a tioridazina; pode ser necessário teste para identificá-los.",
+      "Causa menos EPS que outros convencionais; já foi preferida em crianças e idosos, mas hoje o risco de arritmias e interações a relega à segunda linha, se tanto.",
+      "Baixo custo."
+    ]
+  },
+  "sulpirida": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Funcionamento cognitivo",
+      "Sintomas depressivos",
+      "Agressividade"
+    ],
+    "latencia": "Sintomas psicóticos podem melhorar em 1 semana; o efeito pleno sobre o comportamento pode levar várias semanas.",
+    "se_funciona": [
+      "Reduz sobretudo sintomas positivos, sem eliminá-los; a maioria tem redução de cerca de um terço dos sintomas.",
+      "Continuar até atingir um platô de melhora e manter por pelo menos 1 ano após o primeiro episódio; a partir do segundo episódio, o tratamento pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Tentar um antipsicótico atípico de primeira linha ou outro convencional.",
+      "Após falha de duas monoterapias, considerar clozapina."
+    ],
+    "potencializacao": [
+      "Anticonvulsivante estabilizador (valproato, carbamazepina, lamotrigina)",
+      "Lítio na mania",
+      "Benzodiazepínico por curto prazo para agitação"
+    ],
+    "exames": [
+      "Peso e IMC antes e durante o tratamento; em sobrepeso ou obesidade, rastrear pré-diabetes, diabetes e dislipidemia antes de iniciar.",
+      "Triglicerídeos de jejum mensais por alguns meses em alto risco metabólico; ganho acima de 5% do peso inicial: investigar ou trocar.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia; suspender se neutrófilos abaixo de 1.000/mm³.",
+      "Dosar prolactina tem utilidade clínica duvidosa, salvo sintomas."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio D2 estriatal: EPS e acatisia; discinesia tardia é rara.",
+      "Bloqueio D2 hipofisário: elevação de prolactina, galactorreia, amenorreia, impotência.",
+      "Bloqueio D2 excessivo nas vias mesocortical e mesolímbica, sobretudo em doses altas: piora de sintomas negativos e cognitivos.",
+      "Em doses baixas, o bloqueio preferencial de autorreceptores D2 pré-sinápticos pode ser ativador (insônia, raramente hipomania)."
+    ],
+    "peso": "Frequente e pode ser importante.",
+    "sedacao": "Frequente e pode ser importante, sobretudo em doses altas; doses baixas tendem a ser ativadoras.",
+    "ea_graves": [
+      "Síndrome neuroléptica maligna (rara).",
+      "Convulsões (raras).",
+      "Aumento de mortalidade e de AVC em idosos com psicose associada à demência."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Efeitos motores: reduzir a dose, associar anticolinérgico (biperideno, triexifenidil) ou amantadina.",
+      "Acatisia: benzodiazepínico.",
+      "Sedação: dose à noite.",
+      "Ganho de peso: dieta, exercício e manejo clínico.",
+      "Trocar por atípico se os efeitos persistirem."
+    ],
+    "dicas_dose": [
+      "Esquizofrenia: 400 a 800 mg/dia em 2 tomadas; iniciar com 400 a 800 mg/dia em 1 a 2 tomadas e subir se necessário para sintomas positivos; máximo em geral 2.400 mg/dia (alguns recebem mais).",
+      "Sintomas negativos predominantes: 50 a 300 mg/dia.",
+      "Depressão: 150 a 300 mg/dia.",
+      "IM: 600 a 800 mg/dia.",
+      "Doses baixas podem agir mais sobre negativos que positivos; doses altas agem sobre ambos.",
+      "Doses baixas tendem a ativar e altas a sedar.",
+      "Meia-vida de 6 a 8 horas; excretada quase inalterada pelos rins.",
+      "Suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "superdosagem": "Pode ser fatal: vômitos, agitação, alucinações, hipotensão, depressão do SNC, taquicardia sinusal, arritmia, distonia, disartria e hiper-reflexia.",
+    "longo_prazo": "Aparentemente segura, mas pouco estudada.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Recomenda-se reduzir ao longo de 1 semana; em troca cruzada, reduzir em 6 a 8 semanas.",
+      "A suspensão rápida pode causar psicose de rebote.",
+      "Se houver antiparkinsoniano associado, mantê-lo por algumas semanas após suspender."
+    ],
+    "interacoes": [
+      "Pode potencializar anti-hipertensivos.",
+      "Soma efeitos com depressores do SNC.",
+      "Reduz o efeito de levodopa e agonistas dopaminérgicos.",
+      "Antiácidos e sucralfato reduzem a absorção."
+    ],
+    "nao_usar": [
+      "Feocromocitoma.",
+      "Tumor dependente de prolactina.",
+      "Gestação ou amamentação.",
+      "Menores de 15 anos.",
+      "Alergia à sulpirida."
+    ],
+    "advertencias": [
+      "Suspender de imediato se houver sinais de síndrome neuroléptica maligna.",
+      "Cautela na abstinência alcoólica e em transtornos convulsivos.",
+      "Cautela em hipertensão, doença cardiovascular ou pulmonar, hipertireoidismo, retenção urinária e glaucoma.",
+      "Pode exacerbar mania ou hipomania.",
+      "O efeito antiemético pode mascarar outras doenças ou superdosagem; a supressão do reflexo da tosse pode causar asfixia.",
+      "Evitar ou usar com muita cautela na doença de Parkinson e na demência com corpos de Lewy."
+    ],
+    "pop": {
+      "renal": "Eliminação renal: pode acumular. Na insuficiência grave, reduzir a dose, considerar tratamento intermitente ou trocar de antipsicótico.",
+      "hepatica": "Usar com cautela.",
+      "cardiaca": "Usar com cautela.",
+      "idosos": "Alguns toleram melhor doses menores. Aumento de mortalidade e AVC na psicose associada à demência.",
+      "criancas": "Não recomendada abaixo de 15 anos; em adolescentes mais velhos, 3 a 5 mg/kg/dia.",
+      "gestacao": "O Stahl a lista entre as contraindicações; usar só se o benefício justificar. Risco de EPS e abstinência neonatal após uso no terceiro trimestre; atípicos podem ser preferíveis.",
+      "lactacao": "Passa ao leite; recomendado suspender ou usar mamadeira. O pós-parto imediato é período de alto risco de recaída psicótica."
+    },
+    "vantagens": [
+      "Sintomas negativos em alguns pacientes."
+    ],
+    "desvantagens": [
+      "Quem não tolera sedação em doses altas.",
+      "Insuficiência renal grave."
+    ],
+    "perolas": [
+      "Há controvérsia sobre ser mais eficaz que outros convencionais nos sintomas negativos.",
+      "Absorção digestiva pobre e baixa passagem pela barreira hematoencefálica: resposta muito variável, sobretudo em doses baixas.",
+      "Alguns pacientes com resposta insuficiente à clozapina se beneficiam da associação com sulpirida.",
+      "Pequenos estudos e relatos sugerem eficácia em depressão e ansiedade com doses baixas; também foi usada na enxaqueca ligada a variações hormonais.",
+      "Associar dois antipsicóticos convencionais tem pouca lógica e piora a tolerabilidade."
+    ]
+  },
+  "pipotiazina-palmitato": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Agressividade"
+    ],
+    "latencia": "Início de ação em 2 a 3 dias, pico em 9 a 10 dias e duração de 3 a 6 semanas por aplicação. Sintomas psicóticos podem melhorar em 1 semana, com efeito pleno em várias semanas.",
+    "se_funciona": [
+      "Reduz sobretudo sintomas positivos, sem eliminá-los; a maioria tem redução de cerca de um terço dos sintomas.",
+      "Continuar até atingir um platô de melhora e manter por pelo menos 1 ano após o primeiro episódio; a partir do segundo episódio, o tratamento pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Tentar um antipsicótico atípico de primeira linha ou outro convencional.",
+      "Após falha de duas monoterapias, considerar clozapina."
+    ],
+    "potencializacao": [
+      "Anticonvulsivante estabilizador (valproato, carbamazepina, lamotrigina)",
+      "Lítio na mania",
+      "Benzodiazepínico por curto prazo para agitação"
+    ],
+    "exames": [
+      "Peso e IMC antes e durante o tratamento; em sobrepeso ou obesidade, rastrear pré-diabetes, diabetes e dislipidemia; ganho acima de 5%: investigar ou trocar.",
+      "PA em idosos antes e nas primeiras semanas.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia; suspender se neutrófilos abaixo de 1.000/mm³.",
+      "Fenotiazinas podem dar falso-positivo no teste de fenilcetonúria.",
+      "Dosar prolactina tem utilidade clínica duvidosa, salvo sintomas."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio D2 estriatal: EPS e discinesia tardia (risco cresce com a dose e a duração).",
+      "Bloqueio D2 hipofisário: galactorreia e amenorreia.",
+      "Ação anticolinérgica: boca seca, visão turva. Bloqueio alfa-1: hipotensão e taquicardia."
+    ],
+    "peso": "Frequente e pode ser importante.",
+    "sedacao": "Relatada, mas não esperada. Excitação, insônia e inquietação são efeitos notáveis.",
+    "ea_graves": [
+      "Síndrome neuroléptica maligna (rara).",
+      "Icterícia e leucopenia.",
+      "Convulsões (raras).",
+      "Aumento de mortalidade e de AVC em idosos com psicose associada à demência."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Efeitos motores: reduzir a dose, associar anticolinérgico (biperideno, triexifenidil) ou amantadina.",
+      "Acatisia: benzodiazepínico.",
+      "Trocar por atípico se os efeitos persistirem."
+    ],
+    "dicas_dose": [
+      "Faixa usual de 50 a 100 mg uma vez por mês, IM no glúteo.",
+      "Iniciar com 25 mg e aumentar de 25 a 50 mg; máximo 200 mg por mês.",
+      "Pode ser preciso manter antipsicótico oral por 1 a 2 semanas no início.",
+      "Um dos poucos convencionais em depósito de até 1 mês.",
+      "Suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "superdosagem": "Sedação, taquicardia, arritmia, alterações no ECG, EPS, hipotermia e hipotensão. Não usar adrenalina para a hipotensão.",
+    "longo_prazo": "Alguns efeitos, como a discinesia tardia, podem ser irreversíveis.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Se houver antiparkinsoniano associado, mantê-lo por algumas semanas após a última aplicação."
+    ],
+    "interacoes": [
+      "Com tricíclicos, maior risco de efeitos cardíacos.",
+      "Soma efeitos com depressores do SNC; potencializa anti-hipertensivos.",
+      "Reduz o efeito de anfetaminas, levodopa, agonistas dopaminérgicos, clonidina e guanetidina.",
+      "Anticolinérgicos podem reduzir seu efeito.",
+      "Com adrenalina pode reduzir a PA.",
+      "Associação com lítio: casos de encefalopatia semelhante à síndrome neuroléptica maligna."
+    ],
+    "nao_usar": [
+      "Coma.",
+      "Aterosclerose cerebral ou lesão cerebral subcortical.",
+      "Feocromocitoma.",
+      "Insuficiência renal ou hepática, discrasias sanguíneas.",
+      "Cardiopatia grave.",
+      "Alergia à pipotiazina ou sensibilidade a qualquer fenotiazina."
+    ],
+    "advertencias": [
+      "Maior sensibilidade a temperaturas extremas; evitar exposição excessiva ao sol.",
+      "Cautela na doença de Parkinson, na demência com corpos de Lewy e em quem teve EPS com tratamentos anteriores.",
+      "Cautela em doença respiratória, glaucoma de ângulo fechado (inclusive história familiar), abstinência alcoólica, lesão cerebral, epilepsia, hipotireoidismo, tireotoxicose, miastenia grave e hiperplasia prostática.",
+      "O contato com a pele pode causar erupção.",
+      "O efeito antiemético pode mascarar outras doenças ou superdosagem."
+    ],
+    "pop": {
+      "renal": "Usar com cautela; contraindicada na insuficiência renal.",
+      "hepatica": "Usar com cautela; contraindicada na insuficiência hepática.",
+      "cardiaca": "Usar com cautela; contraindicada na cardiopatia grave.",
+      "idosos": "Metabolizam o fármaco mais devagar: reduzir a dose, com início de 5 a 10 mg. Aumento de mortalidade e AVC na psicose associada à demência.",
+      "criancas": "Não recomendada.",
+      "gestacao": "Não recomendada, salvo necessidade absoluta. Risco de EPS e abstinência neonatal após uso no terceiro trimestre; relatos com fenotiazinas de EPS, icterícia e alteração de reflexos no recém-nascido.",
+      "lactacao": "Excreção no leite desconhecida, mas presumida; recomendado suspender ou usar mamadeira."
+    },
+    "vantagens": [
+      "Pacientes com baixa adesão."
+    ],
+    "desvantagens": [
+      "Quem precisa de início imediato da ação antipsicótica."
+    ],
+    "perolas": [
+      "Fenotiazina de potência mais alta: menos sedação e hipotensão, mais EPS que as de baixa potência.",
+      "Só existe como depósito; em geral o paciente deve estar estabilizado com um antipsicótico oral antes da troca.",
+      "Associar dois antipsicóticos convencionais tem pouca lógica e piora a tolerabilidade."
+    ]
+  },
+  "amissulprida": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Sintomas depressivos"
+    ],
+    "latencia": "Sintomas psicóticos podem melhorar em 1 semana, mas o efeito pleno sobre comportamento, cognição e afeto leva semanas. Classicamente se esperam 4 a 6 semanas para julgar a eficácia; alguns precisam de 16 a 20 semanas, sobretudo para sintomas cognitivos.",
+    "se_funciona": [
+      "Reduz sobretudo sintomas positivos e pode melhorar negativos, agressivos, cognitivos e afetivos; a maioria tem redução de cerca de um terço dos sintomas.",
+      "Cerca de 5 a 15% têm melhora global acima de 50 a 60%, sobretudo após mais de 1 ano de tratamento estável (super-respondedores).",
+      "Manter por pelo menos 1 ano após o primeiro episódio; a partir do segundo, o tratamento pode ser indefinido. Mesmo no primeiro episódio, manter indefinidamente pode ser preferível."
+    ],
+    "se_nao_funciona": [
+      "Tentar outro atípico de primeira linha; após falha de duas monoterapias, considerar clozapina.",
+      "Alguns pacientes precisam de um convencional.",
+      "Considerar doses mais altas ou potencialização com valproato ou lamotrigina.",
+      "Dosar o nível sérico: se baixo, pode-se aumentar a dose até além dos limites habituais.",
+      "Considerar má adesão (trocar por fármaco mais tolerável ou por depósito), uso de substâncias e reabilitação com remediação cognitiva."
+    ],
+    "potencializacao": [
+      "Valproato",
+      "Outros anticonvulsivantes estabilizadores (carbamazepina, oxcarbazepina, lamotrigina)",
+      "Lítio",
+      "Benzodiazepínicos"
+    ],
+    "exames": [
+      "O risco de diabetes e dislipidemia não foi bem estudado; monitorizar como nos demais atípicos (peso, IMC, cintura, PA, glicemia e lipídios).",
+      "Antes de iniciar, avaliar bradicardia, hipocalemia e QT longo congênito ou adquirido.",
+      "Suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio D2 estriatal: efeitos motores, sobretudo em doses altas.",
+      "Bloqueio D2 hipofisário: hiperprolactinemia (galactorreia, amenorreia).",
+      "Mecanismo do ganho de peso e do possível risco metabólico desconhecido."
+    ],
+    "peso": "Ocorre em uma minoria significativa; menos associado a ganho de peso que alguns outros atípicos.",
+    "sedacao": "Frequente, sobretudo em doses altas. Insônia, agitação e ansiedade também ocorrem.",
+    "ea_graves": [
+      "Prolongamento do QTc dose-dependente.",
+      "Síndrome neuroléptica maligna (rara).",
+      "Convulsões (raras).",
+      "Aumento de mortalidade e de AVC em idosos com psicose associada à demência."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Reduzir a dose.",
+      "Efeitos motores: anticolinérgico (biperideno, triexifenidil).",
+      "Sedação diurna: concentrar mais da dose ao deitar.",
+      "Ganho de peso: dieta, exercício e manejo clínico.",
+      "Trocar por outro atípico."
+    ],
+    "dicas_dose": [
+      "Esquizofrenia: iniciar com 400 a 800 mg/dia em 2 tomadas; doses acima de 400 mg/dia devem ser divididas; máximo em geral 1.200 mg/dia.",
+      "Só sintomas negativos: 50 a 300 mg/dia. Distimia: 50 mg/dia.",
+      "Negativos respondem a doses menores; positivos podem exigir doses maiores. Em doses baixas basta uma tomada diária.",
+      "Na distimia e na depressão, usar só doses baixas.",
+      "QTc dose-dependente: cautela sobretudo acima de 800 mg/dia.",
+      "Acumula na insuficiência renal: reduzir a dose ou trocar para evitar prolongamento do QTc.",
+      "Meia-vida de cerca de 12 horas; excretada quase inalterada pelos rins."
+    ],
+    "superdosagem": "Sedação, coma, hipotensão e EPS.",
+    "longo_prazo": "Usada tanto na fase aguda quanto na manutenção da esquizofrenia.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "A suspensão rápida pode causar psicose de rebote e piora dos sintomas.",
+      "Ao trocar para outro antipsicótico, seguir o esquema de retirada do fármaco novo."
+    ],
+    "interacoes": [
+      "Potencializa o prolongamento do QTc de outros fármacos.",
+      "Reduz o efeito de levodopa e agonistas dopaminérgicos; potencializa anti-hipertensivos.",
+      "Soma efeitos com depressores do SNC.",
+      "Pouco metabolizada: são esperadas poucas interações que elevem seus níveis."
+    ],
+    "nao_usar": [
+      "Feocromocitoma.",
+      "Tumor dependente de prolactina.",
+      "Gestação ou amamentação.",
+      "Uso de fármacos que prolongam significativamente o QTc (pimozida, tioridazina, quinidina, disopiramida, amiodarona, sotalol, moxifloxacino, esparfloxacino), cisaprida, eritromicina IV ou pentamidina.",
+      "História de QTc longo ou arritmia, infarto recente ou insuficiência cardíaca descompensada.",
+      "Crianças.",
+      "Alergia à amissulprida."
+    ],
+    "advertencias": [
+      "Cautela na abstinência alcoólica e em transtornos convulsivos.",
+      "Suspender de imediato se houver sinais de síndrome neuroléptica maligna.",
+      "Cautela com bradicardia ou fármacos bradicardizantes (betabloqueadores, bloqueadores de canal de cálcio, clonidina, digitálicos).",
+      "Cautela com hipocalemia ou hipomagnesemia e fármacos que as causam (diuréticos, laxativos estimulantes, anfotericina B IV, glicocorticoides, tetracosactida).",
+      "Evitar ou usar com muita cautela na doença de Parkinson e na demência com corpos de Lewy, sobretudo em doses altas."
+    ],
+    "pop": {
+      "renal": "Eliminação renal: pode acumular. Na insuficiência grave, reduzir a dose, considerar tratamento intermitente ou trocar de antipsicótico.",
+      "hepatica": "Usar com cautela; em geral sem ajuste de dose.",
+      "cardiaca": "O prolongamento do QTc é potencializado por bradicardia, hipocalemia e QT longo, que devem ser avaliados antes. Evitar com história de QTc longo, infarto recente ou insuficiência cardíaca descompensada.",
+      "idosos": "Alguns são mais suscetíveis a sedação e hipotensão. Aumento de mortalidade e AVC na psicose associada à demência.",
+      "criancas": "Eficácia e segurança não estabelecidas abaixo de 18 anos.",
+      "gestacao": "Sem teratogenicidade em animais, mas não recomendada. Risco de EPS e abstinência neonatal após uso no terceiro trimestre; a psicose pode piorar na gestação.",
+      "lactacao": "Excreção no leite desconhecida no Stahl, mas presumida; recomendado suspender ou usar mamadeira."
+    },
+    "vantagens": [
+      "Menor associação com ganho de peso que alguns outros atípicos.",
+      "Pacientes que respondem ao efeito ativador de doses baixas sobre sintomas negativos e depressão."
+    ],
+    "desvantagens": [
+      "Dificuldade de adesão a 2 tomadas diárias.",
+      "Quando a hiperprolactinemia é indesejável (possível gestação, meninas púberes com amenorreia, pós-menopausa sem reposição estrogênica).",
+      "Insuficiência renal grave."
+    ],
+    "perolas": [
+      "Eficácia particularmente bem demonstrada em sintomas negativos predominantes.",
+      "A hiperprolactinemia pode suspender a menstruação.",
+      "Alguns pacientes resistentes com resposta insuficiente à clozapina se beneficiam da associação com amissulprida.",
+      "Não é antagonista serotonina-dopamina: age em D2 e D3, talvez como estabilizador dopaminérgico; o antagonismo 5-HT7 e 5-HT2B pode contribuir para o efeito antidepressivo.",
+      "Mais antagonista D2 que o aripiprazol, mas menos que outros atípicos e convencionais; comparada aos atípicos com antagonismo 5-HT2A, causa mais EPS e prolactina, mas continua atípica sobretudo em doses baixas.",
+      "Comparada à sulpirida, tem melhor biodisponibilidade oral e mais potência, permitindo doses menores, com menos ganho de peso e EPS.",
+      "Não é comercializada nos EUA; usada sobretudo na Europa."
+    ],
+    "troca": [
+      "Para amissulprida: iniciar em dose intermediária e subir rápido, em 3 a 7 dias.",
+      "Aripiprazol, brexpiprazol, cariprazina, iloperidona, lurasidona, paliperidona, risperidona e ziprasidona: retirar em cerca de 1 semana.",
+      "Asenapina, olanzapina e quetiapina: retirar lentamente em 3 a 4 semanas, pela readaptação ao bloqueio colinérgico, histaminérgico e alfa-1. Clozapina: 4 semanas ou mais.",
+      "Benzodiazepínico ou anticolinérgico podem ser usados durante a troca cruzada para insônia, agitação ou psicose."
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+[
+ {
+  "f": "bupropiona",
+  "g": "Depressão bipolar",
+  "c": "Depressão bipolar, com estabilizador",
+  "set": {
+   "p": "2",
+   "d": "150 a 300 mg/dia, sempre associada a lítio, valproato ou antipsicótico atípico",
+   "t": "ISRS ou bupropiona associados a estabilizador ou antipsicótico são segunda linha no CANMAT e ISBD 2018; entre os antidepressivos, é dos de menor risco de virada. No STEP-BD (Sachs 2007), paroxetina ou bupropiona associadas não superaram o placebo. Evitar com características mistas, ciclagem rápida ou virada prévia; retirar cerca de 8 semanas após a remissão."
+  },
+  "motivo": "CANMAT e ISBD 2018: antidepressivo (ISRS ou bupropiona) associado é segunda linha na depressão bipolar I, não alternativa"
+ },
+ {
+  "f": "valproato",
+  "add": {
+   "g": "Depressão bipolar",
+   "c": "Depressão bipolar I",
+   "s": "o",
+   "e": "B",
+   "p": "2",
+   "d": "nível sérico 50 a 100 mcg/mL",
+   "t": "Segunda linha no CANMAT e ISBD 2018, com base em ensaios pequenos e metanálise de efeito moderado; útil quando já é o estabilizador de manutenção ou em sintomas mistos. Evitar em mulheres com potencial de engravidar."
+  },
+  "motivo": "CANMAT e ISBD 2018: valproato é segunda linha na depressão bipolar e faltava na lista"
+ },
+ {
+  "f": "paliperidona",
+  "add": {
+   "g": "Mania",
+   "c": "Mania aguda",
+   "s": "o",
+   "e": "A",
+   "p": "1",
+   "d": "6 a 12 mg/dia",
+   "t": "Primeira linha em monoterapia no CANMAT e ISBD 2018 (doses acima de 6 mg nos ensaios); eleva prolactina como a risperidona. No Brasil, a bula cobre esquizofrenia e transtorno esquizoafetivo."
+  },
+  "motivo": "CANMAT e ISBD 2018: paliperidona é primeira linha na mania e faltava"
+ },
+ {
+  "f": "lurasidona",
+  "add": {
+   "g": "Manutenção bipolar",
+   "c": "Manutenção associada a lítio ou valproato",
+   "s": "o",
+   "e": "B",
+   "p": "2",
+   "d": "20 a 80 mg/dia com refeição",
+   "t": "Segunda linha no CANMAT e ISBD 2018, associada a lítio ou valproato (Calabrese 2017), com vantagem metabólica; opção natural quando tratou a depressão aguda."
+  },
+  "motivo": "CANMAT e ISBD 2018: lurasidona associada é segunda linha na manutenção e faltava"
+ },
+ {
+  "f": "clorpromazina",
+  "g": "Mania",
+  "c": "Mania",
+  "set": {
+   "p": "A",
+   "e": "C"
+  },
+  "motivo": "CANMAT e ISBD 2018: clorpromazina é terceira linha na mania aguda, não segunda"
+ },
+ {
+  "f": "aripiprazol",
+  "g": "Mania",
+  "c": "Mania aguda",
+  "set": {
+   "d": "15 a 30 mg/dia"
+  },
+  "motivo": "Dose ausente; faixa dos ensaios e da bula na mania"
+ },
+ {
+  "f": "cariprazina",
+  "g": "Mania",
+  "c": "Mania",
+  "set": {
+   "d": "3 a 6 mg/dia"
+  },
+  "motivo": "Dose ausente; faixa aprovada nos EUA para mania"
+ },
+ {
+  "f": "ziprasidona",
+  "g": "Mania",
+  "c": "Mania aguda",
+  "set": {
+   "d": "80 a 160 mg/dia, com alimento"
+  },
+  "motivo": "Dose ausente; faixa dos ensaios na mania"
+ },
+ {
+  "f": "liotironina",
+  "g": "Depressão bipolar",
+  "set": {
+   "t": "A evidência na depressão bipolar resistente vem de levotiroxina em dose suprafisiológica (Bauer, estudos abertos e ensaio controlado com resultado misto), não de liotironina; o uso da liotironina aqui é extrapolação. Terceira linha, sob estabilizador, com monitorização cardíaca e óssea."
+  },
+  "motivo": "Texto atribuía à liotironina dados obtidos com levotiroxina"
+ }
+]

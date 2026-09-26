@@ -1,0 +1,616 @@
+[
+{
+  "id": "fluoxetina",
+  "nome": "Fluoxetina",
+  "nomes_comerciais": ["Prozac", "Daforin", "Fluxene", "Verotina", "Eufor"],
+  "classe": "antidepressivos", "subclasse": "ISRS",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": "Componente Básico",
+  "sus": "Disponível na atenção básica (cápsula ou comprimido de 20 mg).",
+  "custo": "baixo",
+  "marcadores": ["inibidor_2d6_forte"],
+  "relacionados": ["sertralina", "escitalopram"],
+  "apresentacoes": [
+    {"forma": "Cápsula", "doses": ["10 mg", "20 mg"], "aparencia": {"formato": "capsula", "cor": "verde", "cor2": "creme", "descricao": "Prozac 20 mg: cápsula verde e creme. Genéricos variam."}},
+    {"forma": "Comprimido (sulcado ou dispersível)", "doses": ["20 mg"], "aparencia": {"formato": "redondo", "cor": "branco", "sulco": true, "descricao": "Forma e cor variam entre fabricantes."}},
+    {"forma": "Solução oral (gotas)", "doses": ["20 mg/mL (1 gota ≈ 1 mg)"], "aparencia": {"formato": "gotas", "cor": "incolor"}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Inibidor seletivo da recaptação de serotonina (bloqueio do SERT). Tem também antagonismo 5-HT2C, que desinibe a liberação de noradrenalina e dopamina no córtex pré-frontal e contribui para o perfil mais ativador. Inibição fraca do NET em doses altas.",
+    "resumo_curto": "ISRS com antagonismo 5-HT2C; ativador; meia-vida muito longa.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "5-HT2C", "acao": "antagonismo", "intensidade": 2},
+      {"alvo": "NET", "acao": "inibição", "intensidade": 1},
+      {"alvo": "5-HT2A", "acao": "antagonismo", "intensidade": 1}
+    ],
+    "significado_clinico": [
+      "Antagonismo 5-HT2C explica ativação inicial, perda de apetite e a potencialização com olanzapina na depressão resistente e bipolar.",
+      "Meia-vida longa da norfluoxetina protege contra síndrome de descontinuação e tolera doses esquecidas."
+    ]
+  },
+  "farmacocinetica": {
+    "absorcao": "Boa absorção oral.",
+    "biodisponibilidade": "Acima de 60%.",
+    "alimentos": "Retardam, sem reduzir, a absorção.",
+    "pico": "6 a 8 horas.",
+    "ligacao_proteica": "94%.",
+    "metabolismo": "Hepático, por CYP2D6 (principal) e CYP2C9, a norfluoxetina (ativa). Cinética não linear: a própria fluoxetina inibe seu metabolismo.",
+    "meia_vida": "Fluoxetina 1 a 3 dias (4 a 6 dias em uso crônico); norfluoxetina 4 a 16 dias.",
+    "metabolitos_ativos": "Norfluoxetina, com potência semelhante no SERT.",
+    "excrecao": "Renal (80%), como metabólitos.",
+    "equilibrio": "4 a 5 semanas.",
+    "cyp": {"substrato": ["2D6", "2C9"], "substrato_menor": ["2C19", "3A4"], "inibe": {"2D6": "forte", "2C19": "moderado", "2C9": "fraco", "3A4": "fraco"}, "nota": "A inibição do CYP2D6 persiste por semanas após a suspensão."}
+  },
+  "perfil": {"sedacao": 0, "peso": 1, "sexual": 3, "anticolinergico": 0, "hipotensao": 0, "qt": 1, "serotoninergico": 3, "convulsao": 1, "sangramento": 2, "insonia": 2},
+  "interacoes": [
+    {"com": "IMAO (tranilcipromina, moclobemida), linezolida, azul de metileno", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica potencialmente fatal.", "conduta": "Não associar. Aguardar 5 semanas após suspender a fluoxetina para iniciar IMAO; 14 dias no sentido inverso."},
+    {"com": "Tioridazina, pimozida", "gravidade": "contraindicada", "efeito": "Elevação dos níveis por inibição do CYP2D6 e prolongamento de QT.", "conduta": "Não associar, inclusive até 5 semanas após suspender a fluoxetina."},
+    {"com": "Tricíclicos (amitriptilina, nortriptilina, imipramina, clomipramina)", "gravidade": "grave", "efeito": "Níveis do tricíclico podem subir 2 a 10 vezes (CYP2D6): cardiotoxicidade, convulsões.", "conduta": "Reduzir a dose do tricíclico e dosar nível sérico."},
+    {"com": "Antipsicóticos substratos do CYP2D6 (risperidona, aripiprazol, haloperidol, brexpiprazol)", "gravidade": "moderada", "efeito": "Aumento dos níveis e de EPS; aripiprazol e brexpiprazol exigem metade da dose.", "conduta": "Ajustar doses; aripiprazol à metade."},
+    {"com": "Tamoxifeno", "gravidade": "grave", "efeito": "Inibe a conversão a endoxifeno (CYP2D6): redução da eficácia antineoplásica.", "conduta": "Evitar; preferir escitalopram, venlafaxina ou mirtazapina."},
+    {"com": "Codeína e tramadol", "gravidade": "moderada", "efeito": "Menor analgesia (menos conversão a morfina e O-desmetiltramadol); tramadol soma risco serotoninérgico e de convulsões.", "conduta": "Preferir outro analgésico."},
+    {"com": "Betabloqueadores (metoprolol, propranolol), flecainida, propafenona", "gravidade": "moderada", "efeito": "Aumento dos níveis: bradicardia e hipotensão.", "conduta": "Monitorar FC; ajustar dose."},
+    {"com": "AINE, AAS, anticoagulantes, antiagregantes", "gravidade": "moderada", "efeito": "Risco aumentado de sangramento, sobretudo digestivo.", "conduta": "Considerar inibidor de bomba de prótons em idosos e com história de úlcera."},
+    {"com": "Varfarina", "gravidade": "moderada", "efeito": "Aumento do INR (inibição do CYP2C9 e efeito plaquetário).", "conduta": "INR após introdução e ajustes."},
+    {"com": "Fenitoína, carbamazepina", "gravidade": "moderada", "efeito": "Aumento dos níveis do anticonvulsivante.", "conduta": "Monitorar níveis."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Transtorno obsessivo-compulsivo", "grupo": "TOC", "status": "anvisa", "nota": "Doses de 40 a 80 mg."},
+    {"condicao": "Bulimia nervosa", "grupo": "Bulimia nervosa", "status": "anvisa", "nota": "60 mg/dia."},
+    {"condicao": "Transtorno disfórico pré-menstrual", "grupo": "TDPM", "status": "anvisa", "nota": "Contínuo ou só na fase lútea."},
+    {"condicao": "Depressão em crianças e adolescentes", "grupo": "Depressão", "status": "off_label", "nota": "Aprovado pela FDA a partir de 8 anos; antidepressivo de primeira escolha nessa faixa (NICE, AACAP)."},
+    {"condicao": "Transtorno de pânico", "grupo": "Transtorno de pânico", "status": "off_label", "nota": "Iniciar com 5 a 10 mg."},
+    {"condicao": "Depressão bipolar e depressão resistente, associada à olanzapina", "grupo": "Depressão bipolar", "status": "off_label", "nota": "Combinação aprovada pela FDA."},
+    {"condicao": "TEPT, fobia social, TAG", "grupo": "Transtornos de ansiedade", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "20 mg/dia pela manhã. Em pânico, ansiedade, idosos e crianças: 10 mg/dia (ou 5 mg em gotas).",
+    "faixa": "20 a 60 mg/dia.",
+    "dose_maxima": "80 mg/dia.",
+    "titulacao": "Aumentos de 10 a 20 mg após 3 a 4 semanas, pela meia-vida longa. Bulimia: 60 mg desde a primeira semana, se tolerado.",
+    "horario": "Manhã (pode causar insônia). Em dose única diária.",
+    "latencia": "2 a 4 semanas para início de resposta; 6 a 8 semanas para efeito pleno. TOC: 10 a 12 semanas.",
+    "duracao": "Depressão: 6 a 12 meses após remissão do primeiro episódio; 2 anos ou mais se recorrente.",
+    "monitoramento": ["Ideação suicida nas primeiras semanas, sobretudo antes dos 25 anos.", "Sinais de virada maníaca.", "Sódio em idosos e em uso de diuréticos.", "Peso e crescimento em crianças."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 20], [4, 40], [8, 60]], "faixa": [20, 60], "legenda": "Depressão: aumentos a cada 3 a 4 semanas se resposta parcial."}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas", "Cefaleia", "Insônia", "Ansiedade e inquietação iniciais", "Diarreia"],
+    "comuns": ["Disfunção sexual (redução de libido, retardo ejaculatório, anorgasmia)", "Tremor", "Sudorese", "Redução do apetite e perda de peso inicial", "Sonolência", "Bocejos", "Sonhos vívidos"],
+    "raros_graves": ["Síndrome serotoninérgica", "Hiponatremia (SIADH)", "Sangramento digestivo", "Virada maníaca", "Convulsões", "Acatisia", "Rash e vasculite", "Glaucoma de ângulo fechado", "Prolongamento de QT (raro)"],
+    "conduta_imediata": ["Rash com febre ou mucosas: suspender (vasculite ou reação sistêmica).", "Clônus, hipertermia, agitação: suspeitar de síndrome serotoninérgica.", "Ideação suicida nova ou agravada, agitação intensa ou mania: reavaliar imediatamente."],
+    "manejo": [
+      {"efeito": "Ativação e insônia", "conduta": "Tomar pela manhã; reduzir dose; hipnótico ou trazodona em dose baixa por curto período."},
+      {"efeito": "Náuseas", "conduta": "Tomar após refeição; costuma ceder em 1 a 2 semanas."},
+      {"efeito": "Disfunção sexual", "conduta": "Aguardar 4 a 8 semanas; reduzir dose; associar bupropiona; trocar para bupropiona, mirtazapina, vortioxetina ou agomelatina; sildenafila ou tadalafila para disfunção erétil."},
+      {"efeito": "Acatisia", "conduta": "Reduzir a dose; propranolol 10 a 40 mg/dia."}
+    ]
+  },
+  "contraindicacoes": ["Uso de IMAO nos últimos 14 dias.", "Uso de tioridazina ou pimozida.", "Hipersensibilidade."],
+  "precaucoes": ["Transtorno bipolar sem estabilizador.", "Epilepsia.", "Diabetes (hipoglicemia na introdução, hiperglicemia na suspensão).", "Uso de anticoagulantes.", "Glaucoma de ângulo fechado."],
+  "populacoes": {
+    "gestacao": {"nivel": "aceitavel", "texto": "Grande volume de dados sem aumento consistente de malformações maiores. Risco de síndrome de adaptação neonatal e pequeno aumento de hipertensão pulmonar persistente do recém-nascido com uso no terceiro trimestre."},
+    "lactacao": {"nivel": "cautela", "texto": "A meia-vida longa leva a níveis maiores no lactente (irritabilidade, cólicas). Se iniciar na lactação, preferir sertralina ou paroxetina; se já em uso na gestação com boa resposta, pode manter com observação."},
+    "idosos": {"nivel": "cautela", "texto": "Maior risco de hiponatremia, quedas e interações. Preferir sertralina ou escitalopram. Iniciar com 10 mg."},
+    "pediatria": {"nivel": "preferencial", "texto": "Antidepressivo com melhor evidência na depressão de crianças e adolescentes. Vigiar ideação suicida, ativação e crescimento."},
+    "renal": {"nivel": "aceitavel", "texto": "Sem ajuste em insuficiência leve a moderada; cautela na grave e em diálise (não dialisável)."},
+    "hepatica": {"nivel": "cautela", "texto": "Meia-vida prolongada na cirrose. Usar metade da dose ou dias alternados."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Seguro na maioria dos cardiopatas; atenção a interações com antiarrítmicos e betabloqueadores metabolizados pelo CYP2D6."}
+  },
+  "suspensao": {
+    "risco": "Baixo (autorredução pela meia-vida longa).",
+    "sintomas": "Raros; quando ocorrem, surgem após 2 a 4 semanas.",
+    "reducao": "Em 20 mg/dia pode ser suspensa diretamente. Doses maiores: reduzir para 20 mg por 1 a 2 semanas e suspender.",
+    "troca": "Após suspensão, aguardar 4 a 7 dias para iniciar outro antidepressivo em dose baixa, e 5 semanas para IMAO. Tricíclicos após fluoxetina: iniciar com dose muito baixa pela inibição residual do CYP2D6."
+  },
+  "superdosagem": {
+    "toxicidade": "Baixa letalidade isolada.",
+    "quadro": "Náuseas, vômitos, taquicardia, sonolência, tremor; convulsões e prolongamento de QT com doses muito altas; síndrome serotoninérgica em associações.",
+    "conduta": "Suporte, carvão ativado se até 1 a 2 horas, ECG, benzodiazepínico para convulsões e agitação; ciproeptadina se síndrome serotoninérgica."
+  },
+  "pratica": {
+    "perolas": [
+      "Útil em pacientes com baixa adesão: a meia-vida longa perdoa esquecimentos e permite suspensão sem desmame.",
+      "Na bulimia, a dose eficaz (60 mg) é maior que na depressão.",
+      "Em pacientes com anergia, hipersonia e ganho de peso, o perfil ativador costuma ajudar; em ansiosos, iniciar com 5 a 10 mg em gotas."
+    ],
+    "erros": [
+      "Esquecer que a inibição do CYP2D6 persiste semanas após a suspensão, ao iniciar tricíclico, tioridazina ou aripiprazol.",
+      "Iniciar IMAO menos de 5 semanas após suspender a fluoxetina.",
+      "Aumentar a dose antes de 3 a 4 semanas, sem esperar o equilíbrio."
+    ]
+  },
+  "troca": {"tipo": "fluoxetina", "washout_semanas": 5},
+  "fontes": ["Bula Prozac/fluoxetina (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed.", "CANMAT 2023"]
+},
+{
+  "id": "sertralina",
+  "nome": "Sertralina",
+  "nomes_comerciais": ["Zoloft", "Assert", "Tolrest", "Serenata"],
+  "classe": "antidepressivos", "subclasse": "ISRS",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "sus": "Fora da RENAME nacional; disponível em algumas relações municipais e estaduais.",
+  "custo": "baixo",
+  "relacionados": ["escitalopram", "fluoxetina"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["25 mg", "50 mg", "100 mg"], "aparencia": {"formato": "oblongo", "cor": "branco", "sulco": true, "descricao": "Zoloft: comprimido revestido branco, em forma de cápsula; 50 mg sulcado. Genéricos variam."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "ISRS potente, com inibição moderada do transportador de dopamina (DAT) e afinidade por receptores σ1. A inibição de DAT, relevante em doses altas, pode contribuir para melhora de energia e motivação.",
+    "resumo_curto": "ISRS com leve inibição de DAT; perfil de segurança amplo.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "DAT", "acao": "inibição", "intensidade": 2},
+      {"alvo": "σ1", "acao": "ligação", "intensidade": 2},
+      {"alvo": "NET", "acao": "inibição", "intensidade": 1}
+    ],
+    "significado_clinico": ["Inibição de DAT em 150 a 200 mg pode ativar; útil em depressão com anergia.", "Diarreia e desconforto gastrointestinal são mais frequentes que com outros ISRS."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Lenta.",
+    "biodisponibilidade": "Cerca de 44%; aumenta com alimentos.",
+    "alimentos": "Aumentam a absorção em cerca de 25%; tomar com refeição reduz náuseas.",
+    "pico": "4,5 a 8,5 horas.",
+    "ligacao_proteica": "98%.",
+    "metabolismo": "Hepático, por múltiplas enzimas (CYP2B6, 2C19, 2C9, 3A4, 2D6), a N-desmetilsertralina.",
+    "meia_vida": "26 horas; N-desmetilsertralina 62 a 104 horas.",
+    "metabolitos_ativos": "N-desmetilsertralina, muito menos potente.",
+    "excrecao": "Renal e fecal, em partes iguais.",
+    "equilibrio": "1 semana.",
+    "cyp": {"substrato": ["2B6", "2C19"], "substrato_menor": ["2C9", "3A4", "2D6"], "inibe": {"2D6": "fraco", "UGT": "fraco"}, "nota": "A inibição do CYP2D6 torna-se moderada acima de 150 mg/dia. Metabolismo por múltiplas vias torna a sertralina pouco sensível a inibidores."}
+  },
+  "perfil": {"sedacao": 1, "peso": 1, "sexual": 3, "anticolinergico": 0, "hipotensao": 0, "qt": 1, "serotoninergico": 3, "convulsao": 1, "sangramento": 2, "insonia": 1},
+  "interacoes": [
+    {"com": "IMAO, linezolida, azul de metileno", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Não associar; intervalo de 14 dias em ambos os sentidos."},
+    {"com": "Pimozida", "gravidade": "contraindicada", "efeito": "Aumento dos níveis de pimozida e risco de QT.", "conduta": "Não associar."},
+    {"com": "Dissulfiram", "gravidade": "leve", "efeito": "A bula americana contraindica por causa da solução oral concentrada, que contém álcool; no Brasil só há comprimidos.", "conduta": "Sem restrição com comprimidos."},
+    {"com": "Tramadol, triptanos, lítio, erva-de-são-joão, outros serotoninérgicos", "gravidade": "moderada", "efeito": "Toxicidade serotoninérgica.", "conduta": "Associar com cautela e orientar sintomas."},
+    {"com": "AINE, AAS, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."},
+    {"com": "Lamotrigina", "gravidade": "leve", "efeito": "Relatos de aumento de níveis de lamotrigina (inibição da UGT).", "conduta": "Observar tolerabilidade."},
+    {"com": "Tricíclicos e antipsicóticos metabolizados pelo CYP2D6", "gravidade": "leve", "efeito": "Aumento discreto em doses altas de sertralina.", "conduta": "Monitorar em doses acima de 150 mg."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Transtorno obsessivo-compulsivo (adultos e crianças a partir de 6 anos)", "grupo": "TOC", "status": "anvisa"},
+    {"condicao": "Transtorno de pânico", "grupo": "Transtorno de pânico", "status": "anvisa"},
+    {"condicao": "Transtorno de estresse pós-traumático", "grupo": "TEPT", "status": "anvisa"},
+    {"condicao": "Fobia social", "grupo": "Fobia social", "status": "anvisa"},
+    {"condicao": "Transtorno disfórico pré-menstrual", "grupo": "TDPM", "status": "anvisa"},
+    {"condicao": "Transtorno de ansiedade generalizada", "grupo": "TAG", "status": "off_label", "nota": "Eficácia demonstrada em ensaios; recomendado por diretrizes."},
+    {"condicao": "Ejaculação precoce", "grupo": "Ejaculação precoce", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "50 mg/dia. Em pânico, TEPT, idosos e ansiosos: 25 mg/dia por 1 semana.",
+    "faixa": "50 a 200 mg/dia.",
+    "dose_maxima": "200 mg/dia (até 300 mg em TOC refratário, com monitorização).",
+    "titulacao": "Aumentos de 25 a 50 mg a cada 1 a 2 semanas conforme resposta.",
+    "horario": "Dose única, pela manhã ou à noite, com alimento.",
+    "latencia": "2 a 4 semanas; efeito pleno em 6 a 8 semanas; TOC em 10 a 12 semanas.",
+    "duracao": "Como os demais ISRS: 6 a 12 meses após remissão do primeiro episódio.",
+    "monitoramento": ["Ideação suicida no início.", "Sódio em idosos.", "Sintomas de ativação ou virada maníaca."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 25], [1, 50], [4, 100], [6, 150]], "faixa": [50, 200], "legenda": "Início com 25 mg em quadros ansiosos; 50 mg é dose eficaz em muitos pacientes deprimidos."}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas", "Diarreia e fezes amolecidas", "Cefaleia", "Insônia ou sonolência", "Tontura"],
+    "comuns": ["Disfunção sexual (retardo ejaculatório, anorgasmia)", "Tremor", "Sudorese", "Boca seca", "Dispepsia", "Agitação inicial"],
+    "raros_graves": ["Síndrome serotoninérgica", "Hiponatremia", "Sangramento", "Virada maníaca", "Convulsões", "Hepatotoxicidade (rara)"],
+    "conduta_imediata": ["Sinais de síndrome serotoninérgica: suspender e tratar.", "Sódio abaixo de 125 mmol/L ou confusão em idoso: suspender e corrigir."],
+    "manejo": [
+      {"efeito": "Diarreia", "conduta": "Tomar com refeição; costuma ser transitória; reduzir a dose se persistir."},
+      {"efeito": "Disfunção sexual", "conduta": "Redução de dose, bupropiona adjuvante, sildenafila ou troca por agente com menor efeito sexual."},
+      {"efeito": "Insônia", "conduta": "Mudar para a manhã; higiene do sono."}
+    ]
+  },
+  "contraindicacoes": ["Uso de IMAO nos últimos 14 dias.", "Uso de pimozida.", "Hipersensibilidade."],
+  "precaucoes": ["Bipolaridade.", "Epilepsia.", "Uso de anticoagulantes.", "Insuficiência hepática."],
+  "populacoes": {
+    "gestacao": {"nivel": "preferencial", "texto": "Um dos antidepressivos com mais dados e perfil mais tranquilizador na gestação. Risco de adaptação neonatal e de HPPN com uso tardio, pequeno em termos absolutos."},
+    "lactacao": {"nivel": "preferencial", "texto": "Níveis muito baixos ou indetectáveis no lactente. Primeira escolha na amamentação."},
+    "idosos": {"nivel": "preferencial", "texto": "Poucas interações e sem efeito anticolinérgico. Iniciar com 25 mg; vigiar sódio e quedas."},
+    "pediatria": {"nivel": "aceitavel", "texto": "Aprovada para TOC a partir de 6 anos. Na depressão pediátrica, alternativa à fluoxetina."},
+    "renal": {"nivel": "aceitavel", "texto": "Sem ajuste de dose."},
+    "hepatica": {"nivel": "cautela", "texto": "Usar doses menores ou intervalos maiores; evitar em doença grave."},
+    "cardiopatas": {"nivel": "preferencial", "texto": "Segura após infarto e na insuficiência cardíaca (SADHART). Efeito mínimo no QT."}
+  },
+  "suspensao": {
+    "risco": "Moderado.",
+    "sintomas": "Tontura, irritabilidade, parestesias, náuseas e insônia em 2 a 4 dias após a suspensão.",
+    "reducao": "Reduzir 25 a 50 mg a cada 1 a 2 semanas; nas doses finais, 25 mg e depois 12,5 mg (meio comprimido de 25 mg).",
+    "troca": "Troca direta para outro ISRS ou IRSN em dose baixa; cross-titration para tricíclicos e mirtazapina; 14 dias antes de IMAO."
+  },
+  "superdosagem": {
+    "toxicidade": "Baixa.",
+    "quadro": "Sonolência, náuseas, vômitos, taquicardia, tremor, agitação; síndrome serotoninérgica em associações.",
+    "conduta": "Suporte, carvão ativado, ECG e observação."
+  },
+  "pratica": {
+    "perolas": ["Escolha sensata para gestantes, lactantes, idosos e cardiopatas.", "Diarreia é o efeito que mais a diferencia dos outros ISRS.", "O comprimido de 50 mg sulcado facilita reduções de 25 mg na retirada."],
+    "erros": ["Parar em 50 mg quando o paciente tem resposta parcial: a faixa vai até 200 mg.", "Iniciar com 50 mg em pânico, o que pode piorar a ansiedade inicial."]
+  },
+  "troca": {"tipo": "isrs", "washout_semanas": 2},
+  "fontes": ["Bula Zoloft (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed.", "Glassman AH et al. SADHART. JAMA 2002"]
+},
+{
+  "id": "paroxetina",
+  "nome": "Paroxetina",
+  "nomes_comerciais": ["Paxil", "Paxil CR", "Aropax", "Pondera"],
+  "classe": "antidepressivos", "subclasse": "ISRS",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "baixo",
+  "marcadores": ["inibidor_2d6_forte"],
+  "relacionados": ["sertralina", "escitalopram"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["10 mg", "20 mg", "30 mg", "40 mg (conforme fabricante)"], "aparencia": {"formato": "oval", "cor": "branco", "sulco": true, "descricao": "Paxil 20 mg: comprimido revestido branco, oval, sulcado. Genéricos variam."}},
+    {"forma": "Comprimido de liberação controlada (CR)", "doses": ["12,5 mg", "25 mg"], "aparencia": {"formato": "redondo", "cor": "amarelo", "descricao": "Paxil CR 12,5 mg amarelo; 25 mg rosa. Não partir."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "ISRS de alta potência no SERT, com ação anticolinérgica (M1) moderada, inibição de NET em doses altas e inibição da óxido nítrico sintase. É o ISRS mais sedativo e mais anticolinérgico.",
+    "resumo_curto": "ISRS potente, anticolinérgico, sedativo; descontinuação intensa.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "M1", "acao": "antagonismo", "intensidade": 2},
+      {"alvo": "NET", "acao": "inibição", "intensidade": 2},
+      {"alvo": "NOS", "acao": "inibição", "intensidade": 1}
+    ],
+    "significado_clinico": ["Efeito anticolinérgico: boca seca, constipação, sedação; cautela em idosos.", "Inibição de NOS pode contribuir para a disfunção sexual mais intensa.", "Síndrome de descontinuação mais intensa da classe, por meia-vida curta e rebote colinérgico."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Completa, com metabolismo de primeira passagem saturável.",
+    "biodisponibilidade": "Cerca de 50%; aumenta com a dose (cinética não linear).",
+    "alimentos": "Sem efeito relevante.",
+    "pico": "5 horas (CR: 6 a 10 horas).",
+    "ligacao_proteica": "95%.",
+    "metabolismo": "Hepático, principalmente pelo CYP2D6, que a própria paroxetina inibe (autoinibição); metabólitos inativos.",
+    "meia_vida": "21 horas (variável; não linear).",
+    "metabolitos_ativos": "Nenhum.",
+    "excrecao": "Renal (64%) e fecal.",
+    "equilibrio": "7 a 14 dias.",
+    "cyp": {"substrato": ["2D6"], "substrato_menor": ["3A4"], "inibe": {"2D6": "forte"}, "nota": "Inibidor forte do CYP2D6, com as mesmas consequências da fluoxetina, mas com reversão mais rápida (1 a 2 semanas)."}
+  },
+  "perfil": {"sedacao": 1, "peso": 2, "sexual": 3, "anticolinergico": 1, "hipotensao": 0, "qt": 0, "serotoninergico": 3, "convulsao": 1, "sangramento": 2},
+  "interacoes": [
+    {"com": "IMAO, linezolida, azul de metileno", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Intervalo de 14 dias."},
+    {"com": "Tioridazina, pimozida", "gravidade": "contraindicada", "efeito": "Elevação dos níveis e prolongamento de QT.", "conduta": "Não associar."},
+    {"com": "Tamoxifeno", "gravidade": "grave", "efeito": "Redução da conversão a endoxifeno e da eficácia; associada a maior mortalidade por câncer de mama.", "conduta": "Evitar."},
+    {"com": "Tricíclicos, atomoxetina, metoprolol, risperidona, aripiprazol", "gravidade": "moderada", "efeito": "Aumento dos níveis por inibição do CYP2D6.", "conduta": "Doses menores; atomoxetina e aripiprazol exigem ajuste."},
+    {"com": "Codeína, tramadol", "gravidade": "moderada", "efeito": "Menor analgesia; risco serotoninérgico com tramadol.", "conduta": "Preferir outra opção."},
+    {"com": "Anticolinérgicos (biperideno, tricíclicos)", "gravidade": "leve", "efeito": "Carga anticolinérgica somada.", "conduta": "Cautela em idosos."},
+    {"com": "AINE, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Transtorno obsessivo-compulsivo", "grupo": "TOC", "status": "anvisa"},
+    {"condicao": "Transtorno de pânico com ou sem agorafobia", "grupo": "Transtorno de pânico", "status": "anvisa"},
+    {"condicao": "Fobia social", "grupo": "Fobia social", "status": "anvisa"},
+    {"condicao": "Transtorno de ansiedade generalizada", "grupo": "TAG", "status": "anvisa"},
+    {"condicao": "Transtorno de estresse pós-traumático", "grupo": "TEPT", "status": "anvisa"},
+    {"condicao": "Sintomas vasomotores da menopausa", "grupo": "Sintomas vasomotores", "status": "off_label", "nota": "7,5 mg aprovado pela FDA."},
+    {"condicao": "Ejaculação precoce", "grupo": "Ejaculação precoce", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "20 mg/dia (10 mg em pânico e idosos). CR: 12,5 a 25 mg/dia.",
+    "faixa": "20 a 50 mg/dia.",
+    "dose_maxima": "50 mg/dia em depressão; 60 mg/dia em TOC e pânico. Idosos: 40 mg.",
+    "titulacao": "Aumentos de 10 mg por semana conforme resposta.",
+    "horario": "Manhã, com alimento; à noite se sedar.",
+    "latencia": "2 a 4 semanas; efeito pleno em 6 a 8 semanas.",
+    "duracao": "Como os demais ISRS.",
+    "monitoramento": ["Peso.", "Ideação suicida.", "Sódio em idosos."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 10], [1, 20], [4, 30], [6, 40]], "faixa": [20, 50], "legenda": "Em pânico, iniciar com 10 mg; dose-alvo habitual 40 mg."}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas", "Sonolência", "Disfunção sexual", "Sudorese", "Boca seca"],
+    "comuns": ["Ganho de peso", "Constipação", "Tontura", "Tremor", "Astenia", "Bocejos", "Insônia"],
+    "raros_graves": ["Síndrome serotoninérgica", "Hiponatremia", "Sangramento", "Virada maníaca", "Glaucoma de ângulo fechado", "Convulsões"],
+    "conduta_imediata": ["Dor ocular e visão turva: suspeitar de glaucoma agudo.", "Síndrome serotoninérgica."],
+    "manejo": [
+      {"efeito": "Ganho de peso", "conduta": "Orientação alimentar; considerar troca em uso prolongado."},
+      {"efeito": "Disfunção sexual", "conduta": "Estratégias habituais; é o ISRS com maior taxa."},
+      {"efeito": "Sonolência", "conduta": "Dose à noite."}
+    ]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Tioridazina e pimozida."],
+  "precaucoes": ["Glaucoma de ângulo fechado.", "Idosos (anticolinérgico).", "Gestação.", "Bipolaridade.", "Menores de 18 anos."],
+  "populacoes": {
+    "gestacao": {"nivel": "evitar", "texto": "Associada a pequeno aumento de malformações cardíacas (defeitos septais) no primeiro trimestre. Não é primeira escolha para iniciar na gestação; se já em uso e estável, discutir riscos da troca."},
+    "lactacao": {"nivel": "preferencial", "texto": "Níveis muito baixos no leite e no lactente; boa opção na amamentação."},
+    "idosos": {"nivel": "evitar", "texto": "Critérios de Beers: efeito anticolinérgico. Se necessária, até 40 mg."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem eficácia demonstrada na depressão pediátrica e com mais sinais de ideação suicida."},
+    "renal": {"nivel": "cautela", "texto": "Clearance abaixo de 30 mL/min: iniciar com 10 mg, máximo 40 mg."},
+    "hepatica": {"nivel": "cautela", "texto": "Iniciar com 10 mg, máximo 40 mg."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Sem efeito relevante no QT; atenção a interações pelo CYP2D6."}
+  },
+  "suspensao": {
+    "risco": "Alto (o maior entre os ISRS).",
+    "sintomas": "Tontura intensa, parestesias em choque, irritabilidade, náuseas, sudorese, pesadelos, sintomas gripais; surgem em 1 a 3 dias.",
+    "reducao": "Reduzir 10 mg a cada 2 a 4 semanas; nas doses finais, 5 mg ou menos (partir comprimido de 10 mg). Em uso longo, redução hiperbólica ao longo de meses. Alternativa: trocar para fluoxetina 10 a 20 mg e depois suspender.",
+    "troca": "Cross-titration ao trocar para outro ISRS, se sintomas de descontinuação; 14 dias antes de IMAO."
+  },
+  "superdosagem": {
+    "toxicidade": "Baixa.",
+    "quadro": "Sonolência, náuseas, tremor, taquicardia, midríase.",
+    "conduta": "Suporte e ECG."
+  },
+  "pratica": {
+    "perolas": ["Na lactação é das melhores opções; na gestação, das piores.", "Pode ajudar ansiosos com insônia pelo efeito sedativo.", "Esquecer 1 ou 2 doses já pode provocar sintomas de descontinuação: avaliar adesão antes de escolher."],
+    "erros": ["Suspender abruptamente.", "Prescrever a idosos com déficit cognitivo.", "Associar a tamoxifeno."]
+  },
+  "troca": {"tipo": "isrs", "washout_semanas": 2},
+  "fontes": ["Bula Paxil (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed.", "Critérios de Beers AGS 2023"]
+},
+{
+  "id": "citalopram",
+  "nome": "Citalopram",
+  "nomes_comerciais": ["Cipramil", "Procimax", "Alcytam"],
+  "classe": "antidepressivos", "subclasse": "ISRS",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "baixo",
+  "relacionados": ["escitalopram"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["20 mg", "40 mg"], "aparencia": {"formato": "oval", "cor": "branco", "sulco": true, "descricao": "Cipramil 20 mg: comprimido revestido branco, oval, sulcado. Genéricos variam."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Mistura racêmica: o S-enantiômero (escitalopram) inibe o SERT; o R-enantiômero é pouco ativo e pode antagonizar parcialmente o efeito. Afinidade fraca por H1 (discreta sedação).",
+    "resumo_curto": "ISRS racêmico, poucas interações, prolonga QT dose-dependente.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "H1", "acao": "antagonismo", "intensidade": 1}
+    ],
+    "significado_clinico": ["Poucas interações farmacocinéticas: bom em polifarmácia.", "Prolongamento de QT dose-dependente limita a dose a 40 mg (20 mg em idosos)."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Rápida.",
+    "biodisponibilidade": "80%.",
+    "alimentos": "Sem efeito.",
+    "pico": "2 a 4 horas.",
+    "ligacao_proteica": "80%.",
+    "metabolismo": "Hepático, por CYP2C19, 3A4 e 2D6, a desmetilcitalopram e didesmetilcitalopram (pouco ativos).",
+    "meia_vida": "35 horas.",
+    "metabolitos_ativos": "Pouco relevantes.",
+    "excrecao": "Renal (20% inalterado) e hepática.",
+    "equilibrio": "1 semana.",
+    "cyp": {"substrato": ["2C19", "3A4"], "substrato_menor": ["2D6"], "inibe": {"2D6": "fraco"}, "nota": "Metabolizadores lentos do CYP2C19 e uso de omeprazol ou cimetidina elevam os níveis: limitar a 20 mg."}
+  },
+  "perfil": {"sedacao": 1, "peso": 1, "sexual": 3, "anticolinergico": 0, "hipotensao": 0, "qt": 2, "serotoninergico": 3, "convulsao": 1, "sangramento": 2},
+  "interacoes": [
+    {"com": "IMAO, linezolida", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Intervalo de 14 dias."},
+    {"com": "Pimozida e outros fármacos que prolongam QT (tioridazina, haloperidol IV, metadona, macrolídeos, antiarrítmicos classe IA e III)", "gravidade": "grave", "efeito": "Prolongamento aditivo do QT.", "conduta": "Evitar; se necessário, ECG e eletrólitos."},
+    {"com": "Omeprazol, cimetidina, fluconazol (inibidores do CYP2C19)", "gravidade": "moderada", "efeito": "Aumento dos níveis e do QT.", "conduta": "Máximo de 20 mg/dia."},
+    {"com": "AINE, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior e prevenção de recaídas", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Transtorno de pânico", "grupo": "Transtorno de pânico", "status": "anvisa"},
+    {"condicao": "Transtorno obsessivo-compulsivo", "grupo": "TOC", "status": "anvisa"},
+    {"condicao": "Agitação na demência de Alzheimer", "grupo": "Agitação na demência", "status": "off_label", "nota": "Estudo CitAD (30 mg), com prolongamento de QT e piora cognitiva."},
+    {"condicao": "TAG, fobia social", "grupo": "Transtornos de ansiedade", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "20 mg/dia (10 mg em pânico e idosos).",
+    "faixa": "20 a 40 mg/dia.",
+    "dose_maxima": "40 mg/dia. Acima de 65 anos, hepatopatas e metabolizadores lentos do CYP2C19: 20 mg/dia.",
+    "titulacao": "Aumento para 40 mg após 2 a 4 semanas se necessário.",
+    "horario": "Dose única, manhã ou noite.",
+    "latencia": "2 a 4 semanas.",
+    "duracao": "Como os demais ISRS.",
+    "monitoramento": ["ECG se cardiopatia, bradicardia, hipocalemia ou uso de outros fármacos que prolongam QT.", "Potássio e magnésio em risco.", "Sódio em idosos."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 10], [1, 20], [4, 40]], "faixa": [20, 40]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas", "Sonolência", "Sudorese", "Boca seca", "Cefaleia"],
+    "comuns": ["Disfunção sexual", "Insônia", "Tremor", "Diarreia", "Fadiga"],
+    "raros_graves": ["Prolongamento de QT e torsades de pointes", "Hiponatremia", "Síndrome serotoninérgica", "Sangramento"],
+    "conduta_imediata": ["QTc acima de 500 ms ou síncope: suspender.", "Palpitações com tontura: ECG."],
+    "manejo": [{"efeito": "Náuseas", "conduta": "Tomar com alimento; transitórias."}, {"efeito": "Disfunção sexual", "conduta": "Estratégias habituais."}]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Pimozida.", "Síndrome do QT longo congênito ou QTc prolongado conhecido."],
+  "precaucoes": ["Bradicardia, insuficiência cardíaca, infarto recente, hipocalemia, hipomagnesemia.", "Idosos."],
+  "populacoes": {
+    "gestacao": {"nivel": "aceitavel", "texto": "Dados razoáveis, sem sinal consistente de malformações. Riscos habituais dos ISRS no terceiro trimestre."},
+    "lactacao": {"nivel": "cautela", "texto": "Passagem para o leite maior que a da sertralina; relatos de sonolência no lactente."},
+    "idosos": {"nivel": "cautela", "texto": "Máximo de 20 mg/dia pelo QT."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem eficácia consistente na depressão pediátrica."},
+    "renal": {"nivel": "cautela", "texto": "Cautela com clearance abaixo de 20 mL/min."},
+    "hepatica": {"nivel": "cautela", "texto": "Máximo de 20 mg/dia."},
+    "cardiopatas": {"nivel": "cautela", "texto": "ECG basal; evitar em QT longo, bradicardia significativa e insuficiência cardíaca descompensada."}
+  },
+  "suspensao": {"risco": "Moderado.", "sintomas": "Sintomas FINISH habituais.", "reducao": "Reduzir 10 mg a cada 1 a 2 semanas.", "troca": "Direta para outro ISRS ou IRSN; 14 dias antes de IMAO."},
+  "superdosagem": {"toxicidade": "Maior que a de outros ISRS, pelo QT.", "quadro": "Sonolência, taquicardia, convulsões e prolongamento de QT com arritmias acima de 600 mg.", "conduta": "Suporte, ECG contínuo por pelo menos 24 horas, correção de eletrólitos, benzodiazepínico para convulsões, sulfato de magnésio se torsades."},
+  "pratica": {
+    "perolas": ["Opção em pacientes com muitas medicações pelas poucas interações.", "Na prática, o escitalopram substituiu o citalopram por ter perfil semelhante com menos QT por mg eficaz."],
+    "erros": ["Ultrapassar 20 mg em idosos.", "Associar a outros fármacos que prolongam QT sem ECG."]
+  },
+  "troca": {"tipo": "isrs", "washout_semanas": 2},
+  "fontes": ["Bula Cipramil (Anvisa)", "FDA Drug Safety Communication 2011/2012", "Maudsley Prescribing Guidelines 15ª ed.", "Porsteinsson AP et al. CitAD. JAMA 2014"]
+},
+{
+  "id": "escitalopram",
+  "nome": "Escitalopram",
+  "nomes_comerciais": ["Lexapro", "Reconter", "Exodus", "Espran"],
+  "classe": "antidepressivos", "subclasse": "ISRS",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "baixo",
+  "relacionados": ["citalopram", "sertralina"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["10 mg", "15 mg", "20 mg"], "aparencia": {"formato": "oval", "cor": "branco", "sulco": true, "descricao": "Lexapro 10 mg: comprimido revestido branco, oval, sulcado. Genéricos variam."}},
+    {"forma": "Solução oral (gotas)", "doses": ["20 mg/mL (1 gota = 1 mg)"], "aparencia": {"formato": "gotas", "cor": "incolor"}}
+  ],
+  "farmacodinamica": {
+    "resumo": "S-enantiômero do citalopram, o ISRS mais seletivo. Liga-se ao sítio primário e a um sítio alostérico do SERT, o que prolonga a inibição. Afinidade desprezível por outros receptores.",
+    "resumo_curto": "ISRS mais seletivo, poucas interações, boa tolerabilidade.",
+    "afinidade": [{"alvo": "SERT", "acao": "inibição", "intensidade": 4}],
+    "significado_clinico": ["Tolerabilidade entre as melhores da classe (Cipriani 2018).", "Poucas interações farmacocinéticas."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Rápida e completa.",
+    "biodisponibilidade": "80%.",
+    "alimentos": "Sem efeito.",
+    "pico": "4 horas.",
+    "ligacao_proteica": "56%.",
+    "metabolismo": "Hepático, por CYP2C19 (principal), 3A4 e 2D6, a S-desmetilcitalopram (pouco ativo).",
+    "meia_vida": "27 a 32 horas (dobra em metabolizadores lentos do CYP2C19).",
+    "metabolitos_ativos": "Pouco relevantes.",
+    "excrecao": "Renal e hepática.",
+    "equilibrio": "7 a 10 dias.",
+    "cyp": {"substrato": ["2C19", "3A4"], "substrato_menor": ["2D6"], "inibe": {"2D6": "fraco"}}
+  },
+  "perfil": {"sedacao": 1, "peso": 1, "sexual": 3, "anticolinergico": 0, "hipotensao": 0, "qt": 1, "serotoninergico": 3, "convulsao": 1, "sangramento": 2},
+  "interacoes": [
+    {"com": "IMAO, linezolida", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Intervalo de 14 dias."},
+    {"com": "Pimozida", "gravidade": "contraindicada", "efeito": "Prolongamento de QT.", "conduta": "Não associar."},
+    {"com": "Fármacos que prolongam QT", "gravidade": "moderada", "efeito": "Prolongamento aditivo de QT, menor que com citalopram.", "conduta": "ECG se múltiplos fatores de risco."},
+    {"com": "Omeprazol, cimetidina", "gravidade": "leve", "efeito": "Aumento moderado dos níveis.", "conduta": "Considerar dose máxima de 10 a 15 mg."},
+    {"com": "AINE, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior e prevenção de recaídas", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Transtorno de ansiedade generalizada", "grupo": "TAG", "status": "anvisa"},
+    {"condicao": "Transtorno de pânico", "grupo": "Transtorno de pânico", "status": "anvisa"},
+    {"condicao": "Fobia social", "grupo": "Fobia social", "status": "anvisa"},
+    {"condicao": "Transtorno obsessivo-compulsivo", "grupo": "TOC", "status": "anvisa"},
+    {"condicao": "Depressão em adolescentes", "grupo": "Depressão", "status": "off_label", "nota": "Aprovado pela FDA a partir de 12 anos."},
+    {"condicao": "TEPT, TDPM", "grupo": "Transtornos de ansiedade", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "10 mg/dia (5 mg por 1 semana em pânico e idosos).",
+    "faixa": "10 a 20 mg/dia.",
+    "dose_maxima": "20 mg/dia; idosos acima de 65 anos e hepatopatas: 10 mg/dia.",
+    "titulacao": "Aumento para 20 mg após 1 a 4 semanas se necessário.",
+    "horario": "Dose única, manhã ou noite.",
+    "latencia": "2 a 4 semanas; alguns estudos sugerem início um pouco mais rápido que outros ISRS.",
+    "duracao": "Como os demais ISRS.",
+    "monitoramento": ["Ideação suicida no início.", "Sódio em idosos.", "ECG se fatores de risco para QT."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 5], [1, 10], [4, 15], [6, 20]], "faixa": [10, 20]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas", "Cefaleia"],
+    "comuns": ["Disfunção sexual (ejaculação retardada, anorgasmia)", "Insônia ou sonolência", "Sudorese", "Fadiga", "Diarreia", "Boca seca", "Tontura", "Bocejos"],
+    "raros_graves": ["Hiponatremia", "Síndrome serotoninérgica", "Sangramento", "Prolongamento de QT", "Virada maníaca"],
+    "conduta_imediata": ["Síndrome serotoninérgica.", "Hiponatremia sintomática."],
+    "manejo": [{"efeito": "Náuseas", "conduta": "Transitórias; tomar com alimento."}, {"efeito": "Disfunção sexual", "conduta": "Estratégias habituais."}]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Pimozida.", "QT longo congênito ou prolongamento de QT conhecido."],
+  "precaucoes": ["Bipolaridade.", "Epilepsia.", "Uso de anticoagulantes.", "Cardiopatia com risco de arritmia."],
+  "populacoes": {
+    "gestacao": {"nivel": "aceitavel", "texto": "Dados crescentes sem sinal consistente de malformações; riscos habituais do terceiro trimestre."},
+    "lactacao": {"nivel": "aceitavel", "texto": "Níveis baixos no lactente; sertralina e paroxetina têm mais dados."},
+    "idosos": {"nivel": "preferencial", "texto": "Boa tolerabilidade e poucas interações; máximo de 10 mg/dia pela bula brasileira."},
+    "pediatria": {"nivel": "aceitavel", "texto": "Aprovado pela FDA para depressão a partir de 12 anos."},
+    "renal": {"nivel": "aceitavel", "texto": "Cautela com clearance abaixo de 30 mL/min."},
+    "hepatica": {"nivel": "cautela", "texto": "Leve a moderada: 5 mg/dia nas 2 primeiras semanas, depois até 10 mg/dia (máximo). Grave: cautela extra e titulação lenta."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Preferir a sertralina em cardiopatia grave; ECG se fatores de risco."}
+  },
+  "suspensao": {"risco": "Moderado.", "sintomas": "Sintomas FINISH habituais.", "reducao": "Reduzir 5 mg a cada 1 a 2 semanas; nas doses finais usar gotas (2,5 mg ou menos).", "troca": "Direta para outro ISRS ou IRSN; 14 dias antes de IMAO."},
+  "superdosagem": {"toxicidade": "Baixa.", "quadro": "Sonolência, náuseas, taquicardia, tremor; prolongamento de QT e convulsões em doses muito altas.", "conduta": "Suporte e ECG."},
+  "pratica": {
+    "perolas": ["Um dos antidepressivos com melhor equilíbrio entre eficácia e aceitabilidade na metanálise de Cipriani (2018).", "As gotas permitem iniciar em 2 a 5 mg em pacientes muito ansiosos ou sensíveis e reduzir com precisão na retirada."],
+    "erros": ["Usar 20 mg em idosos.", "Associar ao citalopram (mesma molécula)."]
+  },
+  "troca": {"tipo": "isrs", "washout_semanas": 2},
+  "fontes": ["Bula Lexapro (Anvisa)", "Cipriani A et al. Lancet 2018", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+},
+{
+  "id": "fluvoxamina",
+  "nome": "Fluvoxamina",
+  "nomes_comerciais": ["Luvox"],
+  "classe": "antidepressivos", "subclasse": "ISRS",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "moderado",
+  "marcadores": ["inibidor_1a2_forte"],
+  "relacionados": ["clomipramina", "sertralina"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["50 mg", "100 mg"], "aparencia": {"formato": "oval", "cor": "branco", "sulco": true, "descricao": "Luvox: comprimidos revestidos brancos; o de 100 mg é oval e sulcado."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "ISRS com agonismo potente em receptores σ1, que pode contribuir para ação ansiolítica e em sintomas psicóticos da depressão. Praticamente sem ação em outros receptores.",
+    "resumo_curto": "ISRS com agonismo σ1; inibidor potente de CYP1A2 e 2C19.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "σ1", "acao": "agonismo", "intensidade": 3}
+    ],
+    "significado_clinico": ["Tradicionalmente usada no TOC.", "Perfil de interações exige revisar toda a prescrição antes de iniciar."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Completa.",
+    "biodisponibilidade": "53% (primeira passagem).",
+    "alimentos": "Sem efeito relevante; tomar com alimento reduz náuseas.",
+    "pico": "3 a 8 horas.",
+    "ligacao_proteica": "77%.",
+    "metabolismo": "Hepático, por CYP2D6 (principal) e CYP1A2, a metabólitos inativos.",
+    "meia_vida": "15 a 20 horas.",
+    "metabolitos_ativos": "Nenhum.",
+    "excrecao": "Renal.",
+    "equilibrio": "10 a 14 dias.",
+    "cyp": {"substrato": ["2D6", "1A2"], "inibe": {"1A2": "forte", "2C19": "forte", "3A4": "moderado", "2C9": "moderado", "2D6": "fraco"}, "nota": "Um dos inibidores de CYP mais potentes da psiquiatria."}
+  },
+  "perfil": {"sedacao": 2, "peso": 1, "sexual": 2, "anticolinergico": 0, "hipotensao": 0, "qt": 1, "serotoninergico": 3, "convulsao": 1, "sangramento": 2},
+  "interacoes": [
+    {"com": "IMAO, linezolida", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Intervalo de 14 dias."},
+    {"com": "Tizanidina, ramelteona, agomelatina, tioridazina, pimozida, cisaprida", "gravidade": "contraindicada", "efeito": "Elevação acentuada dos níveis (CYP1A2 e 3A4): hipotensão, sedação, arritmias.", "conduta": "Não associar."},
+    {"com": "Clozapina e olanzapina", "gravidade": "grave", "efeito": "Clozapina sobe 5 a 10 vezes; olanzapina cerca de 2 vezes.", "conduta": "Evitar ou reduzir drasticamente a dose com dosagem sérica."},
+    {"com": "Teofilina, cafeína, duloxetina, melatonina", "gravidade": "grave", "efeito": "Toxicidade por inibição do CYP1A2 (teofilina: arritmias e convulsões).", "conduta": "Evitar teofilina; reduzir cafeína; evitar duloxetina."},
+    {"com": "Varfarina", "gravidade": "grave", "efeito": "Aumento importante do INR (CYP2C9 e 1A2).", "conduta": "INR frequente."},
+    {"com": "Benzodiazepínicos oxidados (alprazolam, diazepam, midazolam)", "gravidade": "moderada", "efeito": "Aumento dos níveis (CYP3A4 e 2C19).", "conduta": "Reduzir a dose ou preferir lorazepam."},
+    {"com": "Tricíclicos terciários (clomipramina, amitriptilina, imipramina)", "gravidade": "moderada", "efeito": "Aumento dos níveis (1A2 e 2C19); às vezes usado de propósito para desviar o metabolismo da clomipramina.", "conduta": "Monitorar nível sérico e ECG."},
+    {"com": "Carbamazepina", "gravidade": "moderada", "efeito": "Aumento dos níveis de carbamazepina (CYP3A4), com risco de toxicidade.", "conduta": "Monitorar nível sérico e sinais de toxicidade; reduzir a dose se necessário."},
+    {"com": "Clopidogrel", "gravidade": "moderada", "efeito": "Menor ativação do clopidogrel (CYP2C19).", "conduta": "Preferir outro antidepressivo."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Transtorno obsessivo-compulsivo", "grupo": "TOC", "status": "anvisa"},
+    {"condicao": "TOC em crianças e adolescentes", "grupo": "TOC", "status": "off_label", "nota": "Aprovado pela FDA a partir de 8 anos."},
+    {"condicao": "Fobia social, pânico, TEPT", "grupo": "Transtornos de ansiedade", "status": "off_label"},
+    {"condicao": "Depressão psicótica", "grupo": "Depressão", "status": "off_label", "nota": "Evidência limitada, atribuída ao agonismo σ1."}
+  ],
+  "prescricao": {
+    "dose_inicial": "50 mg à noite.",
+    "faixa": "100 a 300 mg/dia.",
+    "dose_maxima": "300 mg/dia (crianças: 200 mg).",
+    "titulacao": "Aumentos de 50 mg a cada 4 a 7 dias. Doses acima de 100 mg: dividir em duas tomadas, a maior à noite.",
+    "horario": "Noite (sedação); dividida acima de 100 mg.",
+    "latencia": "2 a 4 semanas na depressão; 10 a 12 semanas no TOC.",
+    "duracao": "TOC: pelo menos 1 a 2 anos após resposta.",
+    "monitoramento": ["Revisar todas as medicações por interações.", "Ideação suicida no início."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 50], [1, 100], [2, 150], [4, 200], [6, 250]], "faixa": [100, 300], "legenda": "TOC costuma exigir 200 a 300 mg/dia."}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas (mais que outros ISRS)", "Sonolência", "Cefaleia"],
+    "comuns": ["Insônia", "Boca seca", "Disfunção sexual", "Tontura", "Diarreia ou constipação", "Dispepsia", "Astenia"],
+    "raros_graves": ["Síndrome serotoninérgica", "Hiponatremia", "Sangramento", "Convulsões", "Virada maníaca", "Elevação de transaminases"],
+    "conduta_imediata": ["Toxicidade de fármaco associado (sedação intensa com clozapina, arritmia com teofilina)."],
+    "manejo": [{"efeito": "Náuseas", "conduta": "Titulação lenta e tomada com alimento."}, {"efeito": "Sedação", "conduta": "Concentrar a dose à noite."}]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Tizanidina, ramelteona, agomelatina, tioridazina, pimozida."],
+  "precaucoes": ["Polifarmácia.", "Hepatopatia.", "Epilepsia.", "Bipolaridade."],
+  "populacoes": {
+    "gestacao": {"nivel": "cautela", "texto": "Menos dados que sertralina e fluoxetina."},
+    "lactacao": {"nivel": "aceitavel", "texto": "Níveis baixos no lactente em relatos limitados."},
+    "idosos": {"nivel": "cautela", "texto": "Interações frequentes na polifarmácia."},
+    "pediatria": {"nivel": "aceitavel", "texto": "TOC a partir de 8 anos (FDA)."},
+    "renal": {"nivel": "cautela", "texto": "Iniciar com dose baixa."},
+    "hepatica": {"nivel": "cautela", "texto": "Iniciar com dose baixa e titular devagar."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Atenção a interações com antiarrítmicos e varfarina."}
+  },
+  "suspensao": {"risco": "Moderado a alto (meia-vida curta).", "sintomas": "Sintomas FINISH.", "reducao": "Reduzir 50 mg a cada 1 a 2 semanas.", "troca": "Ao trocar, lembrar que a inibição de CYP1A2 desaparece em cerca de 1 semana: fármacos associados podem ter níveis reduzidos."},
+  "superdosagem": {"toxicidade": "Baixa.", "quadro": "Sonolência, vômitos, diarreia, bradicardia, hipotensão; coma e convulsões raros.", "conduta": "Suporte e ECG."},
+  "pratica": {
+    "perolas": ["Fumantes: o tabaco induz CYP1A2, mas a fluvoxamina é mais inibidora que substrato do 1A2; a interação relevante é com outros fármacos.", "Em unidades especializadas, é usada em dose baixa (25 a 50 mg) para elevar os níveis de clozapina em metabolizadores rápidos, sob monitorização."],
+    "erros": ["Não revisar interações antes de iniciar.", "Associar a clozapina sem ajustar a dose."]
+  },
+  "troca": {"tipo": "isrs", "washout_semanas": 2},
+  "fontes": ["Bula Luvox (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+}
+]

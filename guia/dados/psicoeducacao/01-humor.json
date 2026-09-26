@@ -1,0 +1,442 @@
+{
+ "Depressão": [
+  {
+   "id": "o-que-e-depressao",
+   "titulo": "Depressão: o que é e como se trata",
+   "subtitulo": "Uma doença comum, que tem tratamento",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é a depressão", "texto": "A depressão é uma **doença**, e não fraqueza, preguiça ou falta de fé. Ela muda o funcionamento do cérebro e afeta o humor, o corpo, o pensamento e o jeito de lidar com a vida.\n\nFalamos em depressão quando os sintomas duram **pelo menos duas semanas**, estão presentes quase todos os dias e atrapalham o trabalho, os estudos, a casa ou as relações. Ela pode acontecer com qualquer pessoa, em qualquer idade."},
+    {"tipo": "lista", "titulo": "Sinais mais comuns", "itens": ["Tristeza, vazio ou irritação na maior parte do dia.", "Perda do interesse ou do prazer nas coisas de que você gostava.", "Cansaço e falta de energia, mesmo sem esforço.", "Sono alterado: insônia ou sono demais.", "Apetite alterado, com perda ou ganho de peso.", "Dificuldade de concentração, de memória e de tomar decisões.", "Sentimento de culpa ou de não ter valor.", "Lentidão ou, ao contrário, inquietação.", "Pensamentos de morte ou de que não vale a pena viver."]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "O tratamento é escolhido junto com você, conforme a gravidade, suas preferências e como você respondeu antes.\n\n**Psicoterapia** (como a terapia cognitivo-comportamental, a ativação comportamental e a terapia interpessoal) ajuda em todos os graus e sozinha pode bastar nos casos leves. **Antidepressivos** são indicados principalmente nos casos moderados e graves; nesses casos, remédio e psicoterapia juntos funcionam melhor do que cada um sozinho. **Exercício físico** regular, sono organizado e menos álcool também ajudam de verdade.\n\nNos quadros mais graves ou que não melhoram, existem outras opções, como a eletroconvulsoterapia (ECT) e a estimulação magnética transcraniana (EMT)."},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+     {"mito": "Depressão é falta de força de vontade.", "fato": "É uma doença com causas biológicas, psicológicas e sociais. Ninguém sai dela só com esforço."},
+     {"mito": "Antidepressivo vicia.", "fato": "Antidepressivos não causam dependência. Parar de repente pode dar sintomas desagradáveis, por isso a retirada é feita aos poucos, com a equipe."},
+     {"mito": "Se eu tomar remédio, vou ter que tomar para sempre.", "fato": "Na maioria das vezes o tratamento dura de 6 a 12 meses depois da melhora. Quem tem várias recaídas pode precisar de mais tempo, o que é combinado com a equipe."},
+     {"mito": "Falar sobre suicídio pode dar a ideia.", "fato": "Perguntar com cuidado não aumenta o risco. Pelo contrário, abre espaço para pedir ajuda."}
+    ]},
+    {"tipo": "destaque", "titulo": "Importante", "texto": "A melhora costuma ser **gradual**, com dias bons e dias ruins no caminho. Conte à equipe como você está, inclusive se tiver pensamentos de morte, e se já teve fases de muita euforia, energia ou pouca necessidade de sono: isso muda o tratamento."}
+   ],
+   "ajuda": ["Pensamentos de se machucar ou de tirar a própria vida, ou planos para isso.", "Parar de comer ou de beber líquidos.", "Ouvir vozes, ver coisas ou ter certezas estranhas (por exemplo, de ter cometido um crime terrível ou de estar arruinado)."],
+   "fonte": "CANMAT 2023; NICE NG222 (2022)"
+  },
+  {
+   "id": "o-que-esperar-do-antidepressivo",
+   "titulo": "O que esperar do antidepressivo",
+   "subtitulo": "As primeiras semanas de tratamento, passo a passo",
+   "publico": "Paciente",
+   "figura": "curva-remedio",
+   "figura_legenda": "Os efeitos colaterais costumam aparecer primeiro e diminuir em 1 a 2 semanas; a melhora vem devagar, ao longo de semanas.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O remédio demora a agir", "texto": "O antidepressivo **não age no mesmo dia**. Os primeiros sinais de melhora aparecem, em geral, entre **2 e 4 semanas**, e o efeito completo pode levar de **6 a 8 semanas**.\n\nMuitas vezes quem está perto percebe antes: você dorme melhor, come melhor e tem um pouco mais de energia antes de o humor melhorar. Isso é esperado."},
+    {"tipo": "tabela", "titulo": "Linha do tempo aproximada", "colunas": ["Período", "O que costuma acontecer"], "linhas": [
+     ["Primeiros dias", "Podem surgir efeitos colaterais leves: enjoo, dor de cabeça, sono ou insônia, inquietação, intestino alterado."],
+     ["1 a 2 semanas", "A maior parte dos efeitos colaterais diminui ou some. Sono e apetite podem começar a melhorar."],
+     ["2 a 4 semanas", "Primeiros sinais de melhora do humor e da energia. A equipe avalia se a dose está certa."],
+     ["6 a 8 semanas", "Efeito mais completo. Se a melhora for pequena, a equipe pode ajustar a dose, associar ou trocar o remédio."],
+     ["Depois da melhora", "Manter o tratamento por, em geral, 6 a 12 meses, para evitar recaída."]
+    ]},
+    {"tipo": "fazer", "titulo": "Dicas para as primeiras semanas", "sim": ["Tome todos os dias, no horário combinado.", "Se der enjoo, tome junto com comida (se a equipe permitir).", "Anote os efeitos colaterais e leve à consulta.", "Continue a psicoterapia, o exercício e a rotina de sono.", "Pergunte tudo o que quiser saber sobre o remédio."], "nao": ["Parar por conta própria porque ainda não fez efeito.", "Parar de repente quando melhorar.", "Aumentar ou dobrar a dose sem orientação.", "Misturar com álcool.", "Começar outros remédios, chás ou suplementos (como erva-de-são-joão) sem avisar a equipe."]},
+    {"tipo": "texto", "titulo": "Efeitos que merecem conversa", "texto": "Alguns antidepressivos podem diminuir o desejo sexual ou dificultar o orgasmo, mudar o peso ou dar sonolência. Isso tem solução: fale com a equipe, sem vergonha, em vez de abandonar o tratamento.\n\nParar de repente pode causar tontura, sensação de choque, irritação e mal-estar por alguns dias. Por isso, a retirada é sempre **gradual e combinada**."}
+   ],
+   "ajuda": ["Pensamentos de morte ou de se machucar que aparecem ou pioram, principalmente em jovens até 25 anos no início do tratamento.", "Euforia, agitação, falar sem parar, gastar muito ou quase não dormir sem sentir cansaço.", "Manchas na pele com febre, desmaio, palpitação forte ou confusão."],
+   "fonte": "CANMAT 2023; Maudsley Prescribing Guidelines"
+  },
+  {
+   "id": "ativacao-comportamental",
+   "titulo": "Ativação comportamental",
+   "subtitulo": "Fazer primeiro, sentir vontade depois",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que isso ajuda", "texto": "Na depressão, a falta de energia faz a gente deixar de fazer coisas. Quanto menos fazemos, menos momentos de prazer e de conquista temos, e o humor piora ainda mais. Vira um **círculo vicioso**.\n\nA ativação comportamental quebra esse círculo. A ideia é simples: **não esperar a vontade chegar**. A ação vem primeiro; a melhora do humor vem depois. É uma técnica com boa evidência científica, usada sozinha ou junto com o remédio."},
+    {"tipo": "passos", "titulo": "Como fazer", "itens": ["Durante 2 ou 3 dias, anote o que você faz e dê uma nota de 0 a 10 para o humor.", "Faça uma lista de atividades de três tipos: de **prazer** (ouvir música, conversar com alguém), de **dever** (lavar a louça, pagar uma conta) e ligadas ao que é **importante** para você (cuidar dos filhos, sua fé, estudar).", "Escolha atividades **pequenas e possíveis**. Em vez de “arrumar a casa”, escolha “arrumar a cama”.", "Coloque dia e hora na agenda, como um compromisso.", "Faça mesmo sem vontade. Depois, anote a nota do humor e o quanto se sentiu capaz.", "A cada semana, aumente um pouco: mais atividades ou atividades um pouco maiores.", "Leve a agenda para a consulta ou a psicoterapia."]},
+    {"tipo": "tabela", "titulo": "Minha agenda de atividades", "texto": "Preencha antes (plano) e depois (como foi). Humor e prazer de 0 a 10.", "colunas": ["Dia e hora", "Atividade planejada", "Fiz? (sim ou não)", "Humor (0 a 10)", "Prazer ou conquista (0 a 10)"], "linhas": [], "linhas_vazias": 10},
+    {"tipo": "fazer", "titulo": "Dicas", "sim": ["Comece pequeno: 10 minutos já contam.", "Inclua movimento, como uma caminhada curta.", "Comemore cada passo, mesmo pequeno.", "Peça a alguém para fazer junto."], "nao": ["Esperar ter vontade para começar.", "Planejar tarefas grandes demais.", "Desistir porque um dia não deu certo.", "Passar o dia na cama “para descansar”."]}
+   ],
+   "fonte": "Martell e colaboradores (ativação comportamental); CANMAT 2023"
+  },
+  {
+   "id": "familia-depressao",
+   "titulo": "Como a família pode ajudar",
+   "subtitulo": "Apoiar sem cobrar e sem desistir",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Entenda o que está acontecendo", "texto": "A pessoa com depressão não está com preguiça nem fazendo drama. A doença tira a energia, o prazer e a esperança. Frases como “é só se animar” ou “tem gente em situação pior” aumentam a culpa e o isolamento.\n\nSua presença faz diferença, mesmo quando parece que não. Não é preciso ter as palavras certas; é preciso estar por perto."},
+    {"tipo": "fazer", "titulo": "O que ajuda e o que atrapalha", "sim": ["Escutar sem julgar e sem interromper.", "Dizer: “estou aqui, vamos passar por isso juntos”.", "Ajudar nas tarefas práticas: consultas, remédios, contas.", "Convidar para atividades simples, como uma caminhada.", "Valorizar pequenos avanços.", "Perguntar diretamente sobre pensamentos de morte, com calma.", "Cuidar também de você."], "nao": ["Cobrar reação ou dizer que é frescura.", "Comparar com outras pessoas.", "Dar remédio a mais ou sugerir parar o remédio.", "Oferecer bebida alcoólica para “relaxar”.", "Fazer tudo pela pessoa o tempo todo, sem deixar espaço para ela agir.", "Guardar segredo sobre risco de suicídio."]},
+    {"tipo": "lista", "titulo": "Sobre o tratamento", "itens": ["O antidepressivo leva semanas para funcionar. Ajude a pessoa a não desistir cedo.", "Lembre dos horários, mas sem vigiar de forma controladora.", "Guarde os remédios da casa em local seguro, principalmente se houver risco de suicídio.", "Se a pessoa ficar eufórica, agitada ou dormir muito pouco sem cansaço, avise a equipe: pode ser sinal de transtorno bipolar."]},
+    {"tipo": "destaque", "titulo": "Se a pessoa falar em morrer", "texto": "Leve **sempre a sério**. Fique com ela, retire objetos perigosos e procure ajuda no mesmo dia: a equipe que acompanha, o CAPS, a UBS, o SAMU 192 ou uma emergência."}
+   ],
+   "ajuda": ["A pessoa fala em se matar, se despede, faz planos ou dá objetos pessoais.", "Parou de comer ou de beber.", "Passou a ter ideias estranhas, ouvir vozes ou ficou muito confusa."],
+   "fonte": "NICE NG222 (2022); CANMAT 2023"
+  }
+ ],
+ "Depressão resistente": [
+  {
+   "id": "quando-demora-a-melhorar",
+   "titulo": "Quando a depressão demora a melhorar",
+   "subtitulo": "Ainda há muitos caminhos",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Você não está sozinho", "texto": "Muitas pessoas não melhoram com o primeiro ou o segundo tratamento. Isso **não é culpa sua** e não quer dizer que nada vai funcionar. Os médicos chamam esse quadro de **depressão resistente** ou **de difícil tratamento**.\n\nO objetivo passa a ser, além de buscar a melhora completa, **diminuir o sofrimento** e recuperar o que é importante para você: trabalho, relações, rotina e bem-estar."},
+    {"tipo": "checklist", "titulo": "Antes de trocar: vale a pena conferir", "texto": "Até metade das depressões que parecem resistentes melhora quando esses pontos são corrigidos. Converse com a equipe sobre cada um.", "itens": ["Tomo o remédio todos os dias, no horário certo?", "A dose já foi aumentada até a dose eficaz?", "Cada remédio foi usado por tempo suficiente (pelo menos 4 a 8 semanas na dose eficaz)?", "Contei sobre álcool, maconha ou outras substâncias?", "Já tive fases de euforia, muita energia ou pouca necessidade de sono?", "Fiz exames de sangue (tireoide, anemia, vitamina B12) e fui avaliado para ronco e apneia do sono?", "Estou fazendo psicoterapia?", "Há algum problema em casa, no trabalho ou uma dor crônica que continua pesando?"]},
+    {"tipo": "lista", "titulo": "Opções de tratamento", "itens": ["**Associar** um segundo remédio ao antidepressivo (por exemplo, um antipsicótico em dose baixa, lítio ou hormônio da tireoide).", "**Trocar** para um antidepressivo de outro tipo.", "**Esketamina** em spray nasal, aplicada no serviço de saúde, com observação.", "**Eletroconvulsoterapia (ECT)**: o tratamento com maior chance de melhora, feito com anestesia.", "**Estimulação magnética transcraniana (EMT)**: estímulos magnéticos na cabeça, sem anestesia, em sessões diárias.", "**Psicoterapias** específicas para depressão crônica e cuidados com sono, exercício e outras doenças."]},
+    {"tipo": "destaque", "titulo": "Lembre", "texto": "A cada nova tentativa, a equipe deve medir a melhora (com escalas) e combinar um prazo para avaliar. Leve suas dúvidas e anotações a cada consulta."},
+    {"tipo": "anotar", "titulo": "Tratamentos que já fiz", "texto": "Nome do remédio ou terapia, dose, por quanto tempo, se ajudou e efeitos colaterais.", "linhas_vazias": 6}
+   ],
+   "ajuda": ["Pensamentos de morte ou planos de suicídio.", "Parar de comer ou beber.", "Piora rápida, com confusão, vozes ou ideias de ruína e culpa muito fortes."],
+   "fonte": "CANMAT 2023; ensaio STAR*D"
+  },
+  {
+   "id": "ect-perguntas",
+   "titulo": "Eletroconvulsoterapia (ECT)",
+   "subtitulo": "Perguntas e respostas",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A ECT é um tratamento feito em hospital, **com anestesia geral** e relaxante muscular. Enquanto a pessoa dorme, uma corrente elétrica breve e controlada provoca uma crise convulsiva no cérebro, que dura segundos. O corpo quase não se mexe, por causa do relaxante.\n\nÉ o tratamento com **maior taxa de melhora** na depressão grave: de 60 a 80% das pessoas melhoram, inclusive quem não respondeu a vários remédios."},
+    {"tipo": "passos", "titulo": "Como é o tratamento", "itens": ["Avaliação clínica antes: exames, avaliação da anestesia e revisão dos remédios em uso.", "Jejum antes de cada sessão, conforme orientação da equipe.", "Na sessão: soro na veia, anestesia, a aplicação e o despertar em poucos minutos.", "Observação por um tempo e volta para casa acompanhado (ou para o quarto, se internado).", "Em geral, 2 a 3 sessões por semana, num total de 6 a 12 sessões, conforme a resposta.", "Depois, a melhora é mantida com remédios e, às vezes, com sessões de manutenção mais espaçadas."]},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+     {"mito": "A ECT é um castigo ou é dolorosa.", "fato": "É feita com anestesia. A pessoa não sente nem lembra do procedimento."},
+     {"mito": "A ECT muda a personalidade.", "fato": "Não muda. O que muda é a depressão, que melhora."},
+     {"mito": "Só se usa quando nada mais funciona.", "fato": "Pode ser a primeira escolha em quadros graves, com risco de suicídio, recusa de alimento, sintomas psicóticos ou catatonia, e na gravidez."},
+     {"mito": "Deixa a pessoa sem memória para sempre.", "fato": "É comum esquecer fatos das semanas do tratamento e ter confusão logo após as sessões. Na maioria das pessoas isso melhora em semanas a poucos meses."}
+    ]},
+    {"tipo": "lista", "titulo": "Efeitos colaterais mais comuns", "itens": ["Dor de cabeça, dor muscular ou enjoo no dia.", "Confusão nas primeiras horas.", "Esquecimento de fatos próximos ao período do tratamento."]},
+    {"tipo": "fazer", "titulo": "Durante o período de sessões", "sim": ["Ter um acompanhante nos dias de sessão.", "Contar à equipe sobre qualquer problema de memória.", "Anotar compromissos e combinados."], "nao": ["Dirigir, operar máquinas ou assinar documentos importantes no dia da sessão.", "Tomar decisões importantes sem conversar antes com a família e a equipe."]}
+   ],
+   "fonte": "CANMAT 2023; APA (Practice of Electroconvulsive Therapy)"
+  },
+  {
+   "id": "esketamina",
+   "titulo": "Esketamina em spray nasal",
+   "subtitulo": "Como funciona o tratamento e os cuidados no dia",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A esketamina é um remédio para depressão resistente, usado **junto com um antidepressivo**. Ela age de um jeito diferente dos antidepressivos comuns, e a melhora pode começar em dias.\n\nO spray é aplicado por você mesmo, mas **sempre dentro do serviço de saúde**, com um profissional presente. Não é vendido para uso em casa."},
+    {"tipo": "passos", "titulo": "Como é cada sessão", "itens": ["Evite comer nas 2 horas anteriores e beber líquidos nos 30 minutos anteriores, porque o remédio pode dar enjoo.", "A pressão arterial é medida antes.", "Você aplica o spray nas narinas, com orientação da equipe.", "Fica em observação por **pelo menos 2 horas**, sentado ou deitado, até os efeitos passarem.", "A pressão é medida de novo antes de você ir embora.", "Volte para casa acompanhado. No início, as sessões são duas vezes por semana; depois, ficam mais espaçadas."]},
+    {"tipo": "lista", "titulo": "Efeitos que podem aparecer durante a sessão", "texto": "Costumam durar pouco e passam no próprio dia.", "itens": ["Sensação de estar fora do corpo ou de que as coisas estão estranhas (chamada dissociação).", "Tontura, sonolência, enjoo.", "Aumento passageiro da pressão arterial.", "Formigamento ou gosto estranho na boca."]},
+    {"tipo": "fazer", "titulo": "Cuidados", "sim": ["Contar à equipe se você tem pressão alta, doença do coração ou já teve derrame.", "Contar se já teve problema com álcool ou drogas.", "Continuar tomando o antidepressivo."], "nao": ["Dirigir ou operar máquinas até o dia seguinte, depois de uma noite de sono.", "Beber álcool no dia da sessão.", "Faltar às sessões sem avisar."]}
+   ],
+   "ajuda": ["Dor no peito, falta de ar, dor de cabeça muito forte ou confusão depois da sessão.", "Pensamentos de morte ou de se machucar."],
+   "fonte": "CANMAT 2023; bula aprovada pela Anvisa"
+  }
+ ],
+ "Depressão psicótica": [
+  {
+   "id": "o-que-e-depressao-psicotica",
+   "titulo": "Depressão com sintomas psicóticos",
+   "subtitulo": "O que é e por que o tratamento é diferente",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "Em algumas depressões graves, além da tristeza, a pessoa passa a ter **delírios** ou **alucinações**.\n\n**Delírio** é uma certeza que não corresponde à realidade e não muda mesmo com argumentos. Na depressão, são comuns ideias de **culpa** (“cometi um erro imperdoável”), de **ruína** (“estamos na miséria”), de **doença** (“estou apodrecendo por dentro”) ou de que a vida acabou.\n\n**Alucinação** é ouvir, ver ou sentir algo que não está ali, como vozes que criticam ou acusam.\n\nMuitas vezes a pessoa tem vergonha e **esconde** essas ideias. Perguntar com calma ajuda."},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "A depressão psicótica **não melhora bem só com antidepressivo**. O tratamento indicado é:\n\n**Antidepressivo junto com antipsicótico**, que age sobre os delírios e as vozes; ou\n\n**Eletroconvulsoterapia (ECT)**, muito eficaz nesse quadro e indicada cedo quando há risco de suicídio, recusa de comida ou quando a combinação de remédios não funciona.\n\nÀs vezes é preciso **internação** por um período, para proteger a pessoa enquanto o tratamento começa a agir."},
+    {"tipo": "fazer", "titulo": "Para a família", "sim": ["Levar a sério tudo o que a pessoa diz sobre culpa, ruína ou morte.", "Escutar com calma, sem discutir o conteúdo do delírio.", "Dizer que entende o sofrimento, mesmo sem concordar com a ideia.", "Acompanhar a alimentação e a hidratação.", "Guardar remédios, facas e outros meios perigosos."], "nao": ["Discutir, rir ou tentar provar que a ideia é falsa.", "Deixar a pessoa sozinha em momentos de crise.", "Esperar para ver se passa sozinho."]},
+    {"tipo": "destaque", "titulo": "Há esperança", "texto": "Com o tratamento certo, a grande maioria das pessoas se recupera, e os delírios desaparecem junto com a depressão."}
+   ],
+   "ajuda": ["Falar em morrer, em se matar ou em matar outra pessoa “para salvá-la”.", "Recusar comida ou água.", "Ficar parado, sem falar ou sem responder (pode ser catatonia).", "Agitação intensa ou vozes mandando fazer algo."],
+   "fonte": "APA; CANMAT 2023; ensaios STOP-PD e STOP-PD II"
+  },
+  {
+   "id": "antipsicotico-manutencao",
+   "titulo": "Depois da melhora: por quanto tempo tratar",
+   "subtitulo": "Por que não parar os remédios logo que melhora",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O risco de voltar", "texto": "Quando os delírios somem e o humor melhora, é natural querer parar os remédios. Mas estudos mostram que **retirar o antipsicótico cedo aumenta muito a chance de a depressão voltar**.\n\nPor isso, em geral:\n\nO **antidepressivo** é mantido por **pelo menos 1 ano**.\n\nO **antipsicótico** é mantido por **pelo menos 4 meses depois da melhora**, muitas vezes mais, e a retirada é **lenta**, combinada com a equipe."},
+    {"tipo": "lista", "titulo": "Efeitos do antipsicótico a observar", "itens": ["Aumento de apetite e de peso.", "Sonolência.", "Tremor, rigidez ou inquietação nas pernas.", "Alterações no açúcar e na gordura do sangue (a equipe pede exames e mede peso e cintura)."]},
+    {"tipo": "semaforo", "titulo": "Sinais de alerta de recaída", "verde": ["Dorme bem, come, mantém a rotina.", "Pensamentos claros, sem culpas ou certezas estranhas."], "amarelo": ["Voltou a dormir mal ou perder apetite.", "Isolamento, choro, desânimo por vários dias.", "Pensamentos de culpa voltando."], "vermelho": ["Ideias de ruína, culpa ou doença que não mudam com conversa.", "Vozes ou pensamentos de morte.", "Recusa de comer ou beber."]},
+    {"tipo": "anotar", "titulo": "Meu plano combinado com a equipe", "texto": "Quais remédios, até quando e quem procurar se os sinais voltarem.", "linhas_vazias": 5}
+   ],
+   "ajuda": ["Pensamentos de morte ou de se machucar.", "Voltaram as vozes ou as certezas de culpa e ruína.", "Febre alta com rigidez muscular e confusão (reação rara ao antipsicótico)."],
+   "fonte": "APA; CANMAT 2023; ensaio STOP-PD II"
+  }
+ ],
+ "Depressão pós-parto": [
+  {
+   "id": "o-que-e-depressao-pos-parto",
+   "titulo": "Depressão pós-parto: o que é e como se trata",
+   "subtitulo": "Você não precisa passar por isso sozinha",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Não é frescura nem falta de amor", "texto": "A depressão pós-parto é uma doença que atinge **1 em cada 7 a 10 mães**. Pode começar ainda na gravidez ou no primeiro ano após o parto. Ela **não quer dizer** que você é uma mãe ruim ou que não ama seu bebê.\n\nTratar a mãe protege também o bebê e a família."},
+    {"tipo": "tabela", "titulo": "Três situações diferentes", "colunas": ["", "Tristeza materna (baby blues)", "Depressão pós-parto", "Psicose pós-parto"], "linhas": [
+     ["Frequência", "Muito comum", "1 em cada 7 a 10 mães", "Rara (1 a 2 em cada 1.000)"],
+     ["Quando", "Primeiros dias", "Gravidez ou primeiro ano", "Em geral nas primeiras semanas"],
+     ["Como é", "Choro fácil, sensibilidade, cansaço", "Tristeza, culpa, falta de prazer, ansiedade forte, insônia mesmo quando o bebê dorme", "Confusão, ideias estranhas, vozes, agitação, euforia"],
+     ["Duração", "Passa em até 2 semanas", "Semanas a meses sem tratamento", "Emergência"],
+     ["O que fazer", "Apoio e descanso", "Procurar a equipe de saúde", "Ir à emergência no mesmo dia"]
+    ]},
+    {"tipo": "texto", "titulo": "Pensamentos assustadores", "texto": "Algumas mães têm **pensamentos intrusivos**: imagens rápidas e indesejadas de que algo ruim acontece com o bebê, ou até de machucá-lo sem querer. Esses pensamentos causam horror e a mãe **não quer** colocá-los em prática. São comuns e têm tratamento. Conte à equipe sem medo: falar sobre eles não faz ninguém tirar seu filho de você."},
+    {"tipo": "lista", "titulo": "Como se trata", "itens": ["**Psicoterapia** (terapia interpessoal ou cognitivo-comportamental), principalmente nos casos leves a moderados.", "**Antidepressivo**, principalmente nos casos moderados a graves. Vários podem ser usados na amamentação.", "**Rede de apoio**: alguém que ajude com o bebê e garanta horas de sono à mãe.", "Exames como tireoide e anemia, que podem piorar o cansaço e o humor.", "Em quadros graves, internação e eletroconvulsoterapia (ECT) são opções seguras."]},
+    {"tipo": "destaque", "titulo": "Se você ou alguém da família tem transtorno bipolar", "texto": "Avise a equipe ainda na gravidez. O risco de uma crise logo após o parto é maior, e há formas de prevenir."}
+   ],
+   "ajuda": ["Pensamentos de se matar ou de que o bebê estaria melhor sem você.", "Vontade de machucar o bebê, ou ideias estranhas sobre ele (por exemplo, de que não é seu filho ou está possuído).", "Confusão, vozes, agitação ou ficar dias quase sem dormir e sem sentir cansaço."],
+   "fonte": "ACOG 2023; NICE CG192"
+  },
+  {
+   "id": "antidepressivo-amamentacao",
+   "titulo": "Antidepressivo e amamentação",
+   "subtitulo": "Dá para tratar a depressão e amamentar",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que se sabe", "texto": "Na maioria dos casos, **não é preciso escolher** entre tratar a depressão e amamentar. Alguns antidepressivos passam muito pouco para o leite, e o bebê recebe uma quantidade mínima.\n\nA **sertralina** é uma das mais estudadas e costuma ser a primeira escolha. Se um antidepressivo funcionou bem para você na gravidez, geralmente ele é **mantido** depois do parto.\n\nDepressão sem tratamento também afeta o bebê: o vínculo, o sono, a alimentação e o desenvolvimento. Por isso, o risco de não tratar também conta."},
+    {"tipo": "fazer", "titulo": "Cuidados", "sim": ["Contar ao pediatra que você toma antidepressivo.", "Observar o bebê nas primeiras semanas: sono, mamadas e ganho de peso.", "Tomar o remédio todos os dias, no horário combinado.", "Tirar dúvidas com a equipe antes de qualquer mudança."], "nao": ["Parar o antidepressivo por conta própria para amamentar.", "Parar de amamentar por medo, sem conversar com a equipe.", "Usar chás, ervas ou remédios para dormir sem orientação."]},
+    {"tipo": "lista", "titulo": "Procure o pediatra se o bebê", "itens": ["Estiver muito sonolento ou difícil de acordar para mamar.", "Mamar pouco ou não ganhar peso.", "Ficar muito irritado, choroso ou com tremores."]},
+    {"tipo": "anotar", "titulo": "Minhas dúvidas para a próxima consulta", "linhas_vazias": 5}
+   ],
+   "fonte": "ACOG 2023; NICE CG192; Maudsley Prescribing Guidelines"
+  },
+  {
+   "id": "rede-de-apoio-pos-parto",
+   "titulo": "Rede de apoio no pós-parto",
+   "subtitulo": "Como a família e os amigos podem ajudar a mãe",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Cuidar de quem cuida", "texto": "O pós-parto é um período de muitas mudanças: no corpo, no sono, na rotina e nas relações. Quando a mãe está com depressão, **o apoio prático** é uma parte do tratamento.\n\nO sono é especialmente importante. Noites seguidas sem dormir pioram muito o humor."},
+    {"tipo": "checklist", "titulo": "Formas práticas de ajudar", "itens": ["Combinar turnos à noite, para a mãe ter **pelo menos um período de 4 a 5 horas de sono seguido**. Se ela amamenta, o leite pode ser tirado antes, se ela quiser.", "Assumir tarefas da casa: comida, roupa, compras.", "Cuidar dos outros filhos.", "Levar a mãe às consultas e ajudar a lembrar do remédio.", "Receber visitas só quando ela quiser.", "Dar tempo para ela descansar, tomar banho e sair um pouco.", "Acompanhar as consultas do bebê."]},
+    {"tipo": "fazer", "titulo": "Na conversa", "sim": ["Dizer que ela não tem culpa e que vai melhorar.", "Elogiar o cuidado que ela dá ao bebê.", "Escutar sem julgar."], "nao": ["Dizer que “toda mãe passa por isso” ou que “é só cansaço”.", "Criticar a forma como ela cuida do bebê.", "Cobrar alegria o tempo todo."]},
+    {"tipo": "anotar", "titulo": "Nossa escala de apoio", "texto": "Quem ajuda, em que dia e com o quê.", "linhas_vazias": 6}
+   ],
+   "ajuda": ["A mãe fala em morrer, em sumir ou que o bebê estaria melhor sem ela.", "Ela parece confusa, fala coisas estranhas, ouve vozes ou está muito agitada.", "Fica dias quase sem dormir, mesmo quando pode.", "Qualquer risco para o bebê: não deixe mãe e bebê sozinhos e procure a emergência."],
+   "fonte": "NICE CG192; ACOG 2023"
+  }
+ ],
+ "TDPM": [
+  {
+   "id": "o-que-e-tdpm",
+   "titulo": "Transtorno disfórico pré-menstrual (TDPM)",
+   "subtitulo": "Quando a TPM vai muito além do incômodo",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "O TDPM é uma forma **intensa** de sintomas pré-menstruais. Na semana antes da menstruação aparecem irritação, raiva, tristeza, choro fácil, ansiedade ou mudanças bruscas de humor, fortes o suficiente para **atrapalhar** o trabalho, os estudos ou as relações. Os sintomas **melhoram poucos dias depois que a menstruação começa** e somem na semana seguinte.\n\nNão é frescura nem falta de controle. O cérebro de algumas mulheres é mais sensível às variações normais dos hormônios do ciclo."},
+    {"tipo": "texto", "titulo": "Como se faz o diagnóstico", "texto": "O diagnóstico depende de um **diário dos sintomas**, preenchido todos os dias por **pelo menos 2 ciclos**. Ele mostra se os sintomas seguem mesmo o ritmo do ciclo ou se é outra condição, como depressão ou ansiedade, que só piora antes da menstruação."},
+    {"tipo": "lista", "titulo": "Como se trata", "itens": ["**Antidepressivos do tipo ISRS** (como fluoxetina e sertralina). No TDPM, eles agem em poucos dias. Por isso, podem ser usados todos os dias ou **só nas duas semanas antes da menstruação**, como a equipe combinar.", "**Pílula anticoncepcional** com drospirenona em esquema específico, escolhida com o ginecologista.", "**Terapia cognitivo-comportamental**, exercício regular e redução de cafeína e álcool.", "Nos casos graves que não melhoram, tratamentos hormonais feitos com o ginecologista."]},
+    {"tipo": "fazer", "titulo": "No dia a dia", "sim": ["Anotar o ciclo e planejar os dias mais difíceis.", "Fazer exercício na maioria dos dias.", "Dormir em horários regulares.", "Avisar as pessoas próximas sobre os dias mais sensíveis."], "nao": ["Usar calmantes ou diuréticos por conta própria.", "Exagerar no café e no álcool nos dias de sintomas.", "Marcar decisões ou conversas difíceis para a semana pré-menstrual, se puder evitar."]}
+   ],
+   "ajuda": ["Pensamentos de morte ou de se machucar, mesmo que só nos dias antes da menstruação."],
+   "fonte": "RCOG Green-top Guideline 48; ACOG"
+  },
+  {
+   "id": "diario-do-ciclo",
+   "titulo": "Diário de sintomas do ciclo",
+   "subtitulo": "Preencha todos os dias, por pelo menos 2 ciclos",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "passos", "titulo": "Como preencher", "itens": ["Comece em qualquer dia e preencha **todo dia**, de preferência à noite.", "Marque com um X os dias em que você menstruou.", "Dê uma nota de 0 a 3 para cada sintoma: 0 = nada, 1 = leve, 2 = moderado, 3 = forte.", "Na coluna “Atrapalhou?”, anote se o sintoma prejudicou trabalho, estudos ou relações.", "Use uma folha por ciclo e leve todas à consulta."]},
+    {"tipo": "tabela", "titulo": "Meu diário", "colunas": ["Data", "Menstruação (X)", "Tristeza", "Irritação ou raiva", "Ansiedade ou tensão", "Humor instável", "Cansaço", "Corpo (inchaço, mamas, dor)", "Atrapalhou?"], "linhas": [], "linhas_vazias": 31}
+   ],
+   "fonte": "DSM-5-TR; DRSP (Daily Record of Severity of Problems)"
+  }
+ ],
+ "Depressão bipolar": [
+  {
+   "id": "como-funciona-bipolar",
+   "titulo": "Como funciona o transtorno bipolar",
+   "subtitulo": "Entender a doença é o primeiro passo para controlá-la",
+   "publico": "Paciente e família",
+   "figura": "humor-bipolar",
+   "figura_legenda": "O humor oscila entre fases de depressão e de euforia (mania ou hipomania), com períodos de estabilidade entre elas.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "O transtorno bipolar é uma doença do cérebro que afeta o **humor, a energia, o sono e o comportamento**. A pessoa passa por **fases** (também chamadas de episódios) que duram semanas ou meses, e entre elas pode ficar bem.\n\nNão é o mesmo que “mudar de humor várias vezes no dia”. As fases são períodos longos, bem diferentes do jeito de ser da pessoa. A doença tem forte componente hereditário e **não é culpa** de ninguém."},
+    {"tipo": "tabela", "titulo": "As fases", "colunas": ["Fase", "Como costuma ser"], "linhas": [
+     ["Depressão", "Tristeza, desânimo, falta de prazer, cansaço, sono demais ou de menos, culpa, pensamentos de morte. Costuma ser a fase mais longa."],
+     ["Mania", "Euforia ou irritação intensa, muita energia, pouca necessidade de sono, fala rápida, ideias grandiosas, gastos e riscos. Atrapalha muito a vida e pode exigir internação."],
+     ["Hipomania", "Parecida com a mania, porém mais leve e mais curta. A pessoa pode se sentir “ótima”, mas quem está perto percebe a mudança."],
+     ["Fase mista", "Sintomas de depressão e de euforia ao mesmo tempo, como tristeza com agitação e pensamentos acelerados. É uma fase de risco."],
+     ["Estabilidade (eutimia)", "Humor equilibrado. É a fase que o tratamento busca manter."]
+    ]},
+    {"tipo": "lista", "titulo": "Tipos principais", "itens": ["**Bipolar tipo I**: teve pelo menos uma fase de mania.", "**Bipolar tipo II**: teve hipomanias e depressões, sem mania completa. Não é uma forma “mais leve”: as depressões costumam ser frequentes e longas."]},
+    {"tipo": "lista", "titulo": "O que costuma desencadear uma fase", "itens": ["Dormir pouco ou virar noites.", "Álcool, maconha, cocaína e outras drogas.", "Parar os remédios por conta própria.", "Antidepressivo sem estabilizador do humor.", "Estresse intenso, mudanças de fuso horário, pós-parto."]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "O tratamento tem **dois objetivos**: tirar a pessoa da fase atual e **evitar novas fases**. Ele combina remédios (estabilizadores do humor, como o lítio, e alguns antipsicóticos), **psicoeducação**, **rotina regular de sono** e atividades, e psicoterapia. Na maioria das pessoas, o tratamento é **de longo prazo**, como em outras doenças crônicas, e permite uma vida plena."}
+   ],
+   "ajuda": ["Pensamentos de morte ou de suicídio.", "Várias noites quase sem dormir, com muita energia.", "Gastos, riscos ou comportamentos fora do comum que a pessoa não consegue controlar.", "Ideias estranhas, vozes ou agressividade."],
+   "fonte": "CANMAT e ISBD 2018 (atualização 2023)"
+  },
+  {
+   "id": "tratamento-depressao-bipolar",
+   "titulo": "Depressão no transtorno bipolar",
+   "subtitulo": "Por que o tratamento é diferente da depressão comum",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Uma depressão com cuidados próprios", "texto": "A depressão do transtorno bipolar parece com a depressão comum, mas **responde de outro jeito aos remédios**.\n\nOs antidepressivos usados sozinhos costumam ajudar pouco e podem provocar uma **virada** para a mania ou para uma fase mista, ou deixar as fases mais frequentes. Por isso, o tratamento principal é feito com **estabilizadores do humor** e alguns **antipsicóticos** com efeito comprovado na depressão bipolar. Às vezes a equipe associa um antidepressivo, **sempre junto** com um estabilizador e com acompanhamento de perto."},
+    {"tipo": "lista", "titulo": "Remédios mais usados (a escolha é feita com a equipe)", "itens": ["**Quetiapina**: ajuda também no sono e na ansiedade; pode dar sono e ganho de peso.", "**Lurasidona**: menos efeito sobre o peso; deve ser tomada com comida.", "**Lítio**: protege contra novas fases e reduz o risco de suicídio.", "**Lamotrigina**: previne principalmente novas depressões; a dose sobe devagar.", "**Cariprazina**: opção mais recente."]},
+    {"tipo": "semaforo", "titulo": "Sinais de virada para mania ou fase mista", "verde": ["Humor melhorando aos poucos.", "Sono voltando ao normal."], "amarelo": ["Dormir menos sem sentir cansaço.", "Falar mais e mais rápido, muitas ideias.", "Irritação fácil, muitos planos novos."], "vermelho": ["Duas ou mais noites quase sem dormir.", "Gastos, riscos ou comportamento muito diferente do habitual.", "Agitação com tristeza e pensamentos de morte."]},
+    {"tipo": "fazer", "titulo": "Ajuda a sair da depressão", "sim": ["Horários fixos para acordar e dormir, mesmo no fim de semana.", "Luz do dia pela manhã e alguma atividade física.", "Metas pequenas a cada dia.", "Psicoterapia e grupos de psicoeducação."], "nao": ["Tomar antidepressivo por conta própria ou que sobrou de outra pessoa.", "Ficar na cama o dia todo.", "Usar álcool ou drogas para aliviar."]}
+   ],
+   "ajuda": ["Pensamentos de morte ou de suicídio: a depressão bipolar tem risco alto.", "Sinais do semáforo vermelho.", "Manchas na pele ou feridas na boca em quem começou lamotrigina."],
+   "fonte": "CANMAT e ISBD 2018 (atualização 2023)"
+  },
+  {
+   "id": "lamotrigina",
+   "titulo": "Lamotrigina: cuidados importantes",
+   "subtitulo": "Um remédio útil que exige subida lenta da dose",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Para que serve", "texto": "A lamotrigina é um estabilizador do humor usado principalmente para **prevenir novas fases de depressão** no transtorno bipolar. Costuma ser bem tolerada: em geral não engorda nem dá sono.\n\nO efeito completo demora, porque a dose precisa ser aumentada **devagar, ao longo de semanas**. Essa subida lenta é o que diminui o risco de uma reação grave na pele."},
+    {"tipo": "destaque", "titulo": "O cuidado mais importante: manchas na pele", "texto": "Uma reação alérgica grave na pele é rara, mas pode acontecer, principalmente **nas primeiras 8 semanas**. Se aparecer **mancha vermelha, bolhas, feridas na boca ou nos olhos, ou febre**, procure a equipe ou uma emergência **no mesmo dia** e não tome a próxima dose até ser avaliado."},
+    {"tipo": "fazer", "titulo": "Cuidados", "sim": ["Seguir exatamente o esquema de aumento da dose.", "Avisar a equipe se começar ou parar pílula anticoncepcional ou outro remédio, principalmente ácido valproico (valproato), que muda o nível da lamotrigina.", "Guardar o esquema escrito e levá-lo às consultas.", "Planejar gravidez com a equipe."], "nao": ["Subir a dose mais rápido do que o combinado.", "Voltar à dose cheia depois de ficar alguns dias sem tomar: ligue para a equipe, porque pode ser preciso recomeçar a subida.", "Parar de repente sem orientação."]},
+    {"tipo": "lista", "titulo": "Outros efeitos possíveis", "itens": ["Dor de cabeça, tontura, visão dupla ou embaçada.", "Enjoo.", "Insônia em algumas pessoas."]},
+    {"tipo": "tabela", "titulo": "Meu esquema de subida", "texto": "Preencha com a equipe.", "colunas": ["Semanas", "Dose por dia", "Como tomar"], "linhas": [], "linhas_vazias": 5}
+   ],
+   "ajuda": ["Mancha vermelha espalhada, bolhas, descamação, feridas na boca, nos olhos ou nos genitais, com ou sem febre.", "Febre com gânglios inchados ou mal-estar forte."],
+   "fonte": "CANMAT e ISBD 2018; bula aprovada pela Anvisa; Maudsley Prescribing Guidelines"
+  }
+ ],
+ "Mania": [
+  {
+   "id": "o-que-e-mania",
+   "titulo": "Mania e hipomania: o que são",
+   "subtitulo": "Quando a energia e a euforia passam do limite",
+   "publico": "Paciente e família",
+   "figura": "humor-bipolar",
+   "figura_legenda": "A mania é o polo de cima do transtorno bipolar; a hipomania é uma forma mais leve.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A **mania** é uma fase do transtorno bipolar em que a energia, o humor e o pensamento ficam acelerados por dias ou semanas. A pessoa pode se sentir ótima, poderosa ou muito irritada, e **muitas vezes não percebe que está doente**.\n\nA **hipomania** é uma forma mais leve e curta, que não chega a desorganizar tanto a vida.\n\nA mania é uma **urgência**: pode trazer prejuízos financeiros, brigas, acidentes, exposição, exaustão e, às vezes, sintomas psicóticos."},
+    {"tipo": "lista", "titulo": "Sinais comuns", "itens": ["Dormir pouco (2 a 4 horas) e não sentir cansaço.", "Falar muito, rápido e pular de assunto.", "Pensamentos acelerados e muitas ideias ao mesmo tempo.", "Sentir-se especial, com poderes ou missões grandiosas.", "Gastar muito, fazer dívidas, negócios arriscados.", "Irritação, impaciência, brigas.", "Aumento do desejo sexual e comportamentos de risco.", "Distração fácil, começar muitas coisas e não terminar."]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "O tratamento usa **estabilizadores do humor** (como lítio e valproato) e/ou **antipsicóticos**, às vezes juntos. Calmantes podem ser usados por pouco tempo para o sono e a agitação. **Antidepressivos e estimulantes costumam ser suspensos**.\n\nMuitas vezes é preciso **internação** por alguns dias ou semanas, para proteger a pessoa e acelerar a melhora. O remédio que tirou a pessoa da mania, em geral, continua depois, para prevenir novas fases."},
+    {"tipo": "fazer", "titulo": "Durante a fase", "sim": ["Ambiente calmo, com pouco barulho e poucas visitas.", "Proteger o sono: quarto escuro e horário para deitar.", "Tomar os remédios como combinado.", "Adiar decisões importantes (compras, demissão, casamento, viagens)."], "nao": ["Álcool, café em excesso, energéticos e drogas.", "Festas, viagens e noites em claro.", "Assinar contratos ou fazer empréstimos.", "Dirigir se estiver acelerado ou com sono alterado."]}
+   ],
+   "ajuda": ["Agressividade, ameaças ou risco para si ou para os outros.", "Ideias estranhas, vozes ou confusão.", "Vários dias quase sem dormir, sem comer ou sem beber.", "Sintomas de mania com tristeza e pensamentos de morte (fase mista)."],
+   "fonte": "CANMAT e ISBD 2018; NICE CG185"
+  },
+  {
+   "id": "familia-bipolar",
+   "titulo": "Transtorno bipolar: orientações para a família",
+   "subtitulo": "Como ajudar na crise e no dia a dia",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "A família faz parte do tratamento", "texto": "Estudos mostram que, quando a família entende a doença, **as recaídas diminuem**. Você pode ajudar a perceber os primeiros sinais, apoiar a rotina e agir rápido numa crise.\n\nLembre-se: durante a mania, a pessoa pode dizer ou fazer coisas que não faria quando está bem. **É a doença**, e não o caráter dela."},
+    {"tipo": "fazer", "titulo": "Durante uma mania", "sim": ["Falar pouco, com calma, frases curtas e voz baixa.", "Evitar discussões; não é hora de convencer.", "Reduzir estímulos: TV, visitas, festas.", "Proteger o dinheiro: cartões, contas e documentos, de preferência combinado antes, num período de estabilidade.", "Chamar a equipe cedo; se houver risco, SAMU 192."], "nao": ["Provocar, ironizar ou entrar em confronto.", "Deixar dirigir ou viajar sozinho.", "Oferecer álcool ou calmantes por conta própria.", "Achar que a euforia é “melhora”."]},
+    {"tipo": "fazer", "titulo": "Durante uma depressão", "sim": ["Escutar e estar presente.", "Incentivar pequenas atividades e a rotina.", "Perguntar sobre pensamentos de morte.", "Guardar remédios em local seguro."], "nao": ["Cobrar ânimo ou dizer que é preguiça.", "Dar antidepressivo por conta própria."]},
+    {"tipo": "lista", "titulo": "Nos períodos de estabilidade", "itens": ["Aprender juntos sobre a doença e os remédios.", "Montar, com a pessoa, um **plano de crise**: sinais de alerta, o que fazer, quem chamar e onde buscar ajuda (CAPS, UBS, emergência).", "Combinar antes como proteger o dinheiro e os documentos numa próxima crise.", "Apoiar a rotina de sono e de remédios, sem virar fiscal.", "Tratar a pessoa como adulta capaz, e não apenas como “doente”.", "Cuidar da sua própria saúde; se precisar, busque apoio para você."]},
+    {"tipo": "anotar", "titulo": "Nosso plano de crise", "texto": "Sinais que costumam aparecer primeiro, o que fazer e quem chamar.", "linhas_vazias": 6}
+   ],
+   "ajuda": ["Risco de agressão, suicídio ou acidente.", "A pessoa não dorme há vários dias.", "Recusa de comida ou de água, confusão ou vozes."],
+   "fonte": "CANMAT e ISBD 2018; Miklowitz (terapia focada na família); Colom e Vieta (psicoeducação)"
+  },
+  {
+   "id": "valproato-cuidados",
+   "titulo": "Valproato (ácido valproico, divalproato): cuidados",
+   "subtitulo": "Exames, efeitos e o cuidado especial para mulheres",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "destaque", "titulo": "Mulheres que podem engravidar", "texto": "Tomado na gravidez, o valproato pode causar **malformações no bebê** (em cerca de 1 em cada 10 gestações) e **problemas de desenvolvimento e aprendizagem** em uma proporção ainda maior de crianças. Por isso, em mulheres que podem engravidar, ele **só deve ser usado quando não houver alternativa**, sempre com **anticoncepção eficaz**. Se você engravidar ou quiser engravidar, **não pare de repente**: fale com a equipe o quanto antes."},
+    {"tipo": "texto", "titulo": "Para que serve", "texto": "O valproato é um estabilizador do humor usado para tratar a mania e prevenir novas fases no transtorno bipolar. Também é usado na epilepsia.\n\nA equipe pode pedir a **dosagem no sangue** (nível sérico) para acertar a dose, além de exames do fígado, do sangue e, às vezes, de outros parâmetros."},
+    {"tipo": "lista", "titulo": "Efeitos mais comuns", "itens": ["Enjoo e desconforto no estômago, principalmente no início.", "Sonolência e tremor nas mãos.", "Aumento de apetite e de peso.", "Queda de cabelo.", "Em mulheres, alterações da menstruação."]},
+    {"tipo": "fazer", "titulo": "Cuidados", "sim": ["Fazer os exames de sangue nas datas combinadas.", "Tomar com comida se der enjoo.", "Avisar sobre outros remédios, principalmente lamotrigina, carbamazepina e alguns antibióticos.", "Controlar o peso e fazer atividade física."], "nao": ["Beber álcool.", "Parar de repente.", "Engravidar sem planejamento com a equipe."]}
+   ],
+   "ajuda": ["Dor forte na barriga, vômitos repetidos, pele ou olhos amarelados, urina escura.", "Sangramentos ou manchas roxas sem motivo.", "Sonolência muito forte, confusão ou tremor que piora.", "Suspeita de gravidez."],
+   "fonte": "CANMAT e ISBD 2018; Anvisa e EMA (alertas sobre valproato); NICE CG185"
+  }
+ ],
+ "Manutenção bipolar": [
+  {
+   "id": "sinais-de-alerta-recaida",
+   "titulo": "Meus sinais de alerta de recaída",
+   "subtitulo": "Perceber cedo para agir cedo",
+   "publico": "Paciente e família",
+   "figura": "semaforo",
+   "figura_legenda": "Verde: estou bem. Amarelo: atenção, fale com a equipe. Vermelho: procure ajuda já.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que isso importa", "texto": "Antes de uma nova fase, quase sempre aparecem **sinais precoces**, dias ou semanas antes. Cada pessoa tem os seus. Quem aprende a reconhecê-los consegue agir cedo e, muitas vezes, **evitar uma crise completa** ou uma internação.\n\nPreencha este plano com a equipe e com alguém de confiança, num momento em que estiver bem. Deixe uma cópia com a família."},
+    {"tipo": "semaforo", "titulo": "Exemplos comuns", "verde": ["Durmo no horário de sempre, 7 a 9 horas.", "Consigo manter trabalho, estudo e rotina.", "Humor dentro do meu normal."], "amarelo": ["Durmo 1 a 2 horas a menos e não sinto falta, ou durmo muito mais.", "Muitas ideias e planos, fala acelerada, mais gastos.", "Ou: desânimo, isolamento, perda de interesse por vários dias.", "Irritação fora do comum.", "Esquecer ou deixar de tomar remédio."], "vermelho": ["Duas ou mais noites quase sem dormir.", "Gastos, riscos ou brigas fora de controle.", "Pensamentos de morte ou de suicídio.", "Ideias estranhas, vozes, confusão."]},
+    {"tipo": "tabela", "titulo": "Meu plano", "colunas": ["", "Meus sinais", "O que eu faço", "Quem eu aviso"], "linhas": [["Verde", "", "Manter rotina, remédios e consultas", ""], ["Amarelo", "", "Proteger o sono, cortar álcool, adiar decisões, falar com a equipe em poucos dias", ""], ["Vermelho", "", "Procurar a equipe ou a emergência hoje", ""]]},
+    {"tipo": "anotar", "titulo": "Contatos importantes", "texto": "Equipe que me acompanha, CAPS ou UBS, pessoa de confiança, emergência mais próxima.", "linhas_vazias": 5}
+   ],
+   "ajuda": ["Qualquer sinal do vermelho.", "Pensamentos de morte ou de suicídio."],
+   "fonte": "CANMAT e ISBD 2018; Colom e Vieta (psicoeducação no transtorno bipolar)"
+  },
+  {
+   "id": "rotina-e-sono",
+   "titulo": "Rotina e sono: os ritmos que protegem o humor",
+   "subtitulo": "Horários regulares ajudam a prevenir novas fases",
+   "publico": "Paciente",
+   "figura": "rotina-dia",
+   "figura_legenda": "Âncoras do dia: acordar, refeições, atividades e hora de dormir sempre em horários parecidos.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que a rotina importa", "texto": "No transtorno bipolar, o **relógio biológico** é mais sensível. Mudanças no sono e nos horários (virar a noite, viajar para outro fuso, trabalhar em turnos, festas) podem **desencadear uma nova fase**, principalmente a mania.\n\nA terapia interpessoal e de ritmos sociais ensina a manter **horários regulares** para as atividades principais do dia. Isso funciona como uma proteção a mais, junto com os remédios."},
+    {"tipo": "checklist", "titulo": "Minhas âncoras diárias", "itens": ["Acordar no mesmo horário todos os dias, inclusive no fim de semana (diferença de até 1 hora).", "Pegar luz do dia pela manhã.", "Fazer as refeições em horários parecidos.", "Ter uma atividade principal no dia (trabalho, estudo, cuidado da casa).", "Exercício, de preferência de manhã ou à tarde.", "Diminuir telas e luz forte 1 hora antes de dormir.", "Deitar no mesmo horário."]},
+    {"tipo": "fazer", "titulo": "Sono", "sim": ["Dormir de 7 a 9 horas por noite.", "Tratar o sono como parte do tratamento.", "Avisar a equipe se o sono diminuir e você não sentir cansaço.", "Planejar viagens e plantões com a equipe."], "nao": ["Virar noites (estudo, festas, jogos, trabalho).", "Cafeína e energéticos à tarde e à noite.", "Álcool e drogas.", "Cochilos longos no fim da tarde."]},
+    {"tipo": "tabela", "titulo": "Minha rotina", "texto": "Anote seu horário planejado e confira ao longo da semana.", "colunas": ["Âncora", "Horário planejado", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"], "linhas": [["Acordar", "", "", "", "", "", "", "", ""], ["Primeiro contato com alguém", "", "", "", "", "", "", "", ""], ["Café da manhã", "", "", "", "", "", "", "", ""], ["Início da atividade principal", "", "", "", "", "", "", "", ""], ["Almoço", "", "", "", "", "", "", "", ""], ["Jantar", "", "", "", "", "", "", "", ""], ["Deitar", "", "", "", "", "", "", "", ""]]}
+   ],
+   "fonte": "Frank (terapia interpessoal e de ritmos sociais); CANMAT e ISBD 2018"
+  },
+  {
+   "id": "registro-do-humor",
+   "titulo": "Registro diário do humor",
+   "subtitulo": "Um mapa do seu mês para você e sua equipe",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Para que serve", "texto": "Anotar o humor todos os dias ajuda a **perceber os primeiros sinais** de uma nova fase, a ver o efeito dos remédios e a relacionar o humor com o sono, o ciclo menstrual, o álcool ou os acontecimentos. Leve o registro a cada consulta. Leva menos de 1 minuto por dia."},
+    {"tipo": "lista", "titulo": "Escala do humor", "itens": ["**+3**: euforia ou irritação forte, muito acelerado, não consigo funcionar.", "**+2**: bem acelerado, as pessoas percebem.", "**+1**: um pouco mais animado ou irritado do que o normal.", "**0**: humor no meu normal.", "**-1**: um pouco triste ou desanimado.", "**-2**: bem deprimido, com dificuldade nas tarefas.", "**-3**: muito deprimido, não consigo funcionar."]},
+    {"tipo": "tabela", "titulo": "Meu mês", "texto": "Preencha à noite. Remédios: marque se tomou todos.", "colunas": ["Dia", "Humor (-3 a +3)", "Horas de sono", "Ansiedade ou irritação (0 a 3)", "Tomei os remédios?", "Álcool ou outras substâncias", "Acontecimentos e observações"], "linhas": [], "linhas_vazias": 31}
+   ],
+   "fonte": "CANMAT e ISBD 2018 (monitorização do humor); Colom e Vieta"
+  },
+  {
+   "id": "litio-para-o-paciente",
+   "titulo": "Lítio: guia para o paciente",
+   "subtitulo": "Um remédio muito eficaz que pede alguns cuidados",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que o lítio", "texto": "O lítio é o estabilizador do humor mais estudado. Ele **previne novas fases** de mania e de depressão e é um dos poucos remédios que **reduzem o risco de suicídio**.\n\nA dose certa varia de pessoa para pessoa e é acertada pela **litemia**, o exame que mede o lítio no sangue. A diferença entre a dose que funciona e a dose que intoxica é pequena, por isso os cuidados abaixo são importantes."},
+    {"tipo": "lista", "titulo": "Exames", "itens": ["**Litemia**: colhida cerca de **12 horas depois da última dose** (por exemplo, dose às 21 h e exame às 9 h), sem tomar a dose da manhã antes do exame. É feita com mais frequência no início e depois a cada 3 a 6 meses, ou quando a equipe pedir.", "**Função dos rins e da tireoide** e cálcio: antes de começar e depois a cada 6 a 12 meses.", "Peso e, em algumas pessoas, eletrocardiograma."]},
+    {"tipo": "fazer", "titulo": "Cuidados no dia a dia", "sim": ["Beber água ao longo do dia, mais no calor e no exercício.", "Manter a quantidade de sal da comida parecida todos os dias.", "Avisar **qualquer** médico, dentista ou farmacêutico que você toma lítio.", "Planejar gravidez com a equipe antes de engravidar.", "Tomar sempre no mesmo horário."], "nao": ["Anti-inflamatórios como ibuprofeno, diclofenaco, nimesulida e naproxeno sem falar com a equipe (paracetamol e dipirona costumam ser seguros).", "Diuréticos e alguns remédios de pressão sem que a equipe saiba.", "Dietas muito pobres em sal ou jejum prolongado.", "Parar de repente: aumenta o risco de uma nova fase e de suicídio.", "Tomar dose extra se esquecer uma."]},
+    {"tipo": "lista", "titulo": "Efeitos comuns, geralmente leves", "itens": ["Sede e urinar mais.", "Tremor fino nas mãos.", "Enjoo ou intestino solto no início.", "Ganho de peso.", "Com o tempo, a tireoide pode ficar mais lenta: é tratável e não obriga a parar o lítio."]},
+    {"tipo": "semaforo", "titulo": "Sinais de intoxicação por lítio", "verde": ["Tremor fino leve e sede: comuns, comente na consulta."], "amarelo": ["Diarreia, vômitos ou febre por mais de um dia.", "Muito calor ou pouca água ingerida.", "Começou anti-inflamatório ou diurético: fale com a equipe hoje; pode ser preciso fazer litemia ou pausar a dose por orientação médica."], "vermelho": ["Tremor forte e grosseiro.", "Vômitos e diarreia intensos.", "Fala enrolada, desequilíbrio, andar cambaleante.", "Sonolência forte, confusão, abalos musculares ou convulsão: vá à emergência e leve a lista de remédios."]}
+   ],
+   "ajuda": ["Sinais do semáforo vermelho: procure a emergência imediatamente.", "Tomou comprimidos a mais, por engano ou de propósito."],
+   "fonte": "CANMAT e ISBD 2018; NICE CG185; Maudsley Prescribing Guidelines"
+  }
+ ],
+ "Suicídio": [
+  {
+   "id": "plano-de-seguranca",
+   "titulo": "Meu plano de segurança",
+   "subtitulo": "O que fazer quando os pensamentos de morte aparecerem",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Para que serve", "texto": "Pensamentos de morte costumam vir em **ondas**: ficam muito fortes e depois diminuem. O plano de segurança é uma lista, **escrita por você com a sua equipe**, dos passos que ajudam a atravessar esses momentos com segurança.\n\nPreencha num momento mais calmo. Guarde uma cópia em lugar fácil (carteira, celular) e, se quiser, dê outra a alguém de confiança. Siga os passos em ordem; se um não bastar, vá para o próximo."},
+    {"tipo": "tabela", "titulo": "Meu plano", "colunas": ["Passo", "O que é", "Meu plano"], "linhas": [
+     ["1. Sinais de alerta", "Pensamentos, sentimentos, situações ou comportamentos que mostram que uma crise pode estar chegando.", ""],
+     ["2. O que eu posso fazer sozinho", "Coisas que me distraem ou me acalmam sem precisar de outra pessoa: caminhar, tomar banho, ouvir música, respirar devagar, rezar.", ""],
+     ["3. Pessoas e lugares que me distraem", "Pessoas com quem posso estar e lugares aonde posso ir para não ficar sozinho, mesmo sem falar da crise.", ""],
+     ["4. Pessoas a quem posso pedir ajuda", "Nome e telefone de quem posso contar que estou em crise.", ""],
+     ["5. Profissionais e serviços", "Minha equipe, CAPS ou UBS, CVV 188 (ligação gratuita, 24 horas), SAMU 192, emergência mais próxima.", ""],
+     ["6. Deixar o ambiente seguro", "O que vou afastar de mim (remédios, armas, venenos, objetos) e quem vai guardar.", ""]
+    ]},
+    {"tipo": "anotar", "titulo": "Minhas razões para viver", "texto": "Pessoas, planos, valores, animais, coisas que ainda quero fazer.", "linhas_vazias": 5},
+    {"tipo": "destaque", "titulo": "Lembre", "texto": "A crise **passa**. Pedir ajuda é um ato de coragem. Se você não conseguir se manter seguro, ligue para o SAMU 192 ou vá à emergência mais próxima."}
+   ],
+   "ajuda": ["Você tem um plano ou os meios para se matar e sente que pode fazer isso.", "Já começou a se machucar ou tomou remédios a mais.", "Os passos do plano não estão sendo suficientes."],
+   "fonte": "Stanley e Brown (Safety Planning Intervention); NICE NG225 (2022)"
+  },
+  {
+   "id": "familia-seguranca-em-casa",
+   "titulo": "Segurança em casa: restrição de meios",
+   "subtitulo": "Para a família de uma pessoa em risco de suicídio",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que isso salva vidas", "texto": "Muitas crises suicidas são **intensas e curtas**, às vezes de minutos ou horas. Dificultar o acesso aos meios mais perigosos nesse período **dá tempo** para a crise passar e para a ajuda chegar. Quando o meio não está à mão, a maioria das pessoas **não procura outro**.\n\nRetirar os meios **não é desconfiança** nem castigo: é um cuidado, como guardar remédios longe de uma criança. Combine com a pessoa sempre que possível."},
+    {"tipo": "checklist", "titulo": "O que fazer agora", "itens": ["**Armas de fogo**: retirar de casa (entregar a alguém de confiança fora de casa) é o mais seguro. Se não for possível, guardar descarregadas, trancadas e com a munição em outro local, com a chave longe da pessoa.", "**Remédios**: deixar em casa só a quantidade necessária para poucos dias; guardar o restante trancado ou com outra pessoa. Descartar sobras na farmácia ou na UBS.", "Quem cuida dos remédios entrega a dose de cada dia, se a equipe orientar.", "**Venenos e produtos químicos**: chumbinho, veneno de rato, agrotóxicos, soda cáustica. Retirar de casa ou trancar.", "**Objetos cortantes**, cordas e cabos: guardar os que não são necessários no dia a dia.", "Álcool: retirar de casa durante a crise, porque aumenta a impulsividade.", "Acesso a janelas altas, lajes e chaves de carro, conforme o caso: combinar com a equipe."]},
+    {"tipo": "fazer", "titulo": "Como conversar", "sim": ["Perguntar diretamente: “você está pensando em se matar?”. Perguntar não aumenta o risco.", "Escutar com calma, sem julgar e sem dar sermão.", "Dizer que se importa e que vai ajudar a buscar tratamento.", "Ajudar a pessoa a usar o plano de segurança dela.", "Manter contato próximo nas semanas após uma alta ou uma tentativa, que são as de maior risco."], "nao": ["Dizer que é chantagem, fraqueza ou falta de fé.", "Prometer segredo sobre o risco.", "Pedir que a pessoa prometa que não vai se matar no lugar de um plano de segurança.", "Deixar a pessoa sozinha numa crise."]},
+    {"tipo": "destaque", "titulo": "Cuide de você também", "texto": "Apoiar alguém em risco é pesado. Busque apoio para você na equipe, no CAPS, na UBS ou no CVV 188."}
+   ],
+   "ajuda": ["A pessoa diz que vai se matar, tem um plano ou está se despedindo.", "Encontrou a pessoa com remédios, veneno ou outro meio, ou ela já se machucou: ligue para o SAMU 192.", "Crise com agitação, confusão ou uso intenso de álcool ou drogas."],
+   "fonte": "NICE NG225 (2022); APA; Diretrizes da ABP para prevenção do suicídio"
+  },
+  {
+   "id": "depois-da-crise",
+   "titulo": "Depois de uma crise ou de uma alta",
+   "subtitulo": "As primeiras semanas pedem atenção especial",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Um período de mais risco", "texto": "As **semanas logo após uma tentativa ou uma alta hospitalar** são as de maior risco. A pessoa pode ainda estar frágil, os remédios podem não ter feito efeito completo, e a volta para casa traz de novo os problemas que ficaram lá fora.\n\nPor isso, a continuidade do cuidado é essencial."},
+    {"tipo": "checklist", "titulo": "Antes e logo depois da alta", "itens": ["Sair com a **primeira consulta marcada**, de preferência em até 7 dias.", "Saber quem procurar e como, em caso de crise (equipe, CAPS, UBS, SAMU 192, CVV 188).", "Ter o **plano de segurança** preenchido e à mão.", "Revisar os meios em casa: remédios, armas, venenos.", "Receber a quantidade de remédio combinada para o período até a próxima consulta.", "Combinar quem da família ou dos amigos vai estar mais presente."]},
+    {"tipo": "lista", "titulo": "Tratamentos que ajudam a prevenir novas crises", "itens": ["Tratar a condição de base: depressão, transtorno bipolar, uso de álcool e drogas, insônia.", "Psicoterapias com foco na prevenção do suicídio, como a terapia comportamental dialética (DBT) e a terapia cognitivo-comportamental.", "Em algumas condições, remédios que reduzem o risco de suicídio, como o lítio nos transtornos do humor e a clozapina na esquizofrenia.", "Contato frequente com a equipe, inclusive por telefone ou mensagem, se o serviço oferecer."]},
+    {"tipo": "fazer", "titulo": "No dia a dia", "sim": ["Ir a todas as consultas; se faltar, remarcar logo.", "Contar à equipe se os pensamentos voltarem.", "Manter rotina de sono e de alimentação.", "Voltar aos poucos às atividades."], "nao": ["Usar álcool ou drogas.", "Ficar isolado por muitos dias.", "Parar os remédios por conta própria."]}
+   ],
+   "ajuda": ["Os pensamentos de morte voltaram com força ou surgiu um plano.", "Falta às consultas e isolamento repentino.", "Despedidas, doação de objetos ou calma repentina depois de muito sofrimento."],
+   "fonte": "NICE NG225 (2022); Stanley e Brown; APA"
+  }
+ ]
+}

@@ -1,0 +1,1033 @@
+[
+ {
+  "id": "liraglutida",
+  "nome": "Liraglutida",
+  "nomes_comerciais": [
+   "Victoza",
+   "Saxenda"
+  ],
+  "classe": "outros",
+  "subclasse": "Análogo de GLP-1",
+  "comercializacao": "disponivel",
+  "nota_comercializacao": "Victoza (diabetes, até 1,8 mg/dia) e Saxenda (obesidade, até 3 mg/dia) têm a mesma molécula e a mesma concentração. Genéricos aprovados pela Anvisa em 2026, inclusive de fabricação nacional (Biomm).",
+  "receita": "Simples (retida)",
+  "receita_nota": "Receita simples em duas vias, com retenção de uma via na farmácia: exigência da Anvisa para agonistas de GLP-1 desde 23/06/2025, com validade de 90 dias. Em janeiro de 2026 a Anvisa publicou novas regras de prescrição e dispensação.",
+  "rename": false,
+  "custo": "alto",
+  "relacionados": [
+   "semaglutida",
+   "tirzepatida",
+   "metformina",
+   "topiramato",
+   "clozapina",
+   "olanzapina"
+  ],
+  "apresentacoes": [
+   {
+    "forma": "Solução injetável SC 6 mg/mL em caneta preenchida multidose de 3 mL (Victoza, diabetes)",
+    "doses": [
+     "0,6 mg",
+     "1,2 mg",
+     "1,8 mg"
+    ],
+    "aparencia": {
+     "formato": "caneta", "cor": "azul-claro",
+     "descricao": "Caneta aplicadora com seletor de dose; solução límpida e incolor, agulha descartável a cada aplicação. Antes do primeiro uso, conservar em geladeira (2 a 8 °C), sem congelar; após o primeiro uso, pode ficar em temperatura ambiente conforme a bula do produto."
+    }
+   },
+   {
+    "forma": "Solução injetável SC 6 mg/mL em caneta preenchida multidose de 3 mL (Saxenda, obesidade)",
+    "doses": [
+     "0,6 mg",
+     "1,2 mg",
+     "1,8 mg",
+     "2,4 mg",
+     "3 mg"
+    ],
+    "aparencia": {
+     "formato": "caneta", "cor": "azul-claro",
+     "descricao": "Caneta aplicadora com seletor de dose de 0,6 a 3 mg; solução límpida e incolor. Antes do primeiro uso, conservar em geladeira (2 a 8 °C), sem congelar; após o primeiro uso, pode ficar em temperatura ambiente conforme a bula do produto."
+    }
+   }
+  ],
+  "farmacodinamica": {
+   "resumo": "Análogo do GLP-1 humano (97% de homologia) com cadeia de ácido graxo que o liga à albumina e o protege da DPP-4, permitindo uma aplicação ao dia. Estimula a secreção de insulina dependente de glicose, reduz o glucagon, retarda o esvaziamento gástrico e age no hipotálamo (núcleo arqueado) e no tronco encefálico, aumentando a saciedade e reduzindo a fome.",
+   "resumo_curto": "Agonista de GLP-1 diário; reduz peso e glicemia, inclusive com clozapina e olanzapina.",
+   "afinidade": [
+    {
+     "alvo": "GLP-1R",
+     "acao": "agonismo",
+     "intensidade": 4
+    }
+   ],
+   "significado_clinico": [
+    "Obesidade (3 mg/dia, SCALE): perda média de 8,0% do peso contra 2,6% com placebo em 56 semanas.",
+    "Diabetes tipo 2: reduz HbA1c em cerca de 1 a 1,5 ponto; reduziu eventos cardiovasculares maiores em pacientes de alto risco (LEADER).",
+    "Ganho de peso por antipsicóticos: único agonista de GLP-1 com ECR bem conduzido em usuários de clozapina ou olanzapina (Larsen 2017): 5,3 kg a menos que o placebo em 16 semanas, com melhora da tolerância à glicose."
+   ]
+  },
+  "farmacocinetica": {
+   "absorcao": "Subcutânea lenta; abdome, coxa e braço são equivalentes.",
+   "biodisponibilidade": "Cerca de 55% (SC).",
+   "alimentos": "Independe das refeições.",
+   "pico": "8 a 12 horas.",
+   "ligacao_proteica": "Acima de 98% (albumina).",
+   "metabolismo": "Degradação proteolítica endógena (DPP-4 e endopeptidase neutra), como as proteínas grandes, sem órgão específico. Não usa CYP.",
+   "meia_vida": "Cerca de 13 horas.",
+   "metabolitos_ativos": "Nenhum.",
+   "excrecao": "Metabólitos na urina e nas fezes; o fármaco intacto praticamente não é excretado.",
+   "equilibrio": "Cerca de 3 dias.",
+   "cyp": {
+    "substrato": [],
+    "inibe": {}
+   }
+  },
+  "perfil": {
+   "sedacao": 0,
+   "peso": 0,
+   "metabolico": 0,
+   "sexual": 0,
+   "anticolinergico": 0
+  },
+  "interacoes": [
+   {
+    "com": "Clozapina",
+    "gravidade": "moderada",
+    "efeito": "Soma de hipomotilidade gastrointestinal: o agonista retarda o esvaziamento gástrico e causa constipação; a clozapina reduz a motilidade colônica (ação anticolinérgica e 5-HT3). Risco de constipação grave, fecaloma e íleo.",
+    "conduta": "Associação útil e estudada (Larsen 2017), mas perguntar sobre hábito intestinal a cada consulta, laxativo osmótico profilático se já houver constipação, titulação lenta. Distensão, vômitos ou parada de evacuação: suspender e avaliar íleo."
+   },
+   {
+    "com": "Anticolinérgicos (biperideno, triexifenidil, tricíclicos, fenotiazinas de baixa potência, opioides)",
+    "gravidade": "moderada",
+    "efeito": "Constipação e hipomotilidade somadas; o anticolinérgico também retarda o esvaziamento gástrico e pode piorar náuseas e plenitude.",
+    "conduta": "Rever a necessidade do anticolinérgico; hidratação, fibras e laxativo osmótico."
+   },
+   {
+    "com": "Lítio",
+    "gravidade": "moderada",
+    "efeito": "Vômitos, diarreia e baixa ingestão de líquidos na titulação causam desidratação e redução da filtração glomerular: a litemia sobe e há risco de intoxicação e lesão renal aguda.",
+    "conduta": "Litemia e creatinina na titulação e se houver sintomas gastrointestinais; orientar hidratação; suspender o lítio temporariamente em vômitos ou diarreia intensos."
+   },
+   {
+    "com": "Insulina e sulfonilureias (glibenclamida, gliclazida, glimepirida)",
+    "gravidade": "moderada",
+    "efeito": "Hipoglicemia. Isoladamente, o agonista quase não causa hipoglicemia porque a secreção de insulina que estimula depende da glicose.",
+    "conduta": "Reduzir a dose da sulfonilureia ou da insulina ao iniciar (em geral 10 a 20% da insulina basal se HbA1c próxima da meta) e reforçar a automonitorização."
+   },
+   {
+    "com": "Fármacos orais de janela terapêutica estreita (varfarina, levotiroxina, digoxina, antiepilépticos)",
+    "gravidade": "leve",
+    "efeito": "O retardo do esvaziamento gástrico altera a velocidade de absorção; vômitos e diarreia podem reduzir a absorção.",
+    "conduta": "RNI ao iniciar e após aumentos (varfarina); TSH após 6 a 8 semanas (levotiroxina); nível sérico se houver sinais de toxicidade ou perda de efeito."
+   },
+   {
+    "com": "Outros agonistas de GLP-1 e inibidores da DPP-4 (sitagliptina, vildagliptina, linagliptina)",
+    "gravidade": "moderada",
+    "efeito": "Sem benefício adicional; soma de efeitos gastrointestinais.",
+    "conduta": "Não associar; suspender o inibidor da DPP-4 ao iniciar o agonista."
+   },
+   {
+    "com": "Álcool",
+    "gravidade": "leve",
+    "efeito": "Somam risco de pancreatite e, com insulina ou sulfonilureia, de hipoglicemia; o esvaziamento gástrico lento pode alterar a curva de alcoolemia.",
+    "conduta": "Orientar consumo baixo; evitar uso pesado."
+   },
+   {
+    "com": "Contraceptivos orais",
+    "gravidade": "leve",
+    "efeito": "Sem redução clinicamente relevante da exposição hormonal nos estudos; vômitos intensos podem comprometer a absorção.",
+    "conduta": "Método adicional se houver vômitos ou diarreia intensos."
+   }
+  ],
+  "indicacoes": [],
+  "prescricao": {
+   "dose_inicial": "0,6 mg SC uma vez ao dia por 1 semana.",
+   "faixa": "Diabetes: 1,2 a 1,8 mg/dia. Obesidade e ganho de peso por antipsicóticos: 1,8 a 3 mg/dia.",
+   "dose_maxima": "1,8 mg/dia (Victoza); 3 mg/dia (Saxenda).",
+   "titulacao": "Aumentos de 0,6 mg por semana (0,6, 1,2, 1,8, 2,4 e 3 mg). Se a náusea for importante, manter a dose por mais uma semana. Na obesidade, suspender se a perda for menor que 5% após 12 semanas em 3 mg.",
+   "horario": "Uma vez ao dia, no mesmo horário, independente das refeições; SC em abdome, coxa ou braço, com rodízio dos locais. Esquecimento: se faltarem mais de 12 horas para a próxima, aplicar; senão, pular. Mais de 3 dias sem aplicar: reiniciar com 0,6 mg.",
+   "latencia": "Saciedade em dias; perda de peso progressiva, com platô em 6 a 12 meses.",
+   "duracao": "Longo prazo enquanto houver benefício; o peso volta a subir após a suspensão.",
+   "monitoramento": [
+    "Peso, circunferência abdominal, PA e FC a cada consulta.",
+    "Glicemia e HbA1c, perfil lipídico basais e a cada 3 a 6 meses.",
+    "Creatinina basal e se houver vômitos ou diarreia; litemia se em uso de lítio.",
+    "Hábito intestinal (sobretudo com clozapina).",
+    "Humor, ideação suicida e comportamento alimentar."
+   ],
+   "esquema": {
+    "unidade_tempo": "semana",
+    "unidade_dose": "mg/dia",
+    "pontos": [
+     [
+      0,
+      0.6
+     ],
+     [
+      1,
+      1.2
+     ],
+     [
+      2,
+      1.8
+     ],
+     [
+      3,
+      2.4
+     ],
+     [
+      4,
+      3
+     ]
+    ],
+    "faixa": [
+     1.8,
+     3
+    ],
+    "legenda": "Esquema de obesidade (Saxenda). No diabetes (Victoza), parar em 1,2 ou 1,8 mg/dia. No ensaio com clozapina e olanzapina a dose-alvo foi 1,8 mg/dia."
+   }
+  },
+  "efeitos_adversos": {
+   "muito_comuns": [
+    "Náuseas",
+    "Diarreia",
+    "Constipação",
+    "Vômitos"
+   ],
+   "comuns": [
+    "Dispepsia, refluxo, eructação e distensão",
+    "Dor abdominal",
+    "Redução do apetite",
+    "Cefaleia e tontura",
+    "Fadiga",
+    "Insônia",
+    "Hipoglicemia (com insulina ou sulfonilureia)",
+    "Aumento da frequência cardíaca",
+    "Reação no local da aplicação",
+    "Colelitíase",
+    "Aumento de lipase e amilase"
+   ],
+   "raros_graves": [
+    "Pancreatite aguda",
+    "Colecistite",
+    "Lesão renal aguda por desidratação",
+    "Obstrução intestinal e íleo",
+    "Anafilaxia e angioedema",
+    "Aspiração pulmonar em anestesia"
+   ],
+   "conduta_imediata": [
+    "Dor abdominal intensa e persistente, com ou sem irradiação para o dorso e vômitos: suspender, dosar lipase e avaliar pancreatite; não reiniciar se confirmada.",
+    "Dor em hipocôndrio direito, febre ou icterícia: ultrassom de vias biliares.",
+    "Vômitos ou diarreia persistentes com baixa ingestão: hidratar, dosar creatinina e eletrólitos (e litemia se em uso de lítio).",
+    "Distensão abdominal, vômitos e ausência de evacuação, sobretudo com clozapina: suspender e avaliar obstrução ou íleo com urgência.",
+    "Urticária generalizada, angioedema ou dispneia após aplicação: anafilaxia; suspender definitivamente."
+   ],
+   "manejo": [
+    {
+     "efeito": "Náuseas",
+     "conduta": "Titulação lenta (não subir enquanto houver náusea importante; voltar à dose anterior por mais 4 semanas se preciso), refeições pequenas, parar de comer ao sentir saciedade, evitar gordura e álcool. Antiemético por poucos dias se necessário (ondansetrona piora a constipação)."
+    },
+    {
+     "efeito": "Constipação",
+     "conduta": "Líquidos, fibras e laxativo osmótico (macrogol ou lactulose); profilático em quem usa clozapina ou anticolinérgicos."
+    },
+    {
+     "efeito": "Diarreia e vômitos",
+     "conduta": "Hidratação oral; suspender temporariamente diuréticos, lítio ou metformina se houver desidratação; creatinina se persistir."
+    },
+    {
+     "efeito": "Refluxo e dispepsia",
+     "conduta": "Evitar deitar após refeições, porções menores; inibidor de bomba de prótons se persistir."
+    },
+    {
+     "efeito": "Perda de massa magra",
+     "conduta": "Proteína adequada (cerca de 1,0 a 1,2 g/kg/dia) e exercício resistido."
+    }
+   ]
+  },
+  "contraindicacoes": [
+   "História pessoal ou familiar de carcinoma medular de tireoide ou neoplasia endócrina múltipla tipo 2 (NEM 2): contraindicação na bula norte-americana, seguida na prática; tumores de células C da tireoide em roedores, com relevância em humanos não estabelecida.",
+   "Hipersensibilidade à liraglutida.",
+   "Gestação."
+  ],
+  "precaucoes": [
+   "**Pancreatite**: suspender se houver suspeita (dor abdominal intensa e persistente, com ou sem vômitos); não reiniciar se confirmada. Com pancreatite prévia, preferir outra estratégia.",
+   "**Doença biliar**: colelitíase e colecistite aumentam, sobretudo com perda de peso rápida; investigar dor em hipocôndrio direito, febre ou icterícia.",
+   "**Gastroparesia** grave e doença inflamatória intestinal grave: não recomendado (sem estudos e piora esperada dos sintomas).",
+   "**Desidratação e lesão renal aguda**: vômitos e diarreia na titulação podem causar insuficiência pré-renal; orientar hidratação, sobretudo em idosos e em quem usa lítio, diuréticos, IECA, BRA ou AINE.",
+   "**Anestesia e endoscopia**: risco de conteúdo gástrico residual e aspiração. A orientação multissocietária de 2024 (sociedade americana de anestesiologia com sociedades de gastroenterologia e cirurgia bariátrica) permite manter o fármaco na maioria dos casos, com dieta líquida nas 24 horas anteriores; em alto risco (fase de titulação, dose alta, náuseas, vômitos ou distensão), suspender a dose semanal 1 semana antes (ou a dose diária no dia) e considerar ultrassom gástrico ou indução em sequência rápida. Informar sempre o anestesista.",
+   "**Hipoglicemia** com insulina ou sulfonilureia: reduzir essas doses.",
+   "**Humor e ideação suicida**: houve relatos espontâneos; as revisões da EMA (abril de 2024) e da FDA (janeiro de 2024) não confirmaram relação causal, e estudos de coorte não mostraram aumento de risco. Ainda assim, monitorar humor e ideação, sobretudo em quem tem história de depressão ou tentativa de suicídio.",
+   "**Transtornos alimentares**: evitar em anorexia nervosa ou bulimia ativas e em peso normal ou baixo; em história de transtorno alimentar, usar só com indicação clara e acompanhamento, vigiando restrição, purgação e perda de peso excessiva.",
+   "**Absorção de fármacos orais**: o esvaziamento gástrico lento altera a absorção de fármacos de janela estreita (levotiroxina, varfarina); monitorar.",
+   "Aumento discreto da frequência cardíaca (2 a 4 bpm em média); cautela em taquiarritmias.",
+   "Perda de massa magra junto com gordura: orientar ingestão de proteína e exercício resistido, sobretudo em idosos.",
+   "Diabetes tipo 1 e cetoacidose: não substitui insulina.",
+   "Produtos manipulados ou sem registro: a FDA relatou internações por erro de dose com semaglutida e tirzepatida manipuladas (confusão entre mL, unidades e mg). Prescrever o produto registrado, com dose em mg.",
+   "Insuficiência cardíaca classe IV da NYHA: experiência limitada."
+  ],
+  "populacoes": {
+   "gestacao": {
+    "nivel": "contraindicado",
+    "texto": "Toxicidade reprodutiva em animais e dados humanos insuficientes; perda de peso não traz benefício na gestação. Suspender ao planejar ou confirmar gestação (meia-vida curta: poucos dias bastam); no diabetes gestacional, insulina."
+   },
+   "lactacao": {
+    "nivel": "evitar",
+    "texto": "Sem dados em humanos; peptídeo grande, com provável baixa passagem ao leite e baixa absorção oral pelo lactente, mas sem segurança estabelecida."
+   },
+   "idosos": {
+    "nivel": "cautela",
+    "texto": "Eficaz e sem ajuste, mas atenção a desidratação, perda de massa muscular e quedas por tontura."
+   },
+   "pediatria": {
+    "nivel": "cautela",
+    "texto": "Bula permite o uso em obesidade a partir de 12 anos (Saxenda) e em diabetes tipo 2 a partir de 10 anos (Victoza). Em adolescentes com antipsicóticos, só com endocrinologia pediátrica."
+   },
+   "renal": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste; experiência limitada em doença renal terminal. O maior risco é a desidratação por sintomas gastrointestinais."
+   },
+   "hepatica": {
+    "nivel": "cautela",
+    "texto": "Sem ajuste na leve e moderada; não recomendada na insuficiência hepática grave."
+   },
+   "cardiopatas": {
+    "nivel": "preferencial",
+    "texto": "Reduziu eventos cardiovasculares maiores no diabetes tipo 2 com doença cardiovascular (LEADER). FC sobe em média 2 a 3 bpm."
+   }
+  },
+  "suspensao": {
+   "risco": "Sem síndrome de retirada.",
+   "sintomas": "Retorno do apetite; reganho de peso e piora glicêmica em semanas a meses.",
+   "reducao": "Pode ser suspensa sem redução. Se retomada após mais de 3 dias, recomeçar com 0,6 mg/dia.",
+   "troca": "Para semaglutida ou tirzepatida: iniciar o semanal no dia seguinte à última dose de liraglutida, pela dose inicial (ou intermediária se a liraglutida estava em dose alta e bem tolerada). Não associar agonistas de GLP-1."
+  },
+  "superdosagem": {
+   "toxicidade": "Baixa.",
+   "quadro": "Náuseas e vômitos intensos; hipoglicemia é rara sem insulina ou sulfonilureia. Relatos de até 72 mg sem hipoglicemia grave.",
+   "conduta": "Suporte, hidratação, antiemético e glicemia seriada."
+  },
+  "pratica": {
+   "perolas": [
+    "É o agonista de GLP-1 com o melhor ensaio em usuários de clozapina e olanzapina; por ser diário e de meia-vida curta, é fácil de suspender se houver efeito adverso.",
+    "Em pacientes com baixa adesão, a aplicação diária pesa; a semaglutida semanal costuma ser mais prática e mais potente.",
+    "Uma caneta Saxenda de 18 mg dura 6 dias em 3 mg/dia; considerar isso no custo."
+   ],
+   "erros": [
+    "Subir a dose com náusea importante, o que leva ao abandono.",
+    "Esquecer de ajustar a sulfonilureia ou a insulina."
+   ]
+  },
+  "fontes": [
+   "Bulas Victoza e Saxenda (Anvisa)",
+   "Pi-Sunyer X et al. NEJM 2015 (SCALE)",
+   "Marso SP et al. NEJM 2016 (LEADER)",
+   "Larsen JR et al. JAMA Psychiatry 2017",
+   "Siskind D et al. Diabetes Obes Metab 2019 (metanálise de agonistas de GLP-1 em usuários de antipsicóticos)",
+   "Maudsley Prescribing Guidelines 15ª ed.",
+   "EMA PRAC, abril de 2024 (ideação suicida)",
+   "Anvisa, retenção de receita de agonistas de GLP-1 (2025)"
+  ]
+ },
+ {
+  "id": "semaglutida",
+  "nome": "Semaglutida",
+  "nomes_comerciais": [
+   "Ozempic",
+   "Wegovy",
+   "Rybelsus"
+  ],
+  "classe": "outros",
+  "subclasse": "Análogo de GLP-1",
+  "comercializacao": "disponivel",
+  "nota_comercializacao": "Ozempic (diabetes, SC semanal), Wegovy (obesidade, SC semanal) e Rybelsus (diabetes, oral diário). A patente caiu em 2026 e a Anvisa aprovou o primeiro genérico em agosto de 2026.",
+  "receita": "Simples (retida)",
+  "receita_nota": "Receita simples em duas vias, com retenção de uma via na farmácia: exigência da Anvisa para agonistas de GLP-1 desde 23/06/2025, com validade de 90 dias. Em janeiro de 2026 a Anvisa publicou novas regras de prescrição e dispensação.",
+  "rename": false,
+  "custo": "alto",
+  "relacionados": [
+   "liraglutida",
+   "tirzepatida",
+   "metformina",
+   "topiramato",
+   "clozapina",
+   "naltrexona"
+  ],
+  "apresentacoes": [
+   {
+    "forma": "Solução injetável SC em caneta preenchida, semanal (Ozempic, diabetes)",
+    "doses": [
+     "0,25 mg",
+     "0,5 mg",
+     "1 mg",
+     "2 mg"
+    ],
+    "aparencia": {
+     "formato": "caneta", "cor": "azul-claro",
+     "descricao": "Caneta aplicadora multidose (cada caneta traz doses para cerca de 4 semanas); solução límpida e incolor. Antes do primeiro uso, conservar em geladeira (2 a 8 °C), sem congelar; após o primeiro uso, pode ficar em temperatura ambiente conforme a bula do produto."
+    }
+   },
+   {
+    "forma": "Solução injetável SC em caneta preenchida, semanal (Wegovy, obesidade)",
+    "doses": [
+     "0,25 mg",
+     "0,5 mg",
+     "1 mg",
+     "1,7 mg",
+     "2,4 mg"
+    ],
+    "aparencia": {
+     "formato": "caneta", "cor": "azul-claro",
+     "descricao": "Caneta aplicadora por dose; solução límpida e incolor. Antes do primeiro uso, conservar em geladeira (2 a 8 °C), sem congelar; após o primeiro uso, pode ficar em temperatura ambiente conforme a bula do produto."
+    }
+   },
+   {
+    "forma": "Comprimido oral diário (Rybelsus, diabetes)",
+    "doses": [
+     "3 mg",
+     "7 mg",
+     "14 mg"
+    ],
+    "aparencia": {
+     "formato": "oval",
+     "cor": "branco",
+     "descricao": "Comprimido branco a amarelo-claro, oval, com a dose gravada de um lado. Contém o potencializador de absorção SNAC; manter no blíster original, protegido da umidade."
+    }
+   }
+  ],
+  "farmacodinamica": {
+   "resumo": "Análogo do GLP-1 humano (94% de homologia) com substituição que o protege da DPP-4 e cadeia de ácido graxo com forte ligação à albumina, o que dá meia-vida de cerca de 1 semana. Estimula a secreção de insulina dependente de glicose, reduz o glucagon, retarda o esvaziamento gástrico e age no hipotálamo e no tronco encefálico, reduzindo fome, desejo por alimentos e preferência por alimentos gordurosos. A forma oral usa o SNAC, que eleva o pH local e permite absorção pelo estômago.",
+   "resumo_curto": "Agonista de GLP-1 semanal (SC) ou diário (oral); grande perda de peso e benefício cardiovascular.",
+   "afinidade": [
+    {
+     "alvo": "GLP-1R",
+     "acao": "agonismo",
+     "intensidade": 4
+    }
+   ],
+   "significado_clinico": [
+    "Obesidade (2,4 mg/semana, STEP 1): perda média de 14,9% do peso contra 2,4% com placebo em 68 semanas.",
+    "Reduziu eventos cardiovasculares maiores em 20% em obesos com doença cardiovascular sem diabetes (SELECT) e em diabéticos de alto risco (SUSTAIN-6); reduziu desfechos renais no diabetes com doença renal crônica (FLOW).",
+    "Diabetes tipo 2: reduz HbA1c em cerca de 1,5 a 1,8 ponto (SC); a forma oral de 14 mg tem eficácia próxima à da SC de 0,5 a 1 mg.",
+    "Transtorno por uso de álcool: ECR pequeno (Hendershot 2025) mostrou redução do consumo; uso ainda experimental."
+   ]
+  },
+  "farmacocinetica": {
+   "absorcao": "SC: lenta e completa. Oral: gástrica, dependente do SNAC; muito reduzida por alimento ou volume de água acima de 120 mL.",
+   "biodisponibilidade": "SC: cerca de 89%. Oral: cerca de 0,4 a 1%.",
+   "alimentos": "SC: independe das refeições. Oral: em jejum, com até 120 mL de água, e aguardar pelo menos 30 minutos antes de comer, beber ou tomar outros medicamentos orais.",
+   "pico": "SC: 1 a 3 dias. Oral: cerca de 1 hora.",
+   "ligacao_proteica": "Acima de 99% (albumina).",
+   "metabolismo": "Clivagem proteolítica do peptídeo e betaoxidação da cadeia de ácido graxo, em vários tecidos. Não usa CYP.",
+   "meia_vida": "Cerca de 1 semana (SC e oral).",
+   "metabolitos_ativos": "Nenhum relevante.",
+   "excrecao": "Metabólitos na urina (principal) e nas fezes; cerca de 3% inalterada na urina.",
+   "equilibrio": "4 a 5 semanas.",
+   "cyp": {
+    "substrato": [],
+    "inibe": {}
+   }
+  },
+  "perfil": {
+   "sedacao": 0,
+   "peso": 0,
+   "metabolico": 0,
+   "sexual": 0,
+   "anticolinergico": 0
+  },
+  "interacoes": [
+   {
+    "com": "Levotiroxina (com semaglutida oral)",
+    "gravidade": "moderada",
+    "efeito": "A semaglutida oral aumentou em cerca de 33% a exposição à tiroxina total; a SC também pode alterar a absorção pelo retardo do esvaziamento gástrico.",
+    "conduta": "TSH e T4 livre 6 a 8 semanas após iniciar ou mudar a dose. A levotiroxina e o Rybelsus são ambos tomados em jejum: tomar o Rybelsus primeiro e a levotiroxina 30 minutos depois, mantendo sempre o mesmo esquema."
+   },
+   {
+    "com": "Qualquer medicamento oral de uso matinal (com semaglutida oral)",
+    "gravidade": "leve",
+    "efeito": "Medicamentos tomados junto com o comprimido reduzem a absorção da semaglutida.",
+    "conduta": "Tomar os demais medicamentos, inclusive psicofármacos matinais, pelo menos 30 minutos depois do Rybelsus."
+   },
+   {
+    "com": "Clozapina",
+    "gravidade": "moderada",
+    "efeito": "Soma de hipomotilidade gastrointestinal: o agonista retarda o esvaziamento gástrico e causa constipação; a clozapina reduz a motilidade colônica (ação anticolinérgica e 5-HT3). Risco de constipação grave, fecaloma e íleo.",
+    "conduta": "Associação útil e estudada (Larsen 2017), mas perguntar sobre hábito intestinal a cada consulta, laxativo osmótico profilático se já houver constipação, titulação lenta. Distensão, vômitos ou parada de evacuação: suspender e avaliar íleo."
+   },
+   {
+    "com": "Anticolinérgicos (biperideno, triexifenidil, tricíclicos, fenotiazinas de baixa potência, opioides)",
+    "gravidade": "moderada",
+    "efeito": "Constipação e hipomotilidade somadas; o anticolinérgico também retarda o esvaziamento gástrico e pode piorar náuseas e plenitude.",
+    "conduta": "Rever a necessidade do anticolinérgico; hidratação, fibras e laxativo osmótico."
+   },
+   {
+    "com": "Lítio",
+    "gravidade": "moderada",
+    "efeito": "Vômitos, diarreia e baixa ingestão de líquidos na titulação causam desidratação e redução da filtração glomerular: a litemia sobe e há risco de intoxicação e lesão renal aguda.",
+    "conduta": "Litemia e creatinina na titulação e se houver sintomas gastrointestinais; orientar hidratação; suspender o lítio temporariamente em vômitos ou diarreia intensos."
+   },
+   {
+    "com": "Insulina e sulfonilureias (glibenclamida, gliclazida, glimepirida)",
+    "gravidade": "moderada",
+    "efeito": "Hipoglicemia. Isoladamente, o agonista quase não causa hipoglicemia porque a secreção de insulina que estimula depende da glicose.",
+    "conduta": "Reduzir a dose da sulfonilureia ou da insulina ao iniciar (em geral 10 a 20% da insulina basal se HbA1c próxima da meta) e reforçar a automonitorização."
+   },
+   {
+    "com": "Fármacos orais de janela terapêutica estreita (varfarina, levotiroxina, digoxina, antiepilépticos)",
+    "gravidade": "leve",
+    "efeito": "O retardo do esvaziamento gástrico altera a velocidade de absorção; vômitos e diarreia podem reduzir a absorção.",
+    "conduta": "RNI ao iniciar e após aumentos (varfarina); TSH após 6 a 8 semanas (levotiroxina); nível sérico se houver sinais de toxicidade ou perda de efeito."
+   },
+   {
+    "com": "Outros agonistas de GLP-1 e inibidores da DPP-4 (sitagliptina, vildagliptina, linagliptina)",
+    "gravidade": "moderada",
+    "efeito": "Sem benefício adicional; soma de efeitos gastrointestinais.",
+    "conduta": "Não associar; suspender o inibidor da DPP-4 ao iniciar o agonista."
+   },
+   {
+    "com": "Álcool",
+    "gravidade": "leve",
+    "efeito": "Somam risco de pancreatite e, com insulina ou sulfonilureia, de hipoglicemia; o esvaziamento gástrico lento pode alterar a curva de alcoolemia.",
+    "conduta": "Orientar consumo baixo; evitar uso pesado."
+   },
+   {
+    "com": "Contraceptivos orais",
+    "gravidade": "leve",
+    "efeito": "Sem redução clinicamente relevante da exposição a etinilestradiol e levonorgestrel nos estudos; vômitos intensos podem comprometer a absorção.",
+    "conduta": "Método adicional se houver vômitos ou diarreia intensos."
+   }
+  ],
+  "indicacoes": [],
+  "prescricao": {
+   "dose_inicial": "SC: 0,25 mg uma vez por semana por 4 semanas (dose de adaptação, sem efeito glicêmico pleno). Oral: 3 mg/dia por 30 dias.",
+   "faixa": "Diabetes (Ozempic): 0,5 a 2 mg/semana. Obesidade (Wegovy): 1,7 a 2,4 mg/semana. Oral (Rybelsus): 7 a 14 mg/dia.",
+   "dose_maxima": "2 mg/semana (Ozempic); 2,4 mg/semana (Wegovy); 14 mg/dia (Rybelsus).",
+   "titulacao": "SC: dobrar a cada 4 semanas (0,25, 0,5, 1, 1,7 e 2,4 mg no Wegovy; 0,25, 0,5, 1 e 2 mg no Ozempic). Oral: 3 mg por 30 dias, 7 mg por pelo menos 30 dias e, se necessário, 14 mg. Com náusea importante, manter a dose por mais 4 semanas; a dose de manutenção pode ser menor que a máxima se o objetivo for alcançado.",
+   "horario": "SC: uma vez por semana, no mesmo dia, a qualquer hora, independente das refeições; o dia pode ser trocado se houver pelo menos 2 dias (48 horas) entre as aplicações. Esquecimento: aplicar em até 5 dias; depois disso, pular. Oral: ao acordar, em jejum, com até 120 mL de água, 30 minutos antes de qualquer alimento ou medicamento.",
+   "latencia": "Saciedade em dias; perda de peso progressiva, com platô entre 12 e 18 meses.",
+   "duracao": "Longo prazo enquanto houver benefício; a maior parte do peso perdido volta em 1 ano após a suspensão.",
+   "monitoramento": [
+    "Peso, circunferência abdominal, PA e FC a cada consulta.",
+    "Glicemia e HbA1c, perfil lipídico basais e a cada 3 a 6 meses.",
+    "Fundo de olho basal em diabéticos com retinopatia, sobretudo se a HbA1c for cair rapidamente ou se houver insulina associada.",
+    "Creatinina basal e se houver vômitos ou diarreia; litemia se em uso de lítio.",
+    "Hábito intestinal (sobretudo com clozapina).",
+    "Humor, ideação suicida e comportamento alimentar.",
+    "Queixa visual súbita: oftalmologia."
+   ],
+   "esquema": {
+    "unidade_tempo": "semana",
+    "unidade_dose": "mg por semana",
+    "pontos": [
+     [
+      0,
+      0.25
+     ],
+     [
+      4,
+      0.5
+     ],
+     [
+      8,
+      1
+     ],
+     [
+      12,
+      1.7
+     ],
+     [
+      16,
+      2.4
+     ]
+    ],
+    "faixa": [
+     1.7,
+     2.4
+    ],
+    "legenda": "Esquema SC de obesidade (Wegovy). No diabetes (Ozempic): 0,25, 0,5, 1 e 2 mg, a cada 4 semanas. Oral (Rybelsus): 3 mg por 30 dias, depois 7 mg e, se preciso, 14 mg."
+   }
+  },
+  "efeitos_adversos": {
+   "muito_comuns": [
+    "Náuseas",
+    "Diarreia",
+    "Vômitos",
+    "Constipação",
+    "Dor abdominal"
+   ],
+   "comuns": [
+    "Dispepsia, refluxo, eructação e flatulência",
+    "Redução do apetite",
+    "Cefaleia, tontura e fadiga",
+    "Hipoglicemia (com insulina ou sulfonilureia)",
+    "Colelitíase",
+    "Aumento da frequência cardíaca",
+    "Aumento de lipase e amilase",
+    "Queda de cabelo com perda de peso rápida",
+    "Complicações de retinopatia diabética (em quem já tem retinopatia)",
+    "Disgeusia"
+   ],
+   "raros_graves": [
+    "Pancreatite aguda",
+    "Colecistite",
+    "Lesão renal aguda por desidratação",
+    "Obstrução intestinal e íleo",
+    "Anafilaxia e angioedema",
+    "Aspiração pulmonar em anestesia",
+    "Neuropatia óptica isquêmica anterior não arterítica (NAION): muito rara, até 1 em 10.000 pessoas, reconhecida pela EMA em 2025"
+   ],
+   "conduta_imediata": [
+    "Dor abdominal intensa e persistente, com ou sem irradiação para o dorso e vômitos: suspender, dosar lipase e avaliar pancreatite; não reiniciar se confirmada.",
+    "Dor em hipocôndrio direito, febre ou icterícia: ultrassom de vias biliares.",
+    "Vômitos ou diarreia persistentes com baixa ingestão: hidratar, dosar creatinina e eletrólitos (e litemia se em uso de lítio).",
+    "Distensão abdominal, vômitos e ausência de evacuação, sobretudo com clozapina: suspender e avaliar obstrução ou íleo com urgência.",
+    "Urticária generalizada, angioedema ou dispneia após aplicação: anafilaxia; suspender definitivamente.",
+    "Perda visual súbita e indolor (sobretudo ao acordar) ou defeito de campo visual: suspender e encaminhar à oftalmologia com urgência (NAION)."
+   ],
+   "manejo": [
+    {
+     "efeito": "Náuseas",
+     "conduta": "Titulação lenta (não subir enquanto houver náusea importante; voltar à dose anterior por mais 4 semanas se preciso), refeições pequenas, parar de comer ao sentir saciedade, evitar gordura e álcool. Antiemético por poucos dias se necessário (ondansetrona piora a constipação)."
+    },
+    {
+     "efeito": "Constipação",
+     "conduta": "Líquidos, fibras e laxativo osmótico (macrogol ou lactulose); profilático em quem usa clozapina ou anticolinérgicos."
+    },
+    {
+     "efeito": "Diarreia e vômitos",
+     "conduta": "Hidratação oral; suspender temporariamente diuréticos, lítio ou metformina se houver desidratação; creatinina se persistir."
+    },
+    {
+     "efeito": "Refluxo e dispepsia",
+     "conduta": "Evitar deitar após refeições, porções menores; inibidor de bomba de prótons se persistir."
+    },
+    {
+     "efeito": "Perda de massa magra",
+     "conduta": "Proteína adequada (cerca de 1,0 a 1,2 g/kg/dia) e exercício resistido."
+    },
+    {
+     "efeito": "Piora da retinopatia diabética",
+     "conduta": "Fundo de olho antes e durante o uso em quem tem retinopatia; queda gradual da HbA1c; oftalmologia se houver piora visual."
+    }
+   ]
+  },
+  "contraindicacoes": [
+   "História pessoal ou familiar de carcinoma medular de tireoide ou neoplasia endócrina múltipla tipo 2 (NEM 2): contraindicação na bula norte-americana, seguida na prática; tumores de células C da tireoide em roedores, com relevância em humanos não estabelecida.",
+   "Hipersensibilidade à semaglutida (ou ao SNAC, na forma oral).",
+   "Gestação."
+  ],
+  "precaucoes": [
+   "**Pancreatite**: suspender se houver suspeita (dor abdominal intensa e persistente, com ou sem vômitos); não reiniciar se confirmada. Com pancreatite prévia, preferir outra estratégia.",
+   "**Doença biliar**: colelitíase e colecistite aumentam, sobretudo com perda de peso rápida; investigar dor em hipocôndrio direito, febre ou icterícia.",
+   "**Gastroparesia** grave e doença inflamatória intestinal grave: não recomendado (sem estudos e piora esperada dos sintomas).",
+   "**Desidratação e lesão renal aguda**: vômitos e diarreia na titulação podem causar insuficiência pré-renal; orientar hidratação, sobretudo em idosos e em quem usa lítio, diuréticos, IECA, BRA ou AINE.",
+   "**Anestesia e endoscopia**: risco de conteúdo gástrico residual e aspiração. A orientação multissocietária de 2024 (sociedade americana de anestesiologia com sociedades de gastroenterologia e cirurgia bariátrica) permite manter o fármaco na maioria dos casos, com dieta líquida nas 24 horas anteriores; em alto risco (fase de titulação, dose alta, náuseas, vômitos ou distensão), suspender a dose semanal 1 semana antes (ou a dose diária no dia) e considerar ultrassom gástrico ou indução em sequência rápida. Informar sempre o anestesista.",
+   "**Hipoglicemia** com insulina ou sulfonilureia: reduzir essas doses.",
+   "**Humor e ideação suicida**: houve relatos espontâneos; as revisões da EMA (abril de 2024) e da FDA (janeiro de 2024) não confirmaram relação causal, e estudos de coorte não mostraram aumento de risco. Ainda assim, monitorar humor e ideação, sobretudo em quem tem história de depressão ou tentativa de suicídio.",
+   "**Transtornos alimentares**: evitar em anorexia nervosa ou bulimia ativas e em peso normal ou baixo; em história de transtorno alimentar, usar só com indicação clara e acompanhamento, vigiando restrição, purgação e perda de peso excessiva.",
+   "**Absorção de fármacos orais**: o esvaziamento gástrico lento altera a absorção de fármacos de janela estreita (levotiroxina, varfarina); monitorar.",
+   "Aumento discreto da frequência cardíaca (2 a 4 bpm em média); cautela em taquiarritmias.",
+   "Perda de massa magra junto com gordura: orientar ingestão de proteína e exercício resistido, sobretudo em idosos.",
+   "Diabetes tipo 1 e cetoacidose: não substitui insulina.",
+   "Produtos manipulados ou sem registro: a FDA relatou internações por erro de dose com semaglutida e tirzepatida manipuladas (confusão entre mL, unidades e mg). Prescrever o produto registrado, com dose em mg.",
+   "**Retinopatia diabética**: no SUSTAIN-6 as complicações de retinopatia foram mais frequentes (3,0% contra 1,8%), sobretudo em quem já tinha retinopatia e teve queda rápida da HbA1c com insulina; fundo de olho basal e seguimento.",
+   "**NAION**: sinal de estudos observacionais em 2024 e 2025; em junho de 2025 a EMA incluiu a neuropatia óptica isquêmica anterior não arterítica como efeito adverso muito raro da semaglutida. Orientar a procurar atendimento se houver perda visual súbita; cautela em quem já teve NAION.",
+   "Meia-vida longa: efeitos adversos persistem por semanas após a última dose."
+  ],
+  "populacoes": {
+   "gestacao": {
+    "nivel": "contraindicado",
+    "texto": "Toxicidade reprodutiva em animais e dados humanos insuficientes. Pela meia-vida longa, suspender pelo menos 2 meses antes de uma gestação planejada; se engravidar em uso, suspender e encaminhar ao pré-natal. Em mulheres em idade fértil, discutir contracepção."
+   },
+   "lactacao": {
+    "nivel": "evitar",
+    "texto": "Sem dados suficientes. A forma oral não é recomendada na amamentação pelo excipiente SNAC; a SC é peptídeo grande, com provável baixa passagem ao leite, mas sem segurança estabelecida."
+   },
+   "idosos": {
+    "nivel": "cautela",
+    "texto": "Sem ajuste, mas atenção a desidratação, sarcopenia, desnutrição e quedas."
+   },
+   "pediatria": {
+    "nivel": "cautela",
+    "texto": "Wegovy tem aprovação para obesidade em adolescentes de 12 anos ou mais (STEP TEENS). Em adolescentes com antipsicóticos, só com endocrinologia pediátrica."
+   },
+   "renal": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste; reduziu desfechos renais no diabetes com doença renal crônica (FLOW). O maior risco é a desidratação por sintomas gastrointestinais."
+   },
+   "hepatica": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste; experiência limitada na insuficiência hepática grave. Benefício em esteatose e esteato-hepatite associadas a disfunção metabólica."
+   },
+   "cardiopatas": {
+    "nivel": "preferencial",
+    "texto": "Reduziu eventos cardiovasculares maiores no diabetes (SUSTAIN-6) e na obesidade sem diabetes (SELECT); melhora sintomas na insuficiência cardíaca com fração de ejeção preservada e obesidade. FC sobe discretamente."
+   }
+  },
+  "suspensao": {
+   "risco": "Sem síndrome de retirada.",
+   "sintomas": "Retorno do apetite; no seguimento do STEP 1, cerca de dois terços do peso perdido voltaram em 1 ano após a suspensão. Piora glicêmica no diabetes.",
+   "reducao": "Pode ser suspensa sem redução; o efeito se desfaz ao longo de semanas pela meia-vida longa. Após várias semanas sem aplicar, reiniciar por dose mais baixa (tolerância gastrointestinal).",
+   "troca": "SC para oral: quem usa 0,5 mg/semana pode passar a 7 ou 14 mg/dia, iniciando o comprimido em até 7 dias após a última injeção; oral 14 mg para SC: 0,5 mg/semana no dia seguinte ao último comprimido. Para tirzepatida: iniciar na data da próxima aplicação prevista, em geral com 2,5 ou 5 mg conforme a dose e a tolerância anteriores. Não associar agonistas de GLP-1."
+  },
+  "superdosagem": {
+   "toxicidade": "Baixa a moderada.",
+   "quadro": "Náuseas e vômitos intensos e prolongados, desidratação; hipoglicemia rara sem insulina ou sulfonilureia. Erros de dose com produtos manipulados causaram internações.",
+   "conduta": "Suporte, hidratação, antiemético e glicemia seriada; observação prolongada, porque a meia-vida é de cerca de 1 semana."
+  },
+  "pratica": {
+   "perolas": [
+    "É hoje o agonista de GLP-1 mais usado para ganho de peso por antipsicóticos quando a metformina não basta; a evidência específica nessa população ainda é menor que a da liraglutida, mas a eficácia na obesidade geral é bem maior.",
+    "A forma oral exige rotina rígida de jejum; em pacientes desorganizados, a SC semanal (que pode ser aplicada no serviço, junto do antipsicótico de depósito) garante adesão.",
+    "Uma aplicação semanal supervisionada combina bem com consultas de depósito ou de clozapina.",
+    "Perguntar sobre alimentação e purgação antes de prescrever; o fármaco é procurado para emagrecimento sem indicação."
+   ],
+   "erros": [
+    "Tomar o Rybelsus com café, com o café da manhã ou junto dos outros comprimidos.",
+    "Engravidar sem suspender com 2 meses de antecedência.",
+    "Não fazer fundo de olho em diabético com retinopatia."
+   ]
+  },
+  "fontes": [
+   "Bulas Ozempic, Wegovy e Rybelsus (Anvisa)",
+   "Wilding JPH et al. NEJM 2021 (STEP 1)",
+   "Marso SP et al. NEJM 2016 (SUSTAIN-6)",
+   "Lincoff AM et al. NEJM 2023 (SELECT)",
+   "Hendershot CS et al. JAMA Psychiatry 2025 (transtorno por uso de álcool)",
+   "EMA PRAC, junho de 2025 (NAION)",
+   "EMA PRAC, abril de 2024 (ideação suicida)",
+   "Maudsley Prescribing Guidelines 15ª ed.",
+   "Anvisa, retenção de receita de agonistas de GLP-1 (2025)"
+  ]
+ },
+ {
+  "id": "tirzepatida",
+  "nome": "Tirzepatida",
+  "nomes_comerciais": [
+   "Mounjaro"
+  ],
+  "classe": "outros",
+  "subclasse": "Agonista duplo GIP/GLP-1",
+  "comercializacao": "disponivel",
+  "nota_comercializacao": "Mounjaro, comercializado no Brasil desde 2025.",
+  "receita": "Simples (retida)",
+  "receita_nota": "Receita simples em duas vias, com retenção de uma via na farmácia: exigência da Anvisa para agonistas de GLP-1 desde 23/06/2025, com validade de 90 dias. Em janeiro de 2026 a Anvisa publicou novas regras de prescrição e dispensação.",
+  "rename": false,
+  "custo": "muito alto",
+  "relacionados": [
+   "semaglutida",
+   "liraglutida",
+   "metformina",
+   "topiramato",
+   "clozapina"
+  ],
+  "apresentacoes": [
+   {
+    "forma": "Solução injetável SC em caneta preenchida, semanal",
+    "doses": [
+     "2,5 mg",
+     "5 mg",
+     "7,5 mg",
+     "10 mg",
+     "12,5 mg",
+     "15 mg"
+    ],
+    "aparencia": {
+     "formato": "caneta", "cor": "azul-claro",
+     "descricao": "Caneta aplicadora; solução límpida, incolor a levemente amarelada. Antes do primeiro uso, conservar em geladeira (2 a 8 °C), sem congelar; após o primeiro uso, pode ficar em temperatura ambiente conforme a bula do produto."
+    }
+   }
+  ],
+  "farmacodinamica": {
+   "resumo": "Peptídeo sintético com cadeia de ácido graxo (ligação à albumina, meia-vida de cerca de 5 dias) que ativa os receptores de GIP e de GLP-1. Liga-se ao receptor de GIP com afinidade semelhante à do GIP nativo e ao de GLP-1 com afinidade cerca de 5 vezes menor que a do GLP-1 nativo. Soma aos efeitos do GLP-1 (insulina dependente de glicose, menos glucagon, esvaziamento gástrico lento, saciedade central) uma ação do GIP sobre sensibilidade à insulina e tecido adiposo e, possivelmente, melhor tolerância a náuseas.",
+   "resumo_curto": "Agonista duplo GIP/GLP-1 semanal; a maior perda de peso entre os fármacos disponíveis.",
+   "afinidade": [
+    {
+     "alvo": "GIPR",
+     "acao": "agonismo",
+     "intensidade": 4
+    },
+    {
+     "alvo": "GLP-1R",
+     "acao": "agonismo",
+     "intensidade": 3
+    }
+   ],
+   "significado_clinico": [
+    "Obesidade (15 mg, SURMOUNT-1): perda média de 20,9% do peso contra 3,1% com placebo em 72 semanas.",
+    "Superior à semaglutida 2,4 mg na obesidade sem diabetes (SURMOUNT-5: 20,2% contra 13,7%).",
+    "Diabetes tipo 2: reduz HbA1c em cerca de 2 pontos; melhora apneia obstrutiva do sono em obesos (SURMOUNT-OSA).",
+    "Sem estudos específicos em usuários de antipsicóticos."
+   ]
+  },
+  "farmacocinetica": {
+   "absorcao": "Subcutânea lenta; abdome, coxa e braço são equivalentes.",
+   "biodisponibilidade": "Cerca de 80%.",
+   "alimentos": "Independe das refeições.",
+   "pico": "8 a 72 horas.",
+   "ligacao_proteica": "Cerca de 99% (albumina).",
+   "metabolismo": "Clivagem proteolítica do peptídeo, betaoxidação da cadeia de ácido graxo e hidrólise de amidas. Não usa CYP.",
+   "meia_vida": "Cerca de 5 dias.",
+   "metabolitos_ativos": "Nenhum.",
+   "excrecao": "Metabólitos na urina e nas fezes; fármaco intacto praticamente ausente.",
+   "equilibrio": "Cerca de 4 semanas.",
+   "cyp": {
+    "substrato": [],
+    "inibe": {}
+   }
+  },
+  "perfil": {
+   "sedacao": 0,
+   "peso": 0,
+   "metabolico": 0,
+   "sexual": 0,
+   "anticolinergico": 0
+  },
+  "interacoes": [
+   {
+    "com": "Contraceptivos hormonais orais",
+    "gravidade": "moderada",
+    "efeito": "O retardo do esvaziamento gástrico, maior após a primeira dose, reduz a exposição ao contraceptivo oral; risco de falha contraceptiva.",
+    "conduta": "Trocar para método não oral ou associar método de barreira por 4 semanas após o início e por 4 semanas após cada aumento de dose. Métodos não orais (DIU, implante, injetável, adesivo, anel) não são afetados."
+   },
+   {
+    "com": "Clozapina",
+    "gravidade": "moderada",
+    "efeito": "Soma de hipomotilidade gastrointestinal: o agonista retarda o esvaziamento gástrico e causa constipação; a clozapina reduz a motilidade colônica (ação anticolinérgica e 5-HT3). Risco de constipação grave, fecaloma e íleo.",
+    "conduta": "Associação útil e estudada (Larsen 2017), mas perguntar sobre hábito intestinal a cada consulta, laxativo osmótico profilático se já houver constipação, titulação lenta. Distensão, vômitos ou parada de evacuação: suspender e avaliar íleo."
+   },
+   {
+    "com": "Anticolinérgicos (biperideno, triexifenidil, tricíclicos, fenotiazinas de baixa potência, opioides)",
+    "gravidade": "moderada",
+    "efeito": "Constipação e hipomotilidade somadas; o anticolinérgico também retarda o esvaziamento gástrico e pode piorar náuseas e plenitude.",
+    "conduta": "Rever a necessidade do anticolinérgico; hidratação, fibras e laxativo osmótico."
+   },
+   {
+    "com": "Lítio",
+    "gravidade": "moderada",
+    "efeito": "Vômitos, diarreia e baixa ingestão de líquidos na titulação causam desidratação e redução da filtração glomerular: a litemia sobe e há risco de intoxicação e lesão renal aguda.",
+    "conduta": "Litemia e creatinina na titulação e se houver sintomas gastrointestinais; orientar hidratação; suspender o lítio temporariamente em vômitos ou diarreia intensos."
+   },
+   {
+    "com": "Insulina e sulfonilureias (glibenclamida, gliclazida, glimepirida)",
+    "gravidade": "moderada",
+    "efeito": "Hipoglicemia. Isoladamente, o agonista quase não causa hipoglicemia porque a secreção de insulina que estimula depende da glicose.",
+    "conduta": "Reduzir a dose da sulfonilureia ou da insulina ao iniciar (em geral 10 a 20% da insulina basal se HbA1c próxima da meta) e reforçar a automonitorização."
+   },
+   {
+    "com": "Fármacos orais de janela terapêutica estreita (varfarina, levotiroxina, digoxina, antiepilépticos)",
+    "gravidade": "leve",
+    "efeito": "O retardo do esvaziamento gástrico altera a velocidade de absorção; vômitos e diarreia podem reduzir a absorção.",
+    "conduta": "RNI ao iniciar e após aumentos (varfarina); TSH após 6 a 8 semanas (levotiroxina); nível sérico se houver sinais de toxicidade ou perda de efeito."
+   },
+   {
+    "com": "Outros agonistas de GLP-1 e inibidores da DPP-4 (sitagliptina, vildagliptina, linagliptina)",
+    "gravidade": "moderada",
+    "efeito": "Sem benefício adicional; soma de efeitos gastrointestinais.",
+    "conduta": "Não associar; suspender o inibidor da DPP-4 ao iniciar o agonista."
+   },
+   {
+    "com": "Álcool",
+    "gravidade": "leve",
+    "efeito": "Somam risco de pancreatite e, com insulina ou sulfonilureia, de hipoglicemia; o esvaziamento gástrico lento pode alterar a curva de alcoolemia.",
+    "conduta": "Orientar consumo baixo; evitar uso pesado."
+   }
+  ],
+  "indicacoes": [],
+  "prescricao": {
+   "dose_inicial": "2,5 mg SC uma vez por semana por 4 semanas (dose de adaptação).",
+   "faixa": "5 a 15 mg/semana.",
+   "dose_maxima": "15 mg/semana.",
+   "titulacao": "Aumentos de 2,5 mg a cada 4 semanas no mínimo (5, 7,5, 10, 12,5 e 15 mg), até a menor dose eficaz e tolerada. Com náusea importante, manter a dose por mais 4 semanas.",
+   "horario": "Uma vez por semana, no mesmo dia, a qualquer hora, independente das refeições; o dia pode ser trocado se houver pelo menos 3 dias (72 horas) entre as aplicações. Esquecimento: aplicar em até 4 dias; depois disso, pular.",
+   "latencia": "Saciedade em dias; perda de peso progressiva, com platô em cerca de 12 a 18 meses.",
+   "duracao": "Longo prazo enquanto houver benefício; na retirada do SURMOUNT-4 houve reganho importante em 1 ano.",
+   "monitoramento": [
+    "Peso, circunferência abdominal, PA e FC a cada consulta.",
+    "Glicemia e HbA1c, perfil lipídico basais e a cada 3 a 6 meses.",
+    "Fundo de olho em diabéticos com retinopatia.",
+    "Creatinina basal e se houver vômitos ou diarreia; litemia se em uso de lítio.",
+    "Hábito intestinal (sobretudo com clozapina).",
+    "Contracepção nas 4 semanas após início e após cada aumento.",
+    "Humor, ideação suicida e comportamento alimentar."
+   ],
+   "esquema": {
+    "unidade_tempo": "semana",
+    "unidade_dose": "mg por semana",
+    "pontos": [
+     [
+      0,
+      2.5
+     ],
+     [
+      4,
+      5
+     ],
+     [
+      8,
+      7.5
+     ],
+     [
+      12,
+      10
+     ],
+     [
+      16,
+      12.5
+     ],
+     [
+      20,
+      15
+     ]
+    ],
+    "faixa": [
+     5,
+     15
+    ],
+    "legenda": "Aumentos de 2,5 mg a cada 4 semanas; muitos pacientes mantêm 5 a 10 mg."
+   }
+  },
+  "efeitos_adversos": {
+   "muito_comuns": [
+    "Náuseas",
+    "Diarreia",
+    "Vômitos",
+    "Constipação"
+   ],
+   "comuns": [
+    "Dispepsia, refluxo, eructação e distensão",
+    "Dor abdominal",
+    "Redução do apetite",
+    "Fadiga e tontura",
+    "Hipoglicemia (com insulina ou sulfonilureia)",
+    "Reação no local da aplicação",
+    "Aumento da frequência cardíaca",
+    "Aumento de lipase e amilase",
+    "Colelitíase",
+    "Queda de cabelo com perda de peso rápida"
+   ],
+   "raros_graves": [
+    "Pancreatite aguda",
+    "Colecistite",
+    "Lesão renal aguda por desidratação",
+    "Obstrução intestinal e íleo",
+    "Anafilaxia e angioedema",
+    "Aspiração pulmonar em anestesia",
+    "Falha contraceptiva com contraceptivo oral"
+   ],
+   "conduta_imediata": [
+    "Dor abdominal intensa e persistente, com ou sem irradiação para o dorso e vômitos: suspender, dosar lipase e avaliar pancreatite; não reiniciar se confirmada.",
+    "Dor em hipocôndrio direito, febre ou icterícia: ultrassom de vias biliares.",
+    "Vômitos ou diarreia persistentes com baixa ingestão: hidratar, dosar creatinina e eletrólitos (e litemia se em uso de lítio).",
+    "Distensão abdominal, vômitos e ausência de evacuação, sobretudo com clozapina: suspender e avaliar obstrução ou íleo com urgência.",
+    "Urticária generalizada, angioedema ou dispneia após aplicação: anafilaxia; suspender definitivamente."
+   ],
+   "manejo": [
+    {
+     "efeito": "Náuseas",
+     "conduta": "Titulação lenta (não subir enquanto houver náusea importante; voltar à dose anterior por mais 4 semanas se preciso), refeições pequenas, parar de comer ao sentir saciedade, evitar gordura e álcool. Antiemético por poucos dias se necessário (ondansetrona piora a constipação)."
+    },
+    {
+     "efeito": "Constipação",
+     "conduta": "Líquidos, fibras e laxativo osmótico (macrogol ou lactulose); profilático em quem usa clozapina ou anticolinérgicos."
+    },
+    {
+     "efeito": "Diarreia e vômitos",
+     "conduta": "Hidratação oral; suspender temporariamente diuréticos, lítio ou metformina se houver desidratação; creatinina se persistir."
+    },
+    {
+     "efeito": "Refluxo e dispepsia",
+     "conduta": "Evitar deitar após refeições, porções menores; inibidor de bomba de prótons se persistir."
+    },
+    {
+     "efeito": "Perda de massa magra",
+     "conduta": "Proteína adequada (cerca de 1,0 a 1,2 g/kg/dia) e exercício resistido."
+    }
+   ]
+  },
+  "contraindicacoes": [
+   "História pessoal ou familiar de carcinoma medular de tireoide ou neoplasia endócrina múltipla tipo 2 (NEM 2): contraindicação na bula norte-americana, seguida na prática; tumores de células C da tireoide em roedores, com relevância em humanos não estabelecida.",
+   "Hipersensibilidade à tirzepatida.",
+   "Gestação."
+  ],
+  "precaucoes": [
+   "**Pancreatite**: suspender se houver suspeita (dor abdominal intensa e persistente, com ou sem vômitos); não reiniciar se confirmada. Com pancreatite prévia, preferir outra estratégia.",
+   "**Doença biliar**: colelitíase e colecistite aumentam, sobretudo com perda de peso rápida; investigar dor em hipocôndrio direito, febre ou icterícia.",
+   "**Gastroparesia** grave e doença inflamatória intestinal grave: não recomendado (sem estudos e piora esperada dos sintomas).",
+   "**Desidratação e lesão renal aguda**: vômitos e diarreia na titulação podem causar insuficiência pré-renal; orientar hidratação, sobretudo em idosos e em quem usa lítio, diuréticos, IECA, BRA ou AINE.",
+   "**Anestesia e endoscopia**: risco de conteúdo gástrico residual e aspiração. A orientação multissocietária de 2024 (sociedade americana de anestesiologia com sociedades de gastroenterologia e cirurgia bariátrica) permite manter o fármaco na maioria dos casos, com dieta líquida nas 24 horas anteriores; em alto risco (fase de titulação, dose alta, náuseas, vômitos ou distensão), suspender a dose semanal 1 semana antes (ou a dose diária no dia) e considerar ultrassom gástrico ou indução em sequência rápida. Informar sempre o anestesista.",
+   "**Hipoglicemia** com insulina ou sulfonilureia: reduzir essas doses.",
+   "**Humor e ideação suicida**: houve relatos espontâneos; as revisões da EMA (abril de 2024) e da FDA (janeiro de 2024) não confirmaram relação causal, e estudos de coorte não mostraram aumento de risco. Ainda assim, monitorar humor e ideação, sobretudo em quem tem história de depressão ou tentativa de suicídio.",
+   "**Transtornos alimentares**: evitar em anorexia nervosa ou bulimia ativas e em peso normal ou baixo; em história de transtorno alimentar, usar só com indicação clara e acompanhamento, vigiando restrição, purgação e perda de peso excessiva.",
+   "**Absorção de fármacos orais**: o esvaziamento gástrico lento altera a absorção de fármacos de janela estreita (levotiroxina, varfarina); monitorar.",
+   "Aumento discreto da frequência cardíaca (2 a 4 bpm em média); cautela em taquiarritmias.",
+   "Perda de massa magra junto com gordura: orientar ingestão de proteína e exercício resistido, sobretudo em idosos.",
+   "Diabetes tipo 1 e cetoacidose: não substitui insulina.",
+   "Produtos manipulados ou sem registro: a FDA relatou internações por erro de dose com semaglutida e tirzepatida manipuladas (confusão entre mL, unidades e mg). Prescrever o produto registrado, com dose em mg.",
+   "**Contraceptivos orais**: exposição reduzida; método não oral ou de barreira por 4 semanas após o início e após cada aumento de dose.",
+   "**Retinopatia diabética**: sem dados suficientes em retinopatia não proliferativa grave ou proliferativa; fundo de olho basal em diabéticos com retinopatia.",
+   "Meia-vida de cerca de 5 dias: efeitos adversos persistem por semanas após a última dose."
+  ],
+  "populacoes": {
+   "gestacao": {
+    "nivel": "contraindicado",
+    "texto": "Toxicidade reprodutiva em animais e dados humanos insuficientes. Suspender ao planejar gestação; pela meia-vida de cerca de 5 dias, a eliminação leva em torno de 1 mês. Em mulheres em idade fértil, atenção à interação com contraceptivos orais."
+   },
+   "lactacao": {
+    "nivel": "evitar",
+    "texto": "Sem dados suficientes; peptídeo grande, com provável baixa passagem ao leite, mas sem segurança estabelecida."
+   },
+   "idosos": {
+    "nivel": "cautela",
+    "texto": "Sem ajuste, mas atenção a desidratação, sarcopenia, desnutrição e quedas; a perda de peso é grande."
+   },
+   "pediatria": {
+    "nivel": "evitar",
+    "texto": "Segurança e eficácia não estabelecidas no Brasil; usar só em contexto especializado."
+   },
+   "renal": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste, inclusive em doença renal terminal; o maior risco é a desidratação por sintomas gastrointestinais."
+   },
+   "hepatica": {
+    "nivel": "aceitavel",
+    "texto": "Sem ajuste."
+   },
+   "cardiopatas": {
+    "nivel": "aceitavel",
+    "texto": "Não inferior à dulaglutida em eventos cardiovasculares no diabetes com doença cardiovascular (SURPASS-CVOT); reduziu eventos de insuficiência cardíaca com fração de ejeção preservada em obesos (SUMMIT). FC sobe discretamente."
+   }
+  },
+  "suspensao": {
+   "risco": "Sem síndrome de retirada.",
+   "sintomas": "Retorno do apetite e reganho de peso importante em meses (SURMOUNT-4); piora glicêmica no diabetes.",
+   "reducao": "Pode ser suspensa sem redução; a redução gradual para dose de manutenção menor é uma alternativa para limitar o reganho. Após várias semanas sem aplicar, reiniciar por dose mais baixa (tolerância gastrointestinal).",
+   "troca": "De semaglutida ou liraglutida: iniciar na data da próxima aplicação prevista (ou no dia seguinte à última liraglutida), em geral com 2,5 ou 5 mg conforme a dose e a tolerância anteriores. Não associar agonistas de GLP-1."
+  },
+  "superdosagem": {
+   "toxicidade": "Baixa a moderada.",
+   "quadro": "Náuseas e vômitos intensos e prolongados, desidratação; hipoglicemia rara sem insulina ou sulfonilureia. Erros de dose com produtos manipulados causaram internações.",
+   "conduta": "Suporte, hidratação, antiemético e glicemia seriada; observação prolongada pela meia-vida de cerca de 5 dias."
+  },
+  "pratica": {
+   "perolas": [
+    "É a opção de maior perda de peso, mas não há ensaio em usuários de antipsicóticos; a escolha na psiquiatria costuma ser feita com a endocrinologia, pesando custo e tolerância.",
+    "Em mulheres em idade fértil com contraceptivo oral (frequente com antipsicóticos que alteram o ciclo), combinar a troca de método antes de iniciar.",
+    "As mesmas precauções dos agonistas de GLP-1 valem aqui (tireoide, pancreatite, vesícula, anestesia, desidratação)."
+   ],
+   "erros": [
+    "Não orientar sobre falha do contraceptivo oral nas 4 semanas após início e após cada aumento.",
+    "Subir a dose a cada 4 semanas mesmo com náusea e vômitos."
+   ]
+  },
+  "fontes": [
+   "Bula Mounjaro (Anvisa)",
+   "Jastreboff AM et al. NEJM 2022 (SURMOUNT-1)",
+   "Aronne LJ et al. NEJM 2025 (SURMOUNT-5)",
+   "Malhotra A et al. NEJM 2024 (SURMOUNT-OSA)",
+   "Packer M et al. NEJM 2025 (SUMMIT)",
+   "EMA PRAC, abril de 2024 (ideação suicida)",
+   "Anvisa, retenção de receita de agonistas de GLP-1 (2025)"
+  ]
+ }
+]

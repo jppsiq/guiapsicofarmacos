@@ -1,0 +1,1075 @@
+{
+ "Alcoolismo": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno por uso de álcool",
+   "cid": "CID-10-MC (DSM-5-TR): F10.10 leve, F10.11 leve em remissão, F10.20 moderado ou grave, F10.21 moderado ou grave em remissão; CID-11 6C40.1 (padrão nocivo), 6C40.2 (dependência de álcool)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Padrão problemático de uso de álcool que leva a prejuízo ou sofrimento clinicamente significativo, com pelo menos 2 dos 11 itens abaixo em um período de 12 meses:",
+     "sub": [
+      "1. O álcool é usado com frequência em quantidade maior ou por mais tempo do que o pretendido.",
+      "2. Desejo persistente ou esforços malsucedidos de reduzir ou controlar o uso.",
+      "3. Muito tempo gasto em atividades para obter álcool, beber ou se recuperar dos efeitos.",
+      "4. Fissura: desejo forte ou urgência de usar.",
+      "5. Uso recorrente que leva ao fracasso em cumprir obrigações importantes no trabalho, na escola ou em casa.",
+      "6. Uso continuado apesar de problemas sociais ou interpessoais persistentes ou recorrentes causados ou agravados pelos efeitos da substância.",
+      "7. Abandono ou redução de atividades sociais, profissionais ou recreativas importantes por causa do uso.",
+      "8. Uso recorrente em situações de risco à integridade física (dirigir, nadar, operar máquinas).",
+      "9. Uso mantido apesar de saber que tem problema físico ou psicológico persistente ou recorrente provavelmente causado ou agravado pela substância.",
+      "10. Tolerância, por (a) necessidade de quantidades progressivamente maiores para obter a intoxicação ou o efeito desejado, ou (b) efeito acentuadamente menor com a mesma quantidade.",
+      "11. Abstinência, por (a) síndrome de abstinência característica da substância, ou (b) uso da substância ou de outra estreitamente relacionada, como benzodiazepínico, para aliviar ou evitar os sintomas de abstinência."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Em remissão inicial: critérios completos preenchidos no passado e nenhum critério (exceto fissura, A4) por pelo menos 3 meses e menos de 12 meses.",
+    "Em remissão sustentada: nenhum critério (exceto fissura, A4) por 12 meses ou mais.",
+    "Em ambiente protegido: especificador adicional de remissão quando o acesso à substância é restrito (prisão sem drogas, comunidade terapêutica, unidade fechada).",
+    "Gravidade atual: leve (2 ou 3 sintomas), moderada (4 ou 5), grave (6 ou mais).",
+    "A evolução da gravidade também pode ser acompanhada pela frequência (dias de uso por mês) e pela quantidade (doses padrão por dia), por autorrelato, informantes, observação clínica e marcadores laboratoriais."
+   ],
+   "notas": [
+    "Não há critério de quantidade: o diagnóstico depende do descontrole e das consequências, não do volume consumido.",
+    "Diferente de opioides, sedativos e estimulantes, o DSM-5-TR não traz para o álcool a nota que desconsidera tolerância e abstinência sob supervisão médica.",
+    "Quando há também intoxicação, abstinência ou transtorno mental induzido pela substância, o DSM-5-TR não codifica o transtorno por uso à parte: a gravidade do uso passa a ser indicada no código do quadro induzido. Exemplos: F10.129 (uso leve com intoxicação) e F10.229 (uso moderado ou grave com intoxicação).",
+    "Consumo de risco (sem transtorno) também merece intervenção breve: para o NIAAA, mais de 14 doses por semana ou 4 por ocasião em homens; mais de 7 por semana ou 3 por ocasião em mulheres. Uma dose padrão tem cerca de 14 g de etanol no padrão americano (no Brasil costuma-se usar 10 a 14 g).",
+    "A CID-11 separa o padrão nocivo (dano à saúde própria ou a terceiros, sem dependência) da dependência, que exige 2 de 3 elementos: descontrole, prioridade crescente do uso e sinais fisiológicos (tolerância, abstinência, uso para aliviá-la), em geral por 12 meses ou de forma contínua por 3 meses.",
+    "Sintomas depressivos e ansiosos que surgem durante o uso pesado costumam melhorar em 2 a 4 semanas de abstinência; reavaliar antes de diagnosticar transtorno independente, salvo gravidade ou risco de suicídio."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "É o transtorno por uso de substância de maior impacto em saúde pública: no NESARC-III (Grant, 2015) a prevalência em 12 meses foi de cerca de 14% e ao longo da vida de 29% em adultos americanos, e menos de 1 em cada 5 recebeu qualquer tratamento. O curso é recorrente, com períodos de abstinência, recaída e uso controlado; a maioria das remissões ocorre sem tratamento formal, mas os casos graves que chegam ao psiquiatra têm recaída de 60 a 70% no primeiro ano.\n\nA mortalidade é elevada por hepatopatia, câncer, acidentes, violência e suicídio. O álcool é fator de risco para mais de 200 doenças, e o uso pesado reduz a expectativa de vida em mais de uma década nos casos graves."
+   },
+   {
+    "titulo": "Neurobiologia e mecanismo dos fármacos",
+    "texto": "O álcool potencializa o GABA-A e inibe o receptor NMDA; o uso crônico produz neuroadaptação oposta (menos GABA, mais glutamato), que explica tolerância, abstinência e o estado de hiperexcitabilidade que persiste por meses (abstinência prolongada), com insônia, ansiedade e fissura. O reforço positivo depende em parte da liberação de opioides endógenos e dopamina no estriado ventral.\n\nA naltrexona bloqueia o receptor mu e atenua a recompensa do beber: funciona melhor para reduzir o beber pesado e o efeito de 'um gole leva ao próximo'. O acamprosato modula o sistema glutamatérgico hiperativo e ajuda a manter a abstinência já iniciada. O topiramato (GABA-A e AMPA/cainato) e a gabapentina (canais de cálcio alfa-2-delta) atuam sobre a hiperexcitabilidade e a fissura. O dissulfiram bloqueia a aldeído desidrogenase e age por aversão e expectativa, não sobre a fissura."
+   },
+   {
+    "titulo": "O que dizem os ensaios",
+    "texto": "A metanálise de Jonas (JAMA, 2014) mostrou NNT de cerca de 12 para o acamprosato evitar retorno a qualquer consumo e de cerca de 12 para a naltrexona oral 50 mg evitar retorno ao beber pesado, sem diferença significativa entre os dois em comparações diretas. No COMBINE (Anton, 2006), a naltrexona com manejo médico foi eficaz e o acamprosato não superou o placebo, provavelmente por incluir pacientes pouco graves e sem abstinência prévia; os estudos europeus positivos do acamprosato incluíam pacientes desintoxicados e com meta de abstinência.\n\nO topiramato reduziu dias de consumo pesado em ensaio multicêntrico (Johnson, 2007), sem exigir abstinência prévia. A gabapentina teve efeito dose-dependente (Mason, 2014), maior em pacientes com sintomas intensos de abstinência (Anton, 2020). O baclofeno teve resultados contraditórios (Addolorato 2007 positivo em cirróticos; ALPADIR negativo; BACLAD positivo). O dissulfiram só supera outros fármacos em ensaios abertos com tomada supervisionada; nos cegos, a vantagem desaparece."
+   },
+   {
+    "titulo": "Raciocínio na escolha",
+    "texto": "APA 2018 e as diretrizes de VA/DoD indicam naltrexona ou acamprosato como primeira linha e topiramato ou gabapentina como segunda; dissulfiram fica para quem tem meta de abstinência completa, compreende os riscos e tem supervisão da tomada. Na prática: quer reduzir e ainda bebe, naltrexona ou topiramato; já está abstinente e quer se manter, acamprosato ou naltrexona; usa opioide ou tem dor crônica com opioide, acamprosato, topiramato ou gabapentina.\n\nNo Brasil, naltrexona e dissulfiram são os disponíveis com mais facilidade; o acamprosato tem acesso restrito. A hepatopatia não contraindica a naltrexona em doença compensada com transaminases até 3 a 5 vezes o limite, mas na cirrose descompensada preferem-se acamprosato (ajustar pela função renal) e baclofeno."
+   },
+   {
+    "titulo": "Comorbidades que mudam a conduta",
+    "texto": "Depressão e ansiedade: esperar 2 a 4 semanas de abstinência para diferenciar quadro induzido de primário, salvo gravidade; ISRS isolados não reduzem o consumo e a sertralina pode piorar o beber em subgrupos de início precoce. TEPT: tratar em paralelo (terapias focadas no trauma não precisam esperar abstinência completa). Tabagismo: a vareniclina reduz os dois consumos e parar de fumar não piora o prognóstico do álcool.\n\nTranstorno bipolar: lítio ou valproato para o humor; o valproato tem dados modestos de redução do consumo. Uso de benzodiazepínicos: evitar prescrição de manutenção pelo risco de depressão respiratória e de troca de dependência. Hepatopatia alcoólica: meta de abstinência completa e articulação com a hepatologia."
+   },
+   {
+    "titulo": "Armadilhas de interpretação",
+    "texto": "Negar o problema não exclui o diagnóstico: usar informantes, AUDIT, GGT, VCM e, quando disponível, fosfatidiletanol (PEth), mais sensível e específico que os marcadores clássicos. Exigir abstinência como condição para iniciar naltrexona ou para manter o seguimento reduz adesão sem melhorar o resultado; a redução do beber pesado é desfecho válido (FDA e EMA a aceitam).\n\nDissulfiram prescrito sem consentimento informado ou dado escondido na comida é antiético e perigoso. Sintomas de abstinência não tratados levam a recaída precoce; tratar a abstinência é apenas o primeiro passo, e a alta sem farmacoterapia de prevenção de recaída é um erro frequente."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Explicar que é uma doença tratável, que os remédios diminuem a vontade e as recaídas mas não substituem a mudança de rotina e o apoio, e que um deslize não significa fracasso do tratamento. Combinar metas mensuráveis (dias sem beber, dias de beber pesado) e revisá-las a cada consulta.\n\nA manutenção da farmacoterapia por pelo menos 6 a 12 meses e o engajamento em grupos de ajuda mútua (Alcoólicos Anônimos: revisão Cochrane de Kelly, 2020, com maior taxa de abstinência que outras abordagens) melhoram o prognóstico. Um ano de abstinência reduz muito o risco de recaída subsequente."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Desintoxicação",
+    "duracao": "5 a 10 dias",
+    "objetivo": "Tratar a abstinência com segurança, repor tiamina e engajar no seguimento"
+   },
+   {
+    "fase": "Prevenção de recaída inicial",
+    "duracao": "3 a 6 meses",
+    "objetivo": "Iniciar naltrexona, acamprosato ou alternativa, psicoterapia e grupo; maior risco de recaída"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "6 a 12 meses ou mais",
+    "objetivo": "Manter fármaco eficaz, consolidar abstinência ou consumo de baixo risco e tratar comorbidades"
+   },
+   {
+    "fase": "Recuperação de longo prazo",
+    "duracao": "Anos",
+    "objetivo": "Seguimento espaçado, ajuda mútua e plano de ação para deslizes"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar e tratar a abstinência",
+    "acao": "AUDIT, gravidade (número de critérios), risco de abstinência complicada (PAWSS), função hepática e renal, uso de opioides; desintoxicação com benzodiazepínico e tiamina quando indicada.",
+    "se_falha": "Abstinência grave, convulsão ou delirium prévio: desintoxicação hospitalar"
+   },
+   {
+    "passo": "Primeira linha",
+    "acao": "Naltrexona 50 mg/dia (meta de redução ou abstinência; sem uso de opioide) ou acamprosato 666 mg três vezes ao dia (abstinência já iniciada; 1.332 mg/dia se menos de 60 kg ou ClCr 30 a 50). Associar entrevista motivacional, TCC ou facilitação de 12 passos.",
+    "se_falha": "Sem redução de dias de beber pesado após 8 a 12 semanas com boa adesão"
+   },
+   {
+    "passo": "Trocar ou associar",
+    "acao": "Trocar naltrexona por acamprosato ou vice-versa; a combinação é aceitável e segura, embora sem ganho claro no COMBINE.",
+    "se_falha": "Persistência de consumo pesado após mais 8 a 12 semanas"
+   },
+   {
+    "passo": "Segunda linha",
+    "acao": "Topiramato titulado de 25 mg até 200 a 300 mg/dia em 8 semanas ou gabapentina 900 a 1.800 mg/dia (útil com insônia e abstinência prolongada). Dissulfiram 250 mg/dia com tomada supervisionada se a meta for abstinência completa e não houver cardiopatia ou cirrose.",
+    "se_falha": "Falha de dois ou mais fármacos"
+   },
+   {
+    "passo": "Situações especiais e encaminhamento",
+    "acao": "Cirrose: baclofeno 30 a 80 mg/dia ou acamprosato, com hepatologia. Fumante: vareniclina. Encaminhar a CAPS AD ou serviço especializado; considerar internação ou comunidade terapêutica em caso de recaídas graves repetidas.",
+    "se_falha": "Tratamento integrado de longo prazo em serviço especializado"
+   }
+  ]
+ },
+ "Abstinência alcoólica": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): abstinência de álcool",
+   "cid": "CID-10-MC (DSM-5-TR): sem perturbações da percepção F10.130 (com uso leve), F10.230 (com uso moderado ou grave), F10.930 (sem transtorno por uso); com perturbações da percepção F10.132, F10.232, F10.932; CID-11 6C40.4 (abstinência de álcool)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Interrupção ou redução do uso de álcool que vinha sendo intenso e prolongado."
+    },
+    {
+     "r": "B",
+     "t": "Pelo menos 2 dos sintomas a seguir, surgindo de algumas horas a alguns dias após A:",
+     "sub": [
+      "1. Hiperatividade autonômica (sudorese, frequência cardíaca acima de 100 bpm).",
+      "2. Aumento do tremor das mãos.",
+      "3. Insônia.",
+      "4. Náuseas ou vômitos.",
+      "5. Alucinações ou ilusões visuais, táteis ou auditivas transitórias.",
+      "6. Agitação psicomotora.",
+      "7. Ansiedade.",
+      "8. Convulsões tônico-clônicas generalizadas."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "Os sinais ou sintomas causam sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas importantes."
+    },
+    {
+     "r": "D",
+     "t": "Não são atribuíveis a outra condição médica nem mais bem explicados por outro transtorno mental, incluindo intoxicação ou abstinência de outra substância."
+    }
+   ],
+   "especificadores": [
+    "Com perturbações da percepção: casos raros de alucinações (em geral visuais ou táteis) com teste de realidade preservado, ou ilusões auditivas, visuais ou táteis sem delirium.",
+    "O código depende da comorbidade com transtorno por uso de álcool (leve, moderado ou grave, ou ausente) e da presença de perturbações da percepção."
+   ],
+   "notas": [
+    "Alucinações com sensório claro e sem crítica sugerem transtorno psicótico induzido por álcool (alucinose alcoólica), diagnóstico à parte.",
+    "Delirium por abstinência de álcool (delirium tremens) é diagnosticado separadamente quando há perturbação da atenção e da consciência com início na abstinência.",
+    "Curso típico: tremor, ansiedade e sintomas autonômicos em 6 a 24 horas; alucinose em 12 a 48 horas; convulsões em 6 a 48 horas (pico em 24 horas); delirium tremens em 48 a 96 horas, podendo durar até 7 dias.",
+    "Delirium tremens tem mortalidade de até 5% com tratamento adequado, maior sem tratamento.",
+    "Encefalopatia de Wernicke (critérios de Caine, 2 de 4): deficiência nutricional, alteração oculomotora, disfunção cerebelar, alteração do estado mental ou memória. A tríade completa aparece em menos de 20% dos casos: tratar pela suspeita."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "Cerca de metade das pessoas com transtorno por uso de álcool apresenta algum sintoma de abstinência ao parar, mas só 3 a 5% evoluem com convulsão ou delirium tremens. O risco é maior com história prévia de abstinência complicada, uso diário pesado prolongado, idade avançada, doença clínica aguda, hipocalemia, plaquetopenia e uso de outros depressores.\n\nOs episódios repetidos de abstinência tendem a ficar mais graves (efeito kindling), razão pela qual quem já teve convulsão ou delirium deve ser tratado de forma mais agressiva e, em geral, internado."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "O uso crônico reduz a função do receptor GABA-A e aumenta a de receptores NMDA e canais de cálcio. Ao retirar o álcool, sobra excitação glutamatérgica e noradrenérgica sem freio: tremor, taquicardia, hipertensão, convulsões e, no extremo, delirium.\n\nBenzodiazepínicos substituem o álcool no GABA-A (tolerância cruzada) e são os únicos com prova de redução de convulsões e de delirium (metanálise de Mayo-Smith para a ASAM). Fenobarbital age no GABA-A por outro sítio e inibe AMPA, útil quando há resistência aos benzodiazepínicos. Carbamazepina, gabapentina e valproato reduzem a hiperexcitabilidade e servem nos quadros leves, mas não têm prova de prevenção de delirium. Betabloqueadores e clonidina aliviam sintomas autonômicos, mas mascaram a gravidade e não previnem complicações; antipsicóticos baixam o limiar convulsivo."
+   },
+   {
+    "titulo": "Raciocínio clínico na escolha",
+    "texto": "A ASAM 2020 recomenda avaliar risco com a PAWSS (4 ou mais pontos indica risco alto de abstinência complicada) e gravidade com a CIWA-Ar (menos de 10 leve; 10 a 18 moderada; 19 ou mais grave). O tratamento guiado por sintomas reduz dose total e duração em comparação com esquema fixo (Saitz, 1994), mas exige equipe treinada e paciente capaz de relatar sintomas; esquema fixo decrescente ou dose de ataque são alternativas.\n\nDiazepam e clordiazepóxido, de meia-vida longa, dão cobertura suave e autorredução. Lorazepam é preferido na cirrose descompensada, em idosos e na insuficiência respiratória, pois não tem metabólitos ativos. Em quadros leves e ambulatoriais, carbamazepina ou gabapentina evitam o potencial de abuso do benzodiazepínico e podem ser mantidas depois como ponte para a prevenção de recaída."
+   },
+   {
+    "titulo": "Delirium tremens e abstinência resistente",
+    "texto": "Uma definição usada de abstinência resistente é a necessidade de doses muito altas de benzodiazepínico (por exemplo, mais de 50 mg de diazepam na primeira hora ou mais de 200 mg em 3 a 4 horas) sem controle dos sintomas. Nesses casos, a ASAM recomenda UTI e acréscimo de fenobarbital, ou propofol ou dexmedetomidina em pacientes intubados ou monitorizados; dexmedetomidina não trata a causa e não previne convulsões.\n\nHaloperidol só como adjuvante para alucinações ou agitação que persistem com sedação adequada. Corrigir hipoglicemia, eletrólitos (potássio, magnésio, fosfato) e hipovolemia, e investigar infecção, trauma craniano, hepatopatia descompensada e pancreatite, que frequentemente acompanham ou imitam o quadro."
+   },
+   {
+    "titulo": "Tiamina e Wernicke",
+    "texto": "A encefalopatia de Wernicke é subdiagnosticada: em necropsias, a maioria dos casos não havia sido reconhecida em vida. Toda pessoa com uso pesado de álcool deve receber tiamina antes da glicose; em risco alto (desnutrição, vômitos, internação), por via parenteral, porque a absorção oral é ruim no alcoolista.\n\nSuspeita de Wernicke (confusão, ataxia ou oftalmoplegia, mesmo isoladas) exige tiamina em dose alta, em geral 200 a 500 mg IV três vezes ao dia por 2 a 3 dias (EFNS 2010 recomenda 200 mg; protocolos britânicos usam 500 mg), seguida de 250 mg/dia. A síndrome de Korsakoff é a sequela amnéstica frequentemente irreversível do tratamento tardio."
+   },
+   {
+    "titulo": "Armadilhas e o que dizer ao paciente",
+    "texto": "Erros frequentes: tratar sintomas de abstinência como ansiedade primária; usar antipsicótico isolado para agitação; dar alta com benzodiazepínico para vários dias sem supervisão; esquecer outras causas de delirium; retirar tiamina cedo. A CIWA-Ar não é válida em paciente que não se comunica, e a sedação excessiva pode causar aspiração.\n\nAo paciente: explicar que a abstinência é tratável e dura poucos dias, que parar sozinho em casa após uso pesado pode ser perigoso, e que a desintoxicação não trata a dependência. Sair do hospital já com plano de prevenção de recaída (naltrexona, acamprosato, gabapentina) e consulta marcada reduz reinternações."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Precoce",
+    "duracao": "6 a 24 horas",
+    "objetivo": "Reconhecer, pontuar CIWA-Ar e PAWSS, dar tiamina e iniciar benzodiazepínico"
+   },
+   {
+    "fase": "Pico de risco",
+    "duracao": "24 a 72 horas",
+    "objetivo": "Prevenir convulsões e delirium tremens com dose guiada por sintomas; corrigir eletrólitos"
+   },
+   {
+    "fase": "Resolução",
+    "duracao": "3 a 7 dias",
+    "objetivo": "Reduzir e suspender o benzodiazepínico, manter tiamina e reavaliar humor e cognição"
+   },
+   {
+    "fase": "Transição",
+    "duracao": "Após a alta, semanas",
+    "objetivo": "Iniciar prevenção de recaída e seguimento ambulatorial"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Estratificar",
+    "acao": "PAWSS e CIWA-Ar, sinais vitais, glicemia, eletrólitos, história de convulsão ou delirium, comorbidades. Tiamina 100 a 300 mg/dia, parenteral se risco alto, antes da glicose.",
+    "se_falha": "PAWSS 4 ou mais, CIWA-Ar 19 ou mais, convulsão ou delirium prévio, doença clínica grave: internar"
+   },
+   {
+    "passo": "Abstinência leve ambulatorial",
+    "acao": "CIWA-Ar abaixo de 10: carbamazepina 200 mg três a quatro vezes ao dia com redução em 5 dias, ou gabapentina 300 a 600 mg três vezes ao dia, ou benzodiazepínico por poucos dias com familiar responsável; reavaliar diariamente.",
+    "se_falha": "CIWA-Ar subindo, vômitos, sem acompanhante ou incapaz de retornar: tratar em nível mais intensivo"
+   },
+   {
+    "passo": "Moderada a grave",
+    "acao": "Diazepam 10 a 20 mg VO a cada 1 a 2 horas enquanto CIWA-Ar 10 ou mais (ou clordiazepóxido 50 a 100 mg); lorazepam 1 a 4 mg a cada 4 a 6 horas na cirrose, idosos e insuficiência respiratória. Reduzir em 3 a 5 dias.",
+    "se_falha": "Mais de 200 mg de diazepam em 3 a 4 horas sem controle ou delirium instalado"
+   },
+   {
+    "passo": "Delirium tremens ou resistência",
+    "acao": "UTI, benzodiazepínico IV em bolus escalonados, fenobarbital como adjuvante, propofol ou dexmedetomidina se intubado ou monitorizado; haloperidol só para alucinações persistentes. Tiamina 500 mg IV três vezes ao dia se suspeita de Wernicke.",
+    "se_falha": "Investigar causa associada (infecção, TCE, encefalopatia hepática, hipoglicemia)"
+   },
+   {
+    "passo": "Prevenção de recaída",
+    "acao": "Antes da alta, iniciar naltrexona, acamprosato ou gabapentina e encaminhar a CAPS AD ou ambulatório.",
+    "se_falha": "Seguir o algoritmo do transtorno por uso de álcool"
+   }
+  ]
+ },
+ "Dependência de opioides": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno por uso de opioides",
+   "cid": "CID-10-MC (DSM-5-TR): F11.10 leve, F11.11 leve em remissão, F11.20 moderado ou grave, F11.21 moderado ou grave em remissão; CID-11 6C43.2 (dependência de opioides)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Padrão problemático de uso de opioides que leva a prejuízo ou sofrimento clinicamente significativo, com pelo menos 2 dos 11 itens abaixo em um período de 12 meses:",
+     "sub": [
+      "1. O opioide é usado com frequência em quantidade maior ou por mais tempo do que o pretendido.",
+      "2. Desejo persistente ou esforços malsucedidos de reduzir ou controlar o uso.",
+      "3. Muito tempo gasto em atividades para obter o opioide, usá-lo ou se recuperar dos efeitos.",
+      "4. Fissura: desejo forte ou urgência de usar.",
+      "5. Uso recorrente que leva ao fracasso em cumprir obrigações importantes no trabalho, na escola ou em casa.",
+      "6. Uso continuado apesar de problemas sociais ou interpessoais persistentes ou recorrentes causados ou agravados pelos efeitos da substância.",
+      "7. Abandono ou redução de atividades sociais, profissionais ou recreativas importantes por causa do uso.",
+      "8. Uso recorrente em situações de risco à integridade física (dirigir, operar máquinas).",
+      "9. Uso mantido apesar de saber que tem problema físico ou psicológico persistente ou recorrente provavelmente causado ou agravado pela substância.",
+      "10. Tolerância, por (a) necessidade de quantidades progressivamente maiores para obter a intoxicação ou o efeito desejado, ou (b) efeito acentuadamente menor com a mesma quantidade.",
+      "11. Abstinência, por (a) síndrome de abstinência característica da substância, ou (b) uso da substância ou de outra estreitamente relacionada para aliviar ou evitar os sintomas de abstinência."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Em remissão inicial: critérios completos preenchidos no passado e nenhum critério (exceto fissura, A4) por pelo menos 3 meses e menos de 12 meses.",
+    "Em remissão sustentada: nenhum critério (exceto fissura, A4) por 12 meses ou mais.",
+    "Em ambiente protegido: especificador adicional de remissão quando o acesso à substância é restrito (prisão sem drogas, comunidade terapêutica, unidade fechada).",
+    "Em terapia de manutenção: em uso de agonista prescrito (metadona, buprenorfina), agonista parcial, agonista/antagonista ou antagonista (naltrexona oral ou de depósito), sem nenhum critério para essa classe exceto tolerância ou abstinência ao próprio agonista. Pode coexistir com os especificadores de remissão.",
+    "Gravidade atual: leve (2 ou 3 sintomas), moderada (4 ou 5), grave (6 ou mais)."
+   ],
+   "notas": [
+    "Tolerância (A10) e abstinência (A11) são desconsideradas quando o uso de opioide se dá unicamente sob supervisão médica adequada (dor crônica, por exemplo): nesse caso, o diagnóstico exige os demais critérios.",
+    "Fissura isolada não impede a classificação de remissão.",
+    "Quando há também intoxicação, abstinência ou transtorno mental induzido pela substância, o DSM-5-TR não codifica o transtorno por uso à parte: a gravidade do uso passa a ser indicada no código do quadro induzido. Exemplos: F11.14 (uso leve com transtorno depressivo induzido) e F11.24 (uso moderado ou grave com transtorno depressivo induzido).",
+    "No Brasil predominam o uso indevido de opioides prescritos (codeína, tramadol, morfina, oxicodona, fentanil hospitalar) e o uso entre profissionais de saúde; a heroína é rara."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A epidemia americana passou por três ondas (opioides prescritos, heroína e fentanil ilícito), com mais de 80 mil mortes por sobredose de opioides por ano no pico. No Brasil o padrão é outro: uso indevido de codeína, tramadol e opioides hospitalares, com profissionais de saúde super-representados, mas a prescrição de opioides cresceu e a vigilância sobre fentanil e nitazenos é crescente.\n\nÉ uma doença crônica e recidivante: sem tratamento de manutenção, mais de 90% recaem após a desintoxicação, e a mortalidade é 6 a 20 vezes a da população geral. Os momentos de maior risco de morte são as semanas após sair de prisão, internação ou desintoxicação, quando a tolerância caiu."
+   },
+   {
+    "titulo": "Neurobiologia e como os fármacos agem",
+    "texto": "Opioides agem no receptor mu: euforia, analgesia e depressão respiratória. O uso crônico leva a tolerância e dependência física com hiperatividade noradrenérgica do locus coeruleus na retirada, e a disforia de abstinência passa a sustentar o uso (reforço negativo).\n\nA metadona é agonista mu completo de meia-vida longa (24 a 36 horas, muito variável), que estabiliza o receptor sem picos e vales; também é antagonista NMDA e prolonga o QTc. A buprenorfina é agonista parcial de alta afinidade, com efeito teto sobre a depressão respiratória e bloqueio de outros opioides, mas pode precipitar abstinência se iniciada com o receptor ocupado. A naltrexona é antagonista completo: bloqueia a recompensa, mas não trata a disforia nem a fissura de base, e a perda de tolerância aumenta o risco de sobredose na recaída."
+   },
+   {
+    "titulo": "Evidências que sustentam a manutenção",
+    "texto": "Revisões Cochrane (Mattick 2009 e 2014) mostram que metadona e buprenorfina retêm mais pacientes e reduzem uso de heroína; metadona em dose adequada retém um pouco mais. A metanálise de coortes de Sordo (BMJ, 2017) mostrou que a mortalidade por todas as causas cai para cerca de um terço durante o tratamento com metadona e para menos da metade com buprenorfina, com risco máximo nas 4 primeiras semanas da indução com metadona e nas 4 semanas após interromper o tratamento.\n\nNo X:BOT (Lee, 2018), naltrexona de depósito e buprenorfina com naloxona tiveram resultados semelhantes entre os que conseguiram iniciar, mas cerca de 28% não conseguiram completar a desintoxicação exigida para a naltrexona. Doses de metadona de 80 a 120 mg/dia retêm mais que doses abaixo de 60 mg; na era do fentanil, muitos precisam de doses mais altas."
+   },
+   {
+    "titulo": "Raciocínio na escolha e realidade brasileira",
+    "texto": "ASAM 2020, OMS e NICE recomendam oferecer metadona ou buprenorfina a todos, sem prazo máximo de tratamento, e naltrexona de depósito como alternativa para quem já está abstinente e prefere antagonista. A naltrexona oral só é razoável com tomada supervisionada e alta motivação. A desintoxicação isolada não é tratamento.\n\nNo Brasil, só há metadona oral (comprimidos) e buprenorfina em adesivo para dor; buprenorfina sublingual, buprenorfina com naloxona e naltrexona de depósito não estão disponíveis. Isso faz da metadona a principal opção de manutenção, apesar de poucos serviços estruturados. A buprenorfina transdérmica não substitui a sublingual na dependência, pelas doses baixas e falta de estudos."
+   },
+   {
+    "titulo": "Comorbidades e situações especiais",
+    "texto": "Dor crônica: manter o agonista e dividir a metadona em 2 a 3 tomadas; evitar naltrexona. Gestação: metadona ou buprenorfina, nunca desintoxicação; a síndrome de abstinência neonatal é tratável e não justifica suspender. Uso de benzodiazepínicos ou álcool: não é motivo para negar o agonista (a FDA desaconselha negar tratamento), mas exige cautela, naloxona e monitorização.\n\nHepatite C e HIV: rastrear e tratar; o tratamento de manutenção melhora a adesão aos antivirais. QTc: ECG antes e após atingir dose estável da metadona e acima de 100 mg/dia; atenção a interações (fluconazol, ciprofloxacino e alguns antirretrovirais elevam o nível; rifampicina, carbamazepina e fenitoína reduzem, com risco de abstinência)."
+   },
+   {
+    "titulo": "Armadilhas",
+    "texto": "Doses de manutenção baixas por receio de 'trocar uma droga por outra' aumentam abandono e sobredose. Aumentar a metadona depressa na indução mata: o nível acumula por 5 a 7 dias. Interpretar sedação na primeira semana como tolerância e seguir aumentando é erro grave.\n\nSuspender o tratamento como punição por testes positivos piora o desfecho; a resposta adequada é intensificar. Não prescrever naloxona para casa e não orientar a família sobre sinais de sobredose também é falha comum."
+   },
+   {
+    "titulo": "O que dizer ao paciente",
+    "texto": "Explicar que o tratamento com metadona é tratamento de uma doença crônica, como a insulina no diabetes, que reduz pela metade ou mais o risco de morrer, e que a duração é indefinida; a retirada só deve ser considerada após estabilidade prolongada (em geral mais de 1 a 2 anos), de forma lenta e com possibilidade de voltar.\n\nOrientar sobre o risco de sobredose na perda de tolerância, sobre não misturar com álcool ou benzodiazepínicos e sobre dirigir apenas após dose estável sem sedação."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Indução",
+    "duracao": "1 a 2 semanas",
+    "objetivo": "Aliviar a abstinência com segurança, sem sedação; fase de maior risco de sobredose com metadona"
+   },
+   {
+    "fase": "Estabilização",
+    "duracao": "4 a 12 semanas",
+    "objetivo": "Atingir a dose que suprime abstinência, fissura e uso ilícito (em geral 60 a 120 mg de metadona)"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "Indefinida, no mínimo 1 a 2 anos",
+    "objetivo": "Reabilitação psicossocial, tratamento de comorbidades e redução de mortalidade"
+   },
+   {
+    "fase": "Retirada opcional",
+    "duracao": "Meses",
+    "objetivo": "Apenas se estável e por desejo do paciente; redução lenta com retorno rápido se houver recaída"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar e reduzir danos",
+    "acao": "Padrão de uso, via, uso de álcool e benzodiazepínicos, gestação, ECG (QTc), HIV, hepatites B e C. Naloxona e orientação sobre sobredose para paciente e família.",
+    "se_falha": "Gestante, comorbidade grave ou uso de múltiplos depressores: serviço especializado"
+   },
+   {
+    "passo": "Indução com metadona",
+    "acao": "10 a 30 mg no primeiro dia (máximo 40 mg), após sinais objetivos de abstinência; aumentar cerca de 5 mg a cada 5 dias ou mais conforme sintomas, sem sedação (o nível acumula por 5 a 7 dias).",
+    "se_falha": "Persistência de abstinência, fissura ou uso ilícito após 2 a 4 semanas"
+   },
+   {
+    "passo": "Otimizar a dose",
+    "acao": "Chegar a 60 a 120 mg/dia (mais em usuários de fentanil); tomada supervisionada no início; ECG com dose estável e acima de 100 mg/dia; intensificar suporte psicossocial.",
+    "se_falha": "QTc acima de 500 ms, efeitos adversos ou uso persistente apesar de dose adequada"
+   },
+   {
+    "passo": "Alternativas",
+    "acao": "Buprenorfina sublingual 16 a 24 mg/dia onde disponível (não comercializada no Brasil); dividir a dose de metadona se metabolizador rápido; naltrexona 50 mg/dia supervisionada após 7 a 10 dias sem opioide para quem prefere antagonista.",
+    "se_falha": "Recaídas graves repetidas"
+   },
+   {
+    "passo": "Encaminhar e manter",
+    "acao": "CAPS AD ou programa de manutenção; manter por tempo indefinido e retirar só com estabilidade prolongada, em redução lenta.",
+    "se_falha": "Recaída na retirada: retomar a dose eficaz"
+   }
+  ]
+ },
+ "Abstinência de opioides": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): abstinência de opioides",
+   "cid": "CID-10-MC (DSM-5-TR): F11.13 (com uso leve), F11.23 (com uso moderado ou grave), F11.93 (sem transtorno por uso, por exemplo uso apenas sob supervisão médica); CID-11 6C43.4 (abstinência de opioides)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Uma das situações:",
+     "sub": [
+      "1. Interrupção ou redução de uso de opioides pesado e prolongado (algumas semanas ou mais).",
+      "2. Administração de antagonista de opioides após um período de uso de opioides."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Pelo menos 3 dos sintomas a seguir, surgindo de minutos a alguns dias após A:",
+     "sub": [
+      "1. Humor disfórico.",
+      "2. Náuseas ou vômitos.",
+      "3. Dores musculares.",
+      "4. Lacrimejamento ou rinorreia.",
+      "5. Midríase, piloereção ou sudorese.",
+      "6. Diarreia.",
+      "7. Bocejos.",
+      "8. Febre.",
+      "9. Insônia."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "Os sinais ou sintomas causam sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas importantes."
+    },
+    {
+     "r": "D",
+     "t": "Não são atribuíveis a outra condição médica nem mais bem explicados por outro transtorno mental, incluindo intoxicação ou abstinência de outra substância."
+    }
+   ],
+   "notas": [
+    "O DSM-5-TR cita no critério A2 apenas o antagonista; na prática, a buprenorfina (agonista parcial de alta afinidade) iniciada com o receptor ocupado também precipita abstinência abrupta e intensa.",
+    "Opioides de curta ação (heroína, morfina, oxicodona): início em 8 a 24 horas, pico em 36 a 72 horas, duração de 5 a 10 dias.",
+    "Metadona: início em 36 a 48 horas, pico no 3.º a 5.º dia, duração de 2 a 3 semanas ou mais. Fentanil (lipofílico) pode ter início tardio e curso imprevisível.",
+    "Sintomas prolongados (insônia, disforia, fissura) podem persistir por meses e favorecem a recaída.",
+    "Em adultos saudáveis raramente é fatal, mas vômitos e diarreia podem causar desidratação e distúrbios eletrolíticos; em gestantes, a abstinência aumenta risco fetal."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Fisiopatologia e apresentação",
+    "texto": "Com o uso crônico, o locus coeruleus aumenta a produção de AMPc para compensar a inibição do receptor mu; ao retirar o opioide, a descarga noradrenérgica produz a maior parte dos sinais (midríase, sudorese, piloereção, taquicardia, diarreia, rinorreia). A disforia, a fissura e a insônia dependem de vias dopaminérgicas e de estresse (CRF) e explicam a recaída.\n\nOs sinais objetivos são pontuados pela COWS: 5 a 12 leve, 13 a 24 moderada, 25 a 36 moderadamente grave e mais de 36 grave. Diferente da abstinência de álcool e de benzodiazepínicos, não causa convulsões nem delirium em adultos; convulsão sugere outra causa (abstinência de sedativos associada, tramadol, hiponatremia)."
+   },
+   {
+    "titulo": "Como os tratamentos agem e o que dizem as revisões",
+    "texto": "Agonistas (metadona, buprenorfina) substituem o opioide e aliviam todos os componentes, inclusive a disforia. Revisões Cochrane de Gowing mostram que a buprenorfina é mais eficaz que a clonidina ou lofexidina em aliviar sintomas e em completar a desintoxicação, e semelhante à metadona em redução gradual.\n\nAgonistas alfa-2 (clonidina, lofexidina) reduzem a descarga noradrenérgica e aliviam sudorese, cólicas e ansiedade, mas pouco atuam sobre mialgia, insônia e fissura, e a clonidina causa hipotensão. Os sintomáticos completam o manejo. A ASAM 2020 recomenda preferir agonistas aos alfa-2 e, sempre que possível, manter o agonista como tratamento de manutenção em vez de retirá-lo."
+   },
+   {
+    "titulo": "Raciocínio na escolha",
+    "texto": "A pergunta central é: desintoxicar para quê? Como a desintoxicação isolada tem recaída acima de 90% e aumenta o risco de morte por sobredose pela perda de tolerância, a primeira oferta deve ser a manutenção com agonista. A retirada programada fica para quem recusa manutenção após informação, para dependência leve de opioide prescrito, ou como ponte para naltrexona.\n\nNo Brasil, a metadona oral é o agonista disponível; buprenorfina sublingual não é comercializada, e lofexidina também não. A clonidina é a opção não opioide. Em paciente internado por outro motivo (infecção, cirurgia, parto), tratar a abstinência com metadona evita alta a pedido e uso ilícito no hospital."
+   },
+   {
+    "titulo": "Situações especiais",
+    "texto": "Gestantes: não desintoxicar; iniciar ou manter metadona, pois a abstinência materna causa sofrimento fetal e a recaída é a regra. Dor aguda em paciente em manutenção: manter a dose basal e acrescentar analgesia multimodal e opioide de curta ação em dose maior que a habitual, pela tolerância.\n\nFentanil: a abstinência pode começar tarde e a indução com buprenorfina precipita abstinência com mais frequência; esquemas de microdoses (método de Berna) e indução com metadona são alternativas. Abstinência precipitada por naloxona na reversão de sobredose é breve, mas pode causar agitação, vômitos e aspiração: titular a naloxona pela respiração, não pela consciência."
+   },
+   {
+    "titulo": "Armadilhas e o que dizer ao paciente",
+    "texto": "Erros comuns: dar metadona antes de sinais objetivos em paciente que relata uso não confirmado; somar doses repetidas no primeiro dia sem considerar o acúmulo; usar benzodiazepínicos em dose alta para os sintomas; dar alta sem naloxona, sem seguimento e sem informar sobre a perda de tolerância.\n\nAo paciente: explicar que a abstinência é muito desconfortável, mas não é perigosa em adulto saudável; que o pior passa em 3 a 5 dias para opioides de curta ação; que a insônia e a fissura podem durar semanas; e que, se voltar a usar, deve usar muito menos do que antes, nunca sozinho, e ter naloxona por perto."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Início",
+    "duracao": "8 a 48 horas (até 2 a 4 dias com metadona)",
+    "objetivo": "Confirmar sinais objetivos (COWS) antes da primeira dose do agonista"
+   },
+   {
+    "fase": "Pico",
+    "duracao": "Dias 1 a 5",
+    "objetivo": "Controlar sintomas com agonista ou clonidina e sintomáticos; hidratar"
+   },
+   {
+    "fase": "Redução",
+    "duracao": "1 a 4 semanas",
+    "objetivo": "Reduzir o agonista gradualmente, se a opção for retirada"
+   },
+   {
+    "fase": "Pós-desintoxicação",
+    "duracao": "Meses",
+    "objetivo": "Manutenção com agonista ou naltrexona, naloxona para casa e seguimento; alto risco de sobredose"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar",
+    "acao": "Opioide usado, última dose, uso de álcool e benzodiazepínicos, gestação, COWS, sinais vitais, hidratação, ECG se for usar metadona.",
+    "se_falha": "Gestação, abstinência de álcool ou sedativos associada, comorbidade grave: internar"
+   },
+   {
+    "passo": "Oferecer manutenção",
+    "acao": "Discutir manutenção com metadona como primeira opção; se aceita, seguir a indução do tratamento de manutenção.",
+    "se_falha": "Paciente recusa manutenção após informação"
+   },
+   {
+    "passo": "Retirada com agonista",
+    "acao": "Metadona 10 a 20 mg com COWS de 8 a 12 ou mais, repetir 5 a 10 mg após 2 a 4 horas se necessário (até 30 a 40 mg nas primeiras 24 horas); estabilizar 2 a 3 dias e reduzir em 1 a 3 semanas ou mais. Buprenorfina onde disponível.",
+    "se_falha": "Recusa de agonista ou dependência leve"
+   },
+   {
+    "passo": "Retirada sem agonista",
+    "acao": "Clonidina 0,1 a 0,2 mg a cada 6 a 8 horas (até cerca de 1,2 mg/dia), suspendendo com PA abaixo de 90/60 mmHg ou bradicardia; retirar em 2 a 4 dias. Loperamida, ondansetrona, anti-inflamatório, hidroxizina ou trazodona como sintomáticos.",
+    "se_falha": "Sintomas intoleráveis: voltar à opção com agonista"
+   },
+   {
+    "passo": "Depois da retirada",
+    "acao": "Naltrexona 50 mg/dia após 7 a 10 dias sem opioide de curta ação (mais após metadona), naloxona para casa, seguimento em CAPS AD.",
+    "se_falha": "Recaída: retomar manutenção com agonista"
+   }
+  ]
+ },
+ "Tabagismo": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno por uso de tabaco e abstinência de tabaco",
+   "cid": "CID-10-MC (DSM-5-TR): Z72.0 uso leve, F17.200 moderado ou grave, F17.201 moderado ou grave em remissão, F17.203 abstinência de tabaco; CID-11 6C4A.2 (dependência de nicotina)",
+   "itens": [
+    {
+     "r": "Transtorno por uso de tabaco",
+     "t": "Padrão problemático de uso de tabaco que leva a prejuízo ou sofrimento clinicamente significativo, com pelo menos 2 dos 11 itens abaixo em um período de 12 meses:",
+     "sub": [
+      "1. O tabaco é usado com frequência em quantidade maior ou por mais tempo do que o pretendido.",
+      "2. Desejo persistente ou esforços malsucedidos de reduzir ou controlar o uso.",
+      "3. Muito tempo gasto em atividades para obter ou usar o tabaco.",
+      "4. Fissura: desejo forte ou urgência de usar.",
+      "5. Uso recorrente que leva ao fracasso em cumprir obrigações importantes no trabalho, na escola ou em casa.",
+      "6. Uso continuado apesar de problemas sociais ou interpessoais persistentes ou recorrentes causados ou agravados pelos efeitos do tabaco (discussões sobre o fumo, por exemplo).",
+      "7. Abandono ou redução de atividades sociais, profissionais ou recreativas importantes por causa do uso.",
+      "8. Uso recorrente em situações de risco à integridade física (fumar na cama, por exemplo).",
+      "9. Uso mantido apesar de saber que tem problema físico ou psicológico persistente ou recorrente provavelmente causado ou agravado pela substância.",
+      "10. Tolerância, por (a) necessidade de quantidades progressivamente maiores para obter o efeito desejado, ou (b) efeito acentuadamente menor com a mesma quantidade.",
+      "11. Abstinência, por (a) síndrome de abstinência característica da substância, ou (b) uso da substância ou de outra estreitamente relacionada, como nicotina, para aliviar ou evitar os sintomas de abstinência."
+     ]
+    },
+    {
+     "r": "Abstinência de tabaco",
+     "t": "A: uso diário de tabaco por pelo menos várias semanas. B: interrupção abrupta ou redução, seguida em até 24 horas de pelo menos 4 dos sinais ou sintomas abaixo. C: sofrimento ou prejuízo clinicamente significativo. D: não atribuíveis a outra condição médica nem mais bem explicados por outro transtorno mental, incluindo intoxicação ou abstinência de outra substância.",
+     "sub": [
+      "1. Irritabilidade, frustração ou raiva.",
+      "2. Ansiedade.",
+      "3. Dificuldade de concentração.",
+      "4. Aumento do apetite.",
+      "5. Inquietação.",
+      "6. Humor deprimido.",
+      "7. Insônia."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Em remissão inicial: critérios completos preenchidos no passado e nenhum critério (exceto fissura, A4) por pelo menos 3 meses e menos de 12 meses.",
+    "Em remissão sustentada: nenhum critério (exceto fissura, A4) por 12 meses ou mais.",
+    "Em ambiente protegido: especificador adicional de remissão quando o acesso à substância é restrito (prisão sem drogas, comunidade terapêutica, unidade fechada).",
+    "Em terapia de manutenção: uso prolongado de medicação de manutenção, como reposição de nicotina, sem nenhum critério para essa classe exceto tolerância ou abstinência à reposição. Pode coexistir com os especificadores de remissão.",
+    "Gravidade atual: leve (2 ou 3 sintomas), moderada (4 ou 5), grave (6 ou mais)."
+   ],
+   "notas": [
+    "Codificação própria: o uso leve recebe Z72.0 (e não há código de remissão para ele); a abstinência (F17.203) só é codificada com transtorno por uso moderado ou grave, porque o DSM-5-TR entende que ela só ocorre nesses casos.",
+    "Quando há também intoxicação, abstinência ou transtorno mental induzido pela substância, o DSM-5-TR não codifica o transtorno por uso à parte: a gravidade do uso passa a ser indicada no código do quadro induzido. Exemplo: F17.208 (uso moderado ou grave com transtorno do sono induzido por tabaco).",
+    "O critério 3 do tabaco não inclui o tempo de recuperação dos efeitos, diferente das outras substâncias.",
+    "Os sintomas de abstinência têm pico na primeira semana e duram 2 a 4 semanas; aumento do apetite e fissura podem persistir por meses.",
+    "Cigarros eletrônicos e produtos de tabaco aquecido também causam dependência de nicotina; sua comercialização é proibida no Brasil pela Anvisa.",
+    "A fumaça do tabaco (hidrocarbonetos policíclicos, não a nicotina) induz o CYP1A2: ao parar, sobem os níveis de clozapina, olanzapina, fluvoxamina, duloxetina, cafeína e outros."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e impacto",
+    "texto": "O tabaco mata metade dos usuários de longo prazo. No Brasil, a prevalência de fumantes adultos caiu de mais de 30% em 1989 para cerca de 10% nas capitais (Vigitel), um dos maiores sucessos de controle do mundo. Entre pessoas com transtornos mentais graves, porém, a prevalência é 2 a 4 vezes maior, e o tabaco é a principal causa da diferença de 10 a 20 anos na expectativa de vida.\n\nSem ajuda, apenas 3 a 5% das tentativas de parar duram 1 ano; aconselhamento com farmacoterapia eleva isso para 15 a 30%. A maioria dos fumantes precisa de várias tentativas, e cada tentativa é uma oportunidade de aprendizado, não um fracasso."
+   },
+   {
+    "titulo": "Neurobiologia e como os fármacos agem",
+    "texto": "A nicotina ativa receptores nicotínicos alfa-4-beta-2 na área tegmentar ventral e libera dopamina no nucleus accumbens; a dessensibilização e o aumento desses receptores explicam a tolerância e a abstinência entre cigarros. A queda rápida da nicotinemia gera fissura a cada 30 a 60 minutos, e o ritual do cigarro se torna gatilho condicionado.\n\nA vareniclina é agonista parcial alfa-4-beta-2: mantém liberação moderada de dopamina (alivia abstinência) e bloqueia o efeito do cigarro fumado (menos recompensa). A reposição de nicotina substitui a nicotina sem as toxinas da fumaça; o adesivo dá nível basal e as formas rápidas tratam a fissura aguda. A bupropiona inibe a recaptação de dopamina e noradrenalina e é antagonista nicotínico. A nortriptilina age por mecanismo noradrenérgico."
+   },
+   {
+    "titulo": "O que dizem os ensaios",
+    "texto": "No EAGLES (Anthenelli, Lancet 2016), com cerca de 8 mil fumantes com e sem transtorno psiquiátrico, a abstinência contínua nas semanas 9 a 12 foi de cerca de 33% com vareniclina, 23% com bupropiona e com adesivo e 13% com placebo, sem aumento de eventos neuropsiquiátricos graves; a FDA retirou o alerta em tarja em 2016. As metanálises em rede Cochrane (Cahill 2013; Livingstone-Banks 2023) colocam vareniclina e reposição combinada no topo, seguidas de bupropiona, nortriptilina e adesivo isolado.\n\nA ATS 2020 recomenda vareniclina em vez de adesivo ou bupropiona, iniciar mesmo em quem ainda não está pronto para parar, e estender além de 12 semanas. Em quem parou com vareniclina, mais 12 semanas reduzem a recaída (Tonstad, 2006). A associação de vareniclina com adesivo teve resultado superior à vareniclina isolada em alguns ensaios (Koegelenberg, 2014)."
+   },
+   {
+    "titulo": "Escolha e realidade brasileira",
+    "texto": "O Protocolo Clínico e Diretrizes Terapêuticas do tabagismo do Ministério da Saúde oferece no SUS abordagem cognitivo-comportamental em grupo, reposição de nicotina (adesivo, goma e pastilha) e bupropiona. A vareniclina de referência teve a comercialização suspensa no Brasil em 2021 (impureza nitrosamina), e a disponibilidade de genéricos é irregular: conferir antes de prescrever.\n\nNa prática: reposição combinada (adesivo de 21 mg se 20 ou mais cigarros por dia, mais goma ou pastilha para fissura) é a opção mais acessível e tão eficaz quanto a vareniclina isolada. Bupropiona combina bem com reposição e ajuda quando há depressão ou medo de ganhar peso. Nortriptilina é alternativa barata, limitada por efeitos anticolinérgicos e cardiotoxicidade."
+   },
+   {
+    "titulo": "Transtornos mentais e interações",
+    "texto": "Parar de fumar melhora ansiedade, depressão e estresse (Taylor, BMJ 2014, com tamanho de efeito semelhante ao de antidepressivos) e não descompensa esquizofrenia ou bipolaridade estáveis. O maior risco é farmacocinético: ao parar, cessa a indução do CYP1A2 em poucos dias e o nível de clozapina pode subir 50% ou mais, com sedação, convulsões ou toxicidade. Reduzir a clozapina (cerca de 25% na primeira semana, guiando-se por nível sérico) e a olanzapina, e vigiar sinais de toxicidade; a reposição de nicotina não induz o CYP1A2.\n\nNa internação psiquiátrica, onde o fumo é proibido, oferecer reposição desde a admissão reduz agitação atribuída a 'descompensação' e evita a interrupção abrupta sem ajuste de doses."
+   },
+   {
+    "titulo": "Armadilhas e o que dizer ao paciente",
+    "texto": "Subdosar a reposição (adesivo de 7 mg em quem fuma um maço) é causa frequente de falha. Suspender o tratamento em 4 semanas também. Não oferecer tratamento a pacientes com transtorno mental grave por medo de descompensação é um erro com grande custo em mortalidade.\n\nAo paciente: marcar uma data para parar; vareniclina começa 1 a 2 semanas antes da data; a vontade vem em ondas de poucos minutos e passa; o ganho de peso médio é de 4 a 5 kg e é muito menos danoso que fumar; um cigarro depois de parar aumenta muito a chance de recaída, mas não anula o que foi conquistado."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Preparação",
+    "duracao": "1 a 2 semanas",
+    "objetivo": "Motivação, data para parar, iniciar vareniclina ou bupropiona antes da data, planejar gatilhos"
+   },
+   {
+    "fase": "Cessação",
+    "duracao": "12 semanas",
+    "objetivo": "Abstinência completa com farmacoterapia em dose plena e aconselhamento semanal no início"
+   },
+   {
+    "fase": "Prevenção de recaída",
+    "duracao": "Mais 12 semanas ou além",
+    "objetivo": "Estender a farmacoterapia em quem teve dificuldade ou alto risco de recaída"
+   },
+   {
+    "fase": "Seguimento",
+    "duracao": "1 ano",
+    "objetivo": "Monitorar recaída, peso e ajustar doses de substratos do CYP1A2"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Perguntar e aconselhar",
+    "acao": "Registrar status tabágico em toda consulta, grau de dependência (Fagerström, tempo até o primeiro cigarro), tentativas prévias; aconselhamento breve e oferta de tratamento.",
+    "se_falha": "Não está pronto: entrevista motivacional e oferecer vareniclina ou reposição para reduzir até parar"
+   },
+   {
+    "passo": "Primeira linha",
+    "acao": "Vareniclina 0,5 mg/dia por 3 dias, 0,5 mg duas vezes ao dia por 4 dias, depois 1 mg duas vezes ao dia por 12 semanas; ou reposição combinada (adesivo 21 mg/24 horas mais goma ou pastilha de 2 a 4 mg conforme a fissura). Aconselhamento estruturado.",
+    "se_falha": "Sem abstinência após 4 a 6 semanas em dose plena, ou efeitos intoleráveis"
+   },
+   {
+    "passo": "Combinar ou trocar",
+    "acao": "Vareniclina com adesivo, ou bupropiona 150 mg/dia por 3 dias e depois 150 mg duas vezes ao dia com reposição combinada. Ajustar a dose do adesivo pela abstinência (até 42 mg em grandes fumantes, em serviço especializado).",
+    "se_falha": "Recaída apesar de combinação adequada"
+   },
+   {
+    "passo": "Alternativas",
+    "acao": "Nortriptilina 25 mg/dia titulada até 75 a 100 mg/dia (ECG em cardiopatas); prolongar tratamento por 6 a 12 meses; redução gradual com reposição antes de parar.",
+    "se_falha": "Encaminhar a programa especializado de tabagismo (SUS ou ambulatório de referência)"
+   }
+  ]
+ },
+ "Cocaína e estimulantes": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno por uso de estimulantes e abstinência de estimulantes",
+   "cid": "CID-10-MC (DSM-5-TR), uso: cocaína F14.10 leve, F14.11 leve em remissão, F14.20 moderado ou grave, F14.21 em remissão; substância tipo anfetamina ou outro estimulante F15.10, F15.11, F15.20, F15.21. Abstinência: cocaína F14.13, F14.23, F14.93; anfetamina ou outro estimulante F15.13, F15.23. CID-11 6C45 (cocaína), 6C46 (estimulantes, incluindo anfetaminas, metanfetamina e metcatinona)",
+   "itens": [
+    {
+     "r": "Transtorno por uso de estimulantes",
+     "t": "Padrão de uso de substância tipo anfetamina, cocaína ou outro estimulante que leva a prejuízo ou sofrimento clinicamente significativo, com pelo menos 2 dos 11 itens abaixo em um período de 12 meses:",
+     "sub": [
+      "1. O estimulante é usado com frequência em quantidade maior ou por mais tempo do que o pretendido.",
+      "2. Desejo persistente ou esforços malsucedidos de reduzir ou controlar o uso.",
+      "3. Muito tempo gasto em atividades para obter o estimulante, usá-lo ou se recuperar dos efeitos.",
+      "4. Fissura: desejo forte ou urgência de usar.",
+      "5. Uso recorrente que leva ao fracasso em cumprir obrigações importantes no trabalho, na escola ou em casa.",
+      "6. Uso continuado apesar de problemas sociais ou interpessoais persistentes ou recorrentes causados ou agravados pelos efeitos da substância.",
+      "7. Abandono ou redução de atividades sociais, profissionais ou recreativas importantes por causa do uso.",
+      "8. Uso recorrente em situações de risco à integridade física (dirigir, operar máquinas).",
+      "9. Uso mantido apesar de saber que tem problema físico ou psicológico persistente ou recorrente provavelmente causado ou agravado pela substância.",
+      "10. Tolerância, por (a) necessidade de quantidades progressivamente maiores para obter a intoxicação ou o efeito desejado, ou (b) efeito acentuadamente menor com a mesma quantidade.",
+      "11. Abstinência, por (a) síndrome de abstinência característica da substância, ou (b) uso da substância ou de outra estreitamente relacionada para aliviar ou evitar os sintomas de abstinência."
+     ]
+    },
+    {
+     "r": "Abstinência de estimulantes",
+     "t": "A: interrupção ou redução de uso prolongado de estimulante. B: humor disfórico e pelo menos 2 das alterações fisiológicas abaixo, de algumas horas a alguns dias após A. C: sofrimento ou prejuízo clinicamente significativo. D: não atribuíveis a outra condição médica nem mais bem explicados por outro transtorno mental, incluindo intoxicação ou abstinência de outra substância.",
+     "sub": [
+      "1. Fadiga.",
+      "2. Sonhos vívidos e desagradáveis.",
+      "3. Insônia ou hipersonia.",
+      "4. Aumento do apetite.",
+      "5. Retardo ou agitação psicomotora."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Especificar a substância: tipo anfetamina, cocaína ou outro estimulante (vale para o uso e para a abstinência).",
+    "Em remissão inicial: critérios completos preenchidos no passado e nenhum critério (exceto fissura, A4) por pelo menos 3 meses e menos de 12 meses.",
+    "Em remissão sustentada: nenhum critério (exceto fissura, A4) por 12 meses ou mais.",
+    "Em ambiente protegido: especificador adicional de remissão quando o acesso à substância é restrito (prisão sem drogas, comunidade terapêutica, unidade fechada).",
+    "Gravidade atual: leve (2 ou 3 sintomas), moderada (4 ou 5), grave (6 ou mais)."
+   ],
+   "notas": [
+    "Tolerância (A10) e abstinência (A11) não são consideradas quando o estimulante é usado unicamente sob supervisão médica adequada (metilfenidato ou anfetaminas no TDAH ou na narcolepsia).",
+    "Quando há também intoxicação, abstinência ou transtorno mental induzido pela substância, o DSM-5-TR não codifica o transtorno por uso à parte: a gravidade do uso passa a ser indicada no código do quadro induzido. Exemplos: F14.14 e F14.24 (uso de cocaína leve ou moderado a grave com transtorno depressivo induzido); F15.14 e F15.24 para anfetamina.",
+    "Na intoxicação, o DSM-5-TR permite especificar com perturbações da percepção (alucinações com teste de realidade preservado).",
+    "A abstinência (crash) é sobretudo psíquica: disforia intensa, anedonia e ideação suicida podem ocorrer nos primeiros dias.",
+    "Psicose induzida por estimulantes costuma remitir em dias a poucas semanas de abstinência; persistência além de 1 mês sugere transtorno psicótico primário."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "O Brasil é um dos maiores mercados de cocaína do mundo e o crack concentra os casos graves atendidos em CAPS AD, associados a vulnerabilidade social, situação de rua, violência e infecções (HIV, sífilis, hepatites, tuberculose). Metanfetamina é pouco comum no Brasil; anfetamínicos aparecem em anorexígenos e no uso não médico de estimulantes do TDAH.\n\nO crack e a cocaína injetada levam à dependência mais rápido que a aspirada, pelo pico cerebral em segundos e pela curta duração do efeito, que induz uso em binge. O curso é crônico e recidivante; a mortalidade por causas externas, cardiovasculares e infecciosas é alta."
+   },
+   {
+    "titulo": "Neurobiologia e por que não há fármaco aprovado",
+    "texto": "A cocaína bloqueia os transportadores de dopamina, noradrenalina e serotonina; anfetaminas e metanfetamina invertem esses transportadores e o VMAT2, liberando grandes quantidades de dopamina, com neurotoxicidade dopaminérgica documentada para a metanfetamina. O uso crônico reduz receptores D2 e a função do córtex pré-frontal, o que prejudica o controle inibitório e amplifica a fissura por pistas.\n\nAs estratégias farmacológicas testadas seguem três lógicas: agonista (psicoestimulantes de liberação prolongada, modafinila), modulação glutamatérgica e GABAérgica (topiramato, N-acetilcisteína), e bloqueio da recompensa ou da noradrenalina (naltrexona, dissulfiram). Nenhuma teve eficácia consistente em ensaios grandes, e a maioria das revisões (Chan, 2019) classifica a evidência como de baixa força."
+   },
+   {
+    "titulo": "Intervenções com melhor evidência",
+    "texto": "O manejo de contingências (vales ou prêmios por testes de urina negativos) é a intervenção de maior efeito: na metanálise em rede de De Crescenzo (PLoS Medicine, 2018), a combinação de manejo de contingências com terapia de reforço comunitário foi a única superior ao tratamento usual em aderência e abstinência a curto e longo prazo. TCC e entrevista motivacional ajudam, sobretudo associadas.\n\nNa metanfetamina, o ADAPT-2 (Trivedi, NEJM 2021) mostrou resposta em 13,6% com naltrexona injetável e bupropiona contra 2,5% com placebo (efeito pequeno, mas clinicamente relevante). Mirtazapina 30 mg reduziu testes positivos em homens que fazem sexo com homens (Colfax 2011; Coffin 2020). Na cocaína, psicoestimulantes de liberação prolongada tiveram sinais positivos em subgrupos (Levin 2015 em TDAH comórbido; Nuijten 2016 com dexanfetamina em usuários de heroína), topiramato em quem também bebe e modafinila em homens sem uso de álcool."
+   },
+   {
+    "titulo": "Comorbidades que mudam a conduta",
+    "texto": "TDAH está presente em 10 a 20% dos usuários de cocaína que buscam tratamento: tratar com estimulante de liberação prolongada supervisionado melhora o TDAH e, quando a dose é adequada, pode reduzir o uso; atomoxetina e bupropiona são alternativas. Uso concomitante de álcool gera cocaetileno, mais cardiotóxico: tratar o álcool com naltrexona ou topiramato.\n\nDepressão pós-uso costuma melhorar em 2 a 4 semanas; persistência justifica antidepressivo. Psicose induzida exige antipsicótico por período curto e reavaliação após abstinência, mas uma fração evolui para esquizofrenia (cerca de 1 em cada 4 a 1 em cada 3 em coortes escandinavas de psicose induzida por anfetamina). Levamisol, adulterante comum, causa agranulocitose e vasculite."
+   },
+   {
+    "titulo": "Intoxicação aguda",
+    "texto": "Benzodiazepínicos são o tratamento de base da agitação, taquicardia, hipertensão e convulsões. Hipertermia exige resfriamento ativo e dosagem de CK (rabdomiólise). Dor torácica: protocolo de síndrome coronariana com benzodiazepínico, ácido acetilsalicílico e nitrato; betabloqueador isolado é controverso pelo risco teórico de estimulação alfa sem oposição.\n\nAntipsicóticos são adequados quando a psicose persiste apesar do benzodiazepínico. Contaminação por fentanil é crescente em alguns mercados: oferecer naloxona e orientar a não usar sozinho."
+   },
+   {
+    "titulo": "Armadilhas e o que dizer ao paciente",
+    "texto": "Prescrever fármaco sem estrutura psicossocial produz resultados pobres; manter fármacos sem efeito objetivo em 8 a 12 semanas expõe a efeitos adversos sem ganho. Negar tratamento do TDAH por medo do estimulante em quem tem uso de cocaína é erro; prescrever estimulante de liberação imediata sem supervisão também.\n\nAo paciente: explicar que não há remédio específico, que o tratamento com mais evidência é comportamental e baseado em metas pequenas e recompensas, que a fissura por pistas diminui com o tempo e que o crash dos primeiros dias pode trazer tristeza intensa e pensamentos de morte, que devem ser relatados."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Intoxicação e crash",
+    "duracao": "Horas a 1 a 2 semanas",
+    "objetivo": "Tratar complicações agudas, avaliar risco de suicídio e engajar no tratamento"
+   },
+   {
+    "fase": "Abstinência inicial",
+    "duracao": "1 a 3 meses",
+    "objetivo": "Manejo de contingências, TCC, testes frequentes; fissura por pistas intensa"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "6 a 12 meses ou mais",
+    "objetivo": "Tratar comorbidades, reabilitação social, prevenir recaída"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar e reduzir danos",
+    "acao": "Padrão de uso, via, álcool e outras drogas, TDAH, humor, psicose, risco de suicídio, HIV, sífilis, hepatites e tuberculose; naloxona e orientação sobre uso mais seguro.",
+    "se_falha": "Psicose, risco de suicídio ou complicação clínica: internação"
+   },
+   {
+    "passo": "Base psicossocial",
+    "acao": "Manejo de contingências por pelo menos 12 semanas com testes de urina 2 a 3 vezes por semana, associado a TCC, entrevista motivacional ou terapia de reforço comunitário; CAPS AD.",
+    "se_falha": "Uso persistente após 8 a 12 semanas"
+   },
+   {
+    "passo": "Tratar comorbidades",
+    "acao": "TDAH: metilfenidato de liberação prolongada ou lisdexanfetamina supervisionados, atomoxetina ou bupropiona. Álcool: naltrexona ou topiramato. Depressão persistente após 2 a 4 semanas de abstinência: antidepressivo.",
+    "se_falha": "Uso grave persistente sem comorbidade tratável"
+   },
+   {
+    "passo": "Fármaco off-label",
+    "acao": "Cocaína: topiramato até 200 a 300 mg/dia (sobretudo com álcool), modafinila 200 a 400 mg/dia ou bupropiona 300 mg/dia com manejo de contingências. Metanfetamina: mirtazapina 30 mg/dia ou bupropiona 300 a 450 mg/dia. Reavaliar em 8 a 12 semanas.",
+    "se_falha": "Sem redução objetiva: suspender e intensificar abordagem psicossocial"
+   },
+   {
+    "passo": "Nível de cuidado",
+    "acao": "Serviço especializado, moradia assistida ou internação de curta duração para uso grave com perda de suporte social, gestação ou risco clínico.",
+    "se_falha": "Seguimento de longo prazo em rede de atenção psicossocial"
+   }
+  ]
+ },
+ "Dependência de benzodiazepínicos": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno por uso de sedativos, hipnóticos ou ansiolíticos e abstinência correspondente",
+   "cid": "CID-10-MC (DSM-5-TR), uso: F13.10 leve, F13.11 leve em remissão, F13.20 moderado ou grave, F13.21 em remissão. Abstinência sem perturbações da percepção F13.130, F13.230, F13.930 (sem transtorno por uso); com perturbações da percepção F13.132, F13.232, F13.932. CID-11 6C44.2 (dependência de sedativos, hipnóticos ou ansiolíticos)",
+   "itens": [
+    {
+     "r": "Transtorno por uso de sedativos, hipnóticos ou ansiolíticos",
+     "t": "Padrão problemático de uso de sedativos, hipnóticos ou ansiolíticos (benzodiazepínicos, drogas Z, barbitúricos) que leva a prejuízo ou sofrimento clinicamente significativo, com pelo menos 2 dos 11 itens abaixo em um período de 12 meses:",
+     "sub": [
+      "1. O sedativo, hipnótico ou ansiolítico é usado com frequência em quantidade maior ou por mais tempo do que o pretendido.",
+      "2. Desejo persistente ou esforços malsucedidos de reduzir ou controlar o uso.",
+      "3. Muito tempo gasto em atividades para obter o sedativo, usá-lo ou se recuperar dos efeitos.",
+      "4. Fissura: desejo forte ou urgência de usar.",
+      "5. Uso recorrente que leva ao fracasso em cumprir obrigações importantes no trabalho, na escola ou em casa.",
+      "6. Uso continuado apesar de problemas sociais ou interpessoais persistentes ou recorrentes causados ou agravados pelos efeitos da substância.",
+      "7. Abandono ou redução de atividades sociais, profissionais ou recreativas importantes por causa do uso.",
+      "8. Uso recorrente em situações de risco à integridade física (dirigir ou operar máquinas sob efeito).",
+      "9. Uso mantido apesar de saber que tem problema físico ou psicológico persistente ou recorrente provavelmente causado ou agravado pela substância.",
+      "10. Tolerância, por (a) necessidade de quantidades progressivamente maiores para obter a intoxicação ou o efeito desejado, ou (b) efeito acentuadamente menor com a mesma quantidade.",
+      "11. Abstinência, por (a) síndrome de abstinência característica da substância, ou (b) uso da substância ou de outra estreitamente relacionada, como álcool, para aliviar ou evitar os sintomas de abstinência."
+     ]
+    },
+    {
+     "r": "Abstinência de sedativos, hipnóticos ou ansiolíticos",
+     "t": "A: interrupção ou redução de uso prolongado. B: pelo menos 2 dos sintomas abaixo, de algumas horas a alguns dias após A. C: sofrimento ou prejuízo clinicamente significativo. D: não atribuíveis a outra condição médica nem mais bem explicados por outro transtorno mental, incluindo intoxicação ou abstinência de outra substância.",
+     "sub": [
+      "1. Hiperatividade autonômica (sudorese, frequência cardíaca acima de 100 bpm).",
+      "2. Tremor das mãos.",
+      "3. Insônia.",
+      "4. Náuseas ou vômitos.",
+      "5. Alucinações ou ilusões visuais, táteis ou auditivas transitórias.",
+      "6. Agitação psicomotora.",
+      "7. Ansiedade.",
+      "8. Convulsões tônico-clônicas generalizadas."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Em remissão inicial: critérios completos preenchidos no passado e nenhum critério (exceto fissura, A4) por pelo menos 3 meses e menos de 12 meses.",
+    "Em remissão sustentada: nenhum critério (exceto fissura, A4) por 12 meses ou mais.",
+    "Em ambiente protegido: especificador adicional de remissão quando o acesso à substância é restrito (prisão sem drogas, comunidade terapêutica, unidade fechada).",
+    "Gravidade atual: leve (2 ou 3 sintomas), moderada (4 ou 5), grave (6 ou mais).",
+    "Abstinência, com perturbações da percepção: alucinações com teste de realidade preservado ou ilusões auditivas, visuais ou táteis sem delirium."
+   ],
+   "notas": [
+    "Tolerância (A10) e abstinência (A11) são desconsideradas quando o uso se dá sob supervisão médica: muitos pacientes têm dependência fisiológica sem transtorno por uso (e recebem código F13.930 se tiverem abstinência). Ambos se beneficiam de retirada planejada.",
+    "Quando há também intoxicação, abstinência ou transtorno mental induzido pela substância, o DSM-5-TR não codifica o transtorno por uso à parte: a gravidade do uso passa a ser indicada no código do quadro induzido. Exemplos: F13.14 e F13.24 (uso leve ou moderado a grave com transtorno depressivo induzido).",
+    "Sintomas típicos da retirada além do DSM: hipersensibilidade a luz e som, parestesias, despersonalização, mioclonias, zumbido; podem durar semanas (síndrome prolongada em minoria).",
+    "Início da abstinência: 1 a 2 dias com fármacos de meia-vida curta (alprazolam, lorazepam, midazolam); 3 a 7 dias com os de meia-vida longa (diazepam, clonazepam).",
+    "Distinguir três quadros após a suspensão: rebote (volta intensificada dos sintomas originais, transitória), recorrência (volta do transtorno de base, persistente) e abstinência (sintomas novos)."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e o problema clínico",
+    "texto": "O Brasil está entre os maiores consumidores de benzodiazepínicos do mundo, com clonazepam e alprazolam no topo das vendas de psicofármacos controlados. Há dois perfis distintos: o paciente com uso prolongado conforme prescrição (em geral mulher, idosa, por insônia ou ansiedade, com dependência fisiológica e sem comportamento de busca) e o usuário com transtorno por uso, que escala doses, obtém receitas de vários médicos ou combina com álcool e opioides.\n\nO uso prolongado associa-se a quedas e fraturas de quadril em idosos, acidentes de trânsito, prejuízo cognitivo que melhora parcialmente após a retirada e, com opioides, a sobredose fatal (alerta em tarja da FDA de 2016). Os critérios de Beers desaconselham benzodiazepínicos em idosos."
+   },
+   {
+    "titulo": "Neurobiologia e lógica da retirada",
+    "texto": "Benzodiazepínicos e drogas Z são moduladores alostéricos positivos do GABA-A. Com o uso contínuo, a tolerância ao efeito hipnótico e anticonvulsivante surge em semanas, e ao ansiolítico mais devagar; os receptores mudam de composição e o sistema glutamatérgico se torna hiperativo. A retirada abrupta expõe esse desequilíbrio: ansiedade, insônia, hiperacusia, parestesias e, com doses altas, convulsões e delirium.\n\nA redução gradual dá tempo à readaptação dos receptores. Fármacos de meia-vida curta produzem oscilações de nível e abstinência entre doses, o que explica a troca por diazepam (ou clonazepam) proposta por Ashton. Em idosos e hepatopatas, o diazepam acumula, e é preferível reduzir o próprio fármaco."
+   },
+   {
+    "titulo": "Evidências e diretriz de 2025",
+    "texto": "A Joint Clinical Practice Guideline on Benzodiazepine Tapering (ASAM e outras sociedades, 2025) recomenda decisão compartilhada, nunca suspensão abrupta em uso diário prolongado, redução inicial de 5 a 10% a cada 2 a 4 semanas, em geral sem ultrapassar 25% a cada 2 semanas, com pausas quando necessário, e tratamento em paralelo da condição de base. Retirada muito rápida (dias) só em ambiente hospitalar.\n\nTCC durante a retirada aumenta a taxa de sucesso (revisões de Parr 2009 e Darker 2015). No ensaio EMPOWER (Tannenbaum, JAMA Internal Medicine 2014), um folheto educativo enviado diretamente a idosos levou 27% a suspender o benzodiazepínico em 6 meses, contra 5% no grupo controle. Adjuvantes farmacológicos (pregabalina, carbamazepina, valproato, trazodona) têm evidência fraca e não substituem a redução lenta."
+   },
+   {
+    "titulo": "Comorbidades e situações especiais",
+    "texto": "Transtorno de ansiedade ou pânico de base: iniciar ISRS ou IRSN e TCC antes ou durante a retirada, porque a recorrência é esperada. Insônia: TCC-I é o tratamento de escolha; trocar por zolpidem só troca a dependência. Uso concomitante de álcool ou opioides: risco de sobredose e de abstinência grave; preferir retirada supervisionada e oferecer naloxona se houver opioide.\n\nUso não médico em doses altas, uso de benzodiazepínicos ilícitos ou de alta potência, ou convulsões prévias: desintoxicação hospitalar com diazepam ou fenobarbital. Gestação: não suspender abruptamente; reduzir à menor dose eficaz com o obstetra."
+   },
+   {
+    "titulo": "Armadilhas",
+    "texto": "Interpretar sintomas de abstinência como volta do transtorno de base e aumentar a dose; suspender de uma vez após anos de uso; estabelecer cronograma rígido sem permitir pausas; ou, no extremo oposto, nunca propor a retirada. Também é frequente trocar o benzodiazepínico por pregabalina ou quetiapina sem indicação, criando nova dependência ou exposição metabólica.\n\nNo último quarto da redução os sintomas costumam piorar, porque cada miligrama representa uma fração maior da dose; passos finais menores e mais espaçados evitam abandonos."
+   },
+   {
+    "titulo": "O que dizer ao paciente",
+    "texto": "Validar que o paciente não fez nada errado ao seguir uma prescrição, explicar os riscos do uso prolongado e que a retirada lenta é segura e tem boa chance de sucesso, e que ele controla o ritmo. Sintomas leves e passageiros são esperados; o objetivo é parar ou chegar à menor dose útil, não sofrer.\n\nApós a última dose, podem surgir insônia e ansiedade por algumas semanas; a maioria melhora de forma gradual, e muitos relatam mais clareza mental e energia."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Preparação",
+    "duracao": "2 a 4 semanas",
+    "objetivo": "Decisão compartilhada, tratar transtorno de base, TCC-I ou TCC, troca opcional para diazepam"
+   },
+   {
+    "fase": "Redução gradual",
+    "duracao": "3 a 6 meses (às vezes mais de 12)",
+    "objetivo": "Reduzir 5 a 10% a cada 2 a 4 semanas, com pausas conforme os sintomas"
+   },
+   {
+    "fase": "Passos finais",
+    "duracao": "1 a 3 meses",
+    "objetivo": "Passos menores e mais espaçados até a suspensão"
+   },
+   {
+    "fase": "Seguimento",
+    "duracao": "6 a 12 meses após a última dose",
+    "objetivo": "Monitorar recorrência, insônia, humor e uso de outras substâncias"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar",
+    "acao": "Fármaco, dose, tempo de uso, padrão (conforme prescrição ou transtorno por uso), álcool e opioides, convulsões prévias, idade, hepatopatia, transtorno de base.",
+    "se_falha": "Doses muito altas, uso ilícito, álcool ou convulsões prévias: retirada hospitalar"
+   },
+   {
+    "passo": "Preparar",
+    "acao": "Decisão compartilhada, material educativo, ISRS ou IRSN e TCC para ansiedade de base, TCC-I para insônia.",
+    "se_falha": "Paciente não aceita parar: reduzir à menor dose eficaz e reabordar periodicamente"
+   },
+   {
+    "passo": "Trocar se necessário",
+    "acao": "Alprazolam, lorazepam ou abstinência interdose: trocar para diazepam (ou clonazepam) em etapas por equivalência (10 mg de diazepam: alprazolam 0,5 mg, clonazepam 0,5 mg, lorazepam 1 mg). Idoso ou hepatopata: reduzir o próprio fármaco.",
+    "se_falha": "Sedação ou sintomas na troca: ajustar a equivalência"
+   },
+   {
+    "passo": "Reduzir",
+    "acao": "5 a 10% da dose a cada 2 a 4 semanas, sem ultrapassar 25% a cada 2 semanas; passos finais de 1 a 2 mg de diazepam; pausar se os sintomas forem intensos, sem voltar à dose anterior.",
+    "se_falha": "Sintomas intoleráveis repetidos apesar de pausas"
+   },
+   {
+    "passo": "Apoio adicional",
+    "acao": "Intensificar TCC; adjuvante por período curto com evidência limitada (pregabalina com cautela, carbamazepina, trazodona ou mirtazapina para insônia).",
+    "se_falha": "Serviço especializado ou retirada hospitalar com diazepam ou fenobarbital"
+   }
+  ]
+ },
+ "Cannabis": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno por uso de cannabis e abstinência de cannabis",
+   "cid": "CID-10-MC (DSM-5-TR): uso F12.10 leve, F12.11 leve em remissão, F12.20 moderado ou grave, F12.21 em remissão; abstinência F12.13 (com uso leve), F12.23 (com uso moderado ou grave), F12.93 (sem transtorno por uso); CID-11 6C41.2 (dependência de cannabis)",
+   "itens": [
+    {
+     "r": "Transtorno por uso de cannabis",
+     "t": "Padrão problemático de uso de cannabis que leva a prejuízo ou sofrimento clinicamente significativo, com pelo menos 2 dos 11 itens abaixo em um período de 12 meses:",
+     "sub": [
+      "1. A cannabis é usada com frequência em quantidade maior ou por mais tempo do que o pretendido.",
+      "2. Desejo persistente ou esforços malsucedidos de reduzir ou controlar o uso.",
+      "3. Muito tempo gasto em atividades para obter cannabis, usá-la ou se recuperar dos efeitos.",
+      "4. Fissura: desejo forte ou urgência de usar.",
+      "5. Uso recorrente que leva ao fracasso em cumprir obrigações importantes no trabalho, na escola ou em casa.",
+      "6. Uso continuado apesar de problemas sociais ou interpessoais persistentes ou recorrentes causados ou agravados pelos efeitos da substância.",
+      "7. Abandono ou redução de atividades sociais, profissionais ou recreativas importantes por causa do uso.",
+      "8. Uso recorrente em situações de risco à integridade física (dirigir, operar máquinas).",
+      "9. Uso mantido apesar de saber que tem problema físico ou psicológico persistente ou recorrente provavelmente causado ou agravado pela substância.",
+      "10. Tolerância, por (a) necessidade de quantidades progressivamente maiores para obter a intoxicação ou o efeito desejado, ou (b) efeito acentuadamente menor com a mesma quantidade.",
+      "11. Abstinência, por (a) síndrome de abstinência característica da substância, ou (b) uso da substância ou de outra estreitamente relacionada para aliviar ou evitar os sintomas de abstinência."
+     ]
+    },
+    {
+     "r": "Abstinência de cannabis",
+     "t": "A: interrupção de uso pesado e prolongado (em geral diário ou quase diário por pelo menos alguns meses). B: pelo menos 3 dos sinais e sintomas abaixo, em cerca de 1 semana após A. C: sofrimento ou prejuízo clinicamente significativo. D: não atribuíveis a outra condição médica nem mais bem explicados por outro transtorno mental, incluindo intoxicação ou abstinência de outra substância.",
+     "sub": [
+      "1. Irritabilidade, raiva ou agressividade.",
+      "2. Nervosismo ou ansiedade.",
+      "3. Dificuldade para dormir (insônia, sonhos perturbadores).",
+      "4. Diminuição do apetite ou perda de peso.",
+      "5. Inquietação.",
+      "6. Humor deprimido.",
+      "7. Pelo menos um sintoma físico com desconforto significativo: dor abdominal, tremor, sudorese, febre, calafrios ou cefaleia."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Em remissão inicial: critérios completos preenchidos no passado e nenhum critério (exceto fissura, A4) por pelo menos 3 meses e menos de 12 meses.",
+    "Em remissão sustentada: nenhum critério (exceto fissura, A4) por 12 meses ou mais.",
+    "Em ambiente protegido: especificador adicional de remissão quando o acesso à substância é restrito (prisão sem drogas, comunidade terapêutica, unidade fechada).",
+    "Gravidade atual: leve (2 ou 3 sintomas), moderada (4 ou 5), grave (6 ou mais).",
+    "A evolução também pode ser acompanhada pela frequência (dias de uso por mês, vezes ao dia) e pela quantidade por episódio."
+   ],
+   "notas": [
+    "Quando há também intoxicação, abstinência ou transtorno mental induzido pela substância, o DSM-5-TR não codifica o transtorno por uso à parte: a gravidade do uso passa a ser indicada no código do quadro induzido. Exemplos: F12.180 e F12.280 (uso leve ou moderado a grave com transtorno de ansiedade induzido).",
+    "Abstinência começa em 1 a 3 dias, tem pico em 2 a 6 dias e dura 1 a 2 semanas; alterações do sono podem persistir 30 dias ou mais.",
+    "Cerca de 1 em cada 10 usuários de cannabis desenvolve transtorno por uso; o risco chega a 1 em cada 6 com início na adolescência e é maior com uso diário e produtos de alta potência (THC elevado).",
+    "Uso de canabinoides prescritos (canabidiol, nabiximols) sob supervisão médica não caracteriza transtorno por si só; a abstinência nesses casos recebe F12.93.",
+    "Síndrome de hiperêmese canabinoide (Roma IV): vômitos cíclicos em usuário crônico diário, alívio com banhos quentes e remissão com abstinência."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A cannabis é a droga ilícita mais usada no Brasil e no mundo. A potência aumentou muito: o teor de THC de flores e extratos subiu de menos de 4% nos anos 1990 para 15 a 25% em flores e mais de 60% em concentrados, com menor proporção de canabidiol, o que aumenta dependência e efeitos psiquiátricos.\n\nO transtorno por uso costuma começar na adolescência ou no início da vida adulta e muitos remitem espontaneamente até os 30 anos, mas os casos que procuram tratamento em geral têm uso diário há anos e várias tentativas frustradas de parar. Início precoce e uso diário associam-se a pior desempenho escolar, menor renda e maior risco de psicose."
+   },
+   {
+    "titulo": "Neurobiologia",
+    "texto": "O THC é agonista parcial do receptor CB1, que modula a liberação de GABA e glutamato em circuitos de recompensa, memória e ansiedade. O uso crônico reduz a densidade de CB1 (reversível em cerca de 4 semanas de abstinência), o que explica tolerância e abstinência. O canabidiol não é agonista CB1 e tem efeitos distintos, alguns opostos aos do THC.\n\nOs sintomas de abstinência (irritabilidade, insônia, anorexia) são reais e são o principal motivo de recaída nas primeiras semanas. Tentativas farmacológicas seguem as lógicas de substituição (nabiximols, dronabinol), modulação glutamatérgica (N-acetilcisteína), alívio da abstinência (gabapentina) e aumento da anandamida endógena (inibidores da FAAH, experimentais)."
+   },
+   {
+    "titulo": "O que dizem os ensaios",
+    "texto": "A revisão Cochrane de Gates (2016) mostrou que TCC, entrevista motivacional e manejo de contingências, sobretudo combinados, reduzem frequência de uso e aumentam abstinência a curto prazo. A revisão Cochrane de Nielsen (2019) não encontrou fármaco com evidência suficiente para uso rotineiro.\n\nN-acetilcisteína 1.200 mg duas vezes ao dia dobrou a chance de testes negativos em adolescentes (Gray, 2012), mas não teve efeito em adultos no ACCENT (Gray, 2017). Gabapentina reduziu uso e sintomas de abstinência em ensaio pequeno (Mason, 2012). Nabiximols reduziu dias de uso em ensaio australiano (Lintzeris, JAMA Internal Medicine 2019). O inibidor da FAAH PF-04457845 reduziu uso e abstinência em ensaio de fase 2 (D'Souza, 2019), sem disponibilidade clínica. Nenhum desses fármacos tem aprovação para a indicação."
+   },
+   {
+    "titulo": "Psicose e transtornos do humor",
+    "texto": "O uso diário de cannabis de alta potência multiplicou por cerca de 5 a chance de transtorno psicótico no estudo EU-GEI (Di Forti, Lancet Psychiatry 2019). Em quem já tem esquizofrenia, o uso continuado associa-se a mais recaídas e internações, e parar reduz esse risco. No transtorno bipolar, a cannabis associa-se a mais episódios maníacos e pior adesão.\n\nPsicose induzida por cannabis converteu-se em esquizofrenia ou transtorno bipolar em quase metade dos casos (47%) no registro dinamarquês de Starzer (2018), a maior taxa entre as substâncias: acompanhar por anos. Ansiedade e depressão melhoram com frequência após algumas semanas de abstinência."
+   },
+   {
+    "titulo": "Controvérsias e armadilhas",
+    "texto": "Confundir uso medicinal com uso recreativo: produtos de cannabis autorizados pela Anvisa (RDC 327/2019) e o canabidiol isolado não justificam por si o diagnóstico, mas produtos ricos em THC podem gerar dependência mesmo com prescrição. Considerar a cannabis 'natural e inofensiva' leva a subestimar a abstinência e a psicose.\n\nA hiperêmese canabinoide é subdiagnosticada, gera múltiplas idas à emergência e exames desnecessários; antieméticos usuais funcionam pouco e a resolução exige abstinência. Benzodiazepínicos para insônia de abstinência criam nova dependência."
+   },
+   {
+    "titulo": "O que dizer ao paciente",
+    "texto": "Explicar que a abstinência existe, dura em geral 1 a 2 semanas e é pior no sono; que dormir mal nas primeiras semanas não significa que precisa da cannabis para dormir; que a meta pode começar pela redução, mas que, com psicose ou bipolaridade, a abstinência é a meta recomendada.\n\nCom adolescentes, envolver a família, focar em objetivos que importam ao jovem (escola, esporte, relações) e evitar discurso moralista, que reduz adesão."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Engajamento",
+    "duracao": "1 a 4 semanas",
+    "objetivo": "Entrevista motivacional, meta de abstinência ou redução, rastrear psicose e humor"
+   },
+   {
+    "fase": "Abstinência",
+    "duracao": "1 a 4 semanas",
+    "objetivo": "Manejar irritabilidade, insônia e anorexia sem benzodiazepínicos; pico nos primeiros 2 a 6 dias"
+   },
+   {
+    "fase": "Tratamento ativo",
+    "duracao": "8 a 12 semanas",
+    "objetivo": "TCC, manejo de contingências, terapia familiar em adolescentes; adjuvante off-label se indicado"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "6 a 12 meses",
+    "objetivo": "Prevenção de recaída, tratar comorbidades, reavaliar sintomas psicóticos e de humor"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar",
+    "acao": "Frequência, potência e via (flor, extrato, vaporizador), início, outros usos, psicose, humor, TDAH, hiperêmese; CUDIT-R.",
+    "se_falha": "Psicose, mania ou risco de suicídio: tratar o quadro agudo primeiro"
+   },
+   {
+    "passo": "Psicossocial",
+    "acao": "Entrevista motivacional seguida de TCC por 6 a 12 sessões, com manejo de contingências quando disponível; terapia familiar em adolescentes.",
+    "se_falha": "Uso persistente após 8 a 12 semanas"
+   },
+   {
+    "passo": "Manejar abstinência",
+    "acao": "Psicoeducação, higiene do sono, exercício; insônia intensa: gabapentina 300 a 1.200 mg/dia por período curto; evitar benzodiazepínicos e zolpidem prolongados.",
+    "se_falha": "Abstinência como principal causa de recaída"
+   },
+   {
+    "passo": "Adjuvante off-label",
+    "acao": "Adolescentes: N-acetilcisteína 1.200 mg duas vezes ao dia por 8 semanas. Adultos: gabapentina até 1.200 mg/dia. Nabiximols só em serviço especializado. Suspender sem redução do uso em 8 a 12 semanas.",
+    "se_falha": "Encaminhar a CAPS AD ou serviço especializado"
+   }
+  ]
+ },
+ "Jogo patológico": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno do jogo",
+   "cid": "CID-10-MC (DSM-5-TR) F63.0; CID-11 6C50 (transtorno do jogo): 6C50.0 predominantemente presencial, 6C50.1 predominantemente online",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Comportamento de jogo problemático, persistente e recorrente, que leva a sofrimento ou prejuízo clinicamente significativo, com pelo menos 4 dos itens abaixo em um período de 12 meses:",
+     "sub": [
+      "1. Precisa apostar quantias cada vez maiores para obter a excitação desejada.",
+      "2. Fica inquieto ou irritado ao tentar reduzir ou parar de jogar.",
+      "3. Fez esforços repetidos e malsucedidos para controlar, reduzir ou parar.",
+      "4. Preocupação frequente com o jogo (reviver experiências, planejar a próxima aposta, pensar em como conseguir dinheiro para jogar).",
+      "5. Joga com frequência quando se sente angustiado (impotente, culpado, ansioso, deprimido).",
+      "6. Após perder, volta com frequência outro dia para recuperar o prejuízo (correr atrás das perdas).",
+      "7. Mente para esconder a extensão do envolvimento com o jogo.",
+      "8. Pôs em risco ou perdeu relacionamento significativo, emprego ou oportunidade educacional ou profissional por causa do jogo.",
+      "9. Depende de outras pessoas para obter dinheiro e aliviar situações financeiras desesperadoras causadas pelo jogo."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "O comportamento de jogo não é mais bem explicado por um episódio maníaco."
+    }
+   ],
+   "especificadores": [
+    "Episódico: preenche critérios em mais de um momento, com os sintomas cedendo entre os períodos por pelo menos vários meses.",
+    "Persistente: sintomas contínuos, preenchendo critérios por vários anos.",
+    "Em remissão inicial: critérios completos no passado e nenhum critério por pelo menos 3 meses e menos de 12 meses.",
+    "Em remissão sustentada: nenhum critério por 12 meses ou mais.",
+    "Gravidade atual: leve (4 ou 5 critérios), moderada (6 ou 7), grave (8 ou 9)."
+   ],
+   "notas": [
+    "Diferente dos transtornos por uso de substância, a remissão no transtorno do jogo não traz exceção para a fissura, e não há especificador de ambiente protegido.",
+    "Nos casos leves, os critérios mais frequentes são preocupação com o jogo e correr atrás das perdas; pôr em risco relacionamentos e depender de terceiros para cobrir dívidas aparecem sobretudo nos casos graves.",
+    "É o único transtorno não relacionado a substâncias na categoria de transtornos aditivos do DSM-5-TR (o transtorno de jogo pela internet está na seção de condições para estudo). Jogo induzido por agonista dopaminérgico também é diagnosticado como transtorno do jogo.",
+    "A CID-11 exige descontrole, prioridade crescente do jogo e continuidade apesar de consequências negativas, em geral por 12 meses.",
+    "No Brasil, as apostas online de cota fixa (bets) foram regulamentadas pela Lei 14.790/2023, com aumento acentuado da procura por tratamento; jogos de cassino online e apostas esportivas por celular são as formas mais associadas ao transtorno atualmente.",
+    "Risco de suicídio bem acima da população geral: até metade dos pacientes em tratamento relata ideação e cerca de 17% já tentaram; na Suécia, a mortalidade por suicídio foi 15 vezes maior. Perguntar sempre."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A prevalência em 12 meses é de 0,1 a 0,7% nos estudos internacionais e ao longo da vida de 0,4 a 1% nos Estados Unidos, com predomínio masculino que vem diminuindo. Menos de 10% procuram tratamento. No Brasil, a expansão das apostas esportivas e dos cassinos online por celular a partir de 2018, regulamentada em 2023, mudou o perfil: jovens, acesso 24 horas, apostas rápidas e crédito fácil.\n\nO curso é variável, com remissões espontâneas e recaídas; mulheres tendem a iniciar mais tarde e progredir mais rápido após o início (efeito telescópico em amostras clínicas). Comorbidade com uso de álcool e outras substâncias, depressão, ansiedade, TDAH e transtorno bipolar é a regra, não a exceção."
+   },
+   {
+    "titulo": "Neurobiologia e mecanismo dos tratamentos",
+    "texto": "O jogo usa o mesmo circuito de recompensa das drogas: o reforço intermitente e variável, os quase acertos (near misses) e a velocidade das apostas maximizam a liberação de dopamina no estriado e a aprendizagem por erro de predição. Distorções cognitivas (ilusão de controle, falácia do jogador, correr atrás das perdas) mantêm o comportamento.\n\nAntagonistas opioides (naltrexona, nalmefeno) reduzem a liberação de dopamina mediada por opioides endógenos no accumbens e atenuam a fissura. Agonistas dopaminérgicos D2 e D3 (pramipexol, ropinirol) e o aripiprazol podem induzir jogo patológico: no estudo DOMINION (Weintraub, 2010), 17% dos pacientes com Parkinson em agonista tinham algum transtorno do controle de impulsos, contra 7% sem agonista, e a FDA emitiu alerta para o aripiprazol em 2016."
+   },
+   {
+    "titulo": "O que dizem os ensaios",
+    "texto": "A revisão Cochrane de Cowlishaw (2012) mostrou benefício da TCC na redução do comportamento de jogo e das perdas a curto prazo, com menos dados de longo prazo; entrevista motivacional e intervenções breves ajudam, sobretudo em casos menos graves. Os Jogadores Anônimos ajudam o engajamento.\n\nNaltrexona (Kim 2001; Grant 2008, com 50 a 150 mg/dia) e nalmefeno (Grant 2006) superaram o placebo, com efeito maior em pacientes com fissura intensa e história familiar de alcoolismo; metanálises de farmacoterapia mostram efeito modesto e alta resposta ao placebo. ISRS tiveram resultados inconsistentes. Lítio foi útil em pacientes do espectro bipolar (Hollander, 2005). N-acetilcisteína, topiramato e memantina têm apenas dados preliminares."
+   },
+   {
+    "titulo": "Raciocínio clínico",
+    "texto": "Não há fármaco aprovado nem no Brasil nem nos Estados Unidos; a base é psicoterapia e controle de acesso ao dinheiro e ao jogo. A naltrexona é o fármaco com melhor evidência e vale para casos moderados e graves com fissura, com transaminases basais e periódicas em doses acima de 50 mg. Nalmefeno não está disponível no Brasil.\n\nAntes de acrescentar qualquer fármaco, verificar se há agonista dopaminérgico, aripiprazol ou brexpiprazol: reduzir ou trocar resolve muitos casos. Afastar mania (critério B): jogo que surge só durante episódios de humor elevado é tratado como sintoma do episódio."
+   },
+   {
+    "titulo": "Riscos associados e manejo prático",
+    "texto": "Dívidas, crimes para cobrir perdas, rompimentos familiares e suicídio fazem desta uma condição de alto risco. Na primeira consulta, avaliar ideação suicida, dívidas e ameaças de credores, e iniciar medidas concretas: autoexclusão nas plataformas de apostas, bloqueio de transações de apostas no banco, entrega temporária do controle financeiro a um familiar de confiança, e orientação sobre renegociação de dívidas.\n\nA família precisa de apoio próprio e de orientação para não pagar dívidas sem plano, o que pode reforçar o ciclo."
+   },
+   {
+    "titulo": "O que dizer ao paciente",
+    "texto": "Explicar que o jogo é desenhado para prender e que perder o controle não é fraqueza moral; que a ideia de recuperar as perdas é o principal motor do problema; que a meta mais segura é parar completamente, pois tentativas de 'jogar com controle' costumam falhar; e que recaídas são comuns e devem ser trazidas à consulta sem vergonha.\n\nCombinar um plano para momentos de fissura (atrasar, ligar para alguém, sair do ambiente) e reforçar que o risco de suicídio em crises financeiras é real: deixar contatos de emergência combinados."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Estabilização",
+    "duracao": "Primeiras semanas",
+    "objetivo": "Avaliar suicídio e dívidas, bloquear acesso a apostas e ao dinheiro, envolver a família"
+   },
+   {
+    "fase": "Tratamento ativo",
+    "duracao": "8 a 16 semanas",
+    "objetivo": "TCC com entrevista motivacional; naltrexona se fissura intensa; tratar comorbidades"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "12 meses ou mais",
+    "objetivo": "Sessões de reforço, Jogadores Anônimos, manter bloqueios e prevenir recaída"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar e proteger",
+    "acao": "Rastrear (PGSI, NODS), avaliar risco de suicídio, dívidas, mania, álcool e outras substâncias; autoexclusão, bloqueios bancários e controle financeiro compartilhado.",
+    "se_falha": "Risco de suicídio alto ou crise financeira grave: intervenção intensiva ou internação"
+   },
+   {
+    "passo": "Rever fármacos causadores",
+    "acao": "Agonista dopaminérgico, aripiprazol ou brexpiprazol: reduzir gradualmente ou trocar, com o neurologista quando for Parkinson ou pernas inquietas.",
+    "se_falha": "Jogo persiste após retirar o fármaco causador"
+   },
+   {
+    "passo": "Psicoterapia",
+    "acao": "TCC individual ou em grupo com entrevista motivacional por 8 a 16 semanas; Jogadores Anônimos; apoio à família.",
+    "se_falha": "Fissura intensa ou recaídas frequentes após 8 a 12 semanas"
+   },
+   {
+    "passo": "Naltrexona",
+    "acao": "Naltrexona 50 mg/dia, aumentar até 100 a 150 mg/dia conforme a fissura, com transaminases basais e periódicas; avaliar em 12 a 18 semanas. Bipolaridade comórbida: lítio. Depressão: ISRS associado à TCC.",
+    "se_falha": "Sem resposta: adjuvantes com dados preliminares (N-acetilcisteína, topiramato) e serviço especializado"
+   }
+  ]
+ }
+}

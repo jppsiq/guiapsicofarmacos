@@ -1,0 +1,138 @@
+[
+ {
+  "f": "tetrabenazina",
+  "g": "Discinesia tardia",
+  "set": {
+   "e": "C",
+   "d": "12,5 mg/dia, subindo 12,5 mg por semana até 25 a 75 mg/dia em 2 a 3 tomadas",
+   "t": "Inibidor do VMAT2 disponível no Brasil (valbenazina e deutetrabenazina, com melhor evidência, não são comercializadas). Evidência de menor qualidade (AAN 2013, nível C) e mais depressão, sedação, acatisia e parkinsonismo; monitorar humor e suicídio."
+  },
+  "motivo": "AAN 2013/2018: tetrabenazina possivelmente eficaz (nível C); dose ausente"
+ },
+ {
+  "f": "clonazepam",
+  "add": {
+   "g": "Discinesia tardia",
+   "c": "Discinesia tardia (curto prazo)",
+   "s": "o",
+   "e": "B",
+   "p": "A",
+   "d": "0,5 a 3 mg/dia",
+   "t": "AAN 2013: provavelmente eficaz no curto prazo (nível B); útil com distonia tardia ou ansiedade; tolerância em alguns meses e risco de dependência."
+  },
+  "motivo": "AAN 2013/2018: clonazepam nível B para discinesia tardia; já citado nas etapas"
+ },
+ {
+  "f": "amantadina",
+  "add": {
+   "g": "Discinesia tardia",
+   "c": "Discinesia tardia",
+   "s": "o",
+   "e": "C",
+   "p": "A",
+   "d": "100 a 300 mg/dia",
+   "t": "AAN 2013: possivelmente eficaz (nível C), sobretudo associada ao antipsicótico; ajustar à função renal."
+  },
+  "motivo": "AAN 2013/2018: amantadina nível C; já citada nas etapas"
+ },
+ {
+  "f": "buspirona",
+  "g": "EPS e acatisia",
+  "c": "Discinesia tardia e ataxia cerebelar",
+  "remove": true,
+  "motivo": "Uso de discinesia tardia classificado na condição errada; movido para Discinesia tardia"
+ },
+ {
+  "f": "buspirona",
+  "add": {
+   "g": "Discinesia tardia",
+   "c": "Discinesia tardia",
+   "s": "o",
+   "e": "D",
+   "p": "U",
+   "d": "",
+   "t": "Relatos e estudos abertos pequenos com doses altas; evidência fraca."
+  },
+  "motivo": "Reclassificação do uso antes agrupado em EPS e acatisia"
+ },
+ {
+  "f": "triexifenidil",
+  "g": "EPS e acatisia",
+  "c": "Parkinsonismo e distonia induzidos",
+  "set": {
+   "d": "1 a 2 mg 2 a 3 vezes ao dia (até 15 mg/dia)",
+   "t": "Alternativa oral ao biperideno para parkinsonismo e prevenção de distonia; reavaliar a necessidade após 3 meses; não trata acatisia e pode piorar discinesia tardia e cognição."
+  },
+  "motivo": "Dose e discussão ausentes; APA 2020 e Maudsley 2025"
+ },
+ {
+  "f": "topiramato",
+  "g": "Bulimia nervosa",
+  "set": {
+   "d": "25 mg/dia, subindo até 100 a 250 mg/dia",
+   "t": "Ensaios positivos (Hoopes 2003, Nickel 2005); alternativa quando fluoxetina falha, com atenção à perda de peso indesejada."
+  },
+  "motivo": "Dose ausente; WFSBP 2023"
+ },
+ {
+  "f": "sertralina",
+  "add": {
+   "g": "Compulsão alimentar",
+   "c": "Transtorno de compulsão alimentar",
+   "s": "o",
+   "e": "B",
+   "p": "2",
+   "d": "50 a 200 mg/dia",
+   "t": "APA 2023 sugere antidepressivo ou lisdexanfetamina quando o paciente prefere medicação; ISRS reduzem episódios de forma modesta, sem perda de peso relevante; preferir se houver depressão ou ansiedade."
+  },
+  "motivo": "APA 2023: antidepressivo como opção farmacológica no transtorno de compulsão alimentar"
+ },
+ {
+  "f": "cabergolina",
+  "g": "Hiperprolactinemia",
+  "c": "Hiperprolactinemia sintomática por antipsicótico",
+  "set": {
+   "d": "0,25 a 0,5 mg 1 a 2 vezes por semana"
+  },
+  "motivo": "Dose ausente; Maudsley 2025"
+ },
+ {
+  "f": "aripiprazol",
+  "add": {
+   "g": "Disfunção sexual",
+   "c": "Disfunção sexual por antipsicótico elevador de prolactina (associado ou troca)",
+   "s": "o",
+   "e": "B",
+   "p": "1",
+   "d": "5 mg/dia associado",
+   "t": "Reduz a prolactina e melhora desejo, função erétil e menstrual; alternativa é trocar para aripiprazol quando o quadro permitir."
+  },
+  "motivo": "Maudsley 2025 e APA 2020: associar ou trocar para aripiprazol em disfunção sexual por hiperprolactinemia"
+ },
+ {
+  "f": "amissulprida",
+  "add": {
+   "g": "Sialorreia",
+   "c": "Sialorreia por clozapina",
+   "s": "o",
+   "e": "B",
+   "p": "2",
+   "d": "100 a 400 mg/dia",
+   "t": "Ensaios pequenos positivos associada à clozapina (grupo de Kreinin); acrescenta hiperprolactinemia e prolongamento de QTc."
+  },
+  "motivo": "Maudsley 2025: opção para sialorreia por clozapina, já citada nas etapas"
+ },
+ {
+  "f": "clonidina",
+  "add": {
+   "g": "Sialorreia",
+   "c": "Sialorreia por clozapina",
+   "s": "o",
+   "e": "C",
+   "p": "A",
+   "d": "0,05 a 0,1 mg à noite",
+   "t": "Agonista alfa-2 que reduz o fluxo salivar; cuidado com hipotensão ortostática e sedação somadas à clozapina."
+  },
+  "motivo": "Maudsley 2025: opção para sialorreia por clozapina, já citada nas etapas"
+ }
+]

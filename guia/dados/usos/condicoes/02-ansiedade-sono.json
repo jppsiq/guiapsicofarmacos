@@ -1,0 +1,373 @@
+{
+ "TAG": {
+  "area": "Ansiedade",
+  "resumo": "Preocupação excessiva, difícil de controlar, com tensão, insônia, irritabilidade e fadiga por pelo menos 6 meses. É crônico e flutuante, com alta comorbidade com depressão. TCC e antidepressivos são igualmente eficazes; a combinação ajuda em casos moderados a graves. O objetivo é remissão funcional, não ausência total de preocupação.",
+  "avaliacao": [
+   "Depressão comórbida e risco de suicídio.",
+   "Uso de álcool, benzodiazepínicos, cafeína e estimulantes.",
+   "Causas clínicas: hipertireoidismo, arritmias, apneia, abstinência, feocromocitoma raro.",
+   "Tratamentos prévios e resposta."
+  ],
+  "nao_farmacologico": [
+   "TCC (inclusive em formatos digitais e em grupo).",
+   "Técnicas de relaxamento aplicado e mindfulness.",
+   "Exercício regular e higiene do sono."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha (CANMAT 2014)",
+    "texto": "Escitalopram, sertralina, paroxetina, duloxetina, venlafaxina, pregabalina e agomelatina. Iniciar com metade da dose por 1 semana."
+   },
+   {
+    "titulo": "Resposta parcial em 8 a 12 semanas",
+    "texto": "Otimizar a dose, trocar dentro da primeira linha ou associar pregabalina."
+   },
+   {
+    "titulo": "Segunda linha",
+    "texto": "Benzodiazepínicos (por curto prazo), imipramina, bupropiona, vortioxetina, quetiapina (eficaz, com custo metabólico), buspirona e hidroxizina."
+   },
+   {
+    "titulo": "Benzodiazepínicos",
+    "texto": "Apenas por curto prazo ou em crises, sem uso de substâncias; não tratam depressão comórbida."
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Depressão comórbida",
+    "preferir": "ISRS, IRSN",
+    "evitar": "benzodiazepínico isolado, pregabalina isolada"
+   },
+   {
+    "se": "Dor crônica",
+    "preferir": "duloxetina, pregabalina",
+    "evitar": ""
+   },
+   {
+    "se": "Uso de substâncias",
+    "preferir": "ISRS, IRSN, buspirona, hidroxizina",
+    "evitar": "benzodiazepínicos, pregabalina"
+   },
+   {
+    "se": "Idosos",
+    "preferir": "escitalopram, sertralina, duloxetina",
+    "evitar": "benzodiazepínicos, hidroxizina, paroxetina"
+   },
+   {
+    "se": "Disfunção sexual",
+    "preferir": "agomelatina, buspirona, vortioxetina, pregabalina",
+    "evitar": "paroxetina"
+   }
+  ],
+  "duracao": "Manter pelo menos 12 meses após resposta; a retirada precoce dobra a recaída. Retirar lentamente.",
+  "armadilhas": [
+   "Usar benzodiazepínico como tratamento principal.",
+   "Avaliar resposta antes de 8 semanas.",
+   "Iniciar ISRS em dose cheia e provocar piora ansiosa com abandono."
+  ],
+  "monitorar": [
+   "GAD-7",
+   "Uso de benzodiazepínicos e álcool"
+  ],
+  "diretrizes": "CANMAT 2014 (Katzman et al., transtornos de ansiedade, TEPT e TOC); NICE CG113; BAP 2014."
+ },
+ "Transtorno de pânico": {
+  "area": "Ansiedade",
+  "resumo": "Ataques de pânico recorrentes e inesperados com medo persistente de novos ataques e evitação, frequentemente com agorafobia. TCC com exposição interoceptiva é o tratamento de maior efeito duradouro; ISRS e venlafaxina são a base farmacológica. Pacientes com pânico são sensíveis à ativação inicial dos antidepressivos.",
+  "avaliacao": [
+   "Descartar causas cardíacas, endócrinas e uso de substâncias (cafeína, cocaína, abstinência de álcool ou benzodiazepínico).",
+   "Agorafobia e comorbidade com depressão.",
+   "Uso atual de benzodiazepínicos."
+  ],
+  "nao_farmacologico": [
+   "TCC com psicoeducação sobre o ciclo do pânico, exposição interoceptiva e in vivo.",
+   "Redução de cafeína."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha (CANMAT 2014)",
+    "texto": "Citalopram, escitalopram, fluoxetina, fluvoxamina, paroxetina, sertralina ou venlafaxina, começando com um quarto a metade da dose inicial usual (ex.: sertralina 25 mg, escitalopram 5 mg)."
+   },
+   {
+    "titulo": "Ponte",
+    "texto": "Clonazepam 0,5 a 1 mg/dia por 2 a 6 semanas, com plano de retirada."
+   },
+   {
+    "titulo": "Segunda linha",
+    "texto": "Clomipramina, imipramina, mirtazapina, reboxetina, benzodiazepínicos (alprazolam, clonazepam, lorazepam, diazepam)."
+   },
+   {
+    "titulo": "Terceira linha e não recomendados",
+    "texto": "Terceira linha: IMAO, antipsicóticos atípicos, duloxetina, bupropiona, gabapentina. Não recomendados no pânico (CANMAT 2014): buspirona, propranolol, trazodona e tiagabina."
+   }
+  ],
+  "duracao": "Pelo menos 12 meses após remissão, com retirada gradual; TCC reduz recaída na retirada.",
+  "armadilhas": [
+   "Uso de alprazolam 'se necessário' como estratégia principal.",
+   "Doses iniciais altas que precipitam abandono.",
+   "Não abordar a evitação agorafóbica."
+  ],
+  "diretrizes": "CANMAT 2014; APA 2009; NICE CG113."
+ },
+ "Fobia social": {
+  "area": "Ansiedade",
+  "resumo": "Medo intenso de avaliação negativa em situações sociais, com evitação e prejuízo. Início na adolescência e curso crônico. TCC individual tem o maior efeito em metanálises; ISRS e venlafaxina são a primeira linha farmacológica. Ansiedade de desempenho isolada é um quadro diferente, que responde a betabloqueadores.",
+  "avaliacao": [
+   "Subtipo de desempenho isolado versus generalizado.",
+   "Uso de álcool para enfrentar situações sociais.",
+   "Depressão comórbida."
+  ],
+  "nao_farmacologico": [
+   "TCC individual (modelo de Clark e Wells) e exposição."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha (CANMAT 2014)",
+    "texto": "Escitalopram, fluvoxamina, paroxetina, sertralina, venlafaxina e pregabalina."
+   },
+   {
+    "titulo": "Segunda linha",
+    "texto": "Benzodiazepínicos (clonazepam, alprazolam, bromazepam), citalopram, fenelzina (IMAO com o maior efeito em ensaios antigos) e gabapentina."
+   },
+   {
+    "titulo": "Terceira linha",
+    "texto": "Fluoxetina, moclobemida, mirtazapina, duloxetina, bupropiona, clomipramina, topiramato; potencialização com aripiprazol, risperidona ou buspirona."
+   },
+   {
+    "titulo": "Desempenho isolado",
+    "texto": "Propranolol 10 a 40 mg 1 hora antes. Betabloqueadores, buspirona e quetiapina não são recomendados para a ansiedade social generalizada."
+   }
+  ],
+  "duracao": "Pelo menos 12 meses após resposta.",
+  "armadilhas": [
+   "Tratar ansiedade social generalizada só com betabloqueador.",
+   "Ignorar o uso de álcool como automedicação."
+  ],
+  "diretrizes": "CANMAT 2014; NICE CG159."
+ },
+ "TEPT": {
+  "area": "Ansiedade",
+  "resumo": "Revivescências, evitação, alterações negativas de cognição e humor e hiperexcitação após evento traumático. Psicoterapias focadas no trauma (processamento cognitivo, exposição prolongada, EMDR, TCC focada no trauma) têm efeito maior que qualquer fármaco. Farmacoterapia é indicada quando a psicoterapia não está disponível, não é aceita, ou há comorbidade que a justifique.",
+  "avaliacao": [
+   "Tempo desde o trauma: nas primeiras 4 semanas é reação aguda ao estresse.",
+   "Risco atual (violência doméstica em curso).",
+   "Depressão, uso de substâncias, risco de suicídio.",
+   "Sono e pesadelos.",
+   "Lesão cerebral traumática em vítimas de acidentes e militares."
+  ],
+  "nao_farmacologico": [
+   "Psicoterapia focada no trauma como primeira linha.",
+   "Tratamento do uso de substâncias em paralelo.",
+   "Terapia específica para pesadelos (ensaio de imagens)."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha",
+    "texto": "Sertralina, paroxetina e venlafaxina (as únicas recomendadas pelo VA/DoD 2023); fluoxetina também é primeira linha no CANMAT 2014."
+   },
+   {
+    "titulo": "Pesadelos",
+    "texto": "O VA/DoD 2023 sugere prazosina para pesadelos, mas não como tratamento do TEPT global; terapia de ensaio de imagens."
+   },
+   {
+    "titulo": "Resposta parcial",
+    "texto": "Trocar de antidepressivo; mirtazapina (segunda linha no CANMAT); quetiapina em monoterapia (Villarreal 2016; terceira linha no CANMAT 2014 e não recomendada pelo VA/DoD 2023); potencialização com antipsicótico tem resultados mistos (risperidona negativa em veteranos)."
+   },
+   {
+    "titulo": "Evitar",
+    "texto": "Benzodiazepínicos (VA/DoD recomenda contra: sem benefício e com riscos, inclusive de piorar o desfecho) e derivados de cannabis. Nenhuma intervenção farmacológica demonstrou prevenir TEPT após o trauma."
+   }
+  ],
+  "duracao": "Manter 6 a 12 meses após resposta; recaída alta na retirada precoce.",
+  "armadilhas": [
+   "Prescrever benzodiazepínico logo após o trauma para 'prevenir' TEPT.",
+   "Não oferecer psicoterapia focada no trauma.",
+   "Debriefing psicológico obrigatório após trauma (não previne e pode piorar)."
+  ],
+  "diretrizes": "VA/DoD 2023; CANMAT 2014; NICE NG116; ISTSS 2019."
+ },
+ "TOC": {
+  "area": "Ansiedade",
+  "resumo": "Obsessões e compulsões que consomem tempo ou causam sofrimento, com grau variável de insight. Exposição com prevenção de resposta (EPR) e ISRS são os tratamentos de primeira linha. O TOC exige doses mais altas e mais tempo que a depressão, e cerca de 40 a 60% não respondem plenamente ao primeiro ISRS.",
+  "avaliacao": [
+   "Gravidade (Y-BOCS), insight e tempo gasto.",
+   "Tiques e história familiar de tiques (preveem melhor resposta a antipsicótico associado).",
+   "Depressão e risco de suicídio.",
+   "Diagnósticos do espectro: dismórfico corporal, acumulação, tricotilomania.",
+   "Início súbito em crianças após infecção (PANS e PANDAS)."
+  ],
+  "nao_farmacologico": [
+   "EPR com terapeuta treinado, com participação da família quando há acomodação.",
+   "EMT profunda aprovada para TOC resistente.",
+   "Neurocirurgia (capsulotomia, estimulação cerebral profunda) em casos extremos, em centros."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha (CANMAT 2014)",
+    "texto": "Todos os ISRS, exceto citalopram (escitalopram, fluoxetina, fluvoxamina, paroxetina, sertralina), em dose alta por 8 a 12 semanas, com EPR."
+   },
+   {
+    "titulo": "Segunda linha",
+    "texto": "Clomipramina, citalopram, mirtazapina e venlafaxina. Doses acima da bula de ISRS (ex.: sertralina 250 a 400 mg) em quem tolera, com ECG quando necessário."
+   },
+   {
+    "titulo": "Potencialização",
+    "texto": "Adjuvantes de primeira linha: risperidona 0,5 a 2 mg ou aripiprazol 5 a 15 mg (resposta em cerca de um terço; manter por 1 a 3 meses e suspender se não houver ganho). Segunda linha: quetiapina, memantina e topiramato. Evidência menor: N-acetilcisteína, lamotrigina, ondansetrona."
+   },
+   {
+    "titulo": "Refratários",
+    "texto": "Clomipramina intravenosa, EMT profunda, neurocirurgia em centros especializados."
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Tiques comórbidos",
+    "preferir": "potencialização precoce com risperidona ou aripiprazol",
+    "evitar": ""
+   },
+   {
+    "se": "Polifarmácia",
+    "preferir": "sertralina, escitalopram",
+    "evitar": "fluvoxamina"
+   },
+   {
+    "se": "Cardiopatia ou epilepsia",
+    "preferir": "sertralina",
+    "evitar": "clomipramina, citalopram em dose alta"
+   },
+   {
+    "se": "Criança ou adolescente",
+    "preferir": "sertralina, fluoxetina, fluvoxamina com EPR",
+    "evitar": "clomipramina como primeira linha"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Puerpério",
+    "texto": "TOC puerperal com pensamentos intrusivos de dano ao bebê é egodistônico, sem intenção; diferenciar de psicose puerperal e tratar com EPR e ISRS."
+   }
+  ],
+  "duracao": "Manter 1 a 2 anos após resposta; retirada lenta, com EPR ativa para reduzir recaída.",
+  "armadilhas": [
+   "Doses de depressão por tempo curto.",
+   "Potencializar com benzodiazepínicos.",
+   "Manter antipsicótico potencializador indefinidamente sem benefício demonstrado.",
+   "Não oferecer EPR."
+  ],
+  "monitorar": [
+   "Y-BOCS",
+   "ECG com clomipramina ou citalopram e escitalopram em dose alta",
+   "Peso com antipsicóticos"
+  ],
+  "diretrizes": "CANMAT 2014; APA 2007 (atualização 2013); NICE CG31; WFSBP; Maudsley."
+ },
+ "Espectro obsessivo": {
+  "area": "Ansiedade",
+  "resumo": "Inclui transtorno dismórfico corporal, tricotilomania, escoriação, acumulação e comportamentos repetitivos. Compartilham o caráter repetitivo e a dificuldade de controle, mas respondem de forma diferente: o dismórfico corporal se comporta como TOC e responde a ISRS em dose alta, enquanto tricotilomania e escoriação respondem pouco a ISRS e mais a terapia de reversão de hábito e N-acetilcisteína.",
+  "avaliacao": [
+   "Insight (no dismórfico corporal pode ser delirante, sem mudar a indicação de ISRS).",
+   "Risco de suicídio, alto no dismórfico corporal.",
+   "Procedimentos estéticos buscados (raramente ajudam)."
+  ],
+  "nao_farmacologico": [
+   "TCC específica para dismórfico corporal.",
+   "Terapia de reversão de hábito e ACT para tricotilomania e escoriação."
+  ],
+  "etapas": [
+   {
+    "titulo": "Dismórfico corporal",
+    "texto": "ISRS em dose alta (fluoxetina, escitalopram, sertralina) por 12 a 16 semanas; clomipramina; potencialização com aripiprazol ou buspirona."
+   },
+   {
+    "titulo": "Tricotilomania e escoriação",
+    "texto": "Terapia de reversão de hábito; N-acetilcisteína 1.200 a 2.400 mg/dia; olanzapina em dose baixa e naltrexona com evidência menor."
+   }
+  ],
+  "diretrizes": "NICE CG31; revisões de Grant e Phillips."
+ },
+ "Transtornos de ansiedade": {
+  "area": "Ansiedade",
+  "resumo": "Categoria ampla usada quando o uso se refere a ansiedade em geral ou a sintomas ansiosos em outros quadros. Consulte TAG, transtorno de pânico, fobia social e TEPT para abordagens específicas. Benzodiazepínicos, pregabalina e hidroxizina aliviam sintomas, mas não substituem o tratamento do transtorno de base."
+ },
+ "Ansiedade de desempenho": {
+  "area": "Ansiedade",
+  "resumo": "Ansiedade limitada a apresentações, provas ou performances, com sintomas autonômicos (tremor, taquicardia, voz trêmula). Propranolol em dose única antes do evento reduz os sintomas físicos; TCC e treino de exposição tratam o medo. Se a ansiedade se estender a outras situações sociais, tratar como fobia social."
+ },
+ "Insônia": {
+  "area": "Sono",
+  "resumo": "Dificuldade de iniciar ou manter o sono, ou despertar precoce, com prejuízo diurno, pelo menos 3 noites por semana por 3 meses (crônica). É fator de risco e sintoma de vários transtornos psiquiátricos e deve ser tratada mesmo quando comórbida. TCC-I é primeira linha, com efeito que persiste após o fim do tratamento; hipnóticos são complementares e, idealmente, por tempo limitado ou intermitente.",
+  "avaliacao": [
+   "Diário do sono por 2 semanas.",
+   "Apneia obstrutiva (ronco, pausas, sonolência diurna, obesidade), síndrome das pernas inquietas, transtornos do ritmo circadiano.",
+   "Transtornos psiquiátricos comórbidos, dor, noctúria.",
+   "Substâncias: cafeína, álcool, estimulantes, antidepressivos ativadores, corticoides.",
+   "Uso atual e prévio de hipnóticos."
+  ],
+  "nao_farmacologico": [
+   "TCC-I: controle de estímulos, restrição de sono, reestruturação cognitiva, higiene do sono (isolada tem efeito pequeno).",
+   "Versões digitais de TCC-I têm eficácia demonstrada.",
+   "Exposição à luz pela manhã nos atrasos de fase."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha",
+    "texto": "TCC-I para todos, inclusive para os que já usam hipnótico (AASM 2021, diretriz europeia 2023)."
+   },
+   {
+    "titulo": "Fármacos (AASM 2017)",
+    "texto": "Sugestões fracas: para início do sono, zolpidem, eszopiclona, ramelteona; para manutenção, zolpidem, eszopiclona, suvorexanto (e, por extensão, outros antagonistas de orexina) e doxepina em dose baixa (não disponível no Brasil). A AASM sugere não usar trazodona, melatonina, difenidramina e valeriana na insônia crônica."
+   },
+   {
+    "titulo": "Diretriz europeia 2023",
+    "texto": "Drogas Z e benzodiazepínicos por até 4 semanas; daridorexanto por até 3 meses; antidepressivos sedativos em dose baixa por curto prazo; melatonina de liberação prolongada por até 3 meses acima de 55 anos. Não recomenda antipsicóticos, anti-histamínicos e fitoterápicos."
+   },
+   {
+    "titulo": "Com comorbidade psiquiátrica",
+    "texto": "Tratar o transtorno de base; antidepressivo sedativo (mirtazapina, trazodona, agomelatina) faz sentido quando também há depressão."
+   },
+   {
+    "titulo": "Retirada de hipnótico crônico",
+    "texto": "Redução gradual combinada com TCC-I aumenta a taxa de sucesso."
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Dificuldade para iniciar o sono",
+    "preferir": "zolpidem, ramelteona",
+    "evitar": ""
+   },
+   {
+    "se": "Despertares noturnos",
+    "preferir": "antagonistas de orexina, eszopiclona",
+    "evitar": ""
+   },
+   {
+    "se": "Idosos",
+    "preferir": "TCC-I, antagonistas de orexina, melatonina de liberação prolongada",
+    "evitar": "benzodiazepínicos, anti-histamínicos, antipsicóticos"
+   },
+   {
+    "se": "História de uso de substâncias",
+    "preferir": "TCC-I, antagonistas de orexina, ramelteona; trazodona na prática, apesar da evidência fraca",
+    "evitar": "benzodiazepínicos, drogas Z"
+   },
+   {
+    "se": "Apneia do sono",
+    "preferir": "tratar a apneia; antagonistas de orexina têm segurança respiratória melhor",
+    "evitar": "benzodiazepínicos"
+   },
+   {
+    "se": "Atraso de fase",
+    "preferir": "melatonina em dose baixa no horário certo e luz pela manhã",
+    "evitar": ""
+   }
+  ],
+  "duracao": "Hipnóticos: curto prazo (até 4 semanas) ou uso intermitente; antagonistas de orexina e eszopiclona têm estudos de 6 a 12 meses. Reavaliar sempre a necessidade.",
+  "armadilhas": [
+   "Prescrever benzodiazepínico ou quetiapina como hipnótico crônico.",
+   "Não investigar apneia.",
+   "Renovar hipnóticos por anos sem oferecer TCC-I.",
+   "Usar anti-histamínicos em idosos."
+  ],
+  "diretrizes": "AASM 2017 (farmacológica) e 2021 (comportamental); European Insomnia Guideline 2023 (Riemann et al.); ACP 2016."
+ }
+}

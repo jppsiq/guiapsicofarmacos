@@ -1,0 +1,357 @@
+{
+ "Insônia": [
+  {
+   "id": "higiene-do-sono",
+   "titulo": "Higiene do sono",
+   "subtitulo": "Hábitos que ajudam o sono a voltar ao ritmo",
+   "publico": "Paciente",
+   "figura": "rotina-dia",
+   "figura_legenda": "Horários regulares ao longo do dia ajudam o relógio do corpo.",
+   "figura_posicao": "fim",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Para que serve", "texto": "Insônia é a dificuldade de pegar no sono, de manter o sono ou acordar cedo demais, com cansaço, irritação ou falta de concentração no dia seguinte.\n\nOs hábitos abaixo preparam o terreno para o sono. Sozinhos, eles costumam ajudar pouco na insônia que já dura meses. Por isso funcionam melhor junto com as outras técnicas da **terapia cognitivo-comportamental para insônia (TCC-I)**: o controle de estímulos e a restrição do sono."},
+    {"tipo": "fazer", "titulo": "No dia a dia", "sim": ["Acorde **sempre no mesmo horário**, inclusive no fim de semana.", "Tome luz do dia pela manhã, de preferência ao ar livre, por 20 a 30 minutos.", "Faça atividade física regular, de preferência até o fim da tarde.", "Faça refeições em horários regulares; à noite, prefira algo leve.", "Reserve um tempo no começo da noite para anotar preocupações e tarefas do dia seguinte.", "Nas últimas 1 a 2 horas antes de deitar, desacelere: luz baixa, banho morno, leitura leve, música calma.", "Deixe o quarto escuro, silencioso, fresco e com cama confortável."], "nao": ["Café, chá preto, mate, refrigerante de cola, energético e chocolate depois do almoço.", "Bebida alcoólica para dormir: dá sono no início, mas deixa o sono leve e picado na segunda metade da noite.", "Cigarro perto da hora de dormir e ao acordar de madrugada.", "Cochilos longos ou no fim da tarde (se precisar, no máximo 20 a 30 minutos, antes das 15 horas).", "Celular, computador e televisão na cama.", "Olhar o relógio durante a noite.", "Exercício intenso nas 2 a 3 horas antes de deitar."]},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+     {"mito": "Preciso dormir 8 horas todas as noites.", "fato": "A necessidade varia de pessoa para pessoa e muda com a idade. O mais importante é como você se sente durante o dia."},
+     {"mito": "Se dormi mal, devo ficar mais tempo na cama para compensar.", "fato": "Ficar mais tempo na cama deixa o sono mais leve e picado. Levante no horário de sempre."},
+     {"mito": "Uma noite ruim vai estragar minha semana.", "fato": "O corpo recupera: depois de uma noite ruim, o sono seguinte costuma ser mais profundo."}
+    ]},
+    {"tipo": "checklist", "titulo": "Meu compromisso para as próximas 2 semanas", "itens": ["Horário fixo para acordar: ____:____", "Último café do dia até: ____:____", "Sem telas na cama", "Luz do dia pela manhã", "Tempo para as preocupações no começo da noite"]},
+    {"tipo": "destaque", "titulo": "Lembre", "texto": "Não se cobre para dormir: o sono vem quando o corpo está pronto. Seu papel é criar as condições e manter a regularidade."}
+   ],
+   "fonte": "AASM 2021 (tratamentos comportamentais da insônia); Diretriz europeia de insônia (Riemann et al., 2023)"
+  },
+  {
+   "id": "restricao-do-sono",
+   "titulo": "Restrição do sono (TCC-I)",
+   "subtitulo": "Menos tempo na cama para um sono mais firme",
+   "publico": "Paciente",
+   "figura": "janela-sono",
+   "figura_legenda": "A janela de sono começa do tamanho do sono real e cresce à medida que o sono fica mais firme.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Como funciona", "texto": "Quem tem insônia costuma passar muito tempo na cama tentando dormir. O resultado é um sono leve, picado, e a cama vira lugar de frustração.\n\nA restrição do sono combina o tempo que você passa na cama com o tempo que você **realmente dorme**. Isso aumenta a pressão de sono, e o sono fica mais profundo e contínuo. Depois, a janela vai sendo aumentada aos poucos. É uma das técnicas mais eficazes da TCC-I, e o efeito costuma durar depois que o tratamento termina. Faça sempre **com acompanhamento da equipe**."},
+    {"tipo": "passos", "titulo": "Passo a passo", "itens": [
+     "Preencha o **diário do sono** por 1 a 2 semanas, sem mudar nada.",
+     "Calcule a **média de horas realmente dormidas** por noite (some as horas dormidas de cada noite e divida pelo número de noites).",
+     "Essa média é a sua **janela de sono**. Se der menos de 5 horas, use **5 horas** (a janela nunca fica abaixo disso).",
+     "Escolha um **horário fixo para levantar**, que você consiga cumprir todos os dias, inclusive no fim de semana.",
+     "Horário de deitar = horário de levantar menos a janela. Antes desse horário, fique fora da cama, mesmo com sono.",
+     "Só deite no horário combinado **se estiver com sono**. Se não conseguir dormir em uns 15 a 20 minutos, levante e volte quando o sono vier (veja a ficha de controle de estímulos).",
+     "Nada de cochilos durante o dia enquanto durar o ajuste.",
+     "Continue preenchendo o diário e reveja a janela **uma vez por semana** com a regra abaixo."
+    ]},
+    {"tipo": "texto", "titulo": "Como calcular a eficiência do sono", "texto": "Eficiência do sono = (tempo dormindo ÷ tempo na cama) × 100.\n\nExemplo: você ficou 7 horas na cama (420 minutos) e dormiu 5 horas e meia (330 minutos). A eficiência é 330 ÷ 420 × 100 = 79%.\n\nNo exemplo, a janela inicial seria de 5 horas e meia. Se você quer levantar às 6h30, deita à 1h."},
+    {"tipo": "tabela", "titulo": "Regra de ajuste semanal", "texto": "Use a média de eficiência da última semana.", "colunas": ["Eficiência média da semana", "O que fazer com a janela"], "linhas": [["85% ou mais", "Aumente **15 minutos** (deite 15 minutos mais cedo)"], ["80% a 84%", "Mantenha a janela"], ["Abaixo de 80%", "Diminua 15 minutos, sem nunca ficar abaixo de 5 horas"]]},
+    {"tipo": "fazer", "titulo": "Cuidados importantes", "sim": ["Espere mais sono durante o dia nas primeiras 1 a 2 semanas: é sinal de que a técnica está agindo.", "**Não dirija nem opere máquinas** se estiver sonolento. Planeje outra forma de transporte nesses dias.", "Avise a equipe antes de começar se tiver transtorno bipolar, epilepsia, apneia do sono, risco de queda ou trabalho em que a sonolência seja perigosa.", "Mantenha o horário de levantar mesmo depois de uma noite ruim."], "nao": ["Mudar os remédios para dormir por conta própria durante a técnica.", "Compensar com cochilos ou ficar na cama além da janela.", "Desistir na primeira semana: a melhora costuma aparecer entre a 2ª e a 4ª semana."]},
+    {"tipo": "anotar", "titulo": "Minha janela", "texto": "Média de sono do diário: ____ h ____ min. Janela: ____ h ____ min. Levantar às ____:____. Deitar a partir de ____:____.", "linhas_vazias": 3}
+   ],
+   "ajuda": ["Se ficar com sono ao volante ou cochilar em situação de risco, pare a técnica e fale com a equipe.", "Se tiver transtorno bipolar e notar pouca necessidade de sono, aceleração ou euforia, procure a equipe logo."],
+   "fonte": "AASM 2021 (tratamentos comportamentais da insônia); Diretriz europeia de insônia (Riemann et al., 2023); protocolo de Spielman"
+  },
+  {
+   "id": "controle-de-estimulos",
+   "titulo": "Controle de estímulos",
+   "subtitulo": "Ensinar o corpo que a cama é lugar de dormir",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que funciona", "texto": "Depois de muitas noites rolando na cama, preocupado ou olhando o celular, o cérebro passa a ligar a cama com **ficar acordado**. Muita gente percebe que cochila no sofá, mas desperta ao deitar.\n\nO controle de estímulos refaz essa ligação: a cama volta a ser o sinal de dormir. É uma técnica da TCC-I com boa eficácia e costuma ser usada junto com a restrição do sono."},
+    {"tipo": "passos", "titulo": "As regras", "itens": [
+     "Vá para a cama **só quando estiver com sono** (olhos pesando, cabeça caindo), e não só cansado.",
+     "Use a cama apenas para dormir e para a vida sexual. Nada de celular, televisão, comer, trabalhar ou se preocupar na cama.",
+     "Se não dormir em uns **15 a 20 minutos** (calcule por estimativa, sem olhar o relógio), levante e vá para outro cômodo.",
+     "Faça algo calmo, com luz baixa: ler algo leve, ouvir música tranquila, uma atividade manual simples. Evite telas e tarefas estimulantes.",
+     "Volte para a cama só quando o sono voltar. Se de novo não dormir, repita quantas vezes forem necessárias.",
+     "Levante **no mesmo horário todas as manhãs**, não importa quanto dormiu.",
+     "Não cochile durante o dia."
+    ]},
+    {"tipo": "lista", "titulo": "Dicas práticas", "itens": ["Deixe preparado antes de deitar um canto fora do quarto com manta, luz fraca e um livro.", "Em noites frias, deixe um agasalho perto da cama.", "Se divide o quarto, combine com a outra pessoa como vai sair sem acordá-la.", "Tire o relógio de vista: olhar as horas aumenta a ansiedade."]},
+    {"tipo": "destaque", "titulo": "Paciência", "texto": "As primeiras noites podem ser mais difíceis, com várias idas e voltas. Isso é esperado. Com constância, em algumas semanas o sono tende a vir mais rápido ao deitar."}
+   ],
+   "ajuda": ["Levantar à noite exige cuidado: se tem tontura, risco de queda ou usa remédio para dormir, acenda uma luz fraca e peça orientação à equipe."],
+   "fonte": "AASM 2021 (tratamentos comportamentais da insônia); Bootzin, controle de estímulos"
+  },
+  {
+   "id": "diario-do-sono",
+   "titulo": "Diário do sono",
+   "subtitulo": "Anote pela manhã, em poucos minutos",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Como preencher", "texto": "Preencha **logo ao acordar**, com uma estimativa. Não precisa ser exato e não olhe o relógio durante a noite para isso. Traga o diário nas consultas: ele mostra quanto você realmente dorme e ajuda a calcular sua janela de sono."},
+    {"tipo": "tabela", "titulo": "Exemplo", "colunas": ["Data", "Deitei", "Apaguei a luz", "Demorei para dormir", "Acordei à noite (vezes e tempo)", "Acordei de vez", "Saí da cama", "Cochilos", "Café, álcool, remédio", "Qualidade (1 a 5)"], "linhas": [["12/3", "22h30", "23h", "1 hora", "2 vezes, 40 min", "5h30", "7h", "Não", "Café às 16h", "2"]]},
+    {"tipo": "tabela", "titulo": "Meu diário", "colunas": ["Data", "Deitei", "Apaguei a luz", "Demorei para dormir", "Acordei à noite (vezes e tempo)", "Acordei de vez", "Saí da cama", "Cochilos", "Café, álcool, remédio", "Qualidade (1 a 5)"], "linhas": [], "linhas_vazias": 14},
+    {"tipo": "texto", "titulo": "Contas para a consulta", "texto": "**Tempo na cama**: de quando apagou a luz até sair da cama. No exemplo, das 23h às 7h = 8 horas.\n\n**Tempo dormindo**: tempo na cama menos o tempo para dormir, menos o tempo acordado à noite, menos o tempo entre acordar de vez e sair da cama. No exemplo: 8 h menos 1 h, menos 40 min, menos 1 h 30 = 4 h 50 min.\n\n**Eficiência**: tempo dormindo ÷ tempo na cama × 100. No exemplo: 290 ÷ 480 × 100 = 60%."},
+    {"tipo": "anotar", "titulo": "Médias da semana", "texto": "Tempo médio na cama: ______ Tempo médio dormindo: ______ Eficiência média: ______ %", "linhas_vazias": 3}
+   ],
+   "fonte": "Consensus Sleep Diary (Carney et al., 2012); AASM 2021"
+  }
+ ],
+
+ "Narcolepsia e sonolência": [
+  {
+   "id": "o-que-e-narcolepsia",
+   "titulo": "Narcolepsia: o que é e como se trata",
+   "subtitulo": "Sono demais durante o dia não é preguiça",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A narcolepsia é uma doença do cérebro em que o controle entre o sono e a vigília falha. A pessoa tem **sonolência intensa durante o dia**, mesmo dormindo o suficiente à noite, e pode cochilar sem querer em aulas, conversas ou no trânsito.\n\nMuitas vezes começa na adolescência ou no início da vida adulta, e a pessoa passa anos sendo chamada de preguiçosa ou desatenta antes do diagnóstico. Não é falta de força de vontade."},
+    {"tipo": "lista", "titulo": "Outros sintomas que podem aparecer", "itens": ["**Cataplexia**: perda súbita de força nas pernas, no rosto ou no pescoço ao rir, se surpreender ou ficar com raiva. A pessoa fica consciente e se recupera em segundos ou minutos.", "**Paralisia do sono**: acordar sem conseguir se mexer por alguns segundos ou minutos. Assusta, mas passa sozinha.", "**Visões ou sensações muito vívidas** ao adormecer ou ao acordar. Não significam loucura nem esquizofrenia.", "Sono noturno picado, sonhos intensos.", "Fazer coisas no automático sem lembrar depois."]},
+    {"tipo": "texto", "titulo": "Como se confirma", "texto": "O diagnóstico é feito com a história, um diário do sono e exames em laboratório do sono: a polissonografia (sono da noite) e o teste de latências múltiplas (cochilos programados durante o dia). A equipe também procura outras causas de sonolência, como sono insuficiente, apneia do sono, depressão e efeito de remédios."},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "Não há cura, mas o tratamento melhora muito o dia a dia. Ele combina **hábitos** (horários regulares e cochilos programados) com **remédios**: medicamentos que aumentam o estado de alerta (como a modafinila e os estimulantes) e, quando há cataplexia, alguns antidepressivos que também a controlam. Outras opções existem, mas têm acesso limitado no Brasil.\n\nOs remédios precisam de acompanhamento: podem causar dor de cabeça, perda de apetite, insônia, ansiedade ou aumento da pressão. A **modafinila pode reduzir o efeito do anticoncepcional hormonal**: converse com a equipe sobre outro método. Não pare de repente um antidepressivo usado para cataplexia, pois ela pode piorar muito."},
+    {"tipo": "destaque", "titulo": "Para a família", "texto": "Cochilar sem querer não é descaso. Ajude a manter a rotina de sono e combine com a escola ou o trabalho os cochilos programados."}
+   ],
+   "ajuda": ["Cochilo ou quase acidente ao dirigir: não dirija e fale com a equipe.", "Tristeza profunda ou pensamentos de morte: procure ajuda no mesmo dia."],
+   "fonte": "AASM 2021 (tratamento das hipersonias do sistema nervoso central); ICSD-3-TR (AASM, 2023)"
+  },
+  {
+   "id": "sonolencia-seguranca",
+   "titulo": "Vivendo com a sonolência",
+   "subtitulo": "Cochilos programados, direção e segurança",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Cochilos programados", "texto": "Na narcolepsia, um cochilo curto costuma deixar a pessoa revigorada por algumas horas. Planejar os cochilos ajuda a evitar os ataques de sono em hora errada.\n\nCombine com a equipe quantos cochilos fazer. Muitas pessoas se dão bem com 2 ou 3 cochilos de **15 a 20 minutos**, em horários fixos (por exemplo, no almoço e no meio da tarde)."},
+    {"tipo": "fazer", "titulo": "No dia a dia", "sim": ["Durma e acorde em horários regulares, com tempo suficiente de sono à noite.", "Faça refeições leves: refeições pesadas aumentam a sonolência.", "Pratique atividade física regular.", "Avise a escola ou o trabalho sobre a condição e peça adaptações (cochilos, pausas, horários).", "Tome os remédios nos horários combinados; os de alerta, em geral, pela manhã e no início da tarde."], "nao": ["Álcool, maconha e remédios sedativos sem orientação: pioram a sonolência.", "Atividades de risco sozinho (nadar, subir em altura, operar máquinas) sem controle adequado dos sintomas.", "Dirigir com sono ou antes de o tratamento estar ajustado."]},
+    {"tipo": "checklist", "titulo": "Antes de dirigir", "itens": ["Meu tratamento está ajustado e a equipe liberou a direção", "Dormi bem na noite anterior", "Fiz um cochilo curto antes de sair em viagens mais longas", "Vou parar a cada 1 a 2 horas", "Se sentir sono, paro em local seguro e cochilo"]},
+    {"tipo": "tabela", "titulo": "Registro de sonolência", "texto": "Anote por 2 semanas e leve à consulta.", "colunas": ["Data", "Cochilos programados (horário)", "Ataques de sono sem querer", "Cataplexia (vezes)", "Remédios e horário", "Observações"], "linhas": [], "linhas_vazias": 7}
+   ],
+   "ajuda": ["Cochilou dirigindo ou quase causou um acidente: pare de dirigir e fale com a equipe."],
+   "fonte": "AASM 2021 (tratamento das hipersonias do sistema nervoso central)"
+  }
+ ],
+
+ "Síndrome das pernas inquietas": [
+  {
+   "id": "o-que-e-spi",
+   "titulo": "Síndrome das pernas inquietas",
+   "subtitulo": "O que é e como se trata",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "É uma vontade forte, difícil de controlar, de **mexer as pernas** quando você está sentado ou deitado. Vem junto com sensações desagradáveis: formigamento, repuxar, agonia, como se algo andasse por dentro. Melhora quando você anda ou mexe as pernas e volta quando para. É **pior no fim da tarde e à noite** e atrapalha o sono.\n\nÉ comum, pode ser de família e tem tratamento."},
+    {"tipo": "lista", "titulo": "O que pode causar ou piorar", "itens": ["**Falta de ferro** no corpo, mesmo sem anemia. Por isso a equipe pede exame de ferritina.", "Gravidez, doença renal, diabetes, problemas nos nervos das pernas.", "Alguns remédios: vários antidepressivos, antipsicóticos, antialérgicos que dão sono e remédios para enjoo.", "Café, álcool, cigarro e noites mal dormidas."]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "Se o ferro estiver baixo, a reposição pode melhorar muito os sintomas. Tome o ferro como orientado; ele age melhor com o estômago vazio ou com vitamina C e longe de leite, café e antiácidos.\n\nOs remédios mais usados hoje são a gabapentina e a pregabalina, que podem dar sonolência e tontura. Outra classe, a dos agonistas da dopamina, funciona bem no início, mas com o tempo pode causar **aumento** (em inglês, augmentation): os sintomas passam a começar mais cedo, ficam mais fortes ou chegam aos braços. Se notar isso, **não aumente a dose por conta própria**: fale com a equipe."},
+    {"tipo": "destaque", "titulo": "Importante", "texto": "Antes de começar qualquer remédio novo, inclusive para dormir, enjoo ou alergia, avise que você tem pernas inquietas."}
+   ],
+   "fonte": "AASM 2024 (diretriz de tratamento da síndrome das pernas inquietas); IRLSSG"
+  },
+  {
+   "id": "alivio-pernas-inquietas",
+   "titulo": "Alívio no dia a dia",
+   "subtitulo": "Hábitos e registro dos sintomas",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "fazer", "titulo": "O que costuma ajudar", "sim": ["Caminhar ou alongar as pernas quando a vontade começar.", "Massagem, banho morno ou compressa nas pernas antes de deitar.", "Atividade física moderada e regular, sem exagero à noite.", "Manter a mente ocupada em momentos parados (palavras cruzadas, conversa, tarefa manual).", "Horários regulares de sono.", "Em viagens, cinema ou reuniões, escolher assento no corredor para poder levantar."], "nao": ["Café, chá preto, refrigerante de cola e energético, sobretudo à tarde.", "Bebida alcoólica e cigarro.", "Começar remédio para dormir, alergia ou enjoo sem orientação.", "Aumentar a dose do remédio por conta própria quando os sintomas piorarem."]},
+    {"tipo": "tabela", "titulo": "Registro dos sintomas", "texto": "Preencha por 2 semanas, principalmente depois de iniciar ou trocar tratamento.", "colunas": ["Data", "Hora em que começou", "Intensidade (0 a 10)", "Partes do corpo", "Atrapalhou o sono?", "Remédios e horário", "Café ou álcool"], "linhas": [], "linhas_vazias": 10},
+    {"tipo": "anotar", "titulo": "Perguntas para a consulta", "linhas_vazias": 4}
+   ],
+   "fonte": "AASM 2024 (diretriz de tratamento da síndrome das pernas inquietas); IRLSSG"
+  }
+ ],
+
+ "Esquizofrenia": [
+  {
+   "id": "o-que-e-esquizofrenia",
+   "titulo": "Esquizofrenia: o que é e como se trata",
+   "subtitulo": "Uma doença que tem tratamento e em que a recuperação é possível",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A esquizofrenia é uma doença do cérebro que muda a forma de perceber, pensar e sentir. Costuma começar entre o fim da adolescência e os 30 anos. Não é culpa da pessoa nem da família, e não é dupla personalidade.\n\nA doença tem fases: períodos de crise (surto), em que os sintomas ficam fortes, e períodos de estabilidade. Com tratamento contínuo, muitas pessoas voltam a estudar, trabalhar e conviver bem."},
+    {"tipo": "lista", "titulo": "Os sintomas se juntam em grupos", "itens": ["**Sintomas positivos** (coisas que aparecem): ouvir vozes que os outros não ouvem (alucinações), ter certezas que não correspondem à realidade, como achar que está sendo perseguido (delírios), fala e comportamento desorganizados.", "**Sintomas negativos** (coisas que diminuem): menos vontade, menos prazer, menos fala, expressão das emoções mais apagada, isolamento.", "**Sintomas cognitivos**: dificuldade de atenção, memória e planejamento.", "**Sintomas de humor**: tristeza, ansiedade."]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "O tratamento tem várias partes que se somam:\n\n**Remédio antipsicótico**, tomado todos os dias ou em injeção de longa duração. Ele reduz os sintomas e, principalmente, **protege contra novas crises**. A melhora começa em dias a semanas; a completa pode levar meses. Parar o remédio é a principal causa de recaída.\n\n**Apoio psicossocial**: psicoeducação para a família, terapia, reabilitação, apoio para estudar e trabalhar. No SUS, o **CAPS** oferece esse cuidado.\n\n**Saúde do corpo**: alguns remédios aumentam peso, glicose e colesterol. Exames periódicos, atividade física, alimentação saudável e parar de fumar fazem diferença."},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+     {"mito": "Pessoas com esquizofrenia são perigosas.", "fato": "A grande maioria não é violenta. Elas têm mais risco de serem vítimas de violência do que de praticá-la."},
+     {"mito": "Se melhorou, pode parar o remédio.", "fato": "A melhora vem justamente do tratamento. Parar aumenta muito o risco de nova crise. Qualquer mudança deve ser combinada com a equipe."},
+     {"mito": "Maconha acalma e não faz mal.", "fato": "A maconha piora os sintomas e aumenta o risco de recaída."}
+    ]},
+    {"tipo": "anotar", "titulo": "Minhas anotações", "linhas_vazias": 4}
+   ],
+   "ajuda": ["Pensamentos de se machucar ou de morrer.", "Vozes mandando fazer algo perigoso.", "Recusa total de comer ou beber, ou confusão intensa."],
+   "fonte": "APA 2020 (tratamento da esquizofrenia); NICE CG178"
+  },
+  {
+   "id": "sinais-de-recaida",
+   "titulo": "Sinais de recaída: meu plano",
+   "subtitulo": "Perceber cedo para agir cedo",
+   "publico": "Paciente e família",
+   "figura": "semaforo",
+   "figura_legenda": "Verde: estável. Amarelo: sinais de alerta. Vermelho: crise.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que fazer um plano", "texto": "Uma crise raramente começa de um dia para o outro. Em geral, dias ou semanas antes aparecem **sinais de alerta**, que costumam se repetir de uma crise para outra. Quando você e a família conhecem esses sinais e sabem o que fazer, muitas crises podem ser evitadas ou ficar mais leves. Preencha este plano junto com a equipe e deixe uma cópia com alguém de confiança."},
+    {"tipo": "semaforo", "titulo": "Meu semáforo", "verde": ["Durmo em horários regulares", "Tomo o remédio todos os dias", "Mantenho minhas atividades e contatos", "Pensamentos organizados, me sinto tranquilo"], "amarelo": ["Sono pior ou trocado", "Ficar mais fechado no quarto, evitar pessoas", "Desconfiança, sensação de que falam de mim", "Irritação, ansiedade, dificuldade de concentração", "Esquecer ou pular o remédio", "Uso de álcool ou maconha", "Vozes ou ideias estranhas voltando, mesmo fracas"], "vermelho": ["Vozes fortes ou mandando fazer coisas", "Pensamentos de me machucar ou de morrer", "Agressividade ou ameaças", "Dias sem dormir ou sem comer", "Muita confusão, não reconhecer lugares ou pessoas"]},
+    {"tipo": "tabela", "titulo": "O que fazer em cada cor", "colunas": ["Cor", "O que fazer"], "linhas": [["Verde", "Manter o tratamento, a rotina e as consultas."], ["Amarelo", "Falar com a equipe ou o CAPS **nos próximos dias**, antes da consulta marcada. Reforçar o sono e o remédio, evitar álcool e drogas, diminuir o estresse."], ["Vermelho", "Procurar ajuda **no mesmo dia**: CAPS, UPA, pronto-socorro ou SAMU 192."]]},
+    {"tipo": "anotar", "titulo": "Meus sinais pessoais e contatos", "texto": "Meus primeiros sinais das últimas crises. Quem avisar. Telefone da equipe ou do CAPS.", "linhas_vazias": 6}
+   ],
+   "ajuda": ["Pensamentos de se machucar ou de tirar a própria vida.", "Vozes mandando fazer algo perigoso, agressividade.", "Dias sem dormir, sem comer ou sem beber."],
+   "fonte": "APA 2020 (tratamento da esquizofrenia); NICE CG178 (planos de crise e prevenção de recaída)"
+  },
+  {
+   "id": "injetavel-longa-duracao",
+   "titulo": "Injetável de longa duração",
+   "subtitulo": "O remédio que dura semanas ou meses",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "Alguns antipsicóticos existem em forma de **injeção de longa duração** (também chamada de depósito). O remédio fica guardado no músculo e é liberado aos poucos. Conforme o remédio, a aplicação é feita a cada 2 semanas, a cada mês, ou até a cada alguns meses.\n\nNão é castigo nem sinal de que o caso é mais grave. É uma forma prática de manter o tratamento, e muitas pessoas preferem assim."},
+    {"tipo": "lista", "titulo": "Vantagens", "itens": ["Não precisa lembrar de tomar comprimido todo dia.", "A equipe sabe que o remédio está no corpo, o que ajuda a entender se ele funciona.", "Reduz o risco de recaída e de internação, principalmente em quem já teve dificuldade com os comprimidos.", "Menos discussões em casa sobre ter tomado ou não o remédio."]},
+    {"tipo": "texto", "titulo": "O que esperar", "texto": "A aplicação é feita por um profissional de saúde, no braço ou no glúteo, na unidade ou no CAPS. Pode haver dor, vermelhidão ou endurecimento no local por alguns dias. Os efeitos colaterais são parecidos com os do mesmo remédio em comprimido: sono, ganho de peso, rigidez ou tremor, inquietação, alterações menstruais ou na vida sexual. Conte à equipe tudo o que notar: muitos efeitos podem ser ajustados.\n\nComo o remédio age por muito tempo, os efeitos também demoram a passar. Por isso, costuma-se testar antes a forma em comprimido."},
+    {"tipo": "fazer", "titulo": "Cuidados", "sim": ["Anote a data da próxima aplicação e peça lembrete.", "Se perder a data, procure a equipe **o quanto antes**: a demora pode baixar o nível do remédio.", "Mantenha as consultas e os exames de peso, glicose e colesterol."], "nao": ["Deixar de ir à aplicação porque está bem.", "Tomar outros remédios, álcool ou drogas sem conversar com a equipe."]},
+    {"tipo": "tabela", "titulo": "Minhas aplicações", "colunas": ["Data", "Remédio", "Local (braço ou glúteo)", "Próxima data", "Observações"], "linhas": [], "linhas_vazias": 6}
+   ],
+   "fonte": "APA 2020 (tratamento da esquizofrenia); NICE CG178"
+  },
+  {
+   "id": "orientacao-familia",
+   "titulo": "Orientação à família",
+   "subtitulo": "Como ajudar sem se esgotar",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O clima em casa faz diferença", "texto": "Estudos mostram que o ambiente familiar influencia o risco de recaída. Os pesquisadores chamam de **emoção expressa** alta um clima com muitas **críticas**, **hostilidade** ou **superproteção** (preocupação e controle excessivos). Isso não quer dizer que a família cause a doença. Quer dizer que um ambiente mais calmo protege a pessoa.\n\nFamílias que participam de psicoeducação aprendem a lidar melhor com a doença, e as recaídas diminuem."},
+    {"tipo": "fazer", "titulo": "No dia a dia", "sim": ["Fale com calma, em frases curtas e claras, uma coisa de cada vez.", "Elogie os pequenos avanços e esforços.", "Diante de um delírio, não discuta nem concorde: diga que entende que aquilo assusta e fale sobre o sentimento.", "Combine regras simples da casa, com clareza e poucos itens.", "Dê espaço: a pessoa às vezes precisa ficar mais quieta.", "Aprenda os sinais de recaída e tenha um plano de crise.", "Cuide de você: descanso, lazer, apoio de amigos e grupos de família."], "nao": ["Criticar, chamar de preguiçoso ou comparar com outras pessoas.", "Gritar, ameaçar ou discutir em momentos de tensão.", "Fazer tudo pela pessoa ou vigiar o tempo todo.", "Mudar ou suspender o remédio sem a equipe.", "Carregar tudo sozinho."]},
+    {"tipo": "lista", "titulo": "Onde buscar apoio", "itens": ["**CAPS** da sua região: muitos oferecem grupos e atendimento para familiares.", "UBS para cuidar da saúde física.", "Associações de familiares de pessoas com transtornos mentais, que existem em várias cidades: pergunte no CAPS."]},
+    {"tipo": "destaque", "titulo": "Lembre", "texto": "Você não é culpado pela doença e não precisa ter todas as respostas. Pedir ajuda também é cuidar."},
+    {"tipo": "anotar", "titulo": "Nosso combinado em casa", "linhas_vazias": 4}
+   ],
+   "ajuda": ["A pessoa fala em se matar ou em se machucar.", "Agressividade ou risco para alguém da casa.", "Recusa de comer, beber ou sair do quarto por dias."],
+   "fonte": "NICE CG178 (intervenção familiar); APA 2020; estudos de emoção expressa (Leff e Vaughn; Butzlaff e Hooley, 1998)"
+  }
+ ],
+
+ "Esquizofrenia resistente": [
+  {
+   "id": "o-que-e-resistente",
+   "titulo": "Quando os primeiros remédios não bastam",
+   "subtitulo": "O que é esquizofrenia resistente ao tratamento",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que significa", "texto": "Cerca de 3 em cada 10 pessoas com esquizofrenia continuam com sintomas importantes mesmo depois de usar **pelo menos dois antipsicóticos diferentes**, em dose e tempo adequados, tomados corretamente. Isso se chama esquizofrenia resistente ao tratamento.\n\nResistente não quer dizer sem saída. Quer dizer que é hora de uma estratégia diferente."},
+    {"tipo": "passos", "titulo": "O que a equipe verifica antes", "itens": ["Se o remédio foi mesmo tomado todos os dias (às vezes com dosagem no sangue ou injeção por um período).", "Se as doses e o tempo foram suficientes.", "Se há uso de álcool, maconha ou outras drogas.", "Se o diagnóstico está correto e se há outra doença atrapalhando."]},
+    {"tipo": "texto", "titulo": "A clozapina", "texto": "A **clozapina** é o remédio com melhor resultado nessa situação. Muitas pessoas que não melhoraram com outros remédios melhoram com ela, e ela também reduz o risco de suicídio. Quanto antes for iniciada, melhor.\n\nEla exige mais cuidados: exames de sangue regulares e atenção a alguns sinais. Veja a ficha sobre a clozapina. A melhora pode levar de semanas a alguns meses, e a equipe pode dosar o nível do remédio no sangue para ajustar."},
+    {"tipo": "lista", "titulo": "Outras ajudas", "itens": ["Terapia cognitivo-comportamental para lidar com vozes e ideias que persistem.", "Reabilitação e apoio para atividades, estudo e trabalho no CAPS.", "Em alguns casos, a equipe pode associar outro remédio ou a eletroconvulsoterapia (ECT), um tratamento seguro feito com anestesia."]}
+   ],
+   "fonte": "Critérios TRRIP (Howes et al., 2017); APA 2020; NICE CG178"
+  },
+  {
+   "id": "clozapina",
+   "titulo": "Clozapina: guia para paciente e família",
+   "subtitulo": "Um remédio muito eficaz que pede alguns cuidados",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que tantos cuidados", "texto": "A clozapina ajuda muitas pessoas que não melhoraram com outros remédios. Ela tem alguns efeitos raros, mas graves, que podem ser evitados ou tratados cedo quando **paciente e família sabem o que observar**. A dose é aumentada devagar, ao longo de semanas."},
+    {"tipo": "texto", "titulo": "Exame de sangue (hemograma)", "texto": "Raramente, a clozapina pode baixar muito os **glóbulos brancos**, as células que defendem o corpo contra infecções. Por isso o hemograma é obrigatório: **toda semana nas primeiras 18 semanas** e depois **uma vez por mês** enquanto usar o remédio. A farmácia pode pedir o resultado para liberar a clozapina. Não falte aos exames."},
+    {"tipo": "semaforo", "titulo": "Sinais de alarme", "verde": ["Sono e baba à noite, que costumam melhorar com o tempo", "Leve tontura ao levantar", "Aumento do apetite"], "amarelo": ["**Intestino preso**: menos de 3 evacuações por semana ou fezes duras. Avise a equipe logo", "**Salivação** que incomoda muito", "Ganho de peso rápido, muita sede ou urinar muito", "Tremores ou pequenos trancos no corpo"], "vermelho": ["**Febre**, dor de garganta, feridas na boca ou sinais de infecção", "**Dor no peito**, falta de ar, coração disparado ou cansaço fora do comum, principalmente no primeiro mês", "Barriga inchada e dura, dor forte na barriga, vômitos ou dias sem evacuar", "Convulsão ou desmaio"]},
+    {"tipo": "fazer", "titulo": "Cuidados do dia a dia", "sim": ["Beba bastante água, coma frutas, verduras e fibras e mexa o corpo para prevenir intestino preso. A equipe pode indicar laxante.", "Para a baba noturna, use uma toalha sobre o travesseiro e durma de lado.", "Levante devagar da cama ou da cadeira.", "Avise a equipe se **começar ou parar de fumar**: o cigarro muda muito o nível da clozapina no sangue.", "Informe qualquer médico ou dentista que usa clozapina."], "nao": ["Parar de repente ou ficar mais de 2 dias sem tomar. Se isso acontecer, **não volte à dose de antes**: fale com a equipe, pois pode ser preciso recomeçar devagar.", "Tomar álcool ou remédios que dão sono sem orientação.", "Ignorar febre ou intestino preso achando que é bobagem."]},
+    {"tipo": "destaque", "titulo": "Lembre", "texto": "Febre, dor no peito ou intestino muito preso não significam que o remédio deve ser abandonado, mas precisam de avaliação **no mesmo dia**."}
+   ],
+   "ajuda": ["Febre, dor de garganta forte ou sinais de infecção: procure atendimento e diga que usa clozapina.", "Dor no peito, falta de ar ou coração disparado.", "Barriga inchada e dura, vômitos ou vários dias sem evacuar.", "Convulsão ou desmaio."],
+   "fonte": "Bula da clozapina (Anvisa); APA 2020; NICE CG178; Maudsley Prescribing Guidelines"
+  },
+  {
+   "id": "clozapina-registro",
+   "titulo": "Clozapina: meu registro",
+   "subtitulo": "Exames, intestino e sinais para levar à consulta",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Como usar", "texto": "Anote cada exame e marque, dia a dia, se houve evacuação. Leve esta folha às consultas e à farmácia. Se passar de 2 a 3 dias sem evacuar, ou se aparecer febre, avise a equipe."},
+    {"tipo": "tabela", "titulo": "Hemogramas", "colunas": ["Data", "Resultado dos glóbulos brancos", "Resultado dos neutrófilos", "Liberado? (sim ou não)", "Observações"], "linhas": [], "linhas_vazias": 8},
+    {"tipo": "tabela", "titulo": "Intestino e sinais da semana", "colunas": ["Semana", "Dias com evacuação (seg a dom)", "Febre?", "Dor no peito ou falta de ar?", "Salivação (0 a 3)", "Sono (0 a 3)"], "linhas": [], "linhas_vazias": 8},
+    {"tipo": "checklist", "titulo": "Minha lista", "itens": ["Sei a data do próximo hemograma", "Tenho laxante ou fibras em casa, conforme orientado", "A família conhece os sinais de alarme", "Avisei a equipe se comecei ou parei de fumar", "Levo o registro às consultas"]}
+   ],
+   "ajuda": ["Febre, dor no peito, falta de ar ou barriga inchada com dor: procure atendimento no mesmo dia."],
+   "fonte": "Bula da clozapina (Anvisa); Maudsley Prescribing Guidelines"
+  }
+ ],
+
+ "Sintomas negativos": [
+  {
+   "id": "o-que-sao-negativos",
+   "titulo": "Sintomas negativos: não é preguiça",
+   "subtitulo": "Quando a vontade, o prazer e a expressão diminuem",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que são", "texto": "Na esquizofrenia, além das vozes e das ideias estranhas, podem aparecer sintomas que **tiram** coisas da pessoa. Por isso se chamam negativos. Eles fazem parte da doença e não são falta de caráter, preguiça ou má vontade."},
+    {"tipo": "lista", "titulo": "Os principais", "itens": ["**Falta de vontade e de iniciativa** (avolição): dificuldade de começar e manter tarefas, até as simples, como tomar banho.", "**Menos prazer** (anedonia), sobretudo em esperar que algo seja bom.", "**Isolamento**: menos interesse em estar com pessoas.", "**Fala reduzida** (alogia): responde pouco, conversa curta.", "**Expressão apagada**: rosto, voz e gestos mostram menos as emoções, mesmo quando a pessoa sente."]},
+    {"tipo": "texto", "titulo": "Primeiro, procurar outras causas", "texto": "Coisas parecidas podem vir de **depressão**, de **efeitos do remédio** (sono demais, rigidez), de vozes ou medo que fazem a pessoa se fechar, do uso de álcool ou maconha e de muito tempo sem atividades. A equipe verifica essas causas, porque muitas têm solução direta."},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "Os remédios ajudam menos nesses sintomas do que nas vozes. A equipe pode ajustar a dose ou trocar o antipsicótico. O que mais ajuda são as **atividades**: treino de habilidades sociais, exercício físico, reabilitação e apoio para estudo e trabalho, que o CAPS pode oferecer. A melhora costuma ser lenta, em meses, e cada pequeno passo conta."},
+    {"tipo": "destaque", "titulo": "Para lembrar", "texto": "A expressão apagada não quer dizer que a pessoa não sente. Muitas vezes ela sente, mas não consegue mostrar."}
+   ],
+   "fonte": "EPA 2021 (guia de sintomas negativos); APA 2020"
+  },
+  {
+   "id": "pequenos-passos",
+   "titulo": "Pequenos passos",
+   "subtitulo": "Como a família pode ajudar a retomar a rotina",
+   "publico": "Família",
+   "figura": "rotina-dia",
+   "figura_legenda": "Uma rotina simples, com poucos compromissos fixos, é o ponto de partida.",
+   "blocos": [
+    {"tipo": "fazer", "titulo": "O que ajuda", "sim": ["Combinar **metas pequenas e concretas**: tomar banho antes do almoço, caminhar 10 minutos, ajudar a pôr a mesa.", "Montar juntos uma rotina com horários para acordar, comer e dormir.", "Convidar para atividades em vez de cobrar: fazer junto no começo.", "Elogiar o esforço, não só o resultado.", "Aumentar a exigência aos poucos, quando uma etapa ficar fácil.", "Buscar oficinas e grupos do CAPS."], "nao": ["Críticas e comparações (\"na sua idade, seu primo já...\").", "Longos sermões sobre o futuro.", "Fazer tudo pela pessoa.", "Exigir muitas mudanças ao mesmo tempo."]},
+    {"tipo": "tabela", "titulo": "Plano da semana", "texto": "Escolham juntos de 1 a 3 atividades por dia. Marque quando fizer.", "colunas": ["Dia", "Atividade 1", "Atividade 2", "Atividade 3", "Como foi"], "linhas": [["Segunda", "", "", "", ""], ["Terça", "", "", "", ""], ["Quarta", "", "", "", ""], ["Quinta", "", "", "", ""], ["Sexta", "", "", "", ""], ["Sábado", "", "", "", ""], ["Domingo", "", "", "", ""]]},
+    {"tipo": "destaque", "titulo": "E você?", "texto": "Conviver com sintomas negativos cansa. Reserve tempo para si e procure grupos de familiares."}
+   ],
+   "ajuda": ["Tristeza profunda, falas sobre morte ou desistir da vida: procure a equipe no mesmo dia."],
+   "fonte": "EPA 2021 (guia de sintomas negativos); NICE CG178"
+  }
+ ],
+
+ "Transtorno esquizoafetivo": [
+  {
+   "id": "o-que-e-esquizoafetivo",
+   "titulo": "Transtorno esquizoafetivo",
+   "subtitulo": "Quando psicose e humor caminham juntos",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "No transtorno esquizoafetivo, a pessoa tem **sintomas psicóticos** (ouvir vozes, ter certezas que não correspondem à realidade) e também **episódios de humor**: depressão, euforia (mania) ou os dois. A diferença para outras doenças é que as vozes ou as ideias aparecem também em períodos em que o humor está normal.\n\nPor isso o diagnóstico depende da história inteira da doença, e às vezes muda ao longo dos anos. Isso não quer dizer que houve erro: a equipe vai conhecendo melhor o quadro."},
+    {"tipo": "lista", "titulo": "Os dois tipos", "itens": ["**Tipo bipolar**: já houve pelo menos um episódio de mania (muita energia, pouca necessidade de sono, falar muito, gastos, ideias de grandeza).", "**Tipo depressivo**: só houve episódios de depressão (tristeza, falta de prazer, cansaço, culpa)."]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "Em geral o tratamento combina um **antipsicótico** com um remédio para o humor: um **estabilizador do humor** no tipo bipolar ou um **antidepressivo** no tipo depressivo. Alguns remédios exigem exames de sangue. A melhora costuma levar semanas, e o tratamento é de longo prazo.\n\nTambém ajudam: rotina de sono regular, evitar álcool e drogas, psicoeducação para a família, terapia e atividades no CAPS. Quando os remédios não funcionam, a clozapina é uma opção eficaz."},
+    {"tipo": "destaque", "titulo": "Importante", "texto": "O risco de suicídio é maior nessa doença, sobretudo nas fases de depressão. Falar sobre isso com a equipe não aumenta o risco: ajuda a proteger."}
+   ],
+   "ajuda": ["Pensamentos de morte ou de se machucar.", "Vozes mandando fazer algo perigoso.", "Dias sem dormir com agitação e gastos ou comportamentos arriscados."],
+   "fonte": "DSM-5-TR (APA, 2022); APA 2020 (tratamento da esquizofrenia); CANMAT/ISBD 2018"
+  },
+  {
+   "id": "plano-alerta-esquizoafetivo",
+   "titulo": "Meu plano de sinais de alerta",
+   "subtitulo": "Psicose, depressão e euforia",
+   "publico": "Paciente e família",
+   "figura": "semaforo",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que", "texto": "No transtorno esquizoafetivo, a crise pode começar pelo humor ou pela psicose. Conhecer os primeiros sinais de cada lado ajuda a agir antes que tudo piore. Preencha com a equipe e com alguém de confiança."},
+    {"tipo": "semaforo", "titulo": "Meu semáforo", "verde": ["Sono regular", "Remédios em dia", "Humor estável, atividades mantidas"], "amarelo": ["Dormir bem menos e não sentir cansaço, falar mais, gastar mais (sinais de euforia)", "Desânimo, isolamento, choro, perda de interesse (sinais de depressão)", "Desconfiança, vozes ou ideias estranhas voltando", "Pular remédio, beber ou usar drogas"], "vermelho": ["Pensamentos de morte ou de se machucar", "Vozes mandando fazer coisas", "Dias sem dormir, agitação intensa, agressividade", "Não comer ou não sair da cama por dias"]},
+    {"tipo": "tabela", "titulo": "O que fazer", "colunas": ["Cor", "Ação"], "linhas": [["Verde", "Manter tratamento, rotina e consultas."], ["Amarelo", "Avisar a equipe ou o CAPS nos próximos dias. Proteger o sono, evitar álcool e drogas, reduzir o estresse."], ["Vermelho", "Procurar ajuda no mesmo dia: CAPS, UPA, pronto-socorro, SAMU 192."]]},
+    {"tipo": "tabela", "titulo": "Registro do humor", "texto": "Marque uma nota por dia: de menos 3 (muito deprimido) a mais 3 (muito eufórico). Anote também horas de sono e se houve vozes.", "colunas": ["Data", "Humor (menos 3 a mais 3)", "Horas de sono", "Vozes ou ideias estranhas?", "Remédios tomados?"], "linhas": [], "linhas_vazias": 10},
+    {"tipo": "anotar", "titulo": "Meus contatos", "linhas_vazias": 3}
+   ],
+   "ajuda": ["Pensamentos de morte ou de se machucar.", "Vozes mandando fazer algo perigoso ou agressividade."],
+   "fonte": "APA 2020; NICE CG178; CANMAT/ISBD 2018"
+  }
+ ],
+
+ "Psicose no Parkinson": [
+  {
+   "id": "visoes-no-parkinson",
+   "titulo": "Visões e desconfianças no Parkinson",
+   "subtitulo": "O que são e como a família pode ajudar",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que acontece", "texto": "Ao longo da doença de Parkinson, muitas pessoas passam a **ver coisas que não estão lá**: pessoas, crianças ou animais dentro de casa, vultos pelo canto do olho, objetos que parecem virar outra coisa. Algumas sentem que há alguém ao lado. Outras passam a **desconfiar** sem motivo, por exemplo de traição, de roubo ou de estranhos em casa.\n\nIsso acontece por mudanças da própria doença e, muitas vezes, por **efeito dos remédios** do Parkinson. É mais comum em pessoas mais velhas, com problemas de visão ou de memória."},
+    {"tipo": "fazer", "titulo": "Como agir", "sim": ["Manter a calma e falar com tranquilidade.", "Acolher o medo: \"eu entendo que isso assusta, estou aqui\".", "Acender a luz e deixar a casa bem iluminada ao entardecer.", "Garantir óculos limpos e adequados.", "Anotar quando as visões acontecem e se houve mudança de remédio.", "Levar a lista completa de remédios às consultas."], "nao": ["Discutir ou tentar provar que a visão não é real.", "Rir ou brigar por causa das desconfianças.", "Mudar ou suspender remédios do Parkinson por conta própria: isso pode travar os movimentos."]},
+    {"tipo": "texto", "titulo": "Quando é urgente", "texto": "Se a confusão **começou de repente**, se há dias muito melhores e outros muito piores, sonolência ou agitação fora do comum, pode ser **delirium**, causado por infecção (de urina, pulmão), desidratação, prisão de ventre ou remédio novo. Isso precisa de avaliação médica rápida."},
+    {"tipo": "tabela", "titulo": "Registro", "colunas": ["Data e hora", "O que viu ou pensou", "Assustou?", "Remédio novo ou mudança?", "Outros sinais (febre, confusão)"], "linhas": [], "linhas_vazias": 7}
+   ],
+   "ajuda": ["Confusão que começou de repente, febre, parar de comer ou beber.", "Agressividade ou risco de queda por fugir das visões."],
+   "fonte": "Critérios NINDS-NIMH (Ravina et al., 2007); MDS Evidence-Based Medicine Review 2019"
+  },
+  {
+   "id": "remedios-psicose-parkinson",
+   "titulo": "Remédios: o que a família precisa saber",
+   "subtitulo": "Alguns ajudam e outros podem piorar muito",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "passos", "titulo": "Como a equipe costuma tratar", "itens": ["Procurar e tratar causas clínicas, como infecção, desidratação ou prisão de ventre.", "Rever os remédios, reduzindo aos poucos os que mais causam visões e mantendo o que for essencial para o movimento. Isso é feito **só pela equipe**.", "Se houver problema de memória, alguns remédios para memória podem diminuir as visões.", "Se as visões ou desconfianças continuarem incomodando, usar um antipsicótico seguro para o Parkinson, em dose baixa."]},
+    {"tipo": "texto", "titulo": "Antipsicóticos: cuidado", "texto": "A maioria dos antipsicóticos **piora muito os movimentos** de quem tem Parkinson e pode ser perigosa. Os mais usados com segurança são a **quetiapina** e a **clozapina**, em doses baixas. A clozapina exige exames de sangue regulares.\n\nEvite remédios como haloperidol, risperidona e olanzapina, e também remédios para enjoo como metoclopramida e bromoprida. Em atendimentos de emergência ou internação, **avise sempre que a pessoa tem Parkinson**."},
+    {"tipo": "texto", "titulo": "Visões que não incomodam", "texto": "Quando a pessoa sabe que a visão não é real e ela não assusta, muitas vezes não é preciso remédio novo. A decisão é tomada junto com a equipe."},
+    {"tipo": "checklist", "titulo": "Leve para a consulta", "itens": ["Lista de todos os remédios, com doses e horários, inclusive os para bexiga, dor, sono e enjoo", "Mudanças de remédio nos últimos meses", "Registro das visões e desconfianças", "Mudanças na memória, no sono ou nos movimentos"]},
+    {"tipo": "anotar", "titulo": "Remédios que devem ser evitados para esta pessoa", "linhas_vazias": 3}
+   ],
+   "ajuda": ["Rigidez intensa, febre e confusão depois de um remédio novo ou de suspender remédio do Parkinson.", "Confusão súbita, sonolência excessiva ou quedas repetidas."],
+   "fonte": "MDS Evidence-Based Medicine Review 2019; American Geriatrics Society Beers Criteria 2023"
+  }
+ ]
+}

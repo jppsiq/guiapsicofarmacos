@@ -1,0 +1,1266 @@
+{
+ "Compulsão alimentar": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno de compulsão alimentar",
+   "cid": "CID-10 F50.8; CID-11 6B82",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Episódios recorrentes de compulsão alimentar, cada um com as duas características:",
+     "sub": [
+      "Comer, em período delimitado (por exemplo, até 2 horas), uma quantidade de comida claramente maior do que a maioria das pessoas comeria em tempo e circunstâncias semelhantes.",
+      "Sensação de perda de controle durante o episódio (não conseguir parar ou controlar o que e quanto come)."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Os episódios se associam a 3 ou mais dos seguintes:",
+     "sub": [
+      "Comer muito mais rápido que o normal.",
+      "Comer até sentir-se desconfortavelmente cheio.",
+      "Comer grandes quantidades sem estar com fome física.",
+      "Comer sozinho por vergonha da quantidade.",
+      "Sentir nojo de si, depressão ou muita culpa depois."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "Sofrimento marcante em relação à compulsão."
+    },
+    {
+     "r": "D",
+     "t": "Frequência média de pelo menos 1 episódio por semana durante 3 meses."
+    },
+    {
+     "r": "E",
+     "t": "Não há uso recorrente de comportamentos compensatórios inapropriados (como na bulimia) e a compulsão não ocorre exclusivamente durante bulimia ou anorexia nervosa."
+    }
+   ],
+   "especificadores": [
+    "Em remissão parcial: compulsões abaixo de 1 por semana por período prolongado após critérios completos.",
+    "Em remissão completa: nenhum critério por período prolongado.",
+    "Gravidade pela frequência semanal de episódios: leve 1 a 3; moderada 4 a 7; grave 8 a 13; extrema 14 ou mais (pode ser elevada por outros sintomas e prejuízo)."
+   ],
+   "notas": [
+    "Diferente da bulimia, não há compensação regular; a maioria tem sobrepeso ou obesidade, mas o peso não é critério.",
+    "O que define o episódio é a perda de controle com quantidade objetivamente grande; beliscar continuamente ao longo do dia sem episódio delimitado não conta.",
+    "Na CID-11 (6B82) a quantidade objetivamente grande não é obrigatória: basta perda de controle com sofrimento, o que amplia o diagnóstico.",
+    "Comorbidades frequentes: depressão, bipolaridade, TDAH, ansiedade, uso de substâncias, diabetes tipo 2, apneia do sono."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Tem momentos em que sente que perdeu o controle sobre o quanto está comendo?",
+    "Nesses momentos, quanto come e em quanto tempo? Pode me dar um exemplo do último episódio?",
+    "Come escondido ou sozinho por vergonha da quantidade?",
+    "Como se sente depois: culpa, nojo de si, tristeza?",
+    "Com que frequência isso acontece por semana, nos últimos 3 meses?",
+    "Já provocou vômito, usou laxantes, diuréticos, remédios para emagrecer, jejum longo ou exercício excessivo para compensar?",
+    "O que costuma desencadear: tédio, tristeza, ansiedade, dietas restritivas, pular refeições?",
+    "Já fez muitas dietas? Seu peso oscila bastante?"
+   ],
+   "sinais": [
+    "Obesidade com história de dietas repetidas e ciclos de perda e reganho de peso.",
+    "Relato espontâneo de comer por emoção, à noite ou escondido.",
+    "Sofrimento desproporcional com o comer ou o peso.",
+    "Candidatos a cirurgia bariátrica (prevalência alta; rastrear antes e depois).",
+    "Depressão, bipolaridade, TDAH ou uso de substâncias com ganho de peso inexplicado.",
+    "Diabetes tipo 2 ou síndrome metabólica em adulto jovem.",
+    "Estoques de comida escondidos, embalagens vazias encontradas por familiares."
+   ],
+   "instrumentos": [
+    "SCOFF: 2 ou mais respostas positivas sugerem transtorno alimentar (menos sensível para TCAP).",
+    "Escala de Compulsão Alimentar Periódica (BES, validada no Brasil): até 17 sem compulsão; 18 a 26 moderada; 27 ou mais grave.",
+    "BEDS-7 (Binge Eating Disorder Screener-7): rastreio breve em atenção primária.",
+    "EDE-Q: quantifica episódios de compulsão e comportamentos compensatórios nos últimos 28 dias; útil para acompanhar resposta."
+   ]
+  },
+  "diferencial": [
+   "Bulimia nervosa: há comportamentos compensatórios regulares (em média 1 vez por semana ou mais).",
+   "Anorexia nervosa subtipo compulsivo e purgativo: peso significativamente baixo.",
+   "Obesidade sem TCAP: excesso de ingestão sem episódios delimitados de perda de controle e sem sofrimento marcante.",
+   "Síndrome do comer noturno: ingestão predominante após o jantar ou despertares noturnos para comer, com consciência do episódio, sem necessidade de grande quantidade de uma vez.",
+   "Transtorno alimentar relacionado ao sono (parassonia): ingestão durante despertares parciais com amnésia; associar a zolpidem e outros hipnóticos.",
+   "Depressão atípica ou bipolar: hiperfagia faz parte do episódio de humor e melhora com ele.",
+   "Hiperfagia por fármacos (olanzapina, clozapina, mirtazapina, valproato): relação temporal com o início do fármaco.",
+   "Síndrome de Kleine-Levin, lesões hipotalâmicas e síndrome de Prader-Willi: raros, com outros sinais neurológicos ou genéticos."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "APA Practice Guideline for Eating Disorders (2023)",
+    "pontos": [
+     "TCC específica para transtorno alimentar, individual ou em grupo, é o tratamento recomendado de primeira escolha (recomendação 1C).",
+     "Antidepressivo ou lisdexanfetamina são sugeridos quando o paciente prefere medicação ou não respondeu à psicoterapia isolada (2C).",
+     "Plano de tratamento inclui metas de redução de episódios, monitoramento de peso, glicemia, lipídios e pressão arterial.",
+     "Avaliar sistematicamente comorbidades psiquiátricas e risco de suicídio."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "TCC para transtornos alimentares (CBT-E ou equivalente), com automonitoramento, padrão regular de 3 refeições e 2 a 3 lanches e manejo de gatilhos."
+     },
+     {
+      "linha": "Farmacológica",
+      "texto": "Lisdexanfetamina 30 mg pela manhã, aumentando 20 mg por semana até 50 a 70 mg/dia; ou ISRS em dose de depressão (sertralina, fluoxetina, escitalopram), úteis sobretudo com depressão ou ansiedade comórbida."
+     },
+     {
+      "linha": "Alternativas",
+      "texto": "Topiramato 50 a 300 mg/dia (titulação lenta, 25 mg por semana) reduz episódios e peso, com abandono alto por parestesias, lentificação cognitiva e cálculos renais."
+     }
+    ]
+   },
+   {
+    "fonte": "NICE NG69 (2017, atualizada 2020)",
+    "pontos": [
+     "Primeiro passo em adultos: autoajuda guiada baseada em TCC para transtornos alimentares, com 4 a 9 sessões curtas de apoio ao longo de 16 semanas.",
+     "Se não aceitável ou ineficaz: TCC em grupo focada em transtorno alimentar (16 sessões semanais de 90 minutos em 4 meses) ou, se indisponível, TCC individual (16 a 20 sessões).",
+     "Crianças e adolescentes: mesmas abordagens adaptadas, envolvendo a família.",
+     "Informar que a psicoterapia isolada tem efeito limitado sobre o peso e que perder peso não é o alvo inicial; não oferecer medicação como tratamento único."
+    ]
+   },
+   {
+    "fonte": "WFSBP para transtornos alimentares (Himmerich et al., 2023)",
+    "pontos": [
+     "Lisdexanfetamina tem o maior grau de evidência (A) para redução de episódios de compulsão; também reduz peso e pensamentos obsessivo-compulsivos sobre comida.",
+     "Topiramato com evidência A, limitado pela tolerância; ISRS com evidência de efeito modesto e em curto prazo.",
+     "Contraindicações e cuidados da lisdexanfetamina: doença cardiovascular, hipertensão não controlada, história de abuso de estimulantes; medir pressão e frequência cardíaca.",
+     "Tratar obesidade associada: agonistas de GLP-1 e cirurgia bariátrica podem ser considerados, mantendo a abordagem psicológica do transtorno."
+    ]
+   }
+  ],
+  "monitorar": [
+   "Frequência semanal de episódios (diário alimentar)",
+   "Peso, IMC, cintura",
+   "Pressão arterial e frequência cardíaca com lisdexanfetamina",
+   "Glicemia, HbA1c e lipídios",
+   "Humor e ideação suicida"
+  ]
+ },
+ "Bulimia nervosa": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10 F50.2; CID-11 6B81",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Episódios recorrentes de compulsão alimentar, cada um com:",
+     "sub": [
+      "Ingestão em período delimitado (por exemplo, até 2 horas) de quantidade claramente maior do que a maioria comeria em situação semelhante.",
+      "Sensação de perda de controle sobre o comer durante o episódio."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Comportamentos compensatórios inapropriados recorrentes para evitar ganho de peso: vômito autoinduzido, uso indevido de laxantes, diuréticos ou outros medicamentos, jejum ou exercício excessivo."
+    },
+    {
+     "r": "C",
+     "t": "Compulsões e compensações ocorrem, em média, pelo menos 1 vez por semana durante 3 meses."
+    },
+    {
+     "r": "D",
+     "t": "A autoavaliação é indevidamente influenciada pela forma e pelo peso corporais."
+    },
+    {
+     "r": "E",
+     "t": "O quadro não ocorre exclusivamente durante episódios de anorexia nervosa."
+    }
+   ],
+   "especificadores": [
+    "Em remissão parcial ou completa.",
+    "Gravidade pela frequência semanal de comportamentos compensatórios: leve 1 a 3; moderada 4 a 7; grave 8 a 13; extrema 14 ou mais."
+   ],
+   "notas": [
+    "Se o peso for significativamente baixo, o diagnóstico é anorexia nervosa subtipo compulsivo e purgativo, que tem precedência.",
+    "Peso geralmente normal ou sobrepeso, o que atrasa o diagnóstico.",
+    "Uso de insulina omitida em diabéticos tipo 1 (diabulimia) e de hormônio tireoidiano, diuréticos ou estimulantes são formas de compensação.",
+    "Na CID-11 também não se exige quantidade objetivamente grande nos episódios."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Já provocou vômito depois de comer? Com que frequência?",
+    "Usa laxantes, diuréticos, chás, remédios para emagrecer ou hormônio da tireoide para controlar o peso?",
+    "Tem episódios em que come muito e sente que não consegue parar?",
+    "Faz jejum ou exercício puxado para compensar o que comeu?",
+    "O quanto seu peso e seu corpo pesam na forma como você se avalia como pessoa?",
+    "Tem palpitações, câimbras, tonturas ou fraqueza?",
+    "Se for diabético: já deixou de aplicar insulina para perder peso?",
+    "Usa álcool ou outras substâncias? Já se machucou de propósito?"
+   ],
+   "sinais": [
+    "Sinal de Russell: calosidades ou escoriações no dorso da mão.",
+    "Hipertrofia de parótidas e submandibulares, erosão do esmalte dental (face lingual), cáries.",
+    "Hipocalemia, alcalose metabólica (vômitos) ou acidose (laxantes) sem outra causa; bicarbonato alto.",
+    "Amilase elevada de origem salivar.",
+    "Idas ao banheiro logo após as refeições, sumiço de comida, embalagens de laxantes.",
+    "Edema de rebote ao suspender laxantes ou diuréticos.",
+    "Mulheres jovens com depressão, impulsividade, automutilação ou uso de substâncias.",
+    "Diabético tipo 1 com HbA1c inexplicavelmente alta e cetoacidose recorrente."
+   ],
+   "instrumentos": [
+    "SCOFF: 2 ou mais respostas positivas sugerem transtorno alimentar (sensibilidade alta para AN e BN).",
+    "Bulimic Investigatory Test Edinburgh (BITE, validado no Brasil): escala de sintomas 20 ou mais sugere padrão alimentar compulsivo significativo; escala de gravidade 10 ou mais indica gravidade clínica.",
+    "EDE-Q: frequência de compulsões e compensações nos últimos 28 dias, útil para seguimento."
+   ]
+  },
+  "diferencial": [
+   "Anorexia nervosa compulsiva e purgativa: peso significativamente baixo.",
+   "Transtorno de compulsão alimentar: sem compensações regulares.",
+   "Transtorno purgativo (outro transtorno alimentar especificado): purgação sem compulsões objetivas.",
+   "Depressão maior com hiperfagia: sem compensação e sem supervalorização da forma corporal.",
+   "Transtorno da personalidade borderline: compulsão e purgação podem fazer parte da impulsividade; diagnosticar ambos se critérios completos.",
+   "Causas orgânicas de vômitos (gastrointestinais, neurológicas, gravidez): vômitos não autoinduzidos e sem preocupação com peso.",
+   "Síndrome de Kleine-Levin: hiperfagia episódica com hipersonia, sem compensação."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "APA Practice Guideline for Eating Disorders (2023)",
+    "pontos": [
+     "TCC específica para transtornos alimentares é recomendada para adultos (1C).",
+     "Fluoxetina 60 mg/dia sugerida no início do tratamento ou logo após, associada à TCC (2C); iniciar 20 mg e subir em 1 a 2 semanas se tolerado.",
+     "Adolescentes e adultos jovens: tratamento baseado na família para bulimia quando há família disponível.",
+     "Avaliar diariamente vômitos e laxantes e dosar eletrólitos; corrigir potássio antes de fármacos que prolongam QT."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "TCC-E (20 sessões em 20 semanas) ou autoajuda guiada baseada em TCC nos casos leves."
+     },
+     {
+      "linha": "Farmacológica",
+      "texto": "Fluoxetina 60 mg/dia (superior a 20 mg), efeito em compulsões e vômitos mesmo sem depressão; avaliar resposta em 4 a 8 semanas e manter por pelo menos 1 ano se houver resposta."
+     },
+     {
+      "linha": "Alternativas",
+      "texto": "Outros ISRS (sertralina); topiramato 100 a 250 mg/dia com ensaios positivos, atenção à perda de peso e efeitos cognitivos. Bupropiona contraindicada (convulsões)."
+     }
+    ]
+   },
+   {
+    "fonte": "NICE NG69 (2017, atualizada 2020)",
+    "pontos": [
+     "Adultos: começar por autoajuda guiada baseada em TCC para bulimia; se não houver melhora em 4 semanas ou for inaceitável, TCC individual focada em transtorno alimentar de 16 a 20 sessões.",
+     "Crianças e adolescentes: terapia familiar focada em bulimia (18 a 20 sessões em 6 meses); TCC-ED se inadequada.",
+     "Não oferecer medicação como tratamento único.",
+     "Orientar sobre danos dentários, não escovar os dentes logo após vomitar (bochechar com água), e sobre a ineficácia dos laxantes para perder calorias.",
+     "Retirada gradual de laxantes e diuréticos (não suspender abruptamente)."
+    ]
+   },
+   {
+    "fonte": "WFSBP para transtornos alimentares (Himmerich et al., 2023)",
+    "pontos": [
+     "Fluoxetina com grau de evidência A para redução de compulsões e vômitos.",
+     "Topiramato com evidência para redução de episódios, com cuidado pelo risco de perda de peso excessiva.",
+     "Antidepressivos tricíclicos e IMAO têm eficácia, mas perfil de segurança pior (superdosagem, dieta).",
+     "Tratar comorbidades (depressão, uso de álcool, personalidade borderline) sem interromper a abordagem do transtorno alimentar."
+    ]
+   }
+  ],
+  "monitorar": [
+   "Frequência de compulsões e compensações",
+   "Potássio, sódio, bicarbonato, magnésio e fósforo",
+   "ECG (QTc) se hipocalemia ou uso de fármacos que prolongam QT",
+   "Saúde dental",
+   "Humor, impulsividade e risco de suicídio"
+  ]
+ },
+ "Anorexia nervosa": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10 F50.0; CID-11 6B80",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Restrição da ingestão energética em relação às necessidades, levando a peso corporal significativamente baixo para idade, sexo, trajetória de desenvolvimento e saúde física (abaixo do mínimo normal ou, em crianças e adolescentes, abaixo do mínimo esperado)."
+    },
+    {
+     "r": "B",
+     "t": "Medo intenso de ganhar peso ou de engordar, ou comportamento persistente que impede o ganho de peso, mesmo com peso significativamente baixo."
+    },
+    {
+     "r": "C",
+     "t": "Perturbação na forma de vivenciar o próprio peso ou forma, influência indevida do peso e da forma na autoavaliação, ou falta persistente de reconhecimento da gravidade do baixo peso."
+    }
+   ],
+   "especificadores": [
+    "Tipo restritivo: nos últimos 3 meses, sem compulsões ou purgação recorrentes; perda de peso por dieta, jejum ou exercício excessivo.",
+    "Tipo compulsivo e purgativo: nos últimos 3 meses, episódios recorrentes de compulsão ou purgação (vômitos, laxantes, diuréticos, enemas).",
+    "Em remissão parcial: critério A ausente por período prolongado, mas B ou C persistem.",
+    "Em remissão completa: nenhum critério por período prolongado.",
+    "Gravidade em adultos pelo IMC: leve 17 ou mais; moderada 16 a 16,99; grave 15 a 15,99; extrema abaixo de 15 (em crianças e adolescentes, usar percentis de IMC para idade)."
+   ],
+   "notas": [
+    "A amenorreia deixou de ser critério no DSM-5.",
+    "Anorexia atípica (critérios completos com peso dentro ou acima da faixa normal após perda importante) entra em outro transtorno alimentar especificado e pode ter complicações médicas tão graves quanto a forma típica.",
+    "Diferenciar do transtorno alimentar restritivo/evitativo (TARE), em que não há medo de engordar nem perturbação da imagem corporal.",
+    "Na CID-11, o limiar de baixo peso é IMC abaixo de 18,5 em adultos, e IMC abaixo de 14 define baixo peso perigoso.",
+    "Maior mortalidade entre os transtornos psiquiátricos, por complicações médicas e suicídio."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Quanto você pesa hoje e qual foi o maior e o menor peso nos últimos anos? Em quanto tempo perdeu peso?",
+    "Como está sua alimentação num dia típico? Evita grupos de alimentos, conta calorias?",
+    "Como se sente em relação ao seu corpo? Tem medo de engordar mesmo agora?",
+    "Faz exercício para compensar o que come? Quantas horas por dia?",
+    "Já provocou vômito, usou laxantes, diuréticos ou remédios para emagrecer?",
+    "A menstruação está regular?",
+    "Tem tontura ao levantar, desmaios, palpitações, sente muito frio, queda de cabelo?",
+    "Para a família: notaram mudanças no jeito de comer, rituais à mesa, comer escondido, roupas largas, isolamento?"
+   ],
+   "sinais": [
+    "Perda de peso ou falha em ganhar peso esperado no crescimento em adolescente.",
+    "Bradicardia, hipotensão ortostática, hipotermia, acrocianose.",
+    "Lanugo, pele seca e amarelada (hipercarotenemia), queda de cabelo.",
+    "Amenorreia primária ou secundária, fraturas por estresse, osteopenia.",
+    "Exercício compulsivo, perfeccionismo, rigidez, rituais alimentares.",
+    "Adolescentes em esportes ou atividades estéticas (balé, ginástica, modelo, corrida).",
+    "Recusa de pesagem ou pesagem com água, roupas pesadas ou objetos nos bolsos.",
+    "Hipoglicemia, neutropenia, transaminases elevadas ou hipofosfatemia sem explicação."
+   ],
+   "instrumentos": [
+    "SCOFF: 2 ou mais respostas positivas indicam necessidade de avaliação detalhada.",
+    "EDE-Q: psicopatologia global e subescalas de restrição, preocupação com peso e forma.",
+    "Avaliação de risco médico MEED (RCPsych 2022): tabela com IMC, velocidade de perda, sinais vitais, ECG, bioquímica e teste de levantar da posição agachada (SUSS)."
+   ]
+  },
+  "diferencial": [
+   "Transtorno alimentar restritivo/evitativo (TARE): restrição por aversão sensorial, medo de engasgar ou vomitar, ou falta de interesse, sem medo de engordar.",
+   "Depressão maior: perda de apetite sem medo de engordar nem busca ativa de perda de peso.",
+   "Doenças clínicas: hipertireoidismo, diabetes tipo 1, doença celíaca, doença inflamatória intestinal, neoplasia, HIV, tuberculose, insuficiência adrenal.",
+   "TOC: rituais e obsessões não restritos à comida e ao peso; pode coexistir.",
+   "Transtorno dismórfico corporal: preocupação com partes do corpo, não com peso e gordura em geral.",
+   "Esquizofrenia: recusa alimentar por delírio (envenenamento), sem medo de engordar.",
+   "Uso de estimulantes ou abuso de substâncias com perda de peso."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "APA Practice Guideline for Eating Disorders (2023)",
+    "pontos": [
+     "Reabilitação nutricional com metas individualizadas de ganho de peso: 0,5 a 1 kg por semana no ambulatório e 1 a 1,5 kg por semana em regime de internação.",
+     "Adolescentes e adultos jovens com família engajada: tratamento baseado na família (1B).",
+     "Adultos: psicoterapia específica para transtornos alimentares (TCC-E, MANTRA, SSCM ou psicodinâmica focal) com componente de normalização alimentar e peso (1C).",
+     "Internação ou tratamento intensivo se instabilidade clínica (bradicardia grave, hipotensão, hipotermia, distúrbio eletrolítico, síncope), perda rápida de peso, recusa alimentar ou risco de suicídio.",
+     "Não há fármaco com eficácia sobre o núcleo da anorexia; antidepressivos no baixo peso não previnem recaída."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "Realimentação supervisionada associada a FBT (adolescentes) ou psicoterapia específica (adultos)."
+     },
+     {
+      "linha": "Adjuvante farmacológico",
+      "texto": "Olanzapina 2,5 a 10 mg/dia para ganho de peso modesto e redução de ansiedade e ruminação (Attia 2019); monitorar glicemia, lipídios e QTc."
+     },
+     {
+      "linha": "Comorbidades",
+      "texto": "ISRS para depressão, ansiedade ou TOC após recuperação parcial de peso; evitar bupropiona (convulsões) e fármacos que prolongam QT sem ECG."
+     }
+    ]
+   },
+   {
+    "fonte": "NICE NG69 (2017, atualizada 2020)",
+    "pontos": [
+     "Adultos: oferecer TCC-ED (até 40 sessões em 40 semanas), MANTRA (20 a 30 sessões) ou SSCM (20 sessões); se não aceitáveis ou ineficazes, terapia psicodinâmica focal (40 sessões).",
+     "Crianças e adolescentes: terapia familiar focada em anorexia (18 a 20 sessões no primeiro ano); TCC-ED ou psicoterapia focada no adolescente como alternativas.",
+     "Não oferecer medicação como tratamento único da anorexia.",
+     "Densitometria óssea após 1 ano de baixo peso em adultos (antes em crianças); não usar anticoncepcional hormonal para melhorar a massa óssea."
+    ]
+   },
+   {
+    "fonte": "MEED: Medical Emergencies in Eating Disorders (Royal College of Psychiatrists, 2022)",
+    "pontos": [
+     "Estratificar o risco (vermelho, âmbar, verde) por IMC ou percentual do IMC mediano, perda de peso semanal, FC, PA, temperatura, ECG, eletrólitos, glicemia e força muscular (SUSS).",
+     "Sinais de alto risco em adultos: IMC abaixo de 13, perda acima de 1 kg por semana por 2 semanas, FC abaixo de 40 bpm, PA sistólica abaixo de 90 mmHg, temperatura abaixo de 35 °C, QTc acima de 460 ms, potássio abaixo de 3 mmol/L, fósforo ou sódio baixos, hipoglicemia.",
+     "Prevenção da síndrome de realimentação: iniciar com 1.400 a 2.000 kcal/dia na maioria dos pacientes e aumentar progressivamente; tiamina e multivitamínico antes e durante; dosar fósforo, potássio e magnésio diariamente na primeira semana e repor fósforo de forma profilática nos casos de alto risco.",
+     "Evitar subalimentação: começar com calorias muito baixas prolonga a internação sem reduzir o risco quando há monitoramento.",
+     "Usar a lei de saúde mental ou internação involuntária quando o risco à vida é alto e a capacidade de decisão sobre alimentação está comprometida."
+    ]
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Crianças e adolescentes",
+    "texto": "FBT é o tratamento com melhor evidência; usar percentis de IMC e curva de crescimento; atraso puberal e perda de pico de massa óssea são riscos permanentes."
+   },
+   {
+    "grupo": "Homens",
+    "texto": "Subdiagnosticados; preocupação com musculatura e exercício compulsivo; baixa testosterona e osteoporose."
+   },
+   {
+    "grupo": "Gestação",
+    "texto": "Risco de restrição de crescimento fetal, prematuridade e baixo peso ao nascer; acompanhamento conjunto com obstetrícia e nutrição."
+   },
+   {
+    "grupo": "Diabetes tipo 1",
+    "texto": "Omissão de insulina aumenta muito o risco de cetoacidose e complicações microvasculares."
+   }
+  ],
+  "monitorar": [
+   "Peso semanal (às cegas, se necessário), IMC ou percentil",
+   "FC, PA ortostática, temperatura",
+   "Potássio, fósforo, magnésio, sódio e glicemia (diariamente na realimentação inicial)",
+   "ECG (QTc)",
+   "Densitometria óssea",
+   "Risco de suicídio"
+  ]
+ },
+ "Ganho de peso por psicofármacos": {
+  "criterios": {
+   "fonte": "Não é diagnóstico do DSM-5-TR. Definições operacionais: ganho clinicamente significativo de 7% ou mais do peso basal (padrão dos ensaios clínicos); consenso ADA/APA (2004) de monitoramento metabólico; critérios harmonizados de síndrome metabólica (IDF/AHA/NHLBI, 2009)",
+   "itens": [
+    {
+     "r": "Ganho significativo",
+     "t": "Aumento de 7% ou mais em relação ao peso antes do fármaco. Aumento de 5% ou mais já justifica intervenção, sobretudo no primeiro mês (preditor de ganho maior no longo prazo)."
+    },
+    {
+     "r": "Categorias de IMC",
+     "t": "Sobrepeso: IMC 25 a 29,9. Obesidade: IMC 30 ou mais (grau I 30 a 34,9; grau II 35 a 39,9; grau III 40 ou mais)."
+    },
+    {
+     "r": "Síndrome metabólica",
+     "t": "3 ou mais dos 5 critérios:",
+     "sub": [
+      "Circunferência abdominal aumentada (para população sul-americana, IDF: 90 cm ou mais em homens e 80 cm ou mais em mulheres).",
+      "Triglicerídeos de 150 mg/dL ou mais (ou tratamento).",
+      "HDL abaixo de 40 mg/dL em homens ou abaixo de 50 mg/dL em mulheres (ou tratamento).",
+      "PA de 130/85 mmHg ou mais (ou tratamento).",
+      "Glicemia de jejum de 100 mg/dL ou mais (ou tratamento)."
+     ]
+    },
+    {
+     "r": "Relação causal",
+     "t": "Ganho que começa após início ou aumento de dose de fármaco de risco, sem outra causa, mais intenso nas primeiras 6 a 12 semanas."
+    }
+   ],
+   "notas": [
+    "Risco relativo por fármaco (alto para baixo): clozapina e olanzapina; quetiapina, risperidona, paliperidona, iloperidona; aripiprazol, brexpiprazol, cariprazina, lurasidona, ziprasidona, amissulprida (baixo).",
+    "Outros: mirtazapina, paroxetina, tricíclicos (amitriptilina), IMAO, valproato, lítio, gabapentina, pregabalina. Fluoxetina e bupropiona tendem à neutralidade ou perda de peso; topiramato e zonisamida reduzem peso.",
+    "Maior vulnerabilidade: primeiro episódio e pacientes virgens de antipsicótico, crianças e adolescentes, IMC basal baixo, ganho rápido no primeiro mês.",
+    "Alterações glicêmicas e lipídicas podem ocorrer antes e independentemente do ganho de peso (sobretudo clozapina e olanzapina)."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Quanto pesava antes de começar esse remédio? E agora?",
+    "Seu apetite mudou? Sente mais fome ou vontade de doces à noite?",
+    "Tem acordado para comer?",
+    "As roupas estão mais apertadas na cintura?",
+    "Está mais sonolento ou se movimentando menos?",
+    "Tem sede excessiva ou urina muito (possível hiperglicemia)?",
+    "Isso tem incomodado a ponto de pensar em parar o remédio?",
+    "Há diabetes, infarto ou colesterol alto na família?"
+   ],
+   "sinais": [
+    "Ganho de 5% ou mais do peso basal, especialmente no primeiro mês.",
+    "Aumento da circunferência abdominal mesmo com peso estável.",
+    "Hiperfagia, fissura por carboidratos, ingestão noturna após início de clozapina, olanzapina ou mirtazapina.",
+    "Elevação de triglicerídeos ou glicemia de jejum nas primeiras 12 semanas.",
+    "Acantose nigricans.",
+    "Queixa de ganho de peso associada a má adesão.",
+    "Crianças e adolescentes cruzando percentis de IMC."
+   ],
+   "instrumentos": [
+    "Peso, IMC e circunferência abdominal na linha de base e em cada consulta.",
+    "Protocolo ADA/APA: peso em 4, 8 e 12 semanas e depois a cada 3 meses; glicemia e lipídios na linha de base, em 12 semanas e anualmente."
+   ]
+  },
+  "diferencial": [
+   "Hipotireoidismo (especialmente com lítio): dosar TSH.",
+   "Edema periférico (pregabalina, gabapentina, bloqueadores de canal de cálcio, IMAO): aumento de peso por retenção hídrica, sem aumento de gordura.",
+   "Recuperação de peso com melhora da depressão ou da anorexia: retorno ao peso pré-morbido.",
+   "Transtorno de compulsão alimentar ou síndrome do comer noturno prévios ou desmascarados.",
+   "Cessação do tabagismo (ganho de 4 a 5 kg em média).",
+   "Síndrome de Cushing, síndrome dos ovários policísticos, uso de corticoide ou insulina.",
+   "Gravidez."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "BAP: manejo de ganho de peso, alterações metabólicas e risco cardiovascular associados a psicose e antipsicóticos (Cooper et al., 2016)",
+    "pontos": [
+     "Escolher o antipsicótico considerando o risco metabólico desde o início, sobretudo no primeiro episódio.",
+     "Intervenção de estilo de vida (nutrição e atividade física) oferecida desde o início e mantida.",
+     "Se o ganho for significativo: primeiro considerar troca para fármaco de menor risco (aripiprazol, lurasidona, ziprasidona, amissulprida), pesando o risco de recaída.",
+     "Se troca não for possível ou não funcionar: metformina (recomendação A), iniciar 500 mg 1 vez ao dia com refeição e subir em 1 a 2 semanas até 500 a 1.000 mg 2 vezes ao dia; verificar função renal e B12.",
+     "Tratar hipertensão, dislipidemia e diabetes pelas diretrizes da população geral; estatina conforme risco cardiovascular."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "Estilo de vida mais troca para fármaco de menor risco quando clinicamente seguro."
+     },
+     {
+      "linha": "Segunda linha",
+      "texto": "Metformina 1.000 a 2.000 mg/dia (perda média de 3 kg; maior se iniciada junto com o antipsicótico)."
+     },
+     {
+      "linha": "Terceira linha",
+      "texto": "Topiramato 50 a 200 mg/dia; aripiprazol 5 a 15 mg associado à clozapina ou olanzapina; agonistas de GLP-1 na obesidade estabelecida ou diabetes."
+     }
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "Intervir cedo: ganho de 5% ou mais é sinal para agir, pois o peso perdido é difícil de recuperar.",
+     "Metformina é a opção com melhor evidência para prevenção e tratamento; considerar ao iniciar clozapina ou olanzapina em pacientes de risco.",
+     "Agonistas de GLP-1: liraglutida até 3 mg/dia com ensaio positivo em usuários de clozapina e olanzapina (Larsen 2017); semaglutida 2,4 mg por semana tem ensaios e séries de casos favoráveis; atenção a náuseas e constipação somada à clozapina.",
+     "Aripiprazol adjunto à clozapina reduz peso e LDL; orlistate, betaistina, reboxetina e amantadina têm efeito pequeno ou inconsistente.",
+     "Com naltrexona e bupropiona (aprovadas em combinação para obesidade em outros países) há poucos dados em psicose; bupropiona reduz o limiar convulsivo com clozapina."
+    ]
+   },
+   {
+    "fonte": "APA Practice Guideline for Schizophrenia (2020) e ADA/APA (2004)",
+    "pontos": [
+     "Monitorar peso e IMC em cada consulta nos primeiros 6 meses e depois trimestralmente; circunferência abdominal anual; glicemia ou HbA1c e lipídios na linha de base, 4 a 12 semanas e anualmente.",
+     "Se houver ganho de 5% ou mais do peso inicial, considerar trocar o antipsicótico ou intervenções de peso.",
+     "Encaminhar para endocrinologia se diabetes, obesidade grau II ou III, ou dislipidemia grave; considerar cirurgia bariátrica em obesidade grave com psicose estável."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Primeiro episódio psicótico ou paciente jovem",
+    "preferir": "Aripiprazol, lurasidona, ziprasidona",
+    "evitar": "Olanzapina e clozapina como primeira escolha, salvo indicação específica"
+   },
+   {
+    "se": "Precisa manter clozapina ou olanzapina",
+    "preferir": "Metformina desde o início; aripiprazol adjunto",
+    "evitar": "Esperar ganho de 10% ou mais para agir"
+   },
+   {
+    "se": "Depressão com ganho de peso",
+    "preferir": "Bupropiona, fluoxetina, sertralina, vortioxetina",
+    "evitar": "Mirtazapina, paroxetina, tricíclicos"
+   },
+   {
+    "se": "Bipolar em manutenção com ganho de peso",
+    "preferir": "Lamotrigina, aripiprazol, lurasidona (conforme polo)",
+    "evitar": "Valproato, olanzapina, quetiapina em dose alta"
+   }
+  ]
+ },
+ "EPS e acatisia": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtornos do movimento induzidos por medicamentos e outros efeitos adversos",
+   "cid": "CID-10 G21.1 (parkinsonismo secundário induzido por fármacos), G24.0 (distonia induzida por fármacos); CID-10-CM G21.11, G24.02, G25.71",
+   "itens": [
+    {
+     "r": "Parkinsonismo induzido",
+     "t": "Tremor parkinsoniano, rigidez muscular, acinesia ou bradicinesia (perda ou lentidão de movimentos, dificuldade de iniciar) e/ou instabilidade postural, surgindo poucas semanas após início ou aumento de dose de antipsicótico ou outro bloqueador D2, ou após redução de medicamento usado para tratar sintomas extrapiramidais."
+    },
+    {
+     "r": "Distonia aguda",
+     "t": "Contrações musculares sustentadas e anormais de olhos (crise oculógira), cabeça e pescoço (torcicolo, retrocolo), língua, mandíbula, laringe, membros ou tronco (opistótono), surgindo poucos dias após início ou aumento de dose do bloqueador D2 ou redução de anticolinérgico."
+    },
+    {
+     "r": "Acatisia aguda",
+     "t": "Queixa subjetiva de inquietação acompanhada de pelo menos um movimento observado:",
+     "sub": [
+      "Balançar ou mexer as pernas continuamente.",
+      "Alternar o apoio de uma perna para a outra quando em pé.",
+      "Marchar no mesmo lugar ou andar de um lado para o outro.",
+      "Incapacidade de ficar sentado ou parado por alguns minutos."
+     ]
+    },
+    {
+     "r": "Acatisia (tempo)",
+     "t": "Os sintomas surgem poucas semanas após início ou aumento de dose de antipsicótico (ou outro fármaco capaz, como ISRS) ou após redução de medicamento que tratava EPS."
+    }
+   ],
+   "especificadores": [
+    "Acatisia tardia: surge após meses de uso e persiste; acatisia de retirada: surge ao reduzir ou suspender o bloqueador D2."
+   ],
+   "notas": [
+    "A exclusão exige que o quadro não seja mais bem explicado por doença neurológica (Parkinson, Wilson), transtorno mental (ansiedade, agitação psicótica, mania) ou outro medicamento.",
+    "Fatores de risco: antipsicótico de alta potência (haloperidol, flufenazina), doses altas ou aumento rápido, via IM, jovens do sexo masculino e virgens de tratamento (distonia), idosos e mulheres (parkinsonismo), história prévia de EPS.",
+    "Entre os atípicos, risco maior com risperidona e paliperidona em dose alta; acatisia é relevante com aripiprazol, brexpiprazol, cariprazina e lurasidona.",
+    "Laringoespasmo e distonia faríngea são emergências."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Sente uma inquietação por dentro, como se não conseguisse ficar parado?",
+    "Essa inquietação é mais nas pernas? Precisa andar ou trocar de posição o tempo todo?",
+    "Começou depois que o remédio foi iniciado ou aumentado?",
+    "Sente o corpo duro, lento, ou as mãos tremendo?",
+    "Já teve o pescoço torcido, os olhos virados para cima ou a língua travada?",
+    "Tem dificuldade para engolir ou falar?",
+    "Tem tido pensamentos de se machucar ou de morte desde que ficou inquieto?",
+    "Ao familiar: ele parece mais lento, sem expressão no rosto, andando arrastado?"
+   ],
+   "sinais": [
+    "Paciente que não fica sentado na entrevista, balança as pernas, cruza e descruza, levanta e senta.",
+    "Piora da agitação logo após aumento de antipsicótico (suspeitar acatisia antes de aumentar mais).",
+    "Hipomimia, redução do balanço dos braços, marcha em pequenos passos, roda denteada, sialorreia.",
+    "Crise oculógira, torcicolo ou protrusão da língua em jovem após primeira dose de haloperidol.",
+    "Abandono do tratamento, disforia, ideação suicida ou impulsividade recém-surgidas após início de antipsicótico ou ISRS.",
+    "Tremor de repouso de 3 a 6 Hz ou síndrome do coelho (tremor perioral rápido)."
+   ],
+   "instrumentos": [
+    "Escala de Acatisia de Barnes (BARS): avaliação global 2 ou mais indica acatisia clinicamente significativa (0 ausente, 1 questionável, 2 leve, 3 moderada, 4 marcante, 5 grave).",
+    "Escala de Simpson-Angus (SAS): 10 itens; média acima de 0,3 indica parkinsonismo.",
+    "ESRS (Extrapyramidal Symptom Rating Scale): avaliação abrangente de parkinsonismo, distonia, acatisia e discinesia."
+   ]
+  },
+  "diferencial": [
+   "Ansiedade ou agitação psicótica: a inquietação da acatisia é predominantemente motora, nas pernas, e começa após início ou aumento do fármaco.",
+   "Síndrome das pernas inquietas: vespertina ou noturna, ao repouso, com alívio ao movimentar; pode ser agravada por antipsicóticos e mirtazapina.",
+   "Discinesia tardia: surge após meses, movimentos coreiformes, piora com anticolinérgicos.",
+   "Síndrome neuroléptica maligna: rigidez com febre, alteração autonômica, confusão e CPK elevada.",
+   "Síndrome serotoninérgica: clônus, hiper-reflexia, hipertermia após serotoninérgicos.",
+   "Catatonia: negativismo, mutismo, posturas; responde a lorazepam.",
+   "Doença de Parkinson ou demência com corpos de Lewy: parkinsonismo assimétrico ou prévio ao fármaco, hipersensibilidade grave a antipsicóticos.",
+   "Distonia aguda versus conversão ou crise epiléptica: relação temporal com o bloqueador D2 e resposta rápida ao anticolinérgico."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "APA Practice Guideline for Schizophrenia (2020)",
+    "pontos": [
+     "Distonia aguda: anticolinérgico (recomendação 1C).",
+     "Parkinsonismo: reduzir a dose do antipsicótico, trocar para fármaco de menor risco ou associar anticolinérgico (2C).",
+     "Acatisia: reduzir a dose, trocar de antipsicótico, associar benzodiazepínico ou betabloqueador (2C).",
+     "Anticolinérgico profilático pode ser considerado em pacientes de alto risco para distonia (jovens, antipsicótico de alta potência, via IM), por tempo limitado."
+    ],
+    "linhas": [
+     {
+      "linha": "Distonia aguda",
+      "texto": "Biperideno 2 a 5 mg IM (repetir em 30 minutos se necessário) ou prometazina 25 a 50 mg IM, ou difenidramina 25 a 50 mg IM/IV; depois biperideno oral 2 mg 2 a 3 vezes ao dia por alguns dias. Benzatropina não é comercializada no Brasil."
+     },
+     {
+      "linha": "Parkinsonismo",
+      "texto": "Ajustar dose ou trocar; biperideno 2 a 6 mg/dia (ou triexifenidil 2 a 6 mg/dia) ou amantadina 100 a 300 mg/dia, reavaliando a necessidade em 3 meses."
+     },
+     {
+      "linha": "Acatisia",
+      "texto": "Reduzir dose ou trocar; propranolol 10 a 40 mg 2 a 3 vezes ao dia (máximo em geral 120 mg/dia); mirtazapina 15 mg à noite; clonazepam 0,5 a 1 mg/dia."
+     }
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "Acatisia: primeiro reduzir a dose ou trocar para quetiapina, olanzapina ou clozapina; propranolol (30 a 80 mg/dia) e mirtazapina 15 mg têm a melhor evidência; benzodiazepínicos, ciproeptadina, vitamina B6 e trazodona são alternativas.",
+     "Anticolinérgicos têm pouca utilidade na acatisia, exceto quando coexistente com parkinsonismo.",
+     "Anticolinérgicos não devem ser usados de rotina: pioram a cognição, a constipação (grave com clozapina) e a discinesia tardia; têm potencial de abuso.",
+     "Tentar retirada gradual do anticolinérgico após 3 meses de uso, pois muitos pacientes não voltam a ter EPS.",
+     "Contraindicar propranolol em asma, bradicardia, bloqueio AV e hipotensão."
+    ]
+   },
+   {
+    "fonte": "WFSBP para esquizofrenia, parte 2: efeitos adversos (Hasan et al., 2013)",
+    "pontos": [
+     "Distonia aguda responde a anticolinérgico parenteral em minutos; avaliar via aérea se laringoespasmo.",
+     "Parkinsonismo: preferir redução de dose e troca para antipsicótico de segunda geração com baixo risco; amantadina é alternativa com menos prejuízo cognitivo.",
+     "Acatisia: betabloqueador lipofílico (propranolol) como primeira opção farmacológica; mirtazapina em dose baixa com evidência de ensaios controlados.",
+     "Reconhecer a acatisia como fator de risco para violência, agitação e comportamento suicida."
+    ]
+   }
+  ],
+  "duracao": "Distonia aguda: anticolinérgico oral por 3 a 7 dias após o episódio (mais se o antipsicótico de alta potência for mantido). Parkinsonismo: reavaliar a necessidade do anticolinérgico ou amantadina a cada 3 meses e retirar gradualmente em 2 a 4 semanas. Acatisia: manter propranolol ou mirtazapina enquanto persistir o fator causal e tentar retirada após algumas semanas de estabilidade."
+ },
+ "Hiperprolactinemia": {
+  "criterios": {
+   "fonte": "Endocrine Society Clinical Practice Guideline (Melmed et al., 2011) e consenso da Pituitary Society (Petersenn et al., 2023)",
+   "cid": "CID-10 E22.1",
+   "itens": [
+    {
+     "r": "Diagnóstico",
+     "t": "Uma única dosagem de prolactina acima do limite superior da referência do laboratório, com coleta sem estresse excessivo na punção, confirma hiperprolactinemia. Testes dinâmicos não são recomendados."
+    },
+    {
+     "r": "Induzida por fármaco",
+     "t": "Elevação que surge após início de bloqueador D2 ou outro fármaco capaz; em geral valores até 100 ng/mL, mas risperidona, paliperidona, amissulprida e sulpirida podem ultrapassar 200 ng/mL."
+    },
+    {
+     "r": "Confirmação da causa",
+     "t": "Se possível, suspender ou trocar o fármaco por 3 dias (ou mais para depot) e repetir a dosagem; se não for seguro suspender e o início não coincide com o fármaco, fazer RM de sela túrcica."
+    },
+    {
+     "r": "Sintomática",
+     "t": "Considera-se clinicamente relevante quando há galactorreia, oligo ou amenorreia, infertilidade, redução de libido, disfunção erétil, ginecomastia ou baixa massa óssea (hipogonadismo)."
+    }
+   ],
+   "notas": [
+    "Excluir gravidez, hipotireoidismo primário, insuficiência renal, cirrose, estimulação da parede torácica (herpes-zóster, cirurgia) e macroprolactina (pesquisar em hiperprolactinemia assintomática).",
+    "Valores muito elevados, cefaleia, alteração de campo visual ou persistência após trocar o fármaco sugerem prolactinoma ou lesão selar (RM).",
+    "Em macroadenomas grandes pode haver efeito gancho (prolactina falsamente normal ou pouco elevada): pedir dosagem com diluição.",
+    "Outros fármacos que elevam prolactina: metoclopramida, domperidona, antidepressivos (sobretudo tricíclicos, em menor grau ISRS), verapamil, opioides, estrogênios.",
+    "Antipsicóticos com menor efeito: aripiprazol, brexpiprazol, cariprazina (podem reduzir prolactina), quetiapina, clozapina, olanzapina (elevação leve e transitória em dose usual)."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Sua menstruação mudou desde que começou o remédio? Está irregular ou parou?",
+    "Saiu leite ou secreção dos seios?",
+    "Notou diminuição do desejo sexual?",
+    "Tem tido dificuldade de ereção ou ejaculação?",
+    "Os seios aumentaram ou ficaram doloridos (em homens)?",
+    "Está tentando engravidar ou tem dificuldade para engravidar?",
+    "Tem dor de cabeça persistente ou alteração da visão?",
+    "Já teve fratura com trauma pequeno?"
+   ],
+   "sinais": [
+    "Amenorreia ou oligomenorreia em mulher em uso de risperidona, paliperidona, amissulprida, sulpirida ou típicos.",
+    "Galactorreia (espontânea ou à expressão), ginecomastia.",
+    "Disfunção sexual e baixa adesão sem outra explicação.",
+    "Infertilidade ou acne e hirsutismo leve.",
+    "Osteopenia em jovens em uso prolongado de bloqueador D2.",
+    "Cefaleia, hemianopsia bitemporal: suspeitar de macroadenoma."
+   ],
+   "instrumentos": [
+    "Prolactina basal antes de iniciar antipsicótico de alto risco e ao surgir sintomas (APA 2020 sugere dosagem se houver sintomas).",
+    "Questionário de função sexual (ASEX ou similar) e história menstrual em cada consulta.",
+    "Densitometria óssea se hiperprolactinemia com hipogonadismo por tempo prolongado."
+   ]
+  },
+  "diferencial": [
+   "Prolactinoma ou outra lesão selar (compressão da haste): prolactina persistente após troca, sintomas de massa, RM alterada.",
+   "Gravidez e lactação: beta-hCG obrigatório em amenorreia.",
+   "Hipotireoidismo primário: TSH elevado (TRH estimula prolactina).",
+   "Insuficiência renal crônica ou cirrose: redução da depuração.",
+   "Macroprolactinemia: prolactina alta sem sintomas, por forma de alto peso molecular inativa.",
+   "Síndrome dos ovários policísticos: irregularidade menstrual com hiperandrogenismo, prolactina normal ou pouco elevada."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "Endocrine Society (Melmed et al., 2011)",
+    "pontos": [
+     "Hiperprolactinemia assintomática por fármaco não exige tratamento.",
+     "Sintomática: suspender ou trocar o fármaco por alternativa que não eleve prolactina, em conjunto com o psiquiatra.",
+     "Se não for possível trocar, considerar agonista dopaminérgico com cautela pelo risco de piora psicótica.",
+     "Em hipogonadismo prolongado sem possibilidade de corrigir a causa, considerar reposição de estrogênio ou testosterona e avaliar massa óssea."
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "Primeiro passo: reduzir dose ou trocar para aripiprazol (ou brexpiprazol, cariprazina), quetiapina, olanzapina ou clozapina, conforme o quadro.",
+     "Se a troca for arriscada: associar aripiprazol 5 mg/dia (há resposta com 2,5 a 15 mg), que normaliza a prolactina em grande parte dos casos em algumas semanas.",
+     "Último recurso: cabergolina 0,25 a 1 mg por semana (em 1 a 2 tomadas) ou bromocriptina 2,5 a 10 mg/dia, com monitoramento de psicose; cabergolina em dose alta prolongada associa-se a valvopatia (mais relevante em Parkinson).",
+     "Mulheres que desejam engravidar: informar que a correção da prolactina restaura a fertilidade e discutir contracepção ao trocar para antipsicótico poupador de prolactina."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "Reduzir a dose ou trocar para antipsicótico poupador de prolactina."
+     },
+     {
+      "linha": "Segunda linha",
+      "texto": "Aripiprazol 5 mg/dia associado."
+     },
+     {
+      "linha": "Terceira linha",
+      "texto": "Cabergolina em dose baixa (0,25 a 0,5 mg 1 a 2 vezes por semana) com acompanhamento endocrinológico."
+     }
+    ]
+   },
+   {
+    "fonte": "APA Practice Guideline for Schizophrenia (2020)",
+    "pontos": [
+     "Em pacientes com hiperprolactinemia com sintomas, as opções são reduzir a dose, trocar de antipsicótico ou associar aripiprazol ou agonista dopaminérgico.",
+     "Perguntar ativamente sobre sintomas sexuais e menstruais na linha de base e no seguimento, e dosar prolactina quando surgirem.",
+     "Encaminhar para endocrinologia se prolactina muito elevada, sintomas de massa ou persistência após troca."
+    ]
+   }
+  ],
+  "monitorar": [
+   "Prolactina após 8 a 12 semanas de mudança de conduta",
+   "Ciclo menstrual, galactorreia, função sexual",
+   "Beta-hCG se amenorreia",
+   "Densitometria óssea em uso prolongado com hipogonadismo",
+   "Sintomas psicóticos ao usar agonista dopaminérgico"
+  ]
+ },
+ "Discinesia tardia": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): discinesia tardia; critérios de pesquisa de Schooler e Kane (1982)",
+   "cid": "CID-10 G24.0; CID-10-CM G24.01",
+   "itens": [
+    {
+     "r": "DSM-5-TR",
+     "t": "Movimentos involuntários atetoides ou coreiformes, com duração de pelo menos algumas semanas, geralmente de língua, face inferior e mandíbula e extremidades (às vezes faringe, diafragma ou tronco)."
+    },
+    {
+     "r": "Exposição",
+     "t": "Surgem em associação ao uso de antipsicótico ou outro bloqueador D2 por pelo menos alguns meses (em idosos, pode ocorrer após períodos menores)."
+    },
+    {
+     "r": "Retirada",
+     "t": "Podem surgir após suspensão, troca ou redução do fármaco; a discinesia de retirada costuma ser autolimitada (até 4 a 8 semanas). Se persistir além de 4 a 8 semanas, considerar discinesia tardia."
+    },
+    {
+     "r": "Schooler e Kane",
+     "t": "Critérios de pesquisa:",
+     "sub": [
+      "Exposição a bloqueador D2 por pelo menos 3 meses (1 mês se 60 anos ou mais).",
+      "Na AIMS, movimentos pelo menos moderados em 1 área corporal ou pelo menos leves em 2 áreas.",
+      "Ausência de outra condição que explique os movimentos."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Variantes tardias: distonia tardia, acatisia tardia, tiques e mioclonias tardias, que respondem de forma diferente ao tratamento."
+   ],
+   "notas": [
+    "Movimentos orobucolinguais típicos: mastigação, protrusão e movimentos da língua em saco de vermes, estalar de lábios, caretas, piscamento; nos membros, movimentos de piano dos dedos; no tronco, balanço pélvico.",
+    "Pioram com estresse e ativação, desaparecem no sono; podem ser mascarados pelo próprio antipsicótico e emergir ao reduzir a dose.",
+    "Fatores de risco: idade avançada, sexo feminino, antipsicótico de primeira geração, maior tempo de exposição e dose cumulativa, EPS agudos prévios, diabetes, transtornos do humor, uso de álcool, afrodescendência.",
+    "Incidência anual em torno de 3% a 5% com típicos e cerca de 1% a 2% com atípicos em adultos jovens; maior em idosos.",
+    "Também pode ser causada por metoclopramida, prometazina, amoxapina e outros bloqueadores D2."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Você ou sua família notaram movimentos que você não controla na boca, língua ou rosto?",
+    "Tem mordido a língua ou a bochecha, ou tido dificuldade para mastigar, falar ou engolir?",
+    "Seus dedos, pés ou tronco fazem movimentos sozinhos?",
+    "Esses movimentos incomodam, causam vergonha ou atrapalham tarefas?",
+    "Há quanto tempo usa antipsicótico ou metoclopramida? Houve redução ou troca recente?",
+    "Usa ou já usou anticolinérgico (biperideno) por longo período?"
+   ],
+   "sinais": [
+    "Movimentos de mastigação, estalar de lábios, protrusão da língua observados na entrevista, sobretudo durante distração.",
+    "Movimentos em piano dos dedos ou dos pés.",
+    "Irregularidade respiratória, grunhidos ou disfagia (discinesia respiratória e faríngea).",
+    "Surgimento de movimentos após redução ou suspensão do antipsicótico.",
+    "Idosos, mulheres e pacientes com diabetes em uso prolongado de bloqueador D2.",
+    "Perda de peso ou lesões orais por movimentos intensos."
+   ],
+   "instrumentos": [
+    "AIMS (Abnormal Involuntary Movement Scale): 7 áreas de 0 a 4; escore 2 (leve) em 2 áreas ou 3 (moderado) em 1 área indica discinesia provável; aplicar com manobras de ativação.",
+    "APA 2020: avaliação clínica de movimentos na linha de base, a cada 6 meses em alto risco (idosos, EPS prévios, típicos) e a cada 12 meses nos demais, além de sempre que surgirem novos movimentos."
+   ]
+  },
+  "diferencial": [
+   "Discinesia de retirada: surge ao reduzir ou suspender e desaparece em até 4 a 8 semanas.",
+   "Parkinsonismo e tremor induzidos: rítmicos, não coreiformes, surgem nas primeiras semanas e melhoram com anticolinérgico.",
+   "Estereotipias e maneirismos da esquizofrenia ou catatonia: já presentes antes do antipsicótico (discinesia espontânea em pacientes virgens de tratamento).",
+   "Doença de Huntington e outras coreias (Wilson, coreia de Sydenham, lúpus, hipertireoidismo): história familiar, curso progressivo, exames.",
+   "Discinesia orofacial espontânea do idoso e por prótese dentária mal adaptada.",
+   "Síndrome de Meige e distonia focal primária.",
+   "Tiques (Tourette): premonição e supressão voluntária."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "APA Practice Guideline for Schizophrenia (2020)",
+    "pontos": [
+     "Discinesia tardia moderada a grave ou incapacitante: tratar com inibidor do VMAT2 (recomendação 1B).",
+     "Pode ser considerado também em DT leve se houver impacto (sofrimento, estigma, prejuízo funcional).",
+     "Reavaliar a necessidade e a dose do antipsicótico; considerar troca para clozapina, mas sem evidência robusta de que reduzir ou trocar reverta a DT.",
+     "Suspender anticolinérgicos, que podem piorar a DT."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "Valbenazina 40 a 80 mg/dia ou deutetrabenazina 12 a 48 mg/dia (em 2 tomadas); nenhuma das duas é comercializada no Brasil."
+     },
+     {
+      "linha": "Alternativas no Brasil",
+      "texto": "Troca para clozapina (ou quetiapina); clonazepam 0,5 a 3 mg/dia (curto prazo, sobretudo com distonia tardia); Ginkgo biloba EGb 761 240 mg/dia; amantadina 100 a 300 mg/dia; tetrabenazina 25 a 75 mg/dia, com acesso limitado no Brasil e risco de depressão e parkinsonismo."
+     }
+    ]
+   },
+   {
+    "fonte": "AAN: diretriz de síndromes tardias (Bhidayasiri et al., 2013; atualização 2018)",
+    "pontos": [
+     "Valbenazina e deutetrabenazina: nível A (devem ser oferecidas).",
+     "Clonazepam (curto prazo) e Ginkgo biloba: nível B (provavelmente eficazes).",
+     "Amantadina e tetrabenazina: nível C (possivelmente eficazes).",
+     "Evidência insuficiente para suspender o bloqueador D2 ou trocar de antipsicótico como tratamento da DT.",
+     "Estimulação cerebral profunda do globo pálido interno para casos graves e refratários (sobretudo distonia tardia)."
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "Prevenção é a principal medida: menor dose eficaz, preferir atípicos, evitar anticolinérgicos de rotina, monitorar regularmente.",
+     "Suspender anticolinérgicos se possível (melhora em até 60% em alguns relatos).",
+     "Troca para clozapina é a estratégia antipsicótica com mais dados; quetiapina é alternativa.",
+     "Vitamina E pode reduzir a piora, com evidência fraca; vitamina B6 e melatonina têm dados pequenos.",
+     "Toxina botulínica em distonia tardia focal (blefaroespasmo, cervical)."
+    ]
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Idosos",
+    "texto": "Risco cumulativo anual muito maior (até 25% a 30% após 1 ano com típicos); menor dose possível e reavaliação frequente da indicação."
+   },
+   {
+    "grupo": "Transtornos do humor",
+    "texto": "Risco maior que na esquizofrenia com a mesma exposição; rever o uso prolongado de antipsicótico em bipolar e depressão."
+   },
+   {
+    "grupo": "Uso de metoclopramida",
+    "texto": "Limitar a 12 semanas; causa importante fora da psiquiatria."
+   }
+  ],
+  "monitorar": [
+   "AIMS na linha de base e a cada 6 a 12 meses conforme risco",
+   "Humor e ideação suicida com inibidores do VMAT2 ou tetrabenazina",
+   "Parkinsonismo e sonolência com inibidores do VMAT2",
+   "QTc com valbenazina em doses altas ou com inibidores do CYP2D6"
+  ]
+ },
+ "Disfunção sexual": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): disfunção sexual induzida por substância/medicamento",
+   "cid": "CID-10 N48.4 (impotência de origem orgânica, quando aplicável)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Perturbação clinicamente significativa da função sexual predominando no quadro clínico (desejo, excitação, ereção, orgasmo, ejaculação, dor)."
+    },
+    {
+     "r": "B",
+     "t": "Evidência por história, exame ou laboratório de ambos:",
+     "sub": [
+      "Os sintomas surgiram durante ou logo após intoxicação ou abstinência de substância, ou após exposição ou retirada de medicamento.",
+      "A substância ou o medicamento é capaz de produzi-los."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "Não é mais bem explicada por disfunção sexual independente: sintomas anteriores ao fármaco, persistência por período substancial (por exemplo, cerca de 1 mês) após suspensão, ou outras evidências de causa independente."
+    },
+    {
+     "r": "D",
+     "t": "Não ocorre exclusivamente durante delirium."
+    },
+    {
+     "r": "E",
+     "t": "Causa sofrimento clinicamente significativo."
+    }
+   ],
+   "especificadores": [
+    "Com início durante intoxicação, durante abstinência ou após uso de medicamento.",
+    "Gravidade: leve (em 25% a 50% das ocasiões); moderada (50% a 75%); grave (75% ou mais das ocasiões)."
+   ],
+   "notas": [
+    "Mais frequente com ISRS (sobretudo paroxetina), IRSN, clomipramina, antipsicóticos elevadores de prolactina, tioridazina (ejaculação retrógrada) e benzodiazepínicos; menor com bupropiona, mirtazapina, vortioxetina, agomelatina, trazodona e aripiprazol.",
+    "ISRS e IRSN afetam principalmente orgasmo e ejaculação (retardo, anorgasmia) e desejo; antipsicóticos afetam desejo e ereção via prolactina e bloqueio alfa-1 (priapismo com trazodona, risperidona, clorpromazina).",
+    "A depressão e a ansiedade também causam disfunção sexual: registrar a função sexual antes de iniciar o fármaco.",
+    "Disfunção sexual persistente pós-ISRS (PSSD): sintomas que persistem após a suspensão, incluindo anestesia genital; critérios propostos por Healy et al. (2022) exigem exposição prévia a ISRS/IRSN, persistência de pelo menos 3 meses após suspensão e exclusão de outras causas."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Muitas pessoas que usam esse tipo de remédio têm alguma mudança na vida sexual. Notou alguma mudança?",
+    "O desejo sexual diminuiu?",
+    "Tem dificuldade para ter ou manter ereção, ou lubrificação?",
+    "Consegue chegar ao orgasmo? Está demorando mais ou não acontece?",
+    "A ejaculação está atrasada, ausente ou diferente?",
+    "Isso começou antes ou depois do remédio? E antes da depressão?",
+    "Isso tem feito você pensar em parar o remédio ou pular doses?",
+    "Usa álcool, maconha, cocaína, opioides ou anabolizantes?"
+   ],
+   "sinais": [
+    "Queixa espontânea rara: perguntar ativamente, sem esperar o relato.",
+    "Má adesão ou abandono após melhora do humor.",
+    "Pausas por conta própria nos fins de semana.",
+    "Conflito conjugal recente.",
+    "Galactorreia, amenorreia ou ginecomastia (sugerem hiperprolactinemia).",
+    "Comorbidades: diabetes, hipertensão, tabagismo, obesidade, hipogonadismo, uso de betabloqueadores ou diuréticos tiazídicos."
+   ],
+   "instrumentos": [
+    "ASEX (Arizona Sexual Experience Scale): pontuação total 19 ou mais, qualquer item 5 ou mais, ou 3 itens com 4 ou mais indicam disfunção sexual.",
+    "CSFQ-14 (Changes in Sexual Functioning Questionnaire): útil para acompanhar mudanças.",
+    "PRSexDQ-SALSEX (Montejo): específico para disfunção induzida por antidepressivos."
+   ]
+  },
+  "diferencial": [
+   "Disfunção sexual pela própria depressão ou ansiedade: presente antes do fármaco e melhora com a remissão.",
+   "Disfunção erétil vascular ou por diabetes: fatores de risco cardiovascular, ereção matinal ausente, início gradual.",
+   "Hipogonadismo masculino: testosterona total baixa pela manhã, fadiga, perda de massa muscular.",
+   "Hiperprolactinemia por antipsicótico: dosar prolactina.",
+   "Menopausa e síndrome geniturinária: secura vaginal e dispareunia.",
+   "Problemas relacionais e disfunções sexuais primárias (ejaculação precoce, vaginismo).",
+   "Uso de álcool, opioides, anabolizantes, finasterida ou anti-hipertensivos."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "CANMAT 2023: diretriz para depressão maior em adultos",
+    "pontos": [
+     "Avaliar função sexual antes e durante o tratamento; preferir antidepressivos com menor risco (bupropiona, mirtazapina, vortioxetina, agomelatina) em quem valoriza a função sexual.",
+     "Estratégias: aguardar algumas semanas (tolerância é pouco frequente), reduzir a dose, trocar para fármaco de menor risco, associar antídoto.",
+     "Associar bupropiona 150 a 300 mg/dia (evidência maior em mulheres e com 300 mg) ou inibidor da PDE5 para disfunção erétil.",
+     "Ajustar o horário da dose (tomar após a relação sexual) pode ajudar com fármacos de meia-vida curta."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "Trocar para bupropiona, vortioxetina (troca a partir de ISRS melhorou a função sexual em ensaio) ou mirtazapina, se a resposta do humor permitir."
+     },
+     {
+      "linha": "Segunda linha",
+      "texto": "Associar sildenafila 50 a 100 mg sob demanda ou tadalafila 10 a 20 mg sob demanda ou 5 mg/dia (disfunção erétil; ensaio positivo também em mulheres com sildenafila); associar bupropiona 150 a 300 mg/dia."
+     },
+     {
+      "linha": "Outras",
+      "texto": "Ciproeptadina 4 a 8 mg 1 a 2 horas antes da relação (pode reduzir o efeito antidepressivo); buspirona 30 a 60 mg/dia; exercício físico antes da relação."
+     }
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "Antipsicóticos: dosar prolactina; reduzir dose ou trocar para aripiprazol, quetiapina, olanzapina ou clozapina; associar aripiprazol 5 mg/dia.",
+     "Inibidores da PDE5 são eficazes para disfunção erétil induzida por antipsicóticos e antidepressivos; contraindicados com nitratos, cautela com hipotensão ortostática.",
+     "Pausa de fim de semana só funciona com ISRS de meia-vida curta (sertralina), não com fluoxetina; evitar com paroxetina e venlafaxina pelo risco de sintomas de descontinuação; há risco de recaída e de piora da adesão.",
+     "Priapismo (trazodona, antipsicóticos com bloqueio alfa-1) é emergência urológica: orientar procurar atendimento se ereção dolorosa acima de 4 horas."
+    ]
+   },
+   {
+    "fonte": "Revisão Cochrane de manejo da disfunção sexual por antidepressivos (Taylor et al., 2013)",
+    "pontos": [
+     "Homens com disfunção erétil: sildenafila e tadalafila com a melhor evidência.",
+     "Mulheres: bupropiona em dose alta (300 mg/dia) com evidência de benefício.",
+     "Evidência insuficiente para a maioria das outras estratégias (ciproeptadina, buspirona, ginkgo biloba, mirtazapina associada)."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Paciente sexualmente ativo iniciando antidepressivo",
+    "preferir": "Bupropiona, vortioxetina, mirtazapina, agomelatina",
+    "evitar": "Paroxetina, clomipramina, venlafaxina em dose alta"
+   },
+   {
+    "se": "Disfunção erétil com ISRS eficaz",
+    "preferir": "Associar sildenafila ou tadalafila",
+    "evitar": "Suspender abruptamente o antidepressivo"
+   },
+   {
+    "se": "Anorgasmia ou redução de desejo com ISRS",
+    "preferir": "Associar bupropiona ou trocar",
+    "evitar": "Ciproeptadina de uso contínuo"
+   },
+   {
+    "se": "Disfunção com antipsicótico elevador de prolactina",
+    "preferir": "Trocar para aripiprazol ou associá-lo",
+    "evitar": "Risperidona, paliperidona, amissulprida, sulpirida"
+   }
+  ]
+ },
+ "Sialorreia": {
+  "criterios": {
+   "fonte": "Não é diagnóstico do DSM-5-TR. Definição clínica de hipersalivação induzida por clozapina (Maudsley 2025; The Clozapine Handbook, Meyer e Stahl, 2019) e escalas de gravidade (DSFS, NHRS)",
+   "cid": "CID-10 K11.7",
+   "itens": [
+    {
+     "r": "Definição",
+     "t": "Salivação excessiva ou escape de saliva pela boca, em geral por redução da deglutição e aumento do fluxo salivar, surgindo após início ou aumento de dose de clozapina (ou, menos frequentemente, olanzapina, quetiapina, risperidona, anticolinesterásicos e lítio)."
+    },
+    {
+     "r": "Características",
+     "t": "Predomina à noite (travesseiro molhado), surge nas primeiras semanas, é dose-dependente e atinge 30% a 80% dos usuários de clozapina; persiste em muitos."
+    },
+    {
+     "r": "DSFS",
+     "t": "Drooling Severity and Frequency Scale: gravidade de 1 (seco) a 5 (profuso, molha roupas, mãos e objetos) e frequência de 1 (nunca) a 4 (constante); total de 2 a 9."
+    },
+    {
+     "r": "NHRS",
+     "t": "Nocturnal Hypersalivation Rating Scale: 0 (ausente) a 4 (travesseiro encharcado, precisa trocar roupa de cama), útil para medir a resposta com clozapina."
+    }
+   ],
+   "notas": [
+    "Mecanismos com clozapina: agonismo muscarínico M4, antagonismo alfa-2 e redução do reflexo de deglutição; por isso coexiste com constipação anticolinérgica.",
+    "Riscos: pneumonia aspirativa (causa relevante de morte com clozapina), dermatite perioral, isolamento social e abandono.",
+    "Na doença de Parkinson e na ELA a sialorreia decorre de disfagia e tem tratamento semelhante (toxina botulínica e anticolinérgicos locais)."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Tem acordado com o travesseiro molhado?",
+    "Durante o dia, sente a boca cheia de saliva ou baba?",
+    "Tem engasgado com saliva ou comida, ou tosse ao deitar?",
+    "Isso tem causado vergonha ou feito você evitar pessoas?",
+    "Teve febre, tosse com catarro ou falta de ar recentemente?",
+    "Está com o intestino preso?"
+   ],
+   "sinais": [
+    "Travesseiro molhado, escape de saliva ao falar, dermatite ao redor da boca.",
+    "Início ou aumento de clozapina, especialmente nas primeiras semanas.",
+    "Tosse noturna, engasgos, pneumonia recorrente (aspiração).",
+    "Parkinsonismo associado (hipomimia, redução da deglutição).",
+    "Sedação intensa à noite (reduz a deglutição).",
+    "Constipação concomitante (limita o uso de anticolinérgicos)."
+   ],
+   "instrumentos": [
+    "NHRS para hipersalivação noturna com clozapina.",
+    "DSFS para gravidade e frequência diurna."
+   ]
+  },
+  "diferencial": [
+   "Parkinsonismo induzido por antipsicótico: sialorreia por redução da deglutição, com bradicinesia e rigidez.",
+   "Disfagia por doença neurológica (Parkinson, ELA, AVC, miastenia): sinais neurológicos associados.",
+   "Infecção oral, dentária ou faríngea e refluxo gastroesofágico (pirose aquosa).",
+   "Intoxicação por organofosforados ou agonistas colinérgicos: miose, bradicardia, sudorese, broncorreia.",
+   "Uso de anticolinesterásicos (donepezila, rivastigmina) ou pilocarpina.",
+   "Pneumonia aspirativa estabelecida: febre, tosse, infiltrado, exige tratamento imediato."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "Medidas gerais: toalha sobre o travesseiro, dormir com a cabeceira elevada, goma de mascar sem açúcar durante o dia para estimular a deglutição.",
+     "Reduzir a dose de clozapina ou redistribuir para mais cedo, se o quadro permitir.",
+     "Anticolinérgicos locais: atropina colírio 1%, 1 a 2 gotas sublinguais ao deitar (até 3 vezes ao dia); ipratrópio spray intranasal ou sublingual; efeito sistêmico menor.",
+     "Glicopirrolato (glicopirrônio) 1 a 4 mg/dia: anticolinérgico que não atravessa a barreira hematoencefálica, com ensaio favorável frente ao biperideno; disponibilidade oral no Brasil é limitada (formulação manipulada).",
+     "Hioscina (escopolamina) e pirenzepina são usadas no Reino Unido; pirenzepina não é comercializada no Brasil. Hioscina butilbrometo oral tem absorção baixa e efeito incerto.",
+     "Outras opções: amissulprida 100 a 400 mg/dia ou sulpirida 150 a 300 mg/dia associadas (ensaios pequenos positivos), clonidina 0,05 a 0,1 mg à noite (cuidado com hipotensão), toxina botulínica nas parótidas e submandibulares nos casos refratários."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "Medidas comportamentais e ajuste da dose noturna de clozapina."
+     },
+     {
+      "linha": "Segunda linha",
+      "texto": "Atropina 1% sublingual ao deitar ou ipratrópio local; glicopirrolato quando disponível."
+     },
+     {
+      "linha": "Terceira linha",
+      "texto": "Amissulprida ou sulpirida associada; clonidina; toxina botulínica."
+     }
+    ]
+   },
+   {
+    "fonte": "The Clozapine Handbook (Meyer e Stahl, 2019)",
+    "pontos": [
+     "Preferir agentes de ação local ou periférica, pois anticolinérgicos sistêmicos centrais (biperideno, triexifenidil, amitriptilina, prometazina) somam constipação, risco de íleo paralítico, confusão e prejuízo cognitivo à clozapina.",
+     "Glicopirrolato é o anticolinérgico sistêmico preferido quando necessário, mas ainda soma efeito constipante: associar laxativos e monitorar hábito intestinal.",
+     "Toxina botulínica A (em geral 25 a 100 unidades por parótida, guiada por ultrassom) tem efeito de 3 a 4 meses; considerar em sialorreia grave ou com aspiração.",
+     "Investigar e tratar pneumonia aspirativa; nesses casos a sialorreia deixa de ser apenas incômodo e torna-se risco de vida."
+    ]
+   }
+  ],
+  "monitorar": [
+   "NHRS ou relato de travesseiro molhado a cada consulta nas primeiras semanas de clozapina",
+   "Hábito intestinal (constipação e risco de íleo)",
+   "Sinais respiratórios e febre (aspiração)",
+   "Cognição e confusão ao usar anticolinérgicos",
+   "Pressão arterial com clonidina"
+  ]
+ },
+ "Tremor por psicofármacos": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): tremor postural induzido por medicamento; critérios de Morgan e Sethi (2005) para tremor induzido por fármacos; consenso de classificação de tremor da MDS (Bhatia et al., 2018)",
+   "cid": "CID-10 G25.1; CID-10-CM G25.1",
+   "itens": [
+    {
+     "r": "DSM-5-TR",
+     "t": "Tremor fino, geralmente de 8 a 12 Hz, mais evidente ao manter uma postura (por exemplo, braços estendidos), surgindo em associação ao uso de medicamento (lítio, valproato, antidepressivos, estimulantes, beta-agonistas, metilxantinas, hormônio tireoidiano, antipsicóticos, amiodarona, entre outros)."
+    },
+    {
+     "r": "Exclusão",
+     "t": "Não é mais bem explicado por tremor pré-existente não induzido (essencial, fisiológico exacerbado por ansiedade ou cafeína), por parkinsonismo ou por abstinência de álcool ou sedativos."
+    },
+    {
+     "r": "Morgan e Sethi",
+     "t": "Critérios para atribuir tremor a fármaco:",
+     "sub": [
+      "Excluir outras causas médicas de tremor.",
+      "Relação temporal com início ou aumento da dose.",
+      "Relação dose-resposta (piora com aumento da dose ou do nível sérico).",
+      "Ausência de progressão; melhora após redução ou suspensão."
+     ]
+    }
+   ],
+   "notas": [
+    "Lítio: tremor postural fino em até 25% a 50% no início, relacionado ao pico sérico; tremor grosseiro, com ataxia, disartria, confusão ou mioclonias sugere intoxicação.",
+    "Valproato: tremor postural e de ação dose-dependente (até 25%); também pode causar parkinsonismo reversível, às vezes com déficit cognitivo, e hiperamonemia.",
+    "Antidepressivos (ISRS, IRSN, tricíclicos) e bupropiona: tremor postural fino, geralmente leve.",
+    "Antipsicóticos causam principalmente tremor de repouso parkinsoniano (3 a 6 Hz) e síndrome do coelho (tremor perioral de cerca de 5 Hz), que respondem a anticolinérgico; o tremor postural por lítio não responde.",
+    "Fatores que pioram: cafeína, ansiedade, fadiga, abstinência de álcool, hipertireoidismo, hipoglicemia, associação de lítio com antidepressivo ou valproato, idade avançada."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Tem notado as mãos tremendo? Quando: parado, segurando um copo, escrevendo?",
+    "O tremor começou ou piorou depois de algum remédio ou aumento de dose?",
+    "Tem dificuldade para escrever, abotoar ou levar o copo à boca?",
+    "Quanto café, chá, energético ou refrigerante de cola toma por dia?",
+    "Tem diarreia, vômitos, desequilíbrio, fala enrolada ou confusão (com lítio)?",
+    "Alguém na família tem tremor?",
+    "Bebe álcool? O tremor melhora quando bebe ou piora de manhã?"
+   ],
+   "sinais": [
+    "Tremor fino ao estender os braços em uso de lítio, valproato ou antidepressivo.",
+    "Tremor que piora após aumento de dose, desidratação, uso de AINE, IECA, BRA ou diurético tiazídico (nível de lítio aumentado).",
+    "Tremor grosseiro com ataxia, disartria, vômitos ou confusão: intoxicação por lítio (emergência).",
+    "Tremor de repouso com bradicinesia e rigidez em uso de antipsicótico ou valproato: parkinsonismo.",
+    "Queixas de escrita tremida e constrangimento social levando a abandono.",
+    "Hipertireoidismo ou hipotireoidismo associados ao lítio."
+   ],
+   "instrumentos": [
+    "Litemia 12 horas após a última dose; TSH, cálcio, função renal e eletrólitos.",
+    "Espiral de Arquimedes e amostra de escrita para registro e comparação ao longo do tempo.",
+    "TETRAS (The Essential Tremor Rating Assessment Scale) pode ser usada para quantificar a gravidade."
+   ]
+  },
+  "diferencial": [
+   "Tremor essencial: história familiar, melhora com álcool, anterior ao fármaco, progressão lenta.",
+   "Tremor fisiológico exacerbado: ansiedade, cafeína, hipertireoidismo, hipoglicemia, abstinência de álcool ou benzodiazepínicos.",
+   "Parkinsonismo induzido por antipsicótico ou valproato: tremor de repouso com bradicinesia e rigidez.",
+   "Doença de Parkinson: tremor de repouso assimétrico, progressivo, com sinais não motores.",
+   "Intoxicação por lítio: tremor grosseiro com sinais cerebelares e alteração de consciência.",
+   "Síndrome serotoninérgica: tremor com clônus, hiper-reflexia, hipertermia e agitação.",
+   "Asterixis por encefalopatia (hepática, hiperamonemia por valproato, urêmica)."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "Verificar litemia e fatores de aumento do nível (desidratação, interações); reduzir a dose se possível mantendo a eficácia.",
+     "Lítio em dose única noturna ou formulação de liberação controlada reduz o pico e o tremor diurno.",
+     "Reduzir ou eliminar cafeína; tratar ansiedade.",
+     "Propranolol 10 a 40 mg 2 a 3 vezes ao dia (20 a 80 mg/dia, até 160 mg/dia) é a opção com melhor evidência para tremor por lítio e outros fármacos; alternativas: primidona em dose baixa, com cautela por sedação.",
+     "Valproato: preferir liberação prolongada, reduzir a dose e considerar propranolol."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "Revisar dose, nível sérico, horário, formulação, cafeína e interações."
+     },
+     {
+      "linha": "Segunda linha",
+      "texto": "Propranolol 20 a 80 mg/dia (contraindicado em asma, bradicardia, bloqueio AV)."
+     },
+     {
+      "linha": "Terceira linha",
+      "texto": "Trocar o fármaco causador se o tremor for incapacitante e persistente."
+     }
+    ]
+   },
+   {
+    "fonte": "CANMAT/ISBD 2018: transtorno bipolar (manejo de efeitos adversos do lítio e do valproato)",
+    "pontos": [
+     "Tremor por lítio é comum e geralmente benigno; piora com níveis altos e associação com outros fármacos.",
+     "Medidas: reduzir a dose, trocar para liberação prolongada, evitar cafeína, associar betabloqueador.",
+     "Tremor novo ou em piora exige litemia; tremor grosseiro com sintomas neurológicos ou gastrointestinais indica intoxicação e suspensão imediata com avaliação de emergência.",
+     "Monitorar litemia, função renal e tireoidiana a cada 6 a 12 meses e após mudanças de dose ou interações."
+    ]
+   },
+   {
+    "fonte": "MDS: consenso de classificação de tremor (Bhatia et al., 2018)",
+    "pontos": [
+     "Classificar o tremor por eixo 1 (características clínicas: repouso, postural, cinético, frequência, distribuição) e eixo 2 (etiologia, incluindo tremor induzido por fármacos).",
+     "Tremor postural e de ação sugere efeito farmacológico direto (lítio, valproato, antidepressivos, beta-agonistas); tremor de repouso sugere parkinsonismo por bloqueio D2.",
+     "Tremor induzido por fármacos deve regredir após retirada; persistência após meses levanta a hipótese de doença subjacente desmascarada (tremor essencial ou Parkinson)."
+    ]
+   }
+  ],
+  "monitorar": [
+   "Litemia após mudanças de dose ou interações",
+   "TSH e função renal",
+   "Intensidade do tremor (espiral, escrita) em cada consulta",
+   "Frequência cardíaca e pressão arterial com propranolol",
+   "Sinais de intoxicação (ataxia, disartria, confusão, vômitos)"
+  ]
+ }
+}

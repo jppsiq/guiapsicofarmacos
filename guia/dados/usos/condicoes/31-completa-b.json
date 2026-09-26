@@ -1,0 +1,311 @@
+{
+"Tabagismo": {
+ "avaliacao": [
+  "Carga tabágica (cigarros/dia, anos-maço), tempo até o primeiro cigarro e Fagerström (5 ou mais indica dependência elevada e indicação de farmacoterapia).",
+  "Motivação e prontidão para parar (estágio de mudança), tentativas prévias, fármacos já usados e motivo das recaídas.",
+  "Monóxido de carbono expirado basal quando disponível, para acompanhar a abstinência.",
+  "Contraindicações: convulsões, bulimia, anorexia e uso de IMAO para bupropiona; cardiopatia, arritmia e sobredose prévia para nortriptilina; função renal para a dose de vareniclina (reduzir se depuração abaixo de 30 mL/min).",
+  "Transtorno psiquiátrico atual e estabilidade (humor, psicose, ideação suicida) e uso de álcool e outras substâncias.",
+  "Fármacos metabolizados pelo CYP1A2 (clozapina, olanzapina, fluvoxamina como inibidor, cafeína) e nível sérico basal de clozapina antes da data de parada.",
+  "Peso, pressão arterial e gestação ou plano de gestação.",
+  "Uso de cigarro eletrônico, narguilé ou tabaco aquecido, que também mantêm a dependência."
+ ],
+ "nao_farmacologico": [
+  "Abordagem breve em toda consulta (modelo dos 5 As: perguntar, aconselhar, avaliar, ajudar, acompanhar).",
+  "Entrevista motivacional para quem ainda não está pronto para parar.",
+  "Abordagem cognitivo-comportamental estruturada do PNCT/INCA: 4 sessões semanais em grupo ou individual, com manutenção até 12 meses.",
+  "Definição de data de parada, identificação de gatilhos e plano para fissura (adiar, respirar, beber água, trocar de ambiente).",
+  "Prevenção de recaída com manejo do ganho de peso (orientação alimentar e atividade física).",
+  "Linha telefônica e intervenções por mensagem ou aplicativo como complemento.",
+  "Ambientes livres de fumo na internação psiquiátrica, com reposição de nicotina oferecida desde a admissão."
+ ]
+},
+"Cocaína e estimulantes": {
+ "avaliacao": [
+  "Padrão de uso: substância (cocaína inalada, crack, metanfetamina, anfetamínicos), via, frequência, gasto e uso associado de álcool, opioides e benzodiazepínicos.",
+  "Exame toxicológico de urina basal, que também servirá para o manejo de contingências.",
+  "Comorbidades psiquiátricas: TDAH (rastrear com ASRS e confirmar a história na infância), depressão, psicose, transtorno bipolar e risco de suicídio.",
+  "Avaliação cardiovascular: pressão arterial, frequência cardíaca e ECG em dor torácica, palpitações, cardiopatia ou antes de prescrever estimulantes.",
+  "Sorologias para HIV, sífilis e hepatites B e C; vacinação contra hepatite B; avaliar indicação de PrEP.",
+  "Contraindicações dos fármacos off-label: convulsões e transtornos alimentares (bupropiona), nefrolitíase e glaucoma de ângulo fechado (topiramato), risco de desvio de estimulantes.",
+  "Situação social: moradia, violência, gestação, questões legais e rede de apoio."
+ ],
+ "nao_farmacologico": [
+  "Manejo de contingências: incentivos (vales ou prêmios) crescentes por exames de urina negativos, 2 a 3 vezes por semana por pelo menos 12 semanas.",
+  "Terapia de reforço comunitário (CRA), com ou sem vales.",
+  "TCC com prevenção de recaída (identificação de gatilhos, manejo da fissura, habilidades de recusa).",
+  "Entrevista motivacional para adesão e engajamento.",
+  "Envolvimento da família e terapia de casal quando aplicável.",
+  "Redução de danos: material seguro para fumar e injetar, testagem de fentanil na droga, naloxona e orientação sobre sexo seguro.",
+  "Grupos de ajuda mútua (Narcóticos Anônimos) e acompanhamento em CAPS AD."
+ ],
+ "etapas": [
+  {"titulo": "Base psicossocial", "texto": "Manejo de contingências por pelo menos 12 semanas associado a TCC ou terapia de reforço comunitário; exames de urina 2 a 3 vezes por semana. Redução de danos e naloxona para todos (contaminação por fentanil)."},
+  {"titulo": "Tratar comorbidades", "texto": "TDAH: metilfenidato de liberação prolongada ou lisdexanfetamina sob supervisão, atomoxetina ou bupropiona. Depressão, ansiedade e insônia com tratamento usual, evitando benzodiazepínicos de manutenção. Psicose induzida: antipsicótico por período curto e reavaliação após abstinência."},
+  {"titulo": "Farmacoterapia off-label (cocaína)", "texto": "Considerar individualmente, com decisão compartilhada: topiramato titulado até 200 a 300 mg/dia (sobretudo com uso de álcool), bupropiona 300 mg/dia, modafinila 200 a 400 mg/dia (melhor em homens sem uso de álcool) ou metilfenidato de liberação prolongada. Reavaliar em 8 a 12 semanas e suspender sem redução objetiva do uso."},
+  {"titulo": "Farmacoterapia off-label (metanfetamina)", "texto": "Mirtazapina 30 mg/dia (útil com insônia e perda de apetite) ou bupropiona 300 a 450 mg/dia; naltrexona injetável com bupropiona (ADAPT-2) não é possível no Brasil pela ausência da forma injetável; metilfenidato de liberação prolongada em serviço especializado."},
+  {"titulo": "Intoxicação e complicações", "texto": "Agitação, taquicardia e hipertensão: benzodiazepínico; antipsicótico se psicose persistir. Hipertermia: resfriamento ativo, CK e função renal. Dor torácica: protocolo de síndrome coronariana com benzodiazepínico, ácido acetilsalicílico e nitrato."},
+  {"titulo": "Encaminhar", "texto": "CAPS AD ou serviço especializado quando houver uso grave, comorbidade psiquiátrica grave, gestação, falha ambulatorial ou necessidade de internação (risco de suicídio, psicose persistente, complicação clínica)."}
+ ],
+ "armadilhas": [
+  "Prescrever fármacos off-label como tratamento principal e deixar de oferecer manejo de contingências e TCC.",
+  "Negar tratamento do TDAH comórbido em vez de usar estimulante de liberação prolongada supervisionado ou alternativa não estimulante.",
+  "Usar betabloqueador isolado na dor torácica ou hipertensão aguda por cocaína (estímulo alfa sem oposição).",
+  "Manter antipsicótico ou iniciar depot por tempo indefinido em psicose induzida sem confirmar transtorno psicótico primário.",
+  "Ignorar o risco de suicídio no período de abstinência (crash) e a contaminação da cocaína com fentanil (não fornecer naloxona).",
+  "Usar dissulfiram com consumo ativo de álcool ou esperar dele benefício consistente na cocaína.",
+  "Prescrever benzodiazepínicos de manutenção para ansiedade e insônia na abstinência."
+ ],
+ "diretrizes": "ASAM/AAAP Clinical Practice Guideline on the Management of Stimulant Use Disorder (2024); NICE CG51 (2007); Maudsley Prescribing Guidelines 15.ª ed. (2025); AHA (2008) sobre dor torácica associada à cocaína; ensaio ADAPT-2 (Trivedi, N Engl J Med 2021)."
+},
+"Dependência de benzodiazepínicos": {
+ "avaliacao": [
+  "Fármaco, dose diária, tempo de uso, horários, doses extras, múltiplos prescritores e fontes não médicas; calcular a equivalência em diazepam.",
+  "Indicação original e se o transtorno de base (ansiedade, insônia, pânico) está tratado.",
+  "História de convulsões, delirium ou abstinência grave em reduções anteriores.",
+  "Uso de álcool, opioides, gabapentinoides e outras substâncias (risco de depressão respiratória e de substituição).",
+  "Depressão e risco de suicídio.",
+  "Idade, quedas, cognição e função hepática (orienta a escolha entre diazepam e lorazepam).",
+  "Gestação ou plano de gestação.",
+  "Motivação e expectativas do paciente; CIWA-B basal para comparar durante a retirada."
+ ],
+ "nao_farmacologico": [
+  "Intervenção mínima estruturada: carta ou consulta explicando riscos e o plano de redução.",
+  "TCC para insônia (TCC-I) durante a retirada.",
+  "TCC para o transtorno de ansiedade ou pânico de base.",
+  "Psicoeducação sobre sintomas de abstinência, sua duração e a diferença entre abstinência e recorrência.",
+  "Plano de redução escrito, com dispensação fracionada e prescritor único.",
+  "Técnicas de relaxamento, respiração e exercício físico regular.",
+  "Grupos de apoio e seguimento próximo nas fases de redução."
+ ],
+ "etapas": [
+  {"titulo": "Decisão compartilhada", "texto": "Explicar riscos do uso prolongado (quedas, cognição, dependência, acidentes) e combinar a meta (suspensão ou menor dose eficaz). Tratar antes ou em paralelo o transtorno de base com ISRS ou IRSN e TCC."},
+  {"titulo": "Troca opcional", "texto": "Com alprazolam, lorazepam ou abstinência interdose, trocar para diazepam (ou clonazepam) em etapas, usando equivalências aproximadas (10 mg de diazepam: alprazolam 0,5 mg, clonazepam 0,5 mg, lorazepam 1 mg, bromazepam 5 a 6 mg). Em idosos e hepatopatas, reduzir o próprio fármaco."},
+  {"titulo": "Redução gradual", "texto": "Reduzir 5 a 10% da dose a cada 2 a 4 semanas, em geral sem exceder 25% a cada 2 semanas; passos finais menores (1 a 2 mg de diazepam). Pausar se os sintomas forem intensos, sem voltar à dose anterior. Duração típica de 3 a 6 meses, às vezes mais de 12."},
+  {"titulo": "Adjuvantes", "texto": "Evidência limitada: pregabalina (atenção ao próprio potencial de abuso), carbamazepina ou valproato para abstinência; trazodona ou mirtazapina para insônia. Evitar trocar por zolpidem."},
+  {"titulo": "Internação", "texto": "Doses muito altas, convulsões prévias, uso associado de álcool, uso não médico ou comorbidade grave: redução sob observação com diazepam ou fenobarbital. Flumazenil em infusão lenta é experimental e restrito a centros especializados."},
+  {"titulo": "Seguimento", "texto": "Manter acompanhamento por 6 a 12 meses após a última dose, vigiando ansiedade, insônia, humor e uso de outras substâncias."}
+ ],
+ "armadilhas": [
+  "Suspender abruptamente após uso diário prolongado, com risco de convulsões e delirium.",
+  "Reduzir rápido demais por calendário fixo, sem ajustar ao ritmo dos sintomas.",
+  "Trocar o benzodiazepínico por zolpidem ou outra droga Z, que mantém a dependência.",
+  "Confundir sintomas de abstinência com recorrência do transtorno e voltar à dose inicial.",
+  "Trocar para diazepam em idosos ou hepatopatas, com acúmulo e sedação.",
+  "Iniciar a retirada sem tratar o transtorno de ansiedade ou a insônia de base.",
+  "Interromper metadona ou buprenorfina por causa do benzodiazepínico em vez de reduzir o benzodiazepínico e fornecer naloxona."
+ ],
+ "diretrizes": "Joint Clinical Practice Guideline on Benzodiazepine Tapering (ASAM e sociedades parceiras, 2025); Manual de Ashton (2002); NICE CKS de benzodiazepínicos e drogas Z; Maudsley Prescribing Guidelines 15.ª ed. (2025); Critérios de Beers (AGS, 2023)."
+},
+"Abstinência de opioides": {
+ "avaliacao": [
+  "Opioide usado (heroína, fentanil, metadona, opioides de prescrição), via, dose e horário da última dose, para prever início e duração da abstinência.",
+  "Gravidade atual pela COWS e sinais objetivos (midríase, piloereção, rinorreia, bocejos, sudorese, taquicardia).",
+  "Uso associado de álcool, benzodiazepínicos e gabapentinoides, que muda o local e o risco da desintoxicação.",
+  "ECG com QTc antes da metadona em cardiopatas, uso de outros fármacos que prolongam QT ou doses altas.",
+  "Pressão arterial, frequência cardíaca e uso de anti-hipertensivos antes da clonidina.",
+  "Gestação (teste de gravidez em mulheres em idade fértil), hepatopatia e sorologias para HIV e hepatites.",
+  "Desejo do paciente: retirada ou tratamento de manutenção; tentativas e sobredoses prévias.",
+  "Comorbidades psiquiátricas, dor crônica e risco de suicídio."
+ ],
+ "nao_farmacologico": [
+  "Entrevista motivacional para engajar em tratamento de manutenção após a fase aguda.",
+  "Psicoeducação sobre a perda de tolerância e o risco de sobredose na recaída, com fornecimento de naloxona.",
+  "Ambiente calmo, hidratação oral, alimentação e higiene do sono durante a abstinência.",
+  "TCC com prevenção de recaída e manejo de contingências após a desintoxicação.",
+  "Acompanhamento psicossocial por pelo menos 6 meses (CAPS AD, serviço especializado).",
+  "Grupos de ajuda mútua (Narcóticos Anônimos) e apoio à família."
+ ],
+ "etapas": [
+  {"titulo": "Definir a meta", "texto": "Oferecer primeiro o tratamento de manutenção com metadona (ou buprenorfina); a desintoxicação isolada tem alta recaída e maior risco de sobredose. Em gestantes, iniciar ou manter metadona, sem desintoxicação."},
+  {"titulo": "Primeira linha: metadona", "texto": "10 a 20 mg quando surgirem sinais objetivos (COWS), repetindo 5 a 10 mg após 2 a 4 horas se necessário, até 30 a 40 mg nas primeiras 24 horas; estabilizar por 2 a 3 dias e reduzir em 1 a 3 semanas ou mais. Buprenorfina é alternativa equivalente onde disponível."},
+  {"titulo": "Alternativa: clonidina", "texto": "Quando o paciente recusa agonista ou a dependência é leve: 0,1 a 0,2 mg a cada 6 a 8 horas (até cerca de 1,2 mg/dia), suspendendo a dose com PA abaixo de 90/60 mmHg ou bradicardia; retirar em 2 a 4 dias. Lofexidina não está disponível no Brasil."},
+  {"titulo": "Sintomáticos", "texto": "Loperamida para diarreia (até 16 mg/dia), ondansetrona para náuseas, ibuprofeno ou paracetamol para dores, hidroxizina ou trazodona para ansiedade e insônia; hidratação."},
+  {"titulo": "Após a desintoxicação", "texto": "Oferecer naltrexona oral 50 mg/dia (após 7 a 10 dias sem opioide de ação curta, ou mais após metadona), naloxona para casa e seguimento psicossocial. Recaída: retomar manutenção com agonista."},
+  {"titulo": "Internação", "texto": "Indicar com dependência de álcool ou benzodiazepínicos associada, comorbidade física ou psiquiátrica grave, gestação complicada ou falha ambulatorial."}
+ ],
+ "armadilhas": [
+  "Tratar a desintoxicação como tratamento completo e dar alta sem manutenção, naltrexona, naloxona ou seguimento.",
+  "Iniciar metadona sem sinais objetivos de abstinência ou subir a dose rápido nos primeiros dias (acúmulo e sobredose entre o 3.º e o 5.º dia).",
+  "Prescrever clonidina sem checar pressão e frequência cardíaca antes de cada dose ou suspendê-la abruptamente (hipertensão de rebote).",
+  "Esperar que a clonidina reduza a fissura: ela alivia apenas sintomas autonômicos.",
+  "Desintoxicar gestantes em vez de manter metadona.",
+  "Indicar desintoxicação ultrarrápida sob anestesia.",
+  "Iniciar naltrexona cedo demais após o último opioide e precipitar abstinência grave."
+ ],
+ "diretrizes": "ASAM National Practice Guideline for the Treatment of Opioid Use Disorder (atualização de 2020); NICE CG52 (2007); Maudsley Prescribing Guidelines 15.ª ed. (2025); OMS, diretrizes de tratamento psicossocialmente assistido da dependência de opioides (2009)."
+},
+"Cannabis": {
+ "avaliacao": [
+  "Padrão de uso: frequência (dias por semana), forma (erva, haxixe, extratos concentrados, vaporizador, comestíveis), potência de THC e uso de canabinoides sintéticos.",
+  "Sintomas de abstinência em tentativas anteriores (irritabilidade, insônia, sonhos vívidos, perda de apetite).",
+  "Sintomas psicóticos, história pessoal ou familiar de psicose e transtorno bipolar.",
+  "Depressão, ansiedade, TDAH e risco de suicídio.",
+  "Uso de tabaco, álcool e outras substâncias.",
+  "Vômitos cíclicos com alívio por banho quente (síndrome de hiperêmese canabinoide).",
+  "Gestação e amamentação; em adolescentes, desempenho escolar e contexto familiar.",
+  "Contraindicações dos adjuvantes: função renal para a gabapentina e risco de uso indevido de gabapentinoides."
+ ],
+ "nao_farmacologico": [
+  "Terapia de incremento motivacional (entrevista motivacional) como porta de entrada.",
+  "TCC com prevenção de recaída, em geral 6 a 12 sessões.",
+  "Manejo de contingências com incentivos por exames negativos.",
+  "Terapia familiar em adolescentes (terapia familiar multidimensional, terapia familiar breve estratégica).",
+  "Intervenção breve em atenção primária e serviços para jovens.",
+  "Manejo da abstinência com higiene do sono, exercício e psicoeducação sobre a duração dos sintomas (1 a 2 semanas).",
+  "Intervenções integradas para uso de substâncias nos serviços de primeiro episódio psicótico."
+ ],
+ "etapas": [
+  {"titulo": "Primeira linha", "texto": "Entrevista motivacional seguida de TCC (6 a 12 sessões) com manejo de contingências quando disponível; em adolescentes, terapia familiar. Definir meta (abstinência ou redução) com o paciente."},
+  {"titulo": "Abstinência", "texto": "Psicoeducação, higiene do sono e exercício. Insônia intensa: gabapentina ou hipnótico não benzodiazepínico em dose baixa por período curto; evitar benzodiazepínicos e zolpidem prolongados."},
+  {"titulo": "Adjuvante off-label", "texto": "Adolescentes: N-acetilcisteína 1.200 mg duas vezes ao dia por 8 semanas (Gray 2012); adultos: gabapentina titulada até 1.200 mg/dia (Mason 2012). Nabiximols apenas em serviços especializados. Suspender se não houver redução do uso."},
+  {"titulo": "Comorbidades", "texto": "Tratar depressão, ansiedade e TDAH com os tratamentos usuais (sem esperar efeito sobre o uso de cannabis). Na psicose, antipsicótico com intervenção integrada e meta de abstinência, que reduz recaídas."},
+  {"titulo": "Hiperêmese canabinoide", "texto": "Hidratação, haloperidol 2,5 a 5 mg IV ou IM ou capsaicina tópica no abdome; antieméticos usuais funcionam pouco; a resolução exige abstinência."},
+  {"titulo": "Encaminhar", "texto": "CAPS AD ou serviço especializado com uso diário persistente apesar de intervenção, psicose, uso de múltiplas substâncias ou adolescentes com prejuízo importante."}
+ ],
+ "armadilhas": [
+  "Minimizar o uso diário de cannabis em pacientes com psicose ou transtorno bipolar.",
+  "Atribuir sintomas psicóticos persistentes apenas à cannabis e retardar o tratamento do transtorno primário.",
+  "Prescrever benzodiazepínicos para a abstinência ou para ansiedade de base.",
+  "Usar antidepressivos, buspirona ou atomoxetina esperando reduzir o uso de cannabis (ensaios negativos).",
+  "Não reconhecer a síndrome de hiperêmese canabinoide e repetir investigações e antieméticos ineficazes.",
+  "Prescrever N-acetilcisteína em adultos esperando o efeito visto em adolescentes."
+ ],
+ "diretrizes": "Revisões Cochrane de intervenções psicossociais (Gates 2016) e de farmacoterapia (Nielsen 2019); NIDA; Diretrizes canadenses de uso de menor risco (LRCUG, 2017); Maudsley Prescribing Guidelines 15.ª ed. (2025)."
+},
+"Jogo patológico": {
+ "avaliacao": [
+  "Gravidade com PGSI ou critérios do DSM-5-TR: frequência, modalidade (apostas esportivas online, cassino online, caça-níqueis, bingo, loterias), valores apostados e tempo gasto.",
+  "Dívidas, empréstimos, uso de crédito e acesso a contas; consequências familiares, ocupacionais e legais.",
+  "Risco de suicídio (elevado no jogo, sobretudo com dívidas).",
+  "Comorbidades: depressão, transtorno bipolar (jogo apenas em episódios maníacos), TDAH, uso de álcool e outras substâncias.",
+  "Fármacos indutores: agonistas dopaminérgicos (pramipexol, ropinirol), levodopa em doses altas e aripiprazol.",
+  "História familiar de alcoolismo (prediz melhor resposta à naltrexona).",
+  "Transaminases basais antes da naltrexona e uso de opioides (contraindicação)."
+ ],
+ "nao_farmacologico": [
+  "TCC para jogo: reestruturação de distorções (ilusão de controle, falácia do apostador, quase ganho), prevenção de recaída e manejo de gatilhos, 8 a 12 sessões.",
+  "Entrevista motivacional e intervenções breves.",
+  "Controle de acesso: autoexclusão nas plataformas e casas de apostas, bloqueio de aplicativos e sites, bloqueio de transações de apostas no banco.",
+  "Gestão financeira por familiar de confiança e orientação para renegociação de dívidas.",
+  "Grupos de ajuda mútua (Jogadores Anônimos) e grupos para familiares (Jog-Anon).",
+  "Autoajuda guiada (manuais e programas online) para casos menos graves."
+ ],
+ "etapas": [
+  {"titulo": "Avaliar e proteger", "texto": "Avaliar risco de suicídio e dívidas; iniciar medidas de controle de acesso ao dinheiro e ao jogo (autoexclusão, bloqueios bancários) desde a primeira consulta, com participação da família."},
+  {"titulo": "Revisar fármacos causadores", "texto": "Se houver agonista dopaminérgico ou aripiprazol, reduzir ou trocar o fármaco (redução gradual do agonista pelo risco de síndrome de abstinência) antes de acrescentar tratamentos."},
+  {"titulo": "Primeira linha", "texto": "TCC individual ou em grupo com entrevista motivacional, por 8 a 16 semanas, com reforços e seguimento por pelo menos 1 ano."},
+  {"titulo": "Farmacoterapia", "texto": "Naltrexona 50 mg/dia, subindo até 100 a 150 mg/dia conforme fissura, com transaminases basais e periódicas; avaliar resposta após 12 a 18 semanas. Nalmefeno não está disponível no Brasil. N-acetilcisteína, topiramato e memantina apenas como adjuvantes com dados preliminares."},
+  {"titulo": "Comorbidades", "texto": "Transtorno bipolar: lítio ou outro estabilizador. Depressão ou ansiedade: ISRS associado à TCC. Tratar uso de álcool e TDAH."},
+  {"titulo": "Encaminhar", "texto": "Serviço especializado (CAPS AD ou ambulatório de jogo) com risco de suicídio, dívidas graves, comorbidade grave ou falha da abordagem inicial."}
+ ],
+ "armadilhas": [
+  "Não perguntar sobre jogo em pacientes com depressão, dívidas, uso de substâncias ou em uso de agonistas dopaminérgicos e aripiprazol.",
+  "Subestimar o risco de suicídio associado a dívidas e perdas.",
+  "Tratar só com fármaco, sem TCC e sem medidas de controle financeiro e de acesso.",
+  "Usar ISRS esperando efeito sobre o jogo em pessoas sem depressão ou ansiedade.",
+  "Prescrever ISRS sem estabilizador em transtorno bipolar comórbido.",
+  "Acrescentar fármacos sem rever o agonista dopaminérgico ou aripiprazol causador, ou retirá-lo abruptamente.",
+  "Prescrever naltrexona a quem usa opioides ou em dose alta sem monitorar transaminases."
+ ],
+ "diretrizes": "NICE NG248 (2025) sobre transtorno do jogo e jogo nocivo; Revisão Cochrane de terapias psicológicas (Cowlishaw 2012); ensaios de naltrexona de Kim e Grant; Maudsley Prescribing Guidelines 15.ª ed. (2025); estudo DOMINION (Weintraub 2010) e alerta da FDA (2016) sobre aripiprazol."
+},
+"Intoxicação": {
+ "avaliacao": [
+  "Via aérea, respiração, circulação, glicemia capilar, temperatura e nível de consciência (Glasgow) antes de qualquer outra etapa.",
+  "Substâncias, quantidades, formulações (liberação prolongada) e horário da ingestão, com informação de familiares e embalagens; considerar sempre coingestão.",
+  "Reconhecimento da síndrome tóxica: opioide (miose, bradipneia), sedativo, anticolinérgica, simpaticomimética, serotoninérgica.",
+  "ECG com QRS e QTc; eletrólitos, função renal, gasometria e CK.",
+  "Paracetamol sérico em toda ingestão intencional e níveis séricos de lítio, valproato ou carbamazepina quando pertinentes, repetidos.",
+  "Uso crônico de benzodiazepínicos, epilepsia ou ingestão de tricíclicos (contraindicam flumazenil) e dependência de opioides (risco de abstinência precipitada pela naloxona).",
+  "Intencionalidade e risco de suicídio após estabilização clínica.",
+  "Gestação em mulheres em idade fértil."
+ ],
+ "nao_farmacologico": [
+  "Suporte ventilatório com bolsa-válvula-máscara ou intubação; posição lateral de segurança.",
+  "Monitorização cardíaca contínua e observação pelo tempo adequado à substância.",
+  "Resfriamento ativo na hipertermia.",
+  "Contato com o CIATox regional ou Disque-Intoxicação (0800 722 6001).",
+  "Avaliação psicossocial após superdosagem intencional, com plano de segurança e restrição de acesso a meios.",
+  "Orientação a usuários e famílias sobre reconhecimento da sobredose e uso de naloxona.",
+  "Seguimento precoce após a alta (em até 48 horas a 7 dias)."
+ ],
+ "etapas": [
+  {"titulo": "Estabilizar", "texto": "Via aérea, ventilação e circulação; glicemia capilar; ECG; acesso venoso. Contatar o CIATox. Considerar carvão ativado 50 g apenas em ingestão potencialmente grave, até 1 hora e com via aérea protegida."},
+  {"titulo": "Opioides", "texto": "Ventilar e titular naloxona 0,04 a 0,4 mg IV a cada 2 a 3 minutos (0,4 mg IM ou 2 a 4 mg intranasal fora do hospital), com alvo de respiração adequada. Observar por várias horas após a última dose, mais com metadona ou liberação prolongada; considerar infusão contínua."},
+  {"titulo": "Benzodiazepínicos", "texto": "Suporte ventilatório. Flumazenil 0,2 mg IV, repetindo até 1 mg, apenas na sedação iatrogênica de pessoa sem uso crônico e sem intoxicação mista; não usar no coma indiferenciado."},
+  {"titulo": "Antidepressivos e estimulantes", "texto": "QRS acima de 100 ms, arritmia ou hipotensão por tricíclico: bicarbonato de sódio 1 a 2 mEq/kg IV, com alvo de pH 7,45 a 7,55. Agitação simpaticomimética: benzodiazepínico e resfriamento."},
+  {"titulo": "Estabilizadores do humor", "texto": "Lítio: soro fisiológico, níveis seriados, irrigação intestinal em ingestão grande de liberação prolongada e hemodiálise pelos critérios EXTRIP. Valproato e carbamazepina: níveis seriados e suporte; discutir eliminação extracorpórea com o CIATox em casos graves."},
+  {"titulo": "Avaliação psiquiátrica", "texto": "Após estabilização, avaliação psicossocial abrangente, plano de segurança, restrição de meios (dispensação fracionada, fármacos menos tóxicos) e seguimento precoce."}
+ ],
+ "armadilhas": [
+  "Dar naloxona em bolus alto a usuário dependente, provocando abstinência grave e agitação, ou buscar despertar completo em vez de respiração adequada.",
+  "Dar alta cedo após naloxona em intoxicação por metadona ou opioide de liberação prolongada (renarcotização).",
+  "Usar flumazenil em coma de causa desconhecida, intoxicação mista ou usuário crônico de benzodiazepínico (convulsões e arritmias).",
+  "Não dosar paracetamol em toda ingestão intencional.",
+  "Confiar em um único nível de lítio ou de fármaco de liberação prolongada, que pode subir nas horas seguintes.",
+  "Liberar o paciente sem ECG seriado após superdosagem de tricíclicos ou antipsicóticos.",
+  "Usar escalas de risco para decidir a alta em vez de avaliação psicossocial e plano de segurança."
+ ],
+ "diretrizes": "AHA 2023 (atualização focada sobre toxicologia em suporte avançado de vida); OMS (2014) sobre manejo comunitário de superdosagem de opioides; posições conjuntas AACT/EAPCCT sobre descontaminação; EXTRIP (2015) para lítio; NICE NG225 (2022) sobre autolesão."
+},
+"Síndrome serotoninérgica": {
+ "avaliacao": [
+  "Revisar todos os fármacos serotoninérgicos em uso, associações e aumentos de dose recentes: antidepressivos, IMAO, tramadol, meperidina, metadona, fentanil, dextrometorfano, linezolida, azul de metileno, triptanos, lítio, ondansetrona e drogas como MDMA.",
+  "Aplicar os critérios de Hunter: clônus espontâneo, induzível ou ocular, agitação, diaforese, tremor, hiper-reflexia, hipertonia e temperatura.",
+  "Temperatura central, pressão arterial, frequência cardíaca e ECG.",
+  "CK, função renal, eletrólitos, gasometria e coagulação nos casos moderados e graves.",
+  "Excluir diferenciais: SNM (rigidez em cano de chumbo, bradirreflexia, início em dias), síndrome anticolinérgica (pele seca, ruídos hidroaéreos ausentes), hipertermia maligna, intoxicação por simpaticomiméticos, abstinência e infecção do SNC.",
+  "Via de ingestão e intencionalidade (superdosagem) e meia-vida dos fármacos envolvidos (fluoxetina, IMAO irreversíveis).",
+  "Capacidade de deglutição para ciproeptadina oral ou necessidade de sonda."
+ ],
+ "nao_farmacologico": [
+  "Suspensão de todos os serotoninérgicos.",
+  "Hidratação IV, oxigênio e monitorização cardíaca contínua.",
+  "Resfriamento externo na hipertermia, sabendo que antipiréticos não funcionam.",
+  "Evitar contenção física, que piora a contração isométrica, a acidose láctica e a hipertermia.",
+  "Observação por pelo menos 6 a 12 horas nos casos leves e internação em UTI nos graves.",
+  "Registro visível no prontuário e orientação ao paciente sobre associações de risco."
+ ],
+ "armadilhas": [
+  "Não reconhecer quadros leves (tremor, hiper-reflexia, diarreia, ansiedade) e aumentar ainda mais a dose do antidepressivo.",
+  "Não examinar clônus induzível e ocular, principal pista diagnóstica.",
+  "Confundir com SNM e usar bromocriptina ou dantroleno, que podem piorar o quadro.",
+  "Tratar a febre com antipiréticos, contenção física sem sedação ou succinilcolina na intubação.",
+  "Dar alta antes de 6 a 12 horas de observação ou ignorar a duração maior com fluoxetina e IMAO.",
+  "Prescrever tramadol, meperidina, dextrometorfano ou linezolida para quem usa IMAO, ou não respeitar o intervalo de 5 semanas após fluoxetina antes de iniciar IMAO.",
+  "Reintroduzir a mesma associação após a resolução sem rever a necessidade."
+ ],
+ "diretrizes": "Critérios de Hunter (Dunkley, QJM 2003); Boyer e Shannon (N Engl J Med 2005); Isbister e Buckley (toxicologia clínica); Maudsley Prescribing Guidelines 15.ª ed. (2025); posição da American Headache Society sobre triptanos com ISRS e IRSN."
+},
+"SNM": {
+ "avaliacao": [
+  "Exposição a antipsicóticos e outros bloqueadores D2 (metoclopramida, prometazina), início recente, aumento rápido de dose, via parenteral ou depot, e retirada abrupta de dopaminérgicos na doença de Parkinson.",
+  "Critérios do consenso internacional (Gurrera 2011): hipertermia, rigidez, alteração de consciência, CK elevada, instabilidade autonômica e taquicardia, com exclusão de outras causas.",
+  "CK, função renal, potássio, cálcio, fósforo, mioglobina urinária, hemograma (leucocitose), enzimas hepáticas, gasometria e coagulação.",
+  "Excluir diferenciais: infecção (hemoculturas, e punção lombar quando indicada), catatonia maligna, síndrome serotoninérgica, hipertermia maligna, intoxicação anticolinérgica ou simpaticomimética, abstinência de álcool ou benzodiazepínicos e insolação.",
+  "Fatores de risco: desidratação, agitação, contenção física, uso de lítio, SNM prévia e catatonia.",
+  "Deglutição, risco de aspiração e de trombose venosa.",
+  "Contraindicações dos tratamentos: hepatopatia para dantroleno, psicose ativa e hipotensão para bromocriptina, uso de bloqueadores de canal de cálcio com dantroleno IV."
+ ],
+ "nao_farmacologico": [
+  "Suspensão imediata do antipsicótico e de todos os bloqueadores D2.",
+  "Hidratação IV vigorosa e alcalinização urinária na rabdomiólise.",
+  "Resfriamento externo ativo.",
+  "Profilaxia de trombose venosa, prevenção de aspiração e dieta zero se houver disfagia.",
+  "Transferência para UTI nas formas moderadas a graves.",
+  "ECT (6 a 10 sessões bilaterais) nos casos refratários ou com catatonia residual.",
+  "Registro visível no prontuário e orientação do paciente e da família sobre o episódio."
+ ],
+ "armadilhas": [
+  "Atribuir febre e rigidez a infecção ou agitação e manter ou aumentar o antipsicótico.",
+  "Esquecer a metoclopramida e outros bloqueadores D2 não psiquiátricos como causa, ou a suspensão abrupta de levodopa.",
+  "Confundir com catatonia maligna ou síndrome serotoninérgica e errar o tratamento.",
+  "Usar contenção física prolongada em vez de sedação, piorando rabdomiólise e hipertermia.",
+  "Retirar bromocriptina ou dantroleno abruptamente, com risco de rebote.",
+  "Reintroduzir antipsicótico cedo (antes de 2 semanas da resolução), em depot, de alta potência ou com titulação rápida.",
+  "Não monitorar CK e sinais vitais durante a reintrodução."
+ ],
+ "diretrizes": "Consenso internacional de critérios diagnósticos (Gurrera, J Clin Psychiatry 2011); Strawn, Keck e Caroff (Am J Psychiatry 2007); estadiamento de Woodbury; Maudsley Prescribing Guidelines 15.ª ed. (2025)."
+}
+}

@@ -1,0 +1,1147 @@
+{
+ "TAG": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022), transtorno de ansiedade generalizada",
+   "cid": "CID-10-MC F41.1; CID-11 6B00",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Ansiedade e preocupação excessivas (expectativa apreensiva) na maioria dos dias, por pelo menos 6 meses, a respeito de diversos eventos ou atividades (por exemplo, desempenho escolar ou profissional)."
+    },
+    {
+     "r": "B",
+     "t": "A pessoa acha difícil controlar a preocupação."
+    },
+    {
+     "r": "C",
+     "t": "A ansiedade e a preocupação se associam a 3 ou mais dos 6 sintomas abaixo, com pelo menos alguns deles presentes na maioria dos dias nos últimos 6 meses (em crianças, basta 1):",
+     "sub": [
+      "Inquietação ou sensação de estar com os nervos à flor da pele.",
+      "Fatigabilidade.",
+      "Dificuldade de concentração ou sensação de branco na mente.",
+      "Irritabilidade.",
+      "Tensão muscular.",
+      "Perturbação do sono (dificuldade de iniciar ou manter o sono, ou sono insatisfatório e inquieto)."
+     ]
+    },
+    {
+     "r": "D",
+     "t": "A ansiedade, a preocupação ou os sintomas físicos causam sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas importantes."
+    },
+    {
+     "r": "E",
+     "t": "Não é atribuível aos efeitos fisiológicos de substância (droga de abuso, medicamento) nem a outra condição médica (por exemplo, hipertireoidismo)."
+    },
+    {
+     "r": "F",
+     "t": "Não é mais bem explicado por outro transtorno mental, como:",
+     "sub": [
+      "medo de ter ataques de pânico (transtorno de pânico);",
+      "avaliação negativa (ansiedade social);",
+      "contaminação ou outras obsessões (TOC);",
+      "separação das figuras de apego (ansiedade de separação);",
+      "lembranças do trauma (TEPT);",
+      "ganho de peso (anorexia nervosa);",
+      "queixas físicas (transtorno de sintomas somáticos);",
+      "defeitos percebidos na aparência (transtorno dismórfico corporal);",
+      "ter uma doença grave (transtorno de ansiedade de doença);",
+      "conteúdo de crenças delirantes (esquizofrenia ou transtorno delirante)."
+     ]
+    }
+   ],
+   "notas": [
+    "O foco da preocupação é difuso e muda com o tempo; preocupação restrita a um único tema sugere outro transtorno do critério F.",
+    "Ansiedade generalizada que não ocorre na maioria dos dias é registrada como outro transtorno de ansiedade especificado (F41.8).",
+    "Episódio depressivo atual não impede o diagnóstico se os critérios de TAG forem preenchidos de forma independente; na depressão, use também o especificador 'com sintomas ansiosos'.",
+    "A CID-11 não exige 6 meses rígidos ('vários meses') nem contagem fixa de sintomas, e aceita como núcleo tanto a apreensão generalizada quanto a preocupação excessiva.",
+    "Na prática, o paciente costuma procurar o clínico por insônia, cefaleia tensional, dor muscular ou sintomas gastrointestinais, e não pela preocupação."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A prevalência em 12 meses é de cerca de 2,9% em adultos nos EUA e de 0,4 a 3,6% em outros países; a prevalência na vida fica em torno de 5 a 6%. É duas vezes mais comum em mulheres, e a idade mediana de início (cerca de 35 anos) é mais tardia que a dos demais transtornos de ansiedade, embora muitos pacientes relatem ter sido 'preocupados a vida inteira'.\n\nO curso é crônico e flutuante: a remissão completa e sustentada é a exceção, e as pioras acompanham períodos de estresse. Mais de dois terços dos pacientes têm comorbidade ao longo da vida, sobretudo depressão maior, outros transtornos de ansiedade e uso de álcool ou sedativos. Em idosos, o TAG é o transtorno de ansiedade mais comum e com frequência é o primeiro de uma sequência que inclui depressão."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "O modelo atual combina hiper-reatividade da amígdala e da ínsula a sinais ambíguos com falha da regulação pelo córtex pré-frontal medial e cingulado anterior. No plano cognitivo, a intolerância à incerteza e a preocupação como forma de evitação (modelo de Borkovec: a preocupação verbal reduz a ativação emocional imediata e por isso se mantém) explicam por que a TCC focada em preocupação e a exposição à incerteza funcionam.\n\nISRS e IRSN reduzem a reatividade da amígdala ao longo de semanas, por dessensibilização de autorreceptores 5-HT1A e plasticidade. A pregabalina liga-se à subunidade alfa-2-delta dos canais de cálcio voltagem-dependentes e reduz a liberação de glutamato e noradrenalina, o que explica o início em cerca de 1 semana e o efeito sobre sono e sintomas somáticos. A buspirona é agonista parcial 5-HT1A, sem ação GABAérgica; os benzodiazepínicos aliviam rápido, mas não modificam a vulnerabilidade de base."
+   },
+   {
+    "titulo": "Por que ISRS, IRSN e pregabalina são primeira linha",
+    "texto": "A metanálise em rede de Slee e colaboradores (Lancet, 2019), com 89 ensaios, mostrou que duloxetina, pregabalina, venlafaxina e escitalopram combinam eficácia e aceitabilidade; a quetiapina teve o maior efeito, mas com mais abandonos por efeitos adversos. Baldwin (BMJ, 2011) encontrou resultados semelhantes, com a sertralina entre as mais bem toleradas. As diferenças entre os fármacos de primeira linha são pequenas: a escolha é guiada por comorbidade, perfil de efeitos adversos, interações e custo.\n\nA manutenção importa: a metanálise de Batelaan (BMJ, 2017) mostrou que continuar o antidepressivo após a resposta reduz a recaída em transtornos de ansiedade (razão de chances em torno de 0,3), e ensaios de prevenção de recaída com escitalopram, paroxetina, duloxetina, venlafaxina, pregabalina e agomelatina sustentam manter por 6 a 12 meses ou mais. A TCC tem efeito semelhante na fase aguda e efeito mais duradouro após o término."
+   },
+   {
+    "titulo": "Benzodiazepínicos, buspirona e quetiapina: onde entram",
+    "texto": "Benzodiazepínicos são eficazes no TAG e segunda linha no CANMAT 2014, mas não tratam depressão comórbida, pioram cognição e quedas no idoso e trazem tolerância e dependência. Seu papel é a ponte de 2 a 4 semanas no início do antidepressivo ou o uso contínuo cuidadosamente escolhido em quem falhou em várias opções e não tem história de uso de substâncias.\n\nA buspirona (15 a 60 mg/dia, em 2 a 3 tomadas) tem efeito mais lento e menor em quem já usou benzodiazepínicos; serve como alternativa ou potencialização. A quetiapina de liberação prolongada 50 a 150 mg/dia foi eficaz em ensaios, mas a FDA recusou a indicação pelo risco metabólico e de discinesia em uso prolongado: é opção de refratários, não atalho para insônia."
+   },
+   {
+    "titulo": "Comorbidades e populações que mudam a conduta",
+    "texto": "Com depressão maior, prefira ISRS ou IRSN; pregabalina e benzodiazepínico isolados não tratam o humor. Com dor crônica ou fibromialgia, duloxetina ou pregabalina cobrem as duas condições. Com uso de álcool, opioides ou história de abuso de sedativos, evite benzodiazepínicos e seja cauteloso com pregabalina (uso indevido, sobretudo com opioides); prefira ISRS, IRSN, buspirona ou hidroxizina.\n\nEm idosos, escitalopram (Lenze, JAMA 2009), sertralina e duloxetina são as opções mais estudadas; evite benzodiazepínicos, hidroxizina e paroxetina (Beers). Na gestação, sertralina e TCC são preferidas. Em crianças e adolescentes, TCC e sertralina (estudo CAMS, 2008, em que a combinação foi superior a cada tratamento isolado)."
+   },
+   {
+    "titulo": "Armadilhas e o que dizer ao paciente",
+    "texto": "Avalie cafeína, álcool, estimulantes, corticosteroides, hormônio tireoidiano em excesso, abstinência de benzodiazepínicos e apneia do sono antes de rotular como TAG. A piora da ansiedade nas primeiras 1 a 2 semanas de ISRS é comum: começar com metade da dose e avisar reduz o abandono. Resposta é redução de pelo menos 50% na HAM-A; remissão é HAM-A de 7 a 10 ou menos, ou GAD-7 abaixo de 5.\n\nExplique que a meta não é eliminar toda preocupação, mas devolver o controle e a funcionalidade; que o efeito do antidepressivo aparece em 2 a 4 semanas e se consolida em 8 a 12; que o tratamento deve durar pelo menos 1 ano após a melhora; e que a retirada deve ser lenta, para evitar sintomas de descontinuação e recaída."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Aguda",
+    "duracao": "8 a 12 semanas",
+    "objetivo": "Resposta (redução de 50% na HAM-A ou no GAD-7) e, idealmente, remissão, com dose otimizada e TCC."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "6 a 12 meses",
+    "objetivo": "Consolidar a remissão e prevenir recaída, mantendo a mesma dose eficaz."
+   },
+   {
+    "fase": "Manutenção e retirada",
+    "duracao": "12 meses ou mais; anos se recorrente",
+    "objetivo": "Manter em curso crônico ou com recaídas; retirar ao longo de meses, em período de baixo estresse."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Confirmar e preparar",
+    "acao": "Excluir causas médicas e substâncias, rastrear depressão, álcool e risco de suicídio; psicoeducação, higiene do sono, redução de cafeína, atividade física e oferta de TCC (ou relaxamento aplicado).",
+    "se_falha": "Sintomas moderados ou graves, ou TCC indisponível ou insuficiente"
+   },
+   {
+    "passo": "Primeira linha",
+    "acao": "Escitalopram 5 mg por 1 semana e depois 10 a 20 mg; ou sertralina 25 mg e depois 50 a 200 mg; ou duloxetina 30 mg e depois 60 a 120 mg; ou venlafaxina 37,5 mg e depois 75 a 225 mg; ou pregabalina 150 a 600 mg/dia. Benzodiazepínico por 2 a 4 semanas como ponte, se necessário.",
+    "se_falha": "Sem melhora de pelo menos 25% em 4 a 6 semanas na dose adequada, ou sem resposta em 8 a 12 semanas"
+   },
+   {
+    "passo": "Trocar dentro da primeira linha",
+    "acao": "Trocar por outro ISRS, por IRSN ou por pregabalina (agomelatina 25 a 50 mg é outra opção de primeira linha no CANMAT 2014). Em resposta parcial, preferir otimizar a dose ou potencializar a trocar.",
+    "se_falha": "Resposta parcial após dois ensaios adequados"
+   },
+   {
+    "passo": "Potencializar",
+    "acao": "Associar pregabalina ao ISRS ou IRSN (evidência mais forte entre os adjuvantes); alternativas: buspirona 15 a 60 mg, hidroxizina 25 a 50 mg até 3 vezes ao dia, quetiapina LP 50 a 150 mg (fora de bula) por tempo limitado.",
+    "se_falha": "Sem resposta após 6 a 8 semanas de potencialização"
+   },
+   {
+    "passo": "Segunda linha e reavaliação",
+    "acao": "Rever diagnóstico, adesão, substâncias e comorbidades. Opções: imipramina 75 a 200 mg, vortioxetina 10 a 20 mg, bupropiona, benzodiazepínico contínuo em quem não tem risco de abuso. Intensificar TCC.",
+    "se_falha": "Encaminhar a serviço especializado em transtornos de ansiedade"
+   }
+  ]
+ },
+ "Transtorno de pânico": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10-MC F41.0; agorafobia F40.00; CID-11 6B01 (agorafobia 6B02)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Ataques de pânico recorrentes e inesperados. Ataque de pânico é um surto abrupto de medo ou desconforto intenso que atinge o pico em minutos (pode surgir de um estado calmo ou ansioso), com 4 ou mais dos 13 sintomas:",
+     "sub": [
+      "Palpitações, coração acelerado ou taquicardia.",
+      "Sudorese.",
+      "Tremores ou abalos.",
+      "Sensação de falta de ar ou de sufocamento.",
+      "Sensação de asfixia.",
+      "Dor ou desconforto torácico.",
+      "Náusea ou desconforto abdominal.",
+      "Tontura, instabilidade, vertigem ou sensação de desmaio.",
+      "Calafrios ou ondas de calor.",
+      "Parestesias (dormência ou formigamento).",
+      "Desrealização ou despersonalização.",
+      "Medo de perder o controle ou de enlouquecer.",
+      "Medo de morrer."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Pelo menos um dos ataques foi seguido por 1 mês ou mais de um ou ambos:",
+     "sub": [
+      "Apreensão ou preocupação persistente com novos ataques ou com suas consequências (perder o controle, ter um infarto, enlouquecer).",
+      "Mudança desadaptativa significativa do comportamento relacionada aos ataques (por exemplo, evitar exercício ou situações desconhecidas)."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "Não é consequência dos efeitos fisiológicos de substância (droga de abuso, medicamento) nem de outra condição médica (hipertireoidismo, doença cardiopulmonar)."
+    },
+    {
+     "r": "D",
+     "t": "Não é mais bem explicado por outro transtorno mental: os ataques não ocorrem apenas diante de situações sociais temidas (ansiedade social), de objetos ou situações fóbicas circunscritas (fobia específica), de obsessões (TOC), de lembranças do trauma (TEPT) ou da separação das figuras de apego (ansiedade de separação)."
+    }
+   ],
+   "especificadores": [
+    "Especificador 'com ataques de pânico': aplicável a qualquer transtorno mental (depressão, TEPT, uso de substâncias, outros transtornos de ansiedade) e a condições médicas quando há ataques sem que se preencha o transtorno de pânico.",
+    "Agorafobia (F40.00) é diagnóstico separado e, se presente, é registrada junto: medo ou ansiedade acentuados em 2 ou mais de 5 situações (transporte público, espaços abertos, locais fechados, filas ou multidões, sair de casa sozinho), por pensar que seria difícil escapar ou obter ajuda caso surjam sintomas tipo pânico ou outros sintomas incapacitantes ou constrangedores; situações quase sempre temidas, evitadas, suportadas com intensa ansiedade ou só enfrentadas com acompanhante; desproporcional; em geral 6 meses ou mais; com prejuízo."
+   ],
+   "notas": [
+    "Sintomas culturalmente específicos (zumbido, dor na nuca, cefaleia, gritos ou choro incontrolável) podem ocorrer, mas não contam entre os 4 exigidos.",
+    "Ataques com menos de 4 sintomas são ataques de sintomas limitados; sem ataques completos, registra-se outro transtorno de ansiedade especificado.",
+    "Ataques inesperados são obrigatórios; ataques apenas esperados (diante de gatilho conhecido) não bastam.",
+    "Ataques noturnos que despertam o paciente ocorrem em parte dos casos e reforçam o caráter inesperado.",
+    "A CID-11 também separa pânico e agorafobia e mantém o especificador de ataques de pânico em outros transtornos."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A prevalência em 12 meses é de 2 a 3% em adultos nos EUA e na Europa; ataques de pânico isolados ocorrem em cerca de 11% da população em um ano. É cerca de duas vezes mais comum em mulheres, com início mediano entre 20 e 24 anos; início após os 45 anos é incomum e pede investigação médica cuidadosa.\n\nSem tratamento, o curso é crônico e flutuante; a agorafobia comórbida, a depressão e o uso de álcool pioram o prognóstico. O paciente costuma passar por pronto-socorro, cardiologia e gastroenterologia antes do diagnóstico, e cada consulta com exames normais sem explicação reforça o medo de doença."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "O modelo da 'rede do medo' (Gorman) centra-se na amígdala e em suas projeções para hipotálamo, substância cinzenta periaquedutal e locus ceruleus, que produzem a descarga autonômica. A hipótese do falso alarme de sufocação (Klein) explica a hipersensibilidade ao CO2 e ao lactato. No plano cognitivo, a interpretação catastrófica de sensações corporais (Clark) cria o ciclo sensação, medo, mais sensação.\n\nOs ISRS e tricíclicos reduzem a reatividade dessa rede ao longo de semanas; os benzodiazepínicos inibem a descarga de forma imediata, mas não reprogramam a interpretação. A TCC com exposição interoceptiva (provocar tontura, taquicardia e falta de ar de propósito) desfaz a associação entre sensação e catástrofe, o que explica seu efeito duradouro."
+   },
+   {
+    "titulo": "Escolha do tratamento e o que dizem os ensaios",
+    "texto": "ISRS e venlafaxina são primeira linha no CANMAT 2014 e no NICE CG113 pela combinação de eficácia e tolerabilidade; tricíclicos (imipramina, clomipramina) têm eficácia semelhante, mas mais efeitos adversos, e ficam em segunda linha. As metanálises de Bandelow (2015) e de Andrisano (2013) não mostram diferença consistente de eficácia entre as classes.\n\nNo ensaio de Barlow (JAMA, 2000), TCC e imipramina foram equivalentes na fase aguda e a combinação foi ligeiramente superior; após a suspensão, porém, os grupos com TCC mantiveram melhor a resposta. Goddard (2001) mostrou que clonazepam nas primeiras semanas acelera a resposta à sertralina, sem benefício depois de 4 a 6 semanas: é a base da estratégia de ponte com retirada planejada."
+   },
+   {
+    "titulo": "Benzodiazepínicos: uso correto",
+    "texto": "Alprazolam e clonazepam são eficazes e rápidos, e o CANMAT 2014 os coloca em segunda linha. O problema é o uso 'se necessário': tomar o comprimido a cada sinal corporal funciona como comportamento de segurança, impede a exposição e mantém o transtorno. O alprazolam, de meia-vida curta, provoca ansiedade de rebote entre doses e é o mais difícil de retirar.\n\nQuando necessário, prefira clonazepam em horário fixo (0,5 a 2 mg/dia) por 2 a 6 semanas, com data de retirada combinada no início. Evite em quem usa álcool ou tem história de dependência, em idosos e em quem tem apneia do sono."
+   },
+   {
+    "titulo": "Comorbidades e armadilhas",
+    "texto": "Antes do diagnóstico, exclua hipertireoidismo, arritmias (ECG em quem tem palpitações), feocromocitoma (raro, crises com hipertensão), hipoglicemia, asma e DPOC, epilepsia do lobo temporal e vertigem vestibular; pergunte por cafeína, estimulantes, cannabis, cocaína e abstinência de álcool ou benzodiazepínicos. Um único ECG e exames básicos costumam bastar; repetir investigação a cada crise reforça o medo.\n\nDepressão comórbida (até metade dos casos) e ideação suicida devem ser rastreadas. A ativação inicial dos ISRS é mais intensa no pânico do que na depressão: comece com um quarto a metade da dose usual. Resposta é redução de pelo menos 40 a 50% na PDSS; remissão é ausência de ataques, evitação mínima e PDSS de 5 ou menos."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Com tratamento adequado, cerca de 70 a 80% respondem, mas a recaída após suspender o antidepressivo é frequente; manter por pelo menos 12 meses após a remissão e retirar lentamente, de preferência com TCC ativa, reduz esse risco.\n\nExplique que o ataque de pânico é uma descarga do sistema de alarme, desconfortável mas não perigosa; que não leva a infarto, desmaio ou loucura; que o objetivo do tratamento é perder o medo das sensações, e não evitá-las; e que o remédio pode piorar um pouco a ansiedade nos primeiros dias, o que não significa que não vá funcionar."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Aguda",
+    "duracao": "8 a 12 semanas",
+    "objetivo": "Eliminar ataques espontâneos e reduzir ansiedade antecipatória, com ISRS em titulação lenta, TCC e ponte curta de benzodiazepínico se preciso."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "12 meses após a remissão",
+    "objetivo": "Superar a evitação e a agorafobia residuais, retirar o benzodiazepínico e prevenir recaída."
+   },
+   {
+    "fase": "Retirada e manutenção",
+    "duracao": "Retirada em 3 a 6 meses; manutenção prolongada se recaídas",
+    "objetivo": "Reduzir a dose de forma gradual com TCC de reforço; manter por anos quem já recaiu após suspensões anteriores."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar e explicar",
+    "acao": "ECG e exames básicos uma vez, revisar substâncias, rastrear depressão, agorafobia e risco de suicídio. Psicoeducação sobre o ciclo do pânico e oferta de TCC com exposição interoceptiva e situacional.",
+    "se_falha": "Sintomas moderados ou graves, preferência por fármaco ou TCC indisponível"
+   },
+   {
+    "passo": "ISRS ou venlafaxina em dose baixa",
+    "acao": "Sertralina 25 mg (depois 50 a 200 mg), escitalopram 5 mg (depois 10 a 20 mg), paroxetina 10 mg (depois 20 a 60 mg) ou venlafaxina 37,5 mg (depois 75 a 225 mg). Clonazepam 0,25 a 0,5 mg 2 vezes ao dia por 2 a 6 semanas como ponte, com data de retirada.",
+    "se_falha": "Ataques persistentes após 4 a 6 semanas na dose-alvo, ou resposta insuficiente em 8 a 12 semanas"
+   },
+   {
+    "passo": "Otimizar ou trocar",
+    "acao": "Subir até a dose máxima tolerada; se não houver resposta, trocar por outro ISRS ou por venlafaxina. Associar ou intensificar TCC em todos os casos.",
+    "se_falha": "Falha de dois ensaios adequados de primeira linha"
+   },
+   {
+    "passo": "Segunda linha",
+    "acao": "Imipramina 10 mg com titulação até 100 a 200 mg ou clomipramina 10 mg até 75 a 150 mg; mirtazapina 15 a 45 mg; clonazepam contínuo em quem não tem risco de abuso.",
+    "se_falha": "Sem resposta após 8 a 12 semanas"
+   },
+   {
+    "passo": "Refratário",
+    "acao": "Rever diagnóstico, adesão, substâncias e comorbidades. Terceira linha: IMAO (tranilcipromina, com dieta), potencialização com antipsicótico atípico em dose baixa, gabapentina.",
+    "se_falha": "Encaminhar a serviço especializado; TCC intensiva"
+   }
+  ]
+ },
+ "Fobia social": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022), transtorno de ansiedade social",
+   "cid": "CID-10-MC F40.10; CID-11 6B04",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Medo ou ansiedade acentuados em uma ou mais situações sociais em que a pessoa fica exposta à possível avaliação dos outros: interações (manter conversa, conhecer pessoas), ser observada (comer, beber) e desempenho diante de outros (dar palestras). Em crianças, a ansiedade deve ocorrer com pares, e não só com adultos."
+    },
+    {
+     "r": "B",
+     "t": "Medo de agir de modo a mostrar sintomas de ansiedade que serão avaliados negativamente (humilhação, constrangimento, rejeição ou ofensa aos outros)."
+    },
+    {
+     "r": "C",
+     "t": "As situações sociais quase sempre provocam medo ou ansiedade. Em crianças, podem aparecer como choro, birra, imobilidade, agarrar-se, encolher-se ou não conseguir falar."
+    },
+    {
+     "r": "D",
+     "t": "As situações sociais são evitadas ou suportadas com intenso medo ou ansiedade."
+    },
+    {
+     "r": "E",
+     "t": "O medo ou a ansiedade são desproporcionais à ameaça real e ao contexto sociocultural."
+    },
+    {
+     "r": "F",
+     "t": "O medo, a ansiedade ou a evitação são persistentes, em geral por 6 meses ou mais."
+    },
+    {
+     "r": "G",
+     "t": "Causam sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas importantes."
+    },
+    {
+     "r": "H",
+     "t": "Não são consequência dos efeitos fisiológicos de substância (droga de abuso, medicamento) nem de outra condição médica."
+    },
+    {
+     "r": "I",
+     "t": "Não são mais bem explicados por outro transtorno mental, como transtorno de pânico, transtorno dismórfico corporal ou transtorno do espectro autista."
+    },
+    {
+     "r": "J",
+     "t": "Se houver outra condição médica (doença de Parkinson, obesidade, desfiguração por queimadura ou ferimento), o medo, a ansiedade ou a evitação são claramente não relacionados a ela ou excessivos."
+    }
+   ],
+   "especificadores": [
+    "Somente desempenho: o medo restringe-se a falar ou se apresentar em público, sem medo ou evitação de situações sociais que não envolvam desempenho (ver Ansiedade de desempenho)."
+   ],
+   "notas": [
+    "O DSM-5 abandonou o subtipo 'generalizado'; o especificador de desempenho identifica o subgrupo restrito.",
+    "Timidez é traço normal: exige-se sofrimento ou prejuízo significativos.",
+    "Transtorno da personalidade evitativa se sobrepõe muito e pode coexistir; costuma representar o polo mais grave e global do mesmo contínuo.",
+    "O taijin kyofusho (Japão, Coreia) inclui o medo de ofender os outros pelo olhar, odor ou rubor, contemplado no critério B.",
+    "Na CID-11, o transtorno de ansiedade social (6B04) tem definição semelhante, sem especificador de desempenho."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A prevalência em 12 meses é de cerca de 7% nos EUA e de 0,5 a 2% em boa parte da Europa e de outros países; é um dos transtornos mentais mais comuns e dos menos tratados. A idade mediana de início é 13 anos, e três quartos começam entre 8 e 15 anos; início na vida adulta costuma seguir um evento humilhante ou mudança de papel.\n\nSem tratamento, o curso é crônico: menos da metade remite espontaneamente, e os pacientes procuram ajuda em média 15 a 20 anos após o início, muitas vezes por depressão ou uso de álcool secundários. A ansiedade social prejudica escolaridade, carreira e relacionamentos de forma silenciosa."
+   },
+   {
+    "titulo": "Neurobiologia e mecanismo dos tratamentos",
+    "texto": "Há hiper-reatividade da amígdala e da ínsula a faces e sinais de avaliação social, com menor regulação pelo córtex pré-frontal. O modelo cognitivo de Clark e Wells descreve a atenção voltada para si, a imagem negativa de como se é visto e os comportamentos de segurança (evitar contato visual, ensaiar frases, segurar o copo com as duas mãos), que impedem a desconfirmação do medo.\n\nOs ISRS e a venlafaxina reduzem a reatividade da rede do medo; a pregabalina reduz a hiperexcitação. A TCC individual trabalha a atenção autofocada, os comportamentos de segurança e a exposição com experimentos comportamentais, e por isso tem efeito que persiste após o término."
+   },
+   {
+    "titulo": "O que dizem os ensaios e metanálises",
+    "texto": "A metanálise em rede de Mayo-Wilson (Lancet Psychiatry, 2014), com 101 ensaios, mostrou que a TCC individual é a intervenção psicológica mais eficaz e que ISRS e IRSN são as classes farmacológicas mais eficazes; o NICE CG159 recomenda TCC individual como primeira escolha e escitalopram ou sertralina para quem prefere fármaco. A fenelzina tem o maior tamanho de efeito entre os fármacos (Blanco 2010, com benefício adicional da combinação com TCC), mas não é comercializada no Brasil; a tranilcipromina é usada por extrapolação nos refratários.\n\nClark (2003) mostrou a terapia cognitiva superior a fluoxetina com autoexposição. Estudos de prevenção de recaída com paroxetina, escitalopram (Montgomery 2005) e sertralina sustentam manter o tratamento por pelo menos 12 meses. Betabloqueadores não são eficazes na forma generalizada: no ensaio de Liebowitz (1992), o atenolol não diferiu do placebo, enquanto a fenelzina foi superior."
+   },
+   {
+    "titulo": "Comorbidades que mudam a conduta",
+    "texto": "Uso de álcool e de cannabis como automedicação é frequente e pode ser o motivo da consulta: trate ambos, evite benzodiazepínicos e prefira ISRS ou venlafaxina com TCC. Depressão comórbida pede ISRS ou IRSN, não pregabalina ou benzodiazepínico isolados.\n\nNo TDAH e no autismo, a ansiedade social pode ser secundária ao prejuízo de habilidades; trate a condição de base. Na disfunção sexual prévia com ISRS, pregabalina ou moclobemida são alternativas. Em adolescentes, TCC primeiro; sertralina ou fluoxetina se necessário, com vigilância de ideação suicida no início."
+   },
+   {
+    "titulo": "Armadilhas e prognóstico",
+    "texto": "Confundir timidez com transtorno, ou o contrário, é comum; a pergunta útil é o que a pessoa deixou de fazer por medo. O início de efeito é mais lento que na depressão: avalie a resposta em 8 a 12 semanas antes de trocar. Use a LSAS: resposta é redução de pelo menos 30 a 50%; remissão é LSAS abaixo de 30 a 35.\n\nExplique que a ansiedade social é tratável e que o remédio reduz a ansiedade para que a pessoa consiga se expor; sem exposição gradual às situações evitadas, o ganho tende a se perder na retirada."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Aguda",
+    "duracao": "12 semanas",
+    "objetivo": "Resposta (queda de pelo menos 30 a 50% na LSAS) com ISRS ou venlafaxina em dose adequada e TCC individual."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "12 meses após a resposta",
+    "objetivo": "Remissão funcional, com exposição às situações evitadas e retirada de comportamentos de segurança."
+   },
+   {
+    "fase": "Retirada ou manutenção",
+    "duracao": "Retirada em 3 a 6 meses; manutenção se recaída",
+    "objetivo": "Reduzir lentamente com TCC de reforço; manter por anos quem recaiu após suspensões anteriores."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Confirmar e oferecer TCC",
+    "acao": "Diferenciar de timidez, pânico, dismórfico corporal e autismo; rastrear álcool, depressão e suicídio. TCC individual (Clark e Wells) como primeira escolha.",
+    "se_falha": "Recusa, indisponibilidade ou resposta insuficiente à TCC, ou quadro grave"
+   },
+   {
+    "passo": "Primeira linha farmacológica",
+    "acao": "Escitalopram 10 a 20 mg, sertralina 50 a 200 mg, paroxetina 20 a 50 mg, fluvoxamina 100 a 300 mg, venlafaxina 75 a 225 mg ou pregabalina 300 a 600 mg/dia.",
+    "se_falha": "Sem resposta após 8 a 12 semanas em dose adequada"
+   },
+   {
+    "passo": "Trocar ou combinar",
+    "acao": "Trocar por outro fármaco de primeira linha (ISRS diferente, venlafaxina ou pregabalina) e combinar com TCC se ainda não feita.",
+    "se_falha": "Falha de dois ensaios de primeira linha"
+   },
+   {
+    "passo": "Segunda linha",
+    "acao": "Clonazepam 0,5 a 3 mg/dia (sem uso de álcool ou história de dependência), gabapentina 900 a 3.600 mg/dia, citalopram; potencialização de ISRS com clonazepam ou pregabalina.",
+    "se_falha": "Sem resposta após 8 a 12 semanas"
+   },
+   {
+    "passo": "Refratário",
+    "acao": "Tranilcipromina com dieta pobre em tiramina (fenelzina não é comercializada no Brasil); moclobemida 300 a 600 mg; potencialização com aripiprazol em casos selecionados.",
+    "se_falha": "Encaminhar a serviço especializado; TCC intensiva em grupo ou individual"
+   }
+  ]
+ },
+ "TEPT": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022); critérios para adultos, adolescentes e crianças acima de 6 anos",
+   "cid": "CID-10-MC F43.10; estresse agudo F43.0; CID-11 6B40 (TEPT complexo 6B41)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Exposição a morte real ou ameaça de morte, lesão grave ou violência sexual, de uma ou mais formas:",
+     "sub": [
+      "Vivenciar diretamente o evento.",
+      "Testemunhar pessoalmente o evento ocorrendo com outras pessoas.",
+      "Saber que o evento ocorreu com familiar ou amigo próximo; em caso de morte ou ameaça de morte, o evento deve ter sido violento ou acidental.",
+      "Exposição repetida ou extrema a detalhes aversivos do evento (socorristas que recolhem restos humanos, policiais repetidamente expostos a detalhes de abuso infantil). Não vale exposição por mídia eletrônica, TV, filmes ou fotos, salvo se relacionada ao trabalho."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "1 ou mais sintomas intrusivos ligados ao evento, iniciados depois dele:",
+     "sub": [
+      "Lembranças intrusivas, recorrentes, involuntárias e angustiantes (em crianças acima de 6 anos, brincadeira repetitiva com temas do trauma).",
+      "Sonhos angustiantes recorrentes com conteúdo ou afeto ligados ao evento (em crianças, pesadelos sem conteúdo identificável).",
+      "Reações dissociativas (flashbacks) em que a pessoa sente ou age como se o evento estivesse ocorrendo de novo, num contínuo que vai até a perda completa da percepção do ambiente (em crianças, reencenação na brincadeira).",
+      "Sofrimento psicológico intenso ou prolongado diante de pistas internas ou externas que simbolizem ou lembrem o evento.",
+      "Reações fisiológicas intensas a essas pistas."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "Evitação persistente de estímulos ligados ao evento, iniciada depois dele, com 1 ou ambos:",
+     "sub": [
+      "Evitar ou esforçar-se para evitar recordações, pensamentos ou sentimentos angustiantes sobre o evento.",
+      "Evitar ou esforçar-se para evitar lembretes externos (pessoas, lugares, conversas, atividades, objetos, situações) que os despertem."
+     ]
+    },
+    {
+     "r": "D",
+     "t": "Alterações negativas de cognição e humor ligadas ao evento, iniciadas ou pioradas depois dele, com 2 ou mais:",
+     "sub": [
+      "Incapacidade de recordar aspecto importante do evento (em geral amnésia dissociativa, e não traumatismo craniano, álcool ou drogas).",
+      "Crenças ou expectativas negativas persistentes e exageradas sobre si, os outros ou o mundo ('sou mau', 'não se pode confiar em ninguém', 'meu sistema nervoso está arruinado para sempre').",
+      "Cognições distorcidas persistentes sobre a causa ou as consequências do evento, que levam a culpar a si ou aos outros.",
+      "Estado emocional negativo persistente (medo, pavor, raiva, culpa, vergonha).",
+      "Interesse ou participação muito reduzidos em atividades significativas.",
+      "Sentimento de distanciamento ou alienação em relação aos outros.",
+      "Incapacidade persistente de sentir emoções positivas (felicidade, satisfação, amor)."
+     ]
+    },
+    {
+     "r": "E",
+     "t": "Alterações marcantes de excitação e reatividade ligadas ao evento, iniciadas ou pioradas depois dele, com 2 ou mais:",
+     "sub": [
+      "Irritabilidade e surtos de raiva (com pouca ou nenhuma provocação), em geral como agressão verbal ou física a pessoas ou objetos.",
+      "Comportamento imprudente ou autodestrutivo.",
+      "Hipervigilância.",
+      "Resposta de sobressalto exagerada.",
+      "Problemas de concentração.",
+      "Perturbação do sono (dificuldade de iniciar ou manter, ou sono agitado)."
+     ]
+    },
+    {
+     "r": "F",
+     "t": "A perturbação (critérios B, C, D e E) dura mais de 1 mês."
+    },
+    {
+     "r": "G",
+     "t": "Causa sofrimento clinicamente significativo e prejuízo social, profissional ou em outras áreas importantes."
+    },
+    {
+     "r": "H",
+     "t": "Não se deve aos efeitos fisiológicos de substância (medicamento, álcool) nem a outra condição médica."
+    }
+   ],
+   "especificadores": [
+    "Com sintomas dissociativos (subtipo): além dos critérios, despersonalização persistente ou recorrente (sentir-se separado, como observador externo dos próprios processos mentais ou do corpo, como em sonho ou em câmera lenta) ou desrealização (ambiente sentido como irreal, onírico, distante ou distorcido), não atribuíveis a substância (apagões, intoxicação alcoólica) ou a condição médica (crises focais).",
+    "Com expressão tardia: os critérios completos só são preenchidos 6 meses ou mais após o evento, embora alguns sintomas possam ter surgido de imediato."
+   ],
+   "notas": [
+    "Crianças de 6 anos ou menos (critérios próprios): A: vivenciar, testemunhar (sobretudo com cuidadores primários) ou saber que ocorreu com pai, mãe ou cuidador; B: 1 ou mais sintomas intrusivos (as lembranças podem não parecer angustiantes e surgir como reencenação na brincadeira; o conteúdo dos sonhos pode não ser identificável); C: 1 ou mais sintomas entre evitação (de atividades, lugares e lembranças físicas; de pessoas, conversas e situações interpessoais) e alterações negativas de cognição (mais estados emocionais negativos, menos interesse e menos brincar, retraimento social, redução da expressão de emoções positivas); D: 2 ou mais de irritabilidade ou acessos de raiva, hipervigilância, sobressalto, problemas de concentração, perturbação do sono; E: mais de 1 mês; F: prejuízo nas relações com pais, irmãos, amigos, cuidadores ou na escola; G: não atribuível a substância ou condição médica. Mesmos especificadores.",
+    "Transtorno de estresse agudo (F43.0): mesmo critério A; B: 9 ou mais de 14 sintomas, de qualquer das 5 categorias, iniciados ou piorados após o evento: intrusão (lembranças intrusivas, sonhos, flashbacks, sofrimento intenso ou reações fisiológicas a pistas), humor negativo (incapacidade de sentir emoções positivas), dissociação (senso alterado da realidade de si ou do ambiente; amnésia de aspecto importante), evitação (de recordações internas; de lembretes externos) e excitação (sono, irritabilidade, hipervigilância, concentração, sobressalto); C: duração de 3 dias a 1 mês após o trauma; D: sofrimento e prejuízo; E: não atribuível a substância ou condição médica (por exemplo, traumatismo craniano leve) nem mais bem explicado por transtorno psicótico breve.",
+    "Transtorno de adaptação: estressor que não preenche o critério A, ou quadro pós-trauma que não preenche os demais critérios.",
+    "CID-11: o TEPT exige apenas revivescência no presente, evitação e sensação persistente de ameaça atual; o TEPT complexo (6B41) acrescenta desregulação afetiva, autoconceito negativo e dificuldades de relacionamento, típico após trauma prolongado ou repetido (abuso na infância, tortura, violência doméstica). O DSM-5-TR não tem essa categoria.",
+    "Luto prolongado é diagnóstico separado; morte natural de familiar não preenche o critério A por 'saber do evento'."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A exposição a trauma é quase universal ao longo da vida, mas apenas uma minoria desenvolve TEPT: o risco condicional é maior após violência sexual, tortura e violência interpessoal do que após acidentes ou desastres. Nos EUA, a prevalência na vida é de cerca de 6 a 9% e em 12 meses de 3,5 a 4,7%, conforme o levantamento; é duas a três vezes mais comum em mulheres. No Brasil, a violência urbana e doméstica é a principal fonte de trauma nos serviços.\n\nCerca de metade dos adultos remite em 3 meses, mas um terço mantém sintomas por anos. Preditores de cronicidade: gravidade do trauma, dissociação peritraumática, falta de apoio social, dor crônica, lesão física e estresse subsequente. Depressão, uso de álcool e drogas, dor crônica e risco de suicídio acompanham com frequência."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "O TEPT é visto como falha da extinção do medo: amígdala hiper-reativa, córtex pré-frontal ventromedial hipoativo (que normalmente inibe a resposta de medo) e hipocampo menos eficiente em contextualizar a memória, que passa a ser disparada por pistas fora do contexto original. Há hiperatividade noradrenérgica central (base racional para prazosina e para os pesadelos) e alterações do eixo HPA.\n\nAs psicoterapias focadas no trauma (exposição prolongada, terapia de processamento cognitivo, EMDR) promovem nova aprendizagem de segurança e reconsolidação; por isso são a primeira escolha e superam os fármacos em tamanho de efeito. ISRS e venlafaxina reduzem a hiperexcitação e a revivescência de forma modesta (diferença padronizada em torno de 0,2 a 0,4 sobre placebo em metanálises como Hoskins 2015)."
+   },
+   {
+    "titulo": "Escolha do tratamento segundo as diretrizes",
+    "texto": "O VA/DoD 2023 recomenda as psicoterapias focadas no trauma (CPT, PE, EMDR) como primeira escolha, acima da farmacoterapia, e sertralina, paroxetina ou venlafaxina quando se opta por fármaco ou a psicoterapia não é possível. A APA (2017) e o NICE NG116 (2018) seguem na mesma direção; o CANMAT 2014 inclui fluoxetina entre as de primeira linha e coloca mirtazapina, fluvoxamina e fenelzina em segunda linha.\n\nO VA/DoD 2023 recomenda contra benzodiazepínicos (sem benefício e associados a piores desfechos; metanálise de Guina 2015), contra cannabis e contra risperidona adjuvante (ensaio de Krystal, JAMA 2011, negativo em veteranos). Prazosina: após os ensaios positivos de Raskind, o grande ensaio em veteranos (Raskind, NEJM 2018) foi negativo; a diretriz atual a sugere para pesadelos, não para o TEPT global. A quetiapina em monoterapia (Villarreal 2016) é opção de refratários."
+   },
+   {
+    "titulo": "Prevenção após o trauma e intervenção precoce",
+    "texto": "O debriefing psicológico em sessão única, obrigatório, logo após o trauma não previne TEPT e pode piorar o desfecho: não deve ser oferecido. Os primeiros cuidados psicológicos (segurança, acolhimento, conexão com apoio) e a vigilância ativa são a base; para quem desenvolve transtorno de estresse agudo ou TEPT precoce, a TCC focada no trauma iniciada nas primeiras semanas reduz a evolução para TEPT.\n\nNenhum fármaco demonstrou prevenir TEPT: propranolol, ISRS e benzodiazepínicos logo após o trauma foram negativos, e os benzodiazepínicos podem aumentar o risco. Hidrocortisona tem resultados preliminares, sem recomendação."
+   },
+   {
+    "titulo": "Comorbidades e situações especiais",
+    "texto": "Com uso de álcool ou drogas, trate os dois ao mesmo tempo: terapias integradas (por exemplo, COPE) são seguras e eficazes, e não é preciso esperar abstinência para tratar o trauma; naltrexona ou topiramato para o álcool, e evitar benzodiazepínicos. Com dor crônica, a venlafaxina cobre as duas condições. Com depressão grave e risco de suicídio, avalie o risco a cada consulta, pois o TEPT é fator de risco independente.\n\nNo subtipo dissociativo e no TEPT complexo, as terapias focadas no trauma continuam eficazes, às vezes com fase inicial de estabilização. MDMA assistida por psicoterapia teve a aprovação recusada pela FDA em 2024; psicodélicos seguem experimentais."
+   },
+   {
+    "titulo": "Armadilhas e o que dizer ao paciente",
+    "texto": "Erros comuns: tratar insônia e pesadelos só com hipnóticos e benzodiazepínicos; empilhar antipsicóticos por 'agitação'; não perguntar ativamente por trauma (muitos não relatam espontaneamente, sobretudo violência sexual). Use PCL-5 para acompanhar: queda de 10 a 20 pontos é mudança clinicamente relevante e escore abaixo de 31 a 33 sugere ausência de TEPT provável.\n\nExplique que os sintomas são reações compreensíveis de um sistema de alarme que ficou ligado; que evitar lembranças alivia no curto prazo mas mantém o problema; que as terapias focadas no trauma funcionam para a maioria; e que o antidepressivo ajuda, mas precisa de 8 a 12 semanas e deve ser mantido por pelo menos 6 a 12 meses após a melhora."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Aguda pós-trauma",
+    "duracao": "Primeiro mês",
+    "objetivo": "Primeiros cuidados psicológicos, vigilância ativa, tratar dor e sono; TCC focada no trauma se houver estresse agudo; sem debriefing nem benzodiazepínico."
+   },
+   {
+    "fase": "Tratamento do TEPT",
+    "duracao": "8 a 16 semanas",
+    "objetivo": "Psicoterapia focada no trauma (8 a 16 sessões) e/ou sertralina, paroxetina ou venlafaxina em dose plena; resposta avaliada pelo PCL-5."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "6 a 12 meses após a resposta",
+    "objetivo": "Prevenir recaída; manter o antidepressivo eficaz e tratar comorbidades."
+   },
+   {
+    "fase": "Manutenção e retirada",
+    "duracao": "12 meses ou mais em crônicos",
+    "objetivo": "Retirada gradual em fase estável; manter por mais tempo em quadros crônicos, graves ou com recaídas."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar e oferecer psicoterapia focada no trauma",
+    "acao": "Confirmar critério A e sintomas (PCL-5), rastrear suicídio, álcool, drogas, dor, depressão e dissociação. Oferecer CPT, exposição prolongada ou EMDR como primeira escolha.",
+    "se_falha": "Psicoterapia indisponível, recusada ou insuficiente, ou depressão e sintomas graves"
+   },
+   {
+    "passo": "Primeira linha farmacológica",
+    "acao": "Sertralina 25 a 50 mg até 50 a 200 mg, paroxetina 20 a 50 mg ou venlafaxina 37,5 a 75 mg até 75 a 300 mg; fluoxetina 20 a 60 mg como alternativa (CANMAT 2014). Manter a psicoterapia.",
+    "se_falha": "Sem resposta após 8 a 12 semanas em dose adequada"
+   },
+   {
+    "passo": "Trocar",
+    "acao": "Trocar por outro fármaco de primeira linha (ISRS diferente ou venlafaxina). Pesadelos persistentes: terapia de ensaio de imagens e prazosina 1 mg ao deitar, titulada até 3 a 15 mg, com cuidado com hipotensão.",
+    "se_falha": "Falha de dois ensaios adequados"
+   },
+   {
+    "passo": "Segunda linha",
+    "acao": "Mirtazapina 15 a 45 mg; fluvoxamina; quetiapina em monoterapia 50 a 800 mg (Villarreal 2016, fora de bula). Evitar benzodiazepínicos e risperidona adjuvante de rotina.",
+    "se_falha": "Sem resposta após 8 a 12 semanas"
+   },
+   {
+    "passo": "Refratário",
+    "acao": "Rever diagnóstico, adesão, substâncias, dor e trauma em curso; nova tentativa de outra psicoterapia focada no trauma, em formato intensivo. Tranilcipromina em casos selecionados.",
+    "se_falha": "Encaminhar a serviço especializado em trauma"
+   }
+  ]
+ },
+ "TOC": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10-MC F42.2; CID-11 6B20",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Presença de obsessões, compulsões ou ambas.",
+     "sub": [
+      "Obsessões (1 e 2): (1) pensamentos, impulsos ou imagens recorrentes e persistentes, vividos em algum momento como intrusivos e indesejados, que na maioria das pessoas causam ansiedade ou sofrimento acentuados; (2) a pessoa tenta ignorá-los, suprimi-los ou neutralizá-los com outro pensamento ou ação (isto é, executando uma compulsão).",
+      "Compulsões (1 e 2): (1) comportamentos repetitivos (lavar as mãos, organizar, verificar) ou atos mentais (orar, contar, repetir palavras em silêncio) que a pessoa se sente compelida a executar em resposta a uma obsessão ou segundo regras aplicadas rigidamente; (2) visam prevenir ou reduzir ansiedade ou sofrimento ou evitar algo temido, mas não têm conexão realista com o que pretendem neutralizar ou são claramente excessivos.",
+      "Crianças pequenas podem não conseguir dizer o objetivo desses comportamentos ou atos mentais."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "As obsessões ou compulsões tomam tempo (por exemplo, mais de 1 hora por dia) ou causam sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas importantes."
+    },
+    {
+     "r": "C",
+     "t": "Os sintomas não se devem aos efeitos fisiológicos de substância (droga de abuso, medicamento) nem a outra condição médica."
+    },
+    {
+     "r": "D",
+     "t": "Não são mais bem explicados por outro transtorno mental, como:",
+     "sub": [
+      "preocupações excessivas (TAG); preocupação com a aparência (dismórfico corporal); dificuldade de descartar pertences (acumulação);",
+      "arrancar cabelos (tricotilomania); beliscar a pele (escoriação); estereotipias (transtorno do movimento estereotipado);",
+      "comportamento alimentar ritualizado (transtornos alimentares); preocupação com substâncias ou jogo (transtornos aditivos); preocupação com ter uma doença (ansiedade de doença);",
+      "impulsos ou fantasias sexuais (transtornos parafílicos); impulsos (transtornos disruptivos e do controle de impulsos); ruminações de culpa (depressão maior);",
+      "inserção de pensamento ou preocupações delirantes (espectro da esquizofrenia); padrões repetitivos de comportamento (autismo)."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Insight bom ou razoável: reconhece que as crenças do TOC são definitiva ou provavelmente falsas, ou que podem ou não ser verdadeiras.",
+    "Insight pobre: acredita que as crenças do TOC são provavelmente verdadeiras.",
+    "Insight ausente ou crenças delirantes: está completamente convencido de que as crenças são verdadeiras (menos de 4% dos casos); o diagnóstico continua sendo TOC, e não psicose.",
+    "Relacionado a tiques: história atual ou passada de transtorno de tique (até 30% ao longo da vida, mais em homens com início na infância)."
+   ],
+   "notas": [
+    "Dimensões sintomáticas: contaminação e limpeza; dúvida, responsabilidade por dano e verificação; simetria, ordem e contagem; pensamentos proibidos (agressivos, sexuais, religiosos) com compulsões mentais.",
+    "Obsessões são egodistônicas; o conteúdo agressivo ou sexual do TOC não aumenta o risco de o paciente agir (distinguir de ideação homicida ou parafilia).",
+    "O insight pode variar ao longo do curso; insight pior associa-se a pior evolução.",
+    "Início bimodal: infância (predomínio masculino, mais tiques) e início da vida adulta.",
+    "Na CID-11, o TOC integra o agrupamento de transtornos obsessivo-compulsivos e relacionados, com especificador de insight semelhante."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A prevalência em 12 meses é de cerca de 1,2% nos EUA e de 1,1 a 1,8% em outros países; a prevalência na vida é de 2 a 3%. A idade média de início é de cerca de 19 anos, e um quarto começa antes dos 14; início após os 35 anos é raro e pede investigação neurológica. Homens começam mais cedo e têm mais tiques.\n\nSem tratamento, o curso é crônico, com flutuações; o atraso médio até o tratamento adequado passa de 10 anos, em parte por vergonha dos pensamentos. Depressão, outros transtornos de ansiedade, tiques e transtorno bipolar são comorbidades frequentes, e o risco de suicídio está aumentado, sobretudo com depressão comórbida."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "O modelo principal envolve hiperatividade dos circuitos córtico-estriado-tálamo-corticais, com córtex orbitofrontal, cingulado anterior e caudado hiperativos em repouso e durante a provocação de sintomas, normalizando com tratamento eficaz. A resposta seletiva a inibidores potentes da recaptação de serotonina (clomipramina e ISRS), e não a noradrenérgicos, sustentou a hipótese serotoninérgica; a potencialização com antagonistas D2 é mais útil no TOC com tiques, o que indica participação dopaminérgica; há também interesse no glutamato (memantina, N-acetilcisteína).\n\nA exposição com prevenção de resposta (EPR) funciona por aprendizagem inibitória: a pessoa enfrenta o gatilho sem executar o ritual e descobre que a ansiedade cai sozinha e que a catástrofe não ocorre."
+   },
+   {
+    "titulo": "Por que ISRS em dose alta e por tempo longo",
+    "texto": "Todos os ISRS têm eficácia semelhante no TOC, e a clomipramina não é claramente superior quando se comparam ensaios diretos, mas tolera-se pior; por isso ISRS são primeira linha (CANMAT 2014, APA 2007 com atualização de 2013, NICE CG31). A metanálise de Bloch (2010) mostrou relação dose-resposta: doses altas (fluoxetina 60 a 80 mg, sertralina 200 mg, paroxetina 60 mg, escitalopram 20 mg ou mais) são mais eficazes que doses baixas, à custa de mais efeitos adversos.\n\nA resposta é lenta e parcial: avalie após 8 a 12 semanas, das quais pelo menos 4 a 6 na dose máxima tolerada. Resposta, pelo consenso de Mataix-Cols (2016), é queda de pelo menos 35% na Y-BOCS com CGI-I de 1 ou 2; resposta parcial, 25 a 35%; remissão, Y-BOCS de 12 ou menos. Em crianças, o POTS (2004) mostrou a combinação de sertralina e TCC superior a cada uma isolada."
+   },
+   {
+    "titulo": "Potencialização: o que funciona",
+    "texto": "Cerca de 40 a 60% não respondem adequadamente ao primeiro ISRS. A metanálise de Bloch (2006) mostrou que um terço dos refratários responde à potencialização com antipsicótico, com melhor evidência para risperidona (0,5 a 2 mg) e aripiprazol (5 a 15 mg), e benefício maior quando há tiques; se não houver ganho em 4 a 8 semanas, suspender. No ensaio de Simpson (JAMA, 2013), acrescentar EPR ao ISRS foi muito superior a acrescentar risperidona (resposta de cerca de 80% contra 23%, e 15% com placebo): EPR é a primeira potencialização, sempre que disponível.\n\nMemantina, topiramato, N-acetilcisteína, lamotrigina e ondansetrona têm ensaios pequenos, heterogêneos, alguns positivos; são opções de segunda ou terceira linha. Nos refratários graves, EMT profunda (aprovada pela FDA para TOC, Carmi 2019), estimulação cerebral profunda e capsulotomia em centros especializados."
+   },
+   {
+    "titulo": "Comorbidades e armadilhas",
+    "texto": "Com tiques, considere potencialização precoce com antipsicótico. Com transtorno bipolar, estabilize o humor primeiro e use ISRS com cautela, protegido por estabilizador. Início súbito em criança após infecção, com restrição alimentar ou tiques, sugere PANS ou PANDAS e pede avaliação pediátrica. TOC com início tardio ou com sinais neurológicos pede neuroimagem.\n\nArmadilhas: tratar reasseguramento como cuidado (a família que responde repetidamente às dúvidas participa do ritual; a acomodação familiar deve ser abordada); confundir obsessões de dano com risco real; parar o ISRS antes de 12 semanas em dose adequada; ignorar QT com citalopram ou escitalopram em dose alta, e as interações da fluvoxamina (CYP1A2, 2C19)."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Com tratamento adequado, a maioria melhora de forma significativa, mas a remissão completa ocorre em uma minoria e o curso tende a ser crônico. A retirada do ISRS aumenta a recaída; a EPR reduz esse risco.\n\nExplique que pensamentos intrusivos são comuns na população geral e que o problema está na importância e no esforço dados a eles; que as obsessões não revelam desejo ou perigo real; que o ritual alivia no curto prazo e alimenta o transtorno; que o remédio precisa de dose alta e de 2 a 3 meses para mostrar efeito; e que a EPR é a parte do tratamento que mais protege contra recaídas."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Aguda",
+    "duracao": "8 a 12 semanas (4 a 6 na dose máxima)",
+    "objetivo": "Resposta (queda de pelo menos 35% na Y-BOCS) com ISRS em dose alta e EPR."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "12 a 24 meses após a resposta",
+    "objetivo": "Aprofundar a resposta com EPR, tratar sintomas residuais e prevenir recaída na mesma dose eficaz."
+   },
+   {
+    "fase": "Manutenção e retirada",
+    "duracao": "Anos se grave ou recorrente",
+    "objetivo": "Retirar lentamente (10 a 25% a cada 1 a 2 meses) com EPR ativa; manter por tempo indefinido após 2 a 4 recaídas graves."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Confirmar e iniciar EPR",
+    "acao": "Y-BOCS basal, avaliar insight, tiques, depressão, bipolaridade e suicídio. EPR (13 a 20 sessões) como primeira escolha nos quadros leves e associada ao fármaco nos moderados e graves; abordar acomodação familiar.",
+    "se_falha": "Quadro moderado ou grave, EPR indisponível ou resposta insuficiente"
+   },
+   {
+    "passo": "ISRS em dose alta",
+    "acao": "Sertralina 50 mg até 200 mg, fluoxetina 20 mg até 60 a 80 mg, escitalopram 10 mg até 20 mg, paroxetina 20 mg até 40 a 60 mg ou fluvoxamina 50 mg até 200 a 300 mg, subindo a cada 2 a 4 semanas.",
+    "se_falha": "Queda na Y-BOCS menor que 25% após 8 a 12 semanas, sendo 4 a 6 na dose máxima"
+   },
+   {
+    "passo": "Trocar ISRS ou subir acima da bula",
+    "acao": "Trocar por outro ISRS; em quem tolera e responde parcialmente, considerar dose acima da bula (sertralina 250 a 400 mg, escitalopram 30 a 40 mg com ECG) com monitorização.",
+    "se_falha": "Falha de dois ISRS adequados"
+   },
+   {
+    "passo": "Potencializar ou clomipramina",
+    "acao": "Acrescentar ou intensificar EPR; risperidona 0,5 a 2 mg ou aripiprazol 5 a 15 mg por 4 a 8 semanas; ou trocar para clomipramina 25 mg até 150 a 250 mg (ECG, nível sérico; cuidado com fluvoxamina associada).",
+    "se_falha": "Sem resposta após 8 a 12 semanas"
+   },
+   {
+    "passo": "Segunda linha e refratários",
+    "acao": "Venlafaxina 225 a 375 mg, mirtazapina; adjuvantes memantina 10 a 20 mg, topiramato, N-acetilcisteína, quetiapina, lamotrigina. Em refratários graves: EPR intensiva ou internação, EMT profunda.",
+    "se_falha": "Encaminhar a centro especializado para estimulação cerebral profunda ou neurocirurgia"
+   }
+  ]
+ },
+ "Espectro obsessivo": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022), transtornos obsessivo-compulsivos e relacionados (o TOC tem página própria)",
+   "cid": "CID-10-MC: dismórfico corporal F45.22, acumulação F42.3, tricotilomania F63.3, escoriação F42.4, devido a outra condição médica F06.8, outro especificado F42.8, não especificado F42.9. CID-11: dismórfico corporal 6B21, referência olfativa 6B22, acumulação 6B24, tricotilomania 6B25.0, escoriação 6B25.1",
+   "itens": [
+    {
+     "r": "Transtorno dismórfico corporal (F45.22)",
+     "t": "Critérios A a D:",
+     "sub": [
+      "A. Preocupação com um ou mais defeitos ou falhas percebidos na aparência física, que não são observáveis ou parecem leves para os outros.",
+      "B. Em algum momento do curso, a pessoa executou comportamentos repetitivos (verificar-se no espelho, arrumar-se em excesso, beliscar a pele, buscar reasseguramento) ou atos mentais (comparar a aparência com a de outros) em resposta às preocupações.",
+      "C. A preocupação causa sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas importantes.",
+      "D. A preocupação não é mais bem explicada por preocupação com gordura ou peso em quem preenche critérios de transtorno alimentar.",
+      "Especificar: com dismorfia muscular (crença de que o corpo é pequeno ou pouco musculoso, mesmo que haja preocupação com outras áreas; quase só em homens, com risco de uso de esteroides anabolizantes).",
+      "Especificar o insight: bom ou razoável (as crenças são definitiva ou provavelmente falsas, ou podem ou não ser verdadeiras); pobre (provavelmente verdadeiras); ausente ou crenças delirantes (convicção completa). Um terço ou mais tem insight ausente."
+     ]
+    },
+    {
+     "r": "Transtorno de acumulação (F42.3)",
+     "t": "Critérios A a F:",
+     "sub": [
+      "A. Dificuldade persistente de descartar ou se desfazer de pertences, independentemente do valor real.",
+      "B. A dificuldade decorre da necessidade percebida de guardar os itens e do sofrimento associado a descartá-los.",
+      "C. A dificuldade resulta em acúmulo que congestiona e obstrui as áreas de convívio e compromete substancialmente seu uso; se as áreas estão livres, é só por intervenção de terceiros (familiares, faxineiros, autoridades).",
+      "D. A acumulação causa sofrimento ou prejuízo significativo, inclusive na manutenção de um ambiente seguro para si e para os outros.",
+      "E. Não se deve a outra condição médica (lesão cerebral, doença cerebrovascular, síndrome de Prader-Willi).",
+      "F. Não é mais bem explicada por outro transtorno mental (obsessões no TOC, energia reduzida na depressão maior, delírios na esquizofrenia, déficits cognitivos no transtorno neurocognitivo maior, interesses restritos no autismo).",
+      "Especificar: com aquisição excessiva (80 a 90% dos casos: compras, itens gratuitos, raramente furto).",
+      "Especificar o insight: bom ou razoável (reconhece que crenças e comportamentos de acumulação são problemáticos); pobre (acredita que não são, apesar das evidências); ausente ou crenças delirantes (convicção completa de que não são problemáticos)."
+     ]
+    },
+    {
+     "r": "Tricotilomania, transtorno de arrancar o cabelo (F63.3)",
+     "t": "Critérios A a E:",
+     "sub": [
+      "A. Arrancar o próprio cabelo de forma recorrente, resultando em perda de cabelo.",
+      "B. Tentativas repetidas de reduzir ou parar o comportamento.",
+      "C. Causa sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas importantes.",
+      "D. O ato ou a perda de cabelo não se devem a outra condição médica (por exemplo, dermatológica).",
+      "E. Não é mais bem explicado por outro transtorno mental (por exemplo, tentar corrigir defeito percebido na aparência no dismórfico corporal)."
+     ]
+    },
+    {
+     "r": "Transtorno de escoriação, skin picking (F42.4)",
+     "t": "Critérios A a E:",
+     "sub": [
+      "A. Beliscar a pele de forma recorrente, resultando em lesões.",
+      "B. Tentativas repetidas de reduzir ou parar o comportamento.",
+      "C. Causa sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas importantes.",
+      "D. Não se deve aos efeitos fisiológicos de substância (por exemplo, cocaína) nem a outra condição médica (por exemplo, escabiose).",
+      "E. Não é mais bem explicado por outro transtorno mental (delírios ou alucinações táteis na psicose, tentativa de corrigir defeito percebido no dismórfico corporal, estereotipias no transtorno do movimento estereotipado, intenção de se ferir na autolesão não suicida)."
+     ]
+    },
+    {
+     "r": "Transtorno obsessivo-compulsivo e relacionado induzido por substância ou medicamento",
+     "t": "Critérios A a E (código conforme a substância e a presença de transtorno por uso):",
+     "sub": [
+      "A. Obsessões, compulsões, beliscar a pele, arrancar o cabelo, outros comportamentos repetitivos focados no corpo ou outros sintomas do grupo predominam no quadro.",
+      "B. Há evidência, pela história, exame físico ou laboratório, de que (1) os sintomas surgiram durante ou logo após intoxicação, abstinência ou exposição a medicamento e (2) a substância é capaz de produzi-los.",
+      "C. Não é mais bem explicado por transtorno independente (sintomas antes do uso, persistência por cerca de 1 mês após a abstinência aguda ou intoxicação grave, ou história de episódios sem relação com substância).",
+      "D. Não ocorre exclusivamente durante delirium.",
+      "E. Causa sofrimento ou prejuízo significativo.",
+      "Especificar: com início durante a intoxicação, durante a abstinência ou após o uso de medicamento (exemplo clássico: sintomas obsessivos com clozapina e outros antipsicóticos atípicos; comportamentos repetitivos com estimulantes)."
+     ]
+    },
+    {
+     "r": "Transtorno obsessivo-compulsivo e relacionado devido a outra condição médica (F06.8)",
+     "t": "Critérios A a E:",
+     "sub": [
+      "A. Obsessões, compulsões, preocupações com a aparência, acumulação, beliscar a pele, arrancar o cabelo ou outros sintomas do grupo predominam no quadro.",
+      "B. Há evidência de que a perturbação é consequência fisiopatológica direta de outra condição médica (por exemplo, infarto cerebral, infecção estreptocócica em PANDAS).",
+      "C. Não é mais bem explicada por outro transtorno mental.",
+      "D. Não ocorre exclusivamente durante delirium.",
+      "E. Causa sofrimento ou prejuízo significativo.",
+      "Especificar: com sintomas semelhantes ao TOC, com preocupações com a aparência, com sintomas de acumulação, de arrancar o cabelo ou de beliscar a pele."
+     ]
+    },
+    {
+     "r": "Outro transtorno obsessivo-compulsivo e relacionado especificado (F42.8)",
+     "t": "Sintomas característicos com sofrimento ou prejuízo que não preenchem os critérios de um transtorno do grupo; registrar o motivo. Exemplos:",
+     "sub": [
+      "Tipo dismórfico corporal com defeitos reais, claramente observáveis, mas preocupação claramente excessiva.",
+      "Tipo dismórfico corporal sem comportamentos repetitivos.",
+      "Outro comportamento repetitivo focado no corpo (roer unhas, morder lábios, mastigar a bochecha), com tentativas repetidas de parar e sofrimento ou prejuízo.",
+      "Ciúme obsessivo: preocupação não delirante com infidelidade percebida do parceiro, com comportamentos ou atos mentais repetitivos, não explicada por transtorno delirante tipo ciumento ou personalidade paranoide.",
+      "Transtorno de referência olfativa (jikoshu-kyofu): preocupação persistente de emitir odor desagradável imperceptível ou pouco perceptível para os outros, com verificação, banhos, busca de reasseguramento e camuflagem excessivos.",
+      "Shubo-kyofu (medo excessivo de ter deformidade corporal) e koro (ansiedade abrupta e intensa de retração do pênis, ou da vulva e mamilos, com medo de morrer)."
+     ]
+    }
+   ],
+   "notas": [
+    "No dismórfico corporal com insight ausente, o diagnóstico continua sendo dismórfico corporal com crenças delirantes, e não transtorno delirante somático; o tratamento segue sendo ISRS em dose alta.",
+    "Tricotilomania e escoriação são comportamentos repetitivos focados no corpo: muitas vezes automáticos ou focados (alívio de tensão, prazer), sem obsessão prévia.",
+    "Acumulação é distinta do TOC: o apego aos objetos é egossintônico, o insight costuma ser pobre e a resposta aos ISRS é pequena.",
+    "A CID-11 separa o transtorno de referência olfativa (6B22) como diagnóstico próprio e inclui a hipocondria (6B23) no agrupamento obsessivo-compulsivo."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "O transtorno dismórfico corporal tem prevalência de cerca de 2 a 2,4% em adultos, muito maior em clínicas de dermatologia e cirurgia plástica (10 a 15%); começa na adolescência e tem curso crônico, com ideação suicida em até 80% e tentativas em cerca de um quarto. A acumulação atinge 1,5 a 6% da população, aumenta com a idade e costuma chegar ao serviço por queixa de família, vizinhos ou vigilância sanitária.\n\nA tricotilomania tem prevalência de 1 a 2% e a escoriação de cerca de 1 a 2%, ambas mais frequentes em mulheres e com início na infância ou adolescência. Os quatro quadros são subdiagnosticados por vergonha, e o paciente raramente fala espontaneamente: é preciso perguntar."
+   },
+   {
+    "titulo": "Neurobiologia e mecanismos",
+    "texto": "No dismórfico corporal, há processamento visual excessivamente detalhista (foco em partes, e não no todo) e hiperativação de circuitos fronto-estriatais semelhantes aos do TOC, o que explica a resposta a ISRS em dose alta. Na acumulação, os déficits são de tomada de decisão, categorização e apego emocional a objetos, com ativação anormal de cingulado anterior e ínsula ao decidir descartar; por isso a abordagem é cognitivo-comportamental específica, e não farmacológica.\n\nTricotilomania e escoriação aproximam-se dos transtornos de hábito e do controle de impulsos: circuito de recompensa e hábito (estriado dorsal), com componente de regulação emocional. A N-acetilcisteína modula o glutamato no núcleo accumbens (via antiportador cistina-glutamato), o que motivou seu uso; a naltrexona atua sobre a recompensa opioide."
+   },
+   {
+    "titulo": "Dismórfico corporal: tratamento baseado em evidências",
+    "texto": "ISRS em dose alta são o tratamento farmacológico de escolha, inclusive com insight delirante: fluoxetina foi superior ao placebo (Phillips, 2002), clomipramina superior à desipramina (Hollander, 1999), e o escitalopram continuado reduziu recaídas em ensaio de prevenção de recaída (Phillips, 2016). A resposta exige 12 a 16 semanas e doses como fluoxetina 60 a 80 mg ou escitalopram 20 a 30 mg. A TCC específica para o dismórfico corporal (Wilhelm), com reestruturação, exposição e prevenção de rituais de espelho e camuflagem, é igualmente eficaz. O NICE CG31 recomenda TCC com EPR e ISRS conforme a gravidade.\n\nAntipsicótico em monoterapia não trata o dismórfico corporal com insight delirante; potencialização com aripiprazol ou buspirona tem evidência limitada. Procedimentos estéticos e cirúrgicos raramente ajudam, muitas vezes pioram e se associam a insatisfação e até agressão contra o médico."
+   },
+   {
+    "titulo": "Acumulação, tricotilomania e escoriação",
+    "texto": "Na acumulação, a TCC específica (Steketee e Frost: motivação, treino de categorização e decisão, exposição ao descarte e à não aquisição, visitas domiciliares) é o tratamento principal; os fármacos têm evidência fraca (séries abertas com paroxetina e venlafaxina) e são dirigidos às comorbidades (depressão, TDAH). Limpezas forçadas sem acompanhamento geram sofrimento intenso e reacúmulo rápido.\n\nNa tricotilomania e na escoriação, a terapia de reversão de hábito (Azrin e Nunn: consciência, resposta competitiva, apoio social) e o modelo ComB são a primeira linha. A N-acetilcisteína 1.200 a 2.400 mg/dia foi positiva na tricotilomania em adultos (Grant, 2009; 56% contra 16%) e na escoriação (Grant, 2016), mas negativa em crianças. ISRS têm efeito pequeno e inconsistente (metanálise de Bloch, 2007); olanzapina em dose baixa (Van Ameringen, 2010) e clomipramina (Swedo, 1989) têm ensaios pequenos positivos."
+   },
+   {
+    "titulo": "Comorbidades, riscos e armadilhas",
+    "texto": "No dismórfico corporal, avalie risco de suicídio em toda consulta, uso de esteroides anabolizantes na dismorfia muscular e transtornos alimentares. Na acumulação, avalie risco de incêndio, queda, insalubridade, maus-tratos a animais (acumulação de animais) e declínio cognitivo em idosos; a abordagem costuma exigir rede com vigilância sanitária, assistência social e família.\n\nNa tricotilomania, pergunte por tricofagia (risco de tricobezoar e obstrução intestinal); na escoriação, por infecções e cicatrizes. Distinga escoriação de delírio de infestação, de prurido dermatológico e de uso de estimulantes, que provocam ou pioram o comportamento."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Sem tratamento, todos tendem à cronicidade; com TCC específica e, no dismórfico corporal, ISRS em dose alta, a maioria melhora de forma relevante. Recaídas são comuns após suspender o ISRS no dismórfico corporal e após interromper a prática da reversão de hábito.\n\nNo dismórfico corporal, evite discutir se o defeito existe: foque no sofrimento e no tempo perdido, e proponha o tratamento como forma de reduzir a angústia. Na tricotilomania e na escoriação, explique que não se trata de falta de força de vontade e que o objetivo é reduzir e controlar o comportamento, com recaídas pontuais esperadas."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Aguda",
+    "duracao": "12 a 16 semanas",
+    "objetivo": "No dismórfico corporal, resposta com ISRS em dose alta e TCC; na acumulação, na tricotilomania e na escoriação, TCC específica ou reversão de hábito, com N-acetilcisteína se indicada."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "12 meses ou mais",
+    "objetivo": "Manter o ISRS eficaz no dismórfico corporal; consolidar as habilidades comportamentais e o controle ambiental."
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "Longo prazo",
+    "objetivo": "Sessões de reforço, prevenção de recaída e acompanhamento de riscos (suicídio, segurança domiciliar); retirada lenta do ISRS após remissão sustentada."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Identificar o transtorno e os riscos",
+    "acao": "Diferenciar dismórfico corporal, acumulação, tricotilomania e escoriação de TOC, transtornos alimentares, psicose e causas dermatológicas; avaliar suicídio, insight, segurança domiciliar e comorbidades (BDD-YBOCS, SI-R, MGH-HPS, SPS).",
+    "se_falha": "Quadro confirmado: seguir o ramo do transtorno"
+   },
+   {
+    "passo": "Base comportamental",
+    "acao": "Dismórfico corporal: TCC específica com exposição e prevenção de rituais. Acumulação: TCC para acumulação com visitas domiciliares. Tricotilomania e escoriação: reversão de hábito ou modelo ComB.",
+    "se_falha": "Resposta insuficiente após 12 a 16 sessões, ou dismórfico corporal moderado a grave desde o início"
+   },
+   {
+    "passo": "Farmacoterapia de primeira escolha",
+    "acao": "Dismórfico corporal: fluoxetina 20 mg até 60 a 80 mg ou escitalopram 10 mg até 20 a 30 mg, ou sertralina até 200 mg, por 12 a 16 semanas. Tricotilomania e escoriação: N-acetilcisteína 600 mg 2 vezes ao dia até 1.200 mg 2 vezes ao dia por 8 a 12 semanas.",
+    "se_falha": "Sem resposta após 12 a 16 semanas na dose adequada"
+   },
+   {
+    "passo": "Segunda opção",
+    "acao": "Dismórfico corporal: trocar de ISRS ou clomipramina 100 a 250 mg; potencializar com aripiprazol ou buspirona. Tricotilomania: olanzapina 2,5 a 10 mg ou clomipramina; naltrexona 50 a 150 mg se houver componente de recompensa. Acumulação: tratar depressão ou TDAH comórbidos.",
+    "se_falha": "Encaminhar a serviço especializado em transtornos obsessivo-compulsivos"
+   }
+  ]
+ },
+ "Transtornos de ansiedade": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022), capítulo de transtornos de ansiedade",
+   "cid": "CID-10-MC F40, F41, F93.0 e F94.0; CID-11 6B00 a 6B0Z",
+   "itens": [
+    {
+     "r": "Transtorno de ansiedade de separação (F93.0)",
+     "t": "Critérios A a D:",
+     "sub": [
+      "A. Medo ou ansiedade impróprios e excessivos para o estágio do desenvolvimento quanto à separação das figuras de apego, com 3 ou mais de: (1) sofrimento excessivo e recorrente diante da separação de casa ou das figuras de apego, real ou prevista; (2) preocupação persistente e excessiva com perder as figuras de apego ou com perigos para elas (doença, ferimentos, desastres, morte); (3) preocupação persistente e excessiva com um evento que leve à separação (perder-se, ser sequestrado, sofrer acidente, adoecer); (4) relutância ou recusa persistente em sair de casa, ir à escola, ao trabalho ou a outro lugar por medo da separação; (5) medo ou relutância persistente e excessiva de ficar sozinho ou sem as figuras de apego em casa ou em outros contextos; (6) relutância ou recusa persistente em dormir fora de casa ou longe de uma figura de apego; (7) pesadelos repetidos com o tema da separação; (8) queixas somáticas repetidas (cefaleia, dor abdominal, náusea, vômitos) quando a separação ocorre ou é prevista.",
+      "B. Persistente: pelo menos 4 semanas em crianças e adolescentes e, em geral, 6 meses ou mais em adultos.",
+      "C. Sofrimento clinicamente significativo ou prejuízo social, acadêmico, profissional ou em outras áreas.",
+      "D. Não é mais bem explicado por outro transtorno (recusa de sair por resistência à mudança no autismo; delírios ou alucinações sobre separação na psicose; recusa de sair sem acompanhante na agorafobia; preocupação com doença de pessoas próximas no TAG; preocupação com ter doença na ansiedade de doença)."
+     ]
+    },
+    {
+     "r": "Mutismo seletivo (F94.0)",
+     "t": "Critérios A a E:",
+     "sub": [
+      "A. Falha persistente em falar em situações sociais específicas em que se espera fala (por exemplo, na escola), apesar de falar em outras situações.",
+      "B. Interfere na realização educacional ou profissional ou na comunicação social.",
+      "C. Duração mínima de 1 mês (não limitada ao primeiro mês de escola).",
+      "D. Não se deve a desconhecimento ou desconforto com o idioma exigido.",
+      "E. Não é mais bem explicado por transtorno da comunicação (por exemplo, gagueira de início na infância) nem ocorre exclusivamente durante autismo, esquizofrenia ou outro transtorno psicótico."
+     ]
+    },
+    {
+     "r": "Fobia específica",
+     "t": "Critérios A a G:",
+     "sub": [
+      "A. Medo ou ansiedade acentuados em relação a objeto ou situação (voar, alturas, animais, tomar injeção, ver sangue). Em crianças, pode aparecer como choro, birra, imobilidade ou agarrar-se.",
+      "B. O objeto ou a situação quase sempre provocam medo ou ansiedade imediatos.",
+      "C. O objeto ou a situação são ativamente evitados ou suportados com intensa ansiedade ou sofrimento.",
+      "D. O medo é desproporcional ao perigo real e ao contexto sociocultural.",
+      "E. Persistente, em geral por 6 meses ou mais.",
+      "F. Sofrimento clinicamente significativo ou prejuízo social, profissional ou em outras áreas.",
+      "G. Não é mais bem explicado por outro transtorno: sintomas tipo pânico ou incapacitantes (agorafobia), obsessões (TOC), lembranças de trauma (TEPT), separação (ansiedade de separação) ou situações sociais (ansiedade social).",
+      "Especificar o estímulo, com código: animal (F40.218); ambiente natural, como alturas, tempestades, água (F40.228); sangue, injeção e ferimentos (F40.230 sangue, F40.231 injeções e transfusões, F40.232 outros cuidados médicos, F40.233 ferimentos); situacional, como aviões, elevadores, locais fechados (F40.248); outro, como situações que levam a asfixia ou vômito e, em crianças, sons altos ou personagens fantasiados (F40.298). Com vários estímulos, codificar todos (cerca de 75% temem mais de um)."
+     ]
+    },
+    {
+     "r": "Transtorno de ansiedade social (F40.10)",
+     "t": "Critérios A a J (detalhados na página Fobia social):",
+     "sub": [
+      "A. Medo ou ansiedade acentuados em situações sociais com possível avaliação por outros (interações, ser observado, desempenho); em crianças, também com pares.",
+      "B. Medo de agir ou mostrar sintomas de ansiedade que serão avaliados negativamente (humilhação, constrangimento, rejeição, ofensa).",
+      "C. As situações sociais quase sempre provocam medo ou ansiedade (em crianças: choro, birra, imobilidade, agarrar-se, encolher-se, não falar).",
+      "D. Evitadas ou suportadas com intenso medo ou ansiedade.",
+      "E. Desproporcional à ameaça real e ao contexto sociocultural.",
+      "F. Persistente, em geral 6 meses ou mais.",
+      "G. Sofrimento ou prejuízo significativo.",
+      "H. Não atribuível a substância ou outra condição médica.",
+      "I. Não mais bem explicado por pânico, dismórfico corporal ou autismo.",
+      "J. Com condição médica presente (Parkinson, obesidade, desfiguração), o medo é claramente não relacionado ou excessivo.",
+      "Especificar: somente desempenho (medo restrito a falar ou se apresentar em público)."
+     ]
+    },
+    {
+     "r": "Transtorno de pânico (F41.0)",
+     "t": "Critérios A a D (detalhados na página Transtorno de pânico):",
+     "sub": [
+      "A. Ataques de pânico recorrentes e inesperados: surto abrupto de medo ou desconforto intenso com pico em minutos, a partir de estado calmo ou ansioso, com 4 ou mais de 13 sintomas: palpitações ou taquicardia; sudorese; tremores; falta de ar ou sufocamento; asfixia; dor ou desconforto torácico; náusea ou desconforto abdominal; tontura, instabilidade, vertigem ou desmaio; calafrios ou ondas de calor; parestesias; desrealização ou despersonalização; medo de perder o controle ou enlouquecer; medo de morrer. Sintomas culturais (zumbido, dor na nuca, cefaleia, gritos, choro) não contam.",
+      "B. Pelo menos um ataque seguido por 1 mês ou mais de preocupação persistente com novos ataques ou suas consequências, ou de mudança desadaptativa do comportamento (evitar exercício, situações desconhecidas).",
+      "C. Não atribuível a substância ou a outra condição médica (hipertireoidismo, doença cardiopulmonar).",
+      "D. Não mais bem explicado por outro transtorno (ataques só diante de situações sociais, objetos fóbicos, obsessões, lembranças de trauma ou separação)."
+     ]
+    },
+    {
+     "r": "Especificador de ataque de pânico",
+     "t": "Ataque de pânico com os mesmos 4 ou mais de 13 sintomas, que pode ser especificado em qualquer transtorno mental (por exemplo, 'TEPT com ataques de pânico') ou condição médica; no transtorno de pânico, já está contido nos critérios e não é especificado."
+    },
+    {
+     "r": "Agorafobia (F40.00)",
+     "t": "Critérios A a I:",
+     "sub": [
+      "A. Medo ou ansiedade marcantes em 2 ou mais de 5 situações: (1) transporte público (carros, ônibus, trens, navios, aviões); (2) espaços abertos (estacionamentos, mercados, pontes); (3) locais fechados (lojas, teatros, cinemas); (4) filas ou multidões; (5) sair de casa sozinho.",
+      "B. Medo ou evitação por pensar que seria difícil escapar ou obter ajuda se surgirem sintomas tipo pânico ou outros sintomas incapacitantes ou constrangedores (medo de cair em idosos, de incontinência).",
+      "C. As situações quase sempre provocam medo ou ansiedade.",
+      "D. São ativamente evitadas, exigem acompanhante ou são suportadas com intenso medo ou ansiedade.",
+      "E. Desproporcional ao perigo real e ao contexto sociocultural.",
+      "F. Persistente, em geral 6 meses ou mais.",
+      "G. Sofrimento ou prejuízo significativo.",
+      "H. Com outra condição médica presente (doença inflamatória intestinal, Parkinson), o medo é claramente excessivo.",
+      "I. Não mais bem explicado por outro transtorno (fobia específica situacional, ansiedade social, obsessões, defeitos percebidos na aparência, separação).",
+      "Agorafobia é diagnosticada independentemente do transtorno de pânico; se ambos forem preenchidos, registram-se os dois."
+     ]
+    },
+    {
+     "r": "Transtorno de ansiedade generalizada (F41.1)",
+     "t": "Critérios A a F (detalhados na página TAG):",
+     "sub": [
+      "A. Ansiedade e preocupação excessivas na maioria dos dias por pelo menos 6 meses, sobre diversos eventos ou atividades.",
+      "B. Dificuldade de controlar a preocupação.",
+      "C. 3 ou mais de 6 sintomas (1 em crianças), alguns na maioria dos dias: inquietação; fatigabilidade; dificuldade de concentração ou branco; irritabilidade; tensão muscular; perturbação do sono.",
+      "D. Sofrimento ou prejuízo significativo.",
+      "E. Não atribuível a substância ou a outra condição médica (hipertireoidismo).",
+      "F. Não mais bem explicado por outro transtorno (pânico, ansiedade social, TOC, separação, TEPT, anorexia, sintomas somáticos, dismórfico corporal, ansiedade de doença, delírios)."
+     ]
+    },
+    {
+     "r": "Transtorno de ansiedade induzido por substância ou medicamento",
+     "t": "Critérios A a E (código conforme a substância e a presença de transtorno por uso, por exemplo F10.180, F10.280 ou F10.980 para álcool; cafeína F15.980):",
+     "sub": [
+      "A. Ataques de pânico ou ansiedade proeminentes predominam no quadro.",
+      "B. Há evidência de que (1) os sintomas surgiram durante ou logo após intoxicação, abstinência ou exposição a medicamento e (2) a substância é capaz de produzi-los.",
+      "C. Não é mais bem explicado por transtorno de ansiedade independente (sintomas antes do uso, persistência por cerca de 1 mês após abstinência aguda ou intoxicação grave, ou história de episódios sem relação com substância).",
+      "D. Não ocorre exclusivamente durante delirium.",
+      "E. Sofrimento ou prejuízo significativo.",
+      "Diagnosticar em vez de intoxicação ou abstinência apenas quando a ansiedade predomina e exige atenção clínica. Especificar: com início durante a intoxicação, durante a abstinência ou após uso de medicamento."
+     ]
+    },
+    {
+     "r": "Transtorno de ansiedade devido a outra condição médica (F06.4)",
+     "t": "Critérios A a E:",
+     "sub": [
+      "A. Ataques de pânico ou ansiedade predominam no quadro.",
+      "B. Há evidência, pela história, exame físico ou laboratório, de que é consequência fisiopatológica direta de outra condição médica.",
+      "C. Não é mais bem explicado por outro transtorno mental.",
+      "D. Não ocorre exclusivamente durante delirium.",
+      "E. Sofrimento ou prejuízo significativo.",
+      "Registrar a condição médica antes (por exemplo, D35.00 feocromocitoma; F06.4 transtorno de ansiedade devido a feocromocitoma)."
+     ]
+    },
+    {
+     "r": "Outro transtorno de ansiedade especificado (F41.8) e não especificado (F41.9)",
+     "t": "Sintomas ansiosos com sofrimento ou prejuízo que não preenchem os critérios de nenhum transtorno do capítulo nem de transtorno de adaptação. No especificado, registra-se o motivo, por exemplo: ataques de sintomas limitados; ansiedade generalizada que não ocorre na maioria dos dias; khyâl cap (ataques de vento); ataque de nervios. O não especificado é usado quando não se quer ou não se pode detalhar (por exemplo, na emergência)."
+    }
+   ],
+   "notas": [
+    "Princípio comum: medo (resposta a ameaça iminente) e ansiedade (antecipação de ameaça futura) excessivos ou persistentes além do esperado para a fase do desenvolvimento, com evitação e prejuízo, em geral por 6 meses ou mais, sem outra explicação.",
+    "TOC e TEPT deixaram o capítulo no DSM-5 e têm capítulos próprios, mas continuam tratados em conjunto nas diretrizes (CANMAT 2014, WFSBP).",
+    "Ansiedade mista com depressão abaixo do limiar é categoria da CID-10 (F41.2) e da CID-11 (6A73); não existe no DSM-5-TR, que usa o especificador 'com sintomas ansiosos' nos transtornos depressivos e bipolares.",
+    "Comorbidade entre transtornos de ansiedade é a regra; registre todos os diagnósticos presentes."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia: o grupo mais prevalente",
+    "texto": "Os transtornos de ansiedade são o grupo de transtornos mentais mais prevalente: nos EUA, cerca de 30% das pessoas terão algum ao longo da vida. No Brasil, o São Paulo Megacity Mental Health Survey (Andrade, 2012) encontrou prevalência em 12 meses de cerca de 20% para transtornos de ansiedade na região metropolitana, a mais alta entre os países do consórcio da OMS.\n\nA maioria começa na infância e adolescência (ansiedade de separação e fobias específicas por volta dos 7 anos, ansiedade social por volta dos 13), enquanto pânico e TAG surgem mais tarde. São duas vezes mais comuns em mulheres, tendem à cronicidade e com frequência precedem a depressão e o uso de álcool; tratar cedo pode mudar essa trajetória."
+   },
+   {
+    "titulo": "Neurobiologia comum e mecanismo dos tratamentos",
+    "texto": "Os transtornos compartilham uma rede de detecção de ameaça (amígdala, ínsula, cingulado anterior dorsal, núcleo do leito da estria terminal) hiper-reativa e pouco regulada pelo córtex pré-frontal ventromedial e lateral, com viés atencional para ameaça e evitação que impede a aprendizagem de segurança. O medo agudo (fobias, pânico) depende mais da amígdala; a ansiedade sustentada e difusa (TAG) recruta mais o núcleo do leito da estria terminal.\n\nEsse modelo explica por que a exposição, que promove extinção e aprendizagem inibitória, é o ingrediente central das terapias, e por que ISRS e IRSN, que reduzem a reatividade da rede ao longo de semanas, são a base farmacológica. Os benzodiazepínicos reduzem a ansiedade de forma imediata, mas não promovem nova aprendizagem e podem até atrapalhar a exposição."
+   },
+   {
+    "titulo": "Princípios de escolha comuns às diretrizes",
+    "texto": "CANMAT 2014, NICE, WFSBP e a Associação Brasileira de Psiquiatria convergem: TCC com exposição e ISRS ou IRSN são primeira linha para TAG, pânico e ansiedade social; a pregabalina é primeira linha no TAG e na ansiedade social; benzodiazepínicos são segunda linha, de curto prazo. A metanálise de Bandelow (2015) mostrou tamanhos de efeito maiores para fármacos do que para psicoterapias na comparação pré e pós-tratamento, mas com efeito da TCC mais duradouro após a suspensão; a combinação é útil nos casos moderados e graves.\n\nNa fobia específica, o tratamento é a exposição (muitas vezes em sessão única de 2 a 3 horas, protocolo de Öst), sem fármaco regular; benzodiazepínico em dose única é aceitável para uma situação rara e inevitável (por exemplo, exame de ressonância). No mutismo seletivo e na ansiedade de separação infantis, a base é a abordagem comportamental com os pais e a escola; ISRS (fluoxetina, sertralina) nos casos graves."
+   },
+   {
+    "titulo": "Uso correto de benzodiazepínicos e alternativas",
+    "texto": "No Brasil, benzodiazepínicos (clonazepam, alprazolam, bromazepam, diazepam) estão entre os psicofármacos mais prescritos, muitas vezes por anos e sem diagnóstico específico. São eficazes no curto prazo, mas causam tolerância, dependência, prejuízo cognitivo, quedas e acidentes, e não tratam a depressão que frequentemente acompanha a ansiedade. O uso deve ter indicação, dose e duração definidas desde o início (idealmente 2 a 4 semanas como ponte).\n\nQuando o paciente já usa há anos, a retirada gradual (redução de 10 a 25% a cada 2 a 4 semanas, mais lenta no final), com TCC e tratamento do transtorno de base, é possível na maioria dos casos. Hidroxizina, buspirona e pregabalina (esta com cautela em quem usa opioides ou tem história de abuso) são alternativas sem o mesmo potencial de dependência."
+   },
+   {
+    "titulo": "Causas secundárias e comorbidades",
+    "texto": "Antes de rotular, investigue causas médicas (hipertireoidismo, arritmias, asma e DPOC, hipoglicemia, feocromocitoma, epilepsia do lobo temporal, apneia do sono, dor não controlada) e substâncias (cafeína, estimulantes, cocaína, cannabis, descongestionantes, corticosteroides, levotiroxina em excesso, abstinência de álcool, benzodiazepínicos e opioides). Início após os 45 anos, sintomas atípicos ou sinais físicos pedem investigação dirigida.\n\nDepressão comórbida muda a escolha (ISRS ou IRSN, e não benzodiazepínico isolado) e aumenta o risco de suicídio; bipolaridade pede cautela com antidepressivos; uso de álcool ou drogas contraindica benzodiazepínicos. Em cardiopatas, sertralina e escitalopram têm dados de segurança (SADHART, DECARD, REMIT)."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Com tratamento adequado, a maioria responde, mas a remissão completa é menos frequente e as recaídas são comuns quando o tratamento é interrompido cedo; manter o antidepressivo por pelo menos 12 meses após a resposta reduz a recaída (Batelaan, BMJ 2017).\n\nExplique que a ansiedade é uma resposta normal de proteção que ficou desregulada; que evitar alivia agora e mantém o problema depois; que o antidepressivo não vicia, demora 2 a 6 semanas para agir e pode piorar a ansiedade nos primeiros dias; e que o calmante, se usado, será por tempo curto e combinado."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Avaliação",
+    "duracao": "1 a 2 consultas",
+    "objetivo": "Definir o diagnóstico específico, excluir causas médicas e substâncias, rastrear depressão, álcool e suicídio."
+   },
+   {
+    "fase": "Aguda",
+    "duracao": "8 a 12 semanas",
+    "objetivo": "Resposta com TCC e/ou ISRS ou IRSN em dose adequada; benzodiazepínico apenas como ponte de 2 a 4 semanas."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "12 meses após a resposta",
+    "objetivo": "Remissão e prevenção de recaída, com exposição às situações ainda evitadas."
+   },
+   {
+    "fase": "Retirada ou manutenção",
+    "duracao": "Retirada em meses; manutenção se recorrente",
+    "objetivo": "Reduzir lentamente o antidepressivo e retirar benzodiazepínicos de uso prolongado; manter em quem recaiu."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Diagnóstico específico",
+    "acao": "Identificar TAG, pânico, agorafobia, ansiedade social, fobia específica, ansiedade de separação ou mutismo seletivo (e TOC ou TEPT, se for o caso) e seguir a página própria; excluir causas médicas e substâncias.",
+    "se_falha": "Quadro misto ou subliminar: tratar o transtorno predominante e as comorbidades"
+   },
+   {
+    "passo": "Primeira linha",
+    "acao": "TCC com exposição e/ou ISRS ou IRSN: sertralina 25 a 50 mg até 50 a 200 mg, escitalopram 5 a 10 mg até 10 a 20 mg, paroxetina 20 a 50 mg, venlafaxina 75 a 225 mg; pregabalina 150 a 600 mg no TAG e na ansiedade social. Fobia específica: exposição, sem fármaco regular.",
+    "se_falha": "Sem melhora em 4 a 6 semanas na dose adequada ou sem resposta em 8 a 12 semanas"
+   },
+   {
+    "passo": "Otimizar ou trocar",
+    "acao": "Subir a dose, trocar por outro ISRS, por IRSN ou por pregabalina conforme o diagnóstico, e acrescentar TCC se ainda não feita. Benzodiazepínico só como ponte, com data de retirada.",
+    "se_falha": "Falha de dois ensaios de primeira linha"
+   },
+   {
+    "passo": "Segunda linha conforme o diagnóstico",
+    "acao": "TAG: potencializar com pregabalina, buspirona ou quetiapina; pânico: imipramina ou clomipramina; ansiedade social: clonazepam ou gabapentina; todos: mirtazapina, benzodiazepínico contínuo em quem não tem risco de abuso.",
+    "se_falha": "Encaminhar ao psiquiatra ou a serviço especializado com dois ensaios fracassados, comorbidade grave, risco de suicídio ou dependência de benzodiazepínicos"
+   }
+  ]
+ },
+ "Ansiedade de desempenho": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno de ansiedade social com o especificador 'somente desempenho'",
+   "cid": "CID-10-MC F40.10; CID-11 6B04 (como ansiedade social)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Medo ou ansiedade acentuados em situações em que a pessoa fica exposta à possível avaliação dos outros; no especificador, restritos a situações de desempenho (falar em público, apresentar-se, tocar, competir, provas orais, audições)."
+    },
+    {
+     "r": "B",
+     "t": "Medo de agir ou mostrar sintomas de ansiedade (tremor, voz trêmula, rubor, suor, branco) que serão avaliados negativamente (humilhação, constrangimento, rejeição)."
+    },
+    {
+     "r": "C",
+     "t": "As situações de desempenho quase sempre provocam medo ou ansiedade."
+    },
+    {
+     "r": "D",
+     "t": "São evitadas ou suportadas com intenso medo ou ansiedade."
+    },
+    {
+     "r": "E",
+     "t": "O medo é desproporcional à ameaça real e ao contexto sociocultural."
+    },
+    {
+     "r": "F",
+     "t": "Persistente, em geral por 6 meses ou mais."
+    },
+    {
+     "r": "G",
+     "t": "Causa sofrimento clinicamente significativo ou prejuízo profissional, acadêmico ou em outras áreas importantes."
+    },
+    {
+     "r": "H",
+     "t": "Não é consequência de substância (droga de abuso, medicamento) nem de outra condição médica."
+    },
+    {
+     "r": "I",
+     "t": "Não é mais bem explicado por outro transtorno mental (transtorno de pânico, dismórfico corporal, autismo)."
+    },
+    {
+     "r": "J",
+     "t": "Se houver outra condição médica (por exemplo, doença de Parkinson, obesidade, desfiguração), o medo é claramente não relacionado a ela ou excessivo."
+    },
+    {
+     "r": "Especificador",
+     "t": "Somente desempenho: o medo restringe-se a falar ou se apresentar em público; a pessoa não teme nem evita situações sociais que não envolvam desempenho."
+    }
+   ],
+   "notas": [
+    "O especificador descreve pessoas cujo prejuízo aparece sobretudo na vida profissional (músicos, dançarinos, artistas, atletas, professores) ou em papéis que exigem apresentações regulares no trabalho ou na escola.",
+    "Nervosismo antes de apresentações é universal; o diagnóstico exige sofrimento ou prejuízo claros e persistentes.",
+    "Se o medo se estende a conversas, reuniões, comer diante de outros ou ser observado, é ansiedade social sem o especificador.",
+    "Não é diagnóstico separado na CID-11; lá também se classifica como ansiedade social.",
+    "'Ansiedade de performance musical' e 'ansiedade competitiva' são termos da literatura que podem descrever quadros abaixo do limiar do transtorno."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Quem é o paciente e como o quadro evolui",
+    "texto": "Ansiedade antes de apresentações é quase universal; o transtorno é o subgrupo em que o medo é intenso, persistente e leva a evitação ou prejuízo (recusar promoções, abandonar a música, faltar a provas orais). É comum em músicos de orquestra, atletas, estudantes e profissionais que apresentam trabalhos, e costuma começar na adolescência ou no início da vida profissional, muitas vezes após uma experiência de falha pública.\n\nO subtipo somente desempenho tem, em geral, início mais tardio, menos comorbidade e melhor prognóstico que a ansiedade social generalizada; parte dos casos, porém, evolui para medo mais amplo, e é essa evolução que se deve vigiar."
+   },
+   {
+    "titulo": "Fisiologia e por que o betabloqueador funciona",
+    "texto": "Na situação de desempenho, a descarga adrenérgica produz taquicardia, tremor fino das mãos, voz trêmula, boca seca e sudorese. Esses sinais são percebidos pela própria pessoa, interpretados como sinal de fracasso iminente e aumentam o medo: um ciclo semelhante ao do pânico, mas preso ao contexto.\n\nO propranolol bloqueia receptores beta-1 e beta-2 periféricos e reduz tremor e taquicardia sem sedar nem prejudicar a cognição; por isso é útil em tarefas motoras finas (instrumentistas) e na fala. Ele não reduz o medo cognitivo de avaliação, e por isso não funciona na ansiedade social generalizada (no ensaio de Liebowitz, 1992, o atenolol não diferiu do placebo) nem no TAG ou no pânico."
+   },
+   {
+    "titulo": "O que dizem as evidências",
+    "texto": "Os ensaios que sustentam o propranolol na ansiedade de desempenho são pequenos e antigos (músicos e oradores, nas décadas de 1970 e 1980, com melhora do tremor e da qualidade da execução); a metanálise de Steenen (2016) não encontrou evidência de qualidade para betabloqueadores nos transtornos de ansiedade em geral, e o CANMAT 2014 não os recomenda para a ansiedade social generalizada, aceitando o uso pontual no subtipo de desempenho. É, portanto, uso consagrado, seguro e de evidência limitada.\n\nA TCC com exposição (inclusive em realidade virtual) e o treino de habilidades de apresentação têm melhor evidência para mudar o curso. Quando o quadro se amplia, a conduta passa a ser a da fobia social, com ISRS ou venlafaxina."
+   },
+   {
+    "titulo": "Segurança e armadilhas do propranolol",
+    "texto": "Contraindicações: asma e broncoespasmo (inclusive histórico), bradicardia, bloqueio atrioventricular, hipotensão, insuficiência cardíaca descompensada; cautela em diabéticos em uso de insulina (mascara hipoglicemia), na doença de Raynaud e com verapamil ou diltiazem. Faça uma dose-teste em casa, dias antes do evento, para conhecer o efeito e evitar surpresas (tontura, cansaço, mãos frias).\n\nEm esportes de precisão (tiro, tiro com arco, golfe, bilhar, dardos e outros), betabloqueadores são proibidos pela Agência Mundial Antidoping. Evite benzodiazepínicos e álcool antes do evento: pioram a coordenação, a memória e o desempenho, e reforçam a ideia de que só é possível se apresentar sob efeito de algo."
+   },
+   {
+    "titulo": "O que dizer ao paciente",
+    "texto": "Explique que certa ativação melhora o desempenho e que o objetivo é reduzir o excesso, e não toda a ansiedade; que o propranolol reduz os sinais físicos (tremor, coração acelerado), não o nervosismo em si; e que ensaiar em condições semelhantes às reais e expor-se gradualmente é o que faz o medo diminuir de forma duradoura.\n\nSe o uso do propranolol ficar frequente, se o medo se estender a outras situações sociais ou surgirem ataques de pânico, uso de álcool ou evitação, é hora de reavaliar e iniciar TCC estruturada ou tratamento da ansiedade social."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Preparação",
+    "duracao": "Dias a semanas antes do evento",
+    "objetivo": "Confirmar o diagnóstico, fazer dose-teste do propranolol e iniciar treino de exposição e ensaio."
+   },
+   {
+    "fase": "Evento",
+    "duracao": "30 a 90 minutos antes",
+    "objetivo": "Propranolol 10 a 40 mg em dose única para tremor e taquicardia, sem álcool nem benzodiazepínico."
+   },
+   {
+    "fase": "Consolidação",
+    "duracao": "8 a 16 sessões de TCC",
+    "objetivo": "Reduzir a dependência do fármaco e a evitação; reavaliar se o medo se generalizar."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Confirmar o subtipo",
+    "acao": "Verificar se o medo é restrito ao desempenho; se abranger interações sociais, tratar como fobia social. Rastrear pânico, depressão, álcool e contraindicações a betabloqueador.",
+    "se_falha": "Medo generalizado: seguir o algoritmo de Fobia social"
+   },
+   {
+    "passo": "TCC e preparação",
+    "acao": "TCC com exposição gradual e ensaios realistas; técnicas de respiração e reestruturação das crenças sobre avaliação.",
+    "se_falha": "Sintomas físicos ainda incapacitantes em eventos próximos"
+   },
+   {
+    "passo": "Propranolol pontual",
+    "acao": "Dose-teste em casa; depois 10 a 40 mg 30 a 90 minutos antes do evento (começar com 10 a 20 mg). Em asma, não usar; atenolol 25 a 50 mg (cardiosseletivo) com cautela ou nenhum betabloqueador.",
+    "se_falha": "Tremor e taquicardia persistentes com 40 mg, ou medo cognitivo predominante"
+   },
+   {
+    "passo": "Reavaliar",
+    "acao": "Ajustar horário e dose até 40 mg; intensificar a TCC. Se houver uso frequente, generalização do medo, ataques de pânico ou uso de substâncias, iniciar ISRS ou venlafaxina como na fobia social.",
+    "se_falha": "Encaminhar para TCC estruturada em serviço especializado"
+   }
+  ]
+ }
+}

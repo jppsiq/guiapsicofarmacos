@@ -1,0 +1,766 @@
+{
+ "Depressão": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno depressivo maior",
+   "cid": "CID-10 F32 (episódio único), F33 (recorrente); CID-11 6A70 (episódio único), 6A71 (recorrente)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Cinco ou mais dos nove sintomas abaixo no mesmo período de 2 semanas, representando mudança em relação ao funcionamento anterior; pelo menos um deve ser humor deprimido ou perda de interesse ou prazer. Os sintomas estão presentes na maior parte do dia, quase todos os dias (exceto ideação de morte).",
+     "sub": [
+      "Humor deprimido relatado ou observado (em crianças e adolescentes pode ser humor irritável).",
+      "Perda acentuada de interesse ou prazer em quase todas as atividades.",
+      "Perda ou ganho de peso significativo sem dieta (mais de 5% em um mês) ou mudança de apetite (em crianças, não atingir o ganho esperado).",
+      "Insônia ou hipersonia.",
+      "Agitação ou retardo psicomotor observável por outros, não apenas sensação subjetiva.",
+      "Fadiga ou perda de energia.",
+      "Sentimento de desvalia ou culpa excessiva ou inapropriada (pode ser delirante), não apenas autorrecriminação por estar doente.",
+      "Menor capacidade de pensar, concentrar-se ou decidir.",
+      "Pensamentos recorrentes de morte (não só medo de morrer), ideação suicida sem plano, plano ou tentativa de suicídio."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Os sintomas causam sofrimento clinicamente significativo ou prejuízo social, ocupacional ou em outras áreas importantes."
+    },
+    {
+     "r": "C",
+     "t": "O episódio não é atribuível aos efeitos fisiológicos de substância ou de outra condição médica. Os critérios A a C definem o episódio depressivo maior."
+    },
+    {
+     "r": "D",
+     "t": "O episódio não é mais bem explicado por transtorno esquizoafetivo, esquizofrenia, transtorno esquizofreniforme, transtorno delirante ou outro transtorno do espectro da esquizofrenia."
+    },
+    {
+     "r": "E",
+     "t": "Nunca houve episódio maníaco ou hipomaníaco. A exclusão não vale se todos os episódios do tipo maníaco foram induzidos por substância ou decorrentes de outra condição médica."
+    }
+   ],
+   "especificadores": [
+    "Episódio único ou recorrente (recorrência exige intervalo de pelo menos 2 meses consecutivos sem preencher critérios).",
+    "Gravidade atual: leve, moderada ou grave; com características psicóticas; em remissão parcial ou completa.",
+    "Com sintomas ansiosos (sintomas de ansiedade: tensão, inquietação, dificuldade de concentração por preocupação, medo de algo terrível, medo de perder o controle; leve com 2, moderada com 3, moderada a grave com 4 ou 5, grave com 4 ou 5 e agitação motora).",
+    "Com características mistas (pelo menos 3 sintomas maníacos ou hipomaníacos durante a maior parte dos dias do episódio).",
+    "Com características melancólicas (anedonia ou falta de reatividade, mais 3: qualidade distinta do humor, piora matinal, despertar precoce, alteração psicomotora, anorexia ou perda de peso, culpa excessiva).",
+    "Com características atípicas (reatividade do humor mais 2: ganho de apetite ou peso, hipersonia, paralisia de chumbo, sensibilidade à rejeição; não se aplica se houver melancolia ou catatonia).",
+    "Com características psicóticas congruentes ou incongruentes com o humor; com catatonia; com início no periparto; com padrão sazonal."
+   ],
+   "notas": [
+    "Não contar sintomas claramente atribuíveis a outra condição médica.",
+    "Luto e outras perdas: tristeza, insônia e perda de apetite podem ser esperados, mas a presença de episódio depressivo maior deve ser considerada com cuidado. No luto predominam vazio e saudade em ondas ligadas a lembranças do falecido, com autoestima preservada; no episódio depressivo, o humor é persistente, com desvalia e anedonia difusa.",
+    "Remissão parcial: sintomas presentes sem preencher critérios, ou menos de 2 meses sem sintomas significativos. Remissão completa: 2 meses sem sinais ou sintomas significativos.",
+    "CID-11: exige pelo menos 5 de 10 sintomas por 2 semanas (inclui desesperança como sintoma próprio e separa concentração de indecisão em um mesmo item), com humor deprimido ou perda de interesse obrigatório; agrupa os sintomas em afetivos, cognitivo-comportamentais e neurovegetativos.",
+    "Sintomas por 2 anos ou mais: considerar transtorno depressivo persistente (distimia), que pode coexistir com episódios depressivos maiores."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Nas últimas 2 semanas, você se sentiu para baixo, deprimido ou sem esperança na maior parte do dia?",
+    "Nas últimas 2 semanas, perdeu o interesse ou o prazer nas coisas que costumava gostar de fazer?",
+    "Como está o sono? Demora a dormir, acorda de madrugada e não volta a dormir, ou dorme demais?",
+    "Mudou o apetite ou o peso? Quanto, em quanto tempo?",
+    "Consegue se concentrar para ler, ver um filme ou trabalhar? Tem dificuldade para tomar decisões simples?",
+    "Tem se sentido culpado, um peso para os outros ou sem valor?",
+    "Tem pensado que a vida não vale a pena ou em morrer? Já pensou em se matar? Tem algum plano ou já fez alguma tentativa?",
+    "Já teve períodos de dias em que estava com energia demais, dormindo pouco sem cansaço, falando muito, gastando ou se arriscando além do habitual?",
+    "Quanto tem bebido ou usado outras substâncias?",
+    "Alguém na família teve depressão, transtorno bipolar, suicídio ou uso de álcool?"
+   ],
+   "sinais": [
+    "Queixas somáticas múltiplas e inexplicadas (dor, fadiga, tontura), sobretudo na atenção primária.",
+    "Insônia persistente ou hipersonia, com prejuízo funcional.",
+    "Queda de rendimento escolar ou profissional, afastamentos repetidos, isolamento.",
+    "Aumento do uso de álcool, hipnóticos ou outras substâncias.",
+    "Puerpério, doença crônica (diabetes, AVC, doença coronariana, câncer, Parkinson, dor crônica), luto recente ou desemprego.",
+    "Lentificação da fala e dos movimentos, fácies de tristeza, choro fácil, descuido com a aparência.",
+    "Em idosos: queixa cognitiva, perda de peso, apatia; em adolescentes: irritabilidade, queda de notas, conflitos.",
+    "Tentativa de suicídio prévia ou autolesão."
+   ],
+   "instrumentos": [
+    "PHQ-2: 3 ou mais pontos indica aplicar o PHQ-9.",
+    "PHQ-9: 5, 10, 15 e 20 pontos marcam gravidade leve, moderada, moderadamente grave e grave; 10 ou mais é o corte usual para episódio depressivo maior provável; menos de 5 é compatível com remissão. Item 9 positivo exige avaliação de risco.",
+    "MADRS: remissão com 10 ou menos (alguns estudos usam 12); HAM-D 17: remissão com 7 ou menos. Resposta: redução de pelo menos 50% do escore inicial.",
+    "QIDS-SR16: remissão com 5 ou menos.",
+    "GDS-15 em idosos: 5 ou mais sugere depressão.",
+    "Bipolaridade: MDQ positivo com 7 ou mais itens, ocorrendo no mesmo período e com prejuízo moderado a grave; HCL-32 com 14 ou mais.",
+    "C-SSRS para estruturar a avaliação de ideação e comportamento suicida."
+   ]
+  },
+  "diferencial": [
+   "Depressão bipolar: hipomania ou mania prévias (perguntar ativamente e a familiares), início precoce, muitos episódios, sintomas atípicos ou psicóticos, história familiar de bipolaridade, virada com antidepressivo.",
+   "Transtorno depressivo persistente: sintomas mais leves por 2 anos ou mais, sem intervalo livre maior que 2 meses.",
+   "Transtorno de adaptação com humor deprimido: resposta a estressor identificável que não preenche critérios de episódio depressivo maior.",
+   "Luto e transtorno de luto prolongado: saudade e preocupação com o falecido predominam; no luto prolongado (DSM-5-TR), o quadro persiste por 12 meses ou mais após a perda.",
+   "Transtorno depressivo induzido por substância ou medicamento: relação temporal com uso ou abstinência (álcool, estimulantes, corticoides, isotretinoína, interferona); tende a melhorar em 3 a 4 semanas de abstinência.",
+   "Transtorno depressivo devido a outra condição médica: hipotireoidismo, síndrome de Cushing, deficiência de B12, apneia do sono, AVC, Parkinson, câncer de pâncreas, HIV.",
+   "Demência e síndrome apática: apatia sem tristeza ou culpa, déficits cognitivos progressivos; a depressão pode ser pródromo de demência em idosos.",
+   "Sintomas negativos da esquizofrenia e transtorno de personalidade borderline (disforia reativa, oscilações em horas, vazio crônico)."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "CANMAT 2023 (Lam et al., Can J Psychiatry 2024)",
+    "pontos": [
+     "Cuidado baseado em medida: escala validada (PHQ-9, QIDS-SR, MADRS) no início e a cada consulta. Resposta é redução de pelo menos 50%; remissão, escore na faixa normal (PHQ-9 abaixo de 5, MADRS 10 ou menos) com recuperação funcional.",
+     "Depressão leve: psicoterapia (TCC, terapia interpessoal, ativação comportamental), exercício supervisionado ou intervenções digitais guiadas como primeira linha; antidepressivo se houver preferência, resposta prévia ou falha dessas opções.",
+     "Moderada a grave: antidepressivo, psicoterapia ou a combinação, com preferência pela combinação nos casos graves.",
+     "Avaliar melhora precoce em 2 a 4 semanas na dose eficaz: menos de 20% de melhora indica otimizar dose ou trocar; sem resposta em 6 a 8 semanas na dose adequada, mudar de estratégia.",
+     "Com resposta parcial e boa tolerância, preferir adjuvante a trocar; sem resposta ou com má tolerância, trocar. EMT é primeira linha após falha de pelo menos um antidepressivo; ECT é primeira linha em quadros graves, psicóticos, com catatonia, risco de suicídio iminente ou recusa alimentar.",
+     "Manutenção: 6 a 12 meses após remissão; 2 anos ou mais se houver fatores de risco (episódios recorrentes, graves, crônicos, sintomas residuais, comorbidades, idade avançada).",
+     "Após falha de 2 tratamentos adequados, adotar o enquadre de depressão de difícil tratamento (objetivo passa a incluir funcionalidade e qualidade de vida)."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha (antidepressivos)",
+      "texto": "Agomelatina, bupropiona, citalopram, desvenlafaxina, duloxetina, escitalopram, fluoxetina, fluvoxamina, milnaciprana, mirtazapina, paroxetina, sertralina, venlafaxina, vortioxetina. Escitalopram, sertralina, mirtazapina e vortioxetina têm a melhor combinação de eficácia e tolerabilidade nas metanálises."
+     },
+     {
+      "linha": "Segunda linha",
+      "texto": "Tricíclicos (amitriptilina, clomipramina, nortriptilina e outros), moclobemida, quetiapina em monoterapia, trazodona."
+     },
+     {
+      "linha": "Terceira linha",
+      "texto": "IMAO irreversíveis (tranilcipromina; fenelzina não está disponível no Brasil) e reboxetina (não disponível no Brasil)."
+     },
+     {
+      "linha": "Adjuvantes",
+      "texto": "Primeira linha: aripiprazol (2 a 10 mg) e brexpiprazol (1 a 3 mg). Segunda linha: quetiapina, risperidona, olanzapina, lítio, liotironina, esketamina intranasal, cetamina IV. Terceira linha: bupropiona ou mirtazapina associadas, lamotrigina, pramipexol, estimulantes, modafinila. Cariprazina (1,5 mg) tem evidência crescente e foi aprovada como adjuvante nos EUA."
+     }
+    ]
+   },
+   {
+    "fonte": "NICE NG222 (2022)",
+    "pontos": [
+     "Classifica a depressão em menos grave (PHQ-9 abaixo de 16) e mais grave (16 ou mais) para escolher o tratamento.",
+     "Menos grave: não oferecer antidepressivo como rotina de primeira linha, salvo preferência do paciente. Opções em ordem: autoajuda guiada, TCC ou ativação comportamental em grupo ou individual, exercício em grupo, mindfulness ou meditação em grupo, terapia interpessoal, ISRS, aconselhamento, psicoterapia psicodinâmica breve.",
+     "Mais grave: a combinação de TCC individual com antidepressivo é a opção mais eficaz; alternativas são TCC individual, ativação comportamental individual, antidepressivo (ISRS, IRSN, outro), terapia interpessoal, psicodinâmica, aconselhamento.",
+     "Reavaliar em 2 a 4 semanas após iniciar antidepressivo; em 1 semana se menor de 25 anos ou com risco de suicídio.",
+     "Manter o antidepressivo por pelo menos 6 meses após a remissão e rever então; para quem tem alto risco de recaída, manter por mais tempo ou oferecer TCC ou terapia cognitiva baseada em mindfulness na prevenção de recaída.",
+     "Sem resposta: checar adesão e efeitos adversos, aumentar a dose, trocar (outro ISRS ou antidepressivo de outra classe), associar psicoterapia, potencializar (aripiprazol, quetiapina, lítio) ou encaminhar para serviço especializado. ECT para quadros graves com risco à vida, quando é necessária resposta rápida ou após falha de múltiplas estratégias.",
+     "Retirada gradual e compartilhada, com redução proporcional e vigilância de sintomas de descontinuação, que podem ser intensos e prolongados."
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines, 15.ª ed. (2025)",
+    "pontos": [
+     "Doses mínimas eficazes usuais: fluoxetina 20 mg, sertralina 50 mg, citalopram 20 mg, escitalopram 10 mg, paroxetina 20 mg, venlafaxina 75 mg, duloxetina 60 mg, mirtazapina 30 mg, agomelatina 25 mg, vortioxetina 10 mg. Para ISRS, aumentar além da dose mínima traz ganho pequeno, mas pode ajudar em não respondedores.",
+     "Citalopram: máximo 40 mg (20 mg acima de 65 anos) pelo prolongamento do QTc; escitalopram, máximo 20 mg (10 mg em idosos).",
+     "Trocas: entre ISRS, em geral troca direta; de fluoxetina para outro fármaco, considerar a meia-vida longa da norfluoxetina; para IMAO, intervalo de 2 semanas (5 semanas após fluoxetina) e dieta pobre em tiramina.",
+     "Retirada: redução hiperbólica ao longo de meses (por exemplo, reduções de 25 a 50% da dose atual a cada 2 a 4 semanas, com passos finais pequenos, usando solução oral ou manipulação), sobretudo após paroxetina e venlafaxina.",
+     "Hiponatremia: risco maior em idosos, mulheres, baixo peso e uso de diuréticos; dosar sódio nas primeiras semanas."
+    ]
+   }
+  ]
+ },
+ "Depressão resistente": {
+  "criterios": {
+   "fonte": "Consenso internacional sobre depressão resistente (McIntyre et al., World Psychiatry 2023), CANMAT 2023 (depressão de difícil tratamento) e Maudsley Staging Method (Fekadu, 2009). Não é categoria do DSM-5-TR.",
+   "itens": [
+    {
+     "r": "1",
+     "t": "Diagnóstico confirmado de transtorno depressivo maior unipolar no episódio atual, após revisão diagnóstica (bipolaridade, psicose, substâncias, causas clínicas)."
+    },
+    {
+     "r": "2",
+     "t": "Falha de pelo menos 2 tratamentos antidepressivos distintos no episódio atual, cada um em dose adequada e por tempo adequado (em geral 4 a 8 semanas na dose eficaz), com adesão confirmada.",
+     "sub": [
+      "Contam como tratamento: antidepressivo em monoterapia, estratégia de potencialização ou associação reconhecida.",
+      "Psicoterapia e neuromodulação devem ser registradas, mas o critério de consenso baseia-se em tratamentos farmacológicos."
+     ]
+    },
+    {
+     "r": "3",
+     "t": "Definição da resposta em cada tentativa, pela escala padronizada:",
+     "sub": [
+      "Sem resposta: redução menor que 25% do escore inicial.",
+      "Resposta parcial: redução de 25 a 49%.",
+      "Resposta: redução de 50% ou mais.",
+      "Remissão: escore na faixa normal (MADRS 10 ou menos, HAM-D 17 com 7 ou menos) mantido."
+     ]
+    },
+    {
+     "r": "DTD",
+     "t": "Depressão de difícil tratamento (CANMAT 2023): depressão que continua causando prejuízo significativo apesar dos esforços terapêuticos habituais. O conceito é mais amplo que a resistência e orienta o objetivo para controle de sintomas, funcionalidade e qualidade de vida, sem abandonar a busca da remissão."
+    }
+   ],
+   "especificadores": [
+    "Maudsley Staging Method: soma de duração do episódio (1 a 3 pontos), gravidade (1 a 5), número de antidepressivos falhos (1 a 3), potencialização (0 ou 1) e ECT (0 ou 1); total de 3 a 15: leve de 3 a 6, moderada de 7 a 10, grave de 11 a 15.",
+    "Estadiamento de Thase e Rush: do estágio I (falha de 1 antidepressivo adequado) ao estágio V (falha também de ECT bilateral).",
+    "Resistência crônica: episódio atual com 2 anos ou mais de duração."
+   ],
+   "notas": [
+    "Pseudorresistência explica até metade dos casos: dose ou tempo insuficientes, má adesão, interações (indutores como carbamazepina e tabaco), metabolizadores ultrarrápidos, diagnóstico errado.",
+    "O consenso de 2023 recomenda documentar a resistência com escala antes e depois de cada tentativa (por exemplo MGH-ATRQ para o histórico).",
+    "A FDA e a EMA usam a definição de falha de pelo menos 2 antidepressivos no episódio atual para aprovar fármacos como a esketamina."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Quais antidepressivos você já tomou neste episódio, em que dose máxima e por quanto tempo nessa dose?",
+    "Tomou todos os dias? Quantas doses esquecia por semana? Parou por conta própria por algum efeito?",
+    "Com cada remédio, melhorou alguma coisa? Quanto, de 0 a 100%?",
+    "Já teve fases de muita energia, pouca necessidade de sono ou impulsividade?",
+    "Ronca, tem pausas na respiração durante o sono ou acorda cansado?",
+    "Quanto bebe, fuma ou usa maconha e outras substâncias?",
+    "Passou por situações traumáticas? Tem pesadelos ou lembranças intrusivas?",
+    "O que mantém a depressão hoje: conflitos, trabalho, dívidas, violência, solidão?",
+    "Já fez psicoterapia estruturada? Qual, quantas sessões?",
+    "Já pensou em se matar ao longo deste episódio? Tem acesso a medicamentos guardados?"
+   ],
+   "sinais": [
+    "Duas ou mais trocas de antidepressivo sem ganho documentado.",
+    "Episódio atual com mais de 1 a 2 anos de duração.",
+    "Doses abaixo da faixa terapêutica mantidas por meses ou trocas antes de 4 semanas.",
+    "Comorbidades ansiosas, TEPT, transtorno de personalidade ou uso de substâncias.",
+    "Doença clínica associada (hipotireoidismo, apneia, dor crônica, doença inflamatória).",
+    "Sintomas atípicos, mistos ou psicóticos não reconhecidos.",
+    "Nível sérico baixo do antidepressivo apesar de dose adequada (sugere não adesão ou metabolização rápida)."
+   ],
+   "instrumentos": [
+    "MGH-ATRQ: organiza o histórico de tentativas, doses e duração.",
+    "Maudsley Staging Method: 3 a 6 leve, 7 a 10 moderada, 11 a 15 grave.",
+    "MADRS ou QIDS-SR16 a cada ajuste; ideação suicida com C-SSRS.",
+    "STOP-Bang para apneia obstrutiva do sono: 3 ou mais indica investigar."
+   ]
+  },
+  "diferencial": [
+   "Pseudorresistência: adesão irregular, dose baixa, tempo curto ou interações; corrigir antes de rotular.",
+   "Depressão bipolar não diagnosticada: responde mal a antidepressivos e pode piorar com eles.",
+   "Depressão psicótica: delírios escondidos pelo paciente; exige antipsicótico ou ECT.",
+   "Transtorno depressivo persistente com sobreposição de transtorno de personalidade: melhora mais com psicoterapias específicas (CBASP, terapia dialética) do que com trocas de fármacos.",
+   "Depressão induzida por substância: álcool, benzodiazepínicos, cannabis, corticoides.",
+   "Causas clínicas: hipotireoidismo, apneia, anemia, deficiência de B12 ou folato, doença de Parkinson, demência inicial, câncer.",
+   "TEPT e TDAH não tratados, que mantêm sintomas depressivos residuais."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "CANMAT 2023 (depressão de difícil tratamento)",
+    "pontos": [
+     "Revisar diagnóstico, adesão, dose e comorbidades antes de cada novo passo.",
+     "Resposta parcial: potencializar. Primeira linha: aripiprazol (2 a 10 mg; 2 a 5 mg costumam bastar) ou brexpiprazol (1 a 3 mg).",
+     "Segunda linha: lítio (litemia 0,5 a 0,8 mmol/L), liotironina (25 a 50 mcg), quetiapina de liberação prolongada (150 a 300 mg), risperidona (0,5 a 2 mg), olanzapina com fluoxetina, esketamina intranasal e cetamina IV. Cariprazina (1,5 mg) tem evidência crescente.",
+     "Terceira linha: bupropiona ou mirtazapina associadas, lamotrigina, pramipexol, estimulantes, modafinila.",
+     "Neuromodulação: EMT de alta frequência no córtex pré-frontal dorsolateral esquerdo ou theta-burst intermitente (20 a 30 sessões) é primeira linha após falha de pelo menos 1 antidepressivo; ECT é a intervenção com maior taxa de remissão e deve ser oferecida cedo quando há gravidade, psicose, risco de suicídio ou falha de múltiplas estratégias.",
+     "Psicoterapias: TCC, CBASP e terapia cognitiva baseada em mindfulness têm evidência como adjuvantes na depressão crônica ou resistente.",
+     "Objetivos em DTD: além da remissão, buscar controle de sintomas, funcionalidade e qualidade de vida, evitando polifarmácia sem ganho."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "Aripiprazol ou brexpiprazol adjuvantes; EMT."
+     },
+     {
+      "linha": "Segunda linha",
+      "texto": "Lítio, liotironina, quetiapina, risperidona, olanzapina, esketamina, cetamina IV; ECT (primeira linha em situações específicas)."
+     },
+     {
+      "linha": "Terceira linha",
+      "texto": "Associação de bupropiona ou mirtazapina, lamotrigina, pramipexol, estimulantes, modafinila; troca para IMAO."
+     }
+    ]
+   },
+   {
+    "fonte": "Esketamina e cetamina (bula Anvisa; ESCAPE-TRD 2023; ELEKT-D 2023)",
+    "pontos": [
+     "Esketamina intranasal (aprovada no Brasil) sempre com antidepressivo oral: indução com 56 mg no primeiro dia (28 mg em quem tem 65 anos ou mais), depois 56 ou 84 mg duas vezes por semana nas semanas 1 a 4, semanal nas semanas 5 a 8 e, na manutenção, semanal ou a cada 2 semanas.",
+     "Administrar em serviço de saúde, com PA antes e cerca de 40 minutos após a dose e observação por pelo menos 2 horas; contraindicada em aneurisma, malformação arteriovenosa, hemorragia intracerebral recente e hipertensão não controlada.",
+     "ESCAPE-TRD: esketamina superior à quetiapina de liberação prolongada associada em remissão na semana 8 após falha de 2 ou mais antidepressivos.",
+     "Cetamina IV (uso off-label): 0,5 mg/kg em 40 minutos, 2 a 3 vezes por semana por 2 a 3 semanas; no ELEKT-D foi não inferior à ECT em pacientes não psicóticos ambulatoriais.",
+     "Avaliar uso de substâncias antes; vigiar dissociação, sedação, PA e sinais de uso indevido."
+    ]
+   },
+   {
+    "fonte": "NICE NG222 (2022) e Maudsley 15.ª ed. (2025)",
+    "pontos": [
+     "Encaminhar a serviço especializado após falha de 2 tratamentos ou quando há risco elevado, comorbidade complexa ou necessidade de ECT.",
+     "Troca para outra classe: IRSN (venlafaxina 150 a 375 mg), tricíclico em dose plena (nortriptilina guiada por nível sérico de 50 a 150 ng/mL) ou IMAO (tranilcipromina 30 a 60 mg, com dieta e intervalo de 2 semanas, 5 após fluoxetina).",
+     "Lítio: iniciar 300 a 400 mg à noite e ajustar pela litemia de 12 horas; resposta costuma aparecer em 2 a 4 semanas e é a estratégia com melhor evidência antissuicida.",
+     "ECT: 6 a 12 sessões, 2 a 3 vezes por semana; unilateral direita com pulso ultrabreve tem menos efeito cognitivo, bitemporal quando é preciso resposta mais rápida. Após a remissão, manter tratamento (nortriptilina com lítio ou venlafaxina com lítio) ou ECT de continuação, porque a recaída em 6 meses chega a 50% sem manutenção.",
+     "Ao somar um fármaco sem ganho após 4 a 6 semanas em dose adequada, retirá-lo antes do próximo passo."
+    ]
+   }
+  ]
+ },
+ "Depressão psicótica": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno depressivo maior com características psicóticas",
+   "cid": "CID-10 F32.3 (episódio único grave com sintomas psicóticos), F33.3 (recorrente)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Preenche os critérios de episódio depressivo maior do transtorno depressivo maior (5 de 9 sintomas por 2 semanas, com humor deprimido ou anedonia, prejuízo, sem causa orgânica ou por substância, sem mania ou hipomania prévias)."
+    },
+    {
+     "r": "B",
+     "t": "Delírios ou alucinações presentes em qualquer momento do episódio.",
+     "sub": [
+      "Congruentes com o humor: conteúdo de culpa, merecimento de punição, ruína, doença, morte ou niilismo (por exemplo, síndrome de Cotard).",
+      "Incongruentes com o humor: conteúdo sem esses temas (perseguição sem culpa, inserção de pensamento) ou mistura dos dois."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "Os sintomas psicóticos ocorrem exclusivamente durante episódios de humor. Se houver 2 semanas ou mais de delírios ou alucinações sem episódio de humor, pensar em transtorno esquizoafetivo."
+    }
+   ],
+   "especificadores": [
+    "Com características psicóticas congruentes com o humor ou incongruentes com o humor.",
+    "Pode coexistir com: características melancólicas (frequente), catatonia, início no periparto, sintomas ansiosos."
+   ],
+   "notas": [
+    "Na CID-10 a presença de sintomas psicóticos implica episódio grave; no DSM-5-TR o especificador psicótico é registrado à parte da gravidade.",
+    "Cerca de 15 a 20% dos episódios depressivos em internação têm sintomas psicóticos; em idosos a proporção é maior.",
+    "Delírios congruentes com o humor e culpa intensa são frequentemente ocultados; a entrevista com familiares aumenta a detecção.",
+    "Psicose na depressão bipolar deve ser classificada como transtorno bipolar, episódio depressivo com características psicóticas."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Você acha que fez algo muito errado ou imperdoável? Merece ser castigado?",
+    "Tem certeza de que está arruinado, que vai perder tudo ou que a família vai passar fome, mesmo quando mostram que não é assim?",
+    "Acha que tem uma doença grave que os médicos não encontraram, ou que partes do seu corpo estão apodrecendo ou deixaram de existir?",
+    "Ouve vozes quando não há ninguém por perto? O que elas dizem?",
+    "Sente que as pessoas comentam sobre você, o vigiam ou querem puni-lo?",
+    "Tem pensado que seria melhor morrer, ou que a família ficaria melhor sem você?",
+    "Está conseguindo comer e beber? Por que não?",
+    "Para o familiar: ele tem falado coisas estranhas, acusado a si mesmo, recusado comida ou medicamentos?"
+   ],
+   "sinais": [
+    "Depressão grave com agitação intensa ou lentificação acentuada, perplexidade ou mutismo.",
+    "Culpa desproporcional, ideias de ruína financeira sem base ou hipocondria bizarra.",
+    "Recusa alimentar, desidratação ou perda de peso rápida.",
+    "Paciente reservado, desconfiado ou que evita responder sobre pensamentos.",
+    "Idoso com primeiro episódio depressivo grave.",
+    "Falha de resposta a antidepressivo em monoterapia.",
+    "Tentativa de suicídio de alta letalidade ou planejada."
+   ],
+   "instrumentos": [
+    "PDAS (Psychotic Depression Assessment Scale): combina 6 itens da HAM-D e 5 da BPRS, sensível a mudança nos sintomas psicóticos e depressivos.",
+    "BPRS para acompanhar os sintomas psicóticos; HAM-D ou MADRS para a gravidade depressiva.",
+    "C-SSRS para risco de suicídio."
+   ]
+  },
+  "diferencial": [
+   "Transtorno esquizoafetivo: sintomas psicóticos por 2 semanas ou mais sem episódio de humor.",
+   "Esquizofrenia com depressão pós-psicótica: psicose precede e excede o quadro afetivo.",
+   "Transtorno bipolar, episódio depressivo com características psicóticas: história de mania ou hipomania; exige estabilizador.",
+   "Delirium: flutuação do nível de consciência e atenção, início agudo, causa clínica.",
+   "Demência com sintomas psicóticos e depressivos: declínio cognitivo prévio e progressivo.",
+   "Psicose induzida por substância ou medicamento (corticoides, estimulantes, levodopa, abstinência de álcool).",
+   "Transtorno delirante somático ou de outro tipo: delírio persistente sem episódio depressivo maior."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "CANMAT 2023 e APA (Practice Guideline for MDD, 2010)",
+    "pontos": [
+     "Primeira linha: antidepressivo associado a antipsicótico, ou ECT. A monoterapia antidepressiva e a monoterapia antipsicótica são inferiores (revisão Cochrane de Wijkstra, 2015).",
+     "ECT é particularmente indicada quando há risco de suicídio, recusa alimentar, catatonia, gravidade extrema ou falha da combinação; as taxas de remissão na depressão psicótica são mais altas que na não psicótica.",
+     "Duração do teste da combinação: pelo menos 4 a 6 semanas em dose plena antes de declarar falha; se não houver resposta, ECT.",
+     "Internar quando houver risco de suicídio, recusa alimentar ou incapacidade de autocuidado."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "ISRS ou IRSN com antipsicótico de segunda geração (olanzapina tem a melhor evidência; quetiapina e aripiprazol são alternativas), ou ECT."
+     },
+     {
+      "linha": "Alternativa",
+      "texto": "Tricíclico (amitriptilina, nortriptilina) com antipsicótico, com cuidado cardíaco e em superdosagem."
+     },
+     {
+      "linha": "Após falha",
+      "texto": "ECT; depois dela, manutenção com antidepressivo e antipsicótico ou ECT de continuação."
+     }
+    ]
+   },
+   {
+    "fonte": "Ensaios STOP-PD (2009) e STOP-PD II (2019)",
+    "pontos": [
+     "STOP-PD: sertralina (150 a 200 mg) com olanzapina (15 a 20 mg) teve remissão de 42%, contra 24% com olanzapina isolada, em 12 semanas.",
+     "STOP-PD II: após remissão mantida com a combinação, continuar a olanzapina por 36 semanas reduziu a recaída (cerca de 20% contra 55% com placebo), ao custo de ganho de peso e alterações metabólicas.",
+     "Na prática: manter o antipsicótico por pelo menos 4 meses após a remissão e retirá-lo gradualmente depois, com vigilância; manter o antidepressivo por pelo menos 12 meses."
+    ]
+   },
+   {
+    "fonte": "NICE NG222 (2022) e Maudsley 15.ª ed. (2025)",
+    "pontos": [
+     "NICE: encaminhar a serviço especializado e considerar associar antipsicótico (olanzapina ou quetiapina) ao antidepressivo; oferecer ECT se a resposta for necessária com rapidez.",
+     "Maudsley: doses de antipsicótico semelhantes às da esquizofrenia de primeiro episódio (olanzapina 10 a 20 mg, quetiapina 300 a 600 mg, aripiprazol 10 a 15 mg), menores em idosos.",
+     "Após ECT, a recaída é alta sem continuação; no PRIDE (idosos), a combinação de venlafaxina e lítio com ECT de continuação flexível reduziu recaída."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Quadro grave, risco de suicídio, recusa alimentar ou catatonia",
+    "preferir": "ECT",
+    "evitar": "esperar semanas por resposta farmacológica"
+   },
+   {
+    "se": "Tratamento farmacológico inicial em adulto",
+    "preferir": "sertralina ou outro ISRS com olanzapina",
+    "evitar": "antidepressivo ou antipsicótico em monoterapia"
+   },
+   {
+    "se": "Obesidade, diabetes ou síndrome metabólica",
+    "preferir": "ISRS com aripiprazol ou risperidona; ECT",
+    "evitar": "olanzapina, quetiapina em dose alta"
+   },
+   {
+    "se": "Idoso",
+    "preferir": "ECT; ISRS com olanzapina ou quetiapina em dose menor",
+    "evitar": "tricíclicos, antipsicóticos muito anticolinérgicos"
+   },
+   {
+    "se": "Transtorno bipolar",
+    "preferir": "lítio ou quetiapina, com antipsicótico se necessário; ECT",
+    "evitar": "antidepressivo sem estabilizador"
+   }
+  ],
+  "monitorar": [
+   "Sintomas psicóticos e depressivos (PDAS, BPRS, MADRS)",
+   "Ideação suicida, sobretudo na melhora da energia",
+   "Ingestão alimentar, hidratação e peso",
+   "Peso, glicemia e lipídios com antipsicótico",
+   "Sintomas extrapiramidais e acatisia",
+   "Sódio em idosos em uso de ISRS",
+   "Cognição durante a ECT"
+  ]
+ },
+ "Depressão pós-parto": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): episódio depressivo maior com especificador \"com início no periparto\"",
+   "cid": "CID-10 F32 ou F33 (ou F53.0 para depressão pós-natal sem outra especificação); CID-11 6E20 (transtorno mental associado à gestação, parto e puerpério, sem sintomas psicóticos)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Critérios de episódio depressivo maior: 5 de 9 sintomas por pelo menos 2 semanas, com humor deprimido ou anedonia, prejuízo significativo, sem causa por substância ou condição médica."
+    },
+    {
+     "r": "B",
+     "t": "Início do episódio durante a gestação ou nas 4 semanas seguintes ao parto (especificador com início no periparto)."
+    },
+    {
+     "r": "C",
+     "t": "Ausência de mania ou hipomania prévia; se houver, o episódio é classificado como transtorno bipolar com início no periparto."
+    }
+   ],
+   "especificadores": [
+    "Com início no periparto (aplicável também a episódios maníacos, hipomaníacos e ao transtorno bipolar).",
+    "Com características psicóticas: a psicose puerperal costuma surgir nas primeiras 2 semanas e está fortemente ligada ao transtorno bipolar.",
+    "Com sintomas ansiosos (muito comum no puerpério)."
+   ],
+   "notas": [
+    "Cerca de metade dos episódios pós-parto começa ainda na gestação, por isso o DSM-5-TR usa o termo periparto.",
+    "Na prática clínica e em diretrizes (ACOG, NICE), considera-se depressão perinatal a que surge na gestação ou em até 12 meses após o parto.",
+    "CID-11: a categoria 6E20 exige início em cerca de 6 semanas após o parto; na maioria das vezes, prefere-se codificar o episódio depressivo específico.",
+    "Baby blues: labilidade, choro e ansiedade leves entre o 3.º e o 5.º dia, com resolução espontânea em até 2 semanas; não preenche critérios."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Como você tem se sentido desde que o bebê nasceu? Mais triste, sem prazer, chorando muito?",
+    "Consegue dormir quando o bebê dorme, ou fica acordada mesmo cansada?",
+    "Sente-se capaz de cuidar do bebê? Sente culpa por não ser a mãe que gostaria?",
+    "Tem sentido algo pelo bebê? Como está o vínculo com ele?",
+    "Tem pensamentos assustadores de que algo ruim vai acontecer ao bebê, ou de machucá-lo sem querer? Como reage a eles?",
+    "Já pensou em se machucar, em morrer ou que o bebê ficaria melhor sem você?",
+    "Já teve depressão, transtorno bipolar ou episódios semelhantes em gestações anteriores? Parou algum remédio psiquiátrico na gestação?",
+    "Tem ajuda em casa? Como está a relação com o parceiro? Sente-se segura em casa?",
+    "Teve dias com energia excessiva, pouca necessidade de sono, ideias aceleradas ou estranhas?"
+   ],
+   "sinais": [
+    "Sintomas que persistem além de 2 semanas após o parto ou que pioram em vez de melhorar.",
+    "Insônia mesmo quando o bebê dorme, perda de apetite e isolamento.",
+    "Ansiedade intensa, preocupação excessiva com a saúde do bebê, checagens repetidas.",
+    "Dificuldade no vínculo, evitação do bebê ou falas de incapacidade.",
+    "História de depressão, depressão perinatal prévia, transtorno bipolar próprio ou familiar, suspensão abrupta de antidepressivo na gestação.",
+    "Estressores: gravidez não planejada, falta de apoio, violência por parceiro íntimo, prematuridade ou internação do bebê em UTI neonatal, complicações obstétricas, perda gestacional prévia.",
+    "Consultas pediátricas frequentes por queixas vagas do bebê."
+   ],
+   "instrumentos": [
+    "EPDS (Escala de Depressão Pós-Parto de Edimburgo, 10 itens): 10 ou mais sugere depressão possível (ponto de corte validado no Brasil); 13 ou mais indica depressão provável. Qualquer pontuação diferente de zero no item 10 (autolesão) exige avaliação imediata do risco.",
+    "PHQ-9: 10 ou mais, como na depressão maior.",
+    "MDQ antes de iniciar antidepressivo, pelo risco de bipolaridade.",
+    "ACOG recomenda rastrear ao menos uma vez na gestação e novamente na consulta puerperal; a AAP recomenda rastrear a mãe nas consultas do bebê com 1, 2, 4 e 6 meses."
+   ]
+  },
+  "diferencial": [
+   "Baby blues: leve, surge entre 3 e 5 dias, resolve em até 2 semanas, sem prejuízo significativo.",
+   "Psicose puerperal: início abrupto nas primeiras semanas, confusão, insônia grave, delírios ou alucinações, labilidade intensa; emergência psiquiátrica com internação.",
+   "Transtorno bipolar com início no pós-parto: sintomas mistos, hipomania, história familiar; antidepressivo isolado pode desestabilizar.",
+   "TOC perinatal: pensamentos intrusivos egodistônicos de dano ao bebê, com evitação e rituais, sem intenção; não indicam risco de agressão.",
+   "TEPT relacionado ao parto: revivescências, evitação e hipervigilância após parto traumático.",
+   "Tireoidite pós-parto: hipertireoidismo transitório entre 1 e 4 meses seguido de hipotireoidismo; dosar TSH.",
+   "Anemia, privação de sono e exaustão física: melhoram com correção e sono, sem anedonia persistente.",
+   "Síndrome de Sheehan (rara): hemorragia no parto, falha da lactação, amenorreia, fadiga."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "ACOG Clinical Practice Guidelines 4 e 5 (2023)",
+    "pontos": [
+     "Rastrear depressão e ansiedade com instrumento validado na gestação e no puerpério, sempre com fluxo definido para avaliação e tratamento dos positivos.",
+     "Leve: psicoterapia (TCC ou terapia interpessoal) como primeira opção.",
+     "Moderada a grave: ISRS são a farmacoterapia de primeira linha; sertralina e escitalopram são opções iniciais razoáveis. Se uma paciente respondeu a um fármaco antes, preferir o mesmo.",
+     "Não suspender antidepressivo eficaz por causa da amamentação: os benefícios do aleitamento e do tratamento superam os riscos na maioria dos casos.",
+     "Zuranolona (50 mg à noite por 14 dias, com alimento gorduroso) é recomendada nos EUA para depressão pós-parto moderada a grave; causa sonolência e proíbe dirigir por 12 horas após a dose. Não disponível no Brasil.",
+     "Prevenção: encaminhar gestantes com fatores de risco para intervenções psicológicas (recomendação da USPSTF 2019)."
+    ]
+   },
+   {
+    "fonte": "NICE CG192 (2014, atualizada em 2020)",
+    "pontos": [
+     "Depressão leve a moderada: autoajuda guiada ou intervenção psicológica breve (TCC, terapia interpessoal) em até 1 mês do encaminhamento.",
+     "Moderada a grave: intervenção psicológica de alta intensidade, antidepressivo ou a combinação; considerar antidepressivo se houve boa resposta prévia, se a paciente prefere ou se há gravidade.",
+     "Discutir sempre riscos e benefícios do tratamento e da depressão não tratada para mãe e bebê, e registrar a decisão compartilhada.",
+     "Pensamentos de dano ao bebê, sintomas psicóticos ou maníacos e ideação suicida exigem avaliação especializada no mesmo dia.",
+     "Mulheres com transtorno bipolar ou psicose puerperal prévia: plano de cuidado antes do parto e profilaxia no pós-parto imediato."
+    ]
+   },
+   {
+    "fonte": "Maudsley 15.ª ed. (2025) e dados de lactação (LactMed)",
+    "pontos": [
+     "Sertralina e paroxetina têm as menores doses relativas no lactente; escitalopram é aceitável; fluoxetina e citalopram têm mais passagem e metabólitos de meia-vida longa.",
+     "Mirtazapina e nortriptilina são alternativas compatíveis com a lactação.",
+     "Doses: sertralina de 50 a 200 mg, com o mesmo alvo de remissão da depressão maior; ajustar a dose que a paciente usava na gestação, que costuma ter sido aumentada no terceiro trimestre.",
+     "Observar no lactente sonolência, sucção fraca, irritabilidade e ganho de peso, sobretudo em prematuros e nas primeiras semanas.",
+     "Lítio na lactação exige decisão caso a caso e monitorização do lactente (litemia, TSH e creatinina); valproato deve ser evitado em mulheres com potencial de nova gestação.",
+     "ECT é opção segura e rápida nos quadros graves, psicóticos ou com recusa alimentar."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Já usou um ISRS com boa resposta na gestação ou antes",
+    "preferir": "manter ou retomar o mesmo fármaco",
+    "evitar": "trocar só por causa da amamentação"
+   },
+   {
+    "se": "Amamentando, sem tratamento prévio",
+    "preferir": "sertralina, paroxetina ou escitalopram",
+    "evitar": "fluoxetina e citalopram como primeira escolha, doxepina"
+   },
+   {
+    "se": "Insônia intensa e perda de apetite",
+    "preferir": "mirtazapina ou sertralina com medidas de proteção do sono",
+    "evitar": "benzodiazepínicos de meia-vida longa"
+   },
+   {
+    "se": "História pessoal ou familiar de bipolaridade",
+    "preferir": "estabilizador (lítio, quetiapina, lamotrigina) e avaliação especializada",
+    "evitar": "antidepressivo em monoterapia"
+   },
+   {
+    "se": "Quadro grave, psicótico ou com ideação suicida",
+    "preferir": "internação, ECT, antipsicótico com antidepressivo ou estabilizador",
+    "evitar": "tratamento ambulatorial isolado"
+   }
+  ],
+  "monitorar": [
+   "EPDS ou PHQ-9 a cada consulta",
+   "Ideação suicida e pensamentos de dano ao bebê (e sua qualidade: intrusivos ou com intenção)",
+   "Sono e rede de apoio",
+   "Sinais no lactente: sonolência, sucção, irritabilidade, ganho de peso",
+   "Virada hipomaníaca, sintomas mistos ou psicóticos",
+   "TSH se houver sintomas sugestivos de tireoidite"
+  ]
+ },
+ "TDPM": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno disfórico pré-menstrual",
+   "cid": "CID-11 GA34.41; na CID-10 da OMS não há código próprio (usa-se N94.3, síndrome de tensão pré-menstrual)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Na maioria dos ciclos do último ano, pelo menos 5 sintomas presentes na última semana antes da menstruação, que começam a melhorar poucos dias após o início do fluxo e ficam mínimos ou ausentes na semana pós-menstrual."
+    },
+    {
+     "r": "B",
+     "t": "Pelo menos 1 destes sintomas afetivos:",
+     "sub": [
+      "Labilidade afetiva acentuada (mudanças súbitas de humor, choro, sensibilidade à rejeição).",
+      "Irritabilidade ou raiva acentuadas, ou aumento de conflitos interpessoais.",
+      "Humor deprimido acentuado, desesperança ou autodepreciação.",
+      "Ansiedade ou tensão acentuadas, sensação de estar no limite."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "Pelo menos 1 destes sintomas adicionais, para completar 5 no total com os do critério B:",
+     "sub": [
+      "Menor interesse pelas atividades habituais.",
+      "Dificuldade de concentração.",
+      "Letargia, fadiga fácil, falta de energia.",
+      "Mudança acentuada do apetite, comer em excesso ou desejos por alimentos específicos.",
+      "Hipersonia ou insônia.",
+      "Sensação de estar sobrecarregada ou fora de controle.",
+      "Sintomas físicos: mastalgia ou edema mamário, dor articular ou muscular, sensação de inchaço, ganho de peso."
+     ]
+    },
+    {
+     "r": "D",
+     "t": "Sofrimento clinicamente significativo ou interferência no trabalho, na escola, nas atividades sociais ou nos relacionamentos."
+    },
+    {
+     "r": "E",
+     "t": "Não é apenas exacerbação de outro transtorno (depressivo maior, de pânico, depressivo persistente, de personalidade), embora possa coexistir com eles."
+    },
+    {
+     "r": "F",
+     "t": "O critério A deve ser confirmado por registros diários prospectivos durante pelo menos 2 ciclos sintomáticos. Antes disso, o diagnóstico é provisório."
+    },
+    {
+     "r": "G",
+     "t": "Os sintomas não se devem a substância (droga, medicamento, outro tratamento) ou a outra condição médica, como hipertireoidismo."
+    }
+   ],
+   "notas": [
+    "Os sintomas devem ocorrer em ciclos ovulatórios; com contraceptivo hormonal, só diagnosticar se os sintomas persistirem, e pode ser necessário registrar ciclos sem ele.",
+    "A síndrome pré-menstrual difere pelo menor número ou menor intensidade de sintomas e pela ausência de exigência de sintoma afetivo.",
+    "Na exacerbação pré-menstrual de outro transtorno, os sintomas estão presentes o mês inteiro e só pioram na fase lútea; os registros diários mostram a ausência de janela livre na fase folicular.",
+    "Prevalência em 12 meses de 1,8 a 5,8% das mulheres que menstruam."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Seu humor muda nos dias antes da menstruação? Como fica: irritada, triste, ansiosa, chorosa?",
+    "Esses sintomas melhoram nos primeiros dias da menstruação e somem na semana seguinte?",
+    "Isso acontece na maioria dos ciclos? Desde quando?",
+    "Nesses dias, há brigas em casa ou no trabalho, faltas, queda de rendimento?",
+    "No restante do mês, você se sente bem ou os sintomas continuam em menor grau?",
+    "Usa anticoncepcional hormonal, DIU hormonal ou outro hormônio? Os sintomas mudaram com isso?",
+    "Seus ciclos são regulares? Tem ondas de calor ou mudança recente do padrão menstrual?",
+    "Já teve depressão, pensamentos de morte ou episódios de muita energia fora do período pré-menstrual?",
+    "Planeja engravidar em breve?"
+   ],
+   "sinais": [
+    "Irritabilidade e conflitos cíclicos relatados pela paciente ou pelo parceiro.",
+    "Queixas de humor que surgem sempre na mesma fase do ciclo.",
+    "Consultas repetidas por ansiedade, insônia ou cefaleia em datas próximas à menstruação.",
+    "Ideação suicida ou autolesão concentradas na fase lútea.",
+    "Piora do humor com início de contraceptivo com progestagênio, ou melhora na gestação e na amenorreia.",
+    "Início após a menarca, piora após o parto ou na perimenopausa."
+   ],
+   "instrumentos": [
+    "DRSP (Daily Record of Severity of Problems): diário prospectivo por pelo menos 2 ciclos, necessário para confirmar o diagnóstico; aumento de pelo menos 30% na intensidade dos sintomas na fase lútea em relação à fase folicular é o critério usual de ciclicidade.",
+    "PSST (Premenstrual Symptoms Screening Tool): rastreio retrospectivo que identifica casos a serem confirmados com diário prospectivo.",
+    "Aplicativos de registro de ciclo podem substituir o papel, desde que o registro seja diário."
+   ]
+  },
+  "diferencial": [
+   "Síndrome pré-menstrual: sintomas físicos e afetivos mais leves, sem prejuízo acentuado, sem os 5 sintomas exigidos.",
+   "Exacerbação pré-menstrual de depressão, ansiedade ou transtorno bipolar: sintomas persistem na fase folicular no diário prospectivo.",
+   "Transtorno de personalidade borderline: labilidade e irritabilidade sem relação com o ciclo.",
+   "Perimenopausa: ciclos irregulares, ondas de calor, sintomas afetivos sem padrão lúteo claro; FSH e história ajudam.",
+   "Efeito adverso de contraceptivo hormonal ou de progestagênio: início após começar o método.",
+   "Hipotireoidismo ou hipertireoidismo: dosar TSH se houver sintomas sugestivos.",
+   "Dismenorreia, endometriose e enxaqueca menstrual: dor predomina e pode se sobrepor ao quadro afetivo."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "ACOG Clinical Practice Guideline 7 (2023): transtornos pré-menstruais",
+    "pontos": [
+     "Confirmar o diagnóstico com registro prospectivo de pelo menos 2 ciclos.",
+     "ISRS são primeira linha no TDPM, em uso contínuo, só na fase lútea (do 14.º dia do ciclo até a menstruação) ou apenas a partir do início dos sintomas.",
+     "Contraceptivo oral combinado com drospirenona 3 mg e etinilestradiol 20 mcg (regime 24/4 ou contínuo) é opção para quem também deseja contracepção.",
+     "TCC tem evidência para reduzir prejuízo e sintomas; recomendar exercício aeróbico, sono regular e redução de álcool e cafeína.",
+     "Suplementação de cálcio (em torno de 1.200 mg/dia) pode reduzir sintomas afetivos e físicos.",
+     "Agonista de GnRH com reposição hormonal (add-back) para casos graves e refratários, com o ginecologista."
+    ],
+    "linhas": [
+     {
+      "linha": "Primeira linha",
+      "texto": "ISRS: fluoxetina 20 mg, sertralina 50 a 150 mg, paroxetina 10 a 20 mg, escitalopram 10 a 20 mg ou citalopram 10 a 30 mg; resposta costuma aparecer já no primeiro ciclo."
+     },
+     {
+      "linha": "Segunda linha",
+      "texto": "Contraceptivo com drospirenona e etinilestradiol; venlafaxina 75 a 150 mg; troca para outro ISRS; aumento de dose ou passagem para uso contínuo."
+     },
+     {
+      "linha": "Terceira linha",
+      "texto": "Agonista de GnRH (leuprorrelina, gosserrelina) com estrogênio e progestagênio de reposição."
+     },
+     {
+      "linha": "Último recurso",
+      "texto": "Histerectomia com salpingo-ooforectomia bilateral, após teste de resposta ao GnRH, com terapia hormonal subsequente."
+     }
+    ]
+   },
+   {
+    "fonte": "RCOG Green-top Guideline 48 (2016)",
+    "pontos": [
+     "Abordagem em degraus: primeiro exercício, TCC, contraceptivo combinado de nova geração e ISRS contínuo ou na fase lútea.",
+     "Segundo passo: ISRS em dose maior, contínuo ou fase lútea, ou estradiol transdérmico com progestagênio (DIU de levonorgestrel para proteção endometrial).",
+     "Terceiro passo: análogo de GnRH com add-back; usar por mais de 6 meses exige densitometria óssea.",
+     "Quarto passo: cirurgia, somente após resposta confirmada ao GnRH.",
+     "Não recomenda progesterona isolada nem benzodiazepínicos como tratamento principal."
+    ]
+   },
+   {
+    "fonte": "Maudsley 15.ª ed. (2025) e ensaios clínicos",
+    "pontos": [
+     "O uso intermitente funciona porque o efeito do ISRS no TDPM ocorre em horas a dias, possivelmente por ação rápida sobre a alopregnanolona (hipótese), diferente da latência na depressão maior.",
+     "Preferir uso contínuo se houver comorbidade depressiva ou ansiosa, ciclos irregulares ou sintomas que começam cedo na fase lútea.",
+     "No uso intermitente, sintomas de descontinuação são pouco frequentes; são menos prováveis com fluoxetina e mais com paroxetina.",
+     "Não há evidência para diuréticos (exceto espironolactona para edema) nem para progesterona como tratamento do TDPM."
+    ]
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Sintomas apenas na fase lútea, ciclos regulares, sem comorbidade",
+    "preferir": "ISRS só na fase lútea ou a partir do início dos sintomas",
+    "evitar": "benzodiazepínicos"
+   },
+   {
+    "se": "Depressão ou ansiedade comórbida, ou ciclos irregulares",
+    "preferir": "ISRS contínuo",
+    "evitar": "uso intermitente"
+   },
+   {
+    "se": "Deseja contracepção, sem contraindicação a estrogênio",
+    "preferir": "drospirenona com etinilestradiol 24/4 ou contínuo",
+    "evitar": "progestagênio isolado se houve piora do humor com ele"
+   },
+   {
+    "se": "Contraindicação a estrogênio (enxaqueca com aura, tabagismo após 35 anos, trombose prévia)",
+    "preferir": "ISRS, TCC",
+    "evitar": "contraceptivo combinado"
+   },
+   {
+    "se": "Tentando engravidar",
+    "preferir": "TCC, exercício; se necessário, sertralina",
+    "evitar": "contraceptivo combinado, agonista de GnRH"
+   },
+   {
+    "se": "Refratária a ISRS e contraceptivo",
+    "preferir": "agonista de GnRH com add-back, com ginecologista",
+    "evitar": "somar psicofármacos sem confirmar o diagnóstico"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Adolescentes",
+    "texto": "Confirmar com diário prospectivo; TCC e medidas de estilo de vida primeiro. ISRS (fluoxetina, sertralina) ou contraceptivo com drospirenona nos casos com prejuízo; vigiar ideação suicida no início do ISRS."
+   },
+   {
+    "grupo": "Perimenopausa",
+    "texto": "Ciclos irregulares tornam difícil o uso na fase lútea; preferir ISRS contínuo e considerar terapia hormonal quando indicada pela ginecologia."
+   },
+   {
+    "grupo": "Transtorno bipolar",
+    "texto": "A piora pré-menstrual é comum; otimizar o estabilizador antes de introduzir ISRS, que pode desestabilizar o humor."
+   },
+   {
+    "grupo": "Gestação e pós-parto",
+    "texto": "Os sintomas desaparecem na gestação; mulheres com TDPM têm maior risco de depressão pós-parto e merecem rastreio."
+   }
+  ],
+  "monitorar": [
+   "DRSP durante os primeiros ciclos de tratamento",
+   "Ideação suicida na fase lútea",
+   "Disfunção sexual e outros efeitos dos ISRS",
+   "PA e risco trombótico com contraceptivo combinado",
+   "Sintomas de hipoestrogenismo e densidade óssea com agonista de GnRH"
+  ]
+ }
+}

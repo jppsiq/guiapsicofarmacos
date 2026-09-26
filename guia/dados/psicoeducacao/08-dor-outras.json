@@ -1,0 +1,417 @@
+{
+ "Dor neuropática": [
+  {
+   "id": "o-que-e-dor-neuropatica",
+   "titulo": "Dor neuropática: o que é e como se trata",
+   "subtitulo": "Quando a dor nasce do próprio nervo",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A dor neuropática acontece quando um **nervo** foi lesionado ou está doente. Em vez de só avisar sobre um machucado, o nervo passa a mandar sinais de dor por conta própria.\n\nAlgumas causas comuns são o diabetes (dor nos pés), o herpes-zóster (dor que fica depois das bolhas), um nervo apertado na coluna (dor que desce pela perna ou pelo braço), um AVC e a neuralgia do trigêmeo (choques no rosto)."},
+    {"tipo": "lista", "titulo": "Como ela costuma ser sentida", "itens": ["Queimação, ardor ou sensação de choque", "Formigamento, agulhadas ou dormência", "Dor com um toque leve, como o lençol encostando na pele", "Piora à noite ou no frio, em muitas pessoas"]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "Os analgésicos comuns (como dipirona e paracetamol) e os anti-inflamatórios costumam ajudar pouco neste tipo de dor. Os remédios mais usados agem no **sistema nervoso**, acalmando os sinais de dor:\n\n• alguns **antidepressivos** (como duloxetina, venlafaxina, amitriptilina e nortriptilina), usados aqui pelo efeito sobre a dor, mesmo em quem não tem depressão;\n\n• remédios da família dos **anticonvulsivantes** (como gabapentina e pregabalina; na neuralgia do trigêmeo, carbamazepina ou oxcarbazepina);\n\n• pomadas ou adesivos, quando a dor fica em uma área pequena.\n\nTratar a causa também importa: controlar bem o açúcar no diabetes, por exemplo, protege os nervos."},
+    {"tipo": "destaque", "titulo": "Uma expectativa honesta", "texto": "O tratamento raramente zera a dor. Uma **redução de 30% a 50%** já é considerada um bom resultado, principalmente se você volta a dormir melhor e a fazer o que gosta. Às vezes é preciso testar mais de um remédio."},
+    {"tipo": "lista", "titulo": "O que também ajuda", "itens": ["Movimentar o corpo com regularidade, com orientação de fisioterapia", "Dormir bem: a falta de sono aumenta a dor", "Cuidar do humor: dor e tristeza se alimentam", "No diabetes, olhar os pés todos os dias, porque a dormência pode esconder feridas"]}
+   ],
+   "ajuda": ["Fraqueza nova em braço ou perna, ou perda de controle da urina ou das fezes", "Ferida nos pés que não cicatriza ou fica vermelha e quente", "Pensamentos de morte ou de que a vida não vale a pena por causa da dor"],
+   "fonte": "NeuPSIG (Finnerup et al., 2015); NICE CG173"
+  },
+  {
+   "id": "remedios-dor-neuropatica",
+   "titulo": "Remédios para dor neuropática: o que esperar",
+   "subtitulo": "Paciência nas primeiras semanas e cuidados com a segurança",
+   "publico": "Paciente",
+   "figura": "curva-remedio",
+   "figura_legenda": "Os efeitos colaterais costumam aparecer antes e diminuir; o alívio da dor vem aos poucos, em semanas.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que começar devagar", "texto": "Estes remédios começam em **dose baixa** e sobem aos poucos. Assim o corpo se acostuma e os efeitos colaterais ficam menores. Por isso o alívio não é imediato: em geral são necessárias **algumas semanas** na dose certa para saber se o remédio funciona.\n\nSe depois de um tempo adequado não houver melhora, a equipe pode trocar ou associar outro remédio. Isso é comum e não significa que o seu caso não tem jeito."},
+    {"tipo": "tabela", "titulo": "Efeitos mais comuns", "colunas": ["Grupo de remédios", "Efeitos que podem aparecer"], "linhas": [["Gabapentina e pregabalina", "Sonolência, tontura, inchaço nas pernas, ganho de peso"], ["Duloxetina e venlafaxina", "Náusea nos primeiros dias, suor, alteração do sono, aumento da pressão"], ["Amitriptilina e nortriptilina", "Boca seca, sonolência, intestino preso, tontura ao levantar"], ["Carbamazepina e oxcarbazepina", "Tontura, visão dupla, sódio baixo no sangue; exigem exames"]]},
+    {"tipo": "fazer", "titulo": "Cuidados importantes", "sim": ["Tome no horário combinado, todos os dias, mesmo nos dias com pouca dor", "Levante devagar da cama ou da cadeira se sentir tontura", "Avise a equipe sobre todos os remédios que você usa, inclusive para dormir e para dor", "Pergunte se é seguro dirigir enquanto a dose estiver sendo ajustada"], "nao": ["Parar de repente: pode voltar a dor ou surgir mal-estar, e com carbamazepina e oxcarbazepina há risco de crise convulsiva", "Beber álcool, que aumenta a sonolência e o risco de quedas", "Somar por conta própria calmantes, opioides ou outros remédios para dormir", "Aumentar a dose sozinho porque a dor apertou"]},
+    {"tipo": "anotar", "titulo": "Minhas anotações", "texto": "Nome do remédio, horário e dúvidas para a próxima consulta.", "linhas_vazias": 4}
+   ],
+   "ajuda": ["Manchas, bolhas ou feridas na pele ou na boca, principalmente nos primeiros meses de carbamazepina ou oxcarbazepina", "Sonolência forte, fala enrolada ou respiração lenta", "Confusão, tremores, febre e agitação juntos", "Pensamentos de se ferir"],
+   "fonte": "NeuPSIG (Finnerup et al., 2015); NICE CG173"
+  }
+ ],
+ "Dor crônica": [
+  {
+   "id": "entendendo-dor-cronica",
+   "titulo": "Entendendo a dor crônica",
+   "subtitulo": "Como a dor funciona e por que ela continua",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "A dor é um alarme", "texto": "A dor é um sinal de **proteção** produzido pelo cérebro. Quando você se machuca, ela avisa para você cuidar daquela parte do corpo. Na maioria das vezes, quando o tecido cicatriza, a dor vai embora.\n\nNa **dor crônica**, que dura mais de 3 meses, o alarme continua tocando mesmo quando o perigo já passou ou é pequeno. O sistema nervoso fica **sensível demais**, como um alarme de carro que dispara com o vento. A dor é real, não é \"coisa da cabeça\" nem fingimento."},
+    {"tipo": "lista", "titulo": "O que deixa o alarme mais sensível", "itens": ["Dormir mal", "Estresse, preocupação, tristeza e medo de se mexer", "Ficar muito parado, o que enfraquece músculos e articulações", "Fazer demais nos dias bons e \"pagar\" nos dias seguintes", "Isolamento e falta de atividades prazerosas"]},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+     {"mito": "Se dói, estou me machucando mais.", "fato": "Na dor crônica, **dor nem sempre significa dano**. Movimento gradual e orientado costuma ser seguro e ajuda o alarme a se acalmar."},
+     {"mito": "Só vou melhorar quando a dor sumir de vez.", "fato": "O objetivo é voltar a viver: dormir, trabalhar, passear. Muitas vezes a função melhora antes, e a dor diminui junto."},
+     {"mito": "Se o médico indicou antidepressivo, acha que a dor é psicológica.", "fato": "Alguns antidepressivos agem nos circuitos da dor, com efeito próprio, mesmo sem depressão."},
+     {"mito": "Remédio mais forte resolve.", "fato": "Opioides e calmantes costumam trazer pouco benefício a longo prazo na dor crônica e têm riscos importantes, como dependência e quedas."}
+    ]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "O tratamento que funciona melhor junta várias peças: **exercício gradual**, **terapia** (como a terapia cognitivo-comportamental, que ensina a lidar com a dor e retomar atividades), cuidado com o **sono** e o **humor** e, quando indicado, um remédio como duloxetina ou amitriptilina em dose baixa. O remédio é avaliado em 4 a 8 semanas e só continua se trouxer ganho real."},
+    {"tipo": "destaque", "titulo": "Para a família", "texto": "Acredite na dor da pessoa e, ao mesmo tempo, incentive pequenos passos de atividade. Fazer tudo por ela, com boa intenção, pode deixá-la mais parada e com mais dor."}
+   ],
+   "ajuda": ["Pensamentos de morte ou de que não aguenta mais viver com a dor", "Uso de mais remédio para dor do que o combinado, ou mistura com álcool ou calmantes", "Dor nova e diferente, com febre, perda de peso, fraqueza nas pernas ou perda de controle da urina"],
+   "fonte": "NICE NG193 (2021); IASP/CID-11 (Treede et al., 2019)"
+  },
+  {
+   "id": "dosar-atividades",
+   "titulo": "Dosar as atividades e voltar a se movimentar",
+   "subtitulo": "Sair do ciclo de exagerar e depois parar",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O ciclo do exagero", "texto": "Muitas pessoas com dor crônica fazem tudo de uma vez no dia em que estão melhor. No dia seguinte a dor aumenta e elas ficam de repouso por vários dias. Com o tempo, conseguem fazer cada vez menos.\n\n**Dosar as atividades** é fazer um pouco todos os dias, em quantidade planejada, sem esperar a dor mandar parar."},
+    {"tipo": "passos", "titulo": "Como dosar, passo a passo", "itens": ["Escolha uma atividade importante para você (caminhar, cozinhar, arrumar a casa).", "Descubra quanto você consegue fazer hoje, num dia comum, sem uma piora forte depois. Exemplo: caminhar 8 minutos.", "Comece com um pouco **menos** que isso: 6 minutos. Essa é sua linha de base.", "Faça essa quantidade todos os dias, nos dias bons e nos ruins.", "A cada semana, se estiver bem, aumente só um pouco (por exemplo, 1 minuto ou 10%).", "Divida tarefas longas em partes, com pausas curtas entre elas.", "Um aumento leve da dor, que passa em algumas horas, é esperado. Se a piora durar mais de um dia, volte para a quantidade anterior."]},
+    {"tipo": "lista", "titulo": "Exercício gradual", "itens": ["Caminhada, bicicleta ergométrica, hidroginástica e alongamento são boas opções para começar", "Fortalecimento com orientação de fisioterapia ou educador físico", "Práticas como tai chi, ioga ou pilates adaptados também ajudam", "O melhor exercício é aquele que você consegue manter"]},
+    {"tipo": "checklist", "titulo": "Sono e rotina", "itens": ["Deitar e levantar em horários parecidos todos os dias", "Evitar cochilos longos durante o dia", "Evitar café e energéticos à tarde e à noite", "Incluir uma atividade prazerosa por dia, mesmo pequena", "Manter contato com amigos e família"]},
+    {"tipo": "tabela", "titulo": "Meu plano da semana", "texto": "Anote a atividade, a quantidade combinada e marque o que conseguiu fazer.", "colunas": ["Atividade", "Quantidade", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"], "linhas": [], "linhas_vazias": 5}
+   ],
+   "fonte": "NICE NG193 (2021)"
+  },
+  {
+   "id": "diario-da-dor",
+   "titulo": "Diário da dor",
+   "subtitulo": "Anotar para entender o que piora e o que ajuda",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Para que serve", "texto": "O diário ajuda você e a equipe a enxergar **padrões**: horários de piora, atividades que ajudam, efeito dos remédios e relação com o sono e o humor. Leve-o às consultas.\n\nUse notas de **0 a 10**: 0 é nenhuma dor e 10 é a pior dor que você pode imaginar. Anote também quanto a dor **atrapalhou** suas atividades, de 0 (nada) a 10 (totalmente)."},
+    {"tipo": "tabela", "titulo": "Meu diário", "texto": "Preencha uma linha por dia, de preferência à noite.", "colunas": ["Data", "Dor (0 a 10)", "Atrapalhou (0 a 10)", "Sono (bom, médio, ruim)", "O que fiz", "Remédio extra", "Humor"], "linhas": [], "linhas_vazias": 14},
+    {"tipo": "lista", "titulo": "Na consulta, observe junto com a equipe", "itens": ["A dor média da semana mudou?", "Você está conseguindo fazer mais coisas?", "Quantos dias precisou de remédio extra?", "O sono e o humor melhoraram ou pioraram?"]},
+    {"tipo": "destaque", "titulo": "Lembre", "texto": "O sucesso não é só a nota da dor baixar. Voltar a caminhar, dormir melhor ou retomar um hobby também conta como melhora."}
+   ],
+   "fonte": "NICE NG193 (2021); escala PEG (Krebs et al., 2009)"
+  },
+  {
+   "id": "opioides-calmantes-dor",
+   "titulo": "Opioides e calmantes na dor crônica",
+   "subtitulo": "Riscos, cuidados e como reduzir com segurança",
+   "publico": "Paciente e família",
+   "figura": "reducao-gradual",
+   "figura_legenda": "A redução é feita em pequenos degraus, com pausas quando necessário.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que tanto cuidado", "texto": "**Opioides** (como tramadol, codeína, morfina, oxicodona e metadona) e **calmantes benzodiazepínicos** (como clonazepam, diazepam e alprazolam) podem aliviar por pouco tempo, mas na dor crônica o benefício costuma diminuir com os meses. Os riscos continuam: sonolência, quedas, intestino preso, dependência e, em doses altas ou em mistura, respiração lenta e overdose.\n\nCom o tempo, alguns opioides podem até **aumentar a sensibilidade à dor**."},
+    {"tipo": "destaque", "titulo": "Combinação perigosa", "texto": "Opioide junto com calmante, remédio para dormir ou álcool aumenta muito o risco de a respiração ficar lenta. Não misture sem orientação médica."},
+    {"tipo": "texto", "titulo": "Se você já usa há muito tempo", "texto": "Não pare de repente: isso pode causar abstinência (suor, diarreia, ansiedade, insônia, dor pelo corpo) e, com calmantes, até convulsão. Se o remédio não está trazendo ganho real na sua vida, a equipe pode propor uma **redução gradual**, em geral lenta, ao longo de meses. Você participa das decisões e pode pedir uma pausa se a redução ficar difícil.\n\nMuitas pessoas se surpreendem: ao reduzir, a dor fica igual ou até melhora, e a cabeça fica mais clara."},
+    {"tipo": "fazer", "titulo": "Uso seguro", "sim": ["Tomar só a dose combinada e guardar a receita e os horários", "Guardar os remédios trancados, longe de crianças e de outras pessoas", "Ter um único médico responsável pela prescrição", "Contar à equipe se sentir vontade forte de tomar mais"], "nao": ["Emprestar ou pegar remédio de outra pessoa", "Tomar dose extra para dormir ou para ansiedade", "Dirigir se estiver sonolento", "Parar de repente por conta própria"]}
+   ],
+   "ajuda": ["Pessoa muito sonolenta, difícil de acordar, com respiração lenta ou lábios arroxeados: ligue 192", "Confusão, fala enrolada ou quedas", "Uso fora do controle ou compra sem receita", "Pensamentos de morte"],
+   "fonte": "NICE NG193 (2021); CDC, prescrição de opioides (2022)"
+  }
+ ],
+ "Fibromialgia": [
+  {
+   "id": "o-que-e-fibromialgia",
+   "titulo": "Fibromialgia: o que é e como se trata",
+   "subtitulo": "Dor real, que tem tratamento",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A fibromialgia causa **dor espalhada pelo corpo**, cansaço, sono que não descansa e dificuldade de concentração e memória (às vezes chamada de \"névoa mental\"). Os exames costumam ser normais, porque o problema não está nos músculos ou nas articulações.\n\nO que acontece é que o **sistema nervoso processa a dor de forma amplificada**, como um volume que ficou alto demais. A dor é verdadeira, mesmo sem lesão visível."},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+     {"mito": "Fibromialgia é frescura ou invenção.", "fato": "É uma condição reconhecida, com diagnóstico definido por critérios médicos."},
+     {"mito": "Fibromialgia deforma as articulações ou paralisa.", "fato": "Ela não destrói articulações nem músculos. Pode limitar muito, mas não causa lesão permanente."},
+     {"mito": "Com dor, o melhor é repouso.", "fato": "O **exercício gradual** é o tratamento com melhor evidência. Repouso prolongado costuma piorar dor e cansaço."},
+     {"mito": "O remédio vai resolver sozinho.", "fato": "Remédios ajudam parte das pessoas, mas funcionam melhor junto com exercício, sono cuidado e terapia."}
+    ]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "A base é **entender a condição** e começar **exercício gradual**. Terapia cognitivo-comportamental e práticas como tai chi e ioga também ajudam.\n\nAlguns remédios podem ser usados: **amitriptilina** em dose baixa à noite (ajuda também o sono), **duloxetina** (ajuda também quando há depressão ou ansiedade) ou **pregabalina**. A avaliação do efeito é feita em algumas semanas; se não houver benefício claro, o remédio é suspenso. Opioides fortes e corticoides não são indicados.\n\nO objetivo é **melhorar a função**: fazer mais, dormir melhor e ter mais disposição."},
+    {"tipo": "lista", "titulo": "Para a família", "itens": ["Acredite na dor, mesmo que ela varie de um dia para o outro", "Incentive atividades em pequenas doses, sem cobrar demais", "Participe: uma caminhada juntos ajuda mais que muitos conselhos", "Fique atento a sinais de tristeza profunda"]}
+   ],
+   "ajuda": ["Tristeza intensa, desesperança ou pensamentos de morte", "Febre, perda de peso sem explicação, articulações inchadas ou vermelhas: podem indicar outra doença"],
+   "fonte": "ACR 2016; EULAR (Macfarlane et al., 2016)"
+  },
+  {
+   "id": "exercicio-gradual-fibromialgia",
+   "titulo": "Exercício gradual na fibromialgia",
+   "subtitulo": "Começar pequeno e crescer devagar",
+   "publico": "Paciente",
+   "figura": "escada-exposicao",
+   "figura_legenda": "Cada degrau é um pequeno aumento. Só suba quando o degrau atual estiver confortável.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que o exercício ajuda", "texto": "O exercício regular **acalma o sistema da dor**, melhora o sono, o humor e a disposição. No começo pode haver um pouco mais de dor muscular, como acontece com qualquer pessoa que volta a se exercitar. Isso não é sinal de dano e diminui com as semanas."},
+    {"tipo": "passos", "titulo": "Como começar", "itens": ["Escolha uma atividade de baixo impacto: caminhada, hidroginástica, bicicleta ergométrica ou alongamento.", "Comece com pouco: 5 a 10 minutos, em ritmo leve, em que você consegue conversar.", "Repita na maioria dos dias da semana, mesmo nos dias de mais dor (talvez com menos tempo).", "A cada 1 ou 2 semanas, aumente 2 a 5 minutos se estiver tolerando bem.", "A meta é chegar, aos poucos, a cerca de 30 minutos na maior parte dos dias.", "Depois, com orientação, inclua exercícios leves de fortalecimento 2 vezes por semana.", "Se tiver uma piora forte que dure mais de 1 ou 2 dias, volte ao degrau anterior, sem parar de vez."]},
+    {"tipo": "fazer", "titulo": "Dicas", "sim": ["Aquecer e alongar de leve antes e depois", "Preferir água morna quando possível", "Registrar o que fez para ver o progresso", "Dividir a atividade em 2 ou 3 partes curtas no dia"], "nao": ["Compensar os dias ruins fazendo muito nos dias bons", "Começar com treinos intensos ou longos", "Desistir na primeira semana de dor muscular"]},
+    {"tipo": "tabela", "titulo": "Registro do exercício", "colunas": ["Semana", "Atividade", "Minutos por dia", "Dias na semana", "Como me senti"], "linhas": [], "linhas_vazias": 8}
+   ],
+   "fonte": "EULAR (Macfarlane et al., 2016); diretriz alemã AWMF (2017)"
+  },
+  {
+   "id": "sono-cansaco-fibromialgia",
+   "titulo": "Sono e cansaço na fibromialgia",
+   "subtitulo": "Descansar melhor para doer menos",
+   "publico": "Paciente",
+   "figura": "rotina-dia",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Sono e dor andam juntos", "texto": "Dormir mal aumenta a sensibilidade à dor, e a dor atrapalha o sono. Cuidar do sono é uma das formas mais eficazes de quebrar esse ciclo. Se você ronca muito ou para de respirar dormindo, conte à equipe: a apneia do sono piora o cansaço."},
+    {"tipo": "checklist", "titulo": "Hábitos que ajudam o sono", "itens": ["Acordar no mesmo horário todos os dias, inclusive fim de semana", "Ir para a cama só quando estiver com sono", "Se não dormir em cerca de 20 minutos, levantar e fazer algo calmo em outro lugar", "Evitar cochilos longos; se precisar, no máximo 20 a 30 minutos antes das 15 horas", "Evitar café, chá preto, mate e refrigerante de cola à tarde e à noite", "Diminuir telas na última hora antes de dormir", "Fazer exercício de dia, não perto da hora de deitar", "Um banho morno à noite pode relaxar os músculos"]},
+    {"tipo": "lista", "titulo": "Economizar energia durante o dia", "itens": ["Planejar o dia e alternar tarefas pesadas e leves", "Fazer pausas curtas antes de ficar exausto", "Sentar para tarefas que dá para fazer sentado", "Pedir ajuda para tarefas muito pesadas, sem deixar de fazer o que consegue"]},
+    {"tipo": "destaque", "titulo": "Sobre remédios para dormir", "texto": "Calmantes do tipo benzodiazepínico e remédios para dormir usados por muito tempo não tratam a fibromialgia e podem piorar cansaço e memória. Se o sono não melhorar, a equipe pode indicar terapia para insônia ou ajustar o tratamento."}
+   ],
+   "fonte": "EULAR (Macfarlane et al., 2016); AASM"
+  }
+ ],
+ "Cefaleia e enxaqueca": [
+  {
+   "id": "o-que-e-enxaqueca",
+   "titulo": "Enxaqueca e dor de cabeça: o que é e como se trata",
+   "subtitulo": "Tratar a crise e prevenir novas crises",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Tipos mais comuns", "texto": "A **enxaqueca** é uma dor de cabeça em crises, muitas vezes de um lado só, latejante, que piora com esforço e vem com enjoo e incômodo com luz e barulho. Algumas pessoas têm \"aura\" antes: pontos brilhantes, falhas na visão ou formigamento que duram minutos.\n\nA **cefaleia tensional** é uma dor em aperto ou pressão, dos dois lados, geralmente mais leve e sem vômitos.\n\nA enxaqueca é uma condição do cérebro, muitas vezes herdada, e não um sinal de doença grave."},
+    {"tipo": "lista", "titulo": "Gatilhos frequentes", "texto": "Nem todos valem para todas as pessoas. O diário ajuda a descobrir os seus.", "itens": ["Dormir pouco ou demais, ou mudar muito o horário", "Pular refeições ou beber pouca água", "Estresse, e também o relaxamento logo depois dele", "Ciclo menstrual", "Álcool, principalmente vinho", "Excesso ou retirada brusca de cafeína"]},
+    {"tipo": "texto", "titulo": "Tratamento da crise", "texto": "Tome o remédio **no começo da dor**, não espere ela ficar forte. Anti-inflamatórios, dipirona ou paracetamol ajudam nas crises leves e moderadas; nas fortes, a equipe pode indicar um **triptano**. Um remédio para enjoo pode ser associado.\n\nCuidado: usar remédio para crise em muitos dias do mês faz a dor de cabeça ficar mais frequente (veja a ficha sobre uso excessivo de analgésicos)."},
+    {"tipo": "texto", "titulo": "Tratamento preventivo", "texto": "Quando as crises são frequentes (por exemplo, 4 ou mais dias com dor que atrapalha por mês), a equipe pode indicar um remédio **tomado todos os dias**, mesmo sem dor, para reduzir as crises. Exemplos: amitriptilina, propranolol, topiramato e venlafaxina. A escolha leva em conta o sono, o humor, o peso e a pressão.\n\nO efeito aparece aos poucos e só se avalia depois de **2 a 3 meses** na dose certa. O objetivo é reduzir as crises pela metade ou mais, não acabar com todas.\n\nMulheres que podem engravidar devem conversar sobre anticoncepção antes de usar **topiramato** ou **valproato**, que podem causar malformações no bebê."}
+   ],
+   "ajuda": ["Pior dor de cabeça da vida, que chega ao máximo em segundos ou em até 1 minuto", "Dor de cabeça com febre e rigidez na nuca", "Fraqueza, boca torta, fala enrolada, perda de visão ou confusão que não seja a aura de sempre", "Dor de cabeça depois de uma batida na cabeça", "Primeira dor de cabeça forte após os 50 anos, ou dor que muda de padrão e piora a cada semana"],
+   "fonte": "ICHD-3 (2018); American Headache Society (2021); NICE CG150"
+  },
+  {
+   "id": "diario-da-cefaleia",
+   "titulo": "Diário da cefaleia",
+   "subtitulo": "Registrar as crises para tratar melhor",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Como usar", "texto": "Anote **todos os dias com dor de cabeça**, mesmo os leves. Com 1 ou 2 meses de diário, você e a equipe conseguem ver quantos dias de dor há por mês, quais gatilhos se repetem, se o remédio da crise funciona e se você está tomando remédio demais.\n\nIntensidade: **1** leve (consigo fazer tudo), **2** moderada (atrapalha), **3** forte (preciso parar)."},
+    {"tipo": "tabela", "titulo": "Meu diário", "colunas": ["Data", "Hora de início", "Duração", "Intensidade (1 a 3)", "Enjoo, luz, barulho", "Possível gatilho", "Remédio e hora", "Aliviou? (sim, pouco, não)"], "linhas": [], "linhas_vazias": 15},
+    {"tipo": "checklist", "titulo": "No fim do mês, conte", "itens": ["Quantos dias tive dor de cabeça", "Quantos dias a dor me impediu de fazer minhas atividades", "Quantos dias tomei remédio para a crise", "Se houve relação com menstruação, sono ou alimentação"]},
+    {"tipo": "destaque", "titulo": "Sinal de atenção", "texto": "Se você toma remédio para a dor de cabeça em **mais de 2 dias por semana**, mostre o diário à equipe. Pode ser hora de um tratamento preventivo."}
+   ],
+   "fonte": "ICHD-3 (2018); American Headache Society (2021)"
+  },
+  {
+   "id": "uso-excessivo-analgesicos",
+   "titulo": "Uso excessivo de analgésicos",
+   "subtitulo": "Quando o remédio para dor passa a causar dor",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "Quem tem enxaqueca ou outra dor de cabeça frequente e toma remédio para a crise em muitos dias do mês pode desenvolver a **cefaleia por uso excessivo de medicação**. O cérebro se acostuma ao remédio e a dor passa a aparecer quase todos os dias, muitas vezes ao acordar.\n\nIsso não é culpa sua: é um efeito conhecido, que acontece com analgésicos comuns, anti-inflamatórios, triptanos e, com mais força, com remédios que têm codeína, tramadol ou outros opioides, e com combinações que têm cafeína."},
+    {"tipo": "destaque", "titulo": "Limites de referência", "texto": "Em geral, o risco aparece com remédio para crise em **10 dias ou mais por mês** (triptanos, opioides e combinações) ou **15 dias ou mais por mês** (analgésicos simples e anti-inflamatórios), por mais de 3 meses. Um limite prático e seguro é **não passar de 2 dias por semana**."},
+    {"tipo": "passos", "titulo": "Como se sai dessa situação", "itens": ["Converse com a equipe e mostre seu diário de cefaleia.", "Com orientação, o remédio usado em excesso é suspenso. Os analgésicos simples e triptanos costumam ser parados de uma vez; opioides e alguns outros são reduzidos aos poucos.", "Ao mesmo tempo, começa um tratamento preventivo, tomado todos os dias.", "As primeiras 1 a 2 semanas podem ter mais dor, náusea e irritação. A equipe pode indicar um plano para esse período.", "Depois disso, a maioria das pessoas melhora bastante, em geral em 1 a 2 meses.", "Mantenha o diário para não voltar ao excesso."]},
+    {"tipo": "fazer", "titulo": "No dia a dia", "sim": ["Usar o remédio da crise cedo, na dose certa, e só nos dias necessários", "Manter sono, refeições e água em horários regulares", "Usar o preventivo todos os dias, mesmo sem dor"], "nao": ["Tomar remédio \"por precaução\", antes de a dor começar", "Trocar de analgésico a cada dia achando que assim não conta", "Usar remédios com codeína, tramadol ou calmantes para dor de cabeça sem orientação"]}
+   ],
+   "ajuda": ["Dor de cabeça súbita e muito forte, com febre, rigidez na nuca, confusão, fraqueza ou alteração da fala", "Vômitos que não param e impedem de beber líquidos"],
+   "fonte": "ICHD-3 (2018); EAN, cefaleia por uso excessivo de medicação; American Headache Society (2021)"
+  }
+ ],
+ "Epilepsia": [
+  {
+   "id": "o-que-e-epilepsia",
+   "titulo": "Epilepsia: o que é e como se trata",
+   "subtitulo": "Uma condição comum, que na maioria das vezes se controla",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "O cérebro funciona com sinais elétricos. Na **epilepsia**, grupos de células do cérebro às vezes disparam de forma exagerada e ao mesmo tempo, causando uma **crise epiléptica**. A pessoa tem tendência a repetir essas crises.\n\nAs crises podem ser muito diferentes: queda com tremores e rigidez do corpo inteiro, desligamentos rápidos em que a pessoa fica olhando para o nada, movimentos repetidos de mão ou boca, sustos musculares ou sensações estranhas. Algumas crises atingem só uma parte do cérebro."},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+     {"mito": "Epilepsia é contagiosa, inclusive pela saliva.", "fato": "Epilepsia **não pega**. Ninguém se contamina ajudando uma pessoa em crise."},
+     {"mito": "A pessoa pode enrolar a língua e sufocar.", "fato": "Ninguém engole a língua. Colocar a mão ou objetos na boca machuca e é perigoso."},
+     {"mito": "Pessoa com epilepsia não pode trabalhar, estudar ou ter filhos.", "fato": "A maioria leva uma vida normal, estuda, trabalha e pode ter filhos, com planejamento."},
+     {"mito": "Epilepsia é doença mental.", "fato": "É uma condição neurológica. Mas ansiedade e depressão são mais comuns em quem tem epilepsia e têm tratamento."}
+    ]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "O tratamento principal são os **remédios anticrise** (também chamados anticonvulsivantes), tomados todos os dias. Cerca de **7 em cada 10 pessoas** ficam sem crises com eles. Se o primeiro remédio não funcionar ou não for bem tolerado, é possível trocar. Quando dois remédios adequados falham, existem outras opções em centros especializados, como cirurgia e dietas especiais.\n\nAnsiedade e depressão também devem ser tratadas: existem antidepressivos seguros para quem tem epilepsia e a psicoterapia ajuda muito. Avise sempre o neurologista antes de começar qualquer remédio novo, porque alguns interagem com os remédios anticrise."},
+    {"tipo": "lista", "titulo": "O que pode provocar crises", "itens": ["Esquecer ou atrasar o remédio", "Dormir pouco", "Álcool e outras drogas", "Febre e infecções", "Alguns remédios, inclusive certos antidepressivos e antipsicóticos em dose alta"]}
+   ],
+   "ajuda": ["Crise que dura mais de 5 minutos, ou crises seguidas sem a pessoa acordar entre elas: ligue 192", "Pensamentos de morte ou de se ferir, tristeza profunda ou mudanças fortes de comportamento depois de começar um remédio"],
+   "fonte": "ILAE (Fisher et al., 2014); NICE NG217 (2022); ILAE, depressão em epilepsia (Mula et al., 2022)"
+  },
+  {
+   "id": "primeiros-socorros-crise",
+   "titulo": "Primeiros socorros na crise convulsiva",
+   "subtitulo": "O que fazer e o que evitar",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "destaque", "titulo": "Mantenha a calma", "texto": "A maioria das crises para sozinha em **1 a 3 minutos**. Seu papel é **proteger** a pessoa e **marcar o tempo**."},
+    {"tipo": "passos", "titulo": "Durante a crise", "itens": ["Olhe o relógio e marque a hora de início.", "Afaste objetos duros ou pontudos e, se possível, coloque algo macio sob a cabeça.", "Afrouxe roupas apertadas no pescoço e retire os óculos.", "Não segure os movimentos. Deixe a crise acontecer.", "Não coloque nada na boca: nem dedos, nem panos, nem colher.", "Quando os tremores pararem, vire a pessoa **de lado**, para a saliva escorrer e a respiração ficar livre.", "Fique ao lado até ela acordar bem. É normal ficar confusa, sonolenta ou com dor de cabeça por um tempo.", "Fale com calma, explique o que aconteceu e deixe descansar."]},
+    {"tipo": "fazer", "titulo": "Resumo", "sim": ["Proteger a cabeça", "Virar de lado depois dos tremores", "Contar o tempo", "Ficar junto até a recuperação completa"], "nao": ["Colocar algo na boca ou puxar a língua", "Segurar os braços e pernas", "Jogar água ou dar algo para beber ou comer antes de acordar bem", "Deixar a pessoa sozinha"]},
+    {"tipo": "texto", "titulo": "Remédio de resgate", "texto": "Algumas pessoas têm prescrito um **remédio de resgate** (por exemplo, midazolam no nariz ou na bochecha) para crises longas. Se esse for o caso, peça à equipe que ensine exatamente **quando e como** usar e anote abaixo."},
+    {"tipo": "anotar", "titulo": "Meu plano para crises", "texto": "Como são minhas crises, remédio de resgate, quando usar e telefones de contato.", "linhas_vazias": 5}
+   ],
+   "ajuda": ["Crise com mais de 5 minutos", "Uma crise seguida de outra sem a pessoa acordar entre elas", "Dificuldade para respirar ou lábios arroxeados depois da crise", "Crise na água, com ferimento importante ou batida forte na cabeça", "Primeira crise da vida, crise em gestante ou em pessoa com diabetes", "A pessoa não volta ao normal depois de cerca de 30 minutos"],
+   "fonte": "AES, estado de mal epiléptico (Glauser et al., 2016); NICE NG217 (2022)"
+  },
+  {
+   "id": "seguranca-remedio-todo-dia",
+   "titulo": "Epilepsia no dia a dia: segurança e remédio todo dia",
+   "subtitulo": "Hábitos que evitam crises e acidentes",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O remédio é todo dia", "texto": "O remédio anticrise **protege enquanto está no sangue**. Por isso deve ser tomado todos os dias, nos horários combinados, mesmo quando você está há muito tempo sem crises. Esquecer doses é a causa mais comum de crises em quem estava controlado.\n\nNunca pare o remédio de repente: isso pode causar crises fortes e prolongadas. A retirada só é considerada depois de um bom tempo sem crises (em geral pelo menos 2 anos), junto com o neurologista, e sempre aos poucos."},
+    {"tipo": "checklist", "titulo": "Para não esquecer", "itens": ["Usar alarme no celular", "Usar caixinha organizadora de comprimidos da semana", "Deixar o remédio junto de algo que você faz todo dia, como escovar os dentes", "Buscar a nova receita antes de o remédio acabar", "Levar doses extras em viagens"]},
+    {"tipo": "lista", "titulo": "Se esquecer uma dose", "itens": ["Pergunte à equipe como agir com o seu remédio e anote a resposta", "Em geral, se lembrar logo, tome; se já estiver perto do próximo horário, não tome dose dobrada sem orientação"]},
+    {"tipo": "fazer", "titulo": "Segurança", "sim": ["Tomar banho de chuveiro, com a porta destrancada", "Nadar só acompanhado de alguém que sabe da epilepsia", "Dormir bem e em horários regulares", "Cozinhar preferindo as bocas de trás do fogão", "Usar capacete ao andar de bicicleta", "Contar a colegas de escola ou trabalho o que fazer em uma crise"], "nao": ["Tomar banho de banheira ou nadar sozinho", "Subir em lugares altos sem proteção enquanto as crises não estiverem controladas", "Beber álcool em excesso ou usar drogas", "Dirigir sem liberação: a lei exige um período sem crises e avaliação médica; converse com seu neurologista"]},
+    {"tipo": "tabela", "titulo": "Registro de crises", "texto": "Leve às consultas.", "colunas": ["Data e hora", "Como foi a crise", "Duração", "Esqueci remédio? Dormi mal? Febre? Álcool?"], "linhas": [], "linhas_vazias": 8}
+   ],
+   "ajuda": ["Manchas, bolhas ou feridas na pele ou na boca depois de começar um remédio novo, sobretudo lamotrigina, carbamazepina, oxcarbazepina ou fenitoína", "Crise que dura mais de 5 minutos: ligue 192"],
+   "fonte": "NICE NG217 (2022); ILAE"
+  },
+  {
+   "id": "epilepsia-gestacao",
+   "titulo": "Epilepsia, anticoncepção e gravidez",
+   "subtitulo": "Planejar para proteger a mãe e o bebê",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "destaque", "titulo": "A mensagem principal", "texto": "A maioria das mulheres com epilepsia tem **gestações saudáveis**. O segredo é **planejar** com o neurologista antes de engravidar e **nunca parar o remédio por conta própria**, mesmo ao descobrir uma gravidez."},
+    {"tipo": "texto", "titulo": "Por que planejar", "texto": "Alguns remédios anticrise aumentam o risco de malformações e de problemas no desenvolvimento do bebê. O **valproato** (ácido valproico, divalproato) tem o maior risco: cerca de 1 em cada 10 bebês expostos tem malformação, e há também prejuízo no aprendizado. Por isso ele é evitado em mulheres que podem engravidar. **Topiramato**, **fenitoína**, **fenobarbital** e **carbamazepina** também exigem atenção. **Lamotrigina** e **levetiracetam** têm risco menor.\n\nPor outro lado, crises fortes durante a gravidez também são perigosas para a mãe e o bebê. O objetivo é usar o remédio mais seguro que controle as crises."},
+    {"tipo": "checklist", "titulo": "Antes de engravidar", "itens": ["Conversar com o neurologista sobre o desejo de engravidar", "Revisar o remédio e a dose, se preciso trocando com antecedência", "Começar **ácido fólico** antes da gravidez, conforme orientação", "Fazer o pré-natal avisando sobre a epilepsia"]},
+    {"tipo": "texto", "titulo": "Anticoncepção", "texto": "Alguns remédios anticrise (como carbamazepina, oxcarbazepina, fenitoína, fenobarbital e topiramato em dose alta) **diminuem o efeito da pílula** e de outros métodos hormonais. E a pílula com estrogênio **diminui o nível da lamotrigina** no sangue. Converse sobre o método mais seguro; o DIU costuma ser uma boa opção."},
+    {"tipo": "lista", "titulo": "Durante a gravidez e depois do parto", "itens": ["Os níveis de alguns remédios, principalmente a lamotrigina, caem na gravidez e sobem depois do parto: pode ser preciso ajustar a dose e fazer exames", "Na maioria dos casos é possível amamentar; confirme com a equipe", "Dormir é muito importante: combine com a família a ajuda nas mamadas da noite", "Para segurança, trocar a fralda e amamentar sentada no chão ou em lugar baixo, e dar banho no bebê com outra pessoa por perto"]}
+   ],
+   "ajuda": ["Gravidez descoberta usando valproato ou outro remédio anticrise: não pare, procure o neurologista com urgência", "Crise durante a gravidez: procure atendimento"],
+   "fonte": "NICE NG217 (2022); ILAE; alertas regulatórios sobre valproato na gestação"
+  }
+ ],
+ "Enurese": [
+  {
+   "id": "o-que-e-enurese",
+   "titulo": "Xixi na cama: o que é e como se trata",
+   "subtitulo": "Orientações para pais e cuidadores",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "**Enurese** é o nome dado ao xixi na cama durante o sono em crianças a partir de 5 anos. É muito comum: acontece com muitas crianças em idade escolar e, a cada ano, parte delas para sozinha.\n\nAs causas são do corpo, não de preguiça ou birra: a bexiga pode ser pequena para a quantidade de urina da noite, o corpo pode produzir muita urina à noite, e o sono pode ser tão profundo que a criança não acorda com a bexiga cheia. Costuma haver casos na família."},
+    {"tipo": "destaque", "titulo": "A criança não faz de propósito", "texto": "**Não brigue, não castigue e não exponha a criança.** Punições aumentam a vergonha e a ansiedade e atrasam a melhora. A criança precisa saber que vocês estão do lado dela."},
+    {"tipo": "fazer", "titulo": "Em casa", "sim": ["Oferecer bastante água de manhã e à tarde, e menos nas 1 a 2 horas antes de dormir", "Pedir para ir ao banheiro de 5 a 7 vezes durante o dia e logo antes de deitar", "Tratar o intestino preso, que piora o xixi na cama", "Deixar o caminho até o banheiro iluminado à noite", "Pedir ajuda da criança na troca de lençóis, sem tom de castigo", "Elogiar o esforço, como ir ao banheiro antes de dormir"], "nao": ["Castigar, gritar ou comparar com irmãos", "Contar para outras pessoas na frente da criança", "Premiar só as noites secas, que ela não controla", "Tirar toda a água à noite a ponto de passar sede", "Oferecer refrigerante, chá e bebidas com cafeína à noite"]},
+    {"tipo": "texto", "titulo": "Tratamentos", "texto": "Antes dos 5 a 6 anos, em geral só se orienta. Depois disso, as opções principais são:\n\n• **Alarme de enurese**: um sensor que toca quando a criança começa a molhar, ensinando o cérebro a perceber a bexiga cheia. É o tratamento com efeito mais duradouro, mas exige algumas semanas e dedicação da família.\n\n• **Desmopressina**: remédio que diminui a urina produzida à noite. Age rápido, é útil para viagens e acampamentos, mas o xixi pode voltar quando se para.\n\nOutros remédios, como a **imipramina**, ficam para casos especiais, com acompanhamento especializado."},
+    {"tipo": "lista", "titulo": "Cuidados com os remédios", "itens": ["Desmopressina: a criança não deve beber líquidos de 1 hora antes de tomar até a manhã seguinte. Se tiver vômitos ou diarreia, suspenda naquele dia e fale com a equipe", "Imipramina: guarde trancada e longe do alcance. Em excesso, mesmo poucos comprimidos podem ser muito perigosos para uma criança"]}
+   ],
+   "ajuda": ["Com desmopressina: dor de cabeça forte, vômitos, confusão, sonolência estranha ou convulsão", "Suspeita de que a criança ou outra pessoa tomou imipramina a mais: procure emergência imediatamente", "Xixi na roupa também de dia, dor ou ardor ao urinar, febre, jato fraco ou gotejamento", "Criança que voltou a molhar a cama depois de muito tempo seca, principalmente se tem muita sede ou emagreceu", "Roncos altos ou pausas na respiração durante o sono"],
+   "fonte": "ICCS (Nevéus et al., 2020); NICE CG111"
+  },
+  {
+   "id": "alarme-e-calendario",
+   "titulo": "Alarme de enurese e calendário das noites",
+   "subtitulo": "Passo a passo para usar o alarme e acompanhar o progresso",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Como o alarme funciona", "texto": "O alarme tem um pequeno sensor preso à roupa íntima (ou um tapete sensor na cama). Quando cai a primeira gota de urina, ele toca. Com o tempo, o cérebro aprende a **acordar antes** ou a **segurar** o xixi. Os resultados aparecem em algumas semanas; avalie com a equipe depois de 4 a 8 semanas."},
+    {"tipo": "passos", "titulo": "Passo a passo", "itens": ["Explique o alarme à criança e deixe que ela teste o som com a família de dia.", "Use **todas as noites**, sem pular.", "A criança vai ao banheiro antes de dormir e prende o sensor.", "Quando tocar, a criança deve **acordar de verdade**, desligar o alarme, terminar o xixi no banheiro e voltar a colocar o sensor.", "No começo, muitas crianças não acordam com o som. Um adulto deve ir até ela e ajudá-la a acordar, sem broncas.", "Troquem juntos o que for preciso e voltem a dormir.", "Anotem no calendário cada noite.", "Continue até completar **14 noites secas seguidas**.", "Para diminuir a volta do problema, a equipe pode orientar um período extra, com um pouco mais de água antes de dormir, ainda com o alarme."]},
+    {"tipo": "destaque", "titulo": "Recompense o esforço", "texto": "Combine pequenas recompensas por **cumprir o combinado** (ir ao banheiro antes de dormir, usar o alarme, levantar quando tocar), e não só pelas noites secas."},
+    {"tipo": "tabela", "titulo": "Calendário das noites", "texto": "Marque S para noite seca e M para noite molhada. Anote se o alarme tocou e se a criança acordou.", "colunas": ["Semana", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom", "Observações"], "linhas": [], "linhas_vazias": 10},
+    {"tipo": "lista", "titulo": "Se estiver difícil", "itens": ["Toda a família acorda e a criança não: é comum no início e melhora", "Muitas noites molhadas depois de 6 a 8 semanas: converse com a equipe; às vezes se associa desmopressina", "Momento de muito estresse em casa, mudança ou nascimento de irmão: pode ser melhor adiar o alarme"]}
+   ],
+   "fonte": "ICCS (Nevéus et al., 2020); NICE CG111"
+  }
+ ],
+ "Prurido": [
+  {
+   "id": "o-que-e-prurido",
+   "titulo": "Coceira crônica: o que é e como se trata",
+   "subtitulo": "Quando a coceira dura mais de 6 semanas",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "**Prurido** é o nome médico para coceira. Quando dura mais de 6 semanas é chamado de crônico. Pode vir de doenças da pele, mas também de problemas no fígado, nos rins, na tireoide, no sangue, nos nervos ou de efeito de remédios. Por isso a equipe pode pedir exames para achar a causa.\n\nEstresse, ansiedade e noites mal dormidas aumentam a coceira, e a coceira piora o sono e o humor. É comum formar um ciclo."},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "Primeiro se trata a **causa**, quando ela é encontrada. Ao mesmo tempo, cuida-se da pele e usam-se cremes e antialérgicos.\n\nQuando a coceira continua, a equipe pode indicar remédios que agem nos **nervos e no cérebro**, escolhidos pelo tipo de coceira: por exemplo, gabapentina ou pregabalina, mirtazapina à noite (ajuda também o sono), sertralina ou naltrexona. Esses remédios não significam que a coceira é \"psicológica\": eles agem nos caminhos da coceira no sistema nervoso. O efeito aparece em algumas semanas e pode ser parcial."},
+    {"tipo": "lista", "titulo": "Efeitos que podem aparecer", "itens": ["Sonolência e tontura, principalmente com gabapentina, pregabalina, mirtazapina e hidroxizina", "Aumento do apetite com mirtazapina", "Náusea nos primeiros dias com sertralina e naltrexona", "Idosos devem evitar antialérgicos que dão sono, pelo risco de confusão e quedas"]},
+    {"tipo": "destaque", "titulo": "Importante", "texto": "Se você usa algum remédio para dor forte do tipo opioide, avise antes de começar **naltrexona**: ela bloqueia esses remédios e pode causar abstinência."}
+   ],
+   "ajuda": ["Coceira com pele ou olhos amarelados, urina escura ou fezes claras", "Coceira com febre, suor noturno ou perda de peso sem explicação", "Manchas, bolhas ou feridas pelo corpo ou na boca depois de um remédio novo", "Sensação de estar com bichos na pele, com muita angústia ou sem dormir"],
+   "fonte": "Diretriz europeia S2k de prurido crônico (Weisshaar et al., 2019)"
+  },
+  {
+   "id": "cuidados-pele-cocar",
+   "titulo": "Cuidados com a pele e o ciclo de coçar",
+   "subtitulo": "Medidas práticas para aliviar e proteger a pele",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O ciclo coceira e coçar", "texto": "Coçar alivia por alguns segundos, mas **machuca a pele** e deixa os nervos mais sensíveis. Logo a coceira volta mais forte. Muitas vezes coçamos sem perceber, por hábito, na frente da TV ou quando estamos nervosos. Quebrar esse ciclo ajuda a pele a sarar."},
+    {"tipo": "checklist", "titulo": "Cuidados diários com a pele", "itens": ["Banho morno e curto, sem esfregar com bucha", "Sabonete suave, sem perfume, só nas áreas necessárias", "Secar a pele com leves toques da toalha", "Passar hidratante logo após o banho e mais vezes ao dia", "Roupas de algodão, leves e folgadas", "Unhas curtas e lixadas", "Quarto fresco à noite"]},
+    {"tipo": "passos", "titulo": "Quando vier a vontade de coçar", "itens": ["Perceba a vontade e dê um nome a ela: \"estou com vontade de coçar\".", "Feche as mãos ou segure um objeto por 1 minuto.", "Troque o coçar por algo que não machuca: compressa fria, pressionar a área com a palma da mão ou passar hidratante gelado.", "Mantenha as mãos ocupadas com outra atividade.", "Anote em que situações a vontade aparece mais, para evitar ou se preparar."]},
+    {"tipo": "fazer", "titulo": "Faça e evite", "sim": ["Usar cremes com mentol quando indicados pela equipe", "Cuidar do sono e do estresse", "Levar à consulta a lista de todos os remédios que usa"], "nao": ["Banho quente e demorado", "Álcool e roupas de lã em contato com a pele", "Usar pomadas ou antialérgicos por conta própria por longos períodos", "Beliscar, arrancar crostas ou usar objetos para coçar"]},
+    {"tipo": "anotar", "titulo": "Quando mais coço", "linhas_vazias": 4}
+   ],
+   "fonte": "Diretriz europeia S2k de prurido crônico (Weisshaar et al., 2019)"
+  }
+ ],
+ "Sintomas vasomotores": [
+  {
+   "id": "fogachos-o-que-sao",
+   "titulo": "Fogachos: o que são e como se tratam",
+   "subtitulo": "Calorões da menopausa e opções de tratamento",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que são", "texto": "**Fogachos** (ou calorões) são ondas de calor súbitas, principalmente no rosto, pescoço e peito, com vermelhidão e suor, às vezes com palpitação, seguidas de arrepio. Quando acontecem à noite, causam **suor noturno** e atrapalham o sono.\n\nEles surgem porque, com a queda dos hormônios na menopausa, o \"termostato\" do cérebro fica desregulado. Também podem aparecer com alguns tratamentos do câncer de mama, como o tamoxifeno. Costumam durar alguns anos e melhoram com o tempo, mas em algumas mulheres persistem por muito tempo."},
+    {"tipo": "texto", "titulo": "Opções de tratamento", "texto": "A **terapia hormonal** é a mais eficaz para muitas mulheres, mas não serve para todas. A decisão é tomada com a ginecologia.\n\nQuando o hormônio não é indicado ou não é desejado, há **remédios não hormonais**. Alguns antidepressivos em dose baixa (como venlafaxina, desvenlafaxina, escitalopram ou paroxetina) reduzem os fogachos mesmo em quem não tem depressão. A gabapentina à noite ajuda principalmente no suor noturno e no sono. O efeito costuma aparecer em 1 a 2 semanas e é avaliado em cerca de 4 semanas.\n\nA terapia cognitivo-comportamental e a hipnose clínica também reduzem o incômodo dos fogachos e melhoram o sono."},
+    {"tipo": "destaque", "titulo": "Se você usa tamoxifeno", "texto": "Avise **sempre** a equipe. Paroxetina, fluoxetina e bupropiona podem diminuir o efeito do tamoxifeno e devem ser evitadas. Existem outras opções seguras. Converse também com a oncologia antes de qualquer remédio novo."},
+    {"tipo": "lista", "titulo": "Efeitos que podem aparecer", "itens": ["Antidepressivos: náusea nos primeiros dias, boca seca, alteração do sono, redução do desejo sexual; não pare de repente", "Gabapentina: sonolência e tontura, principalmente no início", "Clonidina: pressão baixa e boca seca"]}
+   ],
+   "ajuda": ["Sangramento vaginal depois de 12 meses sem menstruar", "Suor noturno com febre ou perda de peso sem explicação", "Tristeza intensa, desesperança ou pensamentos de morte"],
+   "fonte": "The Menopause Society, terapia não hormonal (2023); NICE NG23"
+  },
+  {
+   "id": "fogachos-medidas-praticas",
+   "titulo": "Medidas práticas contra os fogachos",
+   "subtitulo": "Pequenas mudanças que trazem conforto",
+   "publico": "Paciente",
+   "figura": "respiracao",
+   "figura_legenda": "Respiração lenta no começo do calorão pode diminuir o incômodo.",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Para que servem", "texto": "Estas medidas não curam os fogachos, mas ajudam a passar por eles com mais conforto e a dormir melhor. Podem ser usadas junto com o tratamento."},
+    {"tipo": "checklist", "titulo": "No dia a dia", "itens": ["Vestir roupas em camadas, fáceis de tirar", "Preferir tecidos leves, como algodão", "Levar um leque ou ventilador pequeno", "Ter água gelada por perto", "Manter o quarto fresco e ventilado à noite", "Usar lençóis leves e ter uma roupa de dormir extra ao lado da cama", "Fazer atividade física regular", "Buscar um peso saudável, se houver excesso de peso", "Parar de fumar, com apoio do SUS se desejar"]},
+    {"tipo": "lista", "titulo": "Possíveis gatilhos", "texto": "Variam de pessoa para pessoa.", "itens": ["Bebidas quentes e café", "Álcool", "Comidas muito apimentadas", "Ambientes quentes e abafados", "Estresse"]},
+    {"tipo": "passos", "titulo": "Quando o fogacho começar", "itens": ["Perceba o início do calor.", "Respire devagar: puxe o ar em 4 tempos, segure 2 e solte em 6.", "Repita por alguns minutos, relaxando os ombros.", "Lembre que a onda passa em poucos minutos."]},
+    {"tipo": "tabela", "titulo": "Diário dos fogachos", "texto": "Ajuda a ver o efeito do tratamento. Intensidade: 1 leve, 2 moderado, 3 forte.", "colunas": ["Data", "Nº de fogachos de dia", "Nº à noite", "Intensidade maior (1 a 3)", "Acordei com suor? (sim ou não)", "Possível gatilho"], "linhas": [], "linhas_vazias": 14}
+   ],
+   "fonte": "The Menopause Society, terapia não hormonal (2023); NICE NG23"
+  }
+ ],
+ "Ejaculação precoce": [
+  {
+   "id": "o-que-e-ejaculacao-precoce",
+   "titulo": "Ejaculação precoce: o que é e como se trata",
+   "subtitulo": "Uma queixa comum, com tratamento eficaz",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "Ejaculação precoce é quando o homem ejacula **mais cedo do que gostaria**, quase sempre, com pouco controle, e isso traz **incômodo** para ele ou para a relação. É uma das queixas sexuais mais comuns.\n\nAlguns homens têm isso desde as primeiras relações. Em outros, começa depois, às vezes junto com dificuldade de ereção, ansiedade, problemas na próstata ou na tireoide. Por isso vale uma avaliação médica."},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+     {"mito": "É falta de vontade ou fraqueza.", "fato": "É uma condição de saúde, ligada a fatores do corpo e emocionais. Tem tratamento."},
+     {"mito": "Relação boa é relação longa.", "fato": "A satisfação depende mais de conexão, comunicação e prazer do casal do que de minutos."},
+     {"mito": "Ansiedade não tem nada a ver.", "fato": "A ansiedade de desempenho acelera a ejaculação. Falar sobre isso ajuda muito."}
+    ]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "O tratamento combina **orientação**, **técnicas comportamentais** (veja a outra ficha) e, se necessário, **remédios**:\n\n• **Uso diário**: alguns antidepressivos em dose baixa, como paroxetina, sertralina ou fluoxetina, retardam a ejaculação. O efeito começa em 5 a 10 dias e fica completo em 2 a 3 semanas.\n\n• **Uso antes da relação**: alguns desses remédios, ou a dapoxetina, tomados horas antes.\n\n• **Anestésicos locais** (cremes ou sprays) aplicados minutos antes, seguindo a orientação para não passar a dormência para a parceria.\n\nQuando há dificuldade de ereção junto, ela é tratada primeiro."},
+    {"tipo": "fazer", "titulo": "Cuidados com os remédios", "sim": ["Falar com a equipe sobre todos os remédios que você usa", "Relatar efeitos como náusea, sonolência, tontura ou queda do desejo", "Combinar com a equipe como reduzir o remédio diário quando for parar"], "nao": ["Parar o remédio diário de repente: pode causar tontura, irritação e mal-estar", "Misturar com álcool", "Usar tramadol ou outros remédios por conta própria"]}
+   ],
+   "ajuda": ["Desmaio ou tontura forte após tomar o remédio", "Tristeza intensa, agitação ou pensamentos de se ferir depois de começar um antidepressivo", "Dor ao ejacular ou sangue no sêmen"],
+   "fonte": "ISSM (Althof et al., 2014); EAU, Saúde Sexual e Reprodutiva (2024)"
+  },
+  {
+   "id": "tecnicas-parar-recomecar",
+   "titulo": "Técnicas de parar e recomeçar",
+   "subtitulo": "Treino para perceber e controlar a excitação",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "A ideia", "texto": "Estas técnicas ensinam a **perceber o momento** em que a excitação chega perto do ponto sem volta e a baixar essa excitação antes dele. É como aprender a controlar a velocidade de um carro. O treino leva semanas, e funciona melhor com paciência, sem cobrança, e junto do tratamento indicado pela equipe."},
+    {"tipo": "destaque", "titulo": "Escala da excitação", "texto": "Imagine uma escala de **0 a 10**: 0 é nenhuma excitação e 10 é a ejaculação. O objetivo é aprender a reconhecer o **7** e parar ali."},
+    {"tipo": "passos", "titulo": "Técnica de parar e recomeçar", "itens": ["Comece sozinho, com masturbação, em um momento tranquilo e sem pressa.", "Preste atenção nas sensações e na escala de excitação.", "Ao chegar perto do 7, pare totalmente o estímulo.", "Respire devagar e espere a excitação baixar (cerca de 30 segundos ou até cair para 4 ou 5).", "Recomece o estímulo.", "Repita 3 vezes antes de permitir a ejaculação.", "Quando se sentir seguro, pratique com a parceria, primeiro com estímulo manual, depois durante a relação, parando o movimento quando necessário.", "Pratique 2 a 3 vezes por semana."]},
+    {"tipo": "texto", "titulo": "Técnica da compressão", "texto": "Uma variação: no momento de parar, você ou a parceria aperta com firmeza, mas sem dor, a base da cabeça do pênis por alguns segundos, até a vontade de ejacular diminuir. Depois recomeça."},
+    {"tipo": "lista", "titulo": "Outras dicas", "itens": ["Exercícios para o assoalho pélvico (contrair e relaxar os músculos que seguram a urina) podem ajudar; peça orientação", "Conversar abertamente com a parceria reduz a ansiedade", "Valorizar outras formas de prazer e carinho tira o peso do tempo", "Álcool e drogas não são solução e podem piorar a ereção"]},
+    {"tipo": "anotar", "titulo": "Meu progresso", "linhas_vazias": 4}
+   ],
+   "fonte": "ISSM (Althof et al., 2014); EAU, Saúde Sexual e Reprodutiva (2024)"
+  }
+ ],
+ "Náusea e vômitos": [
+  {
+   "id": "o-que-e-nausea",
+   "titulo": "Náuseas e vômitos: como se tratam",
+   "subtitulo": "Entender a causa e usar o remédio certo",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que acontecem", "texto": "Náusea (enjoo) e vômitos têm muitas causas: quimioterapia, remédios (como opioides, alguns antidepressivos no início e lítio em nível alto), estômago lento, intestino preso, infecções, gravidez, uso frequente de maconha, ansiedade e doenças mais avançadas. A equipe tenta descobrir a causa, porque isso ajuda a escolher o tratamento."},
+    {"tipo": "texto", "titulo": "Os remédios", "texto": "Existem vários **antieméticos** (remédios contra enjoo), e cada um age em um caminho diferente. Alguns remédios da psiquiatria, em **dose baixa**, são muito úteis aqui:\n\n• **haloperidol** e **olanzapina** em dose baixa, principalmente quando o enjoo vem de remédios, alterações do sangue ou quimioterapia;\n\n• **levomepromazina**, quando há também agitação ou insônia;\n\n• **mirtazapina**, quando junto há tristeza, falta de apetite e insônia.\n\nUsados assim, eles **não significam** que a pessoa tem uma doença mental: é outro uso do mesmo remédio."},
+    {"tipo": "lista", "titulo": "Efeitos para observar", "itens": ["Sonolência e tontura, sobretudo em idosos", "Inquietação, vontade de ficar se mexendo, tremores ou rigidez do corpo, principalmente com metoclopramida e haloperidol", "Intestino preso", "Aumento do apetite com olanzapina e mirtazapina"]},
+    {"tipo": "fazer", "titulo": "Uso seguro", "sim": ["Tomar no horário combinado; em alguns casos, antes das refeições ou antes da quimioterapia", "Avisar a equipe se o enjoo não melhorar em 1 a 2 dias", "Se o enjoo começou com um remédio novo, conversar com quem prescreveu"], "nao": ["Somar vários remédios para enjoo por conta própria", "Parar sozinho um remédio que pode estar causando o enjoo, sem falar com a equipe"]}
+   ],
+   "ajuda": ["Vômitos que não param e impedem beber líquidos por mais de 24 horas", "Sinais de desidratação: boca muito seca, pouca urina, tontura forte ao levantar, confusão", "Vômito com sangue ou parecido com borra de café", "Barriga inchada e dura, dor forte, sem evacuar e sem soltar gases", "Rigidez no pescoço, olhos virados para cima ou contrações musculares fortes depois de um remédio", "Uso de lítio com vômitos, diarreia, tremor forte ou confusão"],
+   "fonte": "MASCC/ESMO, antieméticos (2023) e câncer avançado (2017); ASCO (2020)"
+  },
+  {
+   "id": "dicas-alimentares-nausea",
+   "titulo": "Dicas alimentares para náuseas",
+   "subtitulo": "Comer e beber com mais conforto",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "fazer", "titulo": "Na alimentação", "sim": ["Fazer refeições pequenas, de 2 em 2 ou de 3 em 3 horas", "Preferir alimentos secos e leves: bolacha de água e sal, torrada, pão, arroz, batata", "Comer alimentos frios ou em temperatura ambiente, que têm menos cheiro", "Beber líquidos em pequenos goles ao longo do dia, entre as refeições", "Experimentar picolé, gelatina ou gelo de água de coco", "Ficar sentado ou recostado por 30 a 60 minutos depois de comer", "Comer devagar e mastigar bem", "Manter a boca limpa e fresca"], "nao": ["Alimentos gordurosos, frituras e muito temperados", "Cheiros fortes de comida sendo preparada; se possível, outra pessoa cozinha", "Beber muito líquido junto com a refeição", "Deitar logo depois de comer", "Ficar muito tempo sem comer: o estômago vazio piora o enjoo", "Roupas apertadas na barriga"]},
+    {"tipo": "lista", "titulo": "Outras medidas", "itens": ["Ambiente arejado e fresco", "Respirar devagar quando o enjoo aumentar", "Distrair-se com música, conversa ou TV", "Se o enjoo vem com a quimioterapia, tomar o antiemético nos horários combinados, mesmo sem enjoo, para prevenir"]},
+    {"tipo": "destaque", "titulo": "Hidratação em primeiro lugar", "texto": "Se estiver difícil comer, o mais importante é **beber líquidos**. Soro de reidratação oral, disponível nas unidades de saúde e farmácias, ajuda a repor água e sais depois de vômitos."},
+    {"tipo": "tabela", "titulo": "Registro do enjoo", "texto": "Ajuda a equipe a ajustar o tratamento. Enjoo de 0 (nada) a 10 (o pior).", "colunas": ["Data", "Enjoo (0 a 10)", "Vômitos (quantos)", "Consegui comer? (bem, pouco, nada)", "Líquidos (copos)", "Remédio usado"], "linhas": [], "linhas_vazias": 10}
+   ],
+   "ajuda": ["Não consegue manter nenhum líquido por mais de 24 horas", "Pouca urina, urina muito escura, tontura forte ou confusão", "Vômito com sangue", "Perda de peso rápida"],
+   "fonte": "MASCC/ESMO (2017); ASCO (2020)"
+  }
+ ]
+}

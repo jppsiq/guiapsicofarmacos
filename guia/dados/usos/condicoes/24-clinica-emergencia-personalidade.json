@@ -1,0 +1,851 @@
+{
+ "Agitação": {
+  "criterios": {
+   "fonte": "Projeto BETA (American Association for Emergency Psychiatry, 2012); a agitação não é um diagnóstico do DSM-5-TR, e sim uma síndrome transdiagnóstica",
+   "cid": "CID-10 R45.1",
+   "itens": [
+    {"r": "Definição", "t": "Atividade motora ou verbal excessiva, com irritabilidade, menor capacidade de cooperar e hiper-responsividade a estímulos, que pode evoluir para agressão. O BETA a trata como emergência que exige diagnóstico provável da causa e objetivo de acalmar, não de sedar."},
+    {"r": "Etiologias (BETA)", "t": "Classificar a causa provável antes de escolher o fármaco:", "sub": [
+     "Condição médica geral, incluindo delirium (hipóxia, hipoglicemia, TCE, infecção, encefalopatia, dor).",
+     "Intoxicação por substância (álcool, estimulantes, canabinoides sintéticos, anticolinérgicos).",
+     "Abstinência (álcool, benzodiazepínicos).",
+     "Transtorno psiquiátrico primário (esquizofrenia, mania, transtornos de personalidade, TEA, deficiência intelectual).",
+     "Causa indeterminada."
+    ]},
+    {"r": "Gravidade (BARS)", "t": "Escala de Atividade Comportamental de 1 a 7:", "sub": [
+     "1: difícil de despertar ou não desperta.",
+     "2: dorme, mas responde normalmente ao contato.",
+     "3: sonolento, sedado.",
+     "4: calmo e acordado (alvo do tratamento).",
+     "5: sinais de atividade aumentada, acalma com instruções.",
+     "6: extremamente ou continuamente ativo, sem necessidade de contenção.",
+     "7: violento, exige contenção."
+    ]},
+    {"r": "Objetivo", "t": "Paciente calmo, capaz de participar da avaliação e da decisão (BARS 4). Sedação até o sono (BARS 2 a 3) só quando o risco imediato exige."}
+   ],
+   "notas": [
+    "Diagnósticos do DSM-5-TR que cursam com agitação: delirium, intoxicação e abstinência de substâncias, episódios maníacos e mistos, esquizofrenia e outros transtornos psicóticos, transtorno explosivo intermitente, transtornos neurocognitivos.",
+    "Nos ensaios clínicos a entrada costuma exigir PANSS-EC (5 itens: excitação, hostilidade, tensão, falta de cooperação, controle de impulsos) de pelo menos 14, com pelo menos um item igual ou maior que 4.",
+    "Na demência, usar a definição da IPA 2015 (Cummings) e não os esquemas da emergência."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Você está se sentindo tenso, com raiva ou com medo agora?",
+    "O que aconteceu para você vir até aqui? O que podemos fazer para você se sentir mais seguro?",
+    "Você usou álcool, cocaína, crack, maconha, remédios ou outra substância nas últimas horas ou dias?",
+    "Parou de beber ou de tomar calmante recentemente?",
+    "Você está sentindo dor, fome, sede ou falta de ar?",
+    "Está escutando vozes ou sente que alguém quer lhe fazer mal?",
+    "Você pensa em machucar alguém ou a si mesmo? Tem arma com você?",
+    "Para o familiar: já aconteceu antes? Que remédio acalmou da última vez e qual deu reação ruim?"
+   ],
+   "sinais": [
+    "Andar de um lado para outro, punhos cerrados, olhar fixo, voz alta, ameaças, aproximação excessiva da equipe.",
+    "Início agudo em paciente sem história psiquiátrica, idade acima de 40 a 45 anos, desorientação ou flutuação da consciência: pensar em delirium.",
+    "Taquicardia, hipertermia, midríase e sudorese: intoxicação simpaticomimética ou abstinência.",
+    "Tremor, sudorese e alucinações 6 a 72 horas após parar de beber: abstinência alcoólica.",
+    "Sinais vitais anormais, hipoglicemia, hipoxemia, sinais neurológicos focais ou trauma craniano.",
+    "Rigidez e febre após antipsicótico: SNM; clônus: síndrome serotoninérgica.",
+    "Histórico de violência, contenções prévias e uso de substâncias: maior risco de escalada."
+   ],
+   "instrumentos": [
+    "BARS: alvo 4 (calmo e acordado).",
+    "RASS: de +4 (combativo) a -5 (não desperta); alvo 0 a -1.",
+    "PANSS-EC: 5 a 35 pontos; 14 ou mais indica agitação clinicamente relevante.",
+    "Brøset Violence Checklist (BVC): 6 itens; 1 a 2 indica risco moderado e 3 ou mais, risco alto de violência nas próximas 24 horas."
+   ]
+  },
+  "diferencial": [
+   "Delirium: início agudo, flutuação, desatenção e desorientação; exige tratar a causa e evitar benzodiazepínicos (exceto na abstinência).",
+   "Intoxicação por estimulantes: taquicardia, hipertensão, hipertermia, midríase; benzodiazepínico é a primeira escolha.",
+   "Abstinência alcoólica ou de benzodiazepínicos: tremor, sudorese, taquicardia, história de uso; tratar com benzodiazepínico e tiamina.",
+   "Acatisia: inquietação subjetiva e motora após início ou aumento de antipsicótico; mais antipsicótico piora.",
+   "Hipoglicemia, hipóxia, TCE e encefalite: glicemia capilar, oximetria e exame neurológico em todos.",
+   "Síndrome serotoninérgica e SNM: agitação com alterações autonômicas e neuromusculares.",
+   "Agressividade instrumental (planejada): conduta de segurança e, se couber, medidas legais, não medicação."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "Projeto BETA (Richmond, Holloman, Wilson e colaboradores, West J Emerg Med 2012)",
+    "pontos": [
+     "Desescalada verbal em 10 domínios: respeitar o espaço pessoal, não ser provocador, estabelecer contato verbal (um único interlocutor), ser conciso e repetir, identificar desejos e sentimentos, ouvir com atenção, concordar ou concordar em discordar, estabelecer limites claros, oferecer escolhas e otimismo, fazer o fechamento com paciente e equipe.",
+     "Oferecer a medicação ao paciente e envolvê-lo na escolha; via oral antes da intramuscular sempre que possível.",
+     "Delirium: tratar a causa; evitar benzodiazepínicos, exceto na abstinência; antipsicótico em dose baixa se necessário.",
+     "Intoxicação alcoólica: preferir antipsicótico (haloperidol) a benzodiazepínico, pelo risco de depressão respiratória.",
+     "Intoxicação por estimulantes e abstinência: benzodiazepínico como primeira linha.",
+     "Transtorno psiquiátrico primário conhecido: antipsicótico oral (olanzapina 10 mg, risperidona 2 mg, eventualmente haloperidol 5 mg), com ou sem lorazepam 2 mg.",
+     "Causa indeterminada sem psicose evidente: benzodiazepínico."
+    ],
+    "linhas": [
+     {"linha": "Primeira linha", "texto": "Desescalada verbal e oferta de medicação oral (antipsicótico de segunda geração ou lorazepam, conforme a causa)."},
+     {"linha": "Segunda linha", "texto": "Intramuscular: olanzapina 10 mg, haloperidol 5 mg associado a prometazina ou a benzodiazepínico, ou midazolam."},
+     {"linha": "Último recurso", "texto": "Contenção física breve, monitorada e documentada, sempre associada a medicação e reavaliação."}
+    ]
+   },
+   {
+    "fonte": "NICE NG10 (2015): violência e agressão, manejo de curto prazo",
+    "pontos": [
+     "Tranquilização rápida IM: lorazepam isolado ou haloperidol associado a prometazina; escolher conforme preferência do paciente, diretiva antecipada, uso prévio de antipsicóticos e risco cardíaco.",
+     "Não usar haloperidol isolado sem anticolinérgico ou anti-histamínico (risco de distonia aguda, sobretudo em virgens de antipsicótico).",
+     "Se não houver informação sobre uso prévio de antipsicóticos, ECG ou cardiopatia, preferir lorazepam IM.",
+     "Resposta parcial: repetir a dose; sem resposta: trocar para o esquema não usado.",
+     "Após tranquilização rápida: pulso, pressão, frequência respiratória, temperatura, hidratação e nível de consciência pelo menos a cada hora até estabilizar; a cada 15 minutos se foi excedida a dose máxima, se o paciente dorme ou parece sedado, se usou álcool ou drogas, ou se há cardiopatia.",
+     "ECG antes de antipsicótico parenteral sempre que possível; evitar haloperidol em QTc prolongado.",
+     "Contenção física por no máximo 10 minutos sempre que possível, sem pressão sobre tórax, pescoço ou abdome e sem posição prona prolongada."
+    ]
+   },
+   {
+    "fonte": "Ensaios TREC (Brasil e Índia, 2003 a 2010) e Diretrizes brasileiras de agitação psicomotora (Baldaçara e colaboradores, Rev Bras Psiquiatr 2019)",
+    "pontos": [
+     "TREC-Rio (2003): midazolam 15 mg IM sedou mais rápido que haloperidol 5 mg com prometazina 50 mg IM, com mais depressão respiratória em casos isolados.",
+     "TREC-Índia: haloperidol com prometazina foi mais rápido e sustentado que lorazepam IM.",
+     "TREC 4: haloperidol isolado causou distonia aguda em cerca de 6% e o ensaio foi interrompido; a associação com prometazina protege.",
+     "Olanzapina 10 mg IM: eficácia semelhante a haloperidol com prometazina, mas efeito menos duradouro; não aplicar benzodiazepínico parenteral na mesma hora (hipotensão e depressão respiratória).",
+     "Zuclopentixol acetato (50 a 150 mg IM) não é indicado para tranquilização rápida; reservar para quem precisará de medicação injetável por alguns dias, após avaliação.",
+     "Ziprasidona IM, loxapina inalatória e dexmedetomidina sublingual têm aprovação em outros países; não estão disponíveis para esse uso no Brasil."
+    ]
+   }
+  ],
+  "populacoes": [
+   {"grupo": "Idosos", "texto": "Doses de metade ou menos (haloperidol 0,5 a 2 mg, risperidona 0,5 a 1 mg); investigar delirium em todos; evitar benzodiazepínicos e prometazina (anticolinérgica)."},
+   {"grupo": "Gestação", "texto": "Haloperidol com ou sem lorazepam em doses usuais é a opção mais estudada; evitar contenção em decúbito dorsal após a 20.ª semana (lateralizar à esquerda)."},
+   {"grupo": "Crianças e adolescentes", "texto": "Priorizar desescalada e envolvimento dos cuidadores; se necessário, antipsicótico de segunda geração oral em dose ajustada ao peso; difenidramina em crianças menores."}
+  ],
+  "monitorar": [
+   "Sinais vitais, saturação e nível de consciência a cada 15 a 60 minutos após medicação parenteral",
+   "Distonia aguda e acatisia após antipsicóticos",
+   "QTc quando houver antipsicótico parenteral, cardiopatia ou uso de estimulantes",
+   "Membros e perfusão durante contenção física",
+   "Causa subjacente (glicemia, oximetria, exames toxicológicos quando indicado)"
+  ]
+ },
+ "Delirium": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10 F05; CID-11 6D70",
+   "itens": [
+    {"r": "A", "t": "Alteração da atenção (dificuldade de dirigir, focar, manter e deslocar a atenção) e da consciência (menor orientação ao ambiente)."},
+    {"r": "B", "t": "Instala-se em curto período (horas a poucos dias), representa mudança em relação ao estado basal e tende a flutuar ao longo do dia."},
+    {"r": "C", "t": "Alteração cognitiva adicional: memória, orientação, linguagem, capacidade visuoespacial ou percepção."},
+    {"r": "D", "t": "A e C não são mais bem explicados por transtorno neurocognitivo preexistente, estabelecido ou em evolução, e não ocorrem em contexto de nível de alerta gravemente reduzido, como o coma."},
+    {"r": "E", "t": "Há evidência (história, exame físico ou laboratorial) de que a alteração é consequência fisiológica direta de outra condição médica, de intoxicação ou abstinência de substância, de exposição a toxina ou de múltiplas etiologias."}
+   ],
+   "especificadores": [
+    "Etiologia: intoxicação por substância, abstinência de substância, induzido por medicamento, devido a outra condição médica, múltiplas etiologias.",
+    "Curso: agudo (horas a dias) ou persistente (semanas a meses).",
+    "Nível de atividade: hiperativo, hipoativo ou misto."
+   ],
+   "notas": [
+    "O subtipo hipoativo é o mais frequente em idosos e o de pior prognóstico; é confundido com depressão ou apatia.",
+    "Delirium sobreposto à demência é comum: o que define é a mudança aguda em relação ao basal relatado pelo cuidador.",
+    "Sintomas associados frequentes: inversão do ciclo sono-vigília, labilidade emocional, alucinações visuais e delírios pouco sistematizados.",
+    "Subsindrômico: alguns critérios sem o quadro completo; também se associa a pior desfecho."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Para o familiar: ele está diferente do habitual? Desde quando? Melhora e piora ao longo do dia?",
+    "Que dia é hoje? Onde estamos? Por que você está aqui?",
+    "Diga os meses do ano de trás para frente, começando em dezembro.",
+    "Você está vendo coisas ou pessoas que os outros não veem?",
+    "Tem dormido de dia e ficado acordado à noite?",
+    "Quais remédios foram iniciados ou suspensos nos últimos dias? Bebe álcool todos os dias?",
+    "Sente dor? Consegue urinar e evacuar normalmente?"
+   ],
+   "sinais": [
+    "Mudança aguda de comportamento em idoso internado, no pós-operatório ou na UTI.",
+    "Sonolência, lentificação e pouca interação (hipoativo) tomados por depressão.",
+    "Desatenção na entrevista: perde o fio da conversa, não sustenta tarefas simples.",
+    "Piora vespertina ou noturna, arrancar sondas e acessos, tentar sair do leito.",
+    "Início de anticolinérgicos, benzodiazepínicos, opioides, corticoides ou polifarmácia.",
+    "Febre, hipóxia, hiponatremia, hipoglicemia, retenção urinária, fecaloma ou dor não tratada.",
+    "Fatores predisponentes: idade acima de 65 anos, demência, déficit sensorial, fragilidade, fratura de quadril, doença grave."
+   ],
+   "instrumentos": [
+    "CAM: início agudo com curso flutuante E desatenção E (pensamento desorganizado OU nível de consciência alterado).",
+    "CAM-ICU: versão para pacientes intubados, aplicada com RASS de -3 ou maior.",
+    "4AT: 4 ou mais sugere delirium; 1 a 3 sugere comprometimento cognitivo; 0 torna delirium improvável. Não exige treinamento.",
+    "RASS: nível de sedação ou agitação para acompanhar o quadro.",
+    "DRS-R-98 ou MDAS para gravidade e evolução."
+   ]
+  },
+  "diferencial": [
+   "Demência: início insidioso, atenção relativamente preservada nas fases iniciais, sem flutuação marcada (exceto corpos de Lewy).",
+   "Demência com corpos de Lewy: flutuação, alucinações visuais e parkinsonismo crônicos; pode haver delirium sobreposto.",
+   "Depressão: humor deprimido sem desatenção grave nem flutuação da consciência; diferencial clássico do hipoativo.",
+   "Psicose primária: consciência e atenção preservadas, alucinações mais auditivas, história prévia.",
+   "Mania: humor expansivo ou irritável, sem desorientação significativa.",
+   "Estado de mal epiléptico não convulsivo: flutuação e automatismos; confirmar com EEG.",
+   "Catatonia: mutismo, negativismo e posturas; responde a lorazepam; pode coexistir com delirium.",
+   "Afasia de Wernicke e síndrome de Wernicke-Korsakoff: tiamina empírica diante de suspeita."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "NICE CG103 (2010, atualizada em 2023)",
+    "pontos": [
+     "Avaliar fatores de risco em até 24 horas da internação e aplicar intervenção multicomponente: orientação, hidratação, prevenção de constipação, oxigenação, mobilização precoce, controle da dor, revisão de medicamentos, nutrição, óculos e aparelhos auditivos, higiene do sono sem medicação.",
+     "Diagnóstico por profissional treinado usando DSM ou instrumento validado (4AT, CAM).",
+     "Identificar e tratar as causas; comunicação e reorientação, com participação de familiares.",
+     "Se o paciente está angustiado ou é risco para si ou para outros e a desescalada falhou: haloperidol em dose baixa por curto prazo (em geral até 1 semana), começando pela menor dose.",
+     "Usar antipsicóticos com cautela ou não usar em doença de Parkinson e demência com corpos de Lewy."
+    ]
+   },
+   {
+    "fonte": "SCCM PADIS (2018) para adultos em UTI",
+    "pontos": [
+     "Não usar rotineiramente haloperidol, antipsicóticos atípicos, estatinas ou cetamina para prevenir delirium.",
+     "Não usar rotineiramente haloperidol ou atípicos para tratar delirium; uso breve é aceitável para angústia importante (ansiedade, alucinações, agitação) com risco.",
+     "Dexmedetomidina para delirium com agitação que impede a extubação.",
+     "Preferir propofol ou dexmedetomidina a benzodiazepínicos na sedação.",
+     "Protocolos não farmacológicos multicomponentes e melhora do sono; pacote ABCDEF.",
+     "Suspender o antipsicótico quando o delirium resolve (os ensaios REDUCE 2018 e AID-ICU 2022 não mostraram benefício de haloperidol em sobrevida ou dias sem delirium)."
+    ]
+   },
+   {
+    "fonte": "American Geriatrics Society (2015) para delirium pós-operatório e Critérios de Beers (AGS 2023)",
+    "pontos": [
+     "Evitar benzodiazepínicos como tratamento de primeira linha (exceto abstinência de álcool ou benzodiazepínicos).",
+     "Não usar antipsicóticos no delirium hipoativo.",
+     "Não iniciar inibidores de colinesterase para prevenir ou tratar delirium (ensaio com rivastigmina interrompido por mortalidade).",
+     "Evitar anticolinérgicos, benzodiazepínicos, meperidina, anti-histamínicos de primeira geração e bloqueadores H2 em idosos com delirium ou alto risco.",
+     "Analgesia adequada, de preferência com poupadores de opioide, reduz o risco."
+    ]
+   },
+   {
+    "fonte": "Situações específicas (Maudsley 15.ª ed. 2025; ASAM 2020 para abstinência alcoólica)",
+    "pontos": [
+     "Abstinência alcoólica com delirium: benzodiazepínico em doses altas guiadas por sintomas (diazepam ou lorazepam na hepatopatia), em unidade monitorada; fenobarbital como adjuvante nos refratários.",
+     "Suspeita de encefalopatia de Wernicke: tiamina parenteral antes da glicose (esquemas de 200 a 500 mg IV, 3 vezes ao dia, por 3 a 5 dias).",
+     "Delirium anticolinérgico: suspender o agente; fisostigmina em ambiente monitorado (não disponível de rotina no Brasil).",
+     "Fim de vida: haloperidol, levomepromazina ou midazolam para angústia refratária, com metas de conforto."
+    ]
+   }
+  ],
+  "duracao": "Manter antipsicótico pelo menor tempo, reavaliando diariamente, e suspender assim que os sintomas angustiantes cedem (em geral até 1 semana). Não prescrever na alta sem indicação clara e data de término; cerca de um quarto dos pacientes sai com antipsicótico iniciado no hospital sem necessidade.",
+  "monitorar": [
+   "CAM ou 4AT pelo menos uma vez por turno enquanto houver risco",
+   "RASS e nível de consciência",
+   "QTc e eletrólitos com antipsicóticos",
+   "Sinais extrapiramidais, sobretudo em idosos",
+   "Sono, dor, eliminações, hidratação e ingestão",
+   "Cognição após a alta (risco de declínio persistente)"
+  ]
+ },
+ "Catatonia": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10 F06.1 (orgânica), F20.2 (esquizofrenia catatônica); CID-11 6A40 (associada a outro transtorno mental), 6A41 (induzida por substância ou medicamento), 6E69 (secundária a condição médica)",
+   "itens": [
+    {"r": "A", "t": "Quadro clínico dominado por 3 ou mais dos 12 sintomas:", "sub": [
+     "Estupor: ausência de atividade psicomotora, sem relação ativa com o ambiente.",
+     "Catalepsia: manutenção passiva de posturas impostas contra a gravidade.",
+     "Flexibilidade cérea: resistência leve e uniforme ao posicionamento pelo examinador.",
+     "Mutismo: resposta verbal nula ou mínima (não aplicável se há afasia estabelecida).",
+     "Negativismo: oposição ou ausência de resposta a instruções ou estímulos externos.",
+     "Postura: manutenção espontânea e ativa de posturas contra a gravidade.",
+     "Maneirismo: caricatura estranha de ações comuns.",
+     "Estereotipia: movimentos repetitivos, frequentes e sem finalidade.",
+     "Agitação não influenciada por estímulos externos.",
+     "Caretas.",
+     "Ecolalia: repetição da fala do outro.",
+     "Ecopraxia: imitação dos movimentos do outro."
+    ]},
+    {"r": "Associada a outro transtorno mental", "t": "Usada como especificador de transtornos psicóticos, bipolares, depressivos, do neurodesenvolvimento e outros."},
+    {"r": "Devida a outra condição médica", "t": "Os critérios A são preenchidos, há evidência de que decorre de condição médica, não é mais bem explicada por outro transtorno mental, não ocorre exclusivamente durante delirium e causa sofrimento ou prejuízo."},
+    {"r": "Não especificada", "t": "Sintomas catatônicos com prejuízo quando a natureza do transtorno de base não está clara ou a avaliação está incompleta."}
+   ],
+   "notas": [
+    "Transtornos do humor (sobretudo bipolar) são causa mais frequente que a esquizofrenia.",
+    "CID-11 exige ao menos 3 sintomas de lista mais ampla, que inclui olhar fixo, verbigeração, rigidez, retraimento, impulsividade, obediência automática e ambitendência.",
+    "Catatonia maligna: sintomas catatônicos com febre e instabilidade autonômica; risco de morte; o quadro se sobrepõe à SNM, que pode ser vista como catatonia maligna induzida por antipsicótico.",
+    "Formas excitadas e retardadas podem alternar no mesmo episódio."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Para o familiar: há quanto tempo ele parou de falar, comer ou beber?",
+    "Ele fica muito tempo na mesma posição ou olhando fixo para um ponto?",
+    "Ele repete o que os outros dizem ou imita os gestos?",
+    "Houve alternância com períodos de agitação sem motivo?",
+    "Teve episódios anteriores de depressão ou mania? Já ficou assim antes e o que resolveu?",
+    "Algum remédio foi iniciado, aumentado ou suspenso (antipsicótico, benzodiazepínico, clozapina)?",
+    "Teve febre, convulsão, dor de cabeça, alteração de memória ou comportamento estranho antes do quadro?"
+   ],
+   "sinais": [
+    "Mutismo, recusa alimentar e imobilidade em paciente com transtorno do humor ou psicose.",
+    "Paciente rotulado como negativista, opositor ou com sintomas negativos que não melhora com antipsicótico.",
+    "Piora após antipsicótico de alta potência, ou febre e rigidez associadas: pensar em catatonia maligna ou SNM.",
+    "Suspensão abrupta de benzodiazepínico ou clozapina.",
+    "Quadro psiquiátrico novo com crises convulsivas, discinesias orofaciais, disautonomia ou hipoventilação em mulher jovem: encefalite anti-NMDA.",
+    "Autismo com lentificação progressiva, perda de habilidades e necessidade de estímulo para iniciar ações.",
+    "Complicações: desidratação, lesões por pressão, trombose venosa, pneumonia aspirativa."
+   ],
+   "instrumentos": [
+    "Bush-Francis Catatonia Rating Scale (BFCRS): 23 itens; os 14 primeiros formam o instrumento de rastreio (BFCSI), positivo com 2 ou mais itens presentes.",
+    "Exame padronizado da BFCRS: observar, tentar conversa, coçar a cabeça de forma exagerada (ecopraxia), movimentar os membros (rigidez, flexibilidade cérea, catalepsia), estender a mão (obediência automática, ambitendência).",
+    "Resposta ao teste do lorazepam: redução de pelo menos 50% na BFCRS."
+   ]
+  },
+  "diferencial": [
+   "SNM: exposição a bloqueador D2, rigidez em cano de chumbo, febre, CPK alta; tratar como catatonia maligna e suspender o antipsicótico.",
+   "Síndrome serotoninérgica: clônus e hiper-reflexia, início em horas após serotoninérgico.",
+   "Estado de mal epiléptico não convulsivo: EEG sempre que houver dúvida.",
+   "Delirium hipoativo: desatenção e flutuação; os dois podem coexistir.",
+   "Síndrome do encarceramento e mutismo acinético: lesões estruturais; exame neurológico e neuroimagem.",
+   "Parkinsonismo grave induzido por antipsicótico: rigidez e bradicinesia sem negativismo ou posturas.",
+   "Depressão grave com retardo psicomotor: sem catalepsia, negativismo ou ecofenômenos; pode evoluir para catatonia.",
+   "Encefalite autoimune (anti-NMDA): LCR, EEG, RM e anticorpos no soro e no LCR."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "Consenso da British Association for Psychopharmacology sobre catatonia (Rogers e colaboradores, J Psychopharmacol 2023)",
+    "pontos": [
+     "Investigar causas médicas em todos: hemograma, eletrólitos, função renal e hepática, CPK, ferro sérico, glicemia, TSH, exames toxicológicos; EEG, neuroimagem e LCR com anticorpos quando o quadro for atípico ou de primeiro episódio.",
+     "Teste do lorazepam: 1 a 2 mg VO, SL, IM ou IV, reavaliando com BFCRS após 15 a 30 minutos (IV) ou 1 a 2 horas (VO); repetir se resposta parcial.",
+     "Tratamento com lorazepam titulado até resposta, em geral 6 a 16 mg/dia fracionados, podendo chegar a 24 mg/dia; sedação excessiva sugere que a dose passou do necessário.",
+     "Na falta de lorazepam, diazepam ou clonazepam em doses equivalentes; zolpidem 10 mg como teste alternativo.",
+     "Evitar antipsicóticos na catatonia aguda, sobretudo os de alta potência; se o transtorno de base exigir, introduzir após melhora, sob cobertura de benzodiazepínico, com fármaco de menor afinidade D2.",
+     "ECT bilateral quando não há resposta suficiente a benzodiazepínico, na catatonia maligna e quando há risco clínico (recusa de alimento e líquidos); manter o benzodiazepínico em dose que não comprometa a convulsão.",
+     "Amantadina ou memantina como alternativas quando benzodiazepínico e ECT não são possíveis ou falharam (evidência de séries de casos).",
+     "Profilaxia de trombose, hidratação, nutrição (sonda se necessário), mudança de decúbito e fisioterapia."
+    ],
+    "linhas": [
+     {"linha": "Primeira linha", "texto": "Lorazepam em doses tituladas, com tratamento da causa."},
+     {"linha": "Segunda linha", "texto": "ECT bilateral (resposta de 80 a 100% nas séries), precoce se catatonia maligna."},
+     {"linha": "Terceira linha", "texto": "Antagonistas NMDA (amantadina 100 a 400 mg/dia, memantina 10 a 20 mg/dia); na catatonia crônica da esquizofrenia, considerar clozapina com cautela."}
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines (15.ª ed., 2025)",
+    "pontos": [
+     "Lorazepam é o tratamento de escolha; resposta de 60 a 80% na catatonia associada a transtornos do humor, menor na esquizofrenia crônica.",
+     "Não retirar o benzodiazepínico cedo: manter até a resolução do quadro de base e reduzir lentamente, com vigilância para recaída.",
+     "Na catatonia com esquizofrenia, antipsicóticos podem ser usados após melhora, preferindo os de baixa afinidade D2; clozapina tem relatos de benefício e também de catatonia na retirada.",
+     "ECT de manutenção nos casos com recaídas frequentes."
+    ]
+   }
+  ],
+  "populacoes": [
+   {"grupo": "Autismo e deficiência intelectual", "texto": "Catatonia pode surgir na adolescência como lentificação e perda de habilidades; lorazepam em doses altas e ECT são eficazes e seguros."},
+   {"grupo": "Crianças e adolescentes", "texto": "Investigar encefalite autoimune, lúpus e causas genéticas; o tratamento segue os mesmos princípios, com ECT disponível conforme a legislação local."},
+   {"grupo": "Gestação", "texto": "Lorazepam e ECT são opções; o risco da catatonia não tratada (desidratação, trombose, desnutrição) supera o dos tratamentos."}
+  ],
+  "duracao": "Manter o benzodiazepínico enquanto persistir o transtorno de base e reduzir lentamente (por exemplo, 10 a 25% a cada 1 a 2 semanas), observando recaída. Após ECT, considerar ECT de manutenção ou tratamento de continuação do transtorno de base.",
+  "monitorar": [
+   "BFCRS diária durante o tratamento",
+   "Temperatura, pressão, frequência cardíaca e CPK (evolução para forma maligna)",
+   "Ingestão hídrica e alimentar, função renal",
+   "Sinais de trombose venosa e lesões por pressão",
+   "Sedação e frequência respiratória com doses altas de lorazepam"
+  ]
+ },
+ "Síndrome serotoninérgica": {
+  "criterios": {
+   "fonte": "Critérios de toxicidade serotoninérgica de Hunter (Dunkley e colaboradores, QJM 2003)",
+   "itens": [
+    {"r": "Pré-requisito", "t": "Uso de agente serotoninérgico (em geral nas últimas 5 semanas), com qualquer um dos quadros abaixo:"},
+    {"r": "1", "t": "Clônus espontâneo."},
+    {"r": "2", "t": "Clônus induzível associado a agitação ou diaforese."},
+    {"r": "3", "t": "Clônus ocular associado a agitação ou diaforese."},
+    {"r": "4", "t": "Tremor associado a hiper-reflexia."},
+    {"r": "5", "t": "Hipertonia com temperatura acima de 38 °C associada a clônus ocular ou induzível."}
+   ],
+   "especificadores": [
+    "Leve: tremor, hiper-reflexia, clônus induzível discreto, taquicardia, midríase, diaforese; afebril.",
+    "Moderada: clônus induzível ou ocular sustentado, agitação, hiperatividade intestinal, temperatura até cerca de 40 °C.",
+    "Grave: hipertonia, rigidez de tronco, temperatura acima de 41 °C, instabilidade autonômica, rabdomiólise, acidose metabólica, convulsões, CIVD."
+   ],
+   "notas": [
+    "Os critérios de Hunter têm sensibilidade de 84% e especificidade de 97% em relação à avaliação de toxicologista, superiores aos de Sternbach (1991), que exigiam 3 de 10 sinais e confundiam o quadro com SNM e delirium.",
+    "Os achados neuromusculares predominam nos membros inferiores: examinar clônus de tornozelo e reflexos patelares.",
+    "O início é rápido: cerca de 60% em até 6 horas da exposição e a maioria em 24 horas.",
+    "Não há exame laboratorial diagnóstico; a dosagem de serotonina não é útil."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Que remédios você usa, inclusive os de farmácia, para dor, tosse, enjoo ou emagrecimento?",
+    "Algum remédio foi iniciado, aumentado ou trocado nas últimas horas ou dias?",
+    "Usou ecstasy (MDMA), cocaína, anfetamina, LSD ou suplementos como erva-de-são-joão ou triptofano?",
+    "Recebeu tramadol, meperidina, fentanil, linezolida, azul de metileno ou ondansetrona em hospital ou procedimento?",
+    "Os sintomas começaram quando? Sente tremores, diarreia, suor excessivo, inquietação?",
+    "Tomou mais comprimidos do que o prescrito, de propósito ou por engano?"
+   ],
+   "sinais": [
+    "Tríade: alteração mental (agitação, ansiedade, confusão), hiperatividade autonômica (taquicardia, hipertensão, diaforese, midríase, diarreia, hipertermia) e anormalidades neuromusculares (tremor, clônus, hiper-reflexia, rigidez).",
+    "Clônus de tornozelo induzível, clônus ocular (movimentos oculares horizontais lentos e contínuos) e hiper-reflexia patelar.",
+    "Início em horas após associar ou aumentar serotoninérgicos, ou após superdosagem.",
+    "Troca de antidepressivo sem período de eliminação (sobretudo fluoxetina para IMAO).",
+    "Associação com IMAO (incluindo linezolida, azul de metileno, selegilina em doses altas, moclobemida).",
+    "Mioclonias e agitação no pós-operatório de paciente com ISRS que recebeu fentanil ou tramadol."
+   ]
+  },
+  "diferencial": [
+   "SNM: início em dias a semanas após bloqueador D2, bradicinesia e rigidez em cano de chumbo, hiporreflexia, evolução lenta, sem clônus.",
+   "Síndrome anticolinérgica: pele quente e seca, mucosas secas, ruídos intestinais diminuídos, retenção urinária, reflexos normais.",
+   "Hipertermia maligna: durante anestesia com halogenados ou succinilcolina, rigidez intensa, hipercapnia.",
+   "Intoxicação simpaticomimética (cocaína, anfetaminas): pode coexistir; sem clônus predominante.",
+   "Abstinência alcoólica ou de sedativos: história de uso, tremor, sem clônus intenso.",
+   "Encefalite, meningite e sepse: febre, rigidez de nuca, LCR.",
+   "Tireotoxicose e estado de mal epiléptico."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "Boyer e Shannon (N Engl J Med 2005) e Isbister e Buckley (toxicologia clínica)",
+    "pontos": [
+     "Suspender todos os serotoninérgicos e dar suporte (hidratação IV, oxigênio, monitorização cardíaca).",
+     "Controlar agitação com benzodiazepínicos (diazepam ou lorazepam); evitar contenção física, que aumenta contração isométrica, acidose láctica e hipertermia.",
+     "Leve: suspensão, benzodiazepínico e observação por pelo menos 6 a 12 horas.",
+     "Moderada: ciproeptadina 12 mg VO ou por sonda (comprimidos macerados), depois 2 mg a cada 2 horas enquanto houver sintomas; manutenção de 8 mg a cada 6 horas (12 a 32 mg/dia).",
+     "Grave (temperatura acima de 41,1 °C): sedação, bloqueio neuromuscular não despolarizante e intubação em UTI; antipiréticos não funcionam porque a febre é de origem muscular.",
+     "Evitar succinilcolina (risco de hiperpotassemia na rabdomiólise), bromocriptina e dantroleno (sem benefício e possível piora), propranolol (hipotensão e mascaramento da taquicardia).",
+     "Clorpromazina IM (50 a 100 mg) é alternativa citada quando não há ciproeptadina, apenas se SNM estiver afastada e com volemia adequada.",
+     "Hipertensão grave: fármacos de ação curta (nitroprussiato, esmolol); na hipotensão por IMAO, simpaticomiméticos diretos em doses baixas."
+    ]
+   },
+   {
+    "fonte": "Prevenção e reintrodução (Maudsley 15.ª ed., 2025)",
+    "pontos": [
+     "A maioria resolve em 24 horas após suspensão; pode durar mais com fluoxetina, IMAO irreversíveis e fármacos de meia-vida longa.",
+     "Ao trocar de ISRS para IMAO, aguardar 5 semanas após fluoxetina e cerca de 1 a 2 semanas após os demais; ao trocar de IMAO irreversível para qualquer serotoninérgico, aguardar 2 semanas.",
+     "Evitar tramadol, meperidina, metadona em doses altas, dextrometorfano e linezolida em quem usa IMAO; em uso de ISRS, preferir analgésicos opioides sem ação serotoninérgica (morfina, oxicodona) quando necessário.",
+     "Triptanos com ISRS ou IRSN têm risco muito baixo e não precisam ser proibidos (posição da American Headache Society), mas o paciente deve conhecer os sinais.",
+     "Reintroduzir o antidepressivo só após resolução, reavaliando a necessidade de associação e preferindo monoterapia."
+    ]
+   }
+  ],
+  "escolha": [
+   {"se": "Leve, afebril, com tremor e hiper-reflexia", "preferir": "suspensão e benzodiazepínico, observação", "evitar": "alta precoce antes de 6 a 12 horas"},
+   {"se": "Moderada ou persistente", "preferir": "ciproeptadina", "evitar": "contenção física sem sedação"},
+   {"se": "Grave com hipertermia", "preferir": "UTI, sedação, bloqueio neuromuscular não despolarizante", "evitar": "antipiréticos isolados, succinilcolina, bromocriptina, dantroleno"}
+  ],
+  "monitorar": [
+   "Temperatura, pressão, frequência cardíaca e ECG contínuo",
+   "Clônus e reflexos seriados",
+   "CPK, função renal, potássio, gasometria e coagulação nos casos moderados e graves",
+   "Sedação com ciproeptadina e benzodiazepínicos"
+  ]
+ },
+ "SNM": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022), seção de transtornos do movimento induzidos por medicamentos, e consenso internacional de especialistas (Gurrera e colaboradores, J Clin Psychiatry 2011)",
+   "cid": "CID-10 G21.0",
+   "itens": [
+    {"r": "DSM-5-TR", "t": "Descrição sem regra fixa de contagem; características que sustentam o diagnóstico:", "sub": [
+     "Exposição a antagonista dopaminérgico (ou retirada de agonista) nas últimas 72 horas.",
+     "Hipertermia acima de 38 °C em pelo menos 2 medidas orais.",
+     "Rigidez generalizada, frequentemente em cano de chumbo.",
+     "Alteração do estado mental (do rebaixamento ao coma).",
+     "CPK elevada pelo menos 4 vezes o limite superior.",
+     "Labilidade autonômica: taquicardia (acima de 25% do basal), diaforese, elevação ou flutuação da pressão, incontinência urinária, palidez.",
+     "Taquipneia (acima de 50% do basal).",
+     "Investigação negativa para infecção, tóxica, metabólica e neurológica."
+    ]},
+    {"r": "Consenso Gurrera (pontos)", "t": "Critérios com pesos que somam 100 pontos:", "sub": [
+     "Exposição a antagonista dopaminérgico ou retirada de agonista nas últimas 72 horas: 20.",
+     "Hipertermia acima de 38 °C em pelo menos 2 medidas orais: 18.",
+     "Rigidez: 17.",
+     "Alteração do estado mental: 13.",
+     "CPK pelo menos 4 vezes o limite superior: 10.",
+     "Labilidade simpática (pelo menos 2 de: pressão 25% acima do basal, flutuação de pressão de 20 mmHg diastólica ou 25 mmHg sistólica em 24 horas, diaforese, incontinência urinária): 10.",
+     "Hipermetabolismo (frequência cardíaca 25% acima e frequência respiratória 50% acima do basal): 5.",
+     "Investigação negativa para outras causas: 7."
+    ]}
+   ],
+   "notas": [
+    "Na validação do consenso (Gurrera 2017), o ponto de corte de 74 teve sensibilidade de cerca de 70% e especificidade de cerca de 91%.",
+    "Achados de apoio: leucocitose, mioglobinúria, ferro sérico baixo, acidose metabólica.",
+    "Evolução típica: rigidez e alteração mental precedem a febre; 2/3 dos casos ocorrem na primeira semana após início ou aumento de dose.",
+    "Fatores de risco: aumento rápido de dose, via parenteral ou depot, antipsicóticos de alta potência, desidratação, agitação, contenção, lítio associado, catatonia prévia, episódio prévio de SNM.",
+    "Formas atípicas com clozapina e outros atípicos: menos rigidez e febre menos intensa."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Quando o antipsicótico foi iniciado ou aumentado? Recebeu injeção recentemente?",
+    "Usa metoclopramida, bromoprida, prometazina ou outro remédio para enjoo?",
+    "Tem Parkinson e parou ou reduziu levodopa ou outro remédio dopaminérgico?",
+    "Está conseguindo beber líquidos e comer?",
+    "A urina ficou escura?",
+    "Já teve reação parecida com algum remédio antes?"
+   ],
+   "sinais": [
+    "Rigidez nova ou piora de parkinsonismo com febre após antipsicótico.",
+    "Confusão, mutismo ou rebaixamento em paciente recém-medicado com antipsicótico.",
+    "Taquicardia, sudorese e pressão lábil sem outra causa.",
+    "Disfagia, sialorreia e incontinência urinária.",
+    "CPK muito elevada e urina escura (mioglobinúria).",
+    "Desidratação, agitação intensa com contenção e doses IM repetidas nos dias anteriores.",
+    "Paciente catatônico que recebeu antipsicótico de alta potência."
+   ]
+  },
+  "diferencial": [
+   "Síndrome serotoninérgica: início em horas, clônus, hiper-reflexia, diarreia, midríase; exposição a serotoninérgicos.",
+   "Catatonia maligna: sintomas catatônicos antecedem o antipsicótico; o manejo é semelhante (benzodiazepínico e ECT).",
+   "Hipertermia maligna: no ato anestésico.",
+   "Síndrome anticolinérgica: pele seca, sem rigidez, reflexos normais.",
+   "Infecção do SNC e sepse: punção lombar e culturas quando a febre não tem outra explicação.",
+   "Insolação em paciente com antipsicótico: exposição ao calor, pele quente e seca.",
+   "Parkinsonismo grave induzido por antipsicótico: rigidez sem febre, CPK normal ou pouco elevada.",
+   "Síndrome de hiperpirexia e parkinsonismo por retirada de levodopa."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "Estadiamento de Woodbury e revisão de Strawn, Keck e Caroff (Am J Psychiatry 2007)",
+    "pontos": [
+     "Suspender o antipsicótico e todo bloqueador D2; reintroduzir dopaminérgicos suspensos em pacientes com Parkinson.",
+     "Suporte: hidratação IV vigorosa, resfriamento externo, correção de eletrólitos, alcalinização urinária na rabdomiólise, profilaxia de trombose, dieta zero se disfagia.",
+     "Considerar lítio, anticolinérgicos e serotoninérgicos: suspender o que possa contribuir.",
+     "Formas leves (febre baixa, rigidez discreta): lorazepam 1 a 2 mg IM ou IV a cada 4 a 6 horas.",
+     "Moderadas: lorazepam associado a bromocriptina 2,5 mg a cada 8 horas VO ou por sonda, aumentando até 40 mg/dia; alternativa, amantadina 100 mg a cada 8 a 12 horas.",
+     "Graves (temperatura acima de 40 °C, rigidez intensa): UTI, dantroleno 1 a 2,5 mg/kg IV, repetindo 1 mg/kg a cada 6 horas até cerca de 10 mg/kg/dia, e depois oral; não associar a bloqueadores de canal de cálcio.",
+     "ECT (6 a 10 sessões bilaterais) quando não há melhora em 48 horas de tratamento farmacológico, na catatonia residual ou quando o transtorno de base precisa ser tratado sem antipsicóticos.",
+     "Dantroleno exige monitoramento hepático; bromocriptina pode piorar psicose e hipotensão."
+    ],
+    "linhas": [
+     {"linha": "Primeira linha", "texto": "Suspensão, suporte intensivo e lorazepam."},
+     {"linha": "Segunda linha", "texto": "Bromocriptina ou amantadina; dantroleno nas formas graves com hipertermia e rigidez."},
+     {"linha": "Terceira linha", "texto": "ECT."}
+    ]
+   },
+   {
+    "fonte": "Maudsley Prescribing Guidelines (15.ª ed., 2025): reintrodução de antipsicótico",
+    "pontos": [
+     "Mortalidade atual de 5 a 10%; a maioria dos casos resolve em 7 a 14 dias (mais com depot).",
+     "Reiniciar antipsicótico só se for claramente necessário, após pelo menos 2 semanas da resolução completa (mais após depot).",
+     "Preferir antipsicótico estruturalmente diferente e de baixa afinidade D2 (quetiapina, aripiprazol, clozapina), dose baixa e titulação lenta; evitar depot e alta potência.",
+     "Recorrência em cerca de 30% das reexposições; monitorar temperatura, pulso, pressão e CPK durante a titulação.",
+     "Documentar o episódio de forma visível no prontuário e informar o paciente."
+    ]
+   }
+  ],
+  "duracao": "A SNM dura em média 7 a 10 dias com antipsicóticos orais e até 2 a 4 semanas com depot. Manter bromocriptina ou dantroleno por cerca de 10 dias após o controle e retirar gradualmente, pelo risco de rebote.",
+  "monitorar": [
+   "Temperatura, frequência cardíaca, pressão e frequência respiratória contínuas",
+   "CPK, função renal, potássio, cálcio, fósforo e mioglobina urinária diários",
+   "Nível de consciência e capacidade de deglutição",
+   "Enzimas hepáticas com dantroleno",
+   "Sinais de trombose venosa e pneumonia aspirativa",
+   "CPK e sinais vitais na reintrodução de antipsicótico"
+  ]
+ },
+ "Intoxicação": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): critérios gerais de intoxicação por substância",
+   "cid": "CID-10 F10.0 a F19.0 (intoxicação aguda), T36 a T50 (envenenamento por medicamentos); CID-11 subcódigo .3 de cada substância (ex.: 6C40.3 intoxicação por álcool)",
+   "itens": [
+    {"r": "A", "t": "Uso recente da substância."},
+    {"r": "B", "t": "Alterações comportamentais ou psicológicas problemáticas e clinicamente significativas durante ou logo após o uso (desinibição, agressividade, labilidade, julgamento prejudicado)."},
+    {"r": "C", "t": "Sinais específicos da substância:", "sub": [
+     "Álcool, sedativos, hipnóticos e ansiolíticos: 1 ou mais de fala arrastada, incoordenação, marcha instável, nistagmo, prejuízo de atenção ou memória, estupor ou coma.",
+     "Opioides: miose (ou midríase por anóxia em superdosagem grave) e 1 ou mais de sonolência ou coma, fala arrastada, prejuízo de atenção ou memória.",
+     "Estimulantes (cocaína, anfetaminas): 2 ou mais de taquicardia ou bradicardia, midríase, pressão elevada ou baixa, sudorese ou calafrios, náuseas ou vômitos, perda de peso, agitação ou retardo psicomotor, fraqueza muscular com depressão respiratória, dor torácica ou arritmia, confusão, convulsões, discinesias, distonias ou coma.",
+     "Cannabis: em até 2 horas, 2 ou mais de hiperemia conjuntival, aumento do apetite, boca seca, taquicardia.",
+     "Alucinógenos: alterações perceptivas com consciência preservada e 2 ou mais de midríase, taquicardia, sudorese, palpitações, visão turva, tremores, incoordenação."
+    ]},
+    {"r": "D", "t": "Os sinais não são atribuíveis a outra condição médica nem mais bem explicados por outro transtorno mental, incluindo intoxicação por outra substância."}
+   ],
+   "especificadores": [
+    "Com perturbações da percepção (opioides, cannabis, estimulantes): alucinações com teste de realidade preservado ou ilusões fora de delirium.",
+    "Com ou sem transtorno por uso comórbido (define o código no DSM-5-TR)."
+   ],
+   "notas": [
+    "Toxíndromes orientam a conduta antes dos exames: opioide (miose, bradipneia, rebaixamento); sedativo-hipnótico (rebaixamento com sinais vitais pouco alterados); simpaticomimético (taquicardia, hipertensão, hipertermia, midríase, sudorese); anticolinérgico (pele seca e quente, rubor, midríase, retenção urinária, íleo, delirium); colinérgico (miose, sialorreia, broncorreia, bradicardia, diarreia); serotoninérgico (clônus, hiper-reflexia).",
+    "Na superdosagem intencional com psicofármacos, presumir intoxicação mista e solicitar paracetamol sérico, pelo potencial de lesão hepática tardia sem sintomas iniciais.",
+    "Intoxicação por lítio pode ser aguda, crônica ou crônica agudizada; a crônica causa mais neurotoxicidade com níveis menores."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "O que você tomou ou usou, quanto e a que horas?",
+    "Tomou junto álcool ou outros remédios?",
+    "Para o familiar: havia cartelas vazias, frascos ou bilhete? Quais remédios há em casa?",
+    "Você tomou para morrer ou para dormir e esquecer? Ainda pensa nisso?",
+    "É usuário frequente de calmantes, opioides ou álcool? (risco de abstinência precipitada)",
+    "Tem convulsões, doença cardíaca, renal ou hepática?",
+    "Está grávida ou pode estar?"
+   ],
+   "sinais": [
+    "Rebaixamento sem causa clara em pessoa com transtorno mental ou acesso a psicofármacos.",
+    "Miose com bradipneia: opioide; com hipotensão e ausência de miose, pensar em sedativos associados.",
+    "QRS alargado (acima de 100 ms), taquicardia e convulsões: tricíclicos, carbamazepina em doses altas ou outros bloqueadores de canal de sódio.",
+    "Tremor grosseiro, ataxia, disartria, mioclonias e confusão em usuário de lítio (especialmente com diarreia, desidratação, AINE, IECA ou tiazídico).",
+    "QTc prolongado com citalopram, escitalopram, antipsicóticos, metadona.",
+    "Convulsões com bupropiona, venlafaxina, tramadol.",
+    "Hipertermia e agitação: estimulantes, síndrome serotoninérgica, anticolinérgicos."
+   ],
+   "instrumentos": [
+    "ECG de 12 derivações em toda superdosagem de psicofármaco (QRS, QTc, onda R em aVR).",
+    "Glasgow e escala de sedação; glicemia capilar.",
+    "Dosagens séricas: paracetamol, salicilato, lítio (repetir a cada 2 a 6 horas nas formulações de liberação prolongada), valproato, carbamazepina, etanol.",
+    "Toxicológico de urina: auxilia, mas não confirma intoxicação atual (resultados positivos por dias) nem detecta muitas drogas sintéticas."
+   ]
+  },
+  "diferencial": [
+   "TCE, hemorragia intracraniana e AVC: exame neurológico e TC quando há trauma ou sinais focais.",
+   "Hipoglicemia e distúrbios eletrolíticos: glicemia e eletrólitos em todos.",
+   "Infecção do SNC e sepse: febre e rigidez de nuca.",
+   "Estado pós-ictal e estado de mal não convulsivo.",
+   "Encefalopatia hepática e encefalopatia de Wernicke em usuários de álcool.",
+   "Síndrome de abstinência mascarando ou sucedendo a intoxicação.",
+   "Transtorno psicótico ou maníaco primário: persistência após o período esperado de eliminação."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "AHA 2023 (atualização focada sobre toxicologia em suporte avançado de vida) e OMS 2014 (manejo comunitário de superdosagem de opioides)",
+    "pontos": [
+     "Prioridade: via aérea, ventilação e circulação; naloxona não substitui ventilação.",
+     "Opioides: naloxona titulada (0,04 a 0,4 mg IV, repetindo a cada 2 a 3 minutos; 2 a 4 mg intranasal ou 0,4 mg IM na comunidade), com alvo de respiração adequada, não de despertar completo, para evitar abstinência precipitada e agitação.",
+     "Observar por várias horas após a última dose de naloxona, e por mais tempo com metadona ou opioides de liberação prolongada (considerar infusão contínua).",
+     "Benzodiazepínicos: suporte ventilatório; flumazenil não é recomendado de rotina no paciente em coma indiferenciado (risco de convulsões e arritmias em usuários crônicos ou com tricíclicos).",
+     "Simpaticomiméticos: benzodiazepínicos para agitação, taquicardia e hipertensão; resfriamento na hipertermia.",
+     "Bloqueadores de canal de sódio (tricíclicos): bicarbonato de sódio 1 a 2 mEq/kg IV em bolus se QRS acima de 100 ms, arritmia ou hipotensão, com alvo de pH 7,45 a 7,55."
+    ]
+   },
+   {
+    "fonte": "Descontaminação e eliminação (AACT/EAPCCT, posições conjuntas; EXTRIP 2015 para lítio)",
+    "pontos": [
+     "Carvão ativado 50 g (1 g/kg em crianças) apenas se a ingestão for potencialmente grave, até 1 hora, e com via aérea protegida; não adsorve lítio, ferro, álcoois nem metais.",
+     "Lavagem gástrica e indução de vômito não são rotina.",
+     "Irrigação intestinal total em ingestões grandes de lítio ou de liberação prolongada, em serviço experiente.",
+     "Lítio: hidratação com soro fisiológico; hemodiálise recomendada se lítio acima de 4,0 mEq/L com função renal comprometida, ou com rebaixamento, convulsões ou arritmias; sugerida se acima de 5,0 mEq/L, confusão importante ou previsão de mais de 36 horas para chegar abaixo de 1,0 mEq/L.",
+     "Paracetamol: N-acetilcisteína conforme nomograma ou, na ingestão escalonada e com dúvida de horário, de forma empírica.",
+     "Contatar o Centro de Informação e Assistência Toxicológica (CIATox) regional ou o Disque-Intoxicação (0800 722 6001)."
+    ]
+   },
+   {
+    "fonte": "Conduta psiquiátrica após superdosagem intencional (NICE NG225, 2022)",
+    "pontos": [
+     "Avaliação psicossocial abrangente por profissional de saúde mental após estabilização clínica, não apenas escala de risco.",
+     "Não usar escalas de risco para decidir alta ou tratamento; construir plano de segurança com o paciente e a família.",
+     "Restringir o acesso a meios: dispensação fracionada, preferência por fármacos menos tóxicos em superdosagem (evitar tricíclicos e grandes quantidades de lítio).",
+     "Agendar seguimento precoce após a alta (em até 48 horas a 7 dias)."
+    ]
+   }
+  ],
+  "escolha": [
+   {"se": "Depressão respiratória por opioide", "preferir": "naloxona titulada e ventilação", "evitar": "doses altas em bolus em usuário dependente"},
+   {"se": "Coma de causa desconhecida ou superdosagem mista", "preferir": "suporte ventilatório, ECG, dosagens séricas", "evitar": "flumazenil"},
+   {"se": "Agitação por estimulantes", "preferir": "benzodiazepínicos", "evitar": "antipsicóticos de alta potência isolados, contenção prolongada"},
+   {"se": "QRS alargado após antidepressivo", "preferir": "bicarbonato de sódio", "evitar": "antiarrítmicos da classe IA e IC"}
+  ],
+  "monitorar": [
+   "Frequência respiratória, saturação e nível de consciência",
+   "ECG seriado (QRS e QTc) por pelo menos 6 horas após superdosagem de antidepressivos e antipsicóticos",
+   "Níveis séricos seriados de lítio, valproato ou carbamazepina até queda consistente",
+   "Temperatura e CPK nas intoxicações por estimulantes",
+   "Risco de suicídio antes da alta"
+  ]
+ },
+ "TPB (borderline)": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10 F60.3; CID-11 6D10 (transtorno de personalidade, com gravidade) com o qualificador 6D11.5 (padrão borderline)",
+   "itens": [
+    {"r": "Padrão geral", "t": "Padrão persistente e invasivo de instabilidade nas relações interpessoais, na autoimagem e nos afetos, com impulsividade acentuada, que começa no início da vida adulta e aparece em vários contextos, indicado por 5 ou mais dos 9 itens:"},
+    {"r": "1", "t": "Esforços desesperados para evitar abandono real ou imaginado (não incluir comportamento suicida ou automutilação, contados no item 5)."},
+    {"r": "2", "t": "Relações intensas e instáveis, alternando idealização e desvalorização."},
+    {"r": "3", "t": "Perturbação da identidade: autoimagem ou senso de si acentuada e persistentemente instável."},
+    {"r": "4", "t": "Impulsividade em pelo menos 2 áreas potencialmente autodestrutivas (gastos, sexo, substâncias, direção imprudente, compulsão alimentar), sem contar comportamento suicida ou automutilação."},
+    {"r": "5", "t": "Comportamentos, gestos ou ameaças suicidas recorrentes ou automutilação."},
+    {"r": "6", "t": "Instabilidade afetiva por reatividade acentuada do humor (disforia, irritabilidade ou ansiedade episódicas, em geral de poucas horas e raramente mais que alguns dias)."},
+    {"r": "7", "t": "Sentimento crônico de vazio."},
+    {"r": "8", "t": "Raiva intensa e inadequada ou dificuldade de controlá-la (acessos de raiva, raiva constante, brigas físicas recorrentes)."},
+    {"r": "9", "t": "Ideação paranoide transitória relacionada a estresse ou sintomas dissociativos graves."}
+   ],
+   "notas": [
+    "Critérios gerais de transtorno de personalidade: padrão inflexível e estável, de início na adolescência ou início da vida adulta, com sofrimento ou prejuízo, não explicado por outro transtorno mental, substância ou condição médica.",
+    "Em menores de 18 anos, o diagnóstico exige que os traços estejam presentes há pelo menos 1 ano; é possível e útil diagnosticar na adolescência.",
+    "Modelo alternativo (Seção III do DSM-5-TR): prejuízo moderado ou maior em pelo menos 2 de 4 áreas do funcionamento (identidade, autodirecionamento, empatia, intimidade) e 4 ou mais de 7 traços (labilidade emocional, ansiedade, insegurança de separação, depressividade, impulsividade, exposição a riscos, hostilidade), sendo pelo menos um deles impulsividade, exposição a riscos ou hostilidade.",
+    "CID-11 abandonou os tipos categóricos: define gravidade (leve, moderada, grave) e permite o qualificador de padrão borderline, cujos critérios espelham os 9 itens do DSM.",
+    "Há 256 combinações possíveis de 5 critérios, o que explica a heterogeneidade clínica."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Suas emoções mudam muito rápido, várias vezes no mesmo dia, depois de algo que acontece com as pessoas à sua volta?",
+    "Você sente muito medo de ser abandonado? O que costuma fazer quando sente que alguém vai se afastar?",
+    "Suas relações costumam ser intensas, com fases em que a pessoa é perfeita e fases em que você a despreza?",
+    "Você às vezes sente que não sabe quem é ou muda muito de objetivos, valores e amizades?",
+    "Você já se cortou, se queimou ou se machucou de propósito? O que sente antes e depois?",
+    "Você sente um vazio por dentro com frequência?",
+    "Tem explosões de raiva que depois acha exageradas?",
+    "Em momentos de muito estresse, sente que as coisas não são reais, que está fora do corpo, ou que as pessoas estão contra você?",
+    "Faz coisas por impulso que depois trazem problema, como gastar, beber, dirigir em alta velocidade ou ter relações sexuais de risco?"
+   ],
+   "sinais": [
+    "Autolesão repetida sem intenção suicida, com alívio de tensão emocional.",
+    "Múltiplas tentativas de suicídio por superdosagem e idas repetidas à emergência em crises interpessoais.",
+    "Diagnóstico prévio de bipolar ou depressão resistente com resposta pobre a vários fármacos e polifarmácia.",
+    "Oscilações de humor de horas, reativas a conflitos, e não episódios de dias a semanas.",
+    "Relação com a equipe marcada por idealização e desvalorização, divisão da equipe.",
+    "História de trauma na infância, negligência ou invalidação emocional (frequente, mas não obrigatória).",
+    "Uso de substâncias, compulsão alimentar e comportamentos sexuais de risco em adolescente ou adulto jovem."
+   ],
+   "instrumentos": [
+    "MSI-BPD (McLean Screening Instrument): 10 itens; 7 ou mais sugere TPB.",
+    "SCID-5-PD: entrevista estruturada para confirmação.",
+    "ZAN-BPD (Zanarini Rating Scale): gravidade e resposta ao tratamento, de 0 a 36.",
+    "BSL-23 (Borderline Symptom List): gravidade autorrelatada.",
+    "C-SSRS para ideação e comportamento suicida."
+   ]
+  },
+  "diferencial": [
+   "Transtorno bipolar: episódios de dias a semanas com mudança de sono, energia e atividade, não apenas reatividade a conflitos; os dois podem coexistir.",
+   "TEPT complexo (CID-11): desregulação afetiva, autoconceito negativo e dificuldades relacionais após trauma prolongado, sem o medo de abandono e a instabilidade da identidade típicos do TPB.",
+   "Depressão maior: humor persistentemente baixo por pelo menos 2 semanas; no TPB a disforia é flutuante e reativa.",
+   "TDAH: impulsividade desde a infância, desatenção, sem medo de abandono; comorbidade frequente.",
+   "Transtorno de personalidade antissocial: agressividade instrumental e ausência de culpa; no TPB a impulsividade é reativa e autodirigida.",
+   "Transtorno de personalidade histriônico e narcisista: busca de atenção ou de admiração, sem autolesão, vazio e dissociação tão marcados.",
+   "Alterações de personalidade por uso de substâncias ou condição médica (TCE, epilepsia do lobo temporal).",
+   "Transtornos psicóticos: sintomas persistentes, não transitórios e ligados a estresse."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "APA 2024 (Practice Guideline for the Treatment of Patients With Borderline Personality Disorder, 2.ª edição)",
+    "pontos": [
+     "Psicoterapia estruturada com evidência para TPB é o tratamento principal (recomendação 1B); as opções com mais evidência são DBT e MBT, e também TFP, terapia do esquema, STEPPS e manejo psiquiátrico geral (GPM).",
+     "Avaliação inicial com rastreio de risco de suicídio, comorbidades, trauma, uso de substâncias e plano de tratamento documentado.",
+     "Psicoeducação sobre o diagnóstico e o prognóstico favorável (remissão frequente dos sintomas impulsivos).",
+     "Farmacoterapia não deve ser o tratamento principal (2C); quando usada, deve ser dirigida a sintomas-alvo específicos, por tempo limitado, adjuvante à psicoterapia.",
+     "Revisar e reconciliar medicações periodicamente, suspendendo as que não mostram benefício; evitar polifarmácia.",
+     "Preferir fármacos pouco tóxicos em superdosagem e dispensar quantidades pequenas.",
+     "Tratar comorbidades (depressão maior, TEPT, uso de substâncias, TDAH, transtornos alimentares) segundo suas próprias diretrizes."
+    ]
+   },
+   {
+    "fonte": "NICE CG78 (2009) e NICE NG225 (2022, autolesão)",
+    "pontos": [
+     "Não usar fármacos especificamente para o TPB nem para sintomas isolados como autolesão, instabilidade afetiva, impulsividade, raiva ou sintomas psicóticos transitórios.",
+     "Em crise, considerar sedativo anti-histamínico por curto prazo (no máximo 1 semana) em vez de benzodiazepínico.",
+     "Oferecer programa psicológico de mais de 3 meses; não oferecer intervenções breves de menos de 3 meses para os sintomas centrais.",
+     "DBT deve ser considerada para mulheres com TPB cuja prioridade é reduzir autolesão recorrente.",
+     "Serviços especializados devem oferecer plano de crise, coordenação de cuidado e acesso a internação breve e com objetivos claros quando necessário.",
+     "Não oferecer fármacos para reduzir autolesão (NG225)."
+    ]
+   },
+   {
+    "fonte": "Evidência de farmacoterapia (Cochrane, Stoffers-Winterling 2022; ensaios randomizados)",
+    "pontos": [
+     "Nenhum fármaco mostrou efeito consistente sobre a gravidade global do TPB; a certeza da evidência é baixa a muito baixa.",
+     "Raiva e impulsividade: topiramato 200 a 250 mg/dia, aripiprazol 15 mg/dia, valproato 500 a 1.500 mg/dia, com efeitos em ensaios pequenos.",
+     "Quetiapina 150 mg/dia reduziu a gravidade na ZAN-BPD (Black 2014), com melhor tolerância que 300 mg.",
+     "Lamotrigina foi ineficaz no ensaio LABILE (Crawford 2018, 276 participantes) e não deve ser usada para os sintomas centrais.",
+     "ISRS não tratam os sintomas centrais; usar apenas quando há depressão maior ou outro transtorno comórbido que os indique.",
+     "Clozapina (em geral 25 a 200 mg/dia) tem evidência de séries e estudos abertos na autolesão grave e refratária; um ensaio randomizado britânico foi encerrado por baixa inclusão."
+    ]
+   }
+  ]
+ },
+ "Impulsividade e agressividade": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno explosivo intermitente, principal diagnóstico centrado na agressividade impulsiva; em outros contextos, a agressividade é tratada como sintoma do transtorno de base",
+   "cid": "CID-10 F63.8 (transtorno explosivo intermitente); CID-11 6C73",
+   "itens": [
+    {"r": "A", "t": "Explosões comportamentais recorrentes que representam falha em controlar impulsos agressivos, com qualquer um dos padrões:", "sub": [
+     "Agressão verbal (acessos de raiva, discussões, brigas verbais) ou agressão física contra propriedade, animais ou pessoas, em média 2 vezes por semana por 3 meses, sem dano ou lesão.",
+     "3 explosões com dano ou destruição de propriedade ou agressão física com lesão em animais ou pessoas em 12 meses."
+    ]},
+    {"r": "B", "t": "A intensidade da agressão é muito desproporcional à provocação ou ao estressor."},
+    {"r": "C", "t": "As explosões não são premeditadas (são impulsivas ou movidas por raiva) nem visam objetivo concreto (dinheiro, poder, intimidação)."},
+    {"r": "D", "t": "Causam sofrimento importante, prejuízo ocupacional ou interpessoal, ou consequências financeiras ou legais."},
+    {"r": "E", "t": "Idade de pelo menos 6 anos (ou nível de desenvolvimento equivalente)."},
+    {"r": "F", "t": "Não são mais bem explicadas por outro transtorno mental, condição médica (TCE, Alzheimer) ou efeito de substância; pode ser diagnosticado junto com TDAH, transtorno de conduta, transtorno de oposição desafiante ou TEA quando as explosões excedem o esperado nesses quadros e merecem atenção própria."}
+   ],
+   "notas": [
+    "Distinguir agressividade impulsiva (reativa, afetiva, com excitação autonômica e arrependimento) da instrumental (proativa, planejada, com objetivo); os fármacos atuam sobretudo na primeira.",
+    "Transtornos em que a agressividade é frequente: esquizofrenia, mania, TDAH, transtorno de conduta e de oposição desafiante, TEA, deficiência intelectual, TPB e antissocial, demência, TCE, epilepsia, uso de álcool e estimulantes.",
+    "Na deficiência intelectual e no TEA, o termo comportamento desafiador (NICE NG11) inclui agressão, autolesão e destruição; a análise funcional orienta o tratamento."
+   ]
+  },
+  "rastreio": {
+   "perguntas": [
+    "Com que frequência você perde o controle e grita, quebra coisas ou agride alguém?",
+    "O que costuma desencadear? A reação é proporcional ao que aconteceu?",
+    "As explosões são planejadas ou acontecem sem você pensar? Como se sente depois?",
+    "Já machucou alguém ou teve problema com a polícia ou no trabalho por isso?",
+    "Você usa álcool ou drogas antes dessas situações?",
+    "Tem acesso a armas em casa?",
+    "Já teve traumatismo craniano, convulsões ou perda de consciência?",
+    "Para o cuidador: em que situações, horários e ambientes o comportamento aparece? O que acontece logo depois? (análise funcional)"
+   ],
+   "sinais": [
+    "Explosões desproporcionais repetidas com arrependimento posterior.",
+    "Mudança de comportamento após TCE, AVC ou início de demência.",
+    "Agressividade nova em pessoa com deficiência intelectual ou TEA e comunicação limitada: investigar dor, constipação, infecção, problema dentário, convulsões, efeitos adversos (acatisia).",
+    "Irritabilidade com euforia, redução de sono ou pensamento acelerado: mania.",
+    "Agressividade ligada a delírios persecutórios ou alucinações de comando.",
+    "Uso de álcool, estimulantes, esteroides anabolizantes ou abstinência.",
+    "Histórico de violência, principal preditor de violência futura."
+   ],
+   "instrumentos": [
+    "Overt Aggression Scale Modificada (MOAS): agressão verbal, contra propriedade, autoagressão e agressão física, com pontuação ponderada; útil para medir resposta.",
+    "Escala de Impulsividade de Barratt (BIS-11): 30 itens para impulsividade como traço.",
+    "Aberrant Behavior Checklist, subescala de irritabilidade (ABC-I): desfecho padrão nos ensaios em TEA e deficiência intelectual.",
+    "Brøset Violence Checklist (BVC): risco em 24 horas em internação; 3 ou mais indica risco alto.",
+    "HCR-20 V3: avaliação estruturada de risco de violência a longo prazo (uso forense)."
+   ]
+  },
+  "diferencial": [
+   "Agressividade instrumental ou antissocial: planejada, com ganho; não responde a fármacos.",
+   "Mania e episódios mistos: humor, sono e energia alterados em episódios.",
+   "Psicose: agressividade motivada por delírios; clozapina quando persistente.",
+   "Delirium e demência: início recente, flutuação ou declínio cognitivo.",
+   "Intoxicação e abstinência: relação temporal com o uso.",
+   "Acatisia: inquietação que surge após antipsicótico e pode se manifestar como agressividade.",
+   "TPB: raiva reativa a percepção de abandono, com autolesão e instabilidade afetiva.",
+   "Epilepsia do lobo temporal: agressividade ictal é rara e não dirigida; a peri-ictal é mais frequente."
+  ],
+  "manejo_diretrizes": [
+   {
+    "fonte": "NICE NG11 (2015), comportamento desafiador em deficiência intelectual, e princípios STOMP (Reino Unido, 2016)",
+    "pontos": [
+     "Avaliação funcional do comportamento e plano de apoio comportamental positivo antes de qualquer fármaco.",
+     "Considerar antipsicótico apenas se intervenções psicológicas não funcionaram no prazo combinado, se o tratamento de problemas de saúde física ou mental não reduziu o comportamento, ou se o risco é grave.",
+     "Iniciar em dose baixa, usar a menor dose eficaz e monitorar com escala; revisar em 3 a 4 semanas e suspender se não houver resposta em 6 semanas.",
+     "Revisar a medicação ao menos a cada 6 a 12 meses e tentar retirar gradualmente; STOMP visa reduzir o uso de psicotrópicos sem indicação."
+    ]
+   },
+   {
+    "fonte": "NICE CG158 (2013, atualizada 2017), transtornos de conduta em crianças e adolescentes, e dados de TEA",
+    "pontos": [
+     "Treino parental (3 a 11 anos) e intervenções multimodais em adolescentes são a base; não usar fármacos rotineiramente.",
+     "Risperidona pode ser considerada para agressividade grave com explosões de raiva e desregulação emocional que não responderam a intervenções psicossociais; revisar em 3 a 4 semanas e suspender em 6 semanas se não houver resposta.",
+     "Com TDAH comórbido, tratar primeiro o TDAH: estimulantes reduzem agressividade.",
+     "No TEA, risperidona (0,5 a 3 mg/dia) e aripiprazol (2 a 15 mg/dia) têm os melhores dados para irritabilidade (ensaios RUPP); monitorar peso, prolactina e perfil metabólico."
+    ]
+   },
+   {
+    "fonte": "Esquizofrenia, TCE e transtorno explosivo intermitente (Maudsley 15.ª ed., 2025; Warden e colaboradores, 2006)",
+    "pontos": [
+     "Agressividade persistente na esquizofrenia: clozapina é superior a olanzapina e haloperidol (Krakowski 2006); considerar mesmo sem critérios formais de resistência.",
+     "TCE: betabloqueador (propranolol titulado até 320 mg/dia, se tolerado) tem a melhor evidência; alternativas: amantadina 100 mg 2 vezes ao dia (Hammond 2014), valproato, carbamazepina, ISRS; evitar benzodiazepínicos e antipsicóticos de alta potência (podem prejudicar a recuperação).",
+     "Transtorno explosivo intermitente: fluoxetina 20 a 60 mg/dia reduziu agressividade impulsiva (Coccaro 2009), com remissão em menos da metade; TCC focada em raiva tem eficácia semelhante.",
+     "Agressividade impulsiva em transtornos do espectro bipolar e de personalidade: valproato (Hollander 2003), lítio, oxcarbazepina ou topiramato como alternativas.",
+     "Autolesão repetitiva em deficiência intelectual: naltrexona (0,5 a 2 mg/kg/dia) com evidência modesta."
+    ]
+   }
+  ],
+  "escolha": [
+   {"se": "Esquizofrenia com violência persistente", "preferir": "clozapina", "evitar": "associação de vários antipsicóticos sem ensaio de clozapina"},
+   {"se": "Deficiência intelectual ou TEA", "preferir": "intervenção comportamental; risperidona ou aripiprazol se necessário", "evitar": "antipsicótico sem análise funcional e sem data de revisão"},
+   {"se": "TCE", "preferir": "propranolol, amantadina", "evitar": "benzodiazepínicos, antipsicóticos de alta potência"},
+   {"se": "TDAH com agressividade", "preferir": "otimizar estimulante", "evitar": "antipsicótico antes de tratar o TDAH"},
+   {"se": "Transtorno explosivo intermitente", "preferir": "fluoxetina e TCC", "evitar": "benzodiazepínicos (desinibição)"}
+  ],
+  "populacoes": [
+   {"grupo": "Crianças e adolescentes", "texto": "Antipsicóticos causam ganho de peso e alterações metabólicas mais intensos; medir peso, circunferência, glicemia, lipídios e prolactina no início, em 12 semanas e depois periodicamente."},
+   {"grupo": "Idosos com demência", "texto": "Seguir a abordagem de agitação na demência; antipsicóticos aumentam mortalidade e AVC."},
+   {"grupo": "Mulheres em idade fértil", "texto": "Evitar valproato; preferir alternativas com contracepção adequada."}
+  ],
+  "duracao": "Revisar a necessidade a cada 3 a 6 meses. Na deficiência intelectual, tentar reduzir gradualmente após 6 a 12 meses de estabilidade (ensaios de retirada mostram que parte dos pacientes se mantém bem com dose menor ou sem medicação). Clozapina na esquizofrenia é mantida a longo prazo.",
+  "monitorar": [
+   "Frequência e gravidade dos episódios com escala (MOAS ou ABC-I)",
+   "Peso, glicemia, lipídios e prolactina com antipsicóticos",
+   "Pressão e frequência cardíaca com betabloqueadores e alfa-2 agonistas",
+   "Níveis séricos e função hepática com lítio, valproato e carbamazepina",
+   "Acatisia e sedação"
+  ]
+ }
+}

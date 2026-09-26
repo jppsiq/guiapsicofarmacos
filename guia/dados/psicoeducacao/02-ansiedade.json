@@ -1,0 +1,1428 @@
+{
+ "TAG": [
+  {
+   "id": "o-que-e-tag",
+   "titulo": "Ansiedade generalizada: o que é e como se trata",
+   "subtitulo": "Quando a preocupação passa a mandar no dia",
+   "publico": "Paciente e família",
+   "figura": "ciclo-ansiedade",
+   "figura_legenda": "Preocupação, tensão no corpo e tentativas de controle se alimentam num círculo.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Todo mundo se preocupa. No **transtorno de ansiedade generalizada (TAG)**, a preocupação é excessiva, difícil de controlar e dura a maior parte dos dias, por pelo menos 6 meses. Ela pula de um assunto para outro: saúde, dinheiro, trabalho, família.\n\nO corpo acompanha: tensão nos músculos, cansaço, irritação, dificuldade de concentrar e de dormir. É comum a pessoa também ter depressão. O TAG não é frescura nem fraqueza: é uma condição de saúde comum e tratável."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como funciona o ciclo",
+     "texto": "A preocupação parece útil (\"se eu pensar em tudo, fico preparado\"), mas mantém o corpo em alerta. Para aliviar, a pessoa verifica, pede garantias, evita ou adia decisões. O alívio dura pouco e ensina ao cérebro que era preciso se preocupar. O tratamento ajuda a quebrar esse círculo."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que ajuda",
+     "itens": [
+      "**Terapia cognitivo-comportamental (TCC)**: tão eficaz quanto remédio e com efeito duradouro. Existe em formato individual, em grupo e digital.",
+      "**Remédios**: antidepressivos (como escitalopram, sertralina, venlafaxina, duloxetina) ou pregabalina. A melhora vem em semanas.",
+      "**Relaxamento, respiração e mindfulness** (atenção plena).",
+      "**Exercício físico regular** e **sono** em horários regulares.",
+      "Reduzir **cafeína** (café, energético, refrigerante de cola) e **álcool**."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Calmante resolve o TAG.",
+       "fato": "Os calmantes do tipo benzodiazepínico (como clonazepam e diazepam) aliviam por pouco tempo, podem causar dependência e não tratam a depressão que costuma vir junto. Quando usados, devem ser por curto prazo."
+      },
+      {
+       "mito": "Se eu parar de me preocupar, algo ruim vai acontecer.",
+       "fato": "A preocupação não impede problemas. Resolver o que dá para resolver e soltar o resto funciona melhor."
+      },
+      {
+       "mito": "Tratamento é para sempre.",
+       "fato": "O remédio costuma ser mantido por pelo menos 12 meses depois da melhora e retirado aos poucos, com a equipe. As habilidades da TCC ficam com você."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Objetivo realista",
+     "texto": "A meta não é nunca mais se preocupar, e sim voltar a viver bem, com a preocupação em tamanho normal."
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de morte, de se machucar ou de que não vale a pena viver.",
+    "Dor no peito forte, falta de ar que não passa, desmaio ou sintomas diferentes das crises habituais.",
+    "Uso de álcool, remédios ou drogas em grande quantidade para aliviar a ansiedade."
+   ],
+   "fonte": "CANMAT 2014; NICE CG113; BAP 2014"
+  },
+  {
+   "id": "tempo-da-preocupacao",
+   "titulo": "Tempo da preocupação",
+   "subtitulo": "Um horário marcado para as preocupações, e o resto do dia livre",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Para que serve",
+     "texto": "Quem tem TAG sente que a preocupação invade o dia inteiro. O **tempo da preocupação** é uma técnica da TCC: em vez de brigar com cada pensamento, você o **adia** para um horário marcado. Com a prática, você percebe que consegue decidir quando se preocupar e que muitas preocupações perdem a força sozinhas."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Passo a passo",
+     "itens": [
+      "Escolha um horário fixo de **15 a 20 minutos** por dia, no mesmo lugar (por exemplo, 18h na mesa da cozinha). Evite perto da hora de dormir.",
+      "Durante o dia, quando surgir uma preocupação, anote em poucas palavras numa folha ou no celular.",
+      "Diga a si mesmo: \"Vou pensar nisso às 18h\". Volte com atenção para o que estava fazendo.",
+      "No horário marcado, leia a lista. Para cada item pergunte: **dá para fazer algo sobre isso?**",
+      "Se sim, escreva um primeiro passo concreto e quando vai fazê-lo.",
+      "Se não depende de você, anote que é uma preocupação sem solução agora e deixe ir.",
+      "Quando o tempo acabar, pare, mesmo que falte assunto. Faça algo agradável em seguida."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Minha lista de preocupações",
+     "colunas": [
+      "Preocupação",
+      "Dá para fazer algo? (sim ou não)",
+      "Primeiro passo e quando"
+     ],
+     "linhas": [],
+     "linhas_vazias": 8
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Dicas",
+     "sim": [
+      "Seja paciente: nas primeiras semanas é difícil adiar.",
+      "Repare quantas preocupações já não importam na hora marcada.",
+      "Use junto com a respiração lenta se o corpo estiver tenso."
+     ],
+     "nao": [
+      "Transformar o tempo da preocupação em horas de ruminação.",
+      "Pesquisar na internet ou pedir garantias a cada preocupação.",
+      "Desistir porque um dia não deu certo."
+     ]
+    }
+   ],
+   "fonte": "Borkovec (controle de estímulo da preocupação); CANMAT 2014; NICE CG113"
+  },
+  {
+   "id": "respiracao-lenta",
+   "titulo": "Respiração lenta",
+   "subtitulo": "Um freio simples para o corpo acelerado",
+   "publico": "Paciente",
+   "figura": "respiracao",
+   "figura_legenda": "Inspire contando até 4, segure até 2, solte o ar devagar contando até 6.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que funciona",
+     "texto": "Quando a ansiedade sobe, o corpo entra em modo de alerta: o coração acelera e a respiração fica curta e rápida. Respirar rápido demais pode trazer tontura, formigamento e sensação de falta de ar, o que assusta ainda mais.\n\nSoltar o ar **devagar** ativa o sistema de calma do corpo. A respiração lenta não elimina a ansiedade de uma vez, mas ajuda o corpo a sair do modo de alarme e deixa você pensar com mais clareza."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como fazer (4-2-6)",
+     "itens": [
+      "Sente-se ou deite-se de um jeito confortável. Solte os ombros.",
+      "Coloque uma mão na barriga. Ao puxar o ar, a barriga sobe; o peito quase não se mexe.",
+      "Inspire pelo nariz contando devagar até **4**.",
+      "Segure o ar contando até **2**.",
+      "Solte o ar pela boca, bem devagar, contando até **6**, como se apagasse uma vela sem pressa.",
+      "Repita por 3 a 5 minutos. Se ficar tonto, respire mais suave, sem puxar muito ar."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Dicas",
+     "sim": [
+      "Treine 2 vezes por dia quando estiver calmo, para o corpo aprender.",
+      "Use também antes de situações difíceis e no meio delas.",
+      "Combine com a volta às atividades: respirar e seguir em frente."
+     ],
+     "nao": [
+      "Usar a respiração para fugir de toda situação que dá medo.",
+      "Achar que falhou porque a ansiedade não sumiu por completo.",
+      "Respirar fundo e rápido várias vezes seguidas: isso piora a tontura."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Lembre",
+     "texto": "A ansiedade é desconfortável, mas não é perigosa. A respiração é uma ferramenta para atravessar o momento, não uma obrigação de fazer a ansiedade desaparecer."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu treino da semana",
+     "texto": "Anote se treinou e como estava antes e depois.",
+     "colunas": [
+      "Dia",
+      "Manhã (feito?)",
+      "Noite (feito?)",
+      "Ansiedade antes (0 a 10)",
+      "Ansiedade depois (0 a 10)"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    }
+   ],
+   "fonte": "CANMAT 2014; NICE CG113 (relaxamento aplicado)"
+  }
+ ],
+ "Transtorno de pânico": [
+  {
+   "id": "o-que-e-panico",
+   "titulo": "Pânico: o que é e como se trata",
+   "subtitulo": "Entender a crise tira boa parte do seu poder",
+   "publico": "Paciente e família",
+   "figura": "ciclo-panico",
+   "figura_legenda": "Uma sensação no corpo é lida como perigo, o medo aumenta as sensações, e o círculo gira.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é uma crise de pânico",
+     "texto": "É uma onda de medo intenso que chega ao pico em poucos minutos: coração disparado, falta de ar, tremor, suor, tontura, formigamento, sensação de irrealidade e medo de morrer, de enlouquecer ou de perder o controle.\n\nNo **transtorno de pânico**, as crises aparecem de forma inesperada e a pessoa passa a viver com medo da próxima. Muitas vezes começa a evitar lugares de onde seria difícil sair ou pedir ajuda (ônibus, filas, shopping, ficar sozinha): isso se chama **agorafobia**."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "O ciclo do pânico",
+     "texto": "Tudo começa com uma sensação comum, como o coração acelerar depois de subir uma escada. A mente interpreta como perigo (\"estou tendo um infarto\"). O medo libera adrenalina, que aumenta as sensações, e a interpretação parece se confirmar. Em minutos, vira uma crise.\n\nA crise é muito desagradável, mas **não é perigosa**: o corpo não consegue manter esse pico por muito tempo e ela passa sozinha, em geral em 10 a 30 minutos."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que ajuda",
+     "itens": [
+      "**TCC com exposição**: é o tratamento com efeito mais duradouro. Inclui aprender o ciclo do pânico, provocar de propósito as sensações temidas (exposição interoceptiva) e voltar aos lugares evitados.",
+      "**Antidepressivos** (ISRS como sertralina, escitalopram, ou venlafaxina), começando com dose baixa, porque no pânico o corpo é sensível à ativação do início.",
+      "Às vezes um calmante (benzodiazepínico) por algumas semanas, como ponte, **com plano de retirada** combinado desde o início.",
+      "Reduzir cafeína, energéticos e evitar drogas estimulantes."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Posso morrer numa crise de pânico.",
+       "fato": "A crise dá sensação de morte, mas não causa infarto nem para a respiração. Antes do diagnóstico, o médico descarta causas do coração e outras doenças."
+      },
+      {
+       "mito": "Vou desmaiar.",
+       "fato": "Na crise a pressão costuma subir, o que torna o desmaio raro."
+      },
+      {
+       "mito": "O melhor é ter sempre um calmante no bolso.",
+       "fato": "Usar calmante \"se precisar\" como principal estratégia mantém o medo e pode causar dependência. O tratamento de base é o antidepressivo e a TCC."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Para a família",
+     "texto": "Durante a crise, fique calmo, fale devagar e lembre: \"é uma crise de pânico, ela vai passar\". Evite correr com a pessoa para longe de todo lugar difícil: isso reforça a evitação."
+    }
+   ],
+   "ajuda": [
+    "Dor no peito diferente das crises habituais, que não passa, ou em quem tem doença do coração.",
+    "Falta de ar com lábios roxos, desmaio, fraqueza de um lado do corpo ou fala enrolada.",
+    "Pensamentos de morte ou de se machucar."
+   ],
+   "fonte": "CANMAT 2014; APA 2009; NICE CG113"
+  },
+  {
+   "id": "exposicao-interoceptiva",
+   "titulo": "Perdendo o medo das sensações",
+   "subtitulo": "Exposição interoceptiva, passo a passo",
+   "publico": "Paciente",
+   "figura": "ciclo-panico",
+   "figura_posicao": "fim",
+   "figura_legenda": "Cada exercício mostra ao cérebro que a sensação é só uma sensação.",
+   "blocos": [
+    {
+     "tipo": "destaque",
+     "titulo": "Antes de começar",
+     "texto": "Faça estes exercícios **com orientação do seu terapeuta ou médico**. Converse antes se você tem asma, doença do coração, pressão alta, epilepsia, problema de coluna ou está grávida."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "No pânico, o medo não é só dos lugares: é das **sensações do corpo**. A exposição interoceptiva provoca essas sensações de propósito, num lugar seguro, para o cérebro aprender que coração acelerado, tontura ou falta de ar são desconfortáveis, mas passam e não são perigosos."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Exercícios mais usados",
+     "colunas": [
+      "Exercício",
+      "Sensação que costuma provocar"
+     ],
+     "linhas": [
+      [
+       "Girar numa cadeira giratória por 1 minuto",
+       "Tontura"
+      ],
+      [
+       "Correr parado no lugar ou subir escada por 1 minuto",
+       "Coração acelerado, calor"
+      ],
+      [
+       "Respirar por um canudo fino, com o nariz tapado, por 1 minuto",
+       "Falta de ar"
+      ],
+      [
+       "Respirar rápido e fundo por 30 a 60 segundos",
+       "Tontura, formigamento, irrealidade"
+      ],
+      [
+       "Balançar a cabeça de um lado para o outro por 30 segundos",
+       "Tontura"
+      ],
+      [
+       "Olhar fixo para uma luz ou para o espelho por 1 a 2 minutos",
+       "Sensação de irrealidade"
+      ]
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como praticar",
+     "itens": [
+      "Escolha um exercício que dá medo moderado.",
+      "Antes, anote o medo de 0 a 10.",
+      "Faça o exercício pelo tempo combinado, **sem tentar controlar** as sensações.",
+      "Depois, fique quieto e observe as sensações irem embora sozinhas.",
+      "Anote o medo e o que aprendeu (por exemplo: \"a tontura passou em 2 minutos\").",
+      "Repita até o medo daquele exercício ficar baixo, então passe para outro.",
+      "Depois leve para a vida real: tomar café, fazer exercício, subir escadas, ir a lugares quentes."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu registro",
+     "colunas": [
+      "Data",
+      "Exercício",
+      "Medo antes (0 a 10)",
+      "Medo depois (0 a 10)",
+      "O que aprendi"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    }
+   ],
+   "fonte": "CANMAT 2014; protocolos de TCC para pânico (Barlow e Craske)"
+  },
+  {
+   "id": "voltar-aos-lugares",
+   "titulo": "Voltando aos lugares evitados",
+   "subtitulo": "Escada de exposição para a agorafobia",
+   "publico": "Paciente",
+   "figura": "escada-exposicao",
+   "figura_legenda": "Comece pelo degrau mais fácil e só suba quando o medo daquele degrau tiver diminuído.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A ideia da exposição",
+     "texto": "Evitar o que dá medo alivia na hora, mas ensina ao cérebro que aquilo era mesmo perigoso. Com o tempo, o medo cresce e a vida fica menor.\n\nA **exposição** é enfrentar o medo aos poucos, de forma planejada, ficando na situação tempo suficiente para descobrir que dá para aguentar e que o pior quase nunca acontece. É a parte central da terapia cognitivo-comportamental (TCC) para ansiedade."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como montar a sua escada",
+     "itens": [
+      "Liste de 8 a 10 situações que você evita ou enfrenta com muito medo.",
+      "Dê uma nota de 0 a 10 para o medo de cada uma.",
+      "Organize da mais fácil para a mais difícil: esses são os degraus.",
+      "Comece por um degrau com medo por volta de 3 ou 4.",
+      "Fique na situação até o medo baixar um pouco, ou até terminar o que planejou. Não fuja no pico.",
+      "Repita o mesmo degrau várias vezes na semana, de preferência todos os dias.",
+      "Quando aquele degrau ficar fácil, suba para o próximo."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Exemplo de escada",
+     "colunas": [
+      "Degrau",
+      "Medo (0 a 10)"
+     ],
+     "linhas": [
+      [
+       "Ir à padaria perto de casa acompanhado",
+       "3"
+      ],
+      [
+       "Ir à padaria sozinho",
+       "4"
+      ],
+      [
+       "Ficar na fila do mercado em horário calmo",
+       "5"
+      ],
+      [
+       "Andar 2 pontos de ônibus acompanhado",
+       "6"
+      ],
+      [
+       "Andar 2 pontos de ônibus sozinho",
+       "7"
+      ],
+      [
+       "Ir ao shopping num sábado",
+       "8"
+      ],
+      [
+       "Viajar de ônibus até o centro sozinho",
+       "9"
+      ]
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Minha escada",
+     "colunas": [
+      "Degrau (situação)",
+      "Medo antes (0 a 10)",
+      "Data em que pratiquei",
+      "Medo no fim (0 a 10)"
+     ],
+     "linhas": [],
+     "linhas_vazias": 8
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para dar certo",
+     "sim": [
+      "Pratique com frequência: repetição vale mais que um grande esforço isolado.",
+      "Deixe de lado as \"muletas\" aos poucos (celular na mão, olhar para o chão, levar alguém junto).",
+      "Comemore cada degrau vencido."
+     ],
+     "nao": [
+      "Pular para o degrau mais difícil logo de início.",
+      "Sair da situação no auge do medo.",
+      "Usar álcool ou remédio extra para aguentar a exposição, sem combinar com a equipe."
+     ]
+    }
+   ],
+   "fonte": "CANMAT 2014; NICE CG159 e CG113"
+  }
+ ],
+ "Fobia social": [
+  {
+   "id": "o-que-e-ansiedade-social",
+   "titulo": "Ansiedade social: o que é e como se trata",
+   "subtitulo": "Muito mais que timidez",
+   "publico": "Paciente e família",
+   "figura": "ciclo-ansiedade",
+   "figura_legenda": "Medo de ser julgado, sinais de ansiedade, evitação: um círculo que se fecha.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "No **transtorno de ansiedade social** (também chamado de fobia social), a pessoa tem medo intenso de ser observada, julgada ou passar vergonha. Situações comuns, como conversar, comer diante de outros, falar ao telefone, fazer perguntas na aula ou numa reunião, viram um sofrimento.\n\nCostuma começar na adolescência e, sem tratamento, dura anos. Não é só timidez: atrapalha estudos, trabalho, amizades e namoro."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "O que mantém o problema",
+     "texto": "Para se proteger, a pessoa **evita** ou usa **comportamentos de segurança**: fica calada, não olha nos olhos, ensaia frases, segura o copo com força, bebe para se soltar. Também presta muita atenção em si mesma (\"estou vermelho, estão vendo\").\n\nEssas estratégias dão alívio, mas impedem a pessoa de descobrir que se sairia bem. E, de fora, podem até parecer frieza."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que ajuda",
+     "itens": [
+      "**TCC individual**: é o tratamento com maior efeito. Trabalha os pensamentos de julgamento, a atenção voltada para si e a exposição às situações.",
+      "**Antidepressivos** (como escitalopram, sertralina, paroxetina ou venlafaxina) ou pregabalina, quando a ansiedade é moderada a grave.",
+      "O remédio para o coração chamado propranolol ajuda só quando o medo é **apenas** de se apresentar em público; não trata a ansiedade social mais ampla."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "É só timidez, passa sozinho.",
+       "fato": "Timidez é um jeito de ser. A ansiedade social causa sofrimento e perdas, e raramente passa sem tratamento."
+      },
+      {
+       "mito": "Um copo de bebida me ajuda a me enturmar.",
+       "fato": "O álcool alivia por pouco tempo, impede de aprender que você dá conta e aumenta o risco de dependência."
+      },
+      {
+       "mito": "Todo mundo percebe o meu nervosismo.",
+       "fato": "As pessoas notam muito menos do que imaginamos. A TCC ajuda a testar isso."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Para a família",
+     "texto": "Incentive pequenos passos, elogie o esforço e evite falar pela pessoa ou resolver tudo por ela. Críticas e cobranças costumam piorar o medo."
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de morte, de se machucar ou de que não vale a pena viver.",
+    "Dor no peito forte, falta de ar que não passa, desmaio ou sintomas diferentes das crises habituais.",
+    "Uso de álcool, remédios ou drogas em grande quantidade para aliviar a ansiedade."
+   ],
+   "fonte": "CANMAT 2014; NICE CG159 (modelo de Clark e Wells)"
+  },
+  {
+   "id": "comportamentos-de-seguranca",
+   "titulo": "Largando as muletas",
+   "subtitulo": "Atenção para fora e menos comportamentos de segurança",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que são comportamentos de segurança",
+     "texto": "São coisas que você faz para não passar vergonha: falar pouco, ensaiar frases, esconder o rosto, usar roupas que escondem o suor, evitar olhar nos olhos, ficar no celular. Parecem proteger, mas fazem você parecer mais distante e impedem de aprender que daria conta sem elas."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Quais eu uso?",
+     "itens": [
+      "Evito olhar nos olhos.",
+      "Ensaio o que vou dizer antes de falar.",
+      "Falo pouco ou só respondo o necessário.",
+      "Fico no celular para não ter de conversar.",
+      "Escondo as mãos ou o rosto.",
+      "Bebo álcool antes de encontros.",
+      "Chego atrasado ou saio cedo para não ter de conversar.",
+      "Repasso na cabeça, depois, tudo o que falei."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Experimento da semana",
+     "itens": [
+      "Escolha uma situação social comum e um comportamento de segurança para deixar de lado.",
+      "Escreva o que você teme que aconteça (por exemplo: \"se eu olhar nos olhos, vão perceber que estou nervoso e vão rir\").",
+      "Durante a conversa, leve a atenção **para fora**: o rosto da pessoa, o que ela diz, o ambiente. Menos para o seu corpo.",
+      "Depois, anote o que realmente aconteceu.",
+      "Compare com o que você previa. O que isso ensina?"
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Registro dos experimentos",
+     "colunas": [
+      "Situação",
+      "Muleta que larguei",
+      "O que eu temia",
+      "O que aconteceu"
+     ],
+     "linhas": [],
+     "linhas_vazias": 6
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Lembre",
+     "texto": "Ficar ansioso numa conversa é normal. O objetivo é participar da vida, mesmo com um pouco de ansiedade."
+    }
+   ],
+   "fonte": "NICE CG159 (TCC de Clark e Wells); CANMAT 2014"
+  },
+  {
+   "id": "escada-social",
+   "titulo": "Minha escada de exposição social",
+   "subtitulo": "Enfrentar as situações sociais aos poucos",
+   "publico": "Paciente",
+   "figura": "escada-exposicao",
+   "figura_legenda": "Comece pelo degrau mais fácil e só suba quando o medo daquele degrau tiver diminuído.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A ideia da exposição",
+     "texto": "Evitar o que dá medo alivia na hora, mas ensina ao cérebro que aquilo era mesmo perigoso. Com o tempo, o medo cresce e a vida fica menor.\n\nA **exposição** é enfrentar o medo aos poucos, de forma planejada, ficando na situação tempo suficiente para descobrir que dá para aguentar e que o pior quase nunca acontece. É a parte central da terapia cognitivo-comportamental (TCC) para ansiedade."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como montar a sua escada",
+     "itens": [
+      "Liste de 8 a 10 situações que você evita ou enfrenta com muito medo.",
+      "Dê uma nota de 0 a 10 para o medo de cada uma.",
+      "Organize da mais fácil para a mais difícil: esses são os degraus.",
+      "Comece por um degrau com medo por volta de 3 ou 4.",
+      "Fique na situação até o medo baixar um pouco, ou até terminar o que planejou. Não fuja no pico.",
+      "Repita o mesmo degrau várias vezes na semana, de preferência todos os dias.",
+      "Quando aquele degrau ficar fácil, suba para o próximo."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Exemplo de escada",
+     "colunas": [
+      "Degrau",
+      "Medo (0 a 10)"
+     ],
+     "linhas": [
+      [
+       "Perguntar as horas a um desconhecido",
+       "3"
+      ],
+      [
+       "Ligar para uma loja e perguntar o preço de algo",
+       "4"
+      ],
+      [
+       "Almoçar com colegas no refeitório",
+       "5"
+      ],
+      [
+       "Puxar conversa com um colega sobre o fim de semana",
+       "6"
+      ],
+      [
+       "Fazer uma pergunta numa reunião ou aula",
+       "7"
+      ],
+      [
+       "Ir a uma festa e conversar com 2 pessoas novas",
+       "8"
+      ],
+      [
+       "Apresentar um trabalho para a turma ou equipe",
+       "9"
+      ]
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Minha escada",
+     "colunas": [
+      "Degrau (situação)",
+      "Medo antes (0 a 10)",
+      "Data em que pratiquei",
+      "Medo no fim (0 a 10)"
+     ],
+     "linhas": [],
+     "linhas_vazias": 8
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para dar certo",
+     "sim": [
+      "Pratique com frequência: repetição vale mais que um grande esforço isolado.",
+      "Deixe de lado as \"muletas\" aos poucos (celular na mão, olhar para o chão, levar alguém junto).",
+      "Comemore cada degrau vencido."
+     ],
+     "nao": [
+      "Pular para o degrau mais difícil logo de início.",
+      "Sair da situação no auge do medo.",
+      "Usar álcool ou remédio extra para aguentar a exposição, sem combinar com a equipe."
+     ]
+    }
+   ],
+   "fonte": "CANMAT 2014; NICE CG159 e CG113"
+  }
+ ],
+ "TEPT": [
+  {
+   "id": "o-que-e-tept",
+   "titulo": "Estresse pós-traumático: o que é e como se trata",
+   "subtitulo": "Quando o trauma continua acontecendo por dentro",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Depois de passar por algo muito ameaçador (violência, acidente grave, assalto, desastre, perda violenta), é comum ficar abalado por algumas semanas. Em parte das pessoas, os sintomas não passam: isso é o **transtorno de estresse pós-traumático (TEPT)**.\n\nO TEPT não é fraqueza nem falta de fé. É o sistema de alarme do cérebro que ficou ligado depois do perigo."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Os quatro grupos de sintomas",
+     "itens": [
+      "**Reviver**: lembranças que invadem, pesadelos, sensação de estar vivendo tudo de novo (flashbacks).",
+      "**Evitar**: lugares, pessoas, conversas ou pensamentos que lembrem o trauma.",
+      "**Mudanças no humor e nos pensamentos**: culpa, vergonha, sensação de que o mundo é perigoso, afastamento das pessoas, dificuldade de sentir alegria.",
+      "**Alerta constante**: sustos fáceis, irritação, dificuldade de dormir e de concentrar."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que ajuda",
+     "itens": [
+      "**Psicoterapias focadas no trauma** são o tratamento mais eficaz, mais do que qualquer remédio: terapia de processamento cognitivo, exposição prolongada, EMDR e TCC focada no trauma. Elas ajudam a guardar a memória como passado.",
+      "**Antidepressivos** (sertralina, paroxetina, venlafaxina, fluoxetina), quando a terapia não está disponível ou há depressão junto.",
+      "Tratar ao mesmo tempo o uso de álcool ou drogas, se houver.",
+      "Terapia específica para pesadelos e, em alguns casos, remédio para pesadelos indicado pelo médico."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Calmante logo depois do trauma previne o TEPT.",
+       "fato": "Os benzodiazepínicos (como clonazepam e diazepam) não previnem e podem piorar a recuperação. As diretrizes recomendam não usá-los no TEPT."
+      },
+      {
+       "mito": "Falar do trauma logo depois é obrigatório para superar.",
+       "fato": "Forçar o relato logo após o trauma não previne o TEPT. O que ajuda é apoio prático e, se os sintomas continuarem, terapia focada no trauma no tempo certo."
+      },
+      {
+       "mito": "Se não superei até agora, não tem mais jeito.",
+       "fato": "O tratamento funciona mesmo anos depois do trauma."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Segurança em primeiro lugar",
+     "texto": "Se a situação de violência ainda está acontecendo (por exemplo, em casa), a prioridade é proteger você. Converse com a equipe de saúde, a UBS ou o CAPS sobre a rede de proteção da sua cidade."
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de morte ou de se machucar.",
+    "Risco atual de violência ou ameaça à sua segurança.",
+    "Uso de álcool ou drogas fora de controle para conseguir dormir ou esquecer.",
+    "Flashbacks tão fortes que você perde a noção de onde está por muito tempo."
+   ],
+   "fonte": "VA/DoD 2023; NICE NG116; ISTSS 2019; CANMAT 2014"
+  },
+  {
+   "id": "grounding",
+   "titulo": "Voltar ao aqui e agora",
+   "subtitulo": "Técnicas de ancoragem (grounding) para lembranças e flashbacks",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Para que serve",
+     "texto": "Quando uma lembrança do trauma invade, o corpo reage como se o perigo estivesse acontecendo agora. As técnicas de **ancoragem** usam os sentidos para mostrar ao cérebro onde você está de verdade: num lugar seguro, no presente. Elas não substituem a terapia do trauma, mas ajudam a atravessar os momentos difíceis."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Técnica 5-4-3-2-1",
+     "itens": [
+      "Olhe em volta e diga **5 coisas que você vê**.",
+      "Perceba **4 coisas que você pode tocar** (a cadeira, a roupa, o chão sob os pés).",
+      "Escute **3 sons** ao seu redor.",
+      "Perceba **2 cheiros** (ou lembre de 2 cheiros de que gosta).",
+      "Perceba **1 gosto** na boca, ou tome um gole de água.",
+      "Diga em voz alta: \"Meu nome é ... Hoje é dia ... Estou em ... Estou seguro agora\"."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Outras formas de ancorar",
+     "itens": [
+      "Apertar os pés contra o chão e sentir o peso do corpo na cadeira.",
+      "Segurar algo frio (gelo, uma lata gelada) ou lavar o rosto com água fria.",
+      "Ter no bolso um objeto com textura ou um cheiro agradável.",
+      "Respirar devagar, soltando o ar mais longo do que puxa.",
+      "Descrever em voz alta, com detalhes, o que está fazendo."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Para a família",
+     "texto": "Se a pessoa estiver num flashback, chame pelo nome com voz calma, diga onde ela está e que está segura. Avise antes de tocar; um toque de surpresa pode assustar. Não force a falar do trauma."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meus gatilhos e o que me ajuda",
+     "colunas": [
+      "Gatilho (o que me lembra)",
+      "Como percebo que estou saindo do presente",
+      "O que me ajuda a voltar"
+     ],
+     "linhas": [],
+     "linhas_vazias": 5
+    }
+   ],
+   "fonte": "ISTSS 2019; NICE NG116 (abordagem de estabilização)"
+  },
+  {
+   "id": "sono-no-tept",
+   "titulo": "Sono e pesadelos no TEPT",
+   "subtitulo": "Cuidar das noites também faz parte do tratamento",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que o sono piora",
+     "texto": "No TEPT o corpo fica em alerta, como um vigia que não pode dormir. Pesadelos fazem a pessoa ter medo de pegar no sono, e o cansaço deixa os sintomas do dia mais fortes. Melhorar o sono ajuda na recuperação."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Hábitos que ajudam",
+     "sim": [
+      "Deitar e levantar em horários parecidos todos os dias.",
+      "Criar um ritual de calma de 30 minutos antes de deitar (banho morno, música tranquila, respiração lenta).",
+      "Deixar o quarto do jeito que dá mais sensação de segurança: porta trancada, uma luz fraca, se ajudar.",
+      "Se acordar de um pesadelo, usar a ancoragem: acender a luz, dizer onde está e que dia é, respirar devagar.",
+      "Fazer atividade física durante o dia, não perto da hora de dormir."
+     ],
+     "nao": [
+      "Usar álcool para dormir: piora a qualidade do sono e os pesadelos.",
+      "Ver noticiário, filmes violentos ou redes sociais antes de deitar.",
+      "Cafeína depois do meio da tarde.",
+      "Ficar na cama horas acordado e agitado: levante, faça algo calmo e volte quando tiver sono."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Tratamentos para pesadelos",
+     "texto": "Existe uma terapia específica, a **terapia de ensaio de imagens**: com o terapeuta, você reescreve o pesadelo com um final diferente e ensaia a nova versão acordado, alguns minutos por dia. Com o tempo, os pesadelos diminuem.\n\nHá também remédio que pode ajudar nos pesadelos em alguns casos. Converse com a equipe; não use calmantes por conta própria, porque eles não ajudam o TEPT e podem causar dependência."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Diário do sono e dos pesadelos",
+     "colunas": [
+      "Dia",
+      "Hora que deitei",
+      "Hora que acordei",
+      "Pesadelos (quantos)",
+      "Como me senti de manhã (0 a 10)"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    }
+   ],
+   "fonte": "VA/DoD 2023; AASM 2018 (pesadelos); NICE NG116"
+  }
+ ],
+ "TOC": [
+  {
+   "id": "o-que-e-toc",
+   "titulo": "TOC: o que é e como se trata",
+   "subtitulo": "Obsessões, compulsões e o círculo que as prende",
+   "publico": "Paciente e família",
+   "figura": "ciclo-toc",
+   "figura_legenda": "A obsessão traz angústia, a compulsão alivia por pouco tempo, e o alívio fortalece a próxima obsessão.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "No **transtorno obsessivo-compulsivo (TOC)** existem:\n\n**Obsessões**: pensamentos, imagens ou impulsos que invadem a mente sem a pessoa querer e causam muita angústia. Exemplos: medo de contaminação, de ter deixado o gás aberto, de ferir alguém sem querer, necessidade de simetria, pensamentos contra a religião.\n\n**Compulsões** (rituais): atos ou pensamentos repetidos para aliviar a angústia ou evitar que algo ruim aconteça. Exemplos: lavar as mãos muitas vezes, verificar portas, contar, arrumar, rezar de um jeito certo, pedir garantias.\n\nTer um pensamento estranho não significa desejá-lo. No TOC, os pensamentos incomodam justamente porque vão contra os valores da pessoa."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "O círculo do TOC",
+     "texto": "A obsessão traz angústia. A compulsão alivia por alguns minutos. Esse alívio ensina ao cérebro que o ritual era necessário, e na próxima vez a obsessão volta mais forte. O tratamento ensina a quebrar o círculo."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que ajuda",
+     "itens": [
+      "**Exposição com prevenção de resposta (EPR)**: a forma de TCC mais eficaz no TOC. Você enfrenta aos poucos o que dá medo sem fazer o ritual.",
+      "**Antidepressivos ISRS** (como sertralina, fluoxetina, fluvoxamina, escitalopram): no TOC, costumam ser usados em **doses mais altas** e por **mais tempo** que na depressão.",
+      "Se a melhora for parcial, a equipe pode ajustar a dose, trocar o remédio ou acrescentar outro.",
+      "Envolver a família, para diminuir a participação nos rituais."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "O que esperar do remédio",
+     "colunas": [
+      "Tempo",
+      "O que acontece"
+     ],
+     "linhas": [
+      [
+       "Primeiras semanas",
+       "Efeitos colaterais leves podem aparecer e costumam diminuir."
+      ],
+      [
+       "8 a 12 semanas em dose adequada",
+       "Tempo necessário para saber se o remédio funciona."
+      ],
+      [
+       "Depois da resposta",
+       "Manter por 1 a 2 anos; a retirada é lenta e com a EPR em andamento."
+      ]
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Honestidade sobre o tratamento",
+     "texto": "Muitas pessoas melhoram bastante, mas nem todas respondem bem ao primeiro remédio. Isso é comum no TOC e não significa que não há saída: existem várias próximas etapas."
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de morte, de se machucar ou de que não vale a pena viver.",
+    "Dor no peito forte, falta de ar que não passa, desmaio ou sintomas diferentes das crises habituais.",
+    "Uso de álcool, remédios ou drogas em grande quantidade para aliviar a ansiedade."
+   ],
+   "fonte": "CANMAT 2014; APA 2007 (atualização 2013); NICE CG31"
+  },
+  {
+   "id": "epr-passo-a-passo",
+   "titulo": "Exposição com prevenção de resposta",
+   "subtitulo": "Enfrentar o medo sem fazer o ritual",
+   "publico": "Paciente",
+   "figura": "escada-exposicao",
+   "figura_legenda": "Suba degrau por degrau: exposição à situação e prevenção do ritual.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A ideia",
+     "texto": "Na **EPR** você se expõe de propósito ao que dispara a obsessão (**exposição**) e resiste a fazer o ritual (**prevenção de resposta**). Nos primeiros minutos a angústia sobe; depois, ela diminui sozinha. Repetindo, o cérebro aprende que dá para suportar a incerteza e que o ritual não é necessário.\n\nO ideal é fazer com um terapeuta treinado em TCC para TOC."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Passo a passo",
+     "itens": [
+      "Liste as situações que disparam as obsessões e dê uma nota de medo de 0 a 10 para cada uma.",
+      "Organize numa escada, da mais fácil para a mais difícil.",
+      "Comece por um degrau com medo por volta de 3 ou 4.",
+      "Exponha-se e **não faça o ritual**, nem de forma disfarçada (lavar \"só um pouquinho\", rezar mentalmente, pedir confirmação).",
+      "Fique com a angústia até ela baixar ou até o tempo combinado. Observe, sem brigar com o pensamento.",
+      "Repita todos os dias até aquele degrau ficar fácil. Então suba."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Exemplo (medo de contaminação)",
+     "colunas": [
+      "Degrau",
+      "Medo (0 a 10)"
+     ],
+     "linhas": [
+      [
+       "Tocar a maçaneta de casa e não lavar as mãos por 30 minutos",
+       "3"
+      ],
+      [
+       "Sentar no sofá com a roupa que usou na rua",
+       "5"
+      ],
+      [
+       "Tocar no corrimão do ônibus e comer depois de lavar as mãos 1 vez só",
+       "7"
+      ],
+      [
+       "Tocar na tampa do lixo e seguir o dia sem lavar",
+       "9"
+      ]
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu registro de EPR",
+     "colunas": [
+      "Data",
+      "Exposição",
+      "Ritual que evitei",
+      "Angústia no início (0 a 10)",
+      "Angústia no fim (0 a 10)"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Dicas",
+     "sim": [
+      "Aceite a incerteza: \"talvez sim, talvez não, e vou seguir com o meu dia\".",
+      "Se escorregar e fizer o ritual, refaça a exposição logo depois."
+     ],
+     "nao": [
+      "Trocar um ritual por outro (por exemplo, trocar lavar por usar álcool em gel).",
+      "Buscar garantias com familiares ou na internet."
+     ]
+    }
+   ],
+   "fonte": "CANMAT 2014; NICE CG31; APA 2007"
+  },
+  {
+   "id": "familia-no-toc",
+   "titulo": "Como a família pode ajudar no TOC",
+   "subtitulo": "Apoiar a pessoa sem alimentar os rituais",
+   "publico": "Família",
+   "figura": "ciclo-toc",
+   "figura_legenda": "Participar do ritual alivia hoje, mas faz o círculo girar mais forte amanhã.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é acomodação",
+     "texto": "Por carinho, para evitar brigas ou para acabar logo com o sofrimento, muitas famílias acabam participando dos rituais: respondem a mesma pergunta muitas vezes, lavam as coisas do jeito exigido, verificam a porta junto, mudam a rotina da casa. Isso se chama **acomodação familiar**.\n\nA acomodação alivia na hora, mas mantém o TOC forte. Reduzi-la aos poucos, junto com o tratamento, ajuda muito na melhora."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "O que fazer e o que evitar",
+     "sim": [
+      "Aprender sobre o TOC e lembrar que o problema é a doença, não a pessoa.",
+      "Combinar com a pessoa e com o terapeuta **um passo de cada vez** para diminuir a participação nos rituais.",
+      "Responder com empatia e firmeza: \"Sei que está difícil. Já combinamos que não vou responder de novo, e eu acredito que você consegue\".",
+      "Elogiar cada esforço de resistir ao ritual.",
+      "Manter a rotina da casa e cuidar também de você."
+     ],
+     "nao": [
+      "Dar garantias repetidas (\"sim, está trancado, pode ficar tranquilo\").",
+      "Fazer os rituais pela pessoa ou esperar que ela termine para seguir a vida da casa.",
+      "Parar tudo de uma vez, sem combinar: isso pode gerar crises e brigas.",
+      "Criticar, ridicularizar ou dizer \"é só parar\".",
+      "Discutir se o medo tem lógica: o TOC sempre encontra um novo argumento."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Onde eu participo hoje?",
+     "itens": [
+      "Respondo às mesmas perguntas várias vezes.",
+      "Verifico coisas (portas, gás, tomadas) a pedido da pessoa.",
+      "Lavo ou limpo do jeito que o TOC exige.",
+      "Evito lugares, objetos ou palavras por causa do TOC.",
+      "Mudo horários da família para os rituais caberem.",
+      "Assumo tarefas que a pessoa evita."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Nosso plano combinado",
+     "texto": "Qual acomodação vamos reduzir primeiro, como e a partir de quando.",
+     "linhas_vazias": 5
+    }
+   ],
+   "ajuda": [
+    "A pessoa fala em morrer, em se machucar ou parece sem esperança.",
+    "Crises de raiva com agressão quando a família não participa dos rituais.",
+    "A pessoa deixa de comer, beber ou dormir por causa dos rituais."
+   ],
+   "fonte": "CANMAT 2014; NICE CG31 (envolvimento da família); pesquisas sobre acomodação familiar no TOC"
+  }
+ ],
+ "Espectro obsessivo": [
+  {
+   "id": "reversao-de-habito",
+   "titulo": "Arrancar cabelo e cutucar a pele",
+   "subtitulo": "Reversão de hábito na tricotilomania e na escoriação",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que são",
+     "texto": "Na **tricotilomania**, a pessoa arranca os próprios fios de cabelo, sobrancelha ou cílios. Na **escoriação** (dermatotilexomania), cutuca, espreme ou arranca pedaços da pele. Nos dois casos, ela tenta parar e não consegue, e isso causa sofrimento, vergonha e marcas.\n\nNão é falta de força de vontade nem automutilação com intenção de se ferir. Muitas vezes acontece sem perceber, em momentos de tédio, tensão ou concentração."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "O tratamento principal",
+     "texto": "A **terapia de reversão de hábito** é a abordagem com melhor resultado. Os antidepressivos ajudam pouco nesses quadros. Um suplemento chamado N-acetilcisteína tem alguns estudos a favor: use só se o médico indicar."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Os passos da reversão de hábito",
+     "itens": [
+      "**Perceber**: anote quando, onde, como e o que sentia antes de arrancar ou cutucar. Muita gente descobre que faz em momentos certos (no banho, no celular, estudando).",
+      "**Reconhecer os sinais de aviso**: a mão indo ao cabelo ou ao rosto, a vontade, a tensão.",
+      "**Resposta concorrente**: ao perceber a vontade, faça algo com as mãos que impeça o hábito, por pelo menos **1 minuto** ou até a vontade passar. Por exemplo, fechar as mãos, segurar uma bolinha, apoiar as mãos nas coxas.",
+      "**Mudar o ambiente** (controle de estímulo): dificultar o hábito nos momentos de risco.",
+      "**Apoio**: combinar com alguém de confiança um lembrete gentil e elogios pelo progresso."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Ideias para mudar o ambiente",
+     "itens": [
+      "Usar luvas finas, curativos nos dedos ou unhas curtas.",
+      "Usar boné, lenço ou prender o cabelo.",
+      "Diminuir o tempo em frente ao espelho e usar luz mais fraca no banheiro.",
+      "Ter à mão objetos para ocupar as mãos (bolinha, massinha, elástico).",
+      "Tirar pinças do alcance."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu registro",
+     "colunas": [
+      "Dia e hora",
+      "Onde e o que fazia",
+      "O que sentia antes",
+      "Arranquei ou cutuquei? (sim ou não)",
+      "O que fiz no lugar"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Lembre",
+     "texto": "Recaídas fazem parte. Um dia difícil não apaga o progresso: volte ao registro no dia seguinte."
+    }
+   ],
+   "ajuda": [
+    "Feridas com vermelhidão, calor, pus ou febre (sinais de infecção).",
+    "Pensamentos de morte ou de se machucar."
+   ],
+   "fonte": "Revisões de Grant e colaboradores; NICE CG31"
+  },
+  {
+   "id": "dismorfico-corporal",
+   "titulo": "Transtorno dismórfico corporal",
+   "subtitulo": "Quando a preocupação com a aparência toma conta",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "No **transtorno dismórfico corporal**, a pessoa fica muito preocupada com um defeito na aparência que os outros não veem ou acham pequeno: nariz, pele, cabelo, formato do corpo, músculos. Ela passa horas se olhando no espelho, se comparando, se arrumando, disfarçando ou pedindo opinião.\n\nMuitas vezes a pessoa tem certeza de que o defeito é real e grave. Isso faz parte do quadro e não impede o tratamento."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que ajuda",
+     "itens": [
+      "**TCC específica** para o dismórfico corporal, com exposição e redução dos rituais de espelho e comparação.",
+      "**Antidepressivos ISRS** em doses mais altas, por 12 a 16 semanas para avaliar o efeito.",
+      "Participação da família, reduzindo as garantias repetidas sobre a aparência."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Uma cirurgia plástica ou procedimento estético vai resolver.",
+       "fato": "Procedimentos raramente aliviam: a preocupação costuma continuar ou mudar para outra parte do corpo."
+      },
+      {
+       "mito": "É vaidade.",
+       "fato": "É uma condição de saúde que causa muito sofrimento e merece tratamento."
+      }
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para a família",
+     "sim": [
+      "Acolher o sofrimento, mesmo sem concordar que o defeito existe.",
+      "Incentivar o tratamento e a volta às atividades."
+     ],
+     "nao": [
+      "Discutir sobre o defeito ou repetir que \"está tudo bem\" muitas vezes.",
+      "Financiar procedimentos estéticos sem conversar com a equipe."
+     ]
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de morte ou de se machucar: no dismórfico corporal esse risco é mais alto e deve ser levado a sério.",
+    "Tentativas de corrigir a aparência por conta própria (cortes, procedimentos caseiros) ou uso de anabolizantes.",
+    "Isolamento completo, sem sair de casa."
+   ],
+   "fonte": "NICE CG31; revisões de Phillips"
+  }
+ ],
+ "Transtornos de ansiedade": [
+  {
+   "id": "ciclo-da-ansiedade",
+   "titulo": "Entendendo a ansiedade",
+   "subtitulo": "O alarme do corpo e o ciclo que mantém o medo",
+   "publico": "Paciente e família",
+   "figura": "ciclo-ansiedade",
+   "figura_legenda": "Pensamento de perigo, reação do corpo e evitação se alimentam em círculo.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A ansiedade é um alarme",
+     "texto": "A ansiedade é uma reação natural de proteção. Diante de um perigo, o corpo se prepara para lutar ou fugir: o coração acelera, a respiração fica rápida, os músculos ficam tensos.\n\nNos **transtornos de ansiedade**, esse alarme dispara com força demais, com frequência demais ou em situações sem perigo real. Existem vários tipos: ansiedade generalizada, pânico, ansiedade social, fobias e outros. Todos têm tratamento."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Como a ansiedade aparece",
+     "itens": [
+      "**No corpo**: coração acelerado, falta de ar, aperto no peito, tremor, suor, enjoo, tensão.",
+      "**Nos pensamentos**: \"vai dar errado\", \"não vou dar conta\", \"estou em perigo\".",
+      "**No comportamento**: evitar, fugir, verificar, pedir garantias."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "O ciclo",
+     "texto": "Um pensamento de perigo faz o corpo reagir. As sensações do corpo parecem confirmar o perigo. Para aliviar, a pessoa evita ou foge. O alívio é real, mas curto: o cérebro aprende que a situação era perigosa e, da próxima vez, o alarme toca mais forte e a vida vai ficando menor."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Como quebrar o ciclo",
+     "itens": [
+      "Aprender sobre a ansiedade (como nesta ficha).",
+      "Enfrentar aos poucos o que você evita (exposição).",
+      "Questionar os pensamentos de perigo com a ajuda da terapia.",
+      "Respirar devagar para acalmar o corpo.",
+      "Fazer exercício, dormir bem, reduzir cafeína e álcool.",
+      "Usar remédio quando indicado, junto com a terapia."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Sobre os calmantes",
+     "texto": "Remédios como clonazepam, diazepam, alprazolam, pregabalina e hidroxizina podem aliviar sintomas, mas **não tratam a causa**. O tratamento de base é a terapia e, muitas vezes, um antidepressivo."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "O que eu tenho evitado por causa da ansiedade",
+     "linhas_vazias": 5
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de morte, de se machucar ou de que não vale a pena viver.",
+    "Dor no peito forte, falta de ar que não passa, desmaio ou sintomas diferentes das crises habituais.",
+    "Uso de álcool, remédios ou drogas em grande quantidade para aliviar a ansiedade."
+   ],
+   "fonte": "CANMAT 2014; NICE CG113"
+  },
+  {
+   "id": "calmantes-com-seguranca",
+   "titulo": "Calmantes com segurança",
+   "subtitulo": "Benzodiazepínicos: uso curto e retirada gradual",
+   "publico": "Paciente e família",
+   "figura": "reducao-gradual",
+   "figura_posicao": "fim",
+   "figura_legenda": "A retirada é feita em pequenos degraus, no ritmo combinado com a equipe.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que são",
+     "texto": "**Benzodiazepínicos** são calmantes como clonazepam (Rivotril), diazepam, alprazolam, lorazepam e bromazepam. Agem rápido e aliviam a ansiedade e a insônia. Por isso mesmo, é fácil se acostumar com eles.\n\nNa ansiedade, as diretrizes recomendam usar **por pouco tempo** (em geral algumas semanas), como ponte até o tratamento de base fazer efeito, ou em situações bem específicas."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Riscos do uso prolongado",
+     "itens": [
+      "**Tolerância**: com o tempo, a mesma dose faz menos efeito.",
+      "**Dependência**: o corpo passa a precisar do remédio e reclama quando ele falta.",
+      "Sonolência, lentidão, esquecimento e dificuldade de concentração.",
+      "Quedas e fraturas, principalmente em pessoas idosas.",
+      "Risco de acidentes ao dirigir ou operar máquinas.",
+      "Risco grave quando misturado com álcool, opioides ou outros sedativos."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Cuidados",
+     "sim": [
+      "Use exatamente como o médico orientou.",
+      "Guarde longe de crianças e de pessoas com risco de suicídio.",
+      "Conte ao médico todos os remédios e o uso de álcool.",
+      "Planeje com a equipe, desde o início, quando e como vai parar."
+     ],
+     "nao": [
+      "Misturar com bebida alcoólica.",
+      "Dirigir se estiver sonolento.",
+      "Aumentar a dose por conta própria.",
+      "**Parar de repente** depois de semanas ou meses de uso: pode causar ansiedade de rebote, insônia, tremores e, em casos graves, convulsão."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como é a retirada",
+     "texto": "A retirada é feita **devagar**, em pequenas reduções a cada 1 a 4 semanas, conforme a equipe combinar. Quem usou por muito tempo pode precisar de alguns meses. Pode haver um pouco de insônia e ansiedade no caminho: isso costuma ser passageiro. A TCC ajuda muito nessa fase."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu plano de redução (preencher com a equipe)",
+     "colunas": [
+      "Data de início",
+      "Dose combinada",
+      "Como me senti"
+     ],
+     "linhas": [],
+     "linhas_vazias": 6
+    }
+   ],
+   "ajuda": [
+    "Convulsão, confusão intensa, alucinações ou tremores fortes ao reduzir ou parar o remédio.",
+    "Sonolência excessiva, respiração lenta ou dificuldade de acordar (principalmente com álcool ou outros remédios).",
+    "Pensamentos de morte ou de se machucar."
+   ],
+   "fonte": "CANMAT 2014; NICE CG113; Ashton Manual; Beers 2023 (idosos)"
+  },
+  {
+   "id": "antidepressivo-primeiras-semanas",
+   "titulo": "Antidepressivo para ansiedade: o que esperar",
+   "subtitulo": "As primeiras semanas de tratamento",
+   "publico": "Paciente e família",
+   "figura": "curva-remedio",
+   "figura_legenda": "Os efeitos colaterais costumam aparecer primeiro e diminuir; a melhora cresce devagar, ao longo de semanas.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que um antidepressivo, se o problema é ansiedade?",
+     "texto": "Os antidepressivos do tipo ISRS (como sertralina e escitalopram) e IRSN (como venlafaxina e duloxetina) são tratamentos de primeira escolha para os transtornos de ansiedade, com ou sem depressão junto. Eles **não viciam** e não mudam a personalidade.\n\nO médico costuma começar com uma dose baixa, porque pessoas ansiosas são mais sensíveis aos efeitos do início. A dose depois é ajustada pela equipe."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Linha do tempo aproximada",
+     "colunas": [
+      "Quando",
+      "O que costuma acontecer"
+     ],
+     "linhas": [
+      [
+       "Primeiros dias",
+       "Pode haver enjoo, dor de cabeça, mudança no sono ou um aumento passageiro da ansiedade."
+      ],
+      [
+       "1 a 2 semanas",
+       "Os efeitos colaterais costumam diminuir."
+      ],
+      [
+       "2 a 6 semanas",
+       "Começa a melhora: menos tensão, sono melhor, crises mais fracas."
+      ],
+      [
+       "8 a 12 semanas",
+       "Só aqui dá para avaliar se o remédio funcionou bem na dose certa."
+      ],
+      [
+       "Depois da melhora",
+       "Manter por pelo menos 12 meses, para diminuir o risco de a ansiedade voltar."
+      ]
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Combinados importantes",
+     "sim": [
+      "Tome todos os dias, mesmo quando estiver bem.",
+      "Anote os efeitos colaterais e conte na consulta.",
+      "Continue a terapia e as práticas da TCC: remédio e terapia se somam."
+     ],
+     "nao": [
+      "Parar de repente: pode dar tontura, irritação e sensação de choque.",
+      "Aumentar ou diminuir a dose por conta própria.",
+      "Misturar com álcool para \"dar um reforço\"."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Efeitos que valem uma conversa com a equipe",
+     "itens": [
+      "Diminuição do desejo ou dificuldade sexual.",
+      "Enjoo, diarreia ou falta de apetite que não passam.",
+      "Agitação intensa, inquietação que não deixa ficar parado.",
+      "Sangramentos com facilidade (principalmente se usar anti-inflamatório ou anticoagulante)."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Lembre",
+     "texto": "Não melhorar na primeira semana é o esperado, não é falha. Se depois de algumas semanas nada mudou, a equipe pode ajustar a dose ou trocar o remédio."
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de morte ou de se machucar, principalmente em jovens com menos de 25 anos no começo do tratamento.",
+    "Agitação muito forte, confusão, febre com tremores e rigidez.",
+    "Alergia com inchaço no rosto ou dificuldade para respirar."
+   ],
+   "fonte": "CANMAT 2014; NICE CG113; bula dos ISRS (alerta de suicidalidade em jovens)"
+  }
+ ],
+ "Ansiedade de desempenho": [
+  {
+   "id": "o-que-e-desempenho",
+   "titulo": "Medo de se apresentar",
+   "subtitulo": "Ansiedade de desempenho: o que é e como enfrentar",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Quase todo mundo fica nervoso antes de uma apresentação, prova oral, audição, jogo ou entrevista. Uma dose de ansiedade até ajuda a ficar alerta.\n\nNa **ansiedade de desempenho**, o medo é intenso, aparece dias antes, atrapalha a preparação e faz a pessoa recusar oportunidades. O corpo reage forte: tremor, voz trêmula, coração disparado, boca seca, suor, branco. A pessoa teme que os outros percebam e a julguem.\n\nSe o medo também aparece em conversas, reuniões ou ao comer diante de outros, pode ser ansiedade social mais ampla, que tem outro tratamento. Converse com a equipe."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que ajuda",
+     "itens": [
+      "**TCC e treino de exposição**: é o que trata o medo. Ensaiar em situações cada vez mais parecidas com a real.",
+      "**Propranolol** em dose única antes do evento, se o médico indicar: diminui o tremor e o coração acelerado, mas não trata o medo em si.",
+      "Preparação adequada, sono e alimentação no dia."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Preparando uma apresentação",
+     "itens": [
+      "Prepare bem o conteúdo, mas não decore palavra por palavra: use tópicos.",
+      "Ensaie em voz alta sozinho, depois para uma pessoa, depois para um grupo pequeno.",
+      "Grave um ensaio e assista: quase sempre parece melhor do que você imaginava.",
+      "No dia, chegue cedo, conheça o espaço e respire devagar.",
+      "Leve a atenção para o público e para a mensagem, não para o seu corpo.",
+      "Se der branco, pause, olhe as anotações e continue. Pausas parecem muito menores para quem assiste."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Faça e evite",
+     "sim": [
+      "Aceitar oportunidades de se apresentar como treino."
+     ],
+     "nao": [
+      "Usar álcool ou calmantes para se apresentar: pioram o desempenho e trazem outros riscos.",
+      "Fugir de todas as apresentações: o medo cresce.",
+      "Ficar revendo mentalmente, depois, cada erro que cometeu."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Minha escada de ensaios",
+     "colunas": [
+      "Situação de treino",
+      "Medo antes (0 a 10)",
+      "Como foi"
+     ],
+     "linhas": [],
+     "linhas_vazias": 6
+    }
+   ],
+   "fonte": "DSM-5-TR (especificador somente desempenho); CANMAT 2014; NICE CG159"
+  },
+  {
+   "id": "propranolol-antes-do-evento",
+   "titulo": "Propranolol antes de se apresentar",
+   "subtitulo": "Como usar o betabloqueador com segurança",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que faz",
+     "texto": "O **propranolol** é um remédio do grupo dos betabloqueadores, usado também para pressão alta e para o coração. Ele bloqueia parte da ação da adrenalina: diminui o **tremor**, o **coração acelerado** e a voz trêmula. Não dá sono e não vicia.\n\nEle **não tira o medo nem o nervosismo** da cabeça. Funciona melhor para quem se atrapalha principalmente pelos sintomas do corpo."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Como costuma ser usado",
+     "itens": [
+      "O médico avalia sua saúde e indica a dose. Não use o remédio de outra pessoa.",
+      "Faça um **teste num dia comum**, sem compromisso, para ver como você reage.",
+      "No dia do evento, tome a dose indicada cerca de **1 hora antes**.",
+      "Use só nas ocasiões combinadas, não todos os dias, a não ser que o médico oriente diferente."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Avise o médico antes de usar se você tem",
+     "itens": [
+      "Asma, bronquite ou chiado no peito.",
+      "Pressão baixa, desmaios ou coração lento.",
+      "Doença do coração ou da circulação.",
+      "Diabetes (o remédio pode esconder os sinais de açúcar baixo).",
+      "Uso de outros remédios para pressão, coração ou enxaqueca.",
+      "Gravidez ou suspeita de gravidez."
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Efeitos que podem acontecer",
+     "itens": [
+      "Cansaço, mãos e pés frios.",
+      "Tontura ao levantar rápido.",
+      "Raramente, falta de ar em quem tem tendência a asma."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Lembre",
+     "texto": "O propranolol é um apoio para o dia do evento. O tratamento do medo, que muda o problema a longo prazo, é o treino de exposição e a TCC."
+    }
+   ],
+   "ajuda": [
+    "Falta de ar, chiado no peito ou desmaio depois de tomar o remédio.",
+    "Batimentos muito lentos, tontura forte ou confusão."
+   ],
+   "fonte": "CANMAT 2014 (desempenho isolado); bula do propranolol"
+  }
+ ]
+}

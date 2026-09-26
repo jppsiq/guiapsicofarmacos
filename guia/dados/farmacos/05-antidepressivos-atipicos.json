@@ -1,0 +1,811 @@
+[
+{
+  "id": "bupropiona",
+  "nome": "Bupropiona",
+  "nomes_comerciais": ["Wellbutrin XL", "Zyban", "Bup"],
+  "classe": "antidepressivos", "subclasse": "Atípico (IRND)",
+  "classes_secundarias": ["dependencia"],
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": "Componente Estratégico (tabagismo)",
+  "sus": "Fornecida pelo Programa Nacional de Controle do Tabagismo (comprimido de 150 mg).",
+  "custo": "baixo a moderado",
+  "marcadores": ["inibidor_2d6_forte"],
+  "relacionados": ["vareniclina", "reposicao-nicotina", "nortriptilina"],
+  "apresentacoes": [
+    {"forma": "Comprimido de liberação prolongada (XL, uma vez ao dia)", "doses": ["150 mg", "300 mg"], "aparencia": {"formato": "redondo", "cor": "creme", "descricao": "Wellbutrin XL: comprimido revestido redondo, branco a amarelado-claro. Não partir nem mastigar."}},
+    {"forma": "Comprimido de liberação lenta (SR, duas vezes ao dia)", "doses": ["150 mg"], "aparencia": {"formato": "redondo", "descricao": "Zyban e genéricos para tabagismo; forma e cor conforme o fabricante."}}
+  ],
+  "diagrama": {"nt": "Noradrenalina e dopamina", "alvos": [{"alvo": "NET", "efeito": "bloqueio", "local": "pre"}, {"alvo": "DAT", "efeito": "bloqueio fraco", "local": "pre"}, {"alvo": "α4β2 nicotínico", "efeito": "antagonismo", "local": "pos"}], "legenda": "Bupropiona e hidroxibupropiona bloqueiam NET e, em menor grau, DAT; o antagonismo nicotínico contribui para o efeito na cessação do tabagismo."},
+  "farmacodinamica": {
+    "resumo": "Inibidor fraco da recaptação de noradrenalina e dopamina (IRND). O metabólito hidroxibupropiona, em concentração muito maior que o fármaco original, é o principal responsável pela inibição do NET. Antagonista de receptores nicotínicos. Sem ação serotoninérgica, histamínica ou colinérgica.",
+    "resumo_curto": "IRND sem ação serotoninérgica; sem disfunção sexual nem ganho de peso; reduz limiar convulsivo.",
+    "afinidade": [
+      {"alvo": "NET", "acao": "inibição", "intensidade": 2},
+      {"alvo": "DAT", "acao": "inibição", "intensidade": 1},
+      {"alvo": "α4β2 nicotínico", "acao": "antagonismo", "intensidade": 2}
+    ],
+    "significado_clinico": ["Útil em depressão com fadiga, hipersonia e baixa motivação, e para reverter disfunção sexual por ISRS.", "Menor risco de virada maníaca que outros antidepressivos (evidência limitada).", "Não trata ansiedade e pode piorá-la."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Boa.",
+    "biodisponibilidade": "Não determinada em humanos (primeira passagem extensa).",
+    "alimentos": "Sem efeito relevante.",
+    "pico": "SR: 3 horas; XL: 5 horas.",
+    "ligacao_proteica": "84%.",
+    "metabolismo": "Hepático, pelo CYP2B6, a hidroxibupropiona (ativa); redução a treo e eritro-hidrobupropiona.",
+    "meia_vida": "21 horas (metabólitos 20 a 37 horas).",
+    "metabolitos_ativos": "Hidroxibupropiona, treo-hidrobupropiona, eritro-hidrobupropiona.",
+    "excrecao": "Renal (87%).",
+    "equilibrio": "8 dias.",
+    "cyp": {"substrato": ["2B6"], "inibe": {"2D6": "forte"}, "nota": "Inibição forte do CYP2D6 pelos metabólitos: atenção com tricíclicos, antipsicóticos, betabloqueadores, tamoxifeno, codeína e atomoxetina."}
+  },
+  "perfil": {"sedacao": 0, "peso": 0, "sexual": 0, "anticolinergico": 0, "hipotensao": 0, "qt": 0, "serotoninergico": 0, "convulsao": 3, "sangramento": 0, "insonia": 2},
+  "interacoes": [
+    {"com": "IMAO", "gravidade": "contraindicada", "efeito": "Crise hipertensiva.", "conduta": "Intervalo de 14 dias."},
+    {"com": "Fármacos que reduzem o limiar convulsivo (antipsicóticos, tricíclicos, tramadol, teofilina, corticoides sistêmicos)", "gravidade": "grave", "efeito": "Convulsões.", "conduta": "Doses mínimas, evitar em pacientes com outros fatores de risco."},
+    {"com": "Substratos do CYP2D6 com janela estreita (tricíclicos, flecainida, propafenona, tioridazina)", "gravidade": "grave", "efeito": "Aumento de níveis e toxicidade.", "conduta": "Reduzir doses; evitar tioridazina."},
+    {"com": "Tamoxifeno", "gravidade": "grave", "efeito": "Redução da eficácia.", "conduta": "Evitar."},
+    {"com": "Aripiprazol, brexpiprazol, risperidona, atomoxetina, metoprolol", "gravidade": "moderada", "efeito": "Aumento dos níveis.", "conduta": "Ajustar doses (aripiprazol à metade)."},
+    {"com": "Carbamazepina, fenitoína, ritonavir (indutores do CYP2B6)", "gravidade": "moderada", "efeito": "Redução dos níveis de bupropiona.", "conduta": "Ajustar pela resposta."},
+    {"com": "Clopidogrel, ticlopidina (inibidores do CYP2B6)", "gravidade": "moderada", "efeito": "Aumento dos níveis de bupropiona.", "conduta": "Doses menores."},
+    {"com": "Álcool", "gravidade": "moderada", "efeito": "Consumo pesado ou suspensão abrupta aumentam o risco de convulsões.", "conduta": "Orientar abstinência ou consumo mínimo."},
+    {"com": "Levodopa, amantadina", "gravidade": "moderada", "efeito": "Mais efeitos neuropsiquiátricos (agitação, alucinações).", "conduta": "Doses baixas."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Cessação do tabagismo", "grupo": "Tabagismo", "status": "anvisa"},
+    {"condicao": "Disfunção sexual induzida por ISRS (em associação)", "grupo": "Disfunção sexual", "status": "off_label"},
+    {"condicao": "TDAH em adultos", "grupo": "TDAH", "status": "off_label", "nota": "Segunda ou terceira linha; útil com uso de substâncias ou depressão comórbida."},
+    {"condicao": "Depressão bipolar (com estabilizador)", "grupo": "Depressão bipolar", "status": "off_label"},
+    {"condicao": "Prevenção de depressão sazonal", "grupo": "Depressão", "status": "off_label", "nota": "Aprovado pela FDA."},
+    {"condicao": "Obesidade (com naltrexona)", "grupo": "Obesidade", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "XL: 150 mg pela manhã. Tabagismo (SR): 150 mg pela manhã por 3 dias, depois 150 mg duas vezes ao dia (intervalo mínimo de 8 horas).",
+    "faixa": "XL: 150 a 300 mg/dia. SR: 150 a 300 mg/dia.",
+    "dose_maxima": "XL: 450 mg/dia em dose única. SR: 400 mg/dia (máximo de 200 mg por tomada).",
+    "titulacao": "XL: 150 → 300 mg após 1 a 2 semanas (mínimo 4 dias).",
+    "horario": "Manhã (segunda dose do SR no início da tarde, para evitar insônia).",
+    "latencia": "2 a 4 semanas na depressão. Tabagismo: iniciar 1 a 2 semanas antes da data de parada.",
+    "duracao": "Tabagismo: 7 a 12 semanas, podendo estender até 6 meses.",
+    "monitoramento": ["Pressão arterial, sobretudo com reposição de nicotina.", "Sintomas neuropsiquiátricos durante a cessação do tabagismo.", "Fatores de risco para convulsão antes de prescrever."],
+    "esquema": {"unidade_tempo": "dia", "unidade_dose": "mg/dia", "pontos": [[0, 150], [4, 300]], "faixa": [150, 300], "legenda": "Tabagismo: 150 mg por 3 dias, depois 300 mg (SR em duas tomadas). Parar de fumar entre o 8º e o 14º dia."}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Insônia", "Cefaleia", "Boca seca", "Náuseas"],
+    "comuns": ["Ansiedade e agitação", "Tremor", "Perda de peso e redução de apetite", "Taquicardia", "Aumento de PA", "Constipação", "Sudorese", "Zumbido", "Alteração do paladar"],
+    "raros_graves": ["Convulsões (cerca de 0,1% até 300 mg XL; 0,4% em 450 mg)", "Psicose, alucinações, delírios em doses altas ou em predispostos", "Reação anafilactoide e síndrome semelhante à doença do soro", "Crise hipertensiva com IMAO", "Virada maníaca"],
+    "conduta_imediata": ["Convulsão: suspender definitivamente.", "Urticária, angioedema, artralgia com febre: suspender."],
+    "manejo": [
+      {"efeito": "Insônia", "conduta": "Dose única pela manhã (XL); antecipar a segunda dose do SR."},
+      {"efeito": "Ansiedade", "conduta": "Reduzir dose; considerar outro antidepressivo em pacientes ansiosos."},
+      {"efeito": "Aumento de PA", "conduta": "Monitorar; reduzir dose."}
+    ]
+  },
+  "contraindicacoes": ["Epilepsia ou história de convulsões.", "Bulimia ou anorexia nervosa (atuais ou prévias).", "Suspensão abrupta de álcool, benzodiazepínicos, barbitúricos ou anticonvulsivantes.", "Uso de IMAO nos últimos 14 dias.", "Tumor do SNC.", "Uso concomitante de outra formulação de bupropiona."],
+  "precaucoes": ["Traumatismo craniano.", "Diabetes tratado com hipoglicemiantes ou insulina.", "Uso de estimulantes ou anorexígenos.", "Hipertensão.", "Psicose."],
+  "populacoes": {
+    "gestacao": {"nivel": "aceitavel", "texto": "Dados sem aumento consistente de malformações; útil para cessação do tabagismo na gestação quando a abordagem não farmacológica falha."},
+    "lactacao": {"nivel": "cautela", "texto": "Relatos raros de convulsões no lactente; preferir outra opção ou observar."},
+    "idosos": {"nivel": "aceitavel", "texto": "Sem efeito anticolinérgico nem hipotensor; cautela com convulsões e interações pelo CYP2D6."},
+    "pediatria": {"nivel": "cautela", "texto": "Uso off-label no TDAH; mesmo alerta de suicidalidade."},
+    "renal": {"nivel": "cautela", "texto": "Metabólitos acumulam: reduzir dose ou frequência (ex.: 150 mg/dia)."},
+    "hepatica": {"nivel": "cautela", "texto": "Leve a moderada: dose menor. Cirrose grave: máximo de 150 mg em dias alternados."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Segura em cardiopatas estáveis (estudos de cessação de tabagismo); monitorar PA."}
+  },
+  "suspensao": {"risco": "Baixo.", "sintomas": "Raros (irritabilidade, fadiga).", "reducao": "Pode ser suspensa em 1 a 2 semanas; 300 → 150 mg e suspender.", "troca": "Troca cruzada com ISRS; sem cobertura serotoninérgica para a descontinuação do ISRS."},
+  "superdosagem": {"toxicidade": "Moderada a alta.", "quadro": "Convulsões (frequentes, às vezes tardias até 24 horas com XL), taquicardia sinusal, agitação, alucinações, alargamento de QRS e QT em doses muito altas, parada cardíaca.", "conduta": "Observação por 24 horas (formulação prolongada), benzodiazepínico para convulsões, ECG, bicarbonato se QRS alargado, suporte."},
+  "pratica": {
+    "perolas": ["Associação clássica com ISRS (Wellbutrin + ISRS) para depressão resistente, fadiga e disfunção sexual.", "Associada à reposição de nicotina aumenta a taxa de abstinência.", "Não confundir com ansiolítico: em depressão ansiosa, pode piorar a ansiedade."],
+    "erros": ["Prescrever a pacientes com bulimia ou em abstinência alcoólica.", "Dar a segunda dose do SR à noite.", "Associar dois produtos com bupropiona (Wellbutrin e Zyban)."]
+  },
+  "troca": {"tipo": "outro", "washout_semanas": 2},
+  "fontes": ["Bula Wellbutrin XL e Zyban (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed.", "PCDT Tabagismo, Ministério da Saúde"]
+},
+{
+  "id": "mirtazapina",
+  "nome": "Mirtazapina",
+  "nomes_comerciais": ["Remeron", "Remeron SolTab", "Menelat"],
+  "classe": "antidepressivos", "subclasse": "Atípico (NaSSA)",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "baixo",
+  "relacionados": ["trazodona"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["15 mg", "30 mg", "45 mg"], "aparencia": {"formato": "oval", "cor": "marrom", "sulco": true, "descricao": "Remeron: 15 mg amarelo, 30 mg marrom-avermelhado, 45 mg branco; ovais, sulcados. Genéricos variam."}},
+    {"forma": "Comprimido orodispersível", "doses": ["15 mg", "30 mg", "45 mg"], "aparencia": {"formato": "redondo", "cor": "branco", "descricao": "Remeron SolTab; dissolve na língua."}}
+  ],
+  "diagrama": {"nt": "Noradrenalina e 5-HT", "alvos": [{"alvo": "α2 auto", "efeito": "antagonismo", "local": "pre"}, {"alvo": "α2 hetero", "efeito": "antagonismo", "local": "pre"}, {"alvo": "5-HT2A", "efeito": "antagonismo", "local": "pos"}, {"alvo": "5-HT2C", "efeito": "antagonismo", "local": "pos"}, {"alvo": "5-HT3", "efeito": "antagonismo", "local": "pos"}, {"alvo": "H1", "efeito": "antagonismo", "local": "pos"}], "legenda": "Antagonismo α2 libera noradrenalina e serotonina; o bloqueio de 5-HT2 e 5-HT3 direciona a serotonina para o 5-HT1A (menos disfunção sexual e náuseas); o H1 explica sedação e apetite."},
+  "farmacodinamica": {
+    "resumo": "Antagonista de autorreceptores e heterorreceptores α2, aumentando a liberação de noradrenalina e serotonina. Antagoniza 5-HT2A, 5-HT2C e 5-HT3, de modo que a serotonina liberada age sobretudo no 5-HT1A. Antagonista H1 potente.",
+    "resumo_curto": "Antagonista α2, 5-HT2 e H1; sedativo, aumenta apetite, sem disfunção sexual.",
+    "afinidade": [
+      {"alvo": "H1", "acao": "antagonismo", "intensidade": 4},
+      {"alvo": "α2", "acao": "antagonismo", "intensidade": 3},
+      {"alvo": "5-HT2A", "acao": "antagonismo", "intensidade": 3},
+      {"alvo": "5-HT2C", "acao": "antagonismo", "intensidade": 3},
+      {"alvo": "5-HT3", "acao": "antagonismo", "intensidade": 3},
+      {"alvo": "α1", "acao": "antagonismo", "intensidade": 1}
+    ],
+    "significado_clinico": ["Sedação mais intensa em 7,5 a 15 mg (predomínio H1); em doses maiores a ativação noradrenérgica compensa parcialmente.", "Antiemético (5-HT3) e sem disfunção sexual (5-HT2)."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Rápida.",
+    "biodisponibilidade": "50%.",
+    "alimentos": "Sem efeito relevante.",
+    "pico": "2 horas.",
+    "ligacao_proteica": "85%.",
+    "metabolismo": "Hepático, por CYP2D6, 1A2 e 3A4.",
+    "meia_vida": "20 a 40 horas (maior em mulheres e idosos).",
+    "metabolitos_ativos": "Desmetilmirtazapina (pouco ativa).",
+    "excrecao": "Renal (75%).",
+    "equilibrio": "3 a 4 dias.",
+    "cyp": {"substrato": ["2D6", "1A2", "3A4"], "inibe": {}, "nota": "Poucas interações; carbamazepina e fenitoína reduzem os níveis em cerca de 50%."}
+  },
+  "perfil": {"sedacao": 3, "peso": 3, "metabolico": 1, "sexual": 0, "anticolinergico": 0, "hipotensao": 1, "qt": 1, "serotoninergico": 1, "convulsao": 0, "sangramento": 0},
+  "interacoes": [
+    {"com": "IMAO", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica e crise hipertensiva.", "conduta": "Intervalo de 14 dias."},
+    {"com": "Álcool, benzodiazepínicos, antipsicóticos sedativos", "gravidade": "moderada", "efeito": "Sedação aditiva.", "conduta": "Orientar."},
+    {"com": "Carbamazepina, fenitoína, rifampicina", "gravidade": "moderada", "efeito": "Redução dos níveis.", "conduta": "Aumentar a dose se necessário."},
+    {"com": "Inibidores fortes do CYP3A4 (cetoconazol, claritromicina, ritonavir)", "gravidade": "leve", "efeito": "Aumento discreto.", "conduta": "Observar."},
+    {"com": "Varfarina", "gravidade": "leve", "efeito": "Pequeno aumento do INR.", "conduta": "Monitorar INR."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Associação a ISRS ou IRSN na depressão resistente (California rocket fuel)", "grupo": "Depressão", "status": "off_label"},
+    {"condicao": "Insônia associada à depressão", "grupo": "Insônia", "status": "off_label"},
+    {"condicao": "TAG, pânico, TEPT", "grupo": "Transtornos de ansiedade", "status": "off_label"},
+    {"condicao": "Náuseas, anorexia e perda de peso (oncologia, cuidados paliativos)", "grupo": "Apetite", "status": "off_label"},
+    {"condicao": "Acatisia induzida por antipsicóticos", "grupo": "Acatisia", "status": "off_label", "nota": "15 mg; evidência de ensaios pequenos."},
+    {"condicao": "Prurido crônico", "grupo": "Prurido", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "15 mg à noite (7,5 mg em idosos).",
+    "faixa": "15 a 45 mg/dia.",
+    "dose_maxima": "45 mg/dia (60 mg em uso especializado).",
+    "titulacao": "Aumentos de 15 mg a cada 1 a 2 semanas.",
+    "horario": "Dose única à noite.",
+    "latencia": "Sono e apetite em dias; humor em 2 a 4 semanas.",
+    "duracao": "Como os demais antidepressivos.",
+    "monitoramento": ["Peso, glicemia e lipídios.", "Hemograma se febre, faringite ou infecção (agranulocitose rara).", "Sódio em idosos."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 15], [2, 30], [4, 45]], "faixa": [15, 45]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Sonolência", "Aumento de apetite", "Ganho de peso", "Boca seca"],
+    "comuns": ["Tontura", "Edema", "Constipação", "Fadiga", "Aumento de colesterol e triglicerídeos", "Sonhos vívidos", "Síndrome das pernas inquietas"],
+    "raros_graves": ["Agranulocitose e neutropenia (cerca de 1 em 1.000)", "Hiponatremia", "Elevação de transaminases", "Convulsões", "Virada maníaca", "DRESS e Stevens-Johnson (raros)"],
+    "conduta_imediata": ["Febre, dor de garganta, úlceras orais: hemograma e suspensão se neutropenia."],
+    "manejo": [
+      {"efeito": "Sonolência", "conduta": "Tomar mais cedo; aumentar para 30 mg pode reduzir a sedação."},
+      {"efeito": "Ganho de peso", "conduta": "Orientação alimentar desde o início; evitar em obesos ou diabéticos mal controlados."}
+    ]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Hipersensibilidade."],
+  "precaucoes": ["Obesidade, diabetes, dislipidemia.", "Epilepsia.", "Bipolaridade.", "Insuficiência renal e hepática."],
+  "populacoes": {
+    "gestacao": {"nivel": "aceitavel", "texto": "Dados sem sinal de teratogenicidade; útil em hiperêmese associada à depressão."},
+    "lactacao": {"nivel": "aceitavel", "texto": "Níveis baixos no lactente."},
+    "idosos": {"nivel": "preferencial", "texto": "Útil em idosos deprimidos com insônia e perda de peso; iniciar com 7,5 mg; vigiar quedas e sódio."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem eficácia demonstrada."},
+    "renal": {"nivel": "cautela", "texto": "Clearance reduzido em 30 a 50%; doses menores."},
+    "hepatica": {"nivel": "cautela", "texto": "Clearance reduzido em 30%; doses menores."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Segura em cardiopatas (MIND-IT); efeito pequeno no QT."}
+  },
+  "suspensao": {"risco": "Moderado.", "sintomas": "Insônia de rebote, ansiedade, náuseas, tontura.", "reducao": "Reduzir 15 mg a cada 1 a 2 semanas; nas doses finais, 7,5 mg.", "troca": "Cross-titration com ISRS; frequentemente mantida em associação."},
+  "superdosagem": {"toxicidade": "Baixa.", "quadro": "Sedação, desorientação, taquicardia leve.", "conduta": "Suporte."},
+  "pratica": {
+    "perolas": ["Boa escolha para deprimidos com insônia, perda de apetite e náuseas.", "Associada a IRSN (venlafaxina) é uma estratégia de potencialização com evidência razoável."],
+    "erros": ["Prescrever para pacientes com obesidade ou síndrome metabólica sem discutir o ganho de peso.", "Achar que dose menor seda menos (é o contrário)."]
+  },
+  "troca": {"tipo": "outro", "washout_semanas": 2},
+  "fontes": ["Bula Remeron (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+},
+{
+  "id": "trazodona",
+  "nome": "Trazodona",
+  "nomes_comerciais": ["Donaren", "Donaren Retard"],
+  "classe": "antidepressivos", "subclasse": "Atípico (SARI)",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "baixo",
+  "relacionados": ["mirtazapina"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["50 mg", "100 mg"], "aparencia": {"formato": "redondo", "descricao": "Forma e cor conforme o fabricante."}},
+    {"forma": "Comprimido de liberação prolongada (Retard)", "doses": ["150 mg"], "aparencia": {"formato": "oblongo", "descricao": "Donaren Retard 150 mg: com dois sulcos, permite doses de 50 e 100 mg."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Antagonista 5-HT2A potente e inibidor fraco da recaptação de serotonina (SARI). Bloqueia H1 e α1. Em doses baixas (25 a 100 mg) age como hipnótico (5-HT2A, H1, α1); o efeito antidepressivo exige 150 a 400 mg, quando a inibição do SERT se torna relevante.",
+    "resumo_curto": "Antagonista 5-HT2A com fraca inibição do SERT; hipnótico em dose baixa.",
+    "afinidade": [
+      {"alvo": "5-HT2A", "acao": "antagonismo", "intensidade": 4},
+      {"alvo": "α1", "acao": "antagonismo", "intensidade": 3},
+      {"alvo": "H1", "acao": "antagonismo", "intensidade": 2},
+      {"alvo": "5-HT2C", "acao": "antagonismo", "intensidade": 2},
+      {"alvo": "5-HT1A", "acao": "agonismo parcial", "intensidade": 2},
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 1}
+    ],
+    "significado_clinico": ["Hipnótico sem potencial de dependência, usado off-label em insônia.", "Bloqueio α1 explica hipotensão e priapismo."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Rápida.",
+    "biodisponibilidade": "65 a 90%.",
+    "alimentos": "Aumentam a absorção e reduzem o pico (menos tontura).",
+    "pico": "1 hora em jejum, 2 horas com alimento.",
+    "ligacao_proteica": "89 a 95%.",
+    "metabolismo": "Hepático, pelo CYP3A4, a m-clorofenilpiperazina (mCPP), metabolizada pelo CYP2D6.",
+    "meia_vida": "5 a 9 horas (bifásica).",
+    "metabolitos_ativos": "mCPP (agonista 5-HT2C; pode causar ansiedade).",
+    "excrecao": "Renal.",
+    "equilibrio": "2 a 3 dias.",
+    "cyp": {"substrato": ["3A4"], "substrato_menor": ["2D6"], "inibe": {}, "nota": "Inibidores do CYP2D6 elevam a mCPP."}
+  },
+  "perfil": {"sedacao": 3, "peso": 1, "sexual": 0, "anticolinergico": 0, "hipotensao": 2, "qt": 1, "serotoninergico": 1, "convulsao": 1, "sangramento": 1},
+  "interacoes": [
+    {"com": "IMAO", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Intervalo de 14 dias."},
+    {"com": "Inibidores fortes do CYP3A4 (cetoconazol, ritonavir, claritromicina)", "gravidade": "moderada", "efeito": "Aumento dos níveis: sedação, hipotensão, QT.", "conduta": "Reduzir a dose."},
+    {"com": "Carbamazepina", "gravidade": "moderada", "efeito": "Redução dos níveis.", "conduta": "Aumentar a dose."},
+    {"com": "Anti-hipertensivos, antipsicóticos com bloqueio α1", "gravidade": "moderada", "efeito": "Hipotensão.", "conduta": "Cautela em idosos."},
+    {"com": "Fármacos que prolongam QT", "gravidade": "moderada", "efeito": "QT em doses altas.", "conduta": "ECG se fatores de risco."},
+    {"com": "Digoxina, fenitoína", "gravidade": "moderada", "efeito": "A trazodona pode elevar os níveis de ambas.", "conduta": "Monitorar níveis séricos e sinais de toxicidade."},
+    {"com": "ISRS e IRSN", "gravidade": "leve", "efeito": "Associação comum (trazodona para insônia); risco serotoninérgico baixo em doses baixas.", "conduta": "Orientar."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão, inclusive com ansiedade", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Insônia", "grupo": "Insônia", "status": "off_label", "nota": "25 a 100 mg; evidência modesta, amplamente usada."},
+    {"condicao": "Agitação e insônia na demência", "grupo": "Agitação na demência", "status": "off_label"},
+    {"condicao": "Insônia induzida por ISRS ou IRSN", "grupo": "Insônia", "status": "off_label"},
+    {"condicao": "Abstinência de benzodiazepínicos (sono)", "grupo": "Insônia", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "Depressão: 50 a 100 mg à noite. Insônia: 25 a 50 mg à noite.",
+    "faixa": "Depressão: 150 a 400 mg/dia. Insônia: 25 a 100 mg.",
+    "dose_maxima": "400 mg/dia em ambulatório (600 mg em internação).",
+    "titulacao": "Aumentos de 50 mg a cada 3 a 4 dias.",
+    "horario": "Noite, após refeição; doses altas podem ser divididas com a maior à noite.",
+    "latencia": "Sono: primeira noite. Humor: 2 a 4 semanas em dose plena.",
+    "duracao": "Como os demais antidepressivos.",
+    "monitoramento": ["PA em ortostase.", "ECG se cardiopatia ou doses altas."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 50], [1, 100], [2, 150], [4, 300]], "faixa": [150, 400], "legenda": "Titulação para depressão; na insônia, 25 a 100 mg."}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Sonolência", "Tontura", "Boca seca", "Cefaleia"],
+    "comuns": ["Hipotensão ortostática", "Náuseas", "Visão turva", "Edema", "Sonolência residual pela manhã", "Congestão nasal"],
+    "raros_graves": ["Priapismo (cerca de 1 em 6.000 homens)", "Arritmias e prolongamento de QT", "Síndrome serotoninérgica", "Hiponatremia", "Virada maníaca"],
+    "conduta_imediata": ["Ereção dolorosa ou com mais de 4 horas: emergência urológica (orientar o paciente ao prescrever)."],
+    "manejo": [{"efeito": "Sonolência residual", "conduta": "Tomar mais cedo ou reduzir a dose."}, {"efeito": "Hipotensão", "conduta": "Tomar após refeição, levantar devagar."}]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Infarto recente."],
+  "precaucoes": ["Cardiopatia e arritmias.", "Idosos (quedas).", "Condições que predispõem a priapismo (anemia falciforme, mieloma, leucemia)."],
+  "populacoes": {
+    "gestacao": {"nivel": "cautela", "texto": "Dados limitados sem sinal claro de malformações."},
+    "lactacao": {"nivel": "aceitavel", "texto": "Níveis muito baixos no leite."},
+    "idosos": {"nivel": "aceitavel", "texto": "Usada em doses baixas para sono e agitação; vigiar hipotensão e quedas."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem dados suficientes."},
+    "renal": {"nivel": "aceitavel", "texto": "Sem ajuste."},
+    "hepatica": {"nivel": "cautela", "texto": "Doses menores."},
+    "cardiopatas": {"nivel": "cautela", "texto": "Relatos de arritmias em cardiopatas; ECG."}
+  },
+  "suspensao": {"risco": "Baixo a moderado.", "sintomas": "Insônia de rebote, ansiedade.", "reducao": "Reduzir 50 mg a cada 1 a 2 semanas.", "troca": "Cross-titration."},
+  "superdosagem": {"toxicidade": "Baixa a moderada.", "quadro": "Sonolência, hipotensão, priapismo, QT prolongado e arritmias raras, convulsões.", "conduta": "Suporte, ECG."},
+  "pratica": {
+    "perolas": ["Alternativa aos benzodiazepínicos e drogas Z para insônia, sem dependência.", "Sempre orientar sobre priapismo ao prescrever para homens."],
+    "erros": ["Esperar efeito antidepressivo com 50 mg.", "Não orientar sobre hipotensão em idosos."]
+  },
+  "troca": {"tipo": "outro", "washout_semanas": 2},
+  "fontes": ["Bula Donaren (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+},
+{
+  "id": "vortioxetina",
+  "nome": "Vortioxetina",
+  "nomes_comerciais": ["Brintellix"],
+  "classe": "antidepressivos", "subclasse": "Atípico (multimodal)",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "alto",
+  "relacionados": ["escitalopram", "vilazodona"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["5 mg", "10 mg", "15 mg", "20 mg"], "aparencia": {"formato": "oval", "cor": "amarelo", "gravacao": "10", "descricao": "Brintellix: comprimidos em forma de amêndoa; 5 mg rosa, 10 mg amarelo, 15 mg laranja, 20 mg vermelho."}}
+  ],
+  "diagrama": {"nt": "5-HT", "alvos": [{"alvo": "SERT", "efeito": "bloqueio", "local": "pre"}, {"alvo": "5-HT1B", "efeito": "agonismo parcial", "local": "pre"}, {"alvo": "5-HT1A", "efeito": "agonismo", "local": "pos"}, {"alvo": "5-HT3", "efeito": "antagonismo", "local": "pos"}, {"alvo": "5-HT7", "efeito": "antagonismo", "local": "pos"}, {"alvo": "5-HT1D", "efeito": "antagonismo", "local": "pos"}], "legenda": "Ação multimodal: inibição do SERT somada a ações diretas em receptores serotoninérgicos, com liberação indireta de noradrenalina, dopamina, acetilcolina e glutamato no córtex pré-frontal."},
+  "farmacodinamica": {
+    "resumo": "Antidepressivo multimodal: inibe o SERT e age diretamente em receptores 5-HT (antagonista 5-HT3, 5-HT7 e 5-HT1D; agonista parcial 5-HT1B; agonista 5-HT1A). O antagonismo 5-HT3 e 5-HT7 desinibe neurônios glutamatérgicos e aumenta noradrenalina, dopamina e acetilcolina no córtex.",
+    "resumo_curto": "Multimodal: SERT + receptores 5-HT; benefício cognitivo; pouco efeito sexual.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "5-HT3", "acao": "antagonismo", "intensidade": 4},
+      {"alvo": "5-HT1A", "acao": "agonismo", "intensidade": 3},
+      {"alvo": "5-HT7", "acao": "antagonismo", "intensidade": 3},
+      {"alvo": "5-HT1B", "acao": "agonismo parcial", "intensidade": 3},
+      {"alvo": "5-HT1D", "acao": "antagonismo", "intensidade": 2}
+    ],
+    "significado_clinico": ["Melhora de sintomas cognitivos da depressão (velocidade de processamento, função executiva) parcialmente independente do humor.", "Menor disfunção sexual que ISRS em 10 mg; náuseas são o principal efeito adverso."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Lenta.",
+    "biodisponibilidade": "75%.",
+    "alimentos": "Sem efeito.",
+    "pico": "7 a 11 horas.",
+    "ligacao_proteica": "98%.",
+    "metabolismo": "Hepático, principalmente pelo CYP2D6, com participação de 3A4, 2C9, 2C19, 2A6, 2C8 e 2B6; metabólitos inativos.",
+    "meia_vida": "66 horas.",
+    "metabolitos_ativos": "Nenhum.",
+    "excrecao": "Renal (59%) e fecal.",
+    "equilibrio": "2 semanas.",
+    "cyp": {"substrato": ["2D6"], "substrato_menor": ["3A4", "2C9", "2C19"], "inibe": {}, "nota": "Metabolizadores lentos do CYP2D6 ou uso de bupropiona, fluoxetina, paroxetina: máximo de 10 mg. Indutores fortes (rifampicina, carbamazepina) podem exigir aumento."}
+  },
+  "perfil": {"sedacao": 0, "peso": 0, "sexual": 1, "anticolinergico": 0, "hipotensao": 0, "qt": 0, "serotoninergico": 3, "convulsao": 1, "sangramento": 2},
+  "interacoes": [
+    {"com": "IMAO, linezolida, azul de metileno", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "Aguardar 14 dias após a vortioxetina para iniciar IMAO e 14 dias no sentido inverso."},
+    {"com": "Inibidores fortes do CYP2D6 (bupropiona, fluoxetina, paroxetina, quinidina)", "gravidade": "moderada", "efeito": "Dobra os níveis.", "conduta": "Reduzir a dose à metade."},
+    {"com": "Indutores fortes (rifampicina, carbamazepina, fenitoína)", "gravidade": "moderada", "efeito": "Redução dos níveis.", "conduta": "Considerar aumento de dose."},
+    {"com": "Outros serotoninérgicos", "gravidade": "moderada", "efeito": "Toxicidade serotoninérgica.", "conduta": "Cautela."},
+    {"com": "AINE, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Sintomas cognitivos da depressão", "grupo": "Depressão", "status": "off_label", "nota": "Benefício demonstrado em ensaios; a indicação consta como desfecho secundário."},
+    {"condicao": "TAG", "grupo": "TAG", "status": "off_label", "nota": "Resultados inconsistentes."}
+  ],
+  "prescricao": {
+    "dose_inicial": "10 mg/dia (5 mg em idosos e em quem tem náuseas).",
+    "faixa": "5 a 20 mg/dia.",
+    "dose_maxima": "20 mg/dia.",
+    "titulacao": "Aumento para 15 a 20 mg após 2 a 4 semanas conforme resposta.",
+    "horario": "Dose única, qualquer horário, com ou sem alimento.",
+    "latencia": "2 a 4 semanas.",
+    "duracao": "Como os demais antidepressivos.",
+    "monitoramento": ["Náuseas nas primeiras 2 semanas.", "Sódio em idosos."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 10], [3, 15], [5, 20]], "faixa": [10, 20]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Náuseas (20 a 30%, geralmente nas 2 primeiras semanas)"],
+    "comuns": ["Vômitos", "Constipação", "Diarreia", "Tontura", "Prurido generalizado", "Sonhos anormais", "Disfunção sexual dose-dependente (20 mg)"],
+    "raros_graves": ["Síndrome serotoninérgica", "Hiponatremia", "Sangramento", "Virada maníaca", "Angioedema"],
+    "conduta_imediata": ["Síndrome serotoninérgica."],
+    "manejo": [{"efeito": "Náuseas", "conduta": "Tomar após refeição; iniciar com 5 mg; antiemético por curto período se necessário."}]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias.", "Hipersensibilidade."],
+  "precaucoes": ["Bipolaridade.", "Epilepsia.", "Uso de anticoagulantes."],
+  "populacoes": {
+    "gestacao": {"nivel": "cautela", "texto": "Dados humanos escassos."},
+    "lactacao": {"nivel": "cautela", "texto": "Dados escassos."},
+    "idosos": {"nivel": "preferencial", "texto": "Estudado em idosos (5 mg), com boa tolerabilidade e benefício cognitivo."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem eficácia demonstrada em adolescentes."},
+    "renal": {"nivel": "aceitavel", "texto": "Sem ajuste."},
+    "hepatica": {"nivel": "cautela", "texto": "Sem ajuste em leve a moderada; não estudada na grave."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Sem efeito relevante no QT."}
+  },
+  "suspensao": {"risco": "Baixo (meia-vida longa).", "sintomas": "Pouco frequentes.", "reducao": "Em 20 mg, reduzir para 10 mg por 1 semana antes de suspender; em 10 mg, pode ser suspensa.", "troca": "Troca direta a partir de ISRS e IRSN (estudo REVIVE)."},
+  "superdosagem": {"toxicidade": "Baixa.", "quadro": "Náuseas, tontura, diarreia, prurido, sonolência.", "conduta": "Suporte."},
+  "pratica": {
+    "perolas": ["Boa opção quando a disfunção sexual ou a queixa cognitiva limitam o ISRS.", "Prurido generalizado é um efeito característico, em geral transitório."],
+    "erros": ["Não reduzir a dose com bupropiona associada.", "Suspender precocemente por náuseas iniciais sem tentar 5 mg."]
+  },
+  "troca": {"tipo": "multimodal", "washout_semanas": 2},
+  "fontes": ["Bula Brintellix (Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed.", "Montgomery SA et al. REVIVE 2014"]
+},
+{
+  "id": "vilazodona",
+  "nome": "Vilazodona",
+  "nomes_comerciais": ["Aymee"],
+  "classe": "antidepressivos", "subclasse": "Atípico (multimodal)",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "alto",
+  "relacionados": ["vortioxetina"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["10 mg", "20 mg", "40 mg"], "aparencia": {"formato": "oval", "descricao": "Forma e cor conforme a bula do fabricante (Libbs)."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Inibidor do SERT com agonismo parcial 5-HT1A (SPARI). O agonismo parcial dos autorreceptores 5-HT1A poderia acelerar sua dessensibilização e reduzir a disfunção sexual, o que não foi confirmado de forma robusta.",
+    "resumo_curto": "ISRS com agonismo parcial 5-HT1A; tomar com alimento.",
+    "afinidade": [
+      {"alvo": "SERT", "acao": "inibição", "intensidade": 4},
+      {"alvo": "5-HT1A", "acao": "agonismo parcial", "intensidade": 3}
+    ],
+    "significado_clinico": ["Perfil sexual possivelmente mais favorável que ISRS.", "Diarreia e náuseas frequentes no início."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Dependente de alimento.",
+    "biodisponibilidade": "72% com alimento; cerca da metade em jejum.",
+    "alimentos": "Obrigatório tomar com refeição.",
+    "pico": "4 a 5 horas.",
+    "ligacao_proteica": "96 a 99%.",
+    "metabolismo": "Hepático, principalmente pelo CYP3A4; menor por 2C19 e 2D6.",
+    "meia_vida": "25 horas.",
+    "metabolitos_ativos": "Nenhum relevante.",
+    "excrecao": "Fecal e renal.",
+    "equilibrio": "3 dias.",
+    "cyp": {"substrato": ["3A4"], "substrato_menor": ["2C19", "2D6"], "inibe": {}, "nota": "Com inibidores fortes do CYP3A4, máximo de 20 mg; com indutores fortes, considerar dobrar a dose."}
+  },
+  "perfil": {"sedacao": 1, "peso": 0, "sexual": 1, "anticolinergico": 0, "hipotensao": 0, "qt": 0, "serotoninergico": 3, "convulsao": 1, "sangramento": 2, "insonia": 1},
+  "interacoes": [
+    {"com": "IMAO, linezolida, azul de metileno", "gravidade": "contraindicada", "efeito": "Síndrome serotoninérgica.", "conduta": "14 dias em ambos os sentidos."},
+    {"com": "Inibidores fortes do CYP3A4 (cetoconazol, claritromicina, ritonavir)", "gravidade": "moderada", "efeito": "Aumento dos níveis.", "conduta": "Máximo de 20 mg."},
+    {"com": "Indutores fortes (carbamazepina, rifampicina)", "gravidade": "moderada", "efeito": "Redução dos níveis.", "conduta": "Considerar dobrar a dose."},
+    {"com": "Outros serotoninérgicos", "gravidade": "moderada", "efeito": "Toxicidade serotoninérgica.", "conduta": "Cautela."},
+    {"com": "AINE, anticoagulantes", "gravidade": "moderada", "efeito": "Sangramento.", "conduta": "Proteção gástrica em risco alto."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "TAG", "grupo": "TAG", "status": "off_label", "nota": "Ensaios positivos, sem aprovação."}
+  ],
+  "prescricao": {
+    "dose_inicial": "10 mg/dia por 7 dias, com refeição.",
+    "faixa": "20 a 40 mg/dia.",
+    "dose_maxima": "40 mg/dia.",
+    "titulacao": "10 mg por 7 dias → 20 mg por 7 dias → 40 mg se necessário.",
+    "horario": "Dose única, sempre com refeição.",
+    "latencia": "2 a 4 semanas.",
+    "duracao": "Como os demais antidepressivos.",
+    "monitoramento": ["Náuseas e diarreia nas primeiras semanas.", "Sódio em idosos."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 10], [1, 20], [2, 40]], "faixa": [20, 40]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Diarreia", "Náuseas"],
+    "comuns": ["Vômitos", "Insônia", "Tontura", "Boca seca", "Sonhos anormais", "Redução de libido"],
+    "raros_graves": ["Síndrome serotoninérgica", "Hiponatremia", "Sangramento", "Virada maníaca", "Pancreatite aguda (rara)"],
+    "conduta_imediata": ["Dor abdominal intensa com vômitos: investigar pancreatite."],
+    "manejo": [{"efeito": "Diarreia e náuseas", "conduta": "Titulação lenta e tomada com refeição."}]
+  },
+  "contraindicacoes": ["IMAO nos últimos 14 dias."],
+  "precaucoes": ["Bipolaridade.", "Epilepsia.", "Uso de anticoagulantes."],
+  "populacoes": {
+    "gestacao": {"nivel": "cautela", "texto": "Dados humanos escassos."},
+    "lactacao": {"nivel": "cautela", "texto": "Dados escassos."},
+    "idosos": {"nivel": "aceitavel", "texto": "Sem ajuste específico; poucos dados."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem eficácia demonstrada."},
+    "renal": {"nivel": "aceitavel", "texto": "Sem ajuste."},
+    "hepatica": {"nivel": "cautela", "texto": "Não estudada na insuficiência grave."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Sem efeito relevante no QT."}
+  },
+  "suspensao": {"risco": "Moderado.", "sintomas": "Sintomas FINISH.", "reducao": "40 → 20 mg por 4 dias → 10 mg por 3 dias, depois suspender.", "troca": "Como um ISRS."},
+  "superdosagem": {"toxicidade": "Baixa.", "quadro": "Síndrome serotoninérgica, letargia, vômitos, alucinações.", "conduta": "Suporte."},
+  "pratica": {
+    "perolas": ["Tomar sempre com comida: em jejum a exposição cai pela metade e a eficácia pode falhar."],
+    "erros": ["Não orientar sobre a tomada com refeição."]
+  },
+  "troca": {"tipo": "isrs", "washout_semanas": 2},
+  "fontes": ["Bula Aymee (Libbs/Anvisa)", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+},
+{
+  "id": "agomelatina",
+  "nome": "Agomelatina",
+  "nomes_comerciais": ["Valdoxan"],
+  "classe": "antidepressivos", "subclasse": "Atípico (melatoninérgico)",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "alto",
+  "relacionados": ["melatonina", "ramelteona"],
+  "apresentacoes": [
+    {"forma": "Comprimido revestido", "doses": ["25 mg"], "aparencia": {"formato": "oblongo", "cor": "laranja", "descricao": "Valdoxan 25 mg: comprimido revestido oblongo, amarelo-alaranjado, com logotipo em azul."}}
+  ],
+  "diagrama": {"nt": "Melatonina e 5-HT", "alvos": [{"alvo": "MT1", "efeito": "agonismo", "local": "pos"}, {"alvo": "MT2", "efeito": "agonismo", "local": "pos"}, {"alvo": "5-HT2C", "efeito": "antagonismo", "local": "pos"}], "legenda": "Agonismo MT1/MT2 ressincroniza o ritmo circadiano; o antagonismo 5-HT2C libera noradrenalina e dopamina no córtex pré-frontal."},
+  "farmacodinamica": {
+    "resumo": "Agonista dos receptores de melatonina MT1 e MT2 e antagonista 5-HT2C. Ressincroniza ritmos circadianos e aumenta noradrenalina e dopamina no córtex pré-frontal, sem ação no SERT.",
+    "resumo_curto": "Agonista MT1/MT2 e antagonista 5-HT2C; sem disfunção sexual; exige monitorar transaminases.",
+    "afinidade": [
+      {"alvo": "MT1", "acao": "agonismo", "intensidade": 4},
+      {"alvo": "MT2", "acao": "agonismo", "intensidade": 4},
+      {"alvo": "5-HT2C", "acao": "antagonismo", "intensidade": 2}
+    ],
+    "significado_clinico": ["Melhora do sono sem sedação diurna; útil quando há inversão de ritmo.", "Sem disfunção sexual, ganho de peso ou síndrome de descontinuação."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Rápida.",
+    "biodisponibilidade": "Menor que 5% (primeira passagem pelo CYP1A2); maior em mulheres e reduzida em fumantes.",
+    "alimentos": "Sem efeito relevante.",
+    "pico": "1 a 2 horas.",
+    "ligacao_proteica": "95%.",
+    "metabolismo": "Hepático, CYP1A2 (90%), 2C9 e 2C19.",
+    "meia_vida": "1 a 2 horas.",
+    "metabolitos_ativos": "Nenhum.",
+    "excrecao": "Renal (80%) como metabólitos.",
+    "equilibrio": "Imediato em uso diário.",
+    "cyp": {"substrato": ["1A2"], "substrato_menor": ["2C9", "2C19"], "inibe": {}, "nota": "Fluvoxamina eleva os níveis cerca de 60 vezes; ciprofloxacino também contraindicado."}
+  },
+  "perfil": {"sedacao": 1, "peso": 0, "sexual": 0, "anticolinergico": 0, "hipotensao": 0, "qt": 0, "serotoninergico": 0, "convulsao": 0, "sangramento": 0},
+  "interacoes": [
+    {"com": "Inibidores potentes do CYP1A2 (fluvoxamina, ciprofloxacino)", "gravidade": "contraindicada", "efeito": "Elevação extrema dos níveis.", "conduta": "Não associar."},
+    {"com": "Inibidores moderados do CYP1A2 (estrógenos, propranolol)", "gravidade": "moderada", "efeito": "Aumento dos níveis.", "conduta": "Cautela e monitorar transaminases."},
+    {"com": "Tabagismo, rifampicina", "gravidade": "leve", "efeito": "Redução dos níveis.", "conduta": "Observar resposta."},
+    {"com": "Álcool", "gravidade": "moderada", "efeito": "Risco hepático.", "conduta": "Evitar consumo."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "TAG", "grupo": "TAG", "status": "off_label", "nota": "Ensaios positivos; aprovada em alguns países."},
+    {"condicao": "Distúrbios do ritmo circadiano associados à depressão", "grupo": "Insônia", "status": "off_label"}
+  ],
+  "prescricao": {
+    "dose_inicial": "25 mg ao deitar.",
+    "faixa": "25 a 50 mg/dia.",
+    "dose_maxima": "50 mg/dia.",
+    "titulacao": "Aumentar para 50 mg após 2 semanas se resposta insuficiente (repetir transaminases).",
+    "horario": "Ao deitar.",
+    "latencia": "Sono: 1 semana; humor: 2 a 4 semanas.",
+    "duracao": "Como os demais antidepressivos.",
+    "monitoramento": ["Transaminases antes de iniciar, com 3, 6, 12 e 24 semanas, e ao aumentar a dose (repetir o mesmo calendário).", "Suspender se ALT ou AST acima de 3 vezes o limite superior."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 25], [2, 50]], "faixa": [25, 50]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": [],
+    "comuns": ["Cefaleia", "Tontura", "Sonolência", "Náuseas", "Elevação de transaminases (1 a 2%)", "Ansiedade", "Dor abdominal", "Fadiga"],
+    "raros_graves": ["Hepatite e insuficiência hepática", "Virada maníaca", "Rash"],
+    "conduta_imediata": ["Icterícia, colúria, dor abdominal ou ALT/AST acima de 3 vezes o limite: suspender."],
+    "manejo": [{"efeito": "Elevação leve de transaminases", "conduta": "Repetir em 48 horas; suspender se persistir acima de 3 vezes."}]
+  },
+  "contraindicacoes": ["Insuficiência hepática ou transaminases acima de 3 vezes o limite superior.", "Uso de fluvoxamina ou ciprofloxacino.", "Intolerância hereditária à galactose, deficiência de lactase ou má absorção de glicose-galactose (contém lactose).", "Hipersensibilidade."],
+  "precaucoes": ["Consumo de álcool, obesidade, esteatose, diabetes (fatores de risco hepático).", "Idosos acima de 75 anos (sem eficácia demonstrada).", "Idosos com demência: não usar (segurança e eficácia não estabelecidas)."],
+  "populacoes": {
+    "gestacao": {"nivel": "evitar", "texto": "Dados insuficientes."},
+    "lactacao": {"nivel": "evitar", "texto": "Dados insuficientes."},
+    "idosos": {"nivel": "cautela", "texto": "Eficácia demonstrada até 75 anos; acima disso não recomendada."},
+    "pediatria": {"nivel": "evitar", "texto": "Sem dados."},
+    "renal": {"nivel": "aceitavel", "texto": "Sem ajuste."},
+    "hepatica": {"nivel": "contraindicado", "texto": "Contraindicada."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Sem efeitos cardiovasculares relevantes."}
+  },
+  "suspensao": {"risco": "Muito baixo.", "sintomas": "Não descritos.", "reducao": "Pode ser suspensa sem redução.", "troca": "Iniciar o novo antidepressivo diretamente; a partir de fluvoxamina, aguardar 3 a 4 dias."},
+  "superdosagem": {"toxicidade": "Baixa.", "quadro": "Sonolência, dor epigástrica.", "conduta": "Suporte."},
+  "pratica": {
+    "perolas": ["Útil em pacientes que não toleram disfunção sexual ou ganho de peso, e em insônia com atraso de fase.", "A monitorização de transaminases é obrigatória e deve ser combinada com o paciente."],
+    "erros": ["Não pedir transaminases.", "Associar a fluvoxamina."]
+  },
+  "troca": {"tipo": "outro", "washout_semanas": 0.5},
+  "fontes": ["Bula Valdoxan (Anvisa)", "EMA SmPC Valdoxan", "Stahl's Prescriber's Guide", "Maudsley Prescribing Guidelines 15ª ed."]
+},
+{
+  "id": "tianeptina",
+  "nome": "Tianeptina",
+  "nomes_comerciais": ["Stablon"],
+  "classe": "antidepressivos", "subclasse": "Atípico (agonista μ e glutamatérgico)",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "moderado",
+  "relacionados": [],
+  "apresentacoes": [
+    {"forma": "Drágea (comprimido revestido)", "doses": ["12,5 mg"], "aparencia": {"formato": "redondo", "cor": "branco", "descricao": "Stablon 12,5 mg: drágea branca."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Mecanismo reavaliado: é agonista pleno do receptor opioide μ (e fraco em δ), o que parece mediar seu efeito antidepressivo e ansiolítico em modelos animais. Modula a neurotransmissão glutamatérgica (AMPA e NMDA) e a plasticidade no hipocampo e na amígdala. A antiga descrição de facilitador da recaptação de serotonina não explica sua ação.",
+    "resumo_curto": "Agonista μ opioide com efeito glutamatérgico; potencial de abuso.",
+    "afinidade": [
+      {"alvo": "μ opioide", "acao": "agonismo", "intensidade": 3},
+      {"alvo": "δ opioide", "acao": "agonismo", "intensidade": 1},
+      {"alvo": "AMPA", "acao": "modulação", "intensidade": 2}
+    ],
+    "significado_clinico": ["Sem efeitos sexuais, sedação ou ganho de peso.", "Potencial de abuso e dependência opioide em doses altas; superdosagem responde à naloxona."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Rápida e completa.",
+    "biodisponibilidade": "99%.",
+    "alimentos": "Tomar com as refeições.",
+    "pico": "1 hora.",
+    "ligacao_proteica": "94%.",
+    "metabolismo": "Hepático por beta-oxidação (não depende do CYP450), gerando o metabólito MC5 (ativo).",
+    "meia_vida": "2,5 horas (MC5 cerca de 7 horas).",
+    "metabolitos_ativos": "MC5.",
+    "excrecao": "Renal.",
+    "equilibrio": "1 a 2 dias.",
+    "cyp": {"substrato": [], "inibe": {}, "nota": "Não metabolizada pelo citocromo P450."}
+  },
+  "perfil": {"sedacao": 0, "peso": 0, "sexual": 0, "anticolinergico": 0, "hipotensao": 0, "qt": 0, "serotoninergico": 0, "convulsao": 0, "sangramento": 0, "dependencia": 2, "depressao_respiratoria": 1},
+  "interacoes": [
+    {"com": "IMAO", "gravidade": "contraindicada", "efeito": "Risco de reações graves.", "conduta": "Aguardar 2 semanas após IMAO; 24 horas após a tianeptina para iniciar IMAO."},
+    {"com": "Opioides", "gravidade": "grave", "efeito": "Somação de efeito μ: depressão respiratória e dependência.", "conduta": "Evitar."},
+    {"com": "Álcool, benzodiazepínicos", "gravidade": "moderada", "efeito": "Depressão do SNC.", "conduta": "Orientar."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão (inclusive com ansiedade e queixas somáticas)", "grupo": "Depressão", "status": "anvisa"}
+  ],
+  "prescricao": {
+    "dose_inicial": "12,5 mg três vezes ao dia.",
+    "faixa": "37,5 mg/dia.",
+    "dose_maxima": "37,5 mg/dia. Idosos acima de 70 anos e insuficiência renal: 25 mg/dia.",
+    "titulacao": "Não necessária.",
+    "horario": "Três tomadas, antes das principais refeições.",
+    "latencia": "2 a 4 semanas.",
+    "duracao": "Como os demais antidepressivos.",
+    "monitoramento": ["Sinais de uso acima do prescrito, busca de receitas, sintomas de abstinência.", "Enzimas hepáticas se sintomas."],
+    "esquema": {"unidade_tempo": "dia", "unidade_dose": "mg/dia", "pontos": [[0, 37.5]], "faixa": [25, 37.5]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": [],
+    "comuns": ["Náuseas", "Constipação", "Dor abdominal", "Boca seca", "Cefaleia", "Tontura", "Insônia ou sonolência", "Pesadelos"],
+    "raros_graves": ["Dependência e abuso com doses muito acima das terapêuticas", "Síndrome de abstinência opioide", "Hepatite", "Hiponatremia", "Dermatites bolhosas"],
+    "conduta_imediata": ["Suspeita de uso abusivo (doses de centenas de mg): abordar como transtorno por uso de opioide."],
+    "manejo": [{"efeito": "Náuseas", "conduta": "Tomar antes das refeições."}]
+  },
+  "contraindicacoes": ["IMAO nas últimas 2 semanas.", "Menores de 15 anos.", "Hipersensibilidade."],
+  "precaucoes": ["História de uso de substâncias, especialmente opioides.", "Idosos e insuficiência renal (reduzir dose).", "Anestesia geral (suspender 24 a 48 horas antes)."],
+  "populacoes": {
+    "gestacao": {"nivel": "evitar", "texto": "Dados insuficientes."},
+    "lactacao": {"nivel": "evitar", "texto": "Dados insuficientes."},
+    "idosos": {"nivel": "aceitavel", "texto": "Sem efeito anticolinérgico; 25 mg/dia acima de 70 anos."},
+    "pediatria": {"nivel": "contraindicado", "texto": "Contraindicada em menores de 15 anos."},
+    "renal": {"nivel": "cautela", "texto": "25 mg/dia."},
+    "hepatica": {"nivel": "aceitavel", "texto": "Sem ajuste em alcoolistas e cirróticos segundo o fabricante; na cirrose grave (Child C), limitar a 25 mg/dia. Monitorar."},
+    "cardiopatas": {"nivel": "aceitavel", "texto": "Sem efeitos cardiovasculares relevantes."}
+  },
+  "suspensao": {"risco": "Moderado (maior em quem usa doses altas).", "sintomas": "Ansiedade, irritabilidade, mialgia, diarreia, sintomas de abstinência opioide.", "reducao": "Reduzir ao longo de 7 a 14 dias.", "troca": "Cross-titration simples; não serotoninérgica."},
+  "superdosagem": {"toxicidade": "Moderada, sobretudo com outros depressores.", "quadro": "Síndrome opioide (miose, sedação, depressão respiratória), agitação, confusão, taquicardia.", "conduta": "Naloxona reverte o quadro opioide; suporte."},
+  "pratica": {
+    "perolas": ["Evitar em pacientes com história de uso de opioides ou de outras substâncias.", "Sem disfunção sexual nem ganho de peso."],
+    "erros": ["Considerar a tianeptina um serotoninérgico e ignorar o potencial de abuso."]
+  },
+  "troca": {"tipo": "outro", "washout_semanas": 0.2},
+  "fontes": ["Bula Stablon (Anvisa)", "Gassaway MM et al. Transl Psychiatry 2014 (agonismo μ)", "Stahl's Prescriber's Guide"]
+},
+{
+  "id": "reboxetina",
+  "nome": "Reboxetina",
+  "nomes_comerciais": ["Prolift"],
+  "classe": "antidepressivos", "subclasse": "Atípico (IRN seletivo)",
+  "comercializacao": "restrito",
+  "nota_comercializacao": "Registro ativo (Prolift), com oferta irregular nas farmácias.",
+  "receita": "C1", "receita_nota": "Receita de controle especial em duas vias (lista C1).",
+  "rename": false,
+  "custo": "moderado",
+  "relacionados": ["atomoxetina"],
+  "apresentacoes": [
+    {"forma": "Comprimido sulcado", "doses": ["4 mg"], "aparencia": {"formato": "redondo", "cor": "branco", "sulco": true, "descricao": "Prolift 4 mg: comprimido branco, sulcado."}}
+  ],
+  "farmacodinamica": {
+    "resumo": "Inibidor seletivo da recaptação de noradrenalina (IRN), sem ação relevante em SERT, DAT ou receptores.",
+    "resumo_curto": "Inibidor seletivo do NET; eficácia modesta.",
+    "afinidade": [{"alvo": "NET", "acao": "inibição", "intensidade": 4}],
+    "significado_clinico": ["Metanálises (Eyding 2010) mostraram eficácia pequena e viés de publicação; considerada opção de baixa prioridade."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Rápida.",
+    "biodisponibilidade": "94%.",
+    "alimentos": "Retardam a absorção.",
+    "pico": "2 horas.",
+    "ligacao_proteica": "97%.",
+    "metabolismo": "Hepático, pelo CYP3A4.",
+    "meia_vida": "13 horas.",
+    "metabolitos_ativos": "Nenhum.",
+    "excrecao": "Renal.",
+    "equilibrio": "5 dias.",
+    "cyp": {"substrato": ["3A4"], "inibe": {}}
+  },
+  "perfil": {"sedacao": 0, "peso": 0, "sexual": 1, "anticolinergico": 1, "hipotensao": 1, "qt": 0, "serotoninergico": 0, "convulsao": 1, "sangramento": 0, "insonia": 2},
+  "interacoes": [
+    {"com": "IMAO", "gravidade": "contraindicada", "efeito": "Crise hipertensiva.", "conduta": "14 dias."},
+    {"com": "Inibidores fortes do CYP3A4 (cetoconazol, macrolídeos, fluvoxamina)", "gravidade": "moderada", "efeito": "Aumento dos níveis.", "conduta": "Evitar."},
+    {"com": "Diuréticos espoliadores de potássio", "gravidade": "moderada", "efeito": "Hipocalemia.", "conduta": "Monitorar potássio."},
+    {"com": "Derivados do ergot, simpaticomiméticos", "gravidade": "moderada", "efeito": "Aumento de PA.", "conduta": "Cautela."},
+    {"com": "Pimozida, tioridazina", "gravidade": "grave", "efeito": "Em doses altas, a reboxetina inibe fracamente CYP2D6 e CYP3A4; risco de aumento dos níveis e de prolongamento do QTc.", "conduta": "Evitar a associação."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão maior grave em adultos", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "TDAH, narcolepsia", "grupo": "TDAH", "status": "off_label", "nota": "Evidência fraca."}
+  ],
+  "prescricao": {
+    "dose_inicial": "4 mg duas vezes ao dia (bula). Para melhor tolerância, pode-se iniciar com 2 mg duas vezes ao dia na 1.ª semana.",
+    "faixa": "8 a 10 mg/dia.",
+    "dose_maxima": "12 mg/dia.",
+    "titulacao": "Se iniciado com 2 mg duas vezes ao dia, passar a 4 mg duas vezes ao dia após 1 semana. Após 3 a 4 semanas, pode-se aumentar para 10 mg/dia.",
+    "horario": "Manhã e início da tarde.",
+    "latencia": "2 a 4 semanas.",
+    "duracao": "Como os demais.",
+    "monitoramento": ["PA e FC.", "Potássio em idosos com diuréticos."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg/dia", "pontos": [[0, 8], [4, 10]], "faixa": [8, 12]}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Insônia", "Boca seca", "Constipação", "Sudorese"],
+    "comuns": ["Taquicardia", "Hesitação e retenção urinária", "Tontura", "Hipotensão ortostática", "Disfunção erétil", "Parestesias", "Calafrios"],
+    "raros_graves": ["Retenção urinária", "Hipocalemia em idosos", "Glaucoma agudo"],
+    "conduta_imediata": ["Retenção urinária."],
+    "manejo": [{"efeito": "Hesitação urinária", "conduta": "Reduzir dose; tansulosina."}]
+  },
+  "contraindicacoes": ["IMAO.", "Glaucoma de ângulo fechado.", "Retenção urinária, hiperplasia prostática."],
+  "precaucoes": ["Epilepsia.", "Bipolaridade.", "Cardiopatia."],
+  "populacoes": {
+    "gestacao": {"nivel": "evitar", "texto": "Dados insuficientes."},
+    "lactacao": {"nivel": "evitar", "texto": "Dados insuficientes."},
+    "idosos": {"nivel": "evitar", "texto": "Não recomendada pelo fabricante (hipocalemia, eficácia não estabelecida). Se usar, 4 a 6 mg/dia."},
+    "pediatria": {"nivel": "contraindicado", "texto": "Não recomendada."},
+    "renal": {"nivel": "cautela", "texto": "Iniciar com 2 mg duas vezes ao dia."},
+    "hepatica": {"nivel": "cautela", "texto": "Iniciar com 2 mg duas vezes ao dia."},
+    "cardiopatas": {"nivel": "cautela", "texto": "Taquicardia."}
+  },
+  "suspensao": {"risco": "Baixo.", "sintomas": "Raros.", "reducao": "Reduzir em 1 a 2 semanas.", "troca": "Cross-titration."},
+  "superdosagem": {"toxicidade": "Baixa.", "quadro": "Hipertensão, taquicardia, ansiedade.", "conduta": "Suporte."},
+  "pratica": {"perolas": ["Opção sem ação serotoninérgica, raramente indicada hoje."], "erros": ["Prescrever para homens com prostatismo."]},
+  "troca": {"tipo": "outro", "washout_semanas": 1},
+  "fontes": ["Bula Prolift (Anvisa)", "Eyding D et al. BMJ 2010", "Stahl's Prescriber's Guide"]
+},
+{
+  "id": "esketamina",
+  "nome": "Esketamina",
+  "sinonimos": ["escetamina", "ketamina", "cetamina"],
+  "nomes_comerciais": ["Spravato"],
+  "classe": "antidepressivos", "subclasse": "Atípico (antagonista NMDA)",
+  "comercializacao": "disponivel",
+  "receita": "C1", "receita_nota": "Lista C1. Administração exclusiva em serviço de saúde, com observação após a aplicação.",
+  "rename": false,
+  "custo": "muito alto",
+  "relacionados": [],
+  "apresentacoes": [
+    {"forma": "Spray nasal (dispositivo de uso único)", "doses": ["28 mg por dispositivo (2 borrifadas)"], "aparencia": {"formato": "spray", "cor": "branco", "descricao": "Dispositivo nasal descartável; 56 mg = 2 dispositivos, 84 mg = 3 dispositivos, com 5 minutos entre eles."}}
+  ],
+  "diagrama": {"nt": "Glutamato", "alvos": [{"alvo": "NMDA (interneurônio GABA)", "efeito": "antagonismo", "local": "pos"}, {"alvo": "AMPA", "efeito": "ativação indireta", "local": "pos"}, {"alvo": "BDNF/mTOR", "efeito": "liberação", "local": "pos"}], "legenda": "O bloqueio NMDA em interneurônios GABAérgicos desinibe neurônios piramidais; o surto de glutamato ativa AMPA, BDNF e mTOR e induz sinaptogênese em horas."},
+  "farmacodinamica": {
+    "resumo": "S-enantiômero da cetamina, antagonista não competitivo do receptor NMDA com afinidade maior que a cetamina racêmica. O bloqueio NMDA em interneurônios GABAérgicos gera um surto de glutamato, ativação de AMPA, liberação de BDNF, ativação de mTOR e sinaptogênese rápida no córtex pré-frontal.",
+    "resumo_curto": "Antagonista NMDA intranasal; efeito antidepressivo em horas a dias.",
+    "afinidade": [
+      {"alvo": "NMDA", "acao": "antagonismo", "intensidade": 4},
+      {"alvo": "μ opioide", "acao": "agonismo fraco", "intensidade": 1}
+    ],
+    "significado_clinico": ["Efeito antidepressivo e sobre ideação suicida em horas a dias.", "Dissociação, sedação e aumento de PA transitórios exigem observação de pelo menos 2 horas."]
+  },
+  "farmacocinetica": {
+    "absorcao": "Nasal, rápida.",
+    "biodisponibilidade": "Cerca de 48% por via nasal.",
+    "alimentos": "Evitar comer 2 horas antes e beber 30 minutos antes (náuseas).",
+    "pico": "20 a 40 minutos.",
+    "ligacao_proteica": "43 a 45%.",
+    "metabolismo": "Hepático, por CYP2B6 e 3A4, a noresketamina.",
+    "meia_vida": "7 a 12 horas.",
+    "metabolitos_ativos": "Noresketamina (menor atividade).",
+    "excrecao": "Renal.",
+    "equilibrio": "Não se aplica (uso intermitente).",
+    "cyp": {"substrato": ["2B6", "3A4"], "inibe": {}}
+  },
+  "perfil": {"sedacao": 2, "peso": 0, "sexual": 0, "anticolinergico": 0, "hipotensao": 0, "qt": 0, "serotoninergico": 0, "convulsao": 0, "sangramento": 0, "dependencia": 2, "depressao_respiratoria": 1},
+  "interacoes": [
+    {"com": "Psicoestimulantes, IMAO, modafinila", "gravidade": "grave", "efeito": "Aumento de PA.", "conduta": "Monitorar PA de perto."},
+    {"com": "Benzodiazepínicos, opioides, álcool", "gravidade": "moderada", "efeito": "Sedação aumentada; benzodiazepínicos podem reduzir o efeito antidepressivo.", "conduta": "Evitar benzodiazepínico no dia da aplicação se possível."},
+    {"com": "Corticoide ou descongestionante nasal", "gravidade": "leve", "efeito": "Alteração da absorção.", "conduta": "Aplicar pelo menos 1 hora antes do Spravato."}
+  ],
+  "indicacoes": [
+    {"condicao": "Depressão resistente (falha de 2 antidepressivos), em associação com antidepressivo oral", "grupo": "Depressão resistente", "status": "anvisa"},
+    {"condicao": "Redução rápida de sintomas depressivos em adultos com TDM e ideação ou comportamento suicida agudo, com antidepressivo oral", "grupo": "Depressão", "status": "anvisa"},
+    {"condicao": "Cetamina racêmica IV (0,5 mg/kg em 40 minutos) na depressão resistente", "grupo": "Depressão resistente", "status": "off_label", "nota": "Não é a esketamina, mas usa o mesmo mecanismo; protocolos de 6 a 8 infusões em serviço especializado."}
+  ],
+  "prescricao": {
+    "dose_inicial": "Depressão resistente: 56 mg no dia 1 (acima de 65 anos: 28 mg).",
+    "faixa": "56 a 84 mg por sessão.",
+    "dose_maxima": "84 mg por sessão.",
+    "titulacao": "Indução (semanas 1 a 4): duas vezes por semana, 56 ou 84 mg. Semanas 5 a 8: uma vez por semana. A partir da semana 9: semanal ou a cada 2 semanas. Ideação suicida: 84 mg duas vezes por semana por 4 semanas.",
+    "horario": "Em serviço de saúde; paciente não deve dirigir no dia da aplicação.",
+    "latencia": "Horas a dias; avaliar benefício ao fim da indução (4 semanas).",
+    "duracao": "Manutenção prolongada reduz recaídas (SUSTAIN-1).",
+    "monitoramento": ["PA antes e cerca de 40 minutos após a aplicação e depois conforme necessário; não aplicar se PA acima de 140/90 mmHg em pacientes com risco.", "Observação por pelo menos 2 horas (sedação, dissociação).", "Sinais de uso indevido.", "Sintomas urinários (cistite com uso crônico de cetamina)."],
+    "esquema": {"unidade_tempo": "semana", "unidade_dose": "mg por sessão", "pontos": [[0, 56], [1, 84], [4, 84], [8, 84]], "faixa": [56, 84], "legenda": "Duas sessões por semana até a semana 4; semanal nas semanas 5 a 8; depois semanal ou quinzenal."}
+  },
+  "efeitos_adversos": {
+    "muito_comuns": ["Dissociação e alteração perceptiva", "Tontura", "Náuseas", "Sedação", "Disgeusia", "Aumento transitório de PA", "Hipoestesia oral", "Vertigem"],
+    "comuns": ["Ansiedade", "Cefaleia", "Vômitos", "Euforia", "Diplopia e visão turva", "Desconforto nasal", "Sensação de embriaguez"],
+    "raros_graves": ["Depressão respiratória (rara, em associação com depressores)", "Crise hipertensiva", "Abuso e dependência", "Cistite intersticial com uso crônico", "Ideação suicida"],
+    "conduta_imediata": ["PA acima de 180/110 mmHg, dor torácica ou sinais neurológicos após a aplicação: avaliação médica imediata."],
+    "manejo": [{"efeito": "Náuseas", "conduta": "Jejum de 2 horas; antiemético prévio."}, {"efeito": "Dissociação", "conduta": "Ambiente calmo; costuma ceder em 1 a 2 horas."}]
+  },
+  "contraindicacoes": ["Aneurisma vascular (aórtico, intracraniano, periférico) ou malformação arteriovenosa.", "Hemorragia intracerebral prévia.", "Evento cardiovascular recente (6 semanas), inclusive infarto.", "Hipersensibilidade à esketamina ou cetamina."],
+  "precaucoes": ["Hipertensão, doença cardiovascular, AVC prévio.", "Psicose atual ou prévia.", "Transtorno por uso de substâncias.", "Mania ou bipolaridade."],
+  "populacoes": {
+    "gestacao": {"nivel": "evitar", "texto": "Toxicidade em estudos animais; não recomendada. Mulheres em idade fértil devem usar contracepção."},
+    "lactacao": {"nivel": "evitar", "texto": "Dados insuficientes."},
+    "idosos": {"nivel": "cautela", "texto": "Iniciar com 28 mg; eficácia menor nos ensaios em idosos."},
+    "pediatria": {"nivel": "contraindicado", "texto": "Não aprovada."},
+    "renal": {"nivel": "aceitavel", "texto": "Sem ajuste."},
+    "hepatica": {"nivel": "cautela", "texto": "Moderada: observar por mais tempo. Grave: não recomendada."},
+    "cardiopatas": {"nivel": "evitar", "texto": "Aumento de PA; avaliar risco cardiovascular."}
+  },
+  "suspensao": {"risco": "Baixo em uso intermitente.", "sintomas": "Não descritos nos ensaios; risco de recaída depressiva.", "reducao": "Espaçar as sessões (semanal → quinzenal) antes de interromper.", "troca": "Manter o antidepressivo oral durante e após."},
+  "superdosagem": {"toxicidade": "Moderada.", "quadro": "Dissociação intensa, sedação, hipertensão, depressão respiratória.", "conduta": "Suporte, monitorização cardiorrespiratória."},
+  "pratica": {
+    "perolas": ["O paciente não pode dirigir nem operar máquinas até o dia seguinte.", "Associar sempre a antidepressivo oral (ISRS ou IRSN nos ensaios)."],
+    "erros": ["Liberar o paciente antes de 2 horas.", "Não aferir PA antes e depois."]
+  },
+  "fontes": ["Bula Spravato (Anvisa)", "Popova V et al. TRANSFORM-2. Am J Psychiatry 2019", "Daly EJ et al. SUSTAIN-1. JAMA Psychiatry 2019", "CANMAT 2023"]
+}
+]

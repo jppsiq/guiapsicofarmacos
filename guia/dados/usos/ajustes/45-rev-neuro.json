@@ -1,0 +1,227 @@
+[
+ {
+  "f": "atomoxetina",
+  "g": "TDAH",
+  "c": "TDAH com transtornos de ansiedade comórbidos",
+  "set": {
+   "p": "2",
+   "t": "Ensaio de Geller 2007 mostrou melhora das duas condições. CADDRA 2020 e NICE mantêm estimulantes como primeira linha mesmo com ansiedade; atomoxetina é a opção quando a ansiedade piora com estimulante ou há contraindicação."
+  },
+  "motivo": "CADDRA 2020 e NICE NG87: ansiedade comórbida não tira os estimulantes da primeira linha; não estimulantes são segunda linha"
+ },
+ {
+  "f": "bupropiona",
+  "g": "TDAH",
+  "set": {
+   "p": "A",
+   "e": "C",
+   "t": "Efeito menor que estimulantes e atomoxetina, evidência de baixa qualidade (Cochrane, Verbeeck 2017); opção fora de bula em adultos com tabagismo, uso de substâncias ou depressão comórbida."
+  },
+  "motivo": "CADDRA 2020: opção fora de bula de terceira linha; NICE NG87 não a recomenda"
+ },
+ {
+  "f": "modafinila",
+  "g": "TDAH",
+  "set": {
+   "p": "X",
+   "t": "Ensaios de fase 3 em adultos (Arnold 2014) sem superioridade ao placebo; em crianças, reações cutâneas graves impediram a aprovação. Não recomendada."
+  },
+  "motivo": "Ensaios em adultos negativos; nenhuma diretriz (NICE, CADDRA) a recomenda"
+ },
+ {
+  "f": "rivastigmina",
+  "g": "Demência de Alzheimer",
+  "set": {
+   "d": "oral 1,5 a 6 mg 2 vezes ao dia (3 a 12 mg/dia) com refeições; adesivo 4,6 a 13,3 mg/24 h"
+  },
+  "motivo": "Completar dose da forma oral (ABN 2022)"
+ },
+ {
+  "f": "lecanemabe",
+  "g": "Demência de Alzheimer",
+  "set": {
+   "s": "a",
+   "t": "CLARITY AD: redução de 27% no declínio (CDR-SB) em 18 meses; significância clínica debatida. Aprovado pela FDA, na Europa (só não homozigotos APOE ε4) e pela Anvisa em janeiro de 2026, para comprometimento cognitivo leve ou demência leve por Alzheimer com amiloide confirmado."
+  },
+  "motivo": "Registro Anvisa jan/2026"
+ },
+ {
+  "f": "brexpiprazol",
+  "g": "Agitação na demência",
+  "set": {
+   "p": "2",
+   "t": "Aprovado pela FDA em 2023 para agitação na demência de Alzheimer, com efeito pequeno (CMAI cerca de 5 pontos melhor que placebo) e o alerta de mortalidade da classe; sem essa indicação na bula brasileira. Reservar para agitação grave após medidas não farmacológicas."
+  },
+  "motivo": "APA 2016 e NICE NG97: antipsicóticos só para agitação grave ou perigosa após medidas não farmacológicas, mesmo papel da risperidona"
+ },
+ {
+  "f": "risperidona",
+  "g": "Agitação na demência",
+  "set": {
+   "e": "A"
+  },
+  "motivo": "Múltiplos ensaios controlados e metanálises (Ballard, Cochrane) sustentam eficácia para agressão"
+ },
+ {
+  "f": "aripiprazol",
+  "add": {
+   "g": "Agitação na demência",
+   "c": "Agitação e psicose na demência de Alzheimer",
+   "s": "o",
+   "e": "B",
+   "p": "A",
+   "d": "2 a 10 mg/dia",
+   "t": "Ensaios controlados com efeito pequeno sobre agitação e psicose; alternativa à risperidona com menos parkinsonismo, com o mesmo alerta de mortalidade e AVC da classe."
+  },
+  "motivo": "APA 2016 e Maudsley 2025 citam aripiprazol entre os atípicos com evidência; faltava o uso"
+ },
+ {
+  "f": "mirtazapina",
+  "add": {
+   "g": "Agitação na demência",
+   "c": "Agitação na demência",
+   "s": "o",
+   "e": "B",
+   "p": "X",
+   "t": "SYMBAD (Banerjee 2021, Lancet): sem benefício sobre placebo na agitação e mortalidade numericamente maior. Não usar para essa finalidade."
+  },
+  "motivo": "Ensaio SYMBAD negativo; uso comum na prática que deve ser desencorajado"
+ },
+ {
+  "f": "rivastigmina",
+  "add": {
+   "g": "Demência com corpos de Lewy",
+   "c": "Demência com corpos de Lewy",
+   "s": "o",
+   "e": "A",
+   "p": "1",
+   "d": "oral 3 a 12 mg/dia; adesivo 9,5 a 13,3 mg/24 h",
+   "t": "McKeith 2000 (Lancet): melhora de apatia, alucinações, delírios e atenção. Tratamento de base junto com donepezila (NICE NG97)."
+  },
+  "motivo": "NICE NG97 e Consórcio DLB 2017: donepezila ou rivastigmina são primeira linha na DCL; só havia o uso na demência da doença de Parkinson"
+ },
+ {
+  "f": "memantina",
+  "add": {
+   "g": "Demência com corpos de Lewy",
+   "c": "Demência com corpos de Lewy e demência da doença de Parkinson",
+   "s": "o",
+   "e": "B",
+   "p": "A",
+   "d": "5 a 20 mg/dia",
+   "t": "Benefício global pequeno (Aarsland 2009, Emre 2010); considerar se inibidores de colinesterase não forem tolerados ou como associação."
+  },
+  "motivo": "NICE NG97: considerar memantina na DCL se inibidores não tolerados ou contraindicados"
+ },
+ {
+  "f": "quetiapina",
+  "add": {
+   "g": "Demência com corpos de Lewy",
+   "c": "Psicose na demência com corpos de Lewy e na doença de Parkinson",
+   "s": "o",
+   "e": "C",
+   "p": "2",
+   "d": "12,5 a 50 mg/dia (máximo usual 100 mg)",
+   "t": "Ensaios negativos para eficácia, mas boa tolerância motora; usada quando o antipsicótico é inevitável, depois de otimizar o inibidor de colinesterase e reduzir dopaminérgicos."
+  },
+  "motivo": "Consórcio DLB 2017 e Taylor 2020: quetiapina em dose baixa é a opção usual quando antipsicótico é inevitável"
+ },
+ {
+  "f": "clozapina",
+  "add": {
+   "g": "Demência com corpos de Lewy",
+   "c": "Psicose refratária na demência com corpos de Lewy e na doença de Parkinson",
+   "s": "o",
+   "e": "B",
+   "p": "U",
+   "d": "6,25 a 50 mg/dia",
+   "t": "Ensaios positivos na psicose da doença de Parkinson (Parkinson Study Group 1999) sem piora motora; exige hemograma e vigilância de ortostatismo, sedação e sialorreia."
+  },
+  "motivo": "Consórcio DLB 2017 e MDS: clozapina em dose baixa para psicose refratária"
+ },
+ {
+  "f": "haloperidol",
+  "add": {
+   "g": "Demência com corpos de Lewy",
+   "c": "Psicose ou agitação na demência com corpos de Lewy",
+   "s": "o",
+   "e": "B",
+   "p": "X",
+   "t": "Sensibilidade grave a neurolépticos em até metade dos expostos (McKeith 1992), com rigidez, queda de consciência e aumento de mortalidade. Contraindicado, inclusive em emergências."
+  },
+  "motivo": "Consórcio DLB 2017 e NICE NG97: evitar antipsicóticos típicos na DCL"
+ },
+ {
+  "f": "melatonina",
+  "add": {
+   "g": "Demência com corpos de Lewy",
+   "c": "Transtorno comportamental do sono REM na demência com corpos de Lewy",
+   "s": "o",
+   "e": "C",
+   "p": "S",
+   "d": "3 a 12 mg à noite",
+   "t": "AASM 2023: recomendação condicional; preferida ao clonazepam em idosos com déficit cognitivo, apneia ou risco de quedas."
+  },
+  "motivo": "AASM 2023; faltava o uso sintomático na DCL"
+ },
+ {
+  "f": "bupropiona",
+  "g": "Apatia",
+  "set": {
+   "t": "Usada pela ação dopaminérgica em apatia pós-AVC e em depressão com fadiga, com evidência limitada. Em Alzheimer com apatia sem depressão, ensaio controlado (Maier 2020) foi negativo; reservar para apatia com depressão ou induzida por ISRS."
+  },
+  "motivo": "Ensaio negativo de bupropiona na apatia do Alzheimer (Maier 2020)"
+ },
+ {
+  "f": "rivastigmina",
+  "add": {
+   "g": "Apatia",
+   "c": "Apatia na doença de Parkinson",
+   "s": "o",
+   "e": "B",
+   "p": "A",
+   "d": "adesivo 9,5 mg/24 h",
+   "t": "STEEP-PD (Devos 2014): melhora da apatia em Parkinson sem demência em ensaio controlado pequeno."
+  },
+  "motivo": "MDS 2019 e manejo_diretrizes da condição citam rivastigmina no Parkinson; faltava o uso"
+ },
+ {
+  "f": "rivastigmina",
+  "g": "Demência vascular",
+  "set": {
+   "p": "A",
+   "t": "VantagE (Ballard 2008): ganho cognitivo pequeno, sem benefício global ou funcional. Considerar apenas se houver suspeita de Alzheimer ou corpos de Lewy associados."
+  },
+  "motivo": "NICE NG97: não oferecer inibidores de colinesterase para demência vascular pura"
+ },
+ {
+  "f": "memantina",
+  "g": "Demência vascular",
+  "set": {
+   "p": "A",
+   "t": "Efeito cognitivo pequeno (MMM 300 e 500), sem ganho funcional; considerar apenas na doença mista moderada a grave."
+  },
+  "motivo": "NICE NG97: não oferecer memantina para demência vascular pura"
+ },
+ {
+  "f": "topiramato",
+  "add": {
+   "g": "Tiques e Tourette",
+   "c": "Tiques",
+   "s": "o",
+   "e": "C",
+   "p": "A",
+   "d": "50 a 200 mg/dia",
+   "t": "Um ensaio controlado pequeno positivo (Jankovic 2010); opção quando antipsicóticos e alfa-2 falham ou não são tolerados, com atenção a parestesias, lentificação cognitiva e perda de peso."
+  },
+  "motivo": "AAN 2019: topiramato com evidência de baixa confiança, opção alternativa"
+ },
+ {
+  "f": "guanfacina",
+  "g": "Tiques e Tourette",
+  "set": {
+   "t": "Efeito maior sobre tiques quando há TDAH comórbido (Scahill 2001); ensaio em Tourette sem TDAH foi negativo. Não comercializada no Brasil."
+  },
+  "motivo": "Indicar indisponibilidade no Brasil e limite da evidência (AAN 2019)"
+ }
+]

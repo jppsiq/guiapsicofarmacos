@@ -1,0 +1,143 @@
+[
+ {
+  "f": "trazodona",
+  "g": "Insônia",
+  "c": "Insônia, inclusive associada a antidepressivos ativadores",
+  "set": {
+   "e": "C"
+  },
+  "motivo": "AASM 2017 sugere não usar trazodona na insônia crônica; evidência de baixa qualidade (a diretriz europeia de 2023 só admite antidepressivos sedativos por curto prazo)"
+ },
+ {
+  "f": "clomipramina",
+  "g": "Narcolepsia e sonolência",
+  "set": {
+   "e": "C"
+  },
+  "motivo": "Evidência em cataplexia vem de séries e ensaios pequenos; AASM 2021 não avaliou tricíclicos e a EAN 2021 os coloca como alternativa"
+ },
+ {
+  "f": "lisdexanfetamina",
+  "g": "Narcolepsia e sonolência",
+  "set": {
+   "p": "U",
+   "e": "D"
+  },
+  "motivo": "Sem ensaios em narcolepsia; AASM 2021 só recomenda (condicionalmente) dextroanfetamina, metilfenidato e armodafinila além das opções fortes"
+ },
+ {
+  "f": "metilfenidato",
+  "g": "Narcolepsia e sonolência",
+  "set": {
+   "d": "10 a 60 mg/dia em 2 a 3 tomadas",
+   "t": "Recomendação condicional da AASM 2021; no Brasil, principal alternativa ou associação à modafinila, já que oxibato, pitolisanto e solriamfetol não são comercializados. Monitorar pressão arterial, frequência cardíaca e insônia."
+  },
+  "motivo": "Completar dose e posição nas diretrizes (AASM 2021)"
+ },
+ {
+  "f": "gabapentina",
+  "g": "Síndrome das pernas inquietas",
+  "set": {
+   "d": "300 mg 1 a 2 horas antes dos sintomas, até 900 a 2.400 mg/dia",
+   "t": "AASM 2024: recomendação forte para gabapentinoides, preferidos aos agonistas dopaminérgicos por não causarem aumentação. Ajustar à função renal; tontura e sonolência são os efeitos mais comuns."
+  },
+  "motivo": "AASM 2024: primeira linha com recomendação forte; faltava dose"
+ },
+ {
+  "f": "pregabalina",
+  "add": {
+   "g": "Síndrome das pernas inquietas",
+   "c": "Síndrome das pernas inquietas",
+   "s": "o",
+   "e": "A",
+   "p": "1",
+   "d": "75 mg à noite, até 150 a 450 mg/dia",
+   "t": "Eficácia semelhante à do pramipexol em 52 semanas, com muito menos aumentação (2,1% contra 7,7% com pramipexol 0,5 mg; Allen, NEJM 2014). AASM 2024: recomendação forte para gabapentinoides. Ajustar à função renal."
+  },
+  "motivo": "AASM 2024 e IRLSSG: gabapentinoide de primeira linha, sem uso cadastrado na condição"
+ },
+ {
+  "f": "pramipexol",
+  "g": "Síndrome das pernas inquietas",
+  "set": {
+   "t": "AASM 2024 recomenda contra o uso padrão de agonistas dopaminérgicos pelo risco de aumentação (cerca de 7% a 8% ao ano); reservar para casos selecionados, em dose baixa (máximo 0,5 mg), com vigilância de aumentação e de transtornos do controle de impulsos."
+  },
+  "motivo": "AASM 2024: recomendação condicional contra o uso padrão"
+ },
+ {
+  "f": "metadona",
+  "add": {
+   "g": "Síndrome das pernas inquietas",
+   "c": "Síndrome das pernas inquietas refratária ou com aumentação",
+   "s": "o",
+   "e": "C",
+   "p": "U",
+   "d": "2,5 a 10 mg/dia à noite",
+   "t": "AASM 2024: recomendação condicional para opioides em dose baixa nos casos refratários. Em seguimento de longo prazo, as doses tendem a permanecer estáveis (Silver, 2011). Avaliar risco de uso indevido, QT e interações."
+  },
+  "motivo": "AASM 2024 e IRLSSG: opção para refratários e aumentação, com ficha no guia"
+ },
+ {
+  "f": "mirtazapina",
+  "add": {
+   "g": "Sintomas negativos",
+   "c": "Sintomas negativos (associada ao antipsicótico)",
+   "s": "o",
+   "e": "C",
+   "p": "P",
+   "d": "15 a 30 mg à noite",
+   "t": "Antidepressivos associados têm efeito pequeno sobre sintomas negativos (Helfer 2016); a mirtazapina tem metanálise própria positiva em ensaios pequenos. Ganho de peso soma ao do antipsicótico."
+  },
+  "motivo": "EPA 2021 e Maudsley: antidepressivo associado é uma das poucas opções farmacológicas com evidência"
+ },
+ {
+  "f": "clozapina",
+  "add": {
+   "g": "Transtorno esquizoafetivo",
+   "c": "Transtorno esquizoafetivo resistente ou com risco de suicídio",
+   "s": "o",
+   "e": "B",
+   "p": "U",
+   "d": "200 a 450 mg/dia (clozapinemia acima de 350 ng/mL)",
+   "t": "Mesma lógica da esquizofrenia resistente; o InterSePT, que incluiu pacientes esquizoafetivos, mostrou redução de comportamento suicida. Monitoramento hematológico conforme a bula."
+  },
+  "motivo": "APA 2020: clozapina na resistência e no risco suicida persistente; faltava uso na condição"
+ },
+ {
+  "f": "rivastigmina",
+  "add": {
+   "g": "Psicose no Parkinson",
+   "c": "Psicose na doença de Parkinson com demência",
+   "s": "o",
+   "e": "C",
+   "p": "A",
+   "d": "1,5 mg 2 vezes ao dia até 6 mg 2 vezes ao dia, ou adesivo 4,6 a 9,5 mg/24 h",
+   "t": "Aprovada para demência da doença de Parkinson; no EXPRESS, pacientes com alucinações tiveram mais benefício (Burn, 2006). Opção antes ou junto do antipsicótico quando há declínio cognitivo. Pode piorar o tremor."
+  },
+  "motivo": "NICE NG71 e MDS 2019: inibidor de colinesterase como opção na psicose com demência"
+ },
+ {
+  "f": "olanzapina",
+  "add": {
+   "g": "Psicose no Parkinson",
+   "c": "Psicose na doença de Parkinson",
+   "s": "o",
+   "e": "B",
+   "p": "X",
+   "t": "Ensaios controlados não mostraram eficácia e houve piora motora (Breier, 2002); a MDS 2019 a classifica como não eficaz e com risco inaceitável."
+  },
+  "motivo": "MDS 2019: não recomendada"
+ },
+ {
+  "f": "haloperidol",
+  "add": {
+   "g": "Psicose no Parkinson",
+   "c": "Psicose na doença de Parkinson",
+   "s": "o",
+   "e": "C",
+   "p": "X",
+   "t": "Bloqueio D2 potente piora gravemente o parkinsonismo e pode precipitar reações graves de sensibilidade a neurolépticos, sobretudo com demência de Lewy associada."
+  },
+  "motivo": "NICE NG71 e MDS: evitar antipsicóticos típicos"
+ }
+]

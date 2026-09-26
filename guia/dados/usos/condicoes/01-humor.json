@@ -1,0 +1,623 @@
+{
+ "Depressão": {
+  "area": "Humor",
+  "resumo": "O episódio depressivo maior é tratado com psicoterapia, antidepressivo ou ambos, conforme gravidade, preferência e resposta prévia. Nos quadros leves, psicoterapia, ativação comportamental e exercício têm efeito semelhante ao de antidepressivos; nos moderados a graves, a combinação é superior a cada um isolado. Os antidepressivos de nova geração têm eficácia parecida entre si, e a escolha é guiada pelo perfil de efeitos adversos, pelas comorbidades e pelas interações.",
+  "avaliacao": [
+   "Gravidade (PHQ-9, HAM-D ou MADRS), risco de suicídio, sintomas psicóticos e catatonia.",
+   "Bipolaridade: episódios de hipomania ou mania, história familiar de transtorno bipolar, início precoce, depressão pós-parto, sintomas mistos e virada prévia com antidepressivo.",
+   "Uso de álcool e outras substâncias.",
+   "Causas clínicas: TSH, hemograma, B12 e folato quando indicados, glicemia, função renal e hepática, medicações depressogênicas (corticoides, isotretinoína, interferona, betabloqueadores em alguns casos).",
+   "Comorbidades que orientam a escolha: ansiedade, insônia, dor crônica, obesidade, disfunção sexual, cardiopatia, epilepsia.",
+   "Respostas e efeitos adversos em tratamentos anteriores, próprios e de familiares."
+  ],
+  "nao_farmacologico": [
+   "Psicoterapias com evidência: TCC, ativação comportamental, terapia interpessoal, terapia de resolução de problemas.",
+   "Exercício aeróbico regular (efeito comparável ao de antidepressivos em quadros leves a moderados).",
+   "Higiene do sono e tratamento da insônia (TCC-I reduz sintomas depressivos).",
+   "Redução de álcool.",
+   "ECT nos quadros graves, psicóticos, com risco de suicídio iminente, catatonia ou recusa alimentar; EMT em quadros resistentes."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira escolha",
+    "texto": "Antidepressivo de primeira linha pelo CANMAT 2023: ISRS, IRSN, bupropiona, mirtazapina, vortioxetina ou agomelatina, escolhido pelo perfil de efeitos adversos e comorbidades. Iniciar em dose baixa, subir até a dose eficaz em 1 a 2 semanas e orientar sobre a latência. Em quadros leves, psicoterapia ou exercício supervisionado isolados são primeira linha."
+   },
+   {
+    "titulo": "Avaliação em 2 a 4 semanas",
+    "texto": "Cuidado baseado em medida (escala a cada consulta). Melhora de pelo menos 20 a 25% nas primeiras 2 a 4 semanas prediz resposta; sem ela, otimizar a dose ou trocar."
+   },
+   {
+    "titulo": "Resposta parcial em 6 a 8 semanas",
+    "texto": "Após otimizar a dose, o CANMAT 2023 prefere associar a trocar em série. Adjuvantes de primeira linha: aripiprazol e brexpiprazol. Segunda linha: quetiapina, risperidona, olanzapina, lítio, liotironina, esketamina ou cetamina. Terceira linha: lamotrigina, pramipexol, estimulantes; bupropiona e mirtazapina associadas têm evidência mais fraca."
+   },
+   {
+    "titulo": "Sem resposta",
+    "texto": "Trocar para outro antidepressivo, de preferência com mecanismo diferente. Após falha de dois tratamentos adequados, seguir a abordagem da depressão de difícil tratamento. EMT é primeira linha no CANMAT para quem não respondeu a pelo menos um antidepressivo; ECT é indicada cedo em quadros graves, psicóticos, com risco de suicídio ou recusa alimentar."
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Insônia, perda de apetite ou de peso",
+    "preferir": "mirtazapina, agomelatina",
+    "evitar": "bupropiona à noite"
+   },
+   {
+    "se": "Fadiga, hipersonia, ganho de peso",
+    "preferir": "bupropiona, fluoxetina, vortioxetina",
+    "evitar": "mirtazapina, paroxetina"
+   },
+   {
+    "se": "Disfunção sexual prévia",
+    "preferir": "bupropiona, vortioxetina, agomelatina, mirtazapina",
+    "evitar": "paroxetina, clomipramina, venlafaxina em dose alta"
+   },
+   {
+    "se": "Dor crônica ou neuropática",
+    "preferir": "duloxetina, venlafaxina, tricíclicos em dose baixa",
+    "evitar": ""
+   },
+   {
+    "se": "Ansiedade proeminente",
+    "preferir": "ISRS, IRSN (iniciar em dose baixa)",
+    "evitar": "bupropiona isolada"
+   },
+   {
+    "se": "Cardiopatia",
+    "preferir": "sertralina, escitalopram em dose moderada, mirtazapina",
+    "evitar": "tricíclicos, citalopram em dose alta, venlafaxina em hipertensão"
+   },
+   {
+    "se": "Polifarmácia",
+    "preferir": "sertralina, escitalopram, desvenlafaxina, mirtazapina",
+    "evitar": "fluoxetina, paroxetina, fluvoxamina, bupropiona"
+   },
+   {
+    "se": "Risco de suicídio com acesso a medicação",
+    "preferir": "ISRS e outros seguros em superdosagem, com quantidades limitadas",
+    "evitar": "tricíclicos, venlafaxina em grande quantidade"
+   },
+   {
+    "se": "Epilepsia",
+    "preferir": "sertralina, escitalopram",
+    "evitar": "bupropiona, clomipramina, maprotilina"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Gestação e puerpério",
+    "texto": "Sertralina tem mais dados; evitar paroxetina no primeiro trimestre. O risco de depressão não tratada (parto prematuro, suicídio, prejuízo do vínculo) costuma superar o risco do ISRS."
+   },
+   {
+    "grupo": "Idosos",
+    "texto": "Sertralina, escitalopram (até 10 mg), mirtazapina, vortioxetina. Dosar sódio em 2 a 4 semanas; evitar tricíclicos e paroxetina pela carga anticolinérgica. A resposta pode demorar mais."
+   },
+   {
+    "grupo": "Crianças e adolescentes",
+    "texto": "Psicoterapia primeiro nos quadros leves; fluoxetina é o antidepressivo com melhor evidência, seguida de escitalopram e sertralina. Monitorar ideação suicida nas primeiras semanas."
+   },
+   {
+    "grupo": "Uso de álcool",
+    "texto": "Tratar os dois; depressão que persiste após 3 a 4 semanas de abstinência merece antidepressivo. Evitar duloxetina e agomelatina com uso pesado."
+   }
+  ],
+  "duracao": "Primeiro episódio: manter 6 a 12 meses após a remissão, na mesma dose que levou à remissão. Dois ou mais episódios, episódio grave ou com sintomas residuais: manter por 2 anos ou mais; três ou mais episódios, considerar tratamento indefinido. Retirar gradualmente em semanas a meses, com redução hiperbólica (reduções proporcionais cada vez menores) nos casos com descontinuação difícil.",
+  "armadilhas": [
+   "Trocar de antidepressivo antes de 4 semanas em dose adequada.",
+   "Manter dose subterapêutica por meses.",
+   "Não rastrear bipolaridade antes de iniciar.",
+   "Confundir sintomas de descontinuação com recaída.",
+   "Prescrever tricíclicos em grande quantidade a pacientes com risco de suicídio.",
+   "Não reavaliar a remissão completa: sintomas residuais predizem recaída."
+  ],
+  "monitorar": [
+   "Escala de sintomas a cada consulta",
+   "Ideação suicida, sobretudo em menores de 25 anos e no início",
+   "Virada maníaca ou mista",
+   "Sódio em idosos",
+   "PA com IRSN",
+   "Peso"
+  ],
+  "diretrizes": "CANMAT 2023 (Lam et al., depressão maior em adultos), que organiza as opções em primeira, segunda e terceira linhas e usa o conceito de depressão de difícil tratamento; NICE NG222 (2022); APA 2019; Maudsley Prescribing Guidelines, 15.ª edição (2025)."
+ },
+ "Depressão resistente": {
+  "area": "Humor",
+  "resumo": "O CANMAT 2023 prefere o termo depressão de difícil tratamento (DTD): depressão que continua causando prejuízo apesar dos tratamentos habituais, o que desloca o foco da cura para o controle de sintomas, funcionalidade e qualidade de vida. Classicamente, resistência é a falha de pelo menos dois antidepressivos em dose e tempo adequados. Até metade dos casos são pseudorresistentes: adesão irregular, doses baixas, diagnóstico incompleto (bipolaridade, uso de substâncias, transtornos de personalidade, causas clínicas) ou ausência de psicoterapia. A partir da terceira linha, a chance de remissão por nova troca cai (STAR*D), o que justifica estratégias com mais evidência e considerar ECT cedo.",
+  "avaliacao": [
+   "Confirmar adesão (perguntar, contar comprimidos, nível sérico quando disponível).",
+   "Confirmar dose e tempo adequados em cada tentativa.",
+   "Rever diagnóstico: bipolaridade, depressão psicótica, TEPT, uso de substâncias, TDAH, transtorno de personalidade, demência inicial.",
+   "Causas clínicas: hipotireoidismo, apneia do sono, anemia, deficiência de B12, doenças inflamatórias, fármacos depressogênicos.",
+   "Fatores psicossociais mantenedores.",
+   "Estadiar a resistência (número de tentativas, cronicidade, gravidade) para escolher a intensidade da próxima estratégia."
+  ],
+  "nao_farmacologico": [
+   "ECT: maior taxa de remissão entre as intervenções (60 a 80%), inclusive após falha de vários fármacos; no ELEKT-D foi comparável à cetamina em ambulatório não psicótico.",
+   "EMT (estimulação magnética transcraniana) e theta-burst.",
+   "Psicoterapias específicas para cronicidade (CBASP) e TCC.",
+   "Exercício, sono e tratamento de comorbidades."
+  ],
+  "etapas": [
+   {
+    "titulo": "Otimizar",
+    "texto": "Subir até a dose máxima tolerada do antidepressivo atual se houve resposta parcial."
+   },
+   {
+    "titulo": "Adjuvante de primeira linha (CANMAT 2023)",
+    "texto": "Aripiprazol (2 a 5 mg costumam bastar) ou brexpiprazol (1 a 2 mg). Preferir associar quando houve resposta parcial; trocar quando não houve resposta nenhuma."
+   },
+   {
+    "titulo": "Adjuvantes de segunda linha",
+    "texto": "Quetiapina (150 mg), risperidona, olanzapina, lítio (litemia 0,5 a 0,8), liotironina (25 a 50 mcg), esketamina intranasal ou cetamina IV em serviços estruturados. Cariprazina (1,5 mg) tende a subir de linha."
+   },
+   {
+    "titulo": "Terceira linha e associações de antidepressivos",
+    "texto": "Lamotrigina, pramipexol, estimulantes e modafinila; bupropiona ou mirtazapina associadas têm evidência mais fraca (ensaio MIR negativo para mirtazapina)."
+   },
+   {
+    "titulo": "Trocas e neuromodulação",
+    "texto": "Trocar para IRSN, tricíclico, vortioxetina ou IMAO (tranilcipromina) em pacientes capazes de seguir a dieta. EMT e ECT; a ECT continua sendo a intervenção com maior taxa de remissão."
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Resposta parcial ao antidepressivo atual",
+    "preferir": "potencialização (aripiprazol, lítio, quetiapina)",
+    "evitar": "trocar e perder o ganho obtido"
+   },
+   {
+    "se": "Risco de suicídio alto",
+    "preferir": "lítio, ECT, esketamina",
+    "evitar": "tricíclicos e IMAO sem controle da dispensação"
+   },
+   {
+    "se": "Fadiga, hipersonia, apatia",
+    "preferir": "bupropiona, aripiprazol, modafinila, pramipexol",
+    "evitar": "quetiapina, mirtazapina"
+   },
+   {
+    "se": "Insônia e ansiedade",
+    "preferir": "mirtazapina, quetiapina",
+    "evitar": "bupropiona"
+   },
+   {
+    "se": "Obesidade ou diabetes",
+    "preferir": "lítio, bupropiona, liotironina, aripiprazol em dose baixa",
+    "evitar": "quetiapina, mirtazapina, olanzapina"
+   },
+   {
+    "se": "Sintomas psicóticos",
+    "preferir": "antidepressivo com antipsicótico, ECT",
+    "evitar": "monoterapia antidepressiva"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Idosos",
+    "texto": "ECT é muito eficaz e bem tolerada; aripiprazol teve bons resultados no IRL-GRey e no OPTIMUM; lítio exige doses menores e vigilância renal."
+   },
+   {
+    "grupo": "Gestação",
+    "texto": "ECT é segura em todos os trimestres; lítio exige monitorização rigorosa."
+   }
+  ],
+  "duracao": "Após remissão com potencialização, manter a combinação por pelo menos 6 a 12 meses; a retirada do lítio ou do antipsicótico aumenta a recaída. Após ECT, manter tratamento farmacológico (nortriptilina com lítio no estudo de Sackeim) ou ECT de manutenção.",
+  "armadilhas": [
+   "Rotular como resistente sem confirmar adesão e dose.",
+   "Encadear trocas de ISRS por ISRS indefinidamente.",
+   "Adiar a ECT por estigma.",
+   "Somar fármacos sem retirar os ineficazes.",
+   "Esquecer o diagnóstico de bipolaridade."
+  ],
+  "monitorar": [
+   "Escala padronizada a cada ajuste",
+   "Efeitos metabólicos com antipsicóticos",
+   "Litemia, função renal e tireoidiana com lítio",
+   "PA e dissociação com esketamina"
+  ],
+  "diretrizes": "CANMAT 2023 (seção de depressão de difícil tratamento); Maudsley Staging Method; consenso internacional sobre depressão resistente (McIntyre 2023); NICE NG222."
+ },
+ "Depressão psicótica": {
+  "area": "Humor",
+  "resumo": "Episódio depressivo com delírios (culpa, ruína, doença, niilismo) ou alucinações. Tem maior risco de suicídio e responde mal à monoterapia antidepressiva. O tratamento padrão é antidepressivo associado a antipsicótico, ou ECT, que é especialmente eficaz nesse quadro.",
+  "avaliacao": [
+   "Pesquisar ativamente delírios, que muitas vezes são escondidos pelo paciente.",
+   "Risco de suicídio e de recusa alimentar.",
+   "Bipolaridade (a depressão psicótica é mais frequente no bipolar).",
+   "Causas orgânicas em idosos (delirium, demência, tumores)."
+  ],
+  "nao_farmacologico": [
+   "ECT: primeira linha em casos graves, com risco de suicídio, recusa alimentar ou catatonia; remissão em até 90% em algumas séries.",
+   "Internação quando houver risco."
+  ],
+  "etapas": [
+   {
+    "titulo": "Combinação",
+    "texto": "ISRS ou IRSN associado a olanzapina (STOP-PD) ou a quetiapina ou aripiprazol; tricíclico associado a antipsicótico também é eficaz."
+   },
+   {
+    "titulo": "ECT",
+    "texto": "Indicada cedo nos quadros graves e após falha da combinação."
+   },
+   {
+    "titulo": "Manutenção",
+    "texto": "Manter o antipsicótico por pelo menos 4 meses após remissão (STOP-PD II mostrou mais recaída ao retirar a olanzapina)."
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Idosos",
+    "texto": "Doses menores de antipsicótico; ECT com excelente relação benefício e risco."
+   }
+  ],
+  "duracao": "Antidepressivo por pelo menos 1 ano; antipsicótico por pelo menos 4 meses após remissão, com retirada gradual e vigilância de recaída.",
+  "armadilhas": [
+   "Tratar só com antidepressivo.",
+   "Não perguntar sobre delírios de culpa e ruína.",
+   "Retirar o antipsicótico logo após a melhora."
+  ],
+  "diretrizes": "APA; CANMAT 2023; ensaios STOP-PD e STOP-PD II."
+ },
+ "Depressão pós-parto": {
+  "area": "Humor",
+  "resumo": "Depressão com início na gestação ou nas 4 semanas após o parto (clinicamente, até 12 meses). Afeta 10 a 15% das puérperas e prejudica o vínculo e o desenvolvimento do bebê. Deve ser diferenciada do baby blues (transitório, até 2 semanas) e da psicose puerperal (emergência, com forte ligação ao transtorno bipolar).",
+  "avaliacao": [
+   "Rastreio com EPDS na gestação e no puerpério.",
+   "Ideação suicida e infanticida (pensamentos intrusivos de dano ao bebê são comuns no TOC puerperal e geram angústia, sem intenção).",
+   "Sintomas psicóticos ou maníacos: psicose puerperal exige internação.",
+   "Função tireoidiana (tireoidite pós-parto), anemia, privação de sono."
+  ],
+  "nao_farmacologico": [
+   "Psicoterapia interpessoal e TCC.",
+   "Rede de apoio para o sono e os cuidados do bebê.",
+   "ECT em quadros graves ou psicóticos."
+  ],
+  "etapas": [
+   {
+    "titulo": "Leve a moderada",
+    "texto": "Psicoterapia; ISRS se não houver resposta ou por preferência."
+   },
+   {
+    "titulo": "Moderada a grave",
+    "texto": "ISRS (sertralina é a escolha na lactação; paroxetina também tem baixa passagem) com psicoterapia."
+   },
+   {
+    "titulo": "Alternativas",
+    "texto": "Zuranolona oral (50 mg por 14 dias, moduladora do GABA-A) é aprovada nos EUA e recomendada pelo ACOG 2023 na depressão perinatal grave; a brexanolona é infusão contínua de 60 horas com uso restrito. Nenhuma das duas está disponível no Brasil."
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Lactação",
+    "texto": "Sertralina e paroxetina têm os menores níveis no lactente; fluoxetina e citalopram passam mais. Se um ISRS funcionou na gestação, manter o mesmo no puerpério."
+   },
+   {
+    "grupo": "Transtorno bipolar",
+    "texto": "Risco de recaída pós-parto de até 50% sem profilaxia; lítio ou antipsicótico logo após o parto reduz o risco."
+   }
+  ],
+  "duracao": "Como na depressão maior: 6 a 12 meses após remissão.",
+  "armadilhas": [
+   "Atribuir os sintomas ao cansaço do puerpério.",
+   "Suspender o antidepressivo para amamentar sem necessidade.",
+   "Não investigar bipolaridade antes de prescrever antidepressivo."
+  ],
+  "diretrizes": "ACOG 2023; NICE CG192 (saúde mental perinatal); Maudsley."
+ },
+ "TDPM": {
+  "area": "Humor",
+  "resumo": "Sintomas afetivos intensos (irritabilidade, labilidade, humor deprimido, ansiedade) na fase lútea, que melhoram nos primeiros dias da menstruação e causam prejuízo. O diagnóstico exige registro prospectivo em pelo menos dois ciclos. ISRS agem em dias, o que permite o uso só na fase lútea.",
+  "avaliacao": [
+   "Diário de sintomas por 2 ciclos (DRSP).",
+   "Diferenciar de exacerbação pré-menstrual de depressão ou transtorno bipolar.",
+   "Anticoncepção desejada."
+  ],
+  "nao_farmacologico": [
+   "TCC, exercício, redução de cafeína e álcool."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha",
+    "texto": "ISRS (fluoxetina, sertralina, paroxetina, escitalopram) contínuo ou só na fase lútea, ou apenas a partir do início dos sintomas."
+   },
+   {
+    "titulo": "Segunda linha",
+    "texto": "Contraceptivo com drospirenona 3 mg e etinilestradiol 20 mcg em regime 24/4 (a formulação estudada); o uso contínuo, sem pausa, é extensão possível."
+   },
+   {
+    "titulo": "Refratária",
+    "texto": "Agonista de GnRH com reposição hormonal, com ginecologista."
+   }
+  ],
+  "duracao": "Enquanto houver ciclos; reavaliar anualmente.",
+  "armadilhas": [
+   "Diagnosticar sem registro prospectivo.",
+   "Usar benzodiazepínicos ou diuréticos como tratamento principal."
+  ],
+  "diretrizes": "RCOG (Green-top 48); ACOG."
+ },
+ "Depressão bipolar": {
+  "area": "Humor",
+  "resumo": "Fase mais longa e incapacitante do transtorno bipolar, com risco alto de suicídio. Responde mal aos antidepressivos, que em monoterapia podem induzir virada maníaca ou mista e ciclagem rápida, sobretudo no bipolar I. As opções de primeira linha do CANMAT e ISBD (2018, atualizado em 2023) são quetiapina, lurasidona, lítio, lamotrigina e cariprazina.",
+  "avaliacao": [
+   "Tipo de transtorno bipolar (I ou II) e presença de sintomas mistos.",
+   "Risco de suicídio.",
+   "Uso de substâncias e hipotireoidismo.",
+   "Resposta prévia a estabilizadores e antidepressivos, incluindo viradas.",
+   "Perfil metabólico, que pesa na escolha do antipsicótico."
+  ],
+  "nao_farmacologico": [
+   "Psicoeducação, terapia focada na família, terapia interpessoal e de ritmos sociais, TCC.",
+   "Regularidade do sono e das rotinas.",
+   "ECT em casos graves ou resistentes."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha (CANMAT e ISBD)",
+    "texto": "Quetiapina; lurasidona (monoterapia ou com lítio ou valproato); lítio; lamotrigina (monoterapia ou associada); cariprazina, elevada de segunda para primeira linha na atualização de 2023."
+   },
+   {
+    "titulo": "Segunda linha",
+    "texto": "Valproato; ISRS ou bupropiona associados a estabilizador ou antipsicótico; ECT; olanzapina com fluoxetina. Lumateperona (não disponível no Brasil) entrou como opção na atualização de 2023."
+   },
+   {
+    "titulo": "Terceira linha",
+    "texto": "Carbamazepina, olanzapina, lítio com valproato, modafinila ou pramipexol associados, cetamina IV, EMT, fototerapia associada."
+   },
+   {
+    "titulo": "Não recomendados",
+    "texto": "Antidepressivo em monoterapia no bipolar I, aripiprazol em monoterapia, ziprasidona, lamotrigina associada a ácido fólico."
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Risco metabólico",
+    "preferir": "lurasidona, lamotrigina, lítio",
+    "evitar": "quetiapina e olanzapina a longo prazo"
+   },
+   {
+    "se": "Insônia e ansiedade",
+    "preferir": "quetiapina",
+    "evitar": ""
+   },
+   {
+    "se": "Risco de suicídio",
+    "preferir": "lítio",
+    "evitar": "grandes quantidades de fármacos tóxicos"
+   },
+   {
+    "se": "Bipolar II",
+    "preferir": "quetiapina (única de primeira linha no bipolar II pelo CANMAT 2018); lítio, lamotrigina ou sertralina/venlafaxina com cautela em segunda linha",
+    "evitar": "antidepressivo em monoterapia sem vigilância"
+   },
+   {
+    "se": "Sintomas mistos",
+    "preferir": "lurasidona, cariprazina, quetiapina",
+    "evitar": "antidepressivos"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Mulheres em idade fértil",
+    "texto": "Lamotrigina é a preferida em quem planeja gravidez; evitar valproato."
+   }
+  ],
+  "duracao": "Se foi necessário antidepressivo, retirá-lo em 2 a 3 meses após a remissão, exceto em quem recai na retirada. O estabilizador ou antipsicótico que tratou a fase aguda costuma ser mantido na profilaxia.",
+  "armadilhas": [
+   "Tratar depressão bipolar com antidepressivo isolado.",
+   "Não reconhecer bipolar II em depressão recorrente.",
+   "Usar aripiprazol, que foi negativo na depressão bipolar.",
+   "Esquecer que a lamotrigina leva semanas pela titulação."
+  ],
+  "monitorar": [
+   "Sinais de virada maníaca ou mista",
+   "Peso e metabolismo",
+   "Litemia e função renal com lítio"
+  ],
+  "diretrizes": "CANMAT e ISBD 2018 (Yatham et al.) e atualização de evidências de 2023 (Focus); CANMAT e ISBD 2021 sobre apresentações mistas; BAP 2016; NICE CG185."
+ },
+ "Mania": {
+  "area": "Humor",
+  "resumo": "Episódio maníaco é uma emergência psiquiátrica pelo risco de dano financeiro, social, físico e de exaustão. O tratamento agudo combina controle da agitação, antipsicótico ou estabilizador (ou os dois em quadros graves) e suspensão de antidepressivos e estimulantes. A escolha do agente agudo já deve pensar na manutenção.",
+  "avaliacao": [
+   "Gravidade, risco de agitação e necessidade de internação.",
+   "Sintomas psicóticos e mistos.",
+   "Causas secundárias: substâncias (estimulantes, cocaína, corticoides, antidepressivos), hipertireoidismo, lesões cerebrais, sobretudo em início tardio.",
+   "Gravidez (teste em mulheres em idade fértil antes do valproato ou lítio).",
+   "Função renal e tireoidiana (lítio), hepática e hemograma (valproato), ECG."
+  ],
+  "nao_farmacologico": [
+   "Ambiente com pouca estimulação, sono protegido.",
+   "Proteção patrimonial e social quando necessário.",
+   "ECT em mania grave, resistente ou na gestação."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha (CANMAT e ISBD 2018)",
+    "texto": "Em ordem de hierarquia: lítio, quetiapina, valproato, asenapina, aripiprazol, paliperidona, risperidona e cariprazina. Em mania grave, associar lítio ou valproato a quetiapina, aripiprazol, risperidona ou asenapina (cerca de 20% mais resposta que a monoterapia)."
+   },
+   {
+    "titulo": "Segunda linha",
+    "texto": "Olanzapina, carbamazepina, ziprasidona, haloperidol, olanzapina com lítio ou valproato, lítio com valproato, ECT. O NICE, por outro lado, coloca haloperidol, olanzapina, quetiapina e risperidona como primeira escolha, sobretudo pela rapidez."
+   },
+   {
+    "titulo": "Agitação",
+    "texto": "Benzodiazepínico (lorazepam, clonazepam) e antipsicótico oral ou IM."
+   },
+   {
+    "titulo": "Sem resposta em 1 a 2 semanas",
+    "texto": "Otimizar dose e nível sérico, depois associar ou trocar. Terceira linha: clorpromazina, clonazepam, clozapina, ECT, tamoxifeno."
+   },
+   {
+    "titulo": "Não recomendados",
+    "texto": "Lamotrigina, topiramato, gabapentina e ômega-3 não têm efeito antimaníaco."
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Mania eufórica clássica",
+    "preferir": "lítio",
+    "evitar": ""
+   },
+   {
+    "se": "Mania mista ou ciclagem rápida",
+    "preferir": "valproato, antipsicótico atípico",
+    "evitar": "antidepressivos"
+   },
+   {
+    "se": "Mulher em idade fértil",
+    "preferir": "antipsicótico, lítio",
+    "evitar": "valproato, carbamazepina"
+   },
+   {
+    "se": "Risco metabólico",
+    "preferir": "aripiprazol, lítio, haloperidol",
+    "evitar": "olanzapina"
+   },
+   {
+    "se": "Necessidade de controle rápido",
+    "preferir": "antipsicótico (quetiapina, risperidona, aripiprazol; haloperidol e olanzapina como segunda linha no CANMAT)",
+    "evitar": "lítio isolado"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Gestação",
+    "texto": "Antipsicóticos e ECT; lítio com monitorização; evitar valproato e carbamazepina."
+   },
+   {
+    "grupo": "Idosos",
+    "texto": "Mania de início tardio exige investigação neurológica; lítio em doses menores (litemia de 0,4 a 0,8 mmol/L)."
+   }
+  ],
+  "duracao": "O agente que controlou a mania costuma ser mantido na profilaxia; no mínimo 6 a 12 meses após um primeiro episódio maníaco e, em geral, por tempo indefinido no bipolar I.",
+  "armadilhas": [
+   "Manter o antidepressivo durante a mania.",
+   "Retirar o antipsicótico logo após a remissão sem estabilizador.",
+   "Não dosar o nível sérico antes de declarar falha.",
+   "Usar topiramato, gabapentina ou lamotrigina como antimaníacos."
+  ],
+  "monitorar": [
+   "Litemia ou valproatemia",
+   "Sono",
+   "EPS e acatisia",
+   "Peso e metabolismo"
+  ],
+  "diretrizes": "CANMAT e ISBD 2018 (hierarquia de primeira linha); NICE CG185; BAP 2016; metanálise de Cipriani 2011."
+ },
+ "Manutenção bipolar": {
+  "area": "Humor",
+  "resumo": "O transtorno bipolar é recorrente em mais de 80% dos casos, e cada episódio piora o curso. A profilaxia combina fármaco de manutenção, psicoeducação e controle de fatores desencadeantes (privação de sono, substâncias, antidepressivos). O lítio continua sendo o padrão-ouro, com efeito antissuicida único.",
+  "avaliacao": [
+   "Polaridade predominante dos episódios.",
+   "Resposta e tolerância na fase aguda.",
+   "Função renal, tireoidiana, perfil metabólico e planejamento de gravidez.",
+   "Adesão e crenças sobre o tratamento."
+  ],
+  "nao_farmacologico": [
+   "Psicoeducação (grupos de Colom reduziram recaídas).",
+   "Regularidade do sono e dos ritmos sociais.",
+   "Identificação de sinais precoces e plano de crise.",
+   "Tratamento de uso de substâncias."
+  ],
+  "etapas": [
+   {
+    "titulo": "Primeira linha (CANMAT e ISBD 2018)",
+    "texto": "Lítio; quetiapina; valproato; lamotrigina (eficácia limitada contra mania); asenapina; aripiprazol oral ou de depósito; quetiapina ou aripiprazol associados a lítio ou valproato. A atualização de 2023 reforça que as associações de antipsicótico atípico com estabilizador reduzem recorrências."
+   },
+   {
+    "titulo": "Segunda linha",
+    "texto": "Olanzapina, risperidona de depósito, carbamazepina, paliperidona, lurasidona ou ziprasidona associadas a lítio ou valproato."
+   },
+   {
+    "titulo": "Refratários",
+    "texto": "Clozapina, ECT de manutenção, combinações de dois estabilizadores."
+   }
+  ],
+  "escolha": [
+   {
+    "se": "Predomínio maníaco",
+    "preferir": "lítio, quetiapina, aripiprazol (inclusive LAI), asenapina; olanzapina e risperidona LAI em segunda linha",
+    "evitar": "lamotrigina isolada"
+   },
+   {
+    "se": "Predomínio depressivo",
+    "preferir": "lamotrigina, quetiapina, lítio",
+    "evitar": "antipsicóticos de alta potência isolados"
+   },
+   {
+    "se": "Baixa adesão",
+    "preferir": "antipsicótico de depósito (risperidona, aripiprazol)",
+    "evitar": ""
+   },
+   {
+    "se": "Doença renal",
+    "preferir": "lamotrigina, antipsicóticos",
+    "evitar": "lítio"
+   },
+   {
+    "se": "Mulher que planeja gravidez",
+    "preferir": "lamotrigina, lítio com planejamento",
+    "evitar": "valproato, carbamazepina"
+   }
+  ],
+  "populacoes": [
+   {
+    "grupo": "Gestação",
+    "texto": "Planejar antes; lítio no primeiro trimestre tem risco pequeno de anomalia de Ebstein e exige ecocardiograma fetal e ajuste de dose no parto."
+   }
+  ],
+  "duracao": "Em geral indefinida no bipolar I. A retirada, se decidida, deve ser lenta (meses): a suspensão abrupta do lítio aumenta recaída e suicídio.",
+  "armadilhas": [
+   "Retirar o estabilizador após um ano de estabilidade.",
+   "Manter antidepressivos de longo prazo sem necessidade.",
+   "Não monitorar rim e tireoide ao longo dos anos com lítio."
+  ],
+  "monitorar": [
+   "Litemia a cada 3 a 6 meses",
+   "Creatinina, TSH e cálcio a cada 6 a 12 meses",
+   "Peso, glicemia e lipídios"
+  ],
+  "diretrizes": "CANMAT e ISBD 2018 e atualização de 2023; BAP 2016; ensaio BALANCE."
+ },
+ "Suicídio": {
+  "area": "Humor",
+  "resumo": "O comportamento suicida atravessa diagnósticos. A prevenção combina avaliação estruturada, plano de segurança, restrição de acesso a meios letais, tratamento da condição de base e seguimento próximo após a alta, período de maior risco. Poucos fármacos têm efeito antissuicida demonstrado: lítio nos transtornos do humor e clozapina na esquizofrenia.",
+  "avaliacao": [
+   "Ideação, plano, intenção, preparativos e tentativas prévias.",
+   "Fatores de risco: transtorno mental, uso de substâncias, isolamento, perdas, dor crônica, acesso a meios.",
+   "Fatores de proteção e rede de apoio.",
+   "Estado mental atual: agitação, insônia grave, desesperança, psicose."
+  ],
+  "nao_farmacologico": [
+   "Plano de segurança construído com o paciente (Stanley-Brown).",
+   "Restrição de acesso a meios (armas, medicamentos, pesticidas).",
+   "Contato ativo após a alta e após faltas.",
+   "Psicoterapias com efeito sobre comportamento suicida: DBT, TCC para prevenção de suicídio, CAMS.",
+   "Internação quando o risco não puder ser manejado em ambulatório."
+  ],
+  "etapas": [
+   {
+    "titulo": "Tratar a condição de base",
+    "texto": "Depressão, transtorno bipolar, esquizofrenia, uso de substâncias, insônia."
+   },
+   {
+    "titulo": "Fármacos com efeito específico",
+    "texto": "Lítio nos transtornos do humor; clozapina na esquizofrenia."
+   },
+   {
+    "titulo": "Efeito rápido na depressão grave",
+    "texto": "ECT e esketamina reduzem sintomas em dias; cetamina IV tem efeito sobre ideação em horas, ainda sem efeito demonstrado sobre o comportamento."
+   }
+  ],
+  "armadilhas": [
+   "Contratos de não suicídio no lugar de plano de segurança.",
+   "Prescrever grandes quantidades de fármacos tóxicos.",
+   "Não reavaliar o risco na alta e nas primeiras semanas depois."
+  ],
+  "monitorar": [
+   "Ideação a cada consulta nas fases de risco",
+   "Quantidade de medicação disponível em casa"
+  ],
+  "diretrizes": "NICE NG225 (autolesão, 2022); APA; Diretrizes da ABP para prevenção do suicídio."
+ }
+}

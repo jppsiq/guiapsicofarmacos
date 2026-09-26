@@ -1,0 +1,116 @@
+{
+ "_nota": "Agonistas de GLP-1 e agonista duplo GIP/GLP-1.",
+ "liraglutida": [
+  {
+   "g": "Ganho de peso por psicofármacos",
+   "c": "Ganho de peso e pré-diabetes por clozapina ou olanzapina",
+   "s": "o",
+   "e": "B",
+   "p": "2",
+   "d": "1,8 a 3 mg/dia SC",
+   "t": "Larsen 2017 (ECR, 103 pacientes com espectro da esquizofrenia em clozapina ou olanzapina, com pré-diabetes): 1,8 mg/dia por 16 semanas reduziu o peso em 5,3 kg em relação ao placebo e normalizou a tolerância à glicose em mais pacientes. A metanálise de Siskind 2019 (dados individuais de 3 ECR com agonistas de GLP-1) mostrou perda média de cerca de 3,7 kg; o ensaio com exenatida semanal (Ishøy 2017) não diferiu do placebo. Indicado depois da metformina ou junto com ela, com atenção à constipação na clozapina."
+  },
+  {
+   "g": "Outros",
+   "c": "Diabetes tipo 2",
+   "s": "a",
+   "e": "A",
+   "p": "2",
+   "d": "1,2 a 1,8 mg/dia SC",
+   "t": "Em geral após ou junto da metformina; preferível quando há doença cardiovascular estabelecida (LEADER) ou necessidade de perder peso."
+  },
+  {
+   "g": "Outros",
+   "c": "Obesidade (IMC de 30 ou mais, ou 27 ou mais com comorbidade)",
+   "s": "a",
+   "e": "A",
+   "p": "2",
+   "d": "3 mg/dia SC",
+   "t": "SCALE: perda de 8,0% contra 2,6% com placebo. Menos potente que semaglutida e tirzepatida; alternativa quando se prefere aplicação diária de ação curta ou pelo custo dos genéricos."
+  },
+  {
+   "g": "Alcoolismo",
+   "c": "Transtorno por uso de álcool",
+   "s": "o",
+   "e": "C",
+   "p": "U",
+   "t": "Experimental. Não há ECR com liraglutida; estudos de registro nórdicos associaram o uso de agonistas de GLP-1 a menos internações por álcool, sem provar causalidade. Com exenatida (Klausen 2022) o ECR foi negativo no desfecho primário, com sinal apenas no subgrupo com obesidade. Não usar com essa finalidade fora de pesquisa."
+  }
+ ],
+ "semaglutida": [
+  {
+   "g": "Ganho de peso por psicofármacos",
+   "c": "Obesidade associada a antipsicóticos",
+   "s": "o",
+   "e": "C",
+   "p": "2",
+   "d": "SC até 2,4 mg/semana",
+   "t": "Perda de peso robusta na obesidade geral (STEP 1: 14,9% contra 2,4%). Em usuários de antipsicóticos, os ECR específicos ainda são poucos e pequenos; séries e coortes com clozapina e olanzapina sugerem perda semelhante à da população geral, com boa tolerância psiquiátrica. Na prática, é o passo seguinte à metformina quando há obesidade estabelecida, sobretudo com diabetes ou doença cardiovascular."
+  },
+  {
+   "g": "Outros",
+   "c": "Diabetes tipo 2",
+   "s": "a",
+   "e": "A",
+   "p": "2",
+   "d": "0,5 a 2 mg/semana SC ou 7 a 14 mg/dia oral",
+   "t": "Reduz HbA1c em cerca de 1,5 ponto e o peso; benefício cardiovascular (SUSTAIN-6) e renal (FLOW). Preferível quando há doença cardiovascular, renal ou obesidade."
+  },
+  {
+   "g": "Outros",
+   "c": "Obesidade (IMC de 30 ou mais, ou 27 ou mais com comorbidade)",
+   "s": "a",
+   "e": "A",
+   "p": "1",
+   "d": "2,4 mg/semana SC (Wegovy)",
+   "t": "STEP 1: perda de 14,9% do peso. SELECT: redução de 20% em eventos cardiovasculares maiores em obesos com doença cardiovascular sem diabetes. A maior parte do peso volta após a suspensão."
+  },
+  {
+   "g": "Alcoolismo",
+   "c": "Transtorno por uso de álcool",
+   "s": "o",
+   "e": "C",
+   "p": "U",
+   "d": "Até 1 mg/semana SC no estudo",
+   "t": "Experimental. Hendershot 2025 (ECR, 48 adultos que não buscavam tratamento, 9 semanas, doses baixas até 1 mg/semana) reduziu o consumo na autoadministração em laboratório, as doses por dia de consumo e a fissura, sem reduzir o número de dias de consumo. Estudos de registro associam o uso a menos internações por álcool. Aguardar ECR maiores; naltrexona, acamprosato e topiramato continuam sendo as opções."
+  }
+ ],
+ "tirzepatida": [
+  {
+   "g": "Ganho de peso por psicofármacos",
+   "c": "Obesidade associada a antipsicóticos",
+   "s": "o",
+   "e": "D",
+   "p": "A",
+   "d": "5 a 15 mg/semana SC",
+   "t": "Sem estudos em usuários de antipsicóticos; o uso é extrapolado da obesidade geral, onde é o fármaco mais potente. Considerar com endocrinologia em obesidade grave ou resposta insuficiente à semaglutida."
+  },
+  {
+   "g": "Outros",
+   "c": "Diabetes tipo 2",
+   "s": "a",
+   "e": "A",
+   "p": "2",
+   "d": "5 a 15 mg/semana SC",
+   "t": "Reduz HbA1c em cerca de 2 pontos, mais que semaglutida 1 mg (SURPASS-2), com grande perda de peso."
+  },
+  {
+   "g": "Outros",
+   "c": "Obesidade (IMC de 30 ou mais, ou 27 ou mais com comorbidade)",
+   "s": "a",
+   "e": "A",
+   "p": "1",
+   "d": "5 a 15 mg/semana SC",
+   "t": "SURMOUNT-1: perda de 20,9% em 15 mg; superior à semaglutida 2,4 mg (SURMOUNT-5)."
+  },
+  {
+   "g": "Outros",
+   "c": "Apneia obstrutiva do sono com obesidade",
+   "s": "o",
+   "e": "A",
+   "p": "2",
+   "d": "10 a 15 mg/semana SC",
+   "t": "SURMOUNT-OSA: redução importante do índice de apneia e hipopneia; aprovada para essa indicação pela FDA em 2024. Complementa, sem substituir de imediato, o CPAP."
+  }
+ ]
+}

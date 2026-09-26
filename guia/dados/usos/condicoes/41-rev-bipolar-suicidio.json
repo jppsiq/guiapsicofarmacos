@@ -1,0 +1,601 @@
+{
+ "Depressão bipolar": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): episódio depressivo maior no transtorno bipolar tipo I ou tipo II, com os especificadores do capítulo de transtorno bipolar",
+   "cid": "CID-10-MC (DSM-5-TR): bipolar I, episódio atual ou mais recente depressivo, F31.31 (leve), F31.32 (moderado), F31.4 (grave), F31.5 (com características psicóticas), F31.75 (remissão parcial), F31.76 (remissão completa), F31.9 (não especificado); bipolar II F31.81 (código único). CID-11 6A60 (tipo I), 6A61 (tipo II)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Cinco ou mais dos sintomas abaixo no mesmo período de 2 semanas, representando mudança em relação ao funcionamento anterior; pelo menos um é humor deprimido (1) ou perda de interesse ou prazer (2). Não contar sintomas claramente atribuíveis a outra condição médica.",
+     "sub": [
+      "Humor deprimido na maior parte do dia, quase todos os dias, por relato (triste, vazio, sem esperança) ou observação de terceiros (parece choroso); em crianças e adolescentes pode ser humor irritável.",
+      "Diminuição acentuada de interesse ou prazer em todas ou quase todas as atividades, na maior parte do dia, quase todos os dias.",
+      "Perda ou ganho de peso significativo sem dieta (mais de 5% do peso em um mês) ou redução ou aumento do apetite quase diário; em crianças, não atingir o ganho de peso esperado.",
+      "Insônia ou hipersonia quase diária.",
+      "Agitação ou retardo psicomotor quase diário, observável por outros (não apenas sensação subjetiva de inquietação ou lentidão).",
+      "Fadiga ou perda de energia quase todos os dias.",
+      "Sentimento de inutilidade ou culpa excessiva ou inapropriada, que pode ser delirante, quase diário (não apenas autorrecriminação ou culpa por estar doente).",
+      "Capacidade diminuída de pensar ou concentrar-se, ou indecisão, quase todos os dias.",
+      "Pensamentos recorrentes de morte (não só medo de morrer), ideação suicida recorrente sem plano, plano específico ou tentativa de suicídio."
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Os sintomas causam sofrimento clinicamente significativo ou prejuízo social, profissional ou em outra área importante."
+    },
+    {
+     "r": "C",
+     "t": "O episódio não é atribuível a efeito fisiológico de substância ou a outra condição médica. Os critérios A a C definem o episódio depressivo maior, comum mas não obrigatório no bipolar tipo I."
+    },
+    {
+     "r": "Transtorno bipolar tipo I",
+     "t": "Diagnóstico quando a depressão ocorre em quem já teve (ou tem) mania:",
+     "sub": [
+      "A. Critérios preenchidos para pelo menos um episódio maníaco (critérios A a D do episódio maníaco), atual ou passado; episódios hipomaníacos ou depressivos maiores podem ter ocorrido antes ou depois, mas não são necessários.",
+      "B. Pelo menos um episódio maníaco não é mais bem explicado por transtorno esquizoafetivo nem está sobreposto a esquizofrenia, transtorno esquizofreniforme, transtorno delirante ou outro transtorno do espectro da esquizofrenia especificado ou não especificado."
+     ]
+    },
+    {
+     "r": "Transtorno bipolar tipo II",
+     "t": "Diagnóstico quando a depressão ocorre em quem teve hipomania, nunca mania:",
+     "sub": [
+      "A. Critérios preenchidos para pelo menos um episódio hipomaníaco (critérios A a F) e pelo menos um episódio depressivo maior (critérios A a C).",
+      "B. Nunca houve episódio maníaco.",
+      "C. Pelo menos um episódio hipomaníaco e um depressivo maior não são mais bem explicados por transtorno esquizoafetivo nem estão sobrepostos a esquizofrenia, esquizofreniforme, delirante ou outro transtorno do espectro da esquizofrenia especificado ou não especificado.",
+      "D. Os sintomas depressivos, ou a imprevisibilidade causada pela alternância frequente entre depressão e hipomania, causam sofrimento clinicamente significativo ou prejuízo social, profissional ou em outra área importante."
+     ]
+    },
+    {
+     "r": "Episódio hipomaníaco (exigido no tipo II)",
+     "t": "Critérios que precisam ser pesquisados na história, de preferência com um familiar:",
+     "sub": [
+      "A. Período distinto de humor anormal e persistentemente elevado, expansivo ou irritável, com aumento anormal e persistente de atividade ou energia, durando pelo menos 4 dias consecutivos, na maior parte do dia, quase todos os dias.",
+      "B. No período, 3 ou mais dos 7 sintomas do episódio maníaco (4 se o humor for apenas irritável), persistentes, em grau significativo e representando mudança notável do comportamento habitual.",
+      "C. Mudança inequívoca no funcionamento, não característica da pessoa quando assintomática.",
+      "D. A alteração do humor e do funcionamento é observável por outras pessoas.",
+      "E. Não é grave o bastante para causar prejuízo acentuado social ou profissional nem para exigir internação; se houver características psicóticas, o episódio é, por definição, maníaco.",
+      "F. Não é atribuível a efeito fisiológico de substância (droga, medicamento, outro tratamento) ou a outra condição médica."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Com sintomas ansiosos: pelo menos 2 de 5 sintomas na maioria dos dias do episódio (sentir-se nervoso ou tenso; incomumente inquieto; dificuldade de concentração por preocupação; medo de que algo terrível aconteça; sensação de que pode perder o controle de si). Gravidade: leve, 2 sintomas; moderada, 3; moderada a grave, 4 ou 5; grave, 4 ou 5 com agitação motora.",
+    "Com características mistas (episódio depressivo): todos os critérios de episódio depressivo maior e pelo menos 3 destes sintomas na maioria dos dias: humor elevado ou expansivo; autoestima inflada ou grandiosidade; loquacidade ou pressão para falar; fuga de ideias ou pensamento acelerado; aumento de energia ou de atividade dirigida a objetivos; envolvimento em atividades de risco; redução da necessidade de sono (sente-se descansado dormindo menos, o que difere da insônia). Os sintomas mistos são observáveis por outros, representam mudança do habitual e não se devem a substância; se os critérios completos de mania e depressão coexistem, o diagnóstico é episódio maníaco com características mistas.",
+    "Com características melancólicas: no período mais grave, perda de prazer em quase todas as atividades ou ausência de reatividade a estímulos prazerosos, mais 3 ou mais de: qualidade distinta do humor (desespero profundo, humor vazio), piora matinal, despertar pelo menos 2 horas antes do habitual, agitação ou retardo psicomotor acentuados, anorexia ou perda de peso significativa, culpa excessiva ou inadequada.",
+    "Com características atípicas: reatividade do humor mais 2 ou mais de: aumento significativo de peso ou apetite, hipersonia, paralisia de chumbo, sensibilidade à rejeição interpessoal duradoura com prejuízo; não se aplica se houver características melancólicas ou catatonia no mesmo episódio.",
+    "Com características psicóticas (delírios ou alucinações em qualquer momento do episódio): congruentes com o humor (temas de inadequação pessoal, culpa, doença, morte, niilismo ou punição merecida) ou incongruentes (outros temas, ou mistura de temas congruentes e incongruentes).",
+    "Com catatonia: características catatônicas durante a maior parte do episódio maníaco ou depressivo; usar código adicional F06.1.",
+    "Com início no periparto: início dos sintomas durante a gestação ou até 4 semanas após o parto (metade das depressões ditas pós-parto começa antes do parto).",
+    "Com padrão sazonal: relação temporal regular entre o início dos episódios de pelo menos uma polaridade e uma época do ano, com remissão (ou virada de polaridade) também em época característica; nos últimos 2 anos, sem episódios não sazonais daquela polaridade; e os episódios sazonais superam substancialmente os não sazonais ao longo da vida. Não se aplica quando há estressor sazonal óbvio (desemprego no inverno, por exemplo).",
+    "Com ciclagem rápida: pelo menos 4 episódios de humor (maníaco, hipomaníaco ou depressivo maior no tipo I; hipomaníaco ou depressivo maior no tipo II) nos 12 meses anteriores, demarcados por remissão parcial ou completa de pelo menos 2 meses ou por virada para a polaridade oposta. Mania e hipomania contam como o mesmo polo; episódios causados diretamente por substância (cocaína, corticosteroide) ou condição médica não entram na contagem.",
+    "Gravidade do episódio depressivo (só se os critérios completos estão presentes): leve (poucos sintomas além do mínimo, sofrimento manejável, prejuízo menor), moderada (intermediária), grave (sintomas bem acima do mínimo, sofrimento sério e prejuízo acentuado).",
+    "Em remissão parcial: sintomas do último episódio presentes sem preencher todos os critérios, ou período sem sintomas significativos com menos de 2 meses após o fim do episódio. Em remissão completa: nenhum sinal ou sintoma significativo nos últimos 2 meses."
+   ],
+   "notas": [
+    "Os critérios do episódio depressivo são idênticos aos do transtorno depressivo maior: o que define a depressão bipolar é a história de mania ou hipomania, que precisa ser ativamente pesquisada, de preferência com um familiar.",
+    "Hipomania completa que surge durante antidepressivo ou ECT e persiste, em nível sindrômico, além do efeito fisiológico do tratamento conta para o diagnóstico; um ou dois sintomas isolados (irritabilidade, nervosismo, agitação) após o antidepressivo não bastam nem indicam por si uma diátese bipolar. Se o quadro emergente for mania completa, o diagnóstico é bipolar tipo I.",
+    "Luto e outras perdas (ruína financeira, desastre, doença grave) podem produzir tristeza, insônia e perda de apetite; a presença de episódio depressivo maior além da resposta esperada à perda exige julgamento clínico, considerando a história e as normas culturais.",
+    "Registro no tipo I: transtorno bipolar tipo I, episódio atual (ou mais recente) depressivo, gravidade ou características psicóticas (só com critérios completos atuais) ou remissão (só se os critérios não estão atualmente preenchidos), seguidos dos especificadores sem código. No tipo II o código é sempre F31.81 e gravidade, psicose, curso e especificadores são escritos por extenso.",
+    "Características psicóticas no episódio depressivo podem ocorrer tanto no tipo I quanto no tipo II; psicose durante hipomania, porém, a transforma em mania.",
+    "CID-11: mantém o episódio misto como tipo próprio de episódio e aceita hipomania de 'vários dias', sem exigir 4 dias.",
+    "O bipolar II não é uma forma leve: o tempo com sintomas depressivos é maior que no tipo I e o risco de suicídio é comparável."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso: a depressão é a face dominante da doença",
+    "texto": "Na World Mental Health Survey (Merikangas 2011), a prevalência na vida foi de 0,6% para bipolar I, 0,4% para bipolar II e 1,4% para formas subliminares. No seguimento naturalista do NIMH (Judd 2002 e 2003), pacientes com bipolar I passaram cerca de um terço das semanas com sintomas depressivos, três vezes mais que com sintomas maníacos; no bipolar II, cerca de metade das semanas foi de depressão, contra pouco mais de 1% de hipomania.\n\nComo o primeiro episódio costuma ser depressivo e a hipomania raramente motiva consulta, o diagnóstico correto atrasa em média vários anos, e muitos pacientes recebem antes o rótulo de depressão unipolar. Pistas que aumentam a probabilidade de bipolaridade num primeiro episódio depressivo: início antes dos 25 anos, história familiar de bipolar, depressão pós-parto ou com psicose, hipersonia e hiperfagia, retardo psicomotor intenso, episódios curtos e muito recorrentes, virada ou ativação com antidepressivo e falha repetida de antidepressivos."
+   },
+   {
+    "titulo": "Por que não tratar como depressão unipolar",
+    "texto": "No STEP-BD (Sachs 2007, NEJM), paroxetina ou bupropiona associadas a estabilizador não aumentaram a recuperação sustentada em relação ao placebo (23,5% contra 27,3%), embora também não tenham aumentado a virada. No EMBOLDEN II, paroxetina em monoterapia não superou o placebo. Ou seja, o antidepressivo pode ser neutro em eficácia e ainda carregar risco de virada, ciclagem e estados mistos, sobretudo no bipolar I.\n\nA força-tarefa da ISBD (Pacchiarotti 2013) resume a posição atual: antidepressivo só associado a antimaníaco no bipolar I; evitar na presença de características mistas, ciclagem rápida ou virada prévia; preferir ISRS ou bupropiona e evitar tricíclicos e venlafaxina, que viram mais (Post 2006). No bipolar II, a monoterapia com sertralina ou venlafaxina é aceitável em casos selecionados (Amsterdam 2010; Altshuler 2017, em que sertralina, lítio e a associação tiveram resposta e virada semelhantes)."
+   },
+   {
+    "titulo": "O que sustentam os fármacos de primeira linha",
+    "texto": "Quetiapina foi positiva em quatro ensaios (BOLDER I e II, EMBOLDEN I e II), com 300 mg tão eficaz quanto 600 mg, no tipo I e no tipo II. Lurasidona foi eficaz em monoterapia (PREVAIL-2, com 20 a 60 e 80 a 120 mg igualmente eficazes) e associada a lítio ou valproato (PREVAIL-1), com pouco ganho de peso. Os NNT para resposta ficam em torno de 5 a 7. Cariprazina 1,5 mg separou do placebo nos ensaios de fase 2b e 3 (Durgam 2016; Earley 2019), enquanto 3 mg teve resultados menos consistentes. Olanzapina com fluoxetina foi superior à olanzapina isolada (Tohen 2003), mas o custo metabólico a deixa em segunda linha.\n\nLamotrigina falhou em cinco ensaios individuais, mas a metanálise de dados individuais (Geddes 2009) mostrou efeito pequeno, maior em depressões mais graves; no CEQUEL (2016), associada à quetiapina, melhorou a depressão em 12 semanas, e o ácido fólico atenuou esse efeito. O lítio tem evidência aguda modesta e antiga (no EMBOLDEN I não superou o placebo, com litemias baixas), mas é o único com efeito antissuicida robusto e o melhor fármaco de manutenção, o que justifica a primeira linha. Aripiprazol (Thase 2008) e ziprasidona foram negativos e não devem ser usados para a depressão bipolar."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "A fisiopatologia envolve alteração da regulação circadiana, disfunção mitocondrial e de sinalização intracelular, e desequilíbrio entre redes límbicas hiper-reativas e controle pré-frontal. Não há um alvo único: os fármacos eficazes compartilham pouco além de modular monoaminas e glutamato.\n\nO efeito antidepressivo da quetiapina é atribuído em boa parte à norquetiapina (inibição do transportador de noradrenalina, agonismo parcial 5-HT1A, antagonismo 5-HT2C), somado ao bloqueio H1 que melhora sono e ansiedade. Lurasidona combina antagonismo 5-HT7 e agonismo parcial 5-HT1A; cariprazina é agonista parcial D3 e D2 com preferência D3. Lamotrigina bloqueia canais de sódio voltagem-dependentes e reduz liberação de glutamato, daí o efeito mais antidepressivo que antimaníaco. Lítio inibe GSK-3 beta e inositol monofosfatase, aumenta BDNF e tem efeito neuroprotetor, com preservação de volume de substância cinzenta em estudos de imagem."
+   },
+   {
+    "titulo": "Características mistas, ansiedade e comorbidades que mudam a conduta",
+    "texto": "Depressão com 3 ou mais sintomas hipomaníacos (especificador de características mistas) responde pior e tem mais risco de suicídio; antidepressivos devem ser evitados ou retirados. Os dados mais favoráveis são com lurasidona e cariprazina (análises de subgrupo), seguidas de quetiapina e olanzapina (CANMAT e ISBD 2021 sobre apresentações mistas).\n\nAnsiedade comórbida é regra, não exceção, e piora o prognóstico: quetiapina tem vantagem por tratar ambas; benzodiazepínicos só por curto prazo, pelo risco com álcool. Uso de álcool ou estimulantes, hipotireoidismo (inclusive induzido por lítio) e apneia do sono devem ser corrigidos antes de declarar falha. Em obesidade ou síndrome metabólica, preferir lurasidona, lamotrigina ou lítio. TDAH comórbido: estimulante só depois de estabilizar o humor e sob cobertura antimaníaca."
+   },
+   {
+    "titulo": "Controvérsias e armadilhas",
+    "texto": "Tempo de resposta: quetiapina e lurasidona costumam separar do placebo em 1 a 2 semanas; lamotrigina precisa de 6 semanas de titulação antes de poder ser avaliada, o que a torna ruim para depressão grave e boa para quadros moderados e para prevenção. Somar fármacos sem retirar os ineficazes gera polifarmácia sem ganho; troque o que falhou em dose e tempo adequados.\n\nO medo de virada não deve impedir o tratamento de uma depressão grave: ECT é segura, rápida e eficaz (Schoeyen 2015: superior ao tratamento farmacológico por algoritmo na depressão bipolar resistente) e é a escolha na catatonia, psicose, recusa alimentar, risco suicida iminente e gestação. Cetamina e esketamina têm dados preliminares na depressão bipolar e devem ser usadas sob estabilizador."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Explique que a depressão bipolar é tratável, mas que a resposta leva algumas semanas e que antidepressivos isolados podem piorar o curso. Sintomas residuais são o principal preditor de recaída, por isso a meta é remissão, não apenas melhora. O agente que tratou a fase aguda geralmente é mantido na prevenção.\n\nPsicoterapias estruturadas associadas ao fármaco aceleram a recuperação: no STEP-BD (Miklowitz 2007), terapia focada na família, terapia interpessoal e de ritmos sociais e TCC produziram mais recuperação em 1 ano (64% contra 52% com intervenção breve). Regularidade de sono e de rotina, abstinência de álcool e um plano para sinais precoces de virada e de risco de suicídio devem ser combinados com o paciente e a família."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Aguda",
+    "duracao": "6 a 12 semanas",
+    "objetivo": "Resposta (queda de pelo menos 50% na MADRS) e remissão, sem virada; manejo do risco de suicídio."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "2 a 6 meses após a remissão",
+    "objetivo": "Consolidar a remissão e tratar sintomas residuais; retirar o antidepressivo associado em cerca de 8 semanas, salvo recaída prévia na retirada."
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "Anos, em geral indefinida",
+    "objetivo": "Prevenir novos episódios de ambas as polaridades com o agente que funcionou, psicoeducação e regularidade de ritmos."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Preparar o terreno",
+    "acao": "Confirmar história de mania ou hipomania; suspender antidepressivo em monoterapia, estimulantes e substâncias; checar adesão, litemia, TSH; avaliar risco de suicídio, psicose e necessidade de internação.",
+    "se_falha": "Risco iminente, psicose, catatonia ou recusa alimentar: internação e considerar ECT desde o início."
+   },
+   {
+    "passo": "Primeira linha em monoterapia",
+    "acao": "Quetiapina 300 mg à noite; ou lurasidona 20 a 60 mg (até 120 mg) com refeição; ou lítio (litemia 0,8 a 1,2 mmol/L); ou lamotrigina titulada até 200 mg (quadros moderados); cariprazina 1,5 a 3 mg onde disponível.",
+    "se_falha": "Sem resposta após 4 a 6 semanas em dose e nível adequados (lamotrigina: 6 semanas após atingir 200 mg)."
+   },
+   {
+    "passo": "Associar ou trocar dentro da primeira linha",
+    "acao": "Lítio ou valproato com lurasidona ou quetiapina; lamotrigina associada a lítio ou quetiapina (CEQUEL). Otimizar dose antes de associar; retirar o que falhou.",
+    "se_falha": "Sem resposta após mais 4 a 6 semanas."
+   },
+   {
+    "passo": "Segunda linha",
+    "acao": "Valproato (nível 50 a 100 mcg/mL; evitar em mulheres com potencial de engravidar); ISRS ou bupropiona associados a estabilizador ou antipsicótico; olanzapina 6 a 12 mg com fluoxetina 25 a 50 mg; ECT. No bipolar II, sertralina ou venlafaxina em monoterapia com vigilância.",
+    "se_falha": "Duas estratégias adequadas sem resposta: depressão bipolar resistente."
+   },
+   {
+    "passo": "Resistência",
+    "acao": "ECT; associação de pramipexol, modafinila ou levotiroxina em dose alta; cetamina IV; carbamazepina; tranilcipromina sob estabilizador; EMT. Rever diagnóstico e comorbidades (álcool, tireoide, TDAH, personalidade).",
+    "se_falha": "Encaminhar a serviço especializado em transtornos do humor."
+   }
+  ]
+ },
+ "Mania": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): episódio maníaco, episódio hipomaníaco e transtorno bipolar tipo I",
+   "cid": "CID-10-MC (DSM-5-TR): bipolar I, episódio atual ou mais recente maníaco, F31.11 (leve), F31.12 (moderado), F31.13 (grave), F31.2 (com características psicóticas), F31.73 (remissão parcial), F31.74 (remissão completa); episódio atual hipomaníaco F31.0; não especificado F31.9. CID-11 6A60",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Período distinto de humor anormal e persistentemente elevado, expansivo ou irritável, com aumento anormal e persistente de atividade ou energia, durando pelo menos 1 semana e presente na maior parte do dia, quase todos os dias (qualquer duração se for necessária internação)."
+    },
+    {
+     "r": "B",
+     "t": "No período de alteração do humor e aumento de energia ou atividade, 3 ou mais dos sintomas abaixo (4 se o humor for apenas irritável), em grau significativo e representando mudança notável do comportamento habitual:",
+     "sub": [
+      "Autoestima inflada ou grandiosidade.",
+      "Redução da necessidade de sono (sente-se descansado com cerca de 3 horas, por exemplo).",
+      "Mais loquaz que o habitual ou pressão para continuar falando.",
+      "Fuga de ideias ou experiência subjetiva de pensamentos acelerados.",
+      "Distraibilidade (atenção desviada com muita facilidade por estímulos irrelevantes), relatada ou observada.",
+      "Aumento da atividade dirigida a objetivos (social, profissional, escolar ou sexual) ou agitação psicomotora (atividade sem propósito).",
+      "Envolvimento excessivo em atividades com alto potencial de consequências dolorosas (compras desenfreadas, indiscrições sexuais, investimentos insensatos)."
+     ]
+    },
+    {
+     "r": "C",
+     "t": "A alteração é grave o bastante para causar prejuízo acentuado no funcionamento social ou profissional, ou exige internação para evitar dano a si ou a outros, ou há características psicóticas."
+    },
+    {
+     "r": "D",
+     "t": "O episódio não é atribuível a efeito fisiológico de substância (droga de abuso, medicamento, outro tratamento) ou a outra condição médica."
+    },
+    {
+     "r": "Transtorno bipolar tipo I",
+     "t": "Um episódio maníaco basta para o diagnóstico:",
+     "sub": [
+      "A. Critérios preenchidos para pelo menos um episódio maníaco (critérios A a D do episódio maníaco), atual ou passado; episódios hipomaníacos ou depressivos maiores podem ter ocorrido antes ou depois, mas não são necessários.",
+      "B. Pelo menos um episódio maníaco não é mais bem explicado por transtorno esquizoafetivo nem está sobreposto a esquizofrenia, transtorno esquizofreniforme, transtorno delirante ou outro transtorno do espectro da esquizofrenia especificado ou não especificado."
+     ]
+    },
+    {
+     "r": "Episódio hipomaníaco (diferencial e componente do tipo I e II)",
+     "t": "Mesmos sintomas, com limiar menor de duração e gravidade:",
+     "sub": [
+      "A. Período distinto de humor anormal e persistentemente elevado, expansivo ou irritável, com aumento anormal e persistente de atividade ou energia, durando pelo menos 4 dias consecutivos, na maior parte do dia, quase todos os dias.",
+      "B. No período, 3 ou mais dos 7 sintomas do episódio maníaco (4 se o humor for apenas irritável), persistentes, em grau significativo e representando mudança notável do comportamento habitual.",
+      "C. Mudança inequívoca no funcionamento, não característica da pessoa quando assintomática.",
+      "D. A alteração do humor e do funcionamento é observável por outras pessoas.",
+      "E. Não é grave o bastante para causar prejuízo acentuado social ou profissional nem para exigir internação; se houver características psicóticas, o episódio é, por definição, maníaco.",
+      "F. Não é atribuível a efeito fisiológico de substância (droga, medicamento, outro tratamento) ou a outra condição médica."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Gravidade do episódio maníaco: leve (critérios mínimos preenchidos); moderada (aumento muito significativo de atividade ou prejuízo do julgamento); grave (supervisão praticamente contínua para prevenir dano físico a si ou a outros). Gravidade e psicose não se aplicam ao episódio hipomaníaco.",
+    "Com características mistas (episódio maníaco ou hipomaníaco): critérios completos de mania ou hipomania e pelo menos 3 destes na maioria dos dias: disforia ou humor depressivo acentuado; interesse ou prazer diminuído; retardo psicomotor quase diário; fadiga ou perda de energia; inutilidade ou culpa excessiva; pensamentos recorrentes de morte, ideação, plano ou tentativa de suicídio. Os sintomas são observáveis por outros e não se devem a substância; se os critérios completos de mania e de depressão coexistem, registra-se episódio maníaco com características mistas.",
+    "Com sintomas ansiosos: pelo menos 2 de 5 sintomas na maioria dos dias do episódio (sentir-se nervoso ou tenso; incomumente inquieto; dificuldade de concentração por preocupação; medo de que algo terrível aconteça; sensação de que pode perder o controle de si). Gravidade: leve, 2 sintomas; moderada, 3; moderada a grave, 4 ou 5; grave, 4 ou 5 com agitação motora.",
+    "Com características psicóticas (qualquer momento do episódio maníaco): congruentes com o humor (grandiosidade, invulnerabilidade, podendo incluir suspeita ou perseguição ligadas à dúvida dos outros sobre as capacidades do paciente) ou incongruentes (outros temas, ou mistura). Codificar F31.2 independentemente da gravidade.",
+    "Com catatonia: características catatônicas durante a maior parte do episódio maníaco ou depressivo; usar código adicional F06.1.",
+    "Com início no periparto: início dos sintomas na gestação ou até 4 semanas após o parto; psicose pós-parto ocorre em 1 a cada 500 a 1.000 nascimentos, com recorrência de 30 a 50% em partos seguintes.",
+    "Com padrão sazonal: relação temporal regular entre o início dos episódios de pelo menos uma polaridade e uma época do ano, com remissão (ou virada de polaridade) também em época característica; nos últimos 2 anos, sem episódios não sazonais daquela polaridade; e os episódios sazonais superam substancialmente os não sazonais ao longo da vida. Não se aplica quando há estressor sazonal óbvio (desemprego no inverno, por exemplo).",
+    "Com ciclagem rápida: pelo menos 4 episódios de humor (maníaco, hipomaníaco ou depressivo maior no tipo I; hipomaníaco ou depressivo maior no tipo II) nos 12 meses anteriores, demarcados por remissão parcial ou completa de pelo menos 2 meses ou por virada para a polaridade oposta. Mania e hipomania contam como o mesmo polo; episódios causados diretamente por substância (cocaína, corticosteroide) ou condição médica não entram na contagem.",
+    "Em remissão parcial: sintomas do último episódio presentes sem preencher todos os critérios, ou período sem sintomas significativos com menos de 2 meses após o fim do episódio. Em remissão completa: nenhum sinal ou sintoma significativo nos últimos 2 meses."
+   ],
+   "notas": [
+    "Episódio maníaco completo que surge durante antidepressivo, ECT ou outro tratamento e persiste em nível sindrômico além do efeito fisiológico conta como mania e, portanto, como bipolar tipo I.",
+    "Psicose ou necessidade de internação transformam por definição um quadro hipomaníaco em maníaco; a duração de 1 semana deixa de ser exigida se houver internação.",
+    "Início de sintomas maníacos no fim da meia-idade ou na velhice, sem história prévia, deve ser considerado secundário a condição médica (por exemplo, degeneração frontotemporal) ou substância até prova em contrário.",
+    "Mais de 90% das pessoas com um único episódio maníaco terão novos episódios de humor, e cerca de 60% dos episódios maníacos ocorrem imediatamente antes de um episódio depressivo maior (DSM-5-TR).",
+    "Sintomas depressivos ocorrem em cerca de 35% dos episódios maníacos; irritabilidade, distraibilidade e agitação não contam para o especificador misto por se sobreporem aos dois polos.",
+    "CID-11: exige aumento de atividade ou da energia subjetiva como elemento central e mantém o episódio misto como categoria própria."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "O bipolar tipo I tem prevalência na vida em torno de 0,6% e início médio entre 20 e 30 anos (22 anos nos Estados Unidos, segundo o DSM-5-TR), sem grande diferença entre sexos. A mania é o episódio que define o tipo I, mas raramente é isolada: mais de 90% terão recorrência, e cerca de metade dos pacientes mostra polaridade predominante ao longo do curso.\n\nSem tratamento, um episódio maníaco dura semanas a poucos meses; com tratamento, a maioria responde em 3 a 4 semanas. Depressão pós-mania é frequente e deve ser antecipada. Mais da metade dos pacientes tem transtorno por uso de álcool em algum momento, o que piora adesão, ciclagem e risco de suicídio."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "A mania se associa a hiperatividade dopaminérgica (anfetamina e levodopa a induzem; bloqueadores D2 a revertem em dias), a desregulação circadiana (privação de sono é gatilho clássico) e a hiperatividade de vias de sinalização intracelular como a da proteína quinase C.\n\nAntipsicóticos agem pelo bloqueio D2 e têm início mais rápido, útil na agitação e na psicose. Lítio inibe GSK-3 beta e inositol monofosfatase e reduz a sinalização da proteína quinase C; valproato também inibe essa via, além de aumentar o GABA e inibir histona desacetilase; carbamazepina bloqueia canais de sódio. O tamoxifeno, inibidor de proteína quinase C, teve efeito antimaníaco em ensaios pequenos, o que reforça a hipótese, mas não é tratamento de rotina."
+   },
+   {
+    "titulo": "O que dizem os ensaios comparativos",
+    "texto": "A metanálise em rede de Cipriani 2011 (Lancet, 68 ensaios) mostrou que antipsicóticos são, em média, mais eficazes que estabilizadores na mania aguda: haloperidol, risperidona e olanzapina ficaram entre os mais eficazes, e olanzapina, risperidona e quetiapina tiveram o melhor equilíbrio entre eficácia e aceitabilidade. Gabapentina, lamotrigina e topiramato não superaram o placebo.\n\nAssociar antipsicótico atípico a lítio ou valproato aumenta a resposta em cerca de 20% em relação ao estabilizador isolado, especialmente na mania grave ou psicótica. O CANMAT e ISBD 2018 prioriza lítio, quetiapina, valproato, asenapina, aripiprazol, paliperidona, risperidona e cariprazina, considerando também a eficácia na manutenção e a tolerabilidade de longo prazo; olanzapina e haloperidol, embora eficazes e rápidos, ficam em segunda linha pelo perfil metabólico e motor. O NICE, com foco na rapidez, prefere haloperidol, olanzapina, quetiapina ou risperidona."
+   },
+   {
+    "titulo": "Raciocínio na escolha do fármaco",
+    "texto": "Pense na fase aguda e na manutenção ao mesmo tempo: escolher um agente que também previne recorrências evita trocas. Lítio é a melhor escolha na mania eufórica clássica, com curso episódico e história familiar de resposta, e traz proteção antissuicida; seu início é mais lento (1 a 2 semanas), por isso costuma ser associado a antipsicótico no início. Valproato com dose de ataque (20 a 30 mg/kg) age em poucos dias e é útil em mania mista, ciclagem rápida e uso de substâncias, mas deve ser evitado em mulheres com potencial de engravidar (cerca de 10% de malformações maiores e prejuízo cognitivo e mais autismo na prole, estudo NEAD).\n\nAntipsicótico é preferível quando se precisa de rapidez, há psicose ou agitação importante. Entre eles, aripiprazol e lurasidona pesam menos no metabolismo; quetiapina ajuda o sono; asenapina sublingual age rápido; risperidona e paliperidona elevam prolactina."
+   },
+   {
+    "titulo": "Comorbidades, causas secundárias e armadilhas",
+    "texto": "Antes de tratar, retire antidepressivos, estimulantes, corticosteroides e outros fármacos ativadores quando possível, e investigue causa secundária: hipertireoidismo, lesões frontais, epilepsia, HIV, neurossífilis, encefalites autoimunes, uso de cocaína ou anfetamina, abstinência. Início após os 50 anos, alterações neurológicas focais ou flutuação da consciência pedem investigação.\n\nMania delirante (confusão, desorientação, hipertermia) e catatonia aumentam o risco de síndrome neuroléptica maligna com antipsicóticos de alta potência; nesses casos, benzodiazepínico em dose alta e ECT. Desidratação e redução de ingesta durante a mania elevam a litemia: dose por nível, não por peso. Na gestação, preferir antipsicóticos e evitar valproato e carbamazepina."
+   },
+   {
+    "titulo": "Agitação e ambiente",
+    "texto": "Comece pela desescalada verbal e redução de estímulos (Projeto BETA). Se a medicação for necessária, ofereça via oral primeiro: antipsicótico (olanzapina, risperidona, quetiapina) com ou sem benzodiazepínico. Na via intramuscular, haloperidol 5 mg com prometazina 50 mg (ensaios TREC, feitos no Brasil) ou olanzapina 10 mg; não associar olanzapina intramuscular a benzodiazepínico parenteral pelo risco de depressão cardiorrespiratória.\n\nRestaurar o sono é parte do tratamento: benzodiazepínico ou antipsicótico sedativo à noite nos primeiros dias. Proteja o paciente de consequências da mania (finanças, trabalho, exposição em redes sociais) e envolva a família."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Após a remissão, muitos pacientes ficam envergonhados ou deprimidos; explique que a mania é um episódio de doença tratável, que o risco de repetição é alto e que o tratamento de manutenção reduz esse risco de forma importante. Combine sinais precoces de recaída (menos sono, aceleração, irritabilidade, gastos) e o que fazer diante deles.\n\nA falta de crítica é parte do quadro e melhora com a remissão: a psicoeducação é mais útil depois da fase aguda. Oriente a evitar privação de sono, álcool e estimulantes e a não suspender o lítio abruptamente."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Controle da agitação",
+    "duracao": "Horas a poucos dias",
+    "objetivo": "Segurança do paciente e de terceiros, sono e início do antimaníaco."
+   },
+   {
+    "fase": "Aguda",
+    "duracao": "3 a 6 semanas",
+    "objetivo": "Resposta (queda de pelo menos 50% na YMRS) e remissão (YMRS 12 ou menos), sem virada depressiva."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "6 meses após a remissão",
+    "objetivo": "Manter a combinação que funcionou, prevenir recaída precoce e vigiar depressão pós-mania."
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "Anos, em geral indefinida no tipo I",
+    "objetivo": "Prevenir recorrências com agente de manutenção e psicoeducação."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Segurança e causas",
+    "acao": "Avaliar risco e necessidade de internação; exames (hemograma, função renal, hepática e tireoidiana, glicemia, lipídios, beta-hCG, toxicológico; neuroimagem se atípico ou início tardio); suspender antidepressivos e estimulantes; agitação pelo Projeto BETA.",
+    "se_falha": "Agitação grave ou risco imediato: tranquilização rápida (haloperidol 5 mg com prometazina 50 mg IM, ou olanzapina 10 mg IM) e internação."
+   },
+   {
+    "passo": "Primeira linha",
+    "acao": "Monoterapia com lítio (600 a 900 mg/dia, litemia 0,8 a 1,2 mmol/L), valproato (20 a 30 mg/kg, nível 50 a 125 mcg/mL), quetiapina 400 a 800 mg, risperidona 2 a 6 mg, aripiprazol 15 a 30 mg, asenapina 5 a 10 mg sublingual duas vezes ao dia, paliperidona 6 a 12 mg ou cariprazina 3 a 6 mg. Mania grave ou psicótica: lítio ou valproato com quetiapina, risperidona, aripiprazol ou asenapina. Benzodiazepínico adjuvante para sono e agitação.",
+    "se_falha": "Sem melhora após 1 a 2 semanas em dose e nível terapêuticos."
+   },
+   {
+    "passo": "Otimizar e associar",
+    "acao": "Confirmar adesão e nível sérico; subir dose; se em monoterapia, associar outro agente de primeira linha (antipsicótico a lítio ou valproato); se já em associação, trocar o antipsicótico.",
+    "se_falha": "Sem resposta após mais 1 a 2 semanas."
+   },
+   {
+    "passo": "Segunda linha",
+    "acao": "Olanzapina 10 a 20 mg (isolada ou com lítio ou valproato); haloperidol; carbamazepina; ziprasidona; lítio com valproato; ECT.",
+    "se_falha": "Duas ou mais estratégias adequadas sem resposta: mania refratária."
+   },
+   {
+    "passo": "Mania refratária",
+    "acao": "ECT bilateral; clozapina; opções de terceira linha (clorpromazina, clonazepam, tamoxifeno). Rever diagnóstico (esquizoafetivo, causa orgânica, substância) e adesão.",
+    "se_falha": "Encaminhar a serviço especializado; discutir ECT se ainda não feita."
+   }
+  ]
+ },
+ "Manutenção bipolar": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022): transtorno bipolar tipo I, tipo II e ciclotímico, com especificadores de curso e de padrão",
+   "cid": "CID-10-MC (DSM-5-TR): bipolar I em remissão conforme o último episódio: hipomaníaco F31.71 (parcial) e F31.72 (completa), maníaco F31.73 e F31.74, depressivo F31.75 e F31.76; bipolar II F31.81; ciclotímico F34.0. CID-11 6A60 (tipo I), 6A61 (tipo II), 6A62 (ciclotimia)",
+   "itens": [
+    {
+     "r": "Transtorno bipolar tipo I",
+     "t": "Critérios do tipo I:",
+     "sub": [
+      "A. Critérios preenchidos para pelo menos um episódio maníaco (critérios A a D do episódio maníaco), atual ou passado; episódios hipomaníacos ou depressivos maiores podem ter ocorrido antes ou depois, mas não são necessários.",
+      "B. Pelo menos um episódio maníaco não é mais bem explicado por transtorno esquizoafetivo nem está sobreposto a esquizofrenia, transtorno esquizofreniforme, transtorno delirante ou outro transtorno do espectro da esquizofrenia especificado ou não especificado."
+     ]
+    },
+    {
+     "r": "Transtorno bipolar tipo II",
+     "t": "Critérios do tipo II:",
+     "sub": [
+      "A. Critérios preenchidos para pelo menos um episódio hipomaníaco (critérios A a F) e pelo menos um episódio depressivo maior (critérios A a C).",
+      "B. Nunca houve episódio maníaco.",
+      "C. Pelo menos um episódio hipomaníaco e um depressivo maior não são mais bem explicados por transtorno esquizoafetivo nem estão sobrepostos a esquizofrenia, esquizofreniforme, delirante ou outro transtorno do espectro da esquizofrenia especificado ou não especificado.",
+      "D. Os sintomas depressivos, ou a imprevisibilidade causada pela alternância frequente entre depressão e hipomania, causam sofrimento clinicamente significativo ou prejuízo social, profissional ou em outra área importante."
+     ]
+    },
+    {
+     "r": "Transtorno ciclotímico",
+     "t": "Critérios da ciclotimia (F34.0):",
+     "sub": [
+      "A. Por pelo menos 2 anos (1 ano em crianças e adolescentes), vários períodos com sintomas hipomaníacos que não preenchem critérios de episódio hipomaníaco e vários períodos com sintomas depressivos que não preenchem critérios de episódio depressivo maior.",
+      "B. Nesse período, os sintomas estiveram presentes pelo menos metade do tempo e a pessoa não ficou mais de 2 meses seguidos sem eles.",
+      "C. Nunca foram preenchidos critérios de episódio depressivo maior, maníaco ou hipomaníaco.",
+      "D. Os sintomas não são mais bem explicados por transtorno esquizoafetivo, esquizofrenia, esquizofreniforme, delirante ou outro transtorno do espectro da esquizofrenia.",
+      "E. Não são atribuíveis a substância ou a outra condição médica (por exemplo, hipertireoidismo).",
+      "F. Causam sofrimento ou prejuízo clinicamente significativo."
+     ]
+    },
+    {
+     "r": "Remissão parcial",
+     "t": "Sintomas do episódio maníaco, hipomaníaco ou depressivo mais recente presentes sem preencher todos os critérios, ou período sem sintomas significativos com menos de 2 meses após o fim do episódio."
+    },
+    {
+     "r": "Remissão completa",
+     "t": "Nos últimos 2 meses, nenhum sinal ou sintoma significativo da perturbação do humor."
+    },
+    {
+     "r": "Ciclagem rápida",
+     "t": "pelo menos 4 episódios de humor (maníaco, hipomaníaco ou depressivo maior no tipo I; hipomaníaco ou depressivo maior no tipo II) nos 12 meses anteriores, demarcados por remissão parcial ou completa de pelo menos 2 meses ou por virada para a polaridade oposta. Mania e hipomania contam como o mesmo polo; episódios causados diretamente por substância (cocaína, corticosteroide) ou condição médica não entram na contagem."
+    },
+    {
+     "r": "Padrão sazonal",
+     "t": "Especificador do padrão dos episódios ao longo da vida:",
+     "sub": [
+      "A. Relação temporal regular entre o início de episódios maníacos, hipomaníacos ou depressivos maiores e uma época do ano (excluídos estressores sazonais óbvios).",
+      "B. Remissões completas, ou viradas de polaridade, também ocorrem em época característica.",
+      "C. Nos últimos 2 anos, os episódios daquela polaridade seguiram o padrão sazonal, sem episódios não sazonais dessa polaridade.",
+      "D. Os episódios sazonais superam substancialmente os não sazonais ao longo da vida."
+     ]
+    }
+   ],
+   "especificadores": [
+    "Episódio atual ou mais recente: maníaco, hipomaníaco, depressivo ou não especificado (tipo I); hipomaníaco ou depressivo (tipo II).",
+    "Com sintomas ansiosos; com características mistas; com ciclagem rápida; com características melancólicas ou atípicas; com características psicóticas congruentes ou incongruentes; com catatonia (código adicional F06.1); com início no periparto; com padrão sazonal.",
+    "Ciclotimia: apenas o especificador com sintomas ansiosos.",
+    "Polaridade predominante (não é especificador do DSM, mas é usada pelas diretrizes): pelo menos dois terços dos episódios de uma mesma polaridade."
+   ],
+   "notas": [
+    "Os especificadores de remissão só se aplicam quando os critérios de nenhum episódio estão atualmente preenchidos; gravidade e características psicóticas, só quando estão.",
+    "Ciclagem rápida e padrão sazonal descrevem o padrão dos episódios, não o episódio atual; a ciclagem rápida se associa a pior prognóstico e pior resposta ao lítio em monoterapia.",
+    "Na ciclotimia, se depois dos 2 anos iniciais (1 ano em jovens) surgir um episódio completo, o diagnóstico passa a bipolar tipo I, tipo II ou depressivo maior conforme o episódio.",
+    "Segundo o DSM-5-TR, cerca de metade dos pacientes tem polaridade predominante: num estudo internacional, 31,3% com predomínio maníaco, 21,4% depressivo e 47,3% sem predomínio.",
+    "Recorrência é novo episódio após remissão; recaída, retorno dos sintomas antes da remissão sustentada. Sintomas subsindrômicos residuais, sobretudo depressivos, são o principal preditor de recorrência precoce e de prejuízo funcional.",
+    "Fatores de pior prognóstico: início precoce, muitos episódios prévios, ciclagem rápida, sintomas mistos, uso de substâncias, comorbidade ansiosa e baixa adesão."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Por que manter e por quanto tempo",
+    "texto": "Mais de 90% das pessoas com um episódio maníaco terão recorrência, e o risco de novo episódio cresce e os intervalos encurtam a cada episódio. Cada episódio acrescenta prejuízo funcional e cognitivo, e o tempo gasto em sintomas depressivos subsindrômicos é o maior determinante de incapacidade.\n\nNo bipolar I, o tratamento de manutenção é recomendado após o primeiro episódio maníaco e, em geral, por tempo indefinido. No bipolar II, após episódios recorrentes ou graves. As metas são prevenir episódios de ambas as polaridades, eliminar sintomas residuais, reduzir o risco de suicídio e recuperar o funcionamento."
+   },
+   {
+    "titulo": "Lítio: o padrão de referência",
+    "texto": "No BALANCE (Geddes 2010, Lancet, 330 pacientes com bipolar I, 24 meses), lítio isolado ou associado ao valproato preveniu mais recorrências que valproato isolado; a associação não foi claramente superior ao lítio isolado. Metanálises confirmam proteção contra mania e, em menor grau, contra depressão, além de redução de suicídio e de mortalidade geral (Cipriani 2013).\n\nResponde melhor quem tem curso episódico com remissão completa entre episódios, sequência mania, depressão e intervalo livre, história familiar de bipolar e de resposta ao lítio, e sem ciclagem rápida nem uso de substâncias. Começar cedo parece melhorar a resposta. A litemia de manutenção é 0,6 a 0,8 mmol/L (ISBD e IGSLI 2019), com monitorização de função renal, TSH, cálcio e peso; a suspensão abrupta provoca recorrência de rebote, e reduzir em pelo menos 2 a 4 semanas diminui esse risco."
+   },
+   {
+    "titulo": "Antipsicóticos e anticonvulsivantes: o que cada um previne",
+    "texto": "Quetiapina previne mania e depressão, isolada (Weisler 2011, contra placebo e com braço de lítio) ou com lítio ou valproato, ao custo de ganho de peso e sedação. Aripiprazol oral ou mensal (Calabrese 2017) e risperidona de depósito previnem sobretudo mania. Olanzapina é eficaz (Tohen 2006), mas o risco metabólico a deixa em segunda linha. Asenapina tem um ensaio positivo de prevenção.\n\nLamotrigina retarda recorrências depressivas, com pouca proteção contra mania (Bowden 2003; Calabrese 2003), sendo útil no predomínio depressivo e no bipolar II, de preferência associada a lítio no tipo I. Valproato tem ensaio pivotal negativo no desfecho primário (Bowden 2000), mas uso clínico amplo; carbamazepina foi inferior ao lítio no estudo MAP (Greil 1997), exceto em apresentações atípicas."
+   },
+   {
+    "titulo": "Polaridade predominante, associações e adesão",
+    "texto": "A polaridade predominante orienta a escolha (Colom 2006; índice de polaridade de Popovic 2012): predomínio maníaco favorece lítio, aripiprazol, risperidona de depósito ou olanzapina; predomínio depressivo favorece lamotrigina, quetiapina e lurasidona associada. Quem precisou de associação na fase aguda geralmente se beneficia de mantê-la: quetiapina ou aripiprazol com lítio ou valproato reduzem recorrências mais que o estabilizador isolado.\n\nMetade dos pacientes para a medicação por conta própria em algum momento. Perguntar sem julgamento, medir níveis, simplificar o esquema e oferecer antipsicótico de depósito quando a não adesão provoca recaídas maníacas são intervenções de alto rendimento."
+   },
+   {
+    "titulo": "Intervenções psicossociais com evidência",
+    "texto": "Psicoeducação em grupo (Colom 2003, 21 sessões) reduziu recorrências e internações, com efeito mantido em 5 anos. Terapia focada na família (Miklowitz), terapia interpessoal e de ritmos sociais (Frank 2005) e TCC (Lam 2003) também reduzem recaídas ou aceleram recuperação, sempre associadas ao fármaco.\n\nOs elementos comuns são reconhecer sinais precoces pessoais, manter sono e rotina regulares, evitar álcool e drogas, aderir ao tratamento e ter um plano de ação combinado com a família. Um gráfico de vida (life chart) ou registro diário de humor ajuda a mostrar padrões e a avaliar resposta."
+   },
+   {
+    "titulo": "Segurança de longo prazo e populações especiais",
+    "texto": "Lítio exige vigilância renal (queda da taxa de filtração em uso prolongado, diabetes insípido nefrogênico), tireoidiana e do cálcio; antipsicóticos atípicos exigem controle de peso, glicemia e lipídios. Idosos precisam de litemias menores (0,4 a 0,6 mmol/L em geral).\n\nNa gestação, o lítio tem risco cardíaco menor do que se pensava (Patorno 2017, risco relativo em torno de 1,6, maior com doses altas) e pode ser mantido com planejamento; valproato deve ser evitado, e agências reguladoras restringiram seu uso em pessoas com potencial de engravidar. O pós-parto é o período de maior risco: na metanálise de Wesseloo 2016, a recaída pós-parto foi de 66% sem profilaxia na gestação contra 23% com profilaxia."
+   },
+   {
+    "titulo": "O que dizer ao paciente e quando pensar em retirar",
+    "texto": "Explique que o transtorno bipolar é crônico e recorrente, como hipertensão ou diabetes, e que a manutenção reduz muito a chance de novos episódios, internações e suicídio. Combine sinais de alerta e a conduta diante deles.\n\nSe, após anos estável, o paciente quiser suspender, discuta os riscos, retire gradualmente (pelo menos 4 semanas pelo NICE, idealmente mais), um fármaco por vez, com plano de monitorização por pelo menos 2 anos e retorno imediato se surgirem sinais precoces."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Continuação",
+    "duracao": "Primeiros 6 meses após a remissão",
+    "objetivo": "Consolidar a remissão com o esquema que funcionou, eliminar sintomas residuais e iniciar psicoeducação."
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "Anos, em geral indefinida no bipolar I e após recorrências",
+    "objetivo": "Prevenir episódios das duas polaridades, reduzir suicídio e recuperar o funcionamento, com monitorização de segurança."
+   },
+   {
+    "fase": "Retirada (se decidida)",
+    "duracao": "Redução em pelo menos 4 semanas e vigilância por 2 anos",
+    "objetivo": "Evitar recorrência de rebote e detectar sinais precoces."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Manter o que funcionou",
+    "acao": "Continuar o agente ou a associação eficaz na fase aguda, se tiver evidência de manutenção; retirar antidepressivo associado após remissão sustentada, salvo recaída prévia na retirada; iniciar psicoeducação.",
+    "se_falha": "Recaída ou sintomas residuais relevantes com adesão confirmada."
+   },
+   {
+    "passo": "Monoterapia de primeira linha",
+    "acao": "Lítio (litemia 0,6 a 0,8 mmol/L, até 0,8 a 1,0 se recaída); quetiapina 300 a 800 mg; aripiprazol 15 a 30 mg ou mensal 400 mg; lamotrigina 100 a 200 mg (predomínio depressivo ou bipolar II); valproato (evitar em quem pode engravidar); asenapina.",
+    "se_falha": "Novo episódio com nível e adesão adequados."
+   },
+   {
+    "passo": "Associação de primeira linha",
+    "acao": "Lítio ou valproato com quetiapina ou aripiprazol; lamotrigina com lítio no predomínio depressivo do tipo I.",
+    "se_falha": "Recorrências mantidas apesar da associação."
+   },
+   {
+    "passo": "Baixa adesão",
+    "acao": "Aripiprazol mensal ou risperidona de depósito a cada 2 semanas; simplificar o esquema; psicoeducação com a família.",
+    "se_falha": "Recorrências com adesão garantida."
+   },
+   {
+    "passo": "Segunda e terceira linha",
+    "acao": "Olanzapina; carbamazepina; paliperidona; lurasidona ou ziprasidona associadas a lítio ou valproato; em refratários, clozapina associada e ECT de manutenção.",
+    "se_falha": "Encaminhar a serviço especializado em transtornos do humor."
+   }
+  ]
+ },
+ "Suicídio": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022), seção de outras condições que podem ser foco da atenção clínica (comportamento suicida e autolesão não suicida); nomenclatura de Silverman et al. (2007) e da C-SSRS (Posner et al., 2011)",
+   "cid": "CID-10-MC (DSM-5-TR): T14.91XA comportamento suicida atual, consulta inicial; T14.91XD comportamento suicida atual, consulta de seguimento; Z91.51 história de comportamento suicida; R45.88 autolesão não suicida atual; Z91.52 história de autolesão não suicida. CID-10 X60 a X84 (lesão autoprovocada intencional); CID-11 MB26.A (ideação suicida), MB23.S (tentativa de suicídio)",
+   "itens": [
+    {
+     "r": "Comportamento suicida (DSM-5-TR)",
+     "t": "Comportamento potencialmente autolesivo com pelo menos alguma intenção de morrer como resultado do ato. A intenção pode ser explícita ou deduzida do comportamento ou das circunstâncias; a tentativa pode ou não resultar em lesão. Não se aplica se a pessoa foi dissuadida por outra ou mudou de ideia antes de iniciar o comportamento.",
+     "sub": [
+      "Comportamento suicida atual (T14.91XA na consulta inicial ou tratamento ativo, por exemplo na emergência; T14.91XD nas consultas de seguimento, na fase de recuperação).",
+      "História de comportamento suicida (Z91.51): houve comportamento suicida em algum momento da vida."
+     ]
+    },
+    {
+     "r": "Autolesão não suicida (DSM-5-TR)",
+     "t": "Dano intencional autoinfligido ao corpo, que pode causar sangramento, hematoma ou dor (cortar, queimar, bater, arranhar), na ausência de intenção suicida.",
+     "sub": [
+      "Autolesão não suicida atual (R45.88).",
+      "História de autolesão não suicida (Z91.52).",
+      "Transtorno da autolesão não suicida (Seção III, critérios propostos): 5 ou mais dias de autolesão no último ano, com expectativa de dano leve a moderado; motivada por alívio de estado negativo, resolução de dificuldade interpessoal ou indução de estado positivo; precedida por afeto negativo, preocupação difícil de controlar ou pensamentos frequentes sobre o ato; não socialmente aprovada; com sofrimento ou prejuízo; não exclusiva de psicose, delirium, intoxicação ou abstinência."
+     ]
+    },
+    {
+     "r": "Ideação passiva",
+     "t": "Desejo de estar morto ou de não acordar, sem pensamento de se matar."
+    },
+    {
+     "r": "Ideação ativa",
+     "t": "Pensamentos de se matar, graduados na C-SSRS: sem método; com método, sem intenção de agir; com alguma intenção, sem plano; com plano específico e intenção."
+    },
+    {
+     "r": "Tentativa de suicídio",
+     "t": "Comportamento autoinfligido, potencialmente lesivo, com pelo menos alguma intenção de morrer, não fatal; pode ou não resultar em lesão. A intenção pode ser inferida pelo comportamento ou pelas circunstâncias."
+    },
+    {
+     "r": "Tentativa interrompida",
+     "t": "A pessoa inicia o ato, mas é impedida por fator externo antes de haver lesão."
+    },
+    {
+     "r": "Tentativa abortada",
+     "t": "A pessoa começa a dar passos para a tentativa, mas desiste por conta própria antes de se ferir."
+    },
+    {
+     "r": "Atos preparatórios",
+     "t": "Ações para preparar a tentativa além de verbalizar: juntar comprimidos, obter arma, escrever carta de despedida, doar bens."
+    },
+    {
+     "r": "Suicídio",
+     "t": "Morte autoinfligida com evidência, explícita ou implícita, de intenção de morrer."
+    }
+   ],
+   "especificadores": [
+    "O transtorno do comportamento suicida, proposto na Seção III do DSM-5 (2013) como condição para estudo, foi retirado dessa seção no DSM-5-TR e substituído pelos códigos de comportamento suicida atual e história de comportamento suicida, que podem ser usados com qualquer diagnóstico ou sem ele.",
+    "Nos códigos T do comportamento suicida, o sétimo caractere indica o tipo de consulta: A (inicial, tratamento ativo) ou D (seguimento)."
+   ],
+   "notas": [
+    "Sempre registrar separadamente ideação (frequência, intensidade, duração, controlabilidade), comportamento e letalidade, porque o risco muda com cada eixo.",
+    "Pela definição do DSM-5-TR, tentativas abortadas antes de iniciar o comportamento não recebem o código de comportamento suicida, mas continuam sendo marcador de risco e devem ser registradas descritivamente (a C-SSRS as conta).",
+    "Autolesão não suicida e comportamento suicida se diferenciam pela intenção declarada (alívio contra morrer), não pelo método; a autolesão é forte fator de risco para tentativa futura, e as duas coexistem com frequência.",
+    "No Brasil, tentativa de suicídio é agravo de notificação compulsória imediata ao município (em até 24 horas), pela ficha de violência interpessoal e autoprovocada do SINAN.",
+    "Classificar o risco em baixo, moderado ou alto serve para organizar o plano de cuidado, não para prever quem vai morrer: escalas preditivas isoladas têm baixo valor preditivo positivo."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e grupos de risco",
+    "texto": "A OMS estima cerca de 700 mil mortes por suicídio por ano no mundo. No Brasil, as taxas vêm subindo na última década, com aumento marcado entre adolescentes e adultos jovens; homens morrem por suicídio cerca de 3 a 4 vezes mais que mulheres, enquanto mulheres tentam mais. O enforcamento é o método mais comum no país, seguido de intoxicações (incluindo pesticidas) e armas de fogo.\n\nOs maiores marcadores de risco são tentativa prévia (o preditor isolado mais forte), transtornos do humor, esquizofrenia, uso de álcool e outras substâncias, transtorno de personalidade borderline, doença física crônica e dor, isolamento, perdas recentes e acesso a meios letais. O DSM-5-TR estima risco de suicídio no transtorno bipolar de 20 a 30 vezes o da população geral, com 5 a 6% de mortes por suicídio. Os períodos de maior risco são as primeiras semanas após alta psiquiátrica (na metanálise de Chung 2017, cerca de 100 vezes a taxa geral nos 3 primeiros meses) e após tentativa."
+   },
+   {
+    "titulo": "Neurobiologia e modelos de compreensão",
+    "texto": "O modelo de estresse e diátese (Mann) combina uma vulnerabilidade de traço (impulsividade e agressividade, disfunção serotoninérgica no córtex pré-frontal ventral, 5-HIAA baixo no líquor em tentativas violentas, hiper-reatividade do eixo HPA) com estressores agudos e estados como depressão, psicose ou intoxicação.\n\nModelos de ideação para ação, como a teoria interpessoal de Joiner (pertencimento frustrado, sensação de ser um fardo, capacidade adquirida para o ato) e a teoria dos três passos de Klonsky, lembram que a maioria das pessoas com ideação nunca tenta: a transição depende de capacidade (dessensibilização à dor e ao medo da morte, conhecimento e acesso ao método). Isso explica por que restringir meios e tratar agitação, insônia e intoxicação reduz mortes mesmo sem eliminar a ideação."
+   },
+   {
+    "titulo": "Avaliação de risco e os limites da predição",
+    "texto": "Em 50 anos de pesquisa, fatores de risco isolados predizem comportamento suicida pouco melhor que o acaso (Franklin 2017, metanálise de 365 estudos), e mesmo as pessoas classificadas como de alto risco raramente morrem por suicídio no seguimento, enquanto muitas mortes ocorrem entre as de baixo risco. Por isso o NICE (2022) desaconselha usar escalas para decidir alta ou tratamento.\n\nA avaliação útil é uma formulação: ideação e intenção atuais, plano e acesso a meios, tentativas prévias e sua letalidade, sinais de alerta agudos (agitação, insônia grave, desesperança, isolamento, preparativos, alucinações de comando, intoxicação), fatores protetores e o que mudou recentemente. A C-SSRS organiza as perguntas. Perguntar diretamente sobre suicídio não aumenta a ideação (Dazzi 2014)."
+   },
+   {
+    "titulo": "Fármacos com evidência sobre o comportamento suicida",
+    "texto": "Lítio: na metanálise de Cipriani 2013, reduziu suicídio e mortalidade geral nos transtornos do humor em comparação com placebo; o ensaio em veteranos de Katz 2022 (JAMA Psychiatry), que acrescentou lítio após evento suicida recente, foi interrompido por futilidade, o que limita a generalização, mas não anula o conjunto observacional. Clozapina: no InterSePT (Meltzer 2003, 980 pacientes com esquizofrenia ou esquizoafetivo de alto risco), reduziu tentativas e internações por risco suicida em comparação com olanzapina.\n\nCetamina IV (0,5 mg/kg) reduz ideação suicida em horas, com efeito que dura cerca de uma semana (metanálise de dados individuais de Wilkinson 2018), sem demonstração de redução de tentativas ou mortes. Esketamina intranasal (ASPIRE I e II) reduziu sintomas depressivos em 24 horas em pacientes com ideação e intenção suicida, mas a medida específica de suicidalidade não diferiu do placebo. ECT resolve rapidamente a ideação na maioria dos deprimidos graves. Antidepressivos trazem alerta de aumento de ideação e comportamento suicida abaixo de 25 anos, concentrado nas primeiras semanas; o benefício no tratamento da depressão supera esse risco com monitorização próxima."
+   },
+   {
+    "titulo": "Intervenções psicossociais que reduzem tentativas",
+    "texto": "O plano de segurança de Stanley e Brown, com seguimento telefônico, reduziu comportamento suicida em cerca de 45% após atendimento de emergência (Stanley 2018). TCC focada em prevenção de suicídio reduziu reincidência em cerca de 50% (Brown 2005). DBT reduziu tentativas em mulheres com transtorno borderline (Linehan 2006), e CAMS tem evidência crescente. Contatos de cuidado, como cartas ou mensagens periódicas após a alta (Motto 2001), reduzem mortes e reinternações a baixo custo.\n\nRestringir o acesso a meios letais é das intervenções populacionais mais eficazes: redução do tamanho das embalagens de paracetamol no Reino Unido (Hawton 2013), proibição de pesticidas altamente tóxicos no Sri Lanka, barreiras em pontes e controle de armas. No consultório, isso significa prescrever quantidades limitadas, preferir fármacos menos tóxicos em superdosagem e pedir que um familiar guarde medicamentos e remova armas."
+   },
+   {
+    "titulo": "Armadilhas na prática",
+    "texto": "Contrato de não suicídio não tem evidência de proteção e pode dar falsa segurança; substitua pelo plano de segurança. Avaliar o paciente intoxicado como se estivesse sóbrio, dar alta sem plano e sem data de retorno, prescrever grandes quantidades de tricíclicos ou lítio e não ouvir a família são erros frequentes.\n\nMelhora súbita e inexplicada em paciente gravemente deprimido pode refletir decisão tomada. Acatisia e ativação no início de antidepressivo ou antipsicótico aumentam a inquietação e o risco, e devem ser perguntadas. Autolesão repetida sem intenção de morrer não deve ser banalizada. Internação involuntária, quando necessária, segue a Lei 10.216/2001, com comunicação ao Ministério Público em até 72 horas."
+   },
+   {
+    "titulo": "O que dizer ao paciente e à família",
+    "texto": "Validar o sofrimento, perguntar com clareza e mostrar que a crise costuma ser transitória e que há tratamento. Construa o plano de segurança junto com o paciente, em linguagem dele, e combine com a família a retirada de meios, os sinais de alerta e a quem ligar: CVV 188 (24 horas, gratuito), SAMU 192, CAPS e pronto-socorro.\n\nApós tentativa ou alta, o seguimento precisa ser rápido (idealmente em até 7 dias) e ativo: se o paciente faltar, a equipe procura. Tratar a condição de base até a remissão é a intervenção de longo prazo mais importante."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Crise",
+    "duracao": "Horas",
+    "objetivo": "Segurança imediata, avaliação e formulação do risco, tratamento de intoxicação, agitação ou lesão e decisão do nível de cuidado."
+   },
+   {
+    "fase": "Pós-crise",
+    "duracao": "Primeiros dias a 3 meses",
+    "objetivo": "Seguimento em até 7 dias após alta ou tentativa, plano de segurança, restrição de meios, início do tratamento da condição de base."
+   },
+   {
+    "fase": "Continuação",
+    "duracao": "3 a 12 meses",
+    "objetivo": "Psicoterapia focada em suicídio (TCC-SP, DBT, CAMS), contatos de cuidado, remissão do transtorno de base."
+   },
+   {
+    "fase": "Longo prazo",
+    "duracao": "Anos",
+    "objetivo": "Manutenção do tratamento (lítio ou clozapina quando indicados), revisão periódica do plano e atenção a novas crises e datas de risco."
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Perguntar e rastrear",
+    "acao": "Perguntar diretamente sobre ideação, plano, intenção e tentativas (C-SSRS); ouvir familiar; checar intoxicação e condições clínicas.",
+    "se_falha": "Rastreio positivo ou dúvida: avaliação completa no mesmo atendimento."
+   },
+   {
+    "passo": "Formular o risco e decidir o nível de cuidado",
+    "acao": "Integrar ideação e intenção, plano e acesso a meios, tentativas prévias, sinais de alerta agudos, fatores de risco e de proteção e capacidade de cooperar com o plano; definir ambulatório intensivo, CAPS, hospital-dia ou internação; notificar tentativa no SINAN.",
+    "se_falha": "Intenção com plano, tentativa de alta letalidade, psicose de comando ou impossibilidade de garantir segurança: internação (involuntária pela Lei 10.216 se necessário)."
+   },
+   {
+    "passo": "Segurança imediata",
+    "acao": "Plano de segurança de Stanley e Brown; restrição de meios com a família (armas, estoque de medicamentos); tratar agitação e insônia (benzodiazepínico por curto prazo, antipsicótico se psicose); prescrever quantidades limitadas; retorno em até 7 dias.",
+    "se_falha": "Piora da ideação ou novo comportamento: reavaliar nível de cuidado."
+   },
+   {
+    "passo": "Tratar a condição de base",
+    "acao": "Depressão: antidepressivo com retorno semanal no início; ECT se grave, psicótica ou com risco iminente; esketamina 56 a 84 mg intranasal duas vezes por semana associada a antidepressivo, ou cetamina IV, como ponte. Transtornos do humor: lítio (litemia 0,6 a 1,0 mmol/L). Esquizofrenia com risco persistente: clozapina.",
+    "se_falha": "Sem melhora em 4 a 6 semanas ou risco persistente: otimizar, considerar ECT e discutir com equipe especializada."
+   },
+   {
+    "passo": "Psicoterapia e seguimento",
+    "acao": "TCC focada em suicídio, DBT (borderline, autolesão recorrente) ou CAMS; contatos de cuidado por 12 meses; revisar o plano de segurança a cada consulta.",
+    "se_falha": "Tentativas repetidas ou risco crônico elevado: encaminhar a serviço especializado e plano de crise compartilhado com a rede (CAPS, SAMU)."
+   }
+  ]
+ }
+}

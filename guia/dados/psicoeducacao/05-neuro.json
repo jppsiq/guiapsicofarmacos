@@ -1,0 +1,725 @@
+{
+ "Irritabilidade no TEA": [
+  {
+   "id": "entender-as-crises",
+   "titulo": "Crises no autismo: o que elas querem dizer",
+   "subtitulo": "Entender o que está por trás da irritabilidade para prevenir",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que as crises acontecem", "texto": "Muitas pessoas autistas têm crises de choro, raiva, agressividade ou machucam a si mesmas. Isso **não é birra nem falta de educação**. Na maioria das vezes, a crise é uma forma de comunicar que algo está errado, principalmente quando a pessoa tem dificuldade de falar sobre o que sente.\n\nO autismo em si não tem remédio. Mas a irritabilidade pode diminuir muito quando descobrimos e tratamos a causa, adaptamos o ambiente e, em alguns casos, usamos medicação."},
+    {"tipo": "lista", "titulo": "Causas escondidas que vale investigar", "texto": "Leve estas possibilidades para a consulta, principalmente se as crises aumentaram de repente:", "itens": [
+      "**Dor**: dente, ouvido, barriga, cabeça, ferimentos que a pessoa não consegue mostrar.",
+      "**Intestino preso** (constipação), refluxo, fome ou sede.",
+      "**Sono ruim**: dormir pouco ou acordar muitas vezes à noite.",
+      "**Sobrecarga sensorial**: barulho, luz forte, roupas que incomodam, lugares cheios.",
+      "**Mudanças de rotina**: troca de escola, de cuidador, viagem, casa nova.",
+      "Dificuldade de se comunicar ou de ser entendido.",
+      "Outras condições que têm tratamento: TDAH, ansiedade, depressão, convulsões."
+    ]},
+    {"tipo": "fazer", "titulo": "No dia a dia", "sim": [
+      "Mantenha uma rotina previsível e avise antes das mudanças.",
+      "Use apoios visuais: figuras, quadro da rotina, contagem regressiva.",
+      "Ofereça formas de comunicar (gestos, figuras, prancha, aplicativo).",
+      "Elogie logo que a pessoa se acalmar ou pedir ajuda de forma adequada.",
+      "Tenha um canto tranquilo, com fone abafador ou objetos que acalmam."
+    ], "nao": [
+      "Gritar, ameaçar ou discutir durante a crise.",
+      "Dar o que foi pedido só porque a crise ficou forte (isso ensina que a crise funciona).",
+      "Mudar tudo de uma vez sem preparar a pessoa.",
+      "Achar que é sempre comportamento: pense também em dor e doença."
+    ]},
+    {"tipo": "destaque", "titulo": "Lembre", "texto": "Toda crise tem um motivo. Nosso trabalho é descobrir qual é, e não apenas fazer a crise parar."}
+   ],
+   "ajuda": [
+    "Ferimento sério na própria pessoa ou em outros.",
+    "Batidas fortes na cabeça ou autolesão que não para.",
+    "Crise acompanhada de febre, convulsão, vômitos ou sonolência fora do comum.",
+    "Mudança brusca: parou de comer, de andar ou de reagir como antes."
+   ],
+   "fonte": "AACAP 2014; NICE CG170"
+  },
+  {
+   "id": "plano-de-crise",
+   "titulo": "Plano para as crises e diário",
+   "subtitulo": "O que fazer antes, durante e depois, e como anotar",
+   "publico": "Família",
+   "figura": "semaforo",
+   "figura_legenda": "Reconheça em que fase a pessoa está",
+   "blocos": [
+    {"tipo": "semaforo", "titulo": "Fases da crise", "verde": [
+      "Calma: mantenha rotina, apoios visuais e momentos agradáveis.",
+      "Ofereça pausas antes de tarefas difíceis."
+    ], "amarelo": [
+      "Sinais de que a crise está chegando: mãos nos ouvidos, andar de um lado para o outro, gritos curtos, balançar mais.",
+      "Reduza barulho e exigências, ofereça o canto tranquilo ou um objeto preferido.",
+      "Fale pouco, com frases curtas e voz calma."
+    ], "vermelho": [
+      "Crise em andamento: proteja a pessoa e quem está perto.",
+      "Afaste objetos perigosos e outras crianças.",
+      "Não segure com força, a não ser para evitar um ferimento grave.",
+      "Espere passar. Converse só depois."
+    ]},
+    {"tipo": "passos", "titulo": "Depois da crise", "itens": [
+      "Deixe a pessoa descansar e se recuperar.",
+      "Volte à rotina de forma tranquila, sem castigo.",
+      "Anote no diário o que aconteceu antes, durante e depois.",
+      "Depois de algumas semanas, leve o diário para a equipe: os padrões ajudam a descobrir a causa."
+    ]},
+    {"tipo": "tabela", "titulo": "Diário das crises", "texto": "Anote cada crise. O que aconteceu antes costuma mostrar o gatilho.", "colunas": ["Data e hora", "O que aconteceu antes", "O que a pessoa fez", "Quanto durou", "O que aconteceu depois", "Dormiu bem? Evacuou?"], "linhas_vazias": 7},
+    {"tipo": "anotar", "titulo": "O que acalma esta pessoa", "texto": "Objetos, músicas, lugares, palavras que costumam ajudar:", "linhas_vazias": 4}
+   ],
+   "ajuda": [
+    "Ferimento que precisa de atendimento.",
+    "Risco de alguém se machucar gravemente e você não conseguir proteger."
+   ],
+   "fonte": "AACAP 2014; NICE CG170"
+  },
+  {
+   "id": "remedios-irritabilidade",
+   "titulo": "Risperidona e aripiprazol na irritabilidade",
+   "subtitulo": "O que esperar e o que acompanhar",
+   "publico": "Família",
+   "figura": "curva-remedio",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Para que servem", "texto": "Quando as crises são intensas e continuam mesmo com as adaptações de rotina e a terapia, o médico pode indicar **risperidona** ou **aripiprazol**. Eles reduzem a irritabilidade, a agressividade e a autolesão em muitas crianças e adultos.\n\nEles **não tratam o autismo** em si: não melhoram a fala nem a interação social. Por isso, a terapia e as adaptações continuam sendo muito importantes."},
+    {"tipo": "lista", "titulo": "Efeitos que podem aparecer", "itens": [
+      "Aumento do apetite e ganho de peso (é o mais comum).",
+      "Sonolência, principalmente no começo.",
+      "Alterações de açúcar e gordura no sangue.",
+      "Com a risperidona: aumento de um hormônio chamado prolactina, que pode causar aumento das mamas ou saída de leite.",
+      "Movimentos involuntários, rigidez ou inquietação (menos comum)."
+    ]},
+    {"tipo": "checklist", "titulo": "Acompanhamento combinado com a equipe", "itens": [
+      "Pesar e medir a cintura regularmente.",
+      "Exames de sangue de glicose e colesterol.",
+      "Dosagem de prolactina, quando indicada.",
+      "Consultas para rever se o remédio ainda é necessário.",
+      "Oferecer alimentação equilibrada e atividade física desde o início."
+    ]},
+    {"tipo": "fazer", "titulo": "Cuidados", "sim": [
+      "Dê o remédio no horário combinado.",
+      "Anote as crises antes e depois de começar, para ver se funcionou.",
+      "Conte à equipe qualquer efeito estranho."
+    ], "nao": [
+      "Aumentar ou parar a dose por conta própria.",
+      "Deixar refrigerante e guloseimas à vontade: o apetite aumenta."
+    ]}
+   ],
+   "ajuda": [
+    "Rigidez forte, febre alta e confusão.",
+    "Movimentos involuntários que não param ou dificuldade para engolir.",
+    "Sonolência a ponto de não conseguir acordar direito."
+   ],
+   "fonte": "AACAP 2014; NICE CG170"
+  }
+ ],
+ "Tiques e Tourette": [
+  {
+   "id": "o-que-sao-tiques",
+   "titulo": "Tiques e síndrome de Tourette",
+   "subtitulo": "O que são, o que ajuda e o que piora",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é um tique", "texto": "Tique é um movimento ou som **rápido, repetido e involuntário**, como piscar, fazer caretas, balançar a cabeça, pigarrear ou fungar. Muitas pessoas sentem antes uma vontade ou um incômodo no corpo, que alivia quando o tique acontece.\n\nQuando existem vários tiques de movimento e pelo menos um tique de som, por mais de um ano, chamamos de **síndrome de Tourette**. Os tiques começam na infância, mudam de tipo e de intensidade com o tempo e costumam melhorar bastante na adolescência e no início da vida adulta."},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+      {"mito": "A criança faz de propósito ou para chamar atenção.", "fato": "Tiques são involuntários. Dá para segurar um pouco, mas isso cansa e eles voltam."},
+      {"mito": "Tourette é falar palavrões.", "fato": "Apenas uma minoria das pessoas com Tourette fala palavrões sem querer."},
+      {"mito": "Sempre precisa de remédio.", "fato": "A maioria não precisa. O tratamento é indicado quando os tiques causam dor, vergonha importante ou atrapalham a escola ou o trabalho."}
+    ]},
+    {"tipo": "fazer", "titulo": "O que ajuda e o que piora", "sim": [
+      "Ignorar os tiques com naturalidade, sem comentar.",
+      "Dormir bem e ter rotina.",
+      "Atividades que exigem concentração e prazer: esporte, música, jogos.",
+      "Explicar à escola e aos colegas o que são tiques.",
+      "Tratar TDAH, TOC e ansiedade, que costumam atrapalhar mais que os tiques."
+    ], "nao": [
+      "Mandar parar, chamar atenção ou dar bronca.",
+      "Estresse, cansaço, falta de sono.",
+      "Excesso de cafeína (café, refrigerantes de cola, energéticos).",
+      "Longos períodos de tédio ou de tela sem pausa."
+    ]},
+    {"tipo": "texto", "titulo": "Tratamentos", "texto": "O primeiro tratamento é a **CBIT**, uma terapia que ensina a controlar os tiques (veja a ficha própria). Se os tiques forem fortes, o médico pode indicar remédios como clonidina, aripiprazol ou risperidona. Quem tem TDAH junto geralmente pode usar estimulantes: na maioria das pessoas eles não pioram os tiques."}
+   ],
+   "ajuda": [
+    "Tique que machuca: batidas na cabeça, no olho, torções fortes do pescoço.",
+    "Tristeza intensa, isolamento ou pensamentos de morte por causa dos tiques ou do bullying."
+   ],
+   "fonte": "AAN 2019; ESSTS 2021"
+  },
+  {
+   "id": "cbit",
+   "titulo": "CBIT: treinar o controle dos tiques",
+   "subtitulo": "Como funciona a terapia comportamental para tiques",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é a CBIT", "texto": "CBIT quer dizer **intervenção comportamental abrangente para tiques**. É uma terapia feita com psicólogo, em cerca de 8 a 10 sessões, com tarefas para treinar em casa. Ela não cura os tiques, mas ajuda muitas pessoas a ter tiques mais fracos e menos frequentes.\n\nA ideia central: quase sempre existe uma **sensação antes do tique** (coceira, pressão, vontade). Aprender a perceber essa sensação e responder de outro jeito faz o tique perder força com o tempo."},
+    {"tipo": "passos", "titulo": "As etapas", "itens": [
+      "**Perceber o tique**: descrever como ele é e notar a sensação que vem antes.",
+      "**Resposta concorrente**: aprender um movimento discreto que impede o tique. Exemplo: para um tique de balançar a cabeça, contrair levemente os músculos do pescoço e olhar para frente; para um tique de fungar, respirar devagar pela boca.",
+      "Manter a resposta concorrente por cerca de 1 minuto ou até a vontade passar.",
+      "**Mudar o ambiente**: identificar situações que pioram os tiques e ajustar o que for possível.",
+      "**Relaxamento**: respiração lenta e relaxamento muscular.",
+      "**Apoio da família**: elogiar o esforço e o treino, nunca cobrar os tiques."
+    ]},
+    {"tipo": "tabela", "titulo": "Registro do treino", "texto": "Escolha um tique por vez. Anote o treino do dia.", "colunas": ["Data", "Tique treinado", "Situação", "Usei a resposta? (sim/não)", "Força do tique (0 a 10)"], "linhas_vazias": 7},
+    {"tipo": "destaque", "titulo": "Para a família", "texto": "Elogie o treino, e não a ausência de tiques. Cobrança aumenta a tensão, e tensão aumenta os tiques."}
+   ],
+   "fonte": "AAN 2019; ESSTS 2021"
+  }
+ ],
+ "TDAH": [
+  {
+   "id": "o-que-e-tdah",
+   "titulo": "O que é TDAH e como se trata",
+   "subtitulo": "Desatenção, agitação e impulsividade que vêm desde a infância",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "TDAH quer dizer **transtorno do déficit de atenção e hiperatividade**. É uma diferença no funcionamento do cérebro que começa na infância e, em muitas pessoas, continua na vida adulta. Tem forte componente hereditário. **Não é preguiça nem falta de limites**.\n\nNas crianças aparecem agitação, dificuldade de esperar a vez, distração e esquecimentos. Nos adultos, a agitação costuma virar inquietação por dentro, e predominam a desorganização, os atrasos, as tarefas deixadas pela metade e as decisões por impulso."},
+    {"tipo": "lista", "titulo": "Por que vale a pena tratar", "itens": [
+      "Melhora o rendimento na escola e no trabalho.",
+      "Diminui acidentes, inclusive de trânsito.",
+      "Reduz o risco de uso de álcool e drogas.",
+      "Melhora a convivência em casa e a autoestima."
+    ]},
+    {"tipo": "lista", "titulo": "Como se trata", "itens": [
+      "**Orientação para pais** (primeira escolha em crianças pequenas) e apoio da escola.",
+      "**Terapia** para adultos, com foco em organização e manejo do tempo.",
+      "**Remédios**: os estimulantes (metilfenidato e lisdexanfetamina) são os mais eficazes. Há também opções não estimulantes, como a atomoxetina e a clonidina.",
+      "Sono regular e atividade física."
+    ]},
+    {"tipo": "mitos", "titulo": "Mitos e fatos", "itens": [
+      {"mito": "TDAH é invenção ou falta de educação.", "fato": "É uma condição estudada há mais de um século, reconhecida por todas as diretrizes médicas."},
+      {"mito": "O remédio vicia a criança.", "fato": "Usado com acompanhamento médico, o tratamento não aumenta o risco de dependência; tratar o TDAH até reduz o uso de drogas no futuro."},
+      {"mito": "Passa na adolescência.", "fato": "Em muitas pessoas continua na vida adulta, mesmo que a agitação diminua."}
+    ]}
+   ],
+   "fonte": "NICE NG87 2018; CADDRA 2020; AAP 2019; World Federation of ADHD 2021"
+  },
+  {
+   "id": "tdah-para-pais",
+   "titulo": "TDAH: orientações para pais",
+   "subtitulo": "Rotina, reforço positivo e parceria com a escola",
+   "publico": "Família",
+   "figura": "rotina-dia",
+   "figura_legenda": "Rotina previsível ajuda o cérebro com TDAH",
+   "blocos": [
+    {"tipo": "lista", "titulo": "Rotina", "itens": [
+      "Horários fixos para acordar, comer, estudar, brincar e dormir.",
+      "Quadro visual da rotina na parede, com figuras para os menores.",
+      "Separe mochila e roupa na noite anterior.",
+      "Tarefas em pedaços curtos, com pausas de movimento.",
+      "Lugar de estudo sem TV e sem celular por perto."
+    ]},
+    {"tipo": "fazer", "titulo": "Reforço positivo e limites", "sim": [
+      "Dê ordens curtas, uma de cada vez, olhando nos olhos.",
+      "Elogie logo que a criança fizer o que foi pedido. Seja específico: \"Você guardou os brinquedos sem eu pedir duas vezes!\"",
+      "Use quadro de pontos ou estrelinhas trocadas por um privilégio combinado.",
+      "Combine poucas regras claras e as consequências antes.",
+      "Aplique a consequência com calma e sempre do mesmo jeito."
+    ], "nao": [
+      "Gritar, bater ou humilhar.",
+      "Dar várias ordens de uma vez.",
+      "Prometer castigos que não vai cumprir.",
+      "Só notar a criança quando ela erra."
+    ]},
+    {"tipo": "checklist", "titulo": "Parceria com a escola", "itens": [
+      "Conversar com a professora e a coordenação sobre o diagnóstico.",
+      "Pedir para a criança sentar na frente, longe de janelas e portas.",
+      "Pedir instruções curtas e escritas no quadro ou no caderno.",
+      "Combinar mais tempo em provas, quando necessário.",
+      "Usar agenda ou bilhete diário entre casa e escola.",
+      "Avisar a escola sobre horário e efeitos do remédio, se houver."
+    ]},
+    {"tipo": "destaque", "titulo": "Cuide de você também", "texto": "Criar uma criança com TDAH cansa. Um curso de orientação para pais ajuda muito, e pedir ajuda é sinal de cuidado, não de fracasso."}
+   ],
+   "fonte": "NICE NG87 2018; AAP 2019"
+  },
+  {
+   "id": "tdah-adulto-organizacao",
+   "titulo": "TDAH no adulto: estratégias de organização",
+   "subtitulo": "Ferramentas práticas para o dia a dia",
+   "publico": "Paciente",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Use ferramentas de fora da cabeça", "texto": "No TDAH, a memória para lembrar tarefas e o senso de tempo funcionam de um jeito diferente. Em vez de tentar se esforçar mais, a estratégia é **tirar as coisas da cabeça** e colocar em lugares visíveis: agenda, alarmes, listas e lembretes."},
+    {"tipo": "lista", "titulo": "Estratégias que funcionam", "itens": [
+      "**Uma agenda só** (papel ou celular) para tudo. Olhe todo dia de manhã.",
+      "**Alarmes** para compromissos e para começar tarefas, não só para terminar.",
+      "**Lugar fixo** para chaves, carteira, documentos e remédio.",
+      "**Divida tarefas grandes** em passos pequenos; escreva só o próximo passo.",
+      "**Blocos de tempo**: trabalhe 25 minutos com o celular longe, depois pausa de 5.",
+      "**Regra dos 2 minutos**: se leva menos que isso, faça na hora.",
+      "Contas em débito automático e lembretes para vencimentos.",
+      "Conte com um tempo extra: some 50% ao tempo que você acha que vai levar.",
+      "Antes de decisões grandes ou compras caras, espere um dia."
+    ]},
+    {"tipo": "tabela", "titulo": "Meu plano do dia", "texto": "Escolha no máximo 3 prioridades por dia.", "colunas": ["Prioridade", "Primeiro passo", "Horário", "Feito?"], "linhas_vazias": 5},
+    {"tipo": "fazer", "titulo": "Cuidados gerais", "sim": [
+      "Durma em horário regular.",
+      "Faça atividade física: ajuda a atenção e o humor.",
+      "Procure terapia focada em organização, se disponível."
+    ], "nao": [
+      "Usar álcool ou outras drogas para se acalmar.",
+      "Deixar tudo para a última hora como forma de se motivar.",
+      "Dirigir distraído ou com o celular na mão."
+    ]}
+   ],
+   "fonte": "CADDRA 2020; NICE NG87 2018"
+  },
+  {
+   "id": "estimulantes-o-que-esperar",
+   "titulo": "Estimulantes: o que esperar",
+   "subtitulo": "Metilfenidato e lisdexanfetamina no tratamento do TDAH",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Como funcionam", "texto": "Os estimulantes, como o **metilfenidato** e a **lisdexanfetamina**, ajudam o cérebro a manter a atenção e a controlar os impulsos. São os remédios mais eficazes para o TDAH. O efeito começa no mesmo dia e dura algumas horas, conforme o tipo (de ação curta ou prolongada).\n\nO médico começa com dose baixa e ajusta aos poucos, geralmente a cada semana, até achar a dose que funciona com poucos efeitos colaterais. Cerca de 7 em cada 10 pessoas melhoram com o primeiro estimulante; se não der certo, trocar pelo outro costuma funcionar."},
+    {"tipo": "lista", "titulo": "Efeitos colaterais mais comuns", "texto": "Em geral são leves e melhoram com ajuste de dose ou horário:", "itens": [
+      "Falta de apetite, principalmente no almoço.",
+      "Dificuldade para pegar no sono se tomado tarde.",
+      "Dor de cabeça ou de barriga.",
+      "Irritação ou choro no fim do efeito.",
+      "Pequeno aumento da pressão e dos batimentos do coração.",
+      "Em crianças, o crescimento pode desacelerar um pouco; por isso se mede peso e altura."
+    ]},
+    {"tipo": "fazer", "titulo": "Dicas de uso", "sim": [
+      "Tome de manhã, depois do café da manhã.",
+      "Capriche no café da manhã e no jantar se o almoço ficar fraco.",
+      "Guarde o remédio em lugar seguro e não empreste a ninguém.",
+      "Leve às consultas o que mudou na escola, no trabalho e em casa.",
+      "Informe outros remédios, problemas do coração e desmaios na família."
+    ], "nao": [
+      "Aumentar a dose por conta própria.",
+      "Misturar com energéticos, álcool ou drogas.",
+      "Tomar à tarde ou à noite sem orientação."
+    ]},
+    {"tipo": "checklist", "titulo": "O que a equipe vai acompanhar", "itens": [
+      "Pressão e frequência cardíaca.",
+      "Peso e altura (em crianças).",
+      "Sono e apetite.",
+      "Se o remédio cobre os períodos do dia em que há dificuldade.",
+      "Reavaliação anual da necessidade do tratamento."
+    ]}
+   ],
+   "ajuda": [
+    "Dor no peito, desmaio ou coração disparado.",
+    "Ver ou ouvir coisas que os outros não percebem, ou desconfiança intensa.",
+    "Tristeza profunda ou pensamentos de morte.",
+    "Tiques novos ou muito piores."
+   ],
+   "fonte": "NICE NG87 2018; CADDRA 2020; World Federation of ADHD 2021"
+  }
+ ],
+ "Demência de Alzheimer": [
+  {
+   "id": "o-que-e-alzheimer",
+   "titulo": "Doença de Alzheimer: o que é e como se trata",
+   "subtitulo": "Informações para a pessoa e a família",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A doença de Alzheimer é a causa mais comum de **demência**, palavra que descreve a perda progressiva de memória e de outras capacidades mentais a ponto de atrapalhar a vida diária. Proteínas se acumulam no cérebro e, aos poucos, as células nervosas deixam de funcionar.\n\nOs primeiros sinais costumam ser esquecer fatos recentes, repetir perguntas e se perder em lugares conhecidos. Com o tempo aparecem dificuldade com dinheiro, remédios, linguagem e cuidados pessoais. A evolução é lenta, em geral ao longo de muitos anos, e varia de pessoa para pessoa."},
+    {"tipo": "lista", "titulo": "Como se trata", "itens": [
+      "**Remédios para os sintomas**: donepezila, rivastigmina ou galantamina nas fases leve e moderada; memantina nas fases moderada e grave. Eles não curam, mas podem **estabilizar** a memória e o dia a dia por um tempo. Não melhorar não quer dizer que não esteja funcionando.",
+      "Em fases bem iniciais e em centros especializados, existem novos remédios na veia contra o amiloide, com benefício modesto e riscos que exigem exames de ressonância.",
+      "**Cuidar do coração e dos vasos**: pressão, diabetes, colesterol, cigarro.",
+      "Atividade física, convívio social, atividades que estimulam a mente.",
+      "Corrigir audição e visão.",
+      "Revisar remédios que pioram a memória (alguns para alergia, bexiga e sono)."
+    ]},
+    {"tipo": "lista", "titulo": "Efeitos dos remédios para a memória", "itens": [
+      "Enjoo, diarreia, falta de apetite (tomar com comida ajuda).",
+      "Sonhos vívidos ou insônia.",
+      "Batimentos mais lentos e tontura: avise se houver desmaio."
+    ]},
+    {"tipo": "texto", "titulo": "Planejar com antecedência", "texto": "Enquanto a pessoa consegue participar, é bom conversar sobre desejos de cuidado, finanças e documentos. Isso protege a pessoa e evita conflitos na família depois."}
+   ],
+   "ajuda": [
+    "Confusão que piora de repente, em horas ou dias (pode ser infecção ou efeito de remédio).",
+    "Queda com batida na cabeça.",
+    "Desmaio ou batimentos muito lentos."
+   ],
+   "fonte": "Academia Brasileira de Neurologia 2022; NICE NG97"
+  },
+  {
+   "id": "comunicacao-na-demencia",
+   "titulo": "Como conversar com quem tem demência",
+   "subtitulo": "Comunicação que acalma e preserva a dignidade",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que muda", "texto": "Na demência, a pessoa tem mais dificuldade de achar palavras, entender frases longas e lembrar o que foi dito. Mas as **emoções continuam**: ela percebe o tom de voz, a pressa e a impaciência. Uma boa comunicação evita muitos conflitos."},
+    {"tipo": "fazer", "titulo": "Faça e evite", "sim": [
+      "Aproxime-se de frente, chame pelo nome e diga quem você é.",
+      "Fale devagar, com frases curtas e uma ideia por vez.",
+      "Faça perguntas de sim ou não, ou dê duas opções.",
+      "Espere a resposta com paciência.",
+      "Use gestos, mostre o objeto, toque com carinho se ela gostar.",
+      "Entre no mundo dela: responda ao sentimento, não ao fato."
+    ], "nao": [
+      "Discutir ou corrigir o tempo todo.",
+      "Perguntar \"Você não lembra?\"",
+      "Falar dela como se não estivesse presente.",
+      "Falar como se fosse com uma criança.",
+      "Conversar com TV ligada e muito barulho."
+    ]},
+    {"tipo": "tabela", "titulo": "Exemplos", "colunas": ["Situação", "Em vez de", "Tente"], "linhas": [
+      ["Pergunta pela mãe que já faleceu", "\"Sua mãe morreu há 20 anos.\"", "\"Você está com saudade dela? Me conta como ela era.\""],
+      ["Quer ir para casa estando em casa", "\"Você já está em casa!\"", "\"Aqui você está seguro. Vamos tomar um café enquanto isso?\""],
+      ["Repete a mesma pergunta", "\"Já falei cinco vezes!\"", "Responda com calma de novo, ou escreva a resposta num papel visível."],
+      ["Acusa alguém de roubo", "\"Ninguém pegou nada!\"", "\"Que chato perder isso. Vamos procurar juntos.\""]
+    ]},
+    {"tipo": "destaque", "titulo": "A regra de ouro", "texto": "Você não vai ganhar uma discussão com a doença. Acolher o sentimento funciona melhor do que convencer."}
+   ],
+   "fonte": "NICE NG97; Academia Brasileira de Neurologia 2022"
+  },
+  {
+   "id": "seguranca-em-casa",
+   "titulo": "Segurança em casa",
+   "subtitulo": "Adaptações simples para prevenir acidentes",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "checklist", "titulo": "Quedas", "itens": [
+      "Retirar tapetes soltos e fios do caminho.",
+      "Boa iluminação, com luz noturna no caminho do banheiro.",
+      "Barras de apoio no banheiro e piso antiderrapante.",
+      "Calçados fechados e firmes.",
+      "Cadeira no banho, se necessário."
+    ]},
+    {"tipo": "checklist", "titulo": "Cozinha e objetos perigosos", "itens": [
+      "Fechar o registro do gás ou usar válvula de segurança.",
+      "Guardar facas, produtos de limpeza e ferramentas.",
+      "Retirar ou proteger armas de fogo da casa.",
+      "Guardar remédios trancados; a família organiza as doses em caixinha."
+    ]},
+    {"tipo": "checklist", "titulo": "Sair e se perder", "itens": [
+      "Pulseira ou cartão com nome, diagnóstico e telefone da família.",
+      "Fotografia recente à mão.",
+      "Trancas ou sinetas nas portas de saída.",
+      "Avisar vizinhos e porteiros.",
+      "Conversar com o médico sobre dirigir: com a doença, dirigir fica perigoso."
+    ]},
+    {"tipo": "checklist", "titulo": "Dinheiro e golpes", "itens": [
+      "Limitar o acesso a cartões e senhas.",
+      "Acompanhar extratos bancários.",
+      "Orientar sobre golpes por telefone e na porta."
+    ]},
+    {"tipo": "anotar", "titulo": "Telefones importantes", "texto": "Família, médico, UBS, vizinho de confiança:", "linhas_vazias": 5}
+   ],
+   "ajuda": [
+    "Pessoa desaparecida: avise a polícia imediatamente, não é preciso esperar 24 horas.",
+    "Queda com dor forte, deformidade ou batida na cabeça.",
+    "Ingestão de remédios ou produtos em excesso."
+   ],
+   "fonte": "NICE NG97"
+  },
+  {
+   "id": "cuidar-do-cuidador",
+   "titulo": "Cuidar de quem cuida",
+   "subtitulo": "Você também precisa de cuidado",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que isso importa", "texto": "Cuidar de alguém com demência é um trabalho longo, que exige muito do corpo e das emoções. É comum sentir cansaço, culpa, raiva, tristeza e solidão. Esses sentimentos **não fazem de você uma pessoa ruim**.\n\nOs estudos mostram que cuidadores que recebem orientação e apoio conseguem cuidar melhor e por mais tempo em casa, e adoecem menos."},
+    {"tipo": "semaforo", "titulo": "Como você está?", "verde": [
+      "Consigo dormir, comer e ter algum momento para mim.",
+      "Tenho com quem dividir as tarefas."
+    ], "amarelo": [
+      "Estou sempre cansado e irritado.",
+      "Deixei meus remédios, consultas e amigos de lado.",
+      "Sinto culpa por qualquer descanso."
+    ], "vermelho": [
+      "Perco o controle, grito ou tenho vontade de machucar a pessoa.",
+      "Me sinto sem saída, sem esperança ou penso em morrer.",
+      "Não consigo mais dar conta da segurança da pessoa."
+    ]},
+    {"tipo": "checklist", "titulo": "Passos que ajudam", "itens": [
+      "Dividir tarefas com outros familiares, por escrito.",
+      "Ter pelo menos um período livre por semana.",
+      "Procurar a UBS, o CRAS ou centros-dia da sua cidade para apoio.",
+      "Participar de grupos de apoio para familiares.",
+      "Cuidar da própria saúde: consultas, sono, exercício.",
+      "Aprender sobre a doença: entender reduz o estresse."
+    ]},
+    {"tipo": "anotar", "titulo": "Quem pode me ajudar", "texto": "Nomes, telefones e em que cada um pode ajudar:", "linhas_vazias": 5}
+   ],
+   "ajuda": [
+    "Pensamentos de morte ou de se machucar: procure ajuda hoje (CVV 188).",
+    "Medo de machucar a pessoa de quem cuida."
+   ],
+   "fonte": "NICE NG97; Academia Brasileira de Neurologia 2022"
+  }
+ ],
+ "Agitação na demência": [
+  {
+   "id": "agitacao-abordagem-dice",
+   "titulo": "Agitação na demência: abordagem DICE",
+   "subtitulo": "Entender e reduzir a agitação sem remédio",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Agitação é um recado", "texto": "Andar sem parar, gritar, empurrar ou recusar o banho são comportamentos comuns na demência. Muitas vezes são a forma que a pessoa encontra de dizer que **alguma necessidade não está sendo atendida**: dor, fome, vontade de ir ao banheiro, frio, medo, tédio ou excesso de estímulo.\n\nA abordagem **DICE** é um roteiro em quatro passos, usado por equipes do mundo todo, para descobrir a causa e agir."},
+    {"tipo": "passos", "titulo": "Os 4 passos", "itens": [
+      "**D de Descrever**: o que exatamente aconteceu? Quando, onde, com quem, o que veio antes e depois? Use o diário abaixo.",
+      "**I de Investigar**: procure causas. Dor (dente, articulação, intestino preso), infecção urinária, sono ruim, remédio novo, fome, calor, barulho, cuidado feito com pressa, tédio.",
+      "**C de Criar um plano**: trate a causa e mude o ambiente ou a forma de cuidar. Leve o diário ao médico.",
+      "**E de Avaliar** (do inglês evaluate): o plano funcionou? Se não, volte ao primeiro passo."
+    ]},
+    {"tipo": "fazer", "titulo": "Estratégias que costumam ajudar", "sim": [
+      "Rotina previsível e atividades de que a pessoa gosta (música, dobrar roupa, fotos antigas).",
+      "Caminhadas e luz do dia.",
+      "Na hora do banho: explicar cada passo, manter a pessoa coberta, ambiente aquecido, tentar em outro horário.",
+      "Diminuir barulho e agitação no fim da tarde.",
+      "Se a agitação começar, mudar de assunto e oferecer algo agradável."
+    ], "nao": [
+      "Discutir, segurar à força ou repreender.",
+      "Insistir quando ela recusa: afaste-se e tente em 15 minutos.",
+      "Dar calmante por conta própria."
+    ]},
+    {"tipo": "tabela", "titulo": "Diário da agitação", "colunas": ["Data e hora", "O que aconteceu antes", "Comportamento", "O que ajudou", "Dor? Evacuou? Dormiu?"], "linhas_vazias": 7}
+   ],
+   "ajuda": [
+    "Agitação ou confusão que surgiu de repente, em horas ou dias: pode ser infecção ou delirium.",
+    "Febre, queda, dor forte ou parar de urinar.",
+    "Risco sério de a pessoa ferir a si mesma ou a outros."
+   ],
+   "fonte": "Kales e colaboradores (DICE) 2014; NICE NG97; APA 2016"
+  },
+  {
+   "id": "remedios-para-agitacao",
+   "titulo": "Remédios para agitação: o que a família precisa saber",
+   "subtitulo": "Quando usar, riscos e por quanto tempo",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Remédio não é o primeiro passo", "texto": "Antes de qualquer remédio, a equipe deve procurar dor, infecção e outras causas, e tentar as estratégias da abordagem DICE. Tratar a dor com analgésico regular, por exemplo, já reduz a agitação em muitas pessoas."},
+    {"tipo": "lista", "titulo": "Opções quando o remédio é necessário", "itens": [
+      "Para agitação que persiste sem risco imediato, o médico pode tentar um antidepressivo (como citalopram ou escitalopram) ou trazodona se houver insônia. O efeito leva semanas.",
+      "Para agressividade intensa ou quando a pessoa vê ou ouve coisas que a deixam muito angustiada, pode ser usado um **antipsicótico** (como risperidona) em dose baixa e por pouco tempo."
+    ]},
+    {"tipo": "destaque", "titulo": "Riscos dos antipsicóticos", "texto": "Na demência, os antipsicóticos ajudam pouco e **aumentam o risco de AVC, quedas, pneumonia e morte**. Por isso são usados na menor dose, pelo menor tempo (em geral de 6 a 12 semanas), com tentativa de retirada planejada."},
+    {"tipo": "checklist", "titulo": "Perguntas para levar à consulta", "itens": [
+      "Qual comportamento esse remédio vai tratar?",
+      "Já investigamos dor, infecção e intestino?",
+      "Quanto tempo até ver resultado?",
+      "Quando vamos tentar diminuir ou parar?",
+      "Que efeitos colaterais devo observar?"
+    ]},
+    {"tipo": "fazer", "titulo": "Cuidados", "sim": [
+      "Anote a agitação antes e depois de começar.",
+      "Observe sonolência, tropeços e engasgos."
+    ], "nao": [
+      "Dar calmantes ou remédios para dormir por conta própria: pioram a confusão e as quedas.",
+      "Aceitar antipsicótico por meses sem reavaliação."
+    ]}
+   ],
+   "ajuda": [
+    "Sonolência excessiva, rigidez, febre ou dificuldade para engolir.",
+    "Fraqueza de um lado do corpo, boca torta ou fala enrolada (sinais de AVC): ligue 192."
+   ],
+   "fonte": "APA 2016; NICE NG97; IPA 2023"
+  }
+ ],
+ "Demência com corpos de Lewy": [
+  {
+   "id": "o-que-e-lewy",
+   "titulo": "Demência com corpos de Lewy: o que é",
+   "subtitulo": "Uma demência com sintomas que vão e voltam",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "É um tipo de demência causado pelo acúmulo de uma proteína (os chamados corpos de Lewy) em áreas do cérebro ligadas à atenção, à visão e ao movimento. É parente próxima da doença de Parkinson."},
+    {"tipo": "lista", "titulo": "Sinais característicos", "itens": [
+      "**Flutuações**: dias ou horas bons e ruins, com momentos de muita confusão ou sonolência e outros quase normais.",
+      "**Alucinações visuais**: ver pessoas, crianças ou animais que não estão ali, com muitos detalhes.",
+      "**Sinais de Parkinson**: lentidão, rigidez, tremor, passos curtos.",
+      "**Agitação durante o sono**: falar, gritar, dar socos ou chutes enquanto sonha. Pode começar anos antes da demência.",
+      "Pressão que cai ao levantar, intestino preso, desmaios, quedas."
+    ]},
+    {"tipo": "lista", "titulo": "Como se trata", "itens": [
+      "Rivastigmina ou donepezila ajudam a atenção, as flutuações e as alucinações, muitas vezes mais do que no Alzheimer.",
+      "Para os movimentos, levodopa em dose baixa, com cuidado, pois pode aumentar alucinações.",
+      "Para o sono agitado, melatonina e um quarto seguro.",
+      "Fisioterapia e prevenção de quedas."
+    ]},
+    {"tipo": "destaque", "titulo": "Muito importante", "texto": "Pessoas com corpos de Lewy podem ter **reações graves a antipsicóticos** como haloperidol. Leve sempre o cartão de alerta."},
+    {"tipo": "fazer", "titulo": "Alucinações", "sim": [
+      "Se a alucinação não assusta, não é preciso discutir.",
+      "Acenda a luz e reduza sombras e reflexos.",
+      "Ofereça conforto e distração."
+    ], "nao": [
+      "Brigar ou tentar provar que não existe.",
+      "Pedir calmante em pronto-socorro sem avisar o diagnóstico."
+    ]}
+   ],
+   "ajuda": [
+    "Piora rápida da confusão ou sonolência que não passa.",
+    "Queda com batida na cabeça ou desmaio."
+   ],
+   "fonte": "Consórcio DLB (McKeith 2017); NICE NG97"
+  },
+  {
+   "id": "cartao-alerta-antipsicoticos",
+   "titulo": "Cartão de alerta: sensibilidade a antipsicóticos",
+   "subtitulo": "Recorte e leve sempre na carteira",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que ter este cartão", "texto": "Na demência com corpos de Lewy, alguns remédios usados em hospitais para acalmar ou para enjoo podem causar **reação grave**: rigidez intensa, sonolência profunda, confusão, quedas e até risco de vida. Isso pode acontecer mesmo com dose pequena.\n\nEm pronto-socorro, internação ou cirurgia, a equipe nem sempre sabe do diagnóstico. Mostre este cartão."},
+    {"tipo": "destaque", "titulo": "ALERTA MÉDICO", "texto": "Esta pessoa tem **demência com corpos de Lewy** e pode ter sensibilidade grave a antipsicóticos. **Evitar haloperidol e outros antipsicóticos típicos, risperidona, e antieméticos antidopaminérgicos (metoclopramida, bromoprida)**. Se um antipsicótico for inevitável, discutir com o médico assistente; quetiapina ou clozapina em dose mínima são as opções usadas com mais cautela."},
+    {"tipo": "tabela", "titulo": "Dados do cartão", "colunas": ["Informação", "Preencher"], "linhas": [
+      ["Nome", ""],
+      ["Data de nascimento", ""],
+      ["Remédios em uso", ""],
+      ["Médico assistente e telefone", ""],
+      ["Familiar responsável e telefone", ""]
+    ]},
+    {"tipo": "checklist", "titulo": "Onde avisar", "itens": [
+      "Cópia na carteira da pessoa e do cuidador.",
+      "Foto no celular do cuidador.",
+      "Cópia colada na geladeira ou junto dos remédios.",
+      "Avisar o dentista, o hospital e a instituição de longa permanência, se houver."
+    ]}
+   ],
+   "ajuda": [
+    "Após receber remédio em hospital: rigidez forte, febre, sonolência profunda ou dificuldade para engolir."
+   ],
+   "fonte": "Consórcio DLB (McKeith 2017); NICE NG97"
+  },
+  {
+   "id": "quedas-e-pressao-baixa",
+   "titulo": "Prevenir quedas nos corpos de Lewy",
+   "subtitulo": "Pressão baixa ao levantar, rigidez e sono agitado",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "Por que as quedas são comuns", "texto": "Na demência com corpos de Lewy, a pessoa pode cair por vários motivos juntos: **passos curtos e desequilíbrio**, **pressão que cai ao ficar de pé** (causando tontura ou desmaio), momentos de confusão e movimentos bruscos durante o sono."},
+    {"tipo": "passos", "titulo": "Levantar com segurança", "itens": [
+      "Antes de levantar da cama, sentar na beirada por 1 a 2 minutos.",
+      "Mexer os pés e as pernas algumas vezes.",
+      "Levantar devagar, apoiando-se em algo firme.",
+      "Se sentir tontura, sentar de novo imediatamente."
+    ]},
+    {"tipo": "checklist", "titulo": "Em casa", "itens": [
+      "Beber água ao longo do dia, salvo orientação diferente do médico.",
+      "Evitar banhos muito quentes e refeições muito grandes.",
+      "Barras de apoio, luz noturna, caminho livre.",
+      "Andador ou bengala, se indicado pela fisioterapia.",
+      "Fisioterapia para equilíbrio e força.",
+      "Quarto seguro para o sono agitado: cama baixa, sem objetos cortantes ao lado, afastar a cama da janela.",
+      "Revisar com o médico remédios que baixam a pressão ou dão sono."
+    ]},
+    {"tipo": "tabela", "titulo": "Registro de quedas e tonturas", "colunas": ["Data e hora", "O que estava fazendo", "Tontura antes?", "Machucou?"], "linhas_vazias": 6}
+   ],
+   "ajuda": [
+    "Queda com batida na cabeça, dor forte ou incapacidade de apoiar o peso.",
+    "Desmaio com demora para acordar."
+   ],
+   "fonte": "Consórcio DLB (McKeith 2017); NICE NG97"
+  }
+ ],
+ "Apatia": [
+  {
+   "id": "o-que-e-apatia",
+   "titulo": "Apatia: quando falta iniciativa",
+   "subtitulo": "Entender a falta de motivação na demência e em outras doenças do cérebro",
+   "publico": "Família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "Apatia é a **perda da motivação e da iniciativa**. A pessoa deixa de fazer por conta própria coisas que fazia antes, fica muito tempo parada, conversa pouco e parece indiferente. É muito comum na doença de Alzheimer e aparece também após AVC, traumatismo craniano, na doença de Parkinson e em outras demências.\n\nApatia **não é preguiça nem falta de amor pela família**. É um sintoma causado pela doença em áreas do cérebro que dão a partida para as ações."},
+    {"tipo": "tabela", "titulo": "Apatia ou depressão?", "texto": "As duas podem se parecer e também aparecer juntas. A equipe vai ajudar a diferenciar.", "colunas": ["Apatia", "Depressão"], "linhas": [
+      ["Falta de iniciativa, mas sem tristeza marcante", "Tristeza, choro, desânimo"],
+      ["A pessoa não se incomoda com a própria parada", "A pessoa sofre com o que sente"],
+      ["Quando estimulada, costuma participar e até gostar", "Mesmo estimulada, tem pouco prazer"],
+      ["Sem culpa ou desesperança", "Culpa, desesperança, às vezes pensamentos de morte"]
+    ]},
+    {"tipo": "lista", "titulo": "Como se trata", "itens": [
+      "Primeiro, revisar causas que pioram: remédios que dão sono ou apatia (alguns antidepressivos, antipsicóticos, calmantes), dor, audição e visão ruins, tireoide.",
+      "Atividades estruturadas e estímulo diário (veja abaixo).",
+      "Em alguns casos o médico pode indicar remédio, como o metilfenidato, que tem os melhores estudos na doença de Alzheimer."
+    ]},
+    {"tipo": "fazer", "titulo": "Como ajudar", "sim": [
+      "Convide com uma proposta concreta: \"Vamos regar as plantas agora?\" em vez de \"Quer fazer alguma coisa?\"",
+      "Comece a atividade junto; muitas vezes a pessoa continua sozinha.",
+      "Escolha atividades de que ela gostava e que tenham sentido.",
+      "Crie rotina com horários fixos para atividades.",
+      "Elogie a participação."
+    ], "nao": [
+      "Acusar de preguiça ou de não se esforçar.",
+      "Esperar que a pessoa tome a iniciativa sozinha.",
+      "Fazer tudo por ela: mantenha o que ela ainda consegue fazer."
+    ]}
+   ],
+   "ajuda": [
+    "Fala de morte, desesperança ou deixa de comer e beber.",
+    "Sonolência ou confusão que surgiu de repente."
+   ],
+   "fonte": "Critérios de apatia (Robert e colaboradores 2018); NICE NG97"
+  },
+  {
+   "id": "plano-de-atividades",
+   "titulo": "Plano semanal de atividades",
+   "subtitulo": "Pequenas atividades que dão sentido ao dia",
+   "publico": "Família",
+   "figura": "rotina-dia",
+   "blocos": [
+    {"tipo": "lista", "titulo": "Ideias de atividades", "itens": [
+      "**Movimento**: caminhar, alongar, dançar uma música antiga.",
+      "**Casa**: dobrar roupas, descascar legumes, regar plantas, pôr a mesa.",
+      "**Lembranças**: ver fotos, ouvir músicas da juventude, contar histórias.",
+      "**Convívio**: receber visitas curtas, telefonar para parentes, ir à igreja ou ao centro de convivência.",
+      "**Mente**: jogos simples, palavras cruzadas fáceis, montar quebra-cabeça grande."
+    ]},
+    {"tipo": "tabela", "titulo": "Meu plano da semana", "texto": "Planeje uma atividade de manhã e uma à tarde. Marque se foi feita e se a pessoa pareceu gostar.", "colunas": ["Dia", "Manhã", "Tarde", "Participou? Gostou?"], "linhas": [["Segunda", "", "", ""], ["Terça", "", "", ""], ["Quarta", "", "", ""], ["Quinta", "", "", ""], ["Sexta", "", "", ""], ["Sábado", "", "", ""], ["Domingo", "", "", ""]]},
+    {"tipo": "destaque", "titulo": "Dica", "texto": "O objetivo não é fazer bem feito, e sim participar. Dez minutos de atividade com sentido valem mais que horas diante da TV."}
+   ],
+   "fonte": "NICE NG97"
+  }
+ ],
+ "Demência vascular": [
+  {
+   "id": "o-que-e-demencia-vascular",
+   "titulo": "Demência vascular: o que é e como se trata",
+   "subtitulo": "Quando a circulação do cérebro afeta a memória e o raciocínio",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "texto", "titulo": "O que é", "texto": "A demência vascular acontece quando a circulação de sangue no cérebro é prejudicada, por um ou vários AVCs (derrames) ou por lesões nos pequenos vasos, que vão se acumulando com os anos. Pressão alta, diabetes, colesterol alto e cigarro são as principais causas.\n\nÉ comum aparecer junto com a doença de Alzheimer, principalmente depois dos 80 anos (demência mista)."},
+    {"tipo": "lista", "titulo": "Sinais mais comuns", "itens": [
+      "Lentidão para pensar e para responder.",
+      "Dificuldade para planejar, organizar e resolver problemas.",
+      "Atenção ruim; a memória pode estar menos afetada no começo.",
+      "Mudanças no jeito de andar, passos curtos, quedas.",
+      "Urgência para urinar ou perda de urina.",
+      "Mudanças de humor: apatia, tristeza, choro fácil.",
+      "Piora em degraus depois de um novo AVC, ou piora lenta e gradual."
+    ]},
+    {"tipo": "texto", "titulo": "Como se trata", "texto": "O tratamento mais importante é **proteger o cérebro de novas lesões**, controlando os fatores de risco (veja a ficha própria). Remédios para a memória, como donepezila e memantina, têm efeito pequeno e são mais úteis quando há Alzheimer junto. Fisioterapia, atividade física, convívio social e tratamento da depressão, quando presente, ajudam a manter a independência."},
+    {"tipo": "destaque", "titulo": "Esperança realista", "texto": "Não há cura, mas controlar a pressão, o diabetes e o colesterol pode ajudar a frear a piora."}
+   ],
+   "ajuda": [
+    "Sinais de AVC: boca torta, fraqueza ou dormência de um lado, fala enrolada, perda de visão, tontura forte. Ligue 192 na hora: cada minuto conta.",
+    "Confusão que piora de repente."
+   ],
+   "fonte": "DSM-5-TR; VASCOG 2014; NICE NG97"
+  },
+  {
+   "id": "proteger-o-cerebro",
+   "titulo": "Proteger o cérebro: fatores de risco",
+   "subtitulo": "Metas para evitar novos AVCs e frear a piora",
+   "publico": "Paciente e família",
+   "blocos": [
+    {"tipo": "checklist", "titulo": "Minhas metas", "itens": [
+      "Tomar os remédios de pressão, diabetes, colesterol e os que afinam o sangue todos os dias, como prescrito.",
+      "Medir a pressão regularmente (na UBS ou em casa) e anotar.",
+      "Parar de fumar: o SUS oferece tratamento gratuito pelo Programa Nacional de Controle do Tabagismo.",
+      "Evitar ou reduzir bebida alcoólica.",
+      "Comer menos sal, açúcar e frituras; mais verduras, frutas, legumes e feijão.",
+      "Caminhar ou fazer atividade física, conforme orientação.",
+      "Manter consultas de rotina na UBS."
+    ]},
+    {"tipo": "tabela", "titulo": "Registro da pressão", "texto": "Meça sentado, após 5 minutos de descanso. Leve à consulta.", "colunas": ["Data", "Horário", "Pressão", "Glicemia (se diabético)", "Observação"], "linhas_vazias": 8},
+    {"tipo": "fazer", "titulo": "Remédios", "sim": [
+      "Use caixinha organizadora de comprimidos, montada por um familiar se necessário.",
+      "Leve todos os remédios (inclusive naturais) às consultas."
+    ], "nao": [
+      "Parar remédio de pressão porque a pressão ficou normal: é justamente o remédio que a mantém normal.",
+      "Tomar remédios para dormir ou calmantes sem orientação."
+    ]}
+   ],
+   "ajuda": [
+    "Sinais de AVC (boca torta, fraqueza de um lado, fala enrolada): ligue 192 imediatamente.",
+    "Pressão muito alta com dor de cabeça forte, dor no peito ou falta de ar."
+   ],
+   "fonte": "NICE NG97; VASCOG 2014"
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+"haloperidol": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia e outros transtornos psicóticos", "s": "a", "e": "A", "p": "2", "d": "2 a 10 mg/dia", "t": "Eficácia comparável aos atípicos, com mais EPS e discinesia tardia; útil quando o risco metabólico é o problema principal."},
+ {"g": "Agitação", "c": "Agitação psicótica aguda (IM)", "s": "a", "e": "A", "p": "1", "d": "5 mg IM com prometazina 50 mg ou midazolam", "t": "Haloperidol isolado causa distonia em até 6 a 10%; associar prometazina reduz esse risco."},
+ {"g": "Mania", "c": "Mania aguda", "s": "a", "e": "A", "p": "2", "t": "Eficácia rápida na mania (Cipriani 2011: entre os mais eficazes), com mais EPS."},
+ {"g": "Tiques e Tourette", "c": "Síndrome de Tourette", "s": "a", "e": "A", "p": "2", "d": "0,5 a 4 mg/dia", "t": "Eficaz, mas aripiprazol e risperidona são preferidos pela tolerabilidade."},
+ {"g": "Delirium", "c": "Delirium hiperativo com risco", "s": "o", "e": "B", "p": "S", "d": "0,5 a 2 mg", "t": "Não previne nem encurta o delirium (AID-ICU, REDUCE); usar apenas para agitação perigosa, por curto prazo, após tratar a causa."},
+ {"g": "Náusea e vômitos", "c": "Náusea e vômitos em cuidados paliativos", "s": "o", "e": "B", "p": "1", "d": "0,5 a 2 mg/dia", "t": "Antiemético de escolha em náuseas de causa metabólica ou por opioides."},
+ {"g": "Outros", "c": "Soluços intratáveis", "s": "o", "e": "C", "p": "A"},
+ {"g": "Outros", "c": "Coreia de Huntington", "s": "o", "e": "B", "p": "2", "t": "Alternativa a inibidores de VMAT2 quando há psicose ou irritabilidade."}
+],
+"flufenazina": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "2", "d": "2,5 a 20 mg/dia", "t": "Alta potência; oral útil para testar tolerância antes do decanoato."},
+ {"g": "Tiques e Tourette", "c": "Tiques", "s": "o", "e": "C", "p": "2", "t": "Alternativa de baixo custo."}
+],
+"zuclopentixol": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "B", "p": "2", "d": "10 a 50 mg/dia"},
+ {"g": "Mania", "c": "Mania", "s": "a", "e": "B", "p": "2"},
+ {"g": "Impulsividade e agressividade", "c": "Agressividade na deficiência intelectual", "s": "o", "e": "C", "p": "A", "t": "Usado na prática europeia; revisão Cochrane com evidência limitada."}
+],
+"penfluridol": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia crônica com baixa adesão", "s": "a", "e": "B", "p": "A", "d": "20 a 60 mg uma vez por semana", "t": "Alternativa oral semanal ao depósito."},
+ {"g": "Tiques e Tourette", "c": "Síndrome de Tourette", "s": "o", "e": "C", "p": "U"}
+],
+"clorpromazina": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "2", "d": "200 a 800 mg/dia", "t": "Referência histórica; efeitos sedativos, hipotensores e anticolinérgicos limitam."},
+ {"g": "Agitação", "c": "Agitação", "s": "a", "e": "B", "p": "A", "t": "Sedativa, mas hipotensão IM é um problema; preferir outros esquemas."},
+ {"g": "Mania", "c": "Mania", "s": "a", "e": "B", "p": "2"},
+ {"g": "Outros", "c": "Soluços intratáveis", "s": "a", "e": "C", "p": "1", "d": "25 a 50 mg três a quatro vezes ao dia"},
+ {"g": "Náusea e vômitos", "c": "Náusea e vômitos", "s": "a", "e": "B", "p": "2"},
+ {"g": "Outros", "c": "Tétano e porfiria aguda intermitente", "s": "a", "e": "C", "p": "A", "t": "Historicamente usada na porfiria por ser segura."}
+],
+"levomepromazina": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "B", "p": "U"},
+ {"g": "Dor crônica", "c": "Dor em cuidados paliativos", "s": "a", "e": "C", "p": "S", "t": "Efeito analgésico próprio; útil em dor oncológica com agitação."},
+ {"g": "Náusea e vômitos", "c": "Náusea refratária em cuidados paliativos", "s": "o", "e": "B", "p": "2", "d": "6,25 a 25 mg/dia", "t": "Antiemético de largo espectro para náuseas de causa múltipla."},
+ {"g": "Agitação", "c": "Agitação terminal e delirium em fim de vida", "s": "o", "e": "C", "p": "A"},
+ {"g": "Insônia", "c": "Insônia", "s": "o", "e": "D", "p": "X", "t": "Uso comum no Brasil, porém com hipotensão, quedas, carga anticolinérgica e interações pelo CYP2D6."}
+],
+"periciazina": [
+ {"g": "Impulsividade e agressividade", "c": "Impulsividade, agressividade e distúrbios de conduta", "s": "a", "e": "C", "p": "A", "t": "Tradicional no Brasil em crianças e deficiência intelectual; evidência escassa comparada a risperidona e aripiprazol."},
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "C", "p": "U"}
+],
+"tioridazina": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia refratária a outras opções", "s": "a", "e": "B", "p": "U", "t": "Restrita pelo risco de QT e retinopatia."}
+],
+"sulpirida": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "B", "p": "2", "d": "400 a 1.600 mg/dia"},
+ {"g": "Depressão", "c": "Distimia e depressão leve (doses baixas)", "s": "a", "e": "C", "p": "A", "d": "50 a 150 mg/dia", "t": "Efeito ativador pelo bloqueio de autorreceptores; hiperprolactinemia é a regra."},
+ {"g": "Esquizofrenia resistente", "c": "Potencialização da clozapina", "s": "o", "e": "C", "p": "P", "t": "Ensaio pequeno (Shiloh 1997) positivo; amissulprida tem melhor evidência."},
+ {"g": "Outros", "c": "Vertigem", "s": "a", "e": "D", "p": "X", "t": "Uso prolongado para tontura expõe a discinesia tardia e hiperprolactinemia sem benefício claro."}
+],
+"risperidona": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "1", "d": "2 a 6 mg/dia", "t": "Entre os mais eficazes em metanálises (Huhn 2019); primeiro episódio responde a 2 a 4 mg."},
+ {"g": "Mania", "c": "Mania aguda, isolada ou com estabilizador", "s": "a", "e": "A", "p": "1", "d": "2 a 6 mg/dia"},
+ {"g": "Irritabilidade no TEA", "c": "Irritabilidade no autismo (a partir de 5 anos)", "s": "a", "e": "A", "p": "1", "d": "0,5 a 3 mg/dia", "t": "Estudo RUPP: redução de cerca de 57% da irritabilidade; ganho de peso e prolactina exigem monitorização."},
+ {"g": "Impulsividade e agressividade", "c": "Transtornos de conduta e agressividade na deficiência intelectual", "s": "a", "e": "B", "p": "1", "d": "0,5 a 3 mg/dia", "t": "Aprovada no Brasil para transtornos de conduta em crianças; associar intervenções comportamentais."},
+ {"g": "Agitação na demência", "c": "Agressividade persistente na demência de Alzheimer", "s": "a", "e": "B", "p": "2", "d": "0,25 a 1 mg/dia, até 6 semanas", "t": "Único antipsicótico aprovado na Europa para essa indicação, por curto prazo; aumenta mortalidade e AVC."},
+ {"g": "Agitação", "c": "Agitação psicótica (solução ou orodispersível)", "s": "a", "e": "A", "p": "1", "d": "2 mg VO, com ou sem lorazepam"},
+ {"g": "Tiques e Tourette", "c": "Síndrome de Tourette", "s": "o", "e": "A", "p": "1", "d": "0,5 a 3 mg/dia", "t": "Eficácia semelhante à do haloperidol com menos EPS."},
+ {"g": "TOC", "c": "Potencialização de ISRS no TOC", "s": "o", "e": "A", "p": "P", "d": "0,5 a 2 mg/dia", "t": "Adjuvante de primeira linha no CANMAT 2014 e estratégia de potencialização com melhor evidência no TOC resistente (Bloch 2006); cerca de um terço responde. Benefício maior com tiques comórbidos."},
+ {"g": "TEPT", "c": "Potencialização no TEPT", "s": "o", "e": "B", "p": "X", "t": "Ensaio grande com veteranos (Krystal 2011) negativo."},
+ {"g": "Delirium", "c": "Delirium hiperativo", "s": "o", "e": "C", "p": "S", "t": "Em cuidados paliativos, risperidona e haloperidol pioraram o delirium em relação a placebo (Agar 2017)."},
+ {"g": "TPB (borderline)", "c": "Sintomas cognitivo-perceptivos no TPB", "s": "o", "e": "C", "p": "S", "t": "Estudo aberto; antipsicóticos em dose baixa podem ajudar em sintomas psicóticos transitórios e raiva."}
+],
+"paliperidona": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "1", "d": "3 a 12 mg/dia"},
+ {"g": "Transtorno esquizoafetivo", "c": "Transtorno esquizoafetivo", "s": "a", "e": "A", "p": "1", "t": "Aprovada em monoterapia e associada a estabilizador ou antidepressivo."}
+],
+"olanzapina": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "2", "d": "10 a 20 mg/dia", "t": "Um dos mais eficazes e com menor abandono (CATIE), mas com o pior perfil metabólico depois da clozapina."},
+ {"g": "Esquizofrenia resistente", "c": "Alternativa quando a clozapina não é possível", "s": "o", "e": "B", "p": "U", "d": "20 a 40 mg/dia", "t": "Doses altas tiveram resultados comparáveis à clozapina em alguns ensaios, com custo metabólico grande."},
+ {"g": "Mania", "c": "Mania aguda e episódio misto", "s": "a", "e": "A", "p": "2", "d": "10 a 20 mg/dia", "t": "Eficaz e rápida, inclusive nos episódios mistos. É segunda linha no CANMAT e ISBD 2018 pelo risco metabólico (primeira escolha no NICE); associada a lítio ou valproato em mania grave."},
+ {"g": "Manutenção bipolar", "c": "Prevenção de recaídas", "s": "a", "e": "A", "p": "2", "t": "Eficaz sobretudo contra mania; o risco metabólico pesa no longo prazo."},
+ {"g": "Agitação", "c": "Agitação aguda (IM ou orodispersível)", "s": "a", "e": "A", "p": "1", "d": "5 a 10 mg", "t": "Não associar benzodiazepínico parenteral na mesma hora."},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar, com fluoxetina", "s": "o", "e": "A", "p": "2", "t": "Combinação aprovada nos EUA."},
+ {"g": "Depressão psicótica", "c": "Depressão psicótica, com antidepressivo", "s": "o", "e": "A", "p": "1", "d": "5 a 20 mg/dia com sertralina", "t": "STOP-PD: olanzapina com sertralina superior à olanzapina isolada; manter o antipsicótico por pelo menos 4 meses após remissão reduz recaída (STOP-PD II)."},
+ {"g": "Anorexia nervosa", "c": "Anorexia nervosa", "s": "o", "e": "B", "p": "S", "d": "2,5 a 10 mg/dia", "t": "Ensaio de Attia (2019) mostrou ganho de peso modesto; não melhora cognição anoréxica. Usar como adjuvante."},
+ {"g": "Náusea e vômitos", "c": "Náusea e vômitos induzidos por quimioterapia", "s": "o", "e": "A", "p": "1", "d": "5 a 10 mg/dia", "t": "Recomendada em diretrizes de oncologia (esquemas altamente emetogênicos)."},
+ {"g": "Delirium", "c": "Delirium hiperativo", "s": "o", "e": "C", "p": "S"},
+ {"g": "TPB (borderline)", "c": "Raiva, impulsividade e sintomas psicóticos transitórios no TPB", "s": "o", "e": "B", "p": "S", "d": "2,5 a 10 mg/dia", "t": "Efeitos pequenos em ensaios (Zanarini 2011); ganho de peso pesa muito nessa população jovem."}
+],
+"quetiapina": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "2", "d": "400 a 800 mg/dia"},
+ {"g": "Mania", "c": "Mania aguda", "s": "a", "e": "A", "p": "1", "d": "400 a 800 mg/dia"},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar", "s": "a", "e": "A", "p": "1", "d": "300 mg/dia", "t": "Uma das opções de primeira linha no CANMAT; 300 mg é tão eficaz quanto 600 mg."},
+ {"g": "Manutenção bipolar", "c": "Prevenção de recaídas", "s": "a", "e": "A", "p": "1", "t": "Previne mania e depressão, isolada ou com lítio ou valproato."},
+ {"g": "Depressão resistente", "c": "Potencialização de antidepressivo (liberação prolongada)", "s": "a", "e": "A", "p": "P", "d": "150 a 300 mg/dia", "t": "Segunda linha no CANMAT 2023; 150 mg costuma ser tão eficaz quanto 300 mg. Sedação e ganho de peso limitam."},
+ {"g": "TAG", "c": "Transtorno de ansiedade generalizada", "s": "o", "e": "A", "p": "2", "d": "50 a 150 mg/dia", "t": "Segunda linha no CANMAT 2014 (liberação prolongada, 50 a 150 mg). Eficaz em ensaios, mas a FDA não aprovou pelo risco metabólico em uso prolongado."},
+ {"g": "Psicose no Parkinson", "c": "Psicose na doença de Parkinson e na demência com corpos de Lewy", "s": "o", "e": "C", "p": "1", "d": "12,5 a 100 mg/dia", "t": "Ensaios pouco conclusivos, mas preferida pela segurança motora quando a clozapina não é viável."},
+ {"g": "TPB (borderline)", "c": "Transtorno de personalidade borderline", "s": "o", "e": "B", "p": "S", "d": "150 mg/dia", "t": "Black 2014: 150 mg reduziu a gravidade global do TPB; 300 mg foi menos tolerada. Um dos poucos ensaios positivos na área."},
+ {"g": "Insônia", "c": "Insônia", "s": "o", "e": "C", "p": "X", "t": "Doses baixas agem como anti-histamínico, com risco metabólico e de síndrome das pernas inquietas; não recomendada como hipnótico."},
+ {"g": "Delirium", "c": "Delirium", "s": "o", "e": "C", "p": "S", "t": "Pequenos ensaios em UTI; útil quando se quer evitar EPS."}
+],
+"ziprasidona": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "2", "d": "80 a 160 mg/dia com refeição"},
+ {"g": "Mania", "c": "Mania aguda", "s": "a", "e": "A", "p": "2"},
+ {"g": "Manutenção bipolar", "c": "Manutenção associada a lítio ou valproato", "s": "a", "e": "B", "p": "2"},
+ {"g": "Agitação", "c": "Agitação (IM, em outros países)", "s": "a", "e": "A", "p": "2"}
+],
+"aripiprazol": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia (adultos e adolescentes)", "s": "a", "e": "A", "p": "1", "d": "10 a 30 mg/dia", "t": "Bom perfil metabólico e de prolactina; acatisia é o principal problema."},
+ {"g": "Mania", "c": "Mania aguda", "s": "a", "e": "A", "p": "1"},
+ {"g": "Manutenção bipolar", "c": "Prevenção de mania", "s": "a", "e": "A", "p": "1", "t": "Previne mania, com pouco efeito sobre recaídas depressivas."},
+ {"g": "Depressão resistente", "c": "Potencialização de antidepressivo", "s": "o", "e": "A", "p": "P", "d": "2 a 10 mg/dia", "t": "Adjuvante de primeira linha no CANMAT 2023 e aprovado nos EUA. No VAST-D, a potencialização com aripiprazol teve mais remissão que a troca para bupropiona. Doses de 2 a 5 mg costumam bastar e reduzem a acatisia."},
+ {"g": "Irritabilidade no TEA", "c": "Irritabilidade no autismo", "s": "o", "e": "A", "p": "1", "d": "2 a 15 mg/dia", "t": "Aprovado nos EUA a partir de 6 anos; menos ganho de peso e prolactina que a risperidona."},
+ {"g": "Tiques e Tourette", "c": "Síndrome de Tourette", "s": "o", "e": "A", "p": "1", "d": "2 a 10 mg/dia", "t": "Aprovado nos EUA; muitas diretrizes o colocam como primeira escolha farmacológica."},
+ {"g": "Hiperprolactinemia", "c": "Hiperprolactinemia por outro antipsicótico", "s": "o", "e": "A", "p": "1", "d": "5 mg/dia associado", "t": "Reduz a prolactina sem trocar o antipsicótico em uso."},
+ {"g": "Ganho de peso por psicofármacos", "c": "Redução de ganho de peso e dislipidemia associado à clozapina", "s": "o", "e": "B", "p": "P", "t": "Associado à clozapina reduziu peso e LDL em ensaio (Fleischhacker 2010)."},
+ {"g": "Esquizofrenia resistente", "c": "Potencialização da clozapina", "s": "o", "e": "B", "p": "P", "t": "Em estudos nacionais finlandeses (Tiihonen 2019), clozapina com aripiprazol teve o menor risco de reinternação."},
+ {"g": "TOC", "c": "Potencialização de ISRS no TOC", "s": "o", "e": "B", "p": "P", "d": "5 a 15 mg/dia", "t": "Adjuvante de primeira linha no CANMAT 2014; ensaios pequenos positivos."},
+ {"g": "TPB (borderline)", "c": "Impulsividade, raiva e instabilidade no TPB", "s": "o", "e": "B", "p": "S", "d": "15 mg/dia", "t": "Nickel 2006 positivo; o ensaio maior e mais recente com brexpiprazol também sugere benefício da classe."}
+],
+"brexpiprazol": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "1", "d": "2 a 4 mg/dia"},
+ {"g": "Depressão resistente", "c": "Potencialização de antidepressivo", "s": "a", "e": "A", "p": "P", "d": "1 a 3 mg/dia", "t": "Adjuvante de primeira linha no CANMAT 2023; menos acatisia que o aripiprazol."},
+ {"g": "Agitação na demência", "c": "Agitação na demência de Alzheimer", "s": "o", "e": "A", "p": "1", "d": "2 a 3 mg/dia", "t": "Primeiro fármaco aprovado pela FDA para essa indicação (2023), com o alerta de mortalidade da classe."},
+ {"g": "TEPT", "c": "TEPT, com sertralina", "s": "o", "e": "B", "p": "P", "t": "Resultados inconsistentes entre os ensaios de fase 3; sem aprovação para TEPT."},
+ {"g": "TPB (borderline)", "c": "Transtorno de personalidade borderline", "s": "o", "e": "B", "p": "S", "t": "Ensaio de fase 2 (Grant 2022) mostrou redução da gravidade dos sintomas."}
+],
+"cariprazina": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "o", "e": "A", "p": "1", "t": "Não comercializada no Brasil."},
+ {"g": "Sintomas negativos", "c": "Sintomas negativos predominantes", "s": "o", "e": "B", "p": "1", "d": "4,5 mg/dia", "t": "Superior à risperidona nos sintomas negativos primários (Németh 2017)."},
+ {"g": "Mania", "c": "Mania", "s": "o", "e": "A", "p": "1"},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar I", "s": "o", "e": "A", "p": "1", "d": "1,5 mg/dia", "t": "Aprovada nos EUA (1,5 a 3 mg). Era segunda linha no CANMAT e ISBD 2018 e foi elevada a primeira linha na atualização de 2023. Não comercializada no Brasil."},
+ {"g": "Depressão resistente", "c": "Potencialização de antidepressivo", "s": "o", "e": "B", "p": "P", "d": "1,5 mg/dia"}
+],
+"lurasidona": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia (adultos e adolescentes)", "s": "a", "e": "A", "p": "1", "d": "40 a 160 mg/dia com refeição"},
+ {"g": "Depressão bipolar", "c": "Depressão bipolar I (monoterapia ou com lítio ou valproato)", "s": "a", "e": "A", "p": "1", "d": "20 a 120 mg/dia", "t": "Aprovada também em adolescentes; bom perfil metabólico."},
+ {"g": "Depressão", "c": "Depressão com características mistas", "s": "o", "e": "B", "p": "A", "t": "Ensaio de Suppes 2016 positivo na depressão maior com sintomas mistos."}
+],
+"asenapina": [
+ {"g": "Mania", "c": "Mania aguda e episódio misto", "s": "a", "e": "A", "p": "1", "d": "5 a 10 mg sublingual duas vezes ao dia"},
+ {"g": "Manutenção bipolar", "c": "Manutenção", "s": "a", "e": "B", "p": "1", "t": "Primeira linha na manutenção pelo CANMAT e ISBD 2018, com base em estudo de prevenção de recorrências; menos experiência clínica que lítio e quetiapina."},
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "o", "e": "A", "p": "2"}
+],
+"amissulprida": [
+ {"g": "Esquizofrenia", "c": "Esquizofrenia", "s": "a", "e": "A", "p": "1", "d": "400 a 800 mg/dia", "t": "Entre os mais eficazes em metanálises; primeira escolha no estudo OPTiMiSE. Pouco efeito metabólico, muita prolactina."},
+ {"g": "Sintomas negativos", "c": "Sintomas negativos predominantes", "s": "a", "e": "A", "p": "1", "d": "50 a 300 mg/dia", "t": "Doses baixas têm eficácia demonstrada sobre sintomas negativos primários."},
+ {"g": "Esquizofrenia resistente", "c": "Potencialização da clozapina", "s": "o", "e": "B", "p": "P", "d": "400 a 800 mg/dia", "t": "Uma das potencializações com melhor evidência (Barnes 2017), inclusive em metanálises de associações."},
+ {"g": "Depressão", "c": "Distimia (dose baixa)", "s": "o", "e": "B", "p": "A", "d": "50 mg/dia", "t": "Aprovada em alguns países europeus para distimia."}
+],
+"clozapina": [
+ {"g": "Esquizofrenia resistente", "c": "Esquizofrenia resistente ao tratamento", "s": "a", "e": "A", "p": "1", "d": "200 a 450 mg/dia (clozapinemia acima de 350 ng/mL)", "t": "Única com eficácia superior na resistência (Kane 1988). Deve ser oferecida após duas tentativas adequadas; atrasos pioram o prognóstico."},
+ {"g": "Esquizofrenia", "c": "Redução do comportamento suicida na esquizofrenia e no esquizoafetivo", "s": "a", "e": "A", "p": "1", "t": "Estudo InterSePT: menos tentativas e internações por suicídio que olanzapina."},
+ {"g": "Psicose no Parkinson", "c": "Psicose na doença de Parkinson", "s": "a", "e": "A", "p": "1", "d": "6,25 a 50 mg/dia", "t": "Única com eficácia demonstrada em ensaios controlados sem piora motora."},
+ {"g": "Impulsividade e agressividade", "c": "Agressividade e violência persistentes na esquizofrenia", "s": "o", "e": "A", "p": "1", "t": "Superior à olanzapina e ao haloperidol na redução de agressividade (Krakowski 2006), com efeito parcialmente independente da psicose."},
+ {"g": "TPB (borderline)", "c": "Impulsividade grave e refratária, autolesão grave e repetida no TPB", "s": "o", "e": "C", "p": "U", "d": "25 a 200 mg/dia", "t": "Séries de casos e estudos abertos mostram redução de autolesões, contenções e internações em pacientes internados de longa permanência (Frogley 2013). Reservada a casos graves que falharam em psicoterapia estruturada e outros fármacos, com o mesmo monitoramento hematológico."},
+ {"g": "Mania", "c": "Transtorno bipolar e esquizoafetivo resistentes", "s": "o", "e": "B", "p": "U", "t": "Estudos abertos e um ensaio randomizado (Suppes 1999) mostram redução de recaídas e internações em bipolares refratários."},
+ {"g": "Discinesia tardia", "c": "Discinesia tardia grave", "s": "o", "e": "C", "p": "A", "t": "A troca para clozapina pode reduzir a discinesia tardia ao longo de meses."},
+ {"g": "Irritabilidade no TEA", "c": "Agressividade grave no autismo e na deficiência intelectual", "s": "o", "e": "D", "p": "U", "t": "Séries de casos em adolescentes e adultos refratários."},
+ {"g": "Outros", "c": "Polidipsia psicogênica", "s": "o", "e": "C", "p": "A", "t": "Séries de casos com melhora da polidipsia e da hiponatremia."}
+],
+"haloperidol-decanoato": [
+ {"g": "Esquizofrenia", "c": "Manutenção na esquizofrenia com baixa adesão", "s": "a", "e": "A", "p": "1", "d": "50 a 200 mg a cada 4 semanas", "t": "LAI reduzem recaídas e reinternações em estudos de mundo real (Tiihonen 2017)."},
+ {"g": "Manutenção bipolar", "c": "Bipolar com recaídas maníacas por baixa adesão", "s": "o", "e": "C", "p": "A"}
+],
+"flufenazina-depot": [
+ {"g": "Esquizofrenia", "c": "Manutenção na esquizofrenia", "s": "a", "e": "A", "p": "1", "d": "12,5 a 50 mg a cada 2 a 4 semanas"}
+],
+"zuclopentixol-decanoato": [
+ {"g": "Esquizofrenia", "c": "Manutenção na esquizofrenia", "s": "a", "e": "A", "p": "1", "d": "200 a 400 mg a cada 2 a 4 semanas"},
+ {"g": "Impulsividade e agressividade", "c": "Agressividade recorrente com psicose", "s": "o", "e": "C", "p": "A"}
+],
+"zuclopentixol-acetato": [
+ {"g": "Agitação", "c": "Psicose aguda agitada que exigirá medicação injetável por alguns dias", "s": "a", "e": "B", "p": "A", "d": "50 a 150 mg IM", "t": "Revisão Cochrane: sem vantagem clara sobre outras opções IM; não serve para tranquilização rápida."}
+],
+"pipotiazina-palmitato": [
+ {"g": "Esquizofrenia", "c": "Manutenção na esquizofrenia", "s": "a", "e": "B", "p": "U", "t": "Retirado do mercado brasileiro."}
+],
+"risperidona-lp": [
+ {"g": "Esquizofrenia", "c": "Manutenção na esquizofrenia", "s": "a", "e": "A", "p": "1", "d": "25 a 50 mg a cada 2 semanas"},
+ {"g": "Manutenção bipolar", "c": "Manutenção no transtorno bipolar I", "s": "a", "e": "A", "p": "2", "t": "Previne sobretudo recaídas maníacas; segunda linha no CANMAT e ISBD 2018. Útil quando a baixa adesão causa recaídas."}
+],
+"paliperidona-palmitato": [
+ {"g": "Esquizofrenia", "c": "Manutenção na esquizofrenia (mensal e trimestral)", "s": "a", "e": "A", "p": "1", "t": "No PRIDE, reduziu falhas de tratamento em pacientes com passagem pelo sistema prisional."},
+ {"g": "Transtorno esquizoafetivo", "c": "Transtorno esquizoafetivo", "s": "a", "e": "A", "p": "1"},
+ {"g": "Esquizofrenia", "c": "Primeiro episódio psicótico", "s": "o", "e": "B", "p": "1", "t": "LAI precoces reduzem recaída em primeiro episódio (Subotnik 2015, com risperidona LAI)."}
+],
+"aripiprazol-lai": [
+ {"g": "Esquizofrenia", "c": "Manutenção na esquizofrenia", "s": "a", "e": "A", "p": "1", "d": "400 mg mensal"},
+ {"g": "Manutenção bipolar", "c": "Manutenção no bipolar I", "s": "o", "e": "A", "p": "1", "t": "Aprovado nos EUA."}
+],
+"olanzapina-pamoato": [
+ {"g": "Esquizofrenia", "c": "Manutenção na esquizofrenia", "s": "o", "e": "A", "p": "2", "t": "Não comercializada no Brasil; exige observação de 3 horas."}
+]
+}

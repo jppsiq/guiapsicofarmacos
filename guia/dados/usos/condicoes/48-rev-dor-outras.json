@@ -1,0 +1,1217 @@
+{
+ "Dor neuropática": {
+  "criterios": {
+   "fonte": "Definição IASP (2011) e sistema de graduação NeuPSIG (Treede et al., 2008; revisão de Finnerup et al., Pain 2016); ICHD-3 (2018) para neuralgia do trigêmeo",
+   "cid": "CID-11 MG30.5 (dor neuropática crônica)",
+   "itens": [
+    {
+     "r": "Definição",
+     "t": "Dor causada por lesão ou doença do sistema nervoso somatossensorial, periférico ou central. O caráter em queimação ou choque sugere, mas não basta: é preciso uma lesão ou doença neurológica demonstrável ou plausível."
+    },
+    {
+     "r": "Possível",
+     "t": "História de lesão ou doença neurológica relevante E dor com distribuição neuroanatomicamente plausível (território de nervo periférico, raiz, plexo ou representação somatotópica central).",
+     "sub": [
+      "Nível suficiente para levantar a hipótese e iniciar a investigação"
+     ]
+    },
+    {
+     "r": "Provável",
+     "t": "Critérios de dor possível MAIS sinais sensitivos no exame, negativos (hipoestesia, hipoalgesia) ou positivos (alodinia, hiperalgesia, somação), restritos ao território da estrutura lesada.",
+     "sub": [
+      "Na revisão de 2016 a graduação é hierárquica: o nível provável exige os sinais sensitivos no exame",
+      "Nível que já autoriza o tratamento como dor neuropática"
+     ]
+    },
+    {
+     "r": "Definida",
+     "t": "Critérios de dor provável MAIS exame complementar que confirma a lesão ou doença que explica a dor.",
+     "sub": [
+      "Exemplos: eletroneuromiografia, biópsia de pele com densidade de fibras nervosas intraepidérmicas (fibras finas), testes sensitivos quantitativos, potencial evocado a laser, RM, confirmação cirúrgica ou laboratorial da doença de base"
+     ]
+    },
+    {
+     "r": "Neuralgia do trigêmeo (ICHD-3 13.1)",
+     "t": "Paroxismos recorrentes de dor facial unilateral no território de um ou mais ramos do trigêmeo, sem irradiação além dele.",
+     "sub": [
+      "Dor com duração de fração de segundo a 2 minutos, intensidade grave, em choque elétrico, pontada, fisgada ou facada",
+      "Desencadeada por estímulos inócuos no território afetado (falar, mastigar, escovar os dentes, tocar a face, vento)",
+      "Clássica: compressão neurovascular com alteração morfológica da raiz demonstrada em RM ou cirurgia; secundária: doença de base (esclerose múltipla, tumor do ângulo pontocerebelar); idiopática: sem nenhuma das duas",
+      "Com dor facial contínua concomitante ou puramente paroxística"
+     ]
+    }
+   ],
+   "especificadores": [
+    "Periférica: neuropatia diabética, neuralgia pós-herpética, neuralgia do trigêmeo, radiculopatia dolorosa, neuropatia pós-traumática ou pós-cirúrgica, neuropatia induzida por quimioterapia, neuropatia pelo HIV",
+    "Central: dor após AVC (sobretudo talâmico), lesão medular, esclerose múltipla, doença de Parkinson",
+    "Crônica (CID-11): persistente ou recorrente por mais de 3 meses"
+   ],
+   "notas": [
+    "Instrumentos de triagem (DN4 ≥ 4 de 10, LANSS ≥ 12, painDETECT) sugerem componente neuropático, mas não substituem o exame; cerca de 10 a 20% de erro de classificação.",
+    "Dor mista é comum (lombociatalgia, dor oncológica): o componente neuropático orienta a escolha do adjuvante.",
+    "Neuralgia pós-herpética: dor que persiste 3 meses ou mais após o herpes-zóster no mesmo dermátomo."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A dor com características neuropáticas atinge 7 a 10% da população geral (revisão sistemática de van Hecke, 2014), com maior frequência em idosos, diabéticos e pacientes oncológicos. Cerca de um quinto dos diabéticos tem neuropatia dolorosa, e 10 a 20% dos pacientes com herpes-zóster evoluem com neuralgia pós-herpética, risco que cresce com a idade.\n\nO curso tende à cronicidade. A doença de base raramente é reversível e o objetivo realista do tratamento é reduzir a dor em 30 a 50%, melhorar sono e função e evitar iatrogenia. Uma redução de 30% é clinicamente relevante; de 50%, substancial."
+   },
+   {
+    "titulo": "Mecanismos e como os fármacos agem",
+    "texto": "Após a lesão, neurônios periféricos passam a expressar mais canais de sódio e a disparar de forma ectópica; no corno dorsal, há sensibilização central mediada por glutamato e receptores NMDA, perda de interneurônios inibitórios e enfraquecimento das vias descendentes inibitórias noradrenérgicas (locus coeruleus) e serotoninérgicas.\n\nTricíclicos e IRSN reforçam a inibição descendente, sobretudo pela noradrenalina via receptores alfa-2 medulares; por isso ISRS puros têm efeito analgésico fraco e a venlafaxina só é eficaz em doses com ação noradrenérgica (150 mg/dia ou mais). Tricíclicos também bloqueiam canais de sódio e receptores NMDA, o que explica a eficácia em doses menores que as antidepressivas. Gabapentina e pregabalina ligam-se à subunidade alfa-2-delta-1 dos canais de cálcio voltagem-dependentes, que aumenta após a lesão, reduzindo a liberação de glutamato e substância P. Carbamazepina e oxcarbazepina bloqueiam canais de sódio de forma uso-dependente, o que se ajusta aos disparos paroxísticos da neuralgia do trigêmeo."
+   },
+   {
+    "titulo": "O que dizem as metanálises e os ensaios",
+    "texto": "A metanálise da NeuPSIG (Finnerup, Lancet Neurology 2015, 229 ensaios) sustenta a primeira linha com tricíclicos, IRSN e gabapentinoides, com NNT para 50% de alívio de 3,6 para tricíclicos, 6,4 para IRSN, 7,2 para gabapentina e 7,7 para pregabalina. O NNT menor dos tricíclicos vem de ensaios antigos e pequenos, com risco de viés; na prática, as classes têm eficácia semelhante e a escolha é guiada por comorbidade e tolerabilidade.\n\nO OPTION-DM (Tesfaye, Lancet 2022) comparou amitriptilina, duloxetina e pregabalina na neuropatia diabética: eficácia semelhante em monoterapia e ganho adicional com a associação nos que responderam parcialmente. O COMBO-DN (Tesfaye, 2013) não mostrou diferença entre subir a dose de uma classe e associar outra. Gilron (Lancet 2009) mostrou nortriptilina com gabapentina superior a cada uma isolada, com doses menores de cada fármaco.\n\nNa neuropatia induzida por quimioterapia, só a duloxetina tem evidência positiva (CALGB 170601, Smith JAMA 2013), e a ASCO mantém essa recomendação isolada. Na neuralgia do trigêmeo, carbamazepina tem NNT próximo de 2 e é a primeira escolha, com oxcarbazepina como alternativa de igual preferência na diretriz da EAN (2019)."
+   },
+   {
+    "titulo": "Comorbidades que mudam a conduta",
+    "texto": "Depressão e ansiedade acompanham até metade dos pacientes e pioram a dor e a adesão. Com depressão maior, preferir duloxetina 60 a 120 mg ou venlafaxina 150 a 225 mg, que tratam ambas nas doses antidepressivas; tricíclico em dose analgésica (25 a 50 mg) não trata a depressão. Com insônia, amitriptilina ou nortriptilina à noite, ou pregabalina.\n\nRisco de suicídio pesa contra tricíclicos pela letalidade em superdosagem; nesses casos prescrever quantidades pequenas ou preferir IRSN e gabapentinoides. História de uso indevido de substâncias pesa contra pregabalina, gabapentina e tramadol. Em idosos, cardiopatas e glaucoma de ângulo fechado, evitar amitriptilina; nortriptilina em dose baixa, duloxetina ou tópicos são preferíveis. Na doença renal, ajustar gabapentinoides ao clearance e evitar duloxetina com ClCr abaixo de 30 mL/min."
+   },
+   {
+    "titulo": "Armadilhas e controvérsias",
+    "texto": "Gabapentinoides não são analgésicos universais: na ciatalgia aguda e crônica a pregabalina não superou placebo (PRECISE, Mathieson NEJM 2017), e na lombalgia sem radiculopatia a evidência é negativa. A FDA (2019) alertou para depressão respiratória quando combinados a opioides, benzodiazepínicos ou em doença pulmonar, e há uso recreativo, sobretudo da pregabalina.\n\nDeclarar falha cedo demais é o erro mais comum: tricíclicos e IRSN precisam de 2 a 4 semanas na dose-alvo; gabapentina, de 3 a 8 semanas incluindo titulação. Também é comum manter indefinidamente um fármaco sem benefício; se não houve redução de 30% ou ganho funcional, retirar gradualmente. Tramadol associado a IRSN, tricíclico ou ISRS aumenta o risco de síndrome serotoninérgica e de convulsão; opioides fortes são terceira linha, por especialista."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Explicar que a dor vem de nervos lesados que disparam sem motivo e que os remédios usados são antidepressivos e anticonvulsivantes escolhidos pelo efeito sobre esses nervos, não porque a dor seja psicológica. Combinar metas concretas (dormir melhor, caminhar mais, reduzir a dor em um terço) e avisar que o efeito é gradual.\n\nApós 6 a 12 meses de boa resposta, pode-se tentar reduzir lentamente a dose, sobretudo na neuralgia pós-herpética e na neuralgia do trigêmeo, que podem entrar em remissão. Na neuropatia diabética, o controle glicêmico estabiliza a lesão, mas não reverte a dor já instalada."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Titulação e ensaio",
+    "duracao": "4 a 8 semanas",
+    "objetivo": "Chegar à dose eficaz tolerada e medir redução de pelo menos 30% na dor, com melhora de sono e função"
+   },
+   {
+    "fase": "Otimização",
+    "duracao": "2 a 3 meses",
+    "objetivo": "Trocar de classe se não houver resposta ou associar classe diferente se a resposta for parcial"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "6 a 12 meses ou mais",
+    "objetivo": "Sustentar o ganho, rever efeitos adversos e tentar redução gradual quando a dor estiver estável"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Confirmar e tratar a causa",
+    "acao": "Graduar pela NeuPSIG (possível, provável, definida), aplicar DN4 e tratar a doença de base (glicemia, vitamina B12, álcool, fármacos neurotóxicos). Rastrear depressão, insônia, risco de suicídio e uso de substâncias, que orientam a escolha. Neuralgia do trigêmeo segue via própria: carbamazepina 100 a 200 mg 2 vezes ao dia, titulando até 600 a 1.200 mg/dia, ou oxcarbazepina 300 mg 2 vezes ao dia até 900 a 1.800 mg/dia.",
+    "se_falha": "Neuralgia do trigêmeo sem controle com carbamazepina ou oxcarbazepina: encaminhar à neurocirurgia (descompressão microvascular). Demais casos: seguir para o passo 2"
+   },
+   {
+    "passo": "Primeira linha",
+    "acao": "Escolher pela comorbidade: duloxetina 30 mg por 1 semana e depois 60 mg/dia; amitriptilina ou nortriptilina 10 a 25 mg à noite, subindo 10 a 25 mg por semana até 25 a 75 mg (máximo 150 mg); pregabalina 75 mg 2 vezes ao dia até 150 a 300 mg 2 vezes ao dia; gabapentina 300 mg/dia, subindo até 1.200 a 3.600 mg/dia em 3 tomadas. Ajustar gabapentinoides ao rim.",
+    "se_falha": "Alívio inferior a 30% após 4 semanas na dose-alvo (tricíclico ou IRSN) ou 3 a 8 semanas incluindo titulação (gabapentina), ou efeito adverso intolerável"
+   },
+   {
+    "passo": "Troca ou associação",
+    "acao": "Sem resposta: trocar para outra classe de primeira linha. Resposta parcial: associar classe diferente (tricíclico ou duloxetina com pregabalina ou gabapentina, como no OPTION-DM), em doses moderadas de cada um. Evitar tricíclico com IRSN pelo risco serotoninérgico e cardíaco.",
+    "se_falha": "Resposta insuficiente após 2 classes e uma associação bem conduzidas"
+   },
+   {
+    "passo": "Segunda linha",
+    "acao": "Dor periférica localizada: lidocaína 5% em adesivo ou capsaicina 8% em adesivo aplicada em serviço especializado, conforme disponibilidade. Tramadol 50 mg 1 a 2 vezes ao dia, até 200 a 400 mg/dia, com cautela pela interação serotoninérgica e pelo limiar convulsivo.",
+    "se_falha": "Dor refratária com incapacidade após 3 a 6 meses de tratamento otimizado"
+   },
+   {
+    "passo": "Terceira linha e encaminhamento",
+    "acao": "Encaminhar à clínica de dor: toxina botulínica A subcutânea na dor periférica localizada, opioide forte com metas e plano de saída, neuromodulação (estimulação medular na neuropatia diabética refratária). Manter tratamento de depressão, insônia e reabilitação.",
+    "se_falha": "Manejo interdisciplinar contínuo, com foco em função e redução de iatrogenia"
+   }
+  ]
+ },
+ "Dor crônica": {
+  "criterios": {
+   "fonte": "CID-11 (classificação IASP de dor crônica, Treede et al., Pain 2019); DSM-5-TR (APA, 2022) para transtorno de sintomas somáticos e fatores psicológicos que afetam outras condições médicas",
+   "cid": "CID-11 MG30 (dor crônica), MG30.0 (dor crônica primária); CID-10-MC F45.1 (transtorno de sintomas somáticos), F54 (fatores psicológicos que afetam outras condições médicas); CID-10 R52.2 (outra dor crônica)",
+   "itens": [
+    {
+     "r": "Dor crônica (CID-11)",
+     "t": "Dor persistente ou recorrente por mais de 3 meses."
+    },
+    {
+     "r": "Dor crônica primária (MG30.0)",
+     "t": "Dor em uma ou mais regiões, persistente ou recorrente por mais de 3 meses, associada a sofrimento emocional importante ou a incapacidade funcional, e não mais bem explicada por outra condição de dor crônica.",
+     "sub": [
+      "Dor generalizada crônica (inclui fibromialgia)",
+      "Síndrome dolorosa regional complexa",
+      "Cefaleia ou dor orofacial primária crônica (enxaqueca crônica, dor temporomandibular)",
+      "Dor visceral primária crônica (síndrome do intestino irritável, dor pélvica crônica)",
+      "Dor musculoesquelética primária crônica (lombalgia ou cervicalgia inespecífica crônica)"
+     ]
+    },
+    {
+     "r": "Dor crônica secundária",
+     "t": "Dor em que uma doença de base é a causa inicial, mesmo que depois ganhe autonomia.",
+     "sub": [
+      "Oncológica; pós-cirúrgica ou pós-traumática; neuropática; cefaleia ou dor orofacial secundária; visceral secundária; musculoesquelética secundária (inflamatória, estrutural, por doença neurológica)"
+     ]
+    },
+    {
+     "r": "Transtorno de sintomas somáticos (DSM-5-TR, F45.1)",
+     "t": "Um ou mais sintomas somáticos (na dor crônica, a própria dor) que causam sofrimento ou perturbam significativamente a vida diária, com pensamentos, sentimentos ou comportamentos excessivos relacionados a eles, e estado sintomático persistente.",
+     "sub": [
+      "A. Um ou mais sintomas somáticos com sofrimento ou perturbação significativa da vida diária",
+      "B. Pensamentos, sentimentos ou comportamentos excessivos ligados aos sintomas ou a preocupações com a saúde, com pelo menos 1 de 3: (1) pensamentos desproporcionais e persistentes sobre a gravidade dos sintomas; (2) ansiedade persistentemente alta sobre a saúde ou os sintomas; (3) tempo e energia excessivos dedicados aos sintomas ou à saúde",
+      "C. Embora um sintoma isolado possa não estar sempre presente, a condição de estar sintomático é persistente (em geral mais de 6 meses)"
+     ]
+    },
+    {
+     "r": "Fatores psicológicos que afetam outras condições médicas (DSM-5-TR, F54)",
+     "t": "Há uma condição médica (que não um transtorno mental), e fatores psicológicos ou comportamentais a afetam de forma adversa.",
+     "sub": [
+      "A. Presença de sintoma ou condição médica que não seja transtorno mental",
+      "B. Os fatores afetam a condição de pelo menos uma forma: (1) influenciam o curso, com associação temporal próxima ao início, piora ou demora na recuperação; (2) interferem no tratamento (por exemplo, má adesão); (3) constituem risco de saúde adicional bem estabelecido; (4) influenciam a fisiopatologia, precipitando ou agravando sintomas que exigem atenção médica",
+      "C. Os fatores do critério B não são mais bem explicados por outro transtorno mental (pânico, depressão maior, TEPT)"
+     ]
+    }
+   ],
+   "especificadores": [
+    "Transtorno de sintomas somáticos: com dor predominante (antigo transtorno doloroso); persistente (sintomas graves, prejuízo marcante e duração maior que 6 meses)",
+    "Transtorno de sintomas somáticos, gravidade: leve (1 sintoma do critério B); moderada (2 ou mais); grave (2 ou mais, com múltiplas queixas somáticas ou um sintoma somático muito grave)",
+    "Fatores psicológicos que afetam outras condições médicas, gravidade: leve (aumenta o risco médico); moderada (agrava a condição); grave (leva a hospitalização ou ida à emergência); extrema (risco grave à vida)"
+   ],
+   "notas": [
+    "O DSM-5 eliminou o transtorno doloroso do DSM-IV; a maioria desses pacientes passa a ser codificada como transtorno de sintomas somáticos com dor predominante. O diagnóstico não exige ausência de explicação médica: o foco é a resposta excessiva ao sintoma (critério B).",
+    "Não usar transtorno de sintomas somáticos só porque a dor é intensa ou sem lesão visível; sem critério B, o diagnóstico é de dor crônica (primária ou secundária) e, se houver, do transtorno mental comórbido.",
+    "Dor nociplástica (IASP, 2017): dor por alteração da nocicepção sem lesão tecidual ou neural demonstrável que a explique; mecanismo predominante na fibromialgia e na dor crônica primária.",
+    "A CID-11 permite codificar dor crônica primária mesmo com fatores psicológicos contribuintes, sem exigir diagnóstico psiquiátrico. Na CID-10 da OMS, o equivalente psiquiátrico era F45.4 (transtorno doloroso somatoforme persistente)."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e impacto",
+    "texto": "Cerca de 1 em cada 5 adultos tem dor crônica (inquérito europeu de Breivik, 2006), e a lombalgia é a principal causa de anos vividos com incapacidade no mundo (Global Burden of Disease). Em clínicas de dor, depressão está presente em cerca de metade dos pacientes, e ansiedade, insônia, TEPT e uso de substâncias são frequentes.\n\nDor crônica dobra, aproximadamente, o risco de suicídio, independentemente da depressão; o acesso a opioides e tricíclicos em casa aumenta a letalidade. Perguntar ativamente sobre ideação suicida faz parte da avaliação de rotina."
+   },
+   {
+    "titulo": "Modelo biopsicossocial e mecanismos",
+    "texto": "Classificar o mecanismo predominante orienta o tratamento: nociceptivo (lesão tecidual em curso, responde a anti-inflamatórios), neuropático (lesão do sistema somatossensorial, responde a tricíclicos, IRSN e gabapentinoides) e nociplástico (sensibilização central sem lesão que a explique, responde pouco a analgésicos e melhor a exercício, psicoterapia e antidepressivos).\n\nCatastrofização, medo e evitação do movimento, sono ruim e humor deprimido amplificam a dor e a incapacidade (modelo de medo e evitação de Vlaeyen). Antidepressivos analgésicos agem reforçando as vias descendentes inibitórias, com efeito independente do humor, e os tricíclicos o fazem em doses menores que as antidepressivas."
+   },
+   {
+    "titulo": "O que funciona e o que não funciona",
+    "texto": "Exercício supervisionado e terapias psicológicas (TCC e terapia de aceitação e compromisso) têm os efeitos mais consistentes sobre função, ainda que modestos sobre a intensidade da dor. A NICE NG193 (2021) recomenda antidepressivo (amitriptilina, citalopram, duloxetina, fluoxetina, paroxetina ou sertralina) na dor crônica primária, mesmo sem depressão, e desaconselha iniciar gabapentinoides, opioides, benzodiazepínicos, anti-inflamatórios e paracetamol.\n\nA metanálise de Ferreira (BMJ 2023), com 22 condições dolorosas, encontrou evidência mais consistente para IRSN (sobretudo duloxetina) na lombalgia, na fibromialgia, na dor neuropática e na dor pós-operatória, com efeitos em geral pequenos a moderados. Paracetamol não supera placebo na lombalgia aguda (PACE, Lancet 2014). No SPACE (Krebs, JAMA 2018), opioides não foram superiores a não opioides em função após 12 meses na lombalgia crônica e na artrose, com mais efeitos adversos."
+   },
+   {
+    "titulo": "Opioides, gabapentinoides e benzodiazepínicos",
+    "texto": "O psiquiatra frequentemente herda pacientes com opioide em dose alta, gabapentinoide e benzodiazepínico associados. A CDC (2022) recomenda não aumentar a dose sem reavaliar, cautela acima de 50 MME/dia, evitar a associação com benzodiazepínicos, oferecer naloxona e nunca suspender de forma abrupta; em uso de longa data, reduzir cerca de 10% ao mês, de forma negociada.\n\nSe houver critérios para transtorno por uso de opioides, a buprenorfina trata a dependência e a dor ao mesmo tempo e é mais segura que a redução isolada. Piora da dor com o aumento da dose sugere hiperalgesia induzida por opioide ou tolerância, e não necessidade de mais opioide."
+   },
+   {
+    "titulo": "Comorbidades que mudam a conduta",
+    "texto": "Com depressão maior, tratar nas doses das diretrizes de depressão, preferindo duloxetina (60 a 120 mg) ou venlafaxina (150 a 225 mg), que atuam em ambos; ISRS tratam a depressão, mas com efeito analgésico menor. Com insônia, TCC-I e amitriptilina em dose baixa ou trazodona, evitando hipnóticos contínuos. Com TEPT, tratar o trauma melhora a dor. Com risco de suicídio, evitar tricíclicos ou prescrever quantidades pequenas.\n\nCom transtorno de sintomas somáticos, o objetivo passa a ser reduzir a busca por exames e procedimentos: consultas regulares e programadas com o mesmo médico, validação do sofrimento, metas funcionais e TCC."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Explicar que dor crônica é real, que o sistema nervoso ficou sensibilizado e que dor não significa dano (educação em neurociência da dor). A meta é viver melhor com menos dor, não ficar sem dor; ganhos de 30% na dor ou retomada de atividades são sucesso.\n\nPacientes com metas funcionais claras, atividade progressiva e tratamento das comorbidades psiquiátricas têm melhor evolução; escalada de opioides, múltiplos procedimentos e afastamento prolongado do trabalho predizem cronificação e incapacidade."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Avaliação e plano",
+    "duracao": "2 a 4 semanas",
+    "objetivo": "Classificar o mecanismo, rastrear comorbidades e risco, revisar fármacos em uso e combinar metas funcionais"
+   },
+   {
+    "fase": "Ensaio terapêutico e reabilitação",
+    "duracao": "8 a 12 semanas",
+    "objetivo": "Exercício, psicoterapia e antidepressivo em dose eficaz; medir dor e função (PEG) a cada 4 semanas"
+   },
+   {
+    "fase": "Manutenção e revisão",
+    "duracao": "6 a 12 meses ou mais",
+    "objetivo": "Manter só o que trouxe ganho, desprescrever o que não ajudou e consolidar a autogestão"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Classificar e rastrear",
+    "acao": "Excluir sinais de alarme, classificar em primária, secundária ou neuropática e o mecanismo predominante. Aplicar PEG (dor, prazer, atividade), PHQ-9, GAD-7, rastreio de TEPT, AUDIT e avaliação de risco de suicídio; revisar dose de opioides, gabapentinoides e benzodiazepínicos.",
+    "se_falha": "Dor neuropática ou fibromialgia: seguir o algoritmo específico. Demais casos: passo 2"
+   },
+   {
+    "passo": "Base não farmacológica",
+    "acao": "Educação em neurociência da dor, exercício supervisionado progressivo, TCC ou terapia de aceitação e compromisso, TCC-I se houver insônia. Tratar depressão, ansiedade ou TEPT nas doses das diretrizes psiquiátricas.",
+    "se_falha": "Sem ganho funcional após 8 a 12 semanas de adesão, ou dor limitando a reabilitação"
+   },
+   {
+    "passo": "Antidepressivo analgésico",
+    "acao": "Duloxetina 30 mg por 1 semana e depois 60 mg/dia (lombalgia, artrose, dor nociplástica, depressão associada). Com insônia ou dor abdominal funcional: amitriptilina 10 mg à noite, subindo até 25 a 50 mg (nortriptilina em idosos). ISRS (sertralina, citalopram) são opção da NICE quando a depressão predomina.",
+    "se_falha": "Melhora inferior a 30% na PEG ou sem ganho funcional após 4 a 8 semanas na dose eficaz"
+   },
+   {
+    "passo": "Trocar e desprescrever",
+    "acao": "Trocar entre duloxetina e tricíclico em dose baixa. Reduzir de forma negociada opioides (cerca de 10% ao mês em uso prolongado), gabapentinoides e benzodiazepínicos sem benefício. Se houver transtorno por uso de opioides, iniciar buprenorfina.",
+    "se_falha": "Incapacidade persistente, uso problemático de opioides ou sofrimento psíquico grave"
+   },
+   {
+    "passo": "Programa interdisciplinar",
+    "acao": "Encaminhar a clínica de dor ou programa de reabilitação interdisciplinar (médico, fisioterapia, psicologia, terapia ocupacional), com psiquiatria de ligação para comorbidades e manejo de opioides.",
+    "se_falha": "Acompanhamento de longo prazo centrado em função, com revisão periódica dos fármacos"
+   }
+  ]
+ },
+ "Fibromialgia": {
+  "criterios": {
+   "fonte": "American College of Rheumatology 2016 (Wolfe et al., revisão dos critérios 2010/2011)",
+   "cid": "CID-10 M79.7; CID-11 MG30.01 (dor generalizada crônica)",
+   "itens": [
+    {
+     "r": "1",
+     "t": "Índice de dor generalizada (WPI) ≥ 7 e escala de gravidade de sintomas (SSS) ≥ 5, OU WPI de 4 a 6 e SSS ≥ 9."
+    },
+    {
+     "r": "2",
+     "t": "Dor generalizada: dor em pelo menos 4 das 5 regiões (superior esquerda, superior direita, inferior esquerda, inferior direita e axial). Mandíbula, tórax e abdome não entram na definição de dor generalizada."
+    },
+    {
+     "r": "3",
+     "t": "Sintomas presentes em nível semelhante há pelo menos 3 meses."
+    },
+    {
+     "r": "4",
+     "t": "O diagnóstico de fibromialgia é válido independentemente de outros diagnósticos e não exclui a presença de outras doenças clinicamente importantes."
+    },
+    {
+     "r": "WPI (0 a 19)",
+     "t": "Número de áreas com dor na última semana.",
+     "sub": [
+      "Região superior esquerda: mandíbula, cintura escapular, braço e antebraço esquerdos",
+      "Região superior direita: mandíbula, cintura escapular, braço e antebraço direitos",
+      "Região inferior esquerda: quadril (glúteo, trocânter), coxa e perna esquerdos",
+      "Região inferior direita: quadril (glúteo, trocânter), coxa e perna direitos",
+      "Região axial: pescoço, parte superior das costas, parte inferior das costas, tórax, abdome"
+     ]
+    },
+    {
+     "r": "SSS (0 a 12)",
+     "t": "Soma de duas partes.",
+     "sub": [
+      "Fadiga, sono não reparador e sintomas cognitivos na última semana, cada um de 0 a 3 (0 sem problema, 1 leve ou intermitente, 2 moderado e frequente, 3 grave, contínuo e limitante): 0 a 9",
+      "Presença nos últimos 6 meses de cefaleia, dor ou cólica no baixo ventre e depressão, 1 ponto cada: 0 a 3"
+     ]
+    }
+   ],
+   "especificadores": [
+    "Escala de gravidade da fibromialgia (FS = WPI + SSS, 0 a 31): permite acompanhar a intensidade; valores ≥ 12 costumam corresponder ao diagnóstico"
+   ],
+   "notas": [
+    "A contagem de pontos dolorosos (tender points, ACR 1990) não é mais exigida.",
+    "Critérios AAPT (Arnold et al., 2019) alternativos: dor em pelo menos 6 de 9 locais, com problemas de sono moderados a graves ou fadiga, por pelo menos 3 meses.",
+    "Exames para excluir mimetizadores: hemograma, VHS ou PCR, TSH, CK, cálcio, vitamina D, função hepática e renal. FAN e fator reumatoide só se houver sinais de doença autoimune (baixa especificidade).",
+    "A fibromialgia pode coexistir com artrite reumatoide, lúpus, espondiloartrite e artrose; nesse caso, reduz a relação entre atividade inflamatória e dor referida."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A prevalência é de 2 a 4% na população adulta; com os critérios atuais, a proporção entre mulheres e homens caiu para cerca de 2 a 3 para 1 (era próxima de 9 para 1 com os pontos dolorosos). O início costuma ocorrer entre 30 e 50 anos, muitas vezes após estressor físico ou emocional.\n\nO curso é crônico e flutuante. A maioria mantém sintomas por anos, mas a incapacidade varia muito e depende mais de sono, humor, condicionamento físico e crenças sobre a dor do que da intensidade inicial."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "É o protótipo da dor nociplástica: aumento da amplificação central da dor, com maior atividade de glutamato e substância P, menor eficácia das vias descendentes inibitórias e alteração do processamento em neuroimagem funcional. Em parte dos pacientes, a biópsia de pele mostra redução de fibras finas, sem que isso mude o tratamento.\n\nDuloxetina reforça a inibição descendente noradrenérgica; amitriptilina em dose baixa melhora o sono e a dor; pregabalina reduz a liberação de glutamato e aumenta o sono de ondas lentas. Anti-inflamatórios e opioides não atuam no mecanismo central e têm pouco ou nenhum efeito. Exercício aeróbico restaura parte da modulação descendente e é a intervenção com evidência mais forte."
+   },
+   {
+    "titulo": "O que dizem as diretrizes e as metanálises",
+    "texto": "A EULAR 2016 (Macfarlane) faz uma única recomendação forte: exercício. Fármacos (amitriptilina em dose baixa, duloxetina ou milnaciprana, pregabalina, ciclobenzaprina, tramadol) têm recomendação fraca, reservados a dor grave ou distúrbio do sono. As revisões Cochrane mostram benefício modesto: com pregabalina, IRSN ou amitriptilina, apenas 1 em cada 7 a 10 pacientes tratados tem alívio de 50% atribuível ao fármaco.\n\nIsso não torna os fármacos inúteis, mas define a expectativa: são adjuvantes para dor, sono e humor, devem ser mantidos só se houver ganho claro, e não substituem exercício e psicoterapia. A EULAR recomenda contra opioides fortes, corticoides, hormônio de crescimento e oxibato de sódio."
+   },
+   {
+    "titulo": "Escolha pelo sintoma dominante",
+    "texto": "Sono ruim e dor noturna: amitriptilina 5 a 10 mg à noite, titulada lentamente até 10 a 50 mg, ou pregabalina à noite. Depressão, ansiedade ou fadiga: duloxetina 60 mg pela manhã. Obesidade: evitar pregabalina e amitriptilina pelo ganho de peso. Dor com resposta parcial a um fármaco: associar amitriptilina à noite a duloxetina ou pregabalina, com cautela.\n\nISRS isolados têm efeito analgésico fraco, mas servem para depressão comórbida. Benzodiazepínicos e hipnóticos Z não melhoram a dor e trazem dependência. O tramadol é o único opioide com algum dado e fica para casos selecionados."
+   },
+   {
+    "titulo": "Comorbidades e armadilhas diagnósticas",
+    "texto": "Depressão, ansiedade, TEPT, síndrome do intestino irritável, enxaqueca, disfunção temporomandibular e síndrome da fadiga crônica são frequentes. Apneia do sono e pernas inquietas pioram o sono não reparador e devem ser investigadas.\n\nAntes de fechar o diagnóstico, excluir hipotireoidismo, polimialgia reumática (idoso, VHS alta, rigidez de cinturas), miopatia por estatina, hiperparatireoidismo, deficiência de vitamina D, hepatite C e espondiloartrite. No outro extremo, evitar a cascata de exames repetidos e o rótulo de doença misteriosa, que reforçam catastrofização e incapacidade."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Explicar que a dor é real, vem de um sistema de alarme sensibilizado, não causa deformidade nem dano articular e melhora com atividade gradual. Combinar metas de função (caminhar, trabalhar, dormir) e avisar que o exercício pode aumentar a dor nas primeiras semanas, o que não significa lesão.\n\nO prognóstico funcional é melhor com diagnóstico precoce, exercício regular, tratamento do humor e do sono e manutenção do trabalho; piora com escalada de fármacos, opioides e afastamento prolongado."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Diagnóstico e educação",
+    "duracao": "2 a 4 semanas",
+    "objetivo": "Confirmar pelo ACR 2016, excluir mimetizadores, explicar a condição e iniciar exercício gradual"
+   },
+   {
+    "fase": "Ensaio de tratamento",
+    "duracao": "8 a 12 semanas",
+    "objetivo": "Fármaco guiado pelo sintoma dominante mais psicoterapia; medir dor, sono e função (FIQR)"
+   },
+   {
+    "fase": "Manutenção e autogestão",
+    "duracao": "6 a 12 meses ou mais",
+    "objetivo": "Manter o que trouxe ganho claro, retirar o que não ajudou e sustentar exercício e manejo do estresse"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Confirmar e iniciar a base",
+    "acao": "Aplicar ACR 2016 (WPI e SSS), exames básicos para mimetizadores, educação e exercício aeróbico gradual (começar com 10 minutos, 2 a 3 vezes por semana, e progredir devagar). Rastrear depressão, ansiedade, TEPT e distúrbios do sono.",
+    "se_falha": "Dor, sono ou humor com prejuízo importante após 4 a 8 semanas de exercício e educação"
+   },
+   {
+    "passo": "Fármaco pelo sintoma dominante",
+    "acao": "Insônia: amitriptilina 5 a 10 mg à noite, subindo 5 a 10 mg a cada 1 a 2 semanas até 10 a 50 mg, ou pregabalina 75 mg à noite até 150 a 450 mg/dia. Depressão, ansiedade ou fadiga: duloxetina 30 mg por 1 semana e depois 60 mg/dia.",
+    "se_falha": "Redução da dor inferior a 30% ou sem ganho funcional após 8 a 12 semanas em dose tolerada"
+   },
+   {
+    "passo": "Troca ou associação",
+    "acao": "Trocar para outra das três opções; com resposta parcial, associar amitriptilina em dose baixa à noite a duloxetina ou pregabalina, monitorando sedação, ganho de peso e síndrome serotoninérgica. Ciclobenzaprina 5 a 10 mg à noite é alternativa para o sono.",
+    "se_falha": "Persistência de incapacidade após duas estratégias farmacológicas"
+   },
+   {
+    "passo": "Intensificar o não farmacológico",
+    "acao": "TCC ou terapia de aceitação e compromisso, movimento meditativo (tai chi, ioga), hidroterapia, tratamento da insônia com TCC-I. Tramadol só em casos selecionados, evitando associação com IRSN em dose alta. Não usar opioides fortes nem benzodiazepínicos.",
+    "se_falha": "Incapacidade grave ou dúvida diagnóstica"
+   },
+   {
+    "passo": "Reabilitação interdisciplinar",
+    "acao": "Encaminhar a programa multimodal (reumatologia, fisioterapia, psicologia, psiquiatria), com retirada dos fármacos sem benefício.",
+    "se_falha": "Seguimento de longo prazo com foco em função e prevenção de iatrogenia"
+   }
+  ]
+ },
+ "Cefaleia e enxaqueca": {
+  "criterios": {
+   "fonte": "Classificação Internacional das Cefaleias, 3.ª edição (ICHD-3, International Headache Society, 2018)",
+   "cid": "CID-10 G43 (enxaqueca), G44.2 (cefaleia tipo tensional), G44.0 (cefaleia em salvas); CID-11 8A80 (enxaqueca), 8A81 (cefaleia tipo tensional)",
+   "itens": [
+    {
+     "r": "Enxaqueca sem aura (1.1)",
+     "t": "Pelo menos 5 crises que preencham os critérios abaixo.",
+     "sub": [
+      "Duração de 4 a 72 horas sem tratamento ou com tratamento ineficaz (em crianças e adolescentes, 2 a 72 horas)",
+      "Pelo menos 2 de 4: localização unilateral; caráter pulsátil; intensidade moderada ou grave; piora com atividade física rotineira ou leva a evitá-la",
+      "Durante a dor, pelo menos 1: náusea e/ou vômito; fotofobia e fonofobia",
+      "Não mais bem explicada por outro diagnóstico da ICHD-3"
+     ]
+    },
+    {
+     "r": "Enxaqueca com aura (1.2)",
+     "t": "Pelo menos 2 crises com um ou mais sintomas de aura totalmente reversíveis: visual, sensitivo, de fala ou linguagem, motor, de tronco encefálico ou retiniano.",
+     "sub": [
+      "Pelo menos 3 de 6: ao menos um sintoma se espalha gradualmente em 5 minutos ou mais; dois ou mais sintomas ocorrem em sucessão; cada sintoma dura de 5 a 60 minutos; ao menos um é unilateral; ao menos um é positivo (cintilação, parestesia); a aura é acompanhada ou seguida, em até 60 minutos, por cefaleia",
+      "Não mais bem explicada por outro diagnóstico (excluir AIT)"
+     ]
+    },
+    {
+     "r": "Enxaqueca crônica (1.3)",
+     "t": "Cefaleia (tipo tensional ou enxaqueca) em 15 ou mais dias por mês por mais de 3 meses, em quem já teve pelo menos 5 crises típicas de enxaqueca.",
+     "sub": [
+      "Em 8 ou mais dias por mês, por mais de 3 meses, a dor tem características de enxaqueca ou o paciente acredita ser enxaqueca e ela é aliviada por triptano ou ergótico",
+      "Não mais bem explicada por outro diagnóstico (inclusive cefaleia por uso excessivo de medicação, que pode coexistir)"
+     ]
+    },
+    {
+     "r": "Cefaleia tipo tensional (2)",
+     "t": "Crises de 30 minutos a 7 dias (na forma crônica, horas a dias ou contínua).",
+     "sub": [
+      "Pelo menos 2 de 4: bilateral; em pressão ou aperto (não pulsátil); intensidade leve ou moderada; não piora com atividade física rotineira",
+      "Sem náusea ou vômito e, no máximo, um entre fotofobia e fonofobia (na forma crônica admite-se náusea leve)",
+      "Episódica infrequente: menos de 1 dia por mês; episódica frequente: 1 a 14 dias por mês por mais de 3 meses; crônica: 15 ou mais dias por mês por mais de 3 meses"
+     ]
+    },
+    {
+     "r": "Cefaleia em salvas (3.1)",
+     "t": "Pelo menos 5 crises de dor grave ou muito grave, unilateral, orbitária, supraorbitária e/ou temporal, de 15 a 180 minutos sem tratamento, com frequência de 1 a cada 2 dias até 8 por dia.",
+     "sub": [
+      "Um ou ambos: pelo menos um sinal autonômico ipsilateral (hiperemia conjuntival ou lacrimejamento, congestão nasal ou rinorreia, edema palpebral, sudorese frontal e facial, miose ou ptose); inquietação ou agitação",
+      "Episódica: salvas de 7 dias a 1 ano separadas por remissões de pelo menos 3 meses; crônica: 1 ano ou mais sem remissão ou com remissões menores que 3 meses"
+     ]
+    },
+    {
+     "r": "Cefaleia por uso excessivo de medicação (8.2)",
+     "t": "Cefaleia em 15 ou mais dias por mês em quem tem cefaleia prévia, com uso regular excessivo de medicação sintomática por mais de 3 meses.",
+     "sub": [
+      "10 ou mais dias por mês: triptanos, ergóticos, opioides, analgésicos combinados ou combinação de classes",
+      "15 ou mais dias por mês: analgésicos simples (paracetamol, dipirona, anti-inflamatórios, ácido acetilsalicílico)",
+      "Não mais bem explicada por outro diagnóstico"
+     ]
+    }
+   ],
+   "especificadores": [
+    "Enxaqueca com aura: típica, com aura de tronco encefálico, hemiplégica (familiar ou esporádica), retiniana",
+    "Complicações da enxaqueca: estado de mal enxaquecoso (crise debilitante por mais de 72 horas), aura persistente sem infarto, infarto enxaquecoso, crise epiléptica desencadeada por aura"
+   ],
+   "notas": [
+    "Sinais de alarme (SNNOOP10) exigem investigação: sintomas sistêmicos, história de neoplasia, déficit neurológico ou alteração de consciência, início súbito (em trovoada), início após 50 anos, mudança de padrão ou cefaleia nova, desencadeada por Valsalva, esforço ou mudança postural, papiledema, gestação ou puerpério, dor ocular com sinais autonômicos, pós-traumática, imunossupressão, uso excessivo de analgésico ou fármaco novo, dor progressiva.",
+    "Aura com duração maior que 60 minutos, déficit motor ou início abrupto exige excluir AVC e AIT.",
+    "Diário de cefaleia (dias de dor, intensidade, medicação usada) é a base para classificar, indicar profilaxia e medir resposta."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A enxaqueca atinge cerca de 15% da população (15,2% no estudo populacional brasileiro de Queiroz, 2009), com predomínio feminino de 2 a 3 para 1 e pico entre 25 e 55 anos. É a segunda causa de anos vividos com incapacidade no mundo e a primeira em mulheres jovens. A cefaleia tipo tensional é ainda mais prevalente, mas menos incapacitante.\n\nCerca de 2,5 a 3% dos pacientes com enxaqueca episódica evoluem para enxaqueca crônica a cada ano. Os fatores de cronificação modificáveis são uso excessivo de analgésicos, obesidade, depressão e ansiedade, insônia e apneia do sono, cafeína em excesso e profilaxia ausente ou inadequada."
+   },
+   {
+    "titulo": "Fisiopatologia e como os tratamentos agem",
+    "texto": "A crise envolve ativação do sistema trigeminovascular, com liberação de CGRP e sensibilização periférica e central; a aura corresponde à depressão alastrante cortical, e o pródromo (bocejos, fome, irritabilidade) reflete ativação hipotalâmica. Triptanos agem em receptores 5-HT1B/1D (vasoconstrição e inibição da liberação de CGRP); gepantes bloqueiam o receptor do CGRP; anticorpos monoclonais bloqueiam o CGRP ou seu receptor.\n\nO mecanismo dos preventivos orais é menos específico: betabloqueadores, topiramato e valproato reduzem a excitabilidade cortical e a depressão alastrante; amitriptilina e venlafaxina modulam as vias descendentes da dor. Por isso a escolha entre eles é feita mais pela comorbidade e pelos efeitos adversos do que pela eficácia, que é semelhante (redução de cerca de 50% dos dias em 40 a 50% dos pacientes)."
+   },
+   {
+    "titulo": "Evidências para a profilaxia",
+    "texto": "Propranolol, metoprolol, topiramato e valproato têm evidência de nível A (AAN/AHS 2012); amitriptilina e venlafaxina, nível B. Na enxaqueca crônica, topiramato e toxina onabotulínica A (ensaios PREEMPT, 155 U a cada 12 semanas) têm evidência positiva. No HER-MES (Reuter, 2022), erenumabe foi mais eficaz e muito mais tolerado que topiramato, e o posicionamento da AHS de 2024 passou a considerar as terapias anti-CGRP como primeira linha, sem exigir falha prévia de orais.\n\nEm crianças e adolescentes, o CHAMP (Powers, NEJM 2017) não mostrou superioridade de amitriptilina nem de topiramato sobre placebo, com resposta placebo em torno de 60%; nessa faixa, medidas de estilo de vida e TCC têm papel central."
+   },
+   {
+    "titulo": "Comorbidade psiquiátrica e escolha dos fármacos",
+    "texto": "Depressão, transtornos de ansiedade e transtorno bipolar são 2 a 4 vezes mais frequentes na enxaqueca, e a relação é bidirecional. Com depressão ou insônia, amitriptilina (dose analgésica não trata depressão maior) ou venlafaxina 75 a 150 mg; com transtorno bipolar, valproato se não houver potencial de gestação, ou topiramato como adjuvante; evitar flunarizina (depressão e parkinsonismo) e betabloqueador em depressão grave.\n\nTriptanos podem ser associados a ISRS e IRSN: o risco de síndrome serotoninérgica é muito baixo (posicionamento da AHS, Orlova 2018). Topiramato pode causar lentificação cognitiva, parestesias, depressão, cálculo renal e perda de peso, reduz a eficácia de contraceptivos em doses acima de 200 mg/dia e é teratogênico. Valproato é contraindicado em mulheres com potencial de gestação sem contracepção eficaz."
+   },
+   {
+    "titulo": "Cefaleia por uso excessivo de medicação",
+    "texto": "É a principal armadilha e está presente em até metade dos pacientes com cefaleia crônica em serviços especializados. O paciente com dor diária toma analgésico quase todo dia, e a própria medicação mantém a cefaleia. Opioides e barbitúricos são os que mais cronificam.\n\nO tratamento combina educação, retirada ou restrição do analgésico em excesso (retirada abrupta para analgésicos simples e triptanos; gradual para opioides, barbitúricos e benzodiazepínicos) e início imediato da profilaxia. Um ensaio dinamarquês (Carlsen, JAMA Neurology 2020) mostrou que retirada com profilaxia desde o início foi a estratégia mais eficaz. Dependência comportamental é comum e pode exigir abordagem motivacional."
+   },
+   {
+    "titulo": "Cefaleia em salvas e tipo tensional",
+    "texto": "Na cefaleia em salvas, a crise é tratada com oxigênio a 100% em máscara não reinalante (12 a 15 L/min por 15 minutos) ou sumatriptana 6 mg subcutânea; a profilaxia de escolha é verapamil (240 a 960 mg/dia, com ECG a cada aumento pelo risco de bloqueio atrioventricular), com corticoide como ponte. O lítio (600 a 900 mg/dia, litemia de 0,6 a 0,8 mmol/L) é segunda linha, sobretudo na forma crônica.\n\nNa cefaleia tipo tensional crônica, a amitriptilina 10 a 75 mg à noite é o preventivo com melhor evidência (EFNS 2010), associada a fisioterapia, manejo do estresse e retirada de analgésicos em excesso."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Explicar que enxaqueca é uma doença neurológica crônica, com tratamento para a crise e para prevenção, e que exames de imagem normais são o esperado. O objetivo realista da profilaxia é reduzir os dias de dor em 50% ou mais, com crises menos intensas e mais responsivas; o efeito leva de 2 a 3 meses.\n\nRegularidade de sono e alimentação, exercício aeróbico, controle de peso e limitar o analgésico a menos de 10 dias por mês mudam o curso. Muitas mulheres melhoram após a menopausa, e a enxaqueca com aura associada a tabagismo e contraceptivo com estrogênio aumenta o risco de AVC."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Crise",
+    "duracao": "Horas",
+    "objetivo": "Tratar cedo, com o fármaco adequado à intensidade, e ficar sem dor em 2 horas"
+   },
+   {
+    "fase": "Ensaio da profilaxia",
+    "duracao": "2 a 3 meses em dose-alvo",
+    "objetivo": "Reduzir os dias de cefaleia em 50% ou mais, medidos pelo diário"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "6 a 12 meses",
+    "objetivo": "Sustentar a resposta; depois, tentar reduzir ou suspender gradualmente a profilaxia"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Diagnosticar e excluir alarmes",
+    "acao": "Classificar pela ICHD-3 com diário de cefaleia; investigar sinais SNNOOP10; identificar uso excessivo de analgésicos e comorbidades (depressão, ansiedade, insônia, apneia, obesidade).",
+    "se_falha": "Sinal de alarme: investigar (neuroimagem, punção) antes de tratar como cefaleia primária"
+   },
+   {
+    "passo": "Tratamento da crise",
+    "acao": "Leve a moderada: ibuprofeno 400 a 600 mg, naproxeno 500 a 550 mg, dipirona 1 g ou paracetamol 1 g, com metoclopramida 10 mg se houver náusea. Moderada a grave: sumatriptana 50 a 100 mg ou rizatriptana 10 mg no início da dor, com ou sem anti-inflamatório. Limitar a menos de 10 dias por mês; não usar opioides.",
+    "se_falha": "Falha de 2 triptanos, contraindicação cardiovascular ou 4 ou mais dias com incapacidade por mês: considerar gepante (onde disponível) e indicar profilaxia"
+   },
+   {
+    "passo": "Profilaxia oral de primeira escolha",
+    "acao": "Indicar com 6 ou mais dias de cefaleia por mês ou 4 ou mais dias com incapacidade. Escolher pela comorbidade: propranolol 40 mg/dia até 80 a 160 mg; topiramato 25 mg/dia, subindo 25 mg por semana até 50 a 100 mg; amitriptilina 10 mg à noite até 25 a 75 mg; venlafaxina 75 a 150 mg; candesartana 16 mg; flunarizina 5 a 10 mg à noite.",
+    "se_falha": "Redução inferior a 50% dos dias de cefaleia após 2 a 3 meses em dose-alvo, ou intolerância"
+   },
+   {
+    "passo": "Segunda profilaxia ou anti-CGRP",
+    "acao": "Trocar para preventivo oral de outra classe ou iniciar anticorpo anti-CGRP (erenumabe, galcanezumabe, fremanezumabe) mensal subcutâneo, que pela AHS 2024 pode ser usado já como primeira linha. Em uso excessivo de medicação, retirar o analgésico em excesso junto com a profilaxia.",
+    "se_falha": "Enxaqueca crônica ou falha de 2 a 3 preventivos adequados"
+   },
+   {
+    "passo": "Enxaqueca crônica ou refratária",
+    "acao": "Encaminhar à neurologia ou centro de cefaleia: toxina onabotulínica A (protocolo PREEMPT, 155 a 195 U a cada 12 semanas), anti-CGRP, associação de preventivos, tratamento intensivo da comorbidade psiquiátrica e do uso excessivo de medicação.",
+    "se_falha": "Manejo em centro terciário, incluindo neuromodulação"
+   }
+  ]
+ },
+ "Epilepsia": {
+  "criterios": {
+   "fonte": "Definição clínica prática da ILAE (Fisher et al., 2014); classificação de crises ILAE 2017, atualizada em 2025; DSM-5-TR para crises funcionais",
+   "cid": "CID-10 G40 (epilepsia), G41 (estado de mal epiléptico); CID-11 8A60 (epilepsia); CID-10-MC F44.5 (transtorno de sintomas neurológicos funcionais com ataques ou crises)",
+   "itens": [
+    {
+     "r": "1",
+     "t": "Pelo menos duas crises não provocadas (ou reflexas) separadas por mais de 24 horas."
+    },
+    {
+     "r": "2",
+     "t": "Uma crise não provocada (ou reflexa) e probabilidade de novas crises, nos próximos 10 anos, semelhante ao risco geral de recorrência após duas crises não provocadas (pelo menos 60%).",
+     "sub": [
+      "Exemplos: EEG com atividade epileptiforme, lesão estrutural compatível na RM, lesão cerebral prévia (AVC, trauma, infecção do SNC), crise durante o sono"
+     ]
+    },
+    {
+     "r": "3",
+     "t": "Diagnóstico de uma síndrome epiléptica (por exemplo, epilepsia mioclônica juvenil, epilepsia de ausência infantil)."
+    },
+    {
+     "r": "Epilepsia resolvida",
+     "t": "Síndrome epiléptica dependente da idade em quem já ultrapassou a faixa etária, ou 10 anos sem crises, com os últimos 5 anos sem fármacos anticrise."
+    }
+   ],
+   "especificadores": [
+    "Tipo de crise (ILAE 2017): início focal (com consciência preservada ou comprometida; motora ou não motora; focal evoluindo para tônico-clônica bilateral), início generalizado (motora: tônico-clônica, mioclônica, atônica, tônica; não motora: ausência), início desconhecido",
+    "Revisão ILAE 2025: usa 'consciência' em vez de 'percepção' (focal com consciência preservada ou comprometida) e acrescenta a categoria não classificada",
+    "Tipo de epilepsia: focal, generalizada, combinada generalizada e focal, desconhecida",
+    "Etiologia: estrutural, genética, infecciosa, metabólica, imune, desconhecida",
+    "Farmacorresistente (ILAE 2010): falha de dois esquemas de fármacos anticrise bem escolhidos, tolerados e usados adequadamente (em monoterapia ou associação) em obter controle sustentado"
+   ],
+   "notas": [
+    "Crise provocada (sintomática aguda) ocorre em até 7 dias de insulto agudo (AVC, trauma, encefalite) ou junto de distúrbio metabólico ou tóxico (hipoglicemia, hiponatremia, abstinência de álcool ou benzodiazepínicos, intoxicação por bupropiona, tramadol ou clozapina) e não configura epilepsia.",
+    "Estado de mal epiléptico (ILAE 2015): crise tônico-clônica de 5 minutos ou mais (t1) ou crises repetidas sem recuperação entre elas; lesão neuronal esperada após 30 minutos (t2). Na crise focal com comprometimento da consciência, t1 é 10 minutos.",
+    "EEG interictal normal não exclui epilepsia; a descrição da testemunha (ou vídeo do evento no celular) é o dado mais valioso.",
+    "Crises funcionais (não epilépticas psicogênicas) são diagnosticadas no DSM-5-TR como transtorno de sintomas neurológicos funcionais com ataques ou crises; o padrão-ouro é o videoeletroencefalograma registrando o evento típico. Podem coexistir com epilepsia."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A epilepsia afeta 0,5 a 1% da população, com incidência maior na infância e após os 60 anos (AVC, demência). Na coorte de Glasgow acompanhada por 30 anos (Chen, JAMA Neurology 2018), cerca de 50% ficaram livres de crises com o primeiro fármaco, 12% com o segundo e apenas 4% com o terceiro: após duas falhas bem conduzidas, a chance de controle com novos fármacos cai muito, o que fundamenta a definição de farmacorresistência e o encaminhamento precoce para cirurgia.\n\nA mortalidade é 2 a 3 vezes maior que a da população geral. A morte súbita inesperada na epilepsia (SUDEP) ocorre em cerca de 1 por 1.000 pacientes por ano e se relaciona sobretudo a crises tônico-clônicas não controladas, especialmente noturnas."
+   },
+   {
+    "titulo": "Mecanismos dos fármacos anticrise",
+    "texto": "Bloqueadores de canais de sódio (carbamazepina, oxcarbazepina, lamotrigina, fenitoína, lacosamida) são eficazes em crises focais, mas podem piorar ausências e mioclonias nas epilepsias generalizadas genéticas. Levetiracetam liga-se à proteína SV2A da vesícula sináptica; benzodiazepínicos e fenobarbital potencializam o GABA-A; etossuximida bloqueia canais de cálcio tipo T talâmicos (ausências); gabapentina e pregabalina ligam-se à subunidade alfa-2-delta.\n\nValproato e topiramato têm mecanismos múltiplos e amplo espectro. Por isso, no tipo de epilepsia incerto, preferem-se fármacos de amplo espectro (valproato, lamotrigina, levetiracetam) aos bloqueadores de sódio clássicos."
+   },
+   {
+    "titulo": "O que dizem os ensaios",
+    "texto": "O SANAD (Marson, Lancet 2007) mostrou lamotrigina superior a carbamazepina, gabapentina e topiramato no tempo até falha do tratamento em crises focais, e valproato superior a lamotrigina e topiramato em epilepsias generalizadas. O SANAD II (Lancet 2021) confirmou lamotrigina superior a levetiracetam e zonisamida nas focais, e valproato superior a levetiracetam nas generalizadas. Esses dados sustentam a NICE NG217 (2022): lamotrigina ou levetiracetam nas focais, valproato nas generalizadas, exceto em mulheres com potencial de gestação.\n\nNo estado de mal, o RAMPART (NEJM 2012) mostrou midazolam intramuscular pelo menos tão eficaz quanto lorazepam intravenoso no pré-hospitalar, e o ESETT (NEJM 2019) mostrou levetiracetam, fosfenitoína e valproato equivalentes (cerca de 50% de resposta) na fase refratária a benzodiazepínico."
+   },
+   {
+    "titulo": "Epilepsia e psiquiatria",
+    "texto": "Depressão e ansiedade afetam 20 a 30% das pessoas com epilepsia, e o risco de suicídio é aumentado. ISRS (sertralina, escitalopram) são seguros e não reduzem o limiar convulsivo em doses usuais. Fármacos anticrise podem causar sintomas psiquiátricos: levetiracetam (irritabilidade, depressão, psicose), topiramato (lentificação, depressão), perampanel (agressividade), barbitúricos (depressão); lamotrigina, valproato e carbamazepina tendem a estabilizar o humor. A FDA (2008) alertou para pequeno aumento de ideação suicida com fármacos anticrise.\n\nPsicose pós-ictal (após salva de crises, com intervalo lúcido de 1 a 3 dias) e psicose alternante (normalização forçada, quando as crises são suprimidas) devem ser reconhecidas. Entre psicofármacos, reduzem o limiar de forma dose-dependente clozapina (convulsões em cerca de 1% abaixo de 300 mg/dia e até 4 a 5% acima de 600 mg/dia), bupropiona, clomipramina, maprotilina e clorpromazina; ECT não é contraindicada."
+   },
+   {
+    "titulo": "Interações e populações especiais",
+    "texto": "Carbamazepina, fenitoína e fenobarbital são indutores enzimáticos: reduzem níveis de antipsicóticos, antidepressivos, benzodiazepínicos, anticoagulantes e contraceptivos hormonais. Valproato inibe a glicuronidação da lamotrigina, dobrando seus níveis (usar metade da dose e titular mais devagar pelo risco de Stevens-Johnson). Estrogênios e gestação reduzem os níveis de lamotrigina. Antes de carbamazepina em pessoas de ascendência asiática, pesquisar HLA-B*15:02.\n\nEm mulheres com potencial de gestação, valproato causa malformações em cerca de 10% das gestações expostas e reduz o QI e aumenta o risco de autismo na prole (NEAD); topiramato também tem restrições. Lamotrigina e levetiracetam têm o menor risco no registro EURAP. Associar ácido fólico e planejar a gestação."
+   },
+   {
+    "titulo": "Crises funcionais",
+    "texto": "Cerca de 20 a 30% dos pacientes encaminhados a centros de epilepsia por crises refratárias têm crises funcionais. Sugerem o diagnóstico: olhos fechados durante o evento, movimentos assíncronos ou que variam, movimentos laterais da cabeça, projeção pélvica, duração longa com flutuação, choro e recordação do evento. O diagnóstico é feito por videoeletroencefalograma e deve ser comunicado de forma positiva, explicando o mecanismo, e não apenas como ausência de epilepsia.\n\nO tratamento é psicoterápico (TCC focada nas crises, com tratamento de trauma e comorbidades) e inclui retirar fármacos anticrise desnecessários. No ensaio CODES (Goldstein, Lancet Psychiatry 2020), a TCC não reduziu significativamente a frequência de crises em 12 meses, mas melhorou vários desfechos secundários."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "A maioria dos pacientes controla as crises com o primeiro ou o segundo fármaco. Orientar adesão, sono regular, evitar álcool em excesso, restrições de direção e atividades de risco (nadar sozinho, altura) e o plano de resgate para crises prolongadas.\n\nA retirada pode ser discutida após pelo menos 2 anos sem crises; o risco de recorrência varia de 30 a 50% e é maior com lesão estrutural, EEG alterado ou epilepsia mioclônica juvenil, em que o tratamento costuma ser por toda a vida."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Primeira crise",
+    "duracao": "Dias a 2 semanas",
+    "objetivo": "Excluir causa provocada, avaliar com neurologista, EEG e RM e decidir se há indicação de tratar"
+   },
+   {
+    "fase": "Titulação da monoterapia",
+    "duracao": "1 a 3 meses",
+    "objetivo": "Chegar à menor dose eficaz do fármaco adequado ao tipo de epilepsia"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "Pelo menos 2 anos sem crises",
+    "objetivo": "Controle sustentado com mínimo de efeitos adversos; monitorar humor e interações"
+   },
+   {
+    "fase": "Retirada, se indicada",
+    "duracao": "3 meses ou mais por fármaco",
+    "objetivo": "Reduzir um fármaco por vez, com decisão compartilhada sobre risco de recorrência e direção"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Confirmar e classificar",
+    "acao": "Relato da testemunha, EEG e RM; distinguir crise provocada, síncope e crise funcional; classificar crise e epilepsia (focal ou generalizada). Tratar após a segunda crise não provocada ou após a primeira se o risco de recorrência for alto (critério ILAE 2014).",
+    "se_falha": "Diagnóstico incerto após avaliação: videoeletroencefalograma"
+   },
+   {
+    "passo": "Primeira monoterapia",
+    "acao": "Focal: lamotrigina 25 mg/dia por 2 semanas, 50 mg/dia por 2 semanas e depois subir 50 mg a cada 1 a 2 semanas até 100 a 200 mg/dia, ou levetiracetam 500 mg 2 vezes ao dia até 1.000 a 1.500 mg 2 vezes ao dia. Generalizada: valproato 500 mg/dia até 1.000 a 2.000 mg/dia em homens e mulheres sem potencial de gestação; lamotrigina ou levetiracetam nas demais.",
+    "se_falha": "Crises persistentes na dose máxima tolerada, ou efeito adverso que impede a dose eficaz"
+   },
+   {
+    "passo": "Segunda monoterapia",
+    "acao": "Trocar por outro fármaco de primeira ou segunda linha para o tipo de crise (focal: carbamazepina, oxcarbazepina, zonisamida, lacosamida; generalizada: lamotrigina, levetiracetam, topiramato), introduzindo o novo antes de retirar o antigo. Revisar adesão, sono, álcool e interações.",
+    "se_falha": "Falha de dois fármacos adequados: epilepsia farmacorresistente"
+   },
+   {
+    "passo": "Associação racional",
+    "acao": "Associar fármacos de mecanismos diferentes (por exemplo, lamotrigina com valproato, com dose reduzida de lamotrigina; clobazam como adjuvante). Evitar associar dois bloqueadores de sódio.",
+    "se_falha": "Persistência de crises com dois esquemas: encaminhar sem demora"
+   },
+   {
+    "passo": "Centro de epilepsia",
+    "acao": "Videoeletroencefalograma, avaliação para cirurgia (na epilepsia do lobo temporal, 58% sem crises com cirurgia contra 8% com fármacos no ensaio de Wiebe, NEJM 2001), estimulação do nervo vago, dieta cetogênica, canabidiol nas síndromes de Dravet e Lennox-Gastaut.",
+    "se_falha": "Acompanhamento em centro terciário, com foco em segurança e qualidade de vida"
+   }
+  ]
+ },
+ "Enurese": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022); terminologia da International Children's Continence Society (ICCS)",
+   "cid": "CID-10-MC F98.0 (enurese não devida a substância ou condição fisiológica conhecida); CID-11 6C00",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Eliminação repetida de urina na cama ou na roupa, voluntária ou involuntária."
+    },
+    {
+     "r": "B",
+     "t": "Clinicamente significativa, manifestada por frequência de pelo menos 2 vezes por semana durante pelo menos 3 meses consecutivos OU por sofrimento clinicamente significativo ou prejuízo social, acadêmico (profissional) ou em outras áreas importantes."
+    },
+    {
+     "r": "C",
+     "t": "Idade cronológica de pelo menos 5 anos (ou nível de desenvolvimento equivalente)."
+    },
+    {
+     "r": "D",
+     "t": "Não atribuível aos efeitos fisiológicos de uma substância (por exemplo, diurético, antipsicótico) nem a outra condição médica (por exemplo, diabetes, espinha bífida, transtorno convulsivo)."
+    }
+   ],
+   "especificadores": [
+    "Exclusivamente noturna: eliminação de urina apenas durante o sono noturno (o subtipo mais comum, em geral no primeiro terço da noite; às vezes chamado de monossintomático)",
+    "Exclusivamente diurna: eliminação durante a vigília; divide-se em incontinência de urgência (urgência e instabilidade do detrusor) e adiamento da micção",
+    "Noturna e diurna: combinação dos dois (também chamada de enurese não monossintomática)",
+    "ICCS: monossintomática (só noturna, sem sintomas vesicais diurnos) ou não monossintomática (com urgência, polaciúria, manobras de contenção ou incontinência diurna)",
+    "Curso: primária (nunca houve continência estabelecida; ICCS: nunca ficou seca por 6 meses) ou secundária (após período de continência)"
+   ],
+   "notas": [
+    "Para crianças com atraso do desenvolvimento, o critério C exige idade mental mínima de 5 anos.",
+    "Prevalência de enurese noturna (DSM-5-TR): 5 a 10% aos 5 anos, 3 a 5% aos 10 anos e cerca de 1% aos 15 anos ou mais; remissão espontânea de 5 a 10% ao ano após os 5 anos; predomínio masculino de 2 para 1.",
+    "Enurese secundária exige investigar estressores (nascimento de irmão, separação, abuso), diabetes, infecção urinária, constipação e apneia do sono.",
+    "Sempre fazer urina tipo 1; com sintomas diurnos, jato fraco ou alterações, ultrassonografia e avaliação urológica. Clozapina causa enurese noturna em adultos com frequência; lítio pode causá-la pela poliúria."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "Pelo DSM-5-TR, a enurese noturna atinge 5 a 10% das crianças de 5 anos, 3 a 5% aos 10 anos e cerca de 1% a partir dos 15 anos; a remissão espontânea é de 5 a 10% ao ano, e cerca de 1% persiste na vida adulta. É mais frequente em meninos e em crianças com TDAH, problemas de aprendizagem e atraso do desenvolvimento.\n\nA herdabilidade é alta: o risco é 3,6 vezes maior em filhos de mães enuréticas e 10,1 vezes maior com incontinência paterna. A enurese secundária costuma começar entre 5 e 8 anos, muitas vezes após estressor."
+   },
+   {
+    "titulo": "Fisiopatologia e como os tratamentos agem",
+    "texto": "A enurese noturna resulta do desequilíbrio entre três fatores: poliúria noturna (falta do aumento noturno da vasopressina), capacidade vesical noturna reduzida ou hiperatividade do detrusor, e limiar de despertar elevado, que impede a criança de acordar com a bexiga cheia. O sono dessas crianças não é mais profundo; muitas vezes é fragmentado.\n\nA desmopressina (análogo da vasopressina) corrige a poliúria e funciona melhor quando o volume urinário noturno é alto e a capacidade vesical normal. O alarme condiciona o despertar e a inibição central da micção, com efeito que persiste após a retirada. A imipramina tem efeito anticolinérgico sobre a bexiga, noradrenérgico sobre o despertar e possivelmente antidiurético, mas a resposta costuma desaparecer ao suspender. Anticolinérgicos (oxibutinina) aumentam a capacidade vesical."
+   },
+   {
+    "titulo": "O que dizem as diretrizes e as metanálises",
+    "texto": "A ICCS (Nevéus, 2020) põe alarme e desmopressina como primeira linha, escolhidos com a família. A revisão Cochrane sobre alarmes (Caldwell, 2020) mostra resposta em cerca de dois terços, com menor recaída que a desmopressina, mas exige família motivada e leva 6 a 16 semanas. A desmopressina age em dias, mas a recaída após suspensão é alta, reduzida com retirada estruturada.\n\nTricíclicos reduzem cerca de uma noite molhada por semana (Cochrane, Caldwell 2016), com recaída frequente e risco de morte por superdosagem acidental (inclusive por irmãos), razão pela qual a imipramina é terceira linha, por especialista. A associação de desmopressina com oxibutinina ajuda quando há hiperatividade vesical ou baixa capacidade."
+   },
+   {
+    "titulo": "Comorbidades que mudam a conduta",
+    "texto": "Constipação é a comorbidade mais importante e muitas vezes oculta: a retenção fecal comprime a bexiga, e tratá-la resolve parte dos casos. Sintomas diurnos (urgência, manobras de contenção, incontinência) definem a forma não monossintomática, que exige uroterapia antes de alarme ou desmopressina. Roncos e apneia (hipertrofia adenotonsilar) causam poliúria noturna e melhoram após tratamento.\n\nTDAH é 2 a 3 vezes mais frequente e reduz a adesão ao alarme; tratar o TDAH melhora a adesão. Em adultos com esquizofrenia, a enurese induzida por clozapina é comum e constrangedora: urinar antes de deitar, restringir líquidos à noite, concentrar menos dose à noite; desmopressina exige cautela pelo risco de hiponatremia, sobretudo com polidipsia; a associação de aripiprazol foi descrita em séries de casos."
+   },
+   {
+    "titulo": "Armadilhas",
+    "texto": "Punir ou humilhar a criança piora a autoestima e não reduz os episódios; a enurese não é intencional na grande maioria dos casos. A desmopressina em spray nasal não é mais recomendada para enurese pelo risco maior de hiponatremia; usar comprimido ou liofilizado, com restrição de líquidos 1 hora antes até 8 horas depois da dose.\n\nNa enurese secundária de início recente, lembrar de diabetes (poliúria, polidipsia, perda de peso), infecção urinária e abuso sexual. Guardar imipramina fora do alcance de crianças."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer à família",
+    "texto": "Explicar que é comum, hereditária, não é culpa da criança nem preguiça, e que tende a desaparecer com o tempo. Tratamento ativo se justifica a partir de 5 a 6 anos quando incomoda a criança ou a família, ou antes de acampamentos e viagens.\n\nO alarme exige semanas de persistência, com um adulto ajudando a criança a acordar; a desmopressina age rápido, mas a recaída ao suspender é comum. O tratamento reduz o sofrimento e melhora a autoestima, que costuma se recuperar quando a criança fica seca."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Avaliação e uroterapia",
+    "duracao": "2 a 4 semanas",
+    "objetivo": "Diário miccional, urina tipo 1, tratar constipação e sintomas diurnos, desculpabilizar"
+   },
+   {
+    "fase": "Tratamento ativo",
+    "duracao": "Alarme 6 a 16 semanas; desmopressina cerca de 3 meses por ciclo",
+    "objetivo": "Resposta completa (nenhuma noite molhada) ou pelo menos parcial (redução de 50 a 99%); alarme até 14 noites secas consecutivas"
+   },
+   {
+    "fase": "Retirada e seguimento",
+    "duracao": "1 a 6 meses",
+    "objetivo": "Retirada gradual da desmopressina e vigilância de recaída, com retomada do método que funcionou"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Avaliar",
+    "acao": "Confirmar idade de 5 anos ou mais, subtipo (monossintomática ou não, primária ou secundária), diário de micções e noites molhadas, urina tipo 1, exame de abdome e coluna lombossacra; investigar constipação, roncos, TDAH e estressores.",
+    "se_falha": "Sintomas diurnos, infecção urinária, alteração neurológica ou jato fraco: tratar bexiga e intestino e encaminhar à urologia pediátrica antes de seguir"
+   },
+   {
+    "passo": "Primeira linha",
+    "acao": "Alarme para família motivada e capacidade vesical reduzida. Desmopressina para poliúria noturna ou quando se precisa de resposta rápida: comprimido 0,2 mg, até 0,4 mg, 1 hora antes de dormir (ou liofilizado sublingual 120 a 240 mcg, onde disponível), com restrição de líquidos 1 hora antes até 8 horas depois.",
+    "se_falha": "Sem resposta parcial após 6 a 8 semanas de alarme ou 2 a 4 semanas de desmopressina na dose máxima"
+   },
+   {
+    "passo": "Troca ou associação",
+    "acao": "Trocar de método ou associar alarme e desmopressina. Com hiperatividade vesical ou baixa capacidade, associar oxibutinina 5 mg à noite à desmopressina. Reavaliar adesão, constipação oculta e apneia.",
+    "se_falha": "Refratariedade a alarme e desmopressina, isolados e combinados"
+   },
+   {
+    "passo": "Terceira linha",
+    "acao": "Imipramina, em serviço especializado: 25 mg (6 a 8 anos) ou 50 mg (maiores) ao deitar, por ciclos de até 3 meses com retirada gradual; ECG se houver história cardíaca pessoal ou familiar de síncope ou morte súbita. Orientar guarda segura pelo risco em superdosagem.",
+    "se_falha": "Sem resposta: encaminhar a nefrologia ou urologia pediátrica e, se houver comorbidade psiquiátrica relevante, psiquiatria da infância"
+   }
+  ]
+ },
+ "Prurido": {
+  "criterios": {
+   "fonte": "Classificação clínica do International Forum for the Study of Itch (IFSI, Ständer et al., 2007) e critérios de prurido funcional (psicogênico) do French Psychodermatology Group (Misery et al., 2007)",
+   "cid": "CID-10 L29 (prurido), F45.8 (outros transtornos somatoformes, inclui prurido psicogênico)",
+   "itens": [
+    {
+     "r": "Prurido crônico",
+     "t": "Prurido com duração de 6 semanas ou mais."
+    },
+    {
+     "r": "Grupo clínico I",
+     "t": "Prurido em pele doente (inflamada): dermatite atópica, psoríase, urticária, escabiose, dermatite de contato."
+    },
+    {
+     "r": "Grupo clínico II",
+     "t": "Prurido em pele não inflamada (sine materia): causas sistêmicas, neurológicas ou psicogênicas, sem lesão primária."
+    },
+    {
+     "r": "Grupo clínico III",
+     "t": "Prurido com lesões secundárias crônicas de coçadura (escoriações, prurigo nodular, liquenificação), sem lesão primária identificável."
+    },
+    {
+     "r": "Categorias etiológicas",
+     "t": "Dermatológica; sistêmica (renal, hepática colestática, hematológica, endócrina, infecciosa, induzida por fármacos, da gestação); neurológica (neuropatia de fibras finas, prurido braquiorradial, notalgia parestésica, esclerose múltipla); somatoforme ou psicogênica; mista; outras (causa indeterminada)."
+    },
+    {
+     "r": "Prurido funcional: critérios obrigatórios (3 de 3)",
+     "t": "Todos devem estar presentes.",
+     "sub": [
+      "Prurido localizado ou generalizado sem lesão cutânea primária",
+      "Prurido crônico (mais de 6 semanas)",
+      "Sem causa somática identificável após investigação adequada"
+     ]
+    },
+    {
+     "r": "Prurido funcional: critérios opcionais (3 de 7)",
+     "t": "Pelo menos 3 dos seguintes.",
+     "sub": [
+      "Relação cronológica com um ou mais eventos de vida com repercussão psicológica",
+      "Variação de intensidade associada ao estresse",
+      "Variação noturna",
+      "Predomínio durante repouso ou inatividade",
+      "Transtorno psicológico associado",
+      "Melhora com psicofármacos",
+      "Melhora com psicoterapia"
+     ]
+    }
+   ],
+   "notas": [
+    "Transtornos do DSM-5-TR que se apresentam como prurido ou lesões de coçadura: transtorno de escoriação (skin picking), transtorno delirante tipo somático (infestação delirante ou parasitose delirante), transtorno de sintomas somáticos, TOC e transtorno dismórfico corporal.",
+    "Infestação delirante: convicção fixa de estar infestado, com 'amostras' trazidas em recipientes (sinal da caixa de fósforos); pode ser secundária a estimulantes, cocaína, agonistas dopaminérgicos, demência ou deficiência de vitamina B12.",
+    "Prurido induzido por fármacos: opioides (sobretudo espinhais), cloroquina, IECA, estatinas, hidroxietilamido; entre psicofármacos, exantemas de lamotrigina e carbamazepina, e piora de acne e psoríase com lítio."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e impacto",
+    "texto": "O prurido crônico atinge cerca de 13 a 16% dos adultos em estudos populacionais (Matterne, 2011) e é muito mais frequente em idosos (xerose), em pacientes em hemodiálise (cerca de 40% com prurido moderado a grave, DOPPS) e em doenças colestáticas.\n\nO impacto psíquico é grande: insônia, depressão, ansiedade e ideação suicida aumentam com a intensidade do prurido. Por outro lado, cerca de um terço dos pacientes de dermatologia tem comorbidade psiquiátrica relevante, e estresse e ansiedade amplificam o ciclo prurido e coçadura."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "O prurido é conduzido por fibras C específicas, em vias histaminérgicas (urticária, picadas) e não histaminérgicas (receptores PAR-2, interleucinas 31, 4 e 13, serotonina), estas predominantes no prurido crônico; por isso anti-histamínicos ajudam pouco fora da urticária. No SNC, há sensibilização central semelhante à da dor, e o sistema opioide modula o prurido: a ativação de receptores mu aumenta o prurido e a de receptores kappa o reduz.\n\nDaí a lógica dos tratamentos: naltrexona (antagonista mu) no prurido colestático e urêmico; difelicefalina (agonista kappa periférico) no prurido urêmico, aprovada nos EUA e na Europa; gabapentinoides no prurido neuropático e urêmico, pela redução da transmissão central; mirtazapina pelo bloqueio H1, 5-HT2 e 5-HT3 e melhora do sono; ISRS (paroxetina, sertralina) por modulação serotoninérgica central."
+   },
+   {
+    "titulo": "Evidência por mecanismo",
+    "texto": "Prurido urêmico: gabapentina (100 a 300 mg após cada sessão de diálise) e pregabalina (25 a 75 mg/dia) têm ensaios pequenos positivos. Prurido colestático: pela EASL (2017), colestiramina é primeira linha, rifampicina segunda, naltrexona terceira e sertralina quarta. Prurido paraneoplásico e noturno: mirtazapina 7,5 a 30 mg à noite e paroxetina, com dados de séries e ensaios pequenos.\n\nPrurigo nodular e dermatite atópica ganharam terapias biológicas (dupilumabe, nemolizumabe) com grande efeito, o que reforça encaminhar à dermatologia quando há lesões crônicas de coçadura. Em quase todas as indicações psicofarmacológicas a evidência é de nível moderado a baixo, o que justifica ensaios individuais com metas claras."
+   },
+   {
+    "titulo": "Psicodermatologia",
+    "texto": "Separar três situações: transtorno psiquiátrico primário que se manifesta na pele (infestação delirante, escoriação, TOC); prurido orgânico com comorbidade psiquiátrica secundária (insônia, depressão); e prurido funcional, diagnosticado pelos critérios de Misery após investigação.\n\nNa infestação delirante, não confrontar a crença e não prescrever antiparasitários repetidos; apresentar o antipsicótico como tratamento para a sensação e o sofrimento. Risperidona 0,5 a 2 mg, aripiprazol 2 a 10 mg ou olanzapina 2,5 a 10 mg produzem resposta na maioria dos pacientes que aderem, em 6 a 12 semanas. No transtorno de escoriação, TCC com reversão de hábito é a base; N-acetilcisteína e ISRS têm evidência limitada."
+   },
+   {
+    "titulo": "Armadilhas",
+    "texto": "Não rotular como psicogênico antes de investigar: linfoma de Hodgkin (o prurido pode anteceder o diagnóstico em meses), policitemia vera (prurido aquagênico), deficiência de ferro, colestase, doença renal, tireoide, HIV, escabiose e fármacos. Repetir a investigação se surgirem sintomas sistêmicos.\n\nHidroxizina e anti-histamínicos de primeira geração causam sedação, efeito anticolinérgico, quedas e prolongamento do QT, e devem ser evitados em idosos. ISRS e opioides podem, eles mesmos, causar prurido. Naltrexona precipita abstinência em quem usa opioides."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Explicar o ciclo prurido e coçadura: coçar alivia na hora, mas lesa a pele e aumenta o prurido depois. Metas realistas: reduzir a intensidade (escala numérica) e melhorar o sono.\n\nO prognóstico depende da causa: bom quando há causa tratável (ferro, tireoide, fármaco), crônico e flutuante no prurido urêmico, neuropático e do idoso. Cuidados com a pele (emolientes, banhos curtos e mornos) continuam necessários mesmo com fármaco."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Investigação e medidas gerais",
+    "duracao": "2 a 4 semanas",
+    "objetivo": "Classificar (IFSI), investigar causas, suspender fármacos suspeitos e iniciar cuidados com a pele"
+   },
+   {
+    "fase": "Tratamento escalonado",
+    "duracao": "2 a 8 semanas por etapa",
+    "objetivo": "Reduzir a intensidade do prurido e melhorar o sono com o tratamento dirigido ao mecanismo"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "Meses, com reavaliação periódica",
+    "objetivo": "Manter a menor dose eficaz, tratar a causa de base e o componente psíquico"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Classificar e investigar",
+    "acao": "Classificar pelo grupo clínico IFSI; hemograma, ferritina, função renal e hepática, glicemia, TSH, VHS ou PCR; ampliar conforme sinais. Revisar fármacos e suspender os suspeitos. Rastrear infestação delirante, escoriação, depressão e insônia.",
+    "se_falha": "Causa específica identificada: tratar a causa (passo 3) em paralelo às medidas sintomáticas"
+   },
+   {
+    "passo": "Medidas gerais e primeira etapa",
+    "acao": "Emolientes, banhos mornos e curtos, unhas curtas. Anti-histamínico H1 não sedativo (até 4 vezes a dose padrão) e tópicos (corticoide se inflamação, mentol, polidocanol, capsaicina). Hidroxizina 25 mg à noite só para o sono e evitada em idosos.",
+    "se_falha": "Prurido que continua a atrapalhar sono ou função após 2 a 4 semanas"
+   },
+   {
+    "passo": "Tratar a causa",
+    "acao": "Colestase: colestiramina 4 a 16 g/dia afastada de outros fármacos; rifampicina como segunda linha (hepatologia). Doença renal: otimizar diálise. Deficiência de ferro, tireoide, fármaco causal: corrigir.",
+    "se_falha": "Prurido refratário apesar do tratamento da causa"
+   },
+   {
+    "passo": "Sistêmico por mecanismo",
+    "acao": "Neuropático ou urêmico: gabapentina 100 a 300 mg após cada diálise (300 a 1.800 mg/dia com função renal normal) ou pregabalina 25 a 75 mg/dia na diálise (75 a 300 mg/dia com função renal normal). Noturno, paraneoplásico ou com depressão: mirtazapina 7,5 a 30 mg à noite. Colestático refratário: naltrexona 12,5 mg/dia, subindo até 50 mg/dia, ou sertralina 75 a 100 mg/dia. Paroxetina 20 mg é alternativa.",
+    "se_falha": "Sem melhora de pelo menos 30% na escala numérica após 4 a 8 semanas"
+   },
+   {
+    "passo": "Componente psíquico e encaminhamento",
+    "acao": "Reversão de hábito e TCC para o comportamento de coçar; tratar depressão e ansiedade. Infestação delirante: antipsicótico em dose baixa (risperidona 0,5 a 2 mg, aripiprazol 2 a 10 mg). Encaminhar à dermatologia (fototerapia UVB, biológicos no prurigo nodular) ou à psicodermatologia.",
+    "se_falha": "Acompanhamento conjunto dermatologia e psiquiatria"
+   }
+  ]
+ },
+ "Sintomas vasomotores": {
+  "criterios": {
+   "fonte": "STRAW+10 (Harlow et al., 2012) para estadiamento; definições de gravidade usadas pela FDA; The Menopause Society (NAMS), posicionamentos de 2022 (terapia hormonal) e 2023 (terapia não hormonal)",
+   "cid": "CID-10 N95.1 (estados da menopausa e do climatério feminino)",
+   "itens": [
+    {
+     "r": "Fogacho",
+     "t": "Episódio súbito de calor intenso na parte superior do tórax, pescoço e face, que se espalha, dura de 1 a 5 minutos e se acompanha de rubor, sudorese e, às vezes, palpitações, ansiedade e calafrios ao final."
+    },
+    {
+     "r": "Sudorese noturna",
+     "t": "Fogachos durante o sono, com despertares frequentes e piora da insônia."
+    },
+    {
+     "r": "Gravidade (FDA)",
+     "t": "Três graus.",
+     "sub": [
+      "Leve: sensação de calor sem sudorese",
+      "Moderada: calor com sudorese, sem interromper a atividade",
+      "Grave: calor com sudorese que obriga a interromper a atividade"
+     ]
+    },
+    {
+     "r": "Transição menopausal tardia (STRAW -1)",
+     "t": "Intervalos de amenorreia de 60 dias ou mais; FSH acima de 25 UI/L em amostra aleatória; sintomas vasomotores muito prováveis."
+    },
+    {
+     "r": "Menopausa",
+     "t": "12 meses de amenorreia sem outra causa, em média aos 51 anos. A pós-menopausa inicial (estágios +1a a +1c) dura cerca de 5 a 8 anos e concentra os fogachos mais intensos."
+    },
+    {
+     "r": "Insuficiência ovariana prematura",
+     "t": "Menopausa antes dos 40 anos: exige investigação e reposição hormonal até a idade habitual da menopausa, salvo contraindicação."
+    }
+   ],
+   "notas": [
+    "Os sintomas vasomotores afetam 60 a 80% das mulheres na transição; no SWAN (Avis, JAMA Internal Medicine 2015), a duração mediana foi de 7,4 anos, maior quando começam na perimenopausa. São mais intensos após ooforectomia, quimioterapia e com inibidores de aromatase ou tamoxifeno.",
+    "Em homens sob privação androgênica (câncer de próstata) ocorrem fogachos semelhantes; venlafaxina, gabapentina e acetato de medroxiprogesterona são usados.",
+    "FSH isolado não é necessário para o diagnóstico acima de 45 anos com quadro típico. Investigar causas secundárias se o quadro for atípico: hipertireoidismo, feocromocitoma, carcinoide, infecção, álcool e fármacos (ISRS, IRSN, opioides, tamoxifeno)."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "Fogachos são o sintoma mais típico da transição menopausal e afetam a maioria das mulheres; cerca de um quarto tem sintomas moderados a graves. No SWAN, a duração mediana foi de 7,4 anos, chegando a mais de 10 anos quando os fogachos começam ainda com ciclos menstruais.\n\nFogachos noturnos fragmentam o sono, e insônia, irritabilidade e queda de concentração que se seguem são frequentemente confundidas com transtorno de humor ou de ansiedade."
+   },
+   {
+    "titulo": "Neurobiologia e como os tratamentos agem",
+    "texto": "Com a queda do estradiol, os neurônios KNDy (kisspeptina, neurocinina B e dinorfina) do núcleo infundibular hipertrofiam e aumentam a sinalização pela neurocinina B nos receptores NK3, estreitando a zona termoneutra hipotalâmica: pequenas elevações da temperatura central disparam vasodilatação e sudorese.\n\nO estradiol restaura esse controle e é o tratamento mais eficaz (redução de cerca de 75%). Fezolinetante bloqueia diretamente o receptor NK3 (ensaios SKYLIGHT 1 e 2, Lancet 2023). ISRS e IRSN modulam a termorregulação serotoninérgica e noradrenérgica, e a gabapentina age na subunidade alfa-2-delta, reduzindo a excitabilidade hipotalâmica."
+   },
+   {
+    "titulo": "O que dizem os ensaios",
+    "texto": "No programa MsFLASH, escitalopram 10 a 20 mg reduziu a frequência de fogachos em 47% contra 33% com placebo (Freeman, JAMA 2011), e venlafaxina 75 mg teve eficácia um pouco inferior à do estradiol em dose baixa (Joffe, JAMA Internal Medicine 2014). A paroxetina 7,5 mg foi aprovada pela FDA com base em dois ensaios de fase 3. A resposta ao placebo é grande (20 a 35%), e o ganho dos fármacos não hormonais é moderado.\n\nO efeito dos ISRS e IRSN aparece em 1 a 2 semanas, bem antes do efeito antidepressivo: se não houver resposta em 4 semanas na dose-alvo, trocar. A gabapentina (300 a 900 mg à noite, até 2.400 mg/dia) é especialmente útil para sudorese noturna e insônia."
+   },
+   {
+    "titulo": "Perimenopausa e saúde mental",
+    "texto": "A transição menopausal aumenta em 2 a 4 vezes o risco de episódio depressivo, mesmo sem história prévia (SWAN, Penn Ovarian Aging Study), e pode desestabilizar transtorno bipolar. A diretriz de depressão perimenopáusica da NAMS com a National Network of Depression Centers (Maki, 2018) recomenda antidepressivos como primeira linha para depressão maior; o estradiol transdérmico tem efeito antidepressivo na perimenopausa, mas não na pós-menopausa.\n\nCom depressão ou ansiedade e fogachos, venlafaxina, desvenlafaxina ou escitalopram em dose antidepressiva tratam ambos. Antidepressivos também podem causar sudorese, o que confunde a avaliação: registrar o padrão antes de iniciar."
+   },
+   {
+    "titulo": "Câncer de mama e tamoxifeno",
+    "texto": "O tamoxifeno é convertido no metabólito ativo endoxifeno pelo CYP2D6. Paroxetina, fluoxetina e bupropiona inibem fortemente essa enzima; num estudo de coorte canadense (Kelly, BMJ 2010), a paroxetina associada ao tamoxifeno se relacionou a maior mortalidade por câncer de mama. Preferir venlafaxina, desvenlafaxina, escitalopram, citalopram ou gabapentina.\n\nA terapia hormonal sistêmica é contraindicada após câncer de mama, e nessas pacientes as opções não hormonais e a TCC são a base."
+   },
+   {
+    "titulo": "Terapia hormonal e armadilhas",
+    "texto": "A leitura inicial do WHI (2002) afastou muitas mulheres da terapia hormonal. Pela NAMS (2022), para mulheres com menos de 60 anos ou menos de 10 anos de menopausa, sem contraindicação, o benefício supera o risco no tratamento dos sintomas vasomotores. Contraindicações: câncer de mama ou de endométrio, tromboembolismo, doença coronariana ou AVC, hepatopatia ativa, sangramento não explicado.\n\nClonidina tem efeito pequeno com hipotensão e sedação e não é mais recomendada pela NAMS (2023). Fitoterápicos, isoflavonas e suplementos não têm eficácia comprovada. Oxibutinina é eficaz, mas deve ser evitada em idosas pelo risco cognitivo anticolinérgico."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Ensaio terapêutico",
+    "duracao": "4 semanas na dose-alvo",
+    "objetivo": "Reduzir frequência e intensidade dos fogachos em pelo menos 50% e melhorar o sono"
+   },
+   {
+    "fase": "Manutenção",
+    "duracao": "1 a 2 anos, com revisão anual",
+    "objetivo": "Manter o controle com a menor dose eficaz"
+   },
+   {
+    "fase": "Retirada",
+    "duracao": "Semanas a meses",
+    "objetivo": "Reduzir gradualmente e observar retorno dos sintomas; retomar se necessário"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Confirmar e estratificar",
+    "acao": "Caracterizar frequência e gravidade (diário), estágio STRAW, causas secundárias e fármacos em uso; rastrear depressão, ansiedade e insônia; verificar contraindicações à terapia hormonal e uso de tamoxifeno.",
+    "se_falha": "Quadro atípico: investigar tireoide, feocromocitoma, carcinoide, álcool e fármacos"
+   },
+   {
+    "passo": "Terapia hormonal se elegível",
+    "acao": "Com menos de 60 anos ou menos de 10 anos de menopausa e sem contraindicação: discutir com ginecologia estradiol (preferir transdérmico se houver risco trombótico), associado a progestagênio se houver útero.",
+    "se_falha": "Contraindicação, recusa ou resposta insuficiente: passo 3"
+   },
+   {
+    "passo": "Não hormonal de primeira escolha",
+    "acao": "Venlafaxina 37,5 mg por 1 semana e depois 75 mg/dia; escitalopram 10 a 20 mg; paroxetina em dose baixa (7,5 mg aprovada nos EUA; no Brasil, 10 mg ou 12,5 mg de liberação controlada), exceto com tamoxifeno; desvenlafaxina 100 a 150 mg. Com sudorese noturna e insônia, gabapentina 300 mg à noite, até 900 mg à noite ou 2.400 mg/dia divididos. Associar TCC ou hipnose clínica.",
+    "se_falha": "Redução inferior a 50% após 4 semanas na dose-alvo, ou intolerância"
+   },
+   {
+    "passo": "Trocar de classe",
+    "acao": "Trocar entre ISRS ou IRSN e gabapentina; fezolinetante 45 mg/dia (monitorar enzimas hepáticas no início e nos primeiros meses); oxibutinina 2,5 a 5 mg 2 vezes ao dia em mulheres jovens.",
+    "se_falha": "Sintomas graves refratários, menopausa precoce ou câncer hormônio-dependente"
+   },
+   {
+    "passo": "Encaminhar",
+    "acao": "Ginecologia ou serviço de climatério; oncologia nos casos com câncer de mama. Bloqueio do gânglio estrelado é opção em serviços especializados.",
+    "se_falha": "Manejo conjunto especializado"
+   }
+  ]
+ },
+ "Ejaculação precoce": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022); definição da International Society for Sexual Medicine (ISSM, Serefoglu et al., 2014)",
+   "cid": "CID-10-MC F52.4; CID-11 HA03 (ejaculação precoce masculina)",
+   "itens": [
+    {
+     "r": "A",
+     "t": "Padrão persistente ou recorrente de ejaculação durante atividade sexual com parceria em aproximadamente 1 minuto após a penetração vaginal e antes do momento desejado pelo indivíduo.",
+     "sub": [
+      "Nota: o diagnóstico pode ser aplicado a atividades sexuais não vaginais, mas não há critérios de duração estabelecidos para elas"
+     ]
+    },
+    {
+     "r": "B",
+     "t": "Os sintomas do critério A estão presentes há pelo menos 6 meses e ocorrem em quase todas ou todas as ocasiões (cerca de 75 a 100%) de atividade sexual, em contextos situacionais identificados ou, se generalizado, em todos os contextos."
+    },
+    {
+     "r": "C",
+     "t": "Os sintomas do critério A causam sofrimento clinicamente significativo ao indivíduo."
+    },
+    {
+     "r": "D",
+     "t": "Não é mais bem explicada por transtorno mental não sexual, nem por perturbação grave do relacionamento ou outros estressores importantes, e não é atribuível aos efeitos de substância, medicamento ou outra condição médica."
+    },
+    {
+     "r": "ISSM: ao longo da vida",
+     "t": "Ejaculação que sempre ou quase sempre ocorre antes ou em cerca de 1 minuto após a penetração vaginal, desde as primeiras experiências sexuais; incapacidade de retardar a ejaculação em todas ou quase todas as penetrações; consequências pessoais negativas (sofrimento, frustração, evitação da intimidade)."
+    },
+    {
+     "r": "ISSM: adquirida",
+     "t": "Redução clinicamente significativa e incômoda da latência, em geral para cerca de 3 minutos ou menos, em quem antes tinha latência normal, com os mesmos critérios de falta de controle e consequências negativas."
+    }
+   ],
+   "especificadores": [
+    "Ao longo da vida (desde o início da vida sexual) ou adquirida (após período de função sexual relativamente normal)",
+    "Generalizada (não limitada a tipos de estimulação, situações ou parcerias) ou situacional (só com determinados tipos de estimulação, situações ou parcerias)",
+    "Gravidade atual: leve (ejaculação entre cerca de 30 segundos e 1 minuto após a penetração), moderada (cerca de 15 a 30 segundos), grave (antes da atividade sexual, no início dela ou em cerca de 15 segundos após a penetração)"
+   ],
+   "notas": [
+    "Prevalência (DSM-5-TR): queixa de ejaculação rápida em 8 a 30% dos homens, mas, com o critério de 1 minuto, apenas 1 a 3% preenchem o diagnóstico.",
+    "Waldinger descreve também a ejaculação precoce variável (episódios irregulares, variação normal) e a subjetiva (latência normal ou longa com percepção de precocidade), que não devem ser tratadas com fármacos, e sim com orientação e terapia sexual.",
+    "O tempo de latência ejaculatória intravaginal (TLEI) medido com cronômetro é usado em pesquisa; na clínica, a estimativa do paciente é suficiente.",
+    "Na forma adquirida, investigar disfunção erétil (causa mais comum), prostatite crônica, hipertireoidismo, ansiedade de desempenho, problemas no relacionamento e retirada de opioides ou de ISRS."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Epidemiologia e curso",
+    "texto": "A queixa de ejaculação rápida é comum (8 a 30% conforme a definição), mas o diagnóstico pelo critério de 1 minuto é bem mais raro (1 a 3%). Num estudo em cinco países (Waldinger, 2005), a mediana do tempo de latência intravaginal foi de cerca de 5,4 minutos, com grande variação individual.\n\nA forma ao longo da vida tende a persistir e tem forte componente constitucional; a adquirida costuma ter causa identificável (disfunção erétil, prostatite, hipertireoidismo, fatores psicológicos) e pode remitir com o tratamento dela."
+   },
+   {
+    "titulo": "Neurobiologia e como os fármacos agem",
+    "texto": "A ejaculação é controlada por um gerador espinal lombar modulado por vias serotoninérgicas descendentes: a ativação de receptores 5-HT2C e 5-HT1B retarda a ejaculação, e a de 5-HT1A a acelera. A hipótese mais aceita para a forma ao longo da vida é hipofunção serotoninérgica com hipersensibilidade de 5-HT1A, com contribuição genética.\n\nISRS aumentam a serotonina sináptica e retardam a ejaculação; o uso diário é mais eficaz que o sob demanda porque o efeito pleno depende da dessensibilização de autorreceptores em 1 a 2 semanas. A dapoxetina, ISRS de meia-vida curta, foi desenvolvida para uso sob demanda. A clomipramina tem forte ação serotoninérgica e funciona também sob demanda. Anestésicos tópicos reduzem a sensibilidade da glande."
+   },
+   {
+    "titulo": "O que dizem as metanálises e diretrizes",
+    "texto": "Na metanálise de Waldinger (2004), a paroxetina foi o ISRS que mais aumentou a latência, seguida de clomipramina, sertralina e fluoxetina; com ISRS diários, a latência aumenta em média várias vezes. Nos ensaios de dapoxetina (Pryor, Lancet 2006), a latência média passou de cerca de 0,9 para 2,8 a 3,3 minutos, efeito menor que o dos ISRS diários, mas com uso pontual.\n\nA ISSM (2014) e a EAU (2024) recomendam como primeira linha dapoxetina sob demanda ou anestésico tópico (lidocaína com prilocaína), e ISRS diários e clomipramina como alternativas eficazes fora de bula. Técnicas comportamentais isoladas têm efeito modesto e pouco duradouro, mas somam ao fármaco. Tramadol sob demanda é eficaz, com risco de dependência e interação serotoninérgica."
+   },
+   {
+    "titulo": "Aspectos psiquiátricos",
+    "texto": "Ansiedade de desempenho, depressão e conflitos de relacionamento são causa e consequência. Ao usar ISRS para ejaculação precoce, lembrar que o paciente passa a ter os riscos de qualquer antidepressivo: queda de libido e disfunção erétil, síndrome de descontinuação (sobretudo com paroxetina, se as tomadas forem irregulares), virada maníaca em bipolares e alerta de ideação suicida abaixo de 25 anos.\n\nPacientes em tratamento psiquiátrico com ISRS por depressão ou ansiedade frequentemente têm melhora da ejaculação precoce, o que pode pesar na escolha do antidepressivo. Nunca associar tramadol, clomipramina e ISRS."
+   },
+   {
+    "titulo": "Armadilhas",
+    "texto": "Tratar com fármaco a ejaculação precoce subjetiva ou variável medicaliza uma variação normal; nesses casos, psicoeducação e terapia sexual. Não investigar disfunção erétil na forma adquirida leva a tratar o sintoma errado: o homem com dificuldade de manter a ereção acelera a ejaculação para não perdê-la, e o inibidor da PDE5 resolve os dois.\n\nAnestésico tópico sem preservativo ou sem lavagem antes da penetração pode causar anestesia da parceria. O efeito dos ISRS cessa ao suspender, e a recaída é a regra na forma ao longo da vida."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "Explicar que a latência normal varia muito, que 1 minuto é o limiar do diagnóstico e que o objetivo é controle e satisfação do casal, não um tempo fixo. Envolver a parceria quando possível.\n\nOs tratamentos funcionam enquanto são usados. Muitos homens passam do uso diário para sob demanda ou mantêm só técnicas comportamentais depois de ganhar confiança; na forma adquirida, tratar a causa pode resolver o quadro."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Avaliação e orientação",
+    "duracao": "1 a 2 consultas",
+    "objetivo": "Classificar (ao longo da vida, adquirida, subjetiva), investigar disfunção erétil e causas, psicoeducação e técnicas comportamentais"
+   },
+   {
+    "fase": "Ensaio farmacológico",
+    "duracao": "4 a 6 semanas",
+    "objetivo": "Aumentar a latência e a sensação de controle com fármaco sob demanda ou diário"
+   },
+   {
+    "fase": "Manutenção e redução",
+    "duracao": "Meses",
+    "objetivo": "Manter o esquema eficaz e testar passagem para uso sob demanda ou só técnicas comportamentais"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Classificar e investigar",
+    "acao": "Aplicar DSM-5-TR e ISSM, definir subtipo; rastrear disfunção erétil (IIEF-5), prostatite, hipertireoidismo, uso ou retirada de substâncias, ansiedade, depressão e conflito conjugal. Psicoeducação e técnicas comportamentais (parar e recomeçar, compressão, assoalho pélvico) para todos.",
+    "se_falha": "Ejaculação precoce subjetiva ou variável: orientação e terapia sexual, sem fármaco. Disfunção erétil: tratar com inibidor da PDE5 primeiro"
+   },
+   {
+    "passo": "Escolher pela frequência sexual",
+    "acao": "Relações esporádicas: dapoxetina 30 a 60 mg 1 a 3 horas antes (sem ficha no guia), clomipramina 15 a 25 mg 4 a 6 horas antes, ou lidocaína com prilocaína tópica 5 a 20 minutos antes. Relações frequentes: paroxetina 10 mg, subindo para 20 mg; sertralina 50 a 100 mg; fluoxetina 20 a 40 mg; ou clomipramina 12,5 a 25 mg diários.",
+    "se_falha": "Ganho insuficiente de latência e controle após 4 a 6 semanas na dose-alvo"
+   },
+   {
+    "passo": "Otimizar ou associar",
+    "acao": "Ajustar a dose do ISRS, trocar para paroxetina ou clomipramina, associar anestésico tópico ou terapia sexual. Se houver disfunção erétil, associar inibidor da PDE5.",
+    "se_falha": "Resposta insuficiente ou efeitos adversos intoleráveis"
+   },
+   {
+    "passo": "Segunda linha e encaminhamento",
+    "acao": "Tramadol 25 a 50 mg sob demanda, com cautela (dependência, convulsão, nunca com ISRS ou clomipramina). Encaminhar a urologia ou terapia sexual especializada.",
+    "se_falha": "Seguimento especializado"
+   }
+  ]
+ },
+ "Náusea e vômitos": {
+  "criterios": {
+   "fonte": "Critérios de Roma IV (2016) para distúrbios de náusea e vômitos; definições MASCC/ESMO para náusea e vômitos induzidos por quimioterapia",
+   "cid": "CID-10 R11 (náusea e vômitos); O21 (vômitos excessivos na gravidez, inclui hiperêmese gravídica)",
+   "itens": [
+    {
+     "r": "Síndrome de náusea e vômitos crônicos (Roma IV)",
+     "t": "Todos os critérios abaixo, presentes nos últimos 3 meses, com início há pelo menos 6 meses.",
+     "sub": [
+      "Náusea incômoda (que afeta as atividades habituais) em pelo menos 1 dia por semana e/ou 1 ou mais episódios de vômito por semana",
+      "Exclusão de vômito autoinduzido, transtornos alimentares, regurgitação e ruminação",
+      "Sem evidência de doença orgânica, sistêmica ou metabólica na investigação de rotina (incluindo endoscopia digestiva alta)"
+     ]
+    },
+    {
+     "r": "Síndrome de vômitos cíclicos (Roma IV)",
+     "t": "Critérios presentes nos últimos 3 meses, com início há pelo menos 6 meses.",
+     "sub": [
+      "Episódios estereotipados de vômito quanto ao início (agudo) e à duração (menos de 1 semana)",
+      "Pelo menos 3 episódios no último ano e 2 nos últimos 6 meses, separados por pelo menos 1 semana",
+      "Ausência de vômitos entre os episódios (outros sintomas mais leves podem ocorrer)",
+      "Apoio: história pessoal ou familiar de enxaqueca"
+     ]
+    },
+    {
+     "r": "Síndrome de hiperêmese por canabinoides (Roma IV)",
+     "t": "Critérios presentes nos últimos 3 meses, com início há pelo menos 6 meses.",
+     "sub": [
+      "Episódios estereotipados de vômito semelhantes aos da síndrome de vômitos cíclicos em início, duração e frequência",
+      "Início após uso prolongado e excessivo de cannabis",
+      "Alívio dos episódios com abstinência sustentada de cannabis",
+      "Apoio: comportamento de banhos ou duchas quentes prolongados para aliviar os sintomas"
+     ]
+    },
+    {
+     "r": "NVIQ aguda",
+     "t": "Náusea e vômitos nas primeiras 24 horas após a quimioterapia."
+    },
+    {
+     "r": "NVIQ tardia",
+     "t": "Após 24 horas, até 5 a 7 dias (típica de cisplatina e da associação antraciclina e ciclofosfamida)."
+    },
+    {
+     "r": "NVIQ antecipatória",
+     "t": "Condicionada: surge antes da sessão, após experiências ruins em ciclos anteriores."
+    },
+    {
+     "r": "Náusea de escape e refratária",
+     "t": "Escape: ocorre apesar de profilaxia adequada. Refratária: persiste nos ciclos seguintes apesar de profilaxia e resgate."
+    }
+   ],
+   "notas": [
+    "Na abordagem por mecanismo (cuidados paliativos), identificar a via predominante: química (zona de gatilho: opioides, uremia, hipercalcemia) favorece antagonistas D2; estase gástrica favorece procinéticos; vestibular favorece anti-histamínicos e anticolinérgicos; hipertensão intracraniana favorece dexametasona; ansiedade e componente antecipatório favorecem benzodiazepínico.",
+    "Transtornos alimentares com vômito autoinduzido e transtorno de ruminação (DSM-5-TR) devem ser excluídos antes de rotular como funcional.",
+    "Gravidade: escala numérica de 0 a 10 ou PUQE (Pregnancy-Unique Quantification of Emesis) na gestação."
+   ]
+  },
+  "discussao": [
+   {
+    "titulo": "Náusea no contexto psiquiátrico",
+    "texto": "Para o psiquiatra, a náusea aparece sobretudo como efeito adverso: ISRS e IRSN (dose-dependente, mais com fluvoxamina, venlafaxina, duloxetina e vortioxetina), lítio (sobretudo com picos de litemia ou intoxicação), naltrexona, dissulfiram com álcool, inibidores da acetilcolinesterase e bupropiona. Em geral cede em 1 a 2 semanas; tomar com alimento, titular devagar, usar formulação de liberação prolongada ou dividir a dose resolve a maioria.\n\nNáusea nova em paciente com lítio exige litemia; com clozapina, pensar em hipomotilidade intestinal; com valproato, em pancreatite e hepatotoxicidade. A síndrome de hiperêmese por canabinoides é cada vez mais comum em usuários diários e frequentemente não reconhecida."
+   },
+   {
+    "titulo": "Neurobiologia e perfil dos antieméticos",
+    "texto": "Quatro vias convergem no centro do vômito no tronco: zona de gatilho quimiorreceptora na área postrema (D2, 5-HT3, NK1, receptores opioides), vias vagais do trato digestivo (serotonina liberada pelas células enterocromafins atuando em 5-HT3), sistema vestibular (H1 e muscarínicos) e córtex (antecipação, ansiedade, dor).\n\nHaloperidol é um antagonista D2 quase puro; metoclopramida associa antagonismo D2 a efeito procinético 5-HT4; olanzapina e levomepromazina bloqueiam D2, 5-HT2, 5-HT3, H1 e muscarínicos, o que explica o amplo espectro; ondansetrona bloqueia 5-HT3; aprepitanto, NK1; prometazina, H1 e muscarínicos; mirtazapina bloqueia 5-HT3 e H1. Escolher pelo mecanismo e evitar dois fármacos da mesma classe."
+   },
+   {
+    "titulo": "O que dizem os ensaios",
+    "texto": "Na NVIQ de alto potencial, a adição de olanzapina 10 mg ao esquema com antagonista NK1, antagonista 5-HT3 e dexametasona aumentou a proporção sem náusea nas primeiras 24 horas de 45% para 74% (Navari, NEJM 2016), e 5 mg foi eficaz com menos sedação (J-FORCE, Hashimoto, Lancet Oncology 2020). Na náusea de escape, olanzapina foi superior à metoclopramida (Navari, 2013).\n\nNa hiperêmese por canabinoides, haloperidol foi superior à ondansetrona no pronto-socorro (HaVOC, Ruberto 2021). Na síndrome de vômitos cíclicos, a diretriz americana (Venkatesan, 2019) recomenda amitriptilina como profilaxia de primeira linha e triptano com ondansetrona e sedação para abortar as crises."
+   },
+   {
+    "titulo": "Segurança dos antieméticos",
+    "texto": "Antagonistas D2 causam acatisia (sobretudo metoclopramida intravenosa rápida), distonia aguda, parkinsonismo e, com uso prolongado, discinesia tardia: a metoclopramida não deve ser usada por mais de 12 semanas (alerta da FDA), e a EMA limita a 5 dias e 30 mg/dia. Domperidona, ondansetrona intravenosa em dose alta e haloperidol intravenoso prolongam o QT.\n\nNa doença de Parkinson e na demência com corpos de Lewy, evitar haloperidol, metoclopramida e fenotiazinas; preferir domperidona ou ondansetrona. Olanzapina deve ser evitada junto de benzodiazepínico parenteral e usada em dose baixa em idosos com demência."
+   },
+   {
+    "titulo": "Armadilhas diagnósticas",
+    "texto": "Antes de rotular como funcional ou efeito adverso, excluir gestação, obstrução intestinal, gastroparesia, hipercalcemia, hiponatremia, uremia, cetoacidose, hipertensão intracraniana, intoxicação por lítio ou digoxina e infarto inferior em idosos e diabéticos.\n\nVômito recorrente em jovem com peso baixo ou oscilante sugere bulimia ou anorexia do tipo compulsão alimentar purgativa (erosão dentária, sinal de Russell, hipocalemia com alcalose). Regurgitação sem esforço logo após as refeições sugere ruminação, tratada com respiração diafragmática, e não com antiemético."
+   },
+   {
+    "titulo": "Prognóstico e o que dizer ao paciente",
+    "texto": "A náusea por psicofármaco costuma ser transitória, e explicar isso antes de iniciar melhora a adesão. Na hiperêmese por canabinoides, a cura depende da abstinência sustentada; banhos quentes e antieméticos só aliviam, e o uso de cannabis para tratar a náusea perpetua o quadro.\n\nNa náusea crônica e nos vômitos cíclicos, tratar ansiedade, depressão, sono e uso de substâncias reduz a frequência das crises, e o plano de resgate combinado previamente evita idas repetidas ao pronto-socorro."
+   }
+  ],
+  "fases": [
+   {
+    "fase": "Controle agudo",
+    "duracao": "Horas a 3 dias",
+    "objetivo": "Hidratar, corrigir eletrólitos, tratar a causa e aliviar os sintomas com antiemético escolhido pelo mecanismo"
+   },
+   {
+    "fase": "Tratamento dirigido",
+    "duracao": "3 a 7 dias",
+    "objetivo": "Ajustar o esquema, trocar de classe se não houver resposta e retirar o fármaco causador"
+   },
+   {
+    "fase": "Prevenção ou manutenção",
+    "duracao": "Semanas a meses",
+    "objetivo": "Profilaxia nos ciclos de quimioterapia, nos vômitos cíclicos e em cuidados paliativos, com revisão dos riscos de uso prolongado"
+   }
+  ],
+  "algoritmo": [
+   {
+    "passo": "Causa e gravidade",
+    "acao": "Avaliar desidratação e eletrólitos; teste de gravidez; glicemia, cálcio, sódio, função renal; litemia se usa lítio; ECG se houver fármacos que prolongam QT. Revisar e reduzir o fármaco causador (dividir a dose do ISRS, tomar com alimento). Perguntar sobre cannabis e comportamento purgativo.",
+    "se_falha": "Sinais de obstrução, hipertensão intracraniana ou abdome agudo: encaminhar para investigação urgente"
+   },
+   {
+    "passo": "Primeira escolha pelo mecanismo",
+    "acao": "Estase gástrica: metoclopramida 10 mg 3 vezes ao dia (máximo 30 mg/dia, por poucos dias) ou domperidona 10 mg até 3 vezes ao dia. Química, metabólica ou por opioide: haloperidol 0,5 a 1,5 mg à noite ou 2 vezes ao dia (máximo em geral 5 mg/dia). Vestibular: prometazina 25 mg até 3 a 4 vezes ao dia. Ansiedade ou antecipatória: lorazepam 0,5 a 1 mg.",
+    "se_falha": "Sem controle em 24 a 48 horas em dose adequada"
+   },
+   {
+    "passo": "Segundo fármaco de outra classe",
+    "acao": "Associar ou trocar para classe diferente: ondansetrona 4 a 8 mg até 3 vezes ao dia, dexametasona (hipertensão intracraniana, obstrução parcial, câncer avançado). Não associar dois antagonistas D2.",
+    "se_falha": "Náusea refratária após dois fármacos de classes diferentes"
+   },
+   {
+    "passo": "Amplo espectro",
+    "acao": "Olanzapina 2,5 a 5 mg à noite, até 10 mg, ou levomepromazina 6,25 a 25 mg à noite (cuidados paliativos). Mirtazapina 7,5 a 15 mg à noite se houver depressão, insônia ou anorexia.",
+    "se_falha": "Persistência: revisar diagnóstico e encaminhar a gastroenterologia ou cuidados paliativos"
+   },
+   {
+    "passo": "Situações específicas",
+    "acao": "NVIQ: esquemas MASCC/ESMO por potencial emetogênico (alto: antagonista NK1, antagonista 5-HT3, dexametasona e olanzapina 5 a 10 mg nos dias 1 a 4). Hiperêmese por canabinoides: haloperidol, capsaicina tópica no abdome, abstinência de cannabis; evitar opioides. Vômitos cíclicos: profilaxia com amitriptilina 25 mg à noite, titulada até 75 a 100 mg.",
+    "se_falha": "Seguimento com o especialista da condição de base"
+   }
+  ]
+ }
+}

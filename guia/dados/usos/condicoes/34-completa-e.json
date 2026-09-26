@@ -1,0 +1,264 @@
+{
+ "Ansiedade de desempenho": {
+  "avaliacao": [
+   "Delimitar o medo: restrito a apresentações e provas ou estendido a interações sociais (neste caso, tratar como fobia social); Mini-SPIN ou LSAS ajudam.",
+   "Comorbidades: transtorno de pânico, TAG, depressão e uso de álcool, benzodiazepínicos ou outras substâncias antes de apresentações.",
+   "Contraindicações ao betabloqueador: asma ou DPOC com broncoespasmo, bradicardia, bloqueio atrioventricular, hipotensão, insuficiência cardíaca descompensada, doença de Raynaud, diabetes com insulina ou sulfonilureia.",
+   "Pressão arterial e frequência cardíaca basais; ECG se houver cardiopatia, síncope ou bradicardia.",
+   "Interações: verapamil, diltiazem, fluoxetina e paroxetina (inibem o CYP2D6 e elevam o propranolol).",
+   "Atletas: modalidade praticada e lista da Agência Mundial Antidoping (betabloqueadores proibidos em esportes de precisão).",
+   "Gestação e amamentação antes de propor uso de betabloqueador.",
+   "Tremor fora das apresentações e história familiar (tremor essencial)."
+  ],
+  "nao_farmacologico": [
+   "TCC com exposição gradual às situações de desempenho e reestruturação cognitiva.",
+   "Treino de apresentação com gravação em vídeo e feedback, reduzindo comportamentos de segurança.",
+   "Exposição em realidade virtual (plateias simuladas), onde houver acesso.",
+   "Respiração diafragmática lenta e relaxamento muscular progressivo como técnicas de apoio, não isoladas.",
+   "Preparação e ensaio em condições próximas às reais (ensaio geral, simulação de prova oral).",
+   "Técnicas de preparação mental em atletas e músicos (rotina pré-performance, foco atencional na tarefa)."
+  ],
+  "etapas": [
+   {
+    "titulo": "Confirmar o quadro e excluir ansiedade social generalizada",
+    "texto": "Se o medo se estende a conversas, reuniões ou ser observado, tratar como fobia social (ISRS ou venlafaxina e TCC), pois o betabloqueador não basta."
+   },
+   {
+    "titulo": "TCC com exposição como tratamento que muda o curso",
+    "texto": "Indicar para todos com evitação ou prejuízo, sobretudo se as apresentações são frequentes; objetivo é tornar o fármaco desnecessário."
+   },
+   {
+    "titulo": "Propranolol pontual para sintomas autonômicos",
+    "texto": "Propranolol 10 a 40 mg por via oral, 30 a 90 minutos antes do evento (comum iniciar com 10 a 20 mg). Fazer dose-teste em casa ou ensaio dias antes. Atenolol 25 a 50 mg como alternativa cardiosseletiva se houver restrição relativa."
+   },
+   {
+    "titulo": "Resposta insuficiente",
+    "texto": "Se persistirem tremor e taquicardia, ajustar a dose dentro de 40 mg e o horário; se predominar o medo cognitivo, intensificar a TCC. Evitar benzodiazepínicos e álcool antes do evento."
+   },
+   {
+    "titulo": "Reavaliar e encaminhar",
+    "texto": "Uso frequente de propranolol, expansão do medo para outras situações, ataques de pânico ou uso de substâncias pedem reavaliação diagnóstica e encaminhamento para TCC estruturada."
+   }
+  ],
+  "armadilhas": [
+   "Prescrever propranolol sem perguntar sobre asma, bradicardia ou diabetes em uso de insulina.",
+   "Não fazer dose-teste antes do evento importante (hipotensão, tontura ou fadiga no dia da apresentação).",
+   "Usar betabloqueador como tratamento da ansiedade social generalizada, do TAG ou do pânico.",
+   "Prescrever benzodiazepínico antes de provas ou apresentações, prejudicando memória, coordenação fina e tempo de reação.",
+   "Ignorar interação com fluoxetina ou paroxetina, que elevam os níveis de propranolol.",
+   "Esquecer as regras antidoping em atletas de esportes de precisão.",
+   "Manter apenas o fármaco sem oferecer TCC, perpetuando a dependência do propranolol para se apresentar."
+  ],
+  "diretrizes": "CANMAT 2014 (Katzman et al., transtornos de ansiedade, TEPT e TOC); NICE CG159 (2013, transtorno de ansiedade social); DSM-5-TR (APA, 2022, especificador somente desempenho); lista de substâncias proibidas da Agência Mundial Antidoping (atualizada anualmente); literatura de ansiedade de performance musical (ensaios pequenos com propranolol em músicos e estudantes)."
+ },
+ "Narcolepsia e sonolência": {
+  "avaliacao": [
+   "Confirmar o diagnóstico com polissonografia seguida de TLMS em serviço de medicina do sono, precedidos de 1 a 2 semanas de diário do sono ou actigrafia e, idealmente, 2 semanas sem fármacos que alteram o sono REM.",
+   "Excluir causas mais comuns de sonolência: sono insuficiente, apneia obstrutiva, atraso de fase, depressão e sedação por fármacos ou substâncias.",
+   "Escala de Sonolência de Epworth basal e frequência de cataplexia (diário de episódios) para seguir a resposta.",
+   "Pressão arterial, frequência cardíaca e história cardiovascular antes de modafinila ou estimulantes; ECG se cardiopatia.",
+   "Depressão, ansiedade, psicose e uso de substâncias (estimulantes podem precipitar psicose e ter uso indevido).",
+   "Mulheres em idade fértil: contracepção (modafinila e pitolisanto reduzem a eficácia de anticoncepcionais hormonais) e plano de gestação.",
+   "Direção veicular e trabalho de risco: orientar e registrar; teste de manutenção da vigília quando necessário.",
+   "Peso e fatores metabólicos (narcolepsia tipo 1 tende à obesidade)."
+  ],
+  "nao_farmacologico": [
+   "Horário regular de sono noturno com duração suficiente, inclusive nos fins de semana.",
+   "Cochilos programados de 15 a 20 minutos, 1 a 3 vezes ao dia (por exemplo, no almoço e no meio da tarde).",
+   "Orientação sobre direção: não dirigir sonolento, planejar pausas e cochilos antes de viagens.",
+   "Adaptações escolares e laborais (horários, pausas para cochilo, provas com tempo ajustado).",
+   "Evitar álcool, sedativos e refeições pesadas durante o dia.",
+   "Psicoeducação do paciente e da família sobre cataplexia, paralisia do sono e alucinações hipnagógicas.",
+   "Atividade física regular e controle de peso."
+  ],
+  "etapas": [
+   {
+    "titulo": "Diagnóstico e medidas comportamentais",
+    "texto": "Confirmar narcolepsia tipo 1 ou 2 ou hipersonia idiopática por polissonografia e TLMS antes de iniciar fármacos, sempre que possível. Regularizar o sono e programar cochilos."
+   },
+   {
+    "titulo": "Primeira linha para sonolência",
+    "texto": "Modafinila 100 a 200 mg pela manhã, até 400 mg/dia (dividir entre manhã e início da tarde). Pitolisanto 4,5 mg titulado até 18 a 36 mg pela manhã, onde houver acesso (restrito no Brasil). Armodafinila e solriamfetol não são comercializados no Brasil."
+   },
+   {
+    "titulo": "Resposta parcial ou intolerância",
+    "texto": "Associar ou trocar por metilfenidato 10 a 60 mg/dia (liberação imediata ou prolongada); lisdexanfetamina é uso fora da bula. Combinar fármacos de mecanismos diferentes quando a monoterapia falha. Reavaliar com Epworth."
+   },
+   {
+    "titulo": "Cataplexia",
+    "texto": "Oxibato de sódio (4,5 a 9 g por noite em duas tomadas, não comercializado no Brasil) ou pitolisanto onde acessíveis. No Brasil, na prática: venlafaxina 37,5 a 225 mg/dia (liberação prolongada), clomipramina 10 a 75 mg/dia ou fluoxetina 20 a 60 mg/dia. Efeito em dias; nunca suspender de forma abrupta (rebote e estado cataplético)."
+   },
+   {
+    "titulo": "Casos refratários e encaminhamento",
+    "texto": "Manter ou encaminhar à medicina do sono para casos sem confirmação diagnóstica, cataplexia refratária, sono noturno muito fragmentado, crianças, gestação e necessidade de fármacos de acesso restrito."
+   }
+  ],
+  "armadilhas": [
+   "Iniciar estimulante sem polissonografia e TLMS, tratando como narcolepsia um quadro de sono insuficiente, apneia ou depressão.",
+   "Fazer TLMS em uso de antidepressivos ou estimulantes, ou com sono insuficiente na semana anterior, gerando resultado falso.",
+   "Interpretar alucinações hipnagógicas como psicose e prescrever antipsicótico.",
+   "Confundir cataplexia com síncope, crise epiléptica ou transtorno conversivo.",
+   "Suspender abruptamente o antidepressivo usado para cataplexia, provocando rebote grave.",
+   "Esquecer que modafinila reduz a eficácia de anticoncepcionais hormonais por até 1 mês após a suspensão.",
+   "Não orientar sobre direção e riscos de acidente."
+  ],
+  "diretrizes": "AASM 2021 (Maski et al., tratamento dos transtornos centrais de hipersonolência); EAN, ERS e ESRS 2021 (Bassetti et al., diretriz europeia de narcolepsia); ICSD-3-TR (AASM, 2023); DSM-5-TR (APA, 2022)."
+ },
+ "Síndrome das pernas inquietas": {
+  "avaliacao": [
+   "Confirmar os 5 critérios do IRLSSG e excluir mimetizadores (acatisia, cãibras, neuropatia, desconforto postural, insuficiência venosa).",
+   "Ferritina sérica e saturação de transferrina pela manhã, em jejum e longe de reposição de ferro; hemograma.",
+   "Creatinina (doença renal crônica e ajuste de gabapentinoides), glicemia; B12 e eletroneuromiografia se houver suspeita de neuropatia.",
+   "Revisar fármacos agravantes: mirtazapina, ISRS, IRSN, tricíclicos, antipsicóticos, lítio, anti-H1 sedativos, metoclopramida.",
+   "Gravidade e frequência com a escala IRLS; definir se o curso é intermitente ou crônico-persistente.",
+   "Gestação, risco de uso indevido de substâncias (gabapentinoides, opioides) e apneia do sono associada.",
+   "Em uso de agonista dopaminérgico: sinais de aumento (augmentation) e transtorno de controle de impulsos."
+  ],
+  "nao_farmacologico": [
+   "Higiene do sono como parte do plano, não isolada: horários regulares, evitar privação de sono.",
+   "Evitar álcool, cafeína e nicotina, sobretudo à noite.",
+   "Exercício físico moderado e regular (evitar esforço intenso perto da hora de dormir).",
+   "Atividades mentalmente estimulantes durante o repouso vespertino (leitura, jogos, trabalhos manuais).",
+   "Massagem, alongamento, banho quente ou compressas nas pernas antes de deitar.",
+   "Compressão pneumática intermitente e estimulação bilateral do nervo fibular como opções em casos selecionados.",
+   "Planejar situações de imobilidade prolongada (assento no corredor, pausas para caminhar)."
+  ],
+  "etapas": [
+   {
+    "titulo": "Corrigir causas e repor ferro",
+    "texto": "Retirar ou trocar fármacos agravantes (bupropiona não piora e pode substituir outro antidepressivo). Ferro oral se ferritina até 75 ng/mL e saturação abaixo de 45%: sulfato ferroso 325 mg (cerca de 65 mg de ferro elementar) em dias alternados, com vitamina C; ferro IV (carboximaltose férrica) se ferritina até 100 ng/mL, falha, intolerância ou má absorção. Repetir ferritina em 3 meses."
+   },
+   {
+    "titulo": "Primeira linha: gabapentinoide",
+    "texto": "Gabapentina 300 mg, titulada até 900 a 2.400 mg/dia, 1 a 3 horas antes do início dos sintomas; ou pregabalina 75 mg, até 150 a 450 mg/dia. Ajustar à função renal. Gabapentina enacarbila não está disponível no Brasil."
+   },
+   {
+    "titulo": "Alternativa: agonista dopaminérgico em dose baixa",
+    "texto": "Pramipexol 0,125 a 0,5 mg à noite (evitar acima de 0,75 mg), ropinirol 0,25 a 4 mg ou rotigotina adesivo 1 a 3 mg/24 horas, para quem prioriza alívio a curto prazo e aceita o risco de aumento. Não usar levodopa nem cabergolina."
+   },
+   {
+    "titulo": "Aumento (augmentation)",
+    "texto": "Aumento leve: corrigir ferro, dividir ou antecipar a dose, sem subir o agonista. Aumento significativo: trocar para gabapentinoide, rotigotina ou opioide, prevendo piora transitória por 1 a 2 semanas na retirada."
+   },
+   {
+    "titulo": "Refratária: opioide em dose baixa e encaminhamento",
+    "texto": "Oxicodona de liberação prolongada 10 a 40 mg/dia, metadona 5 a 20 mg/dia ou buprenorfina, com avaliação de risco de uso indevido e seguimento. Encaminhar à neurologia ou medicina do sono se refratária, com aumento de difícil manejo ou dúvida diagnóstica."
+   }
+  ],
+  "armadilhas": [
+   "Iniciar tratamento sintomático sem dosar ferritina e saturação de transferrina.",
+   "Confundir SPI induzida por antidepressivo ou antipsicótico com ansiedade ou acatisia e aumentar a dose do fármaco causador.",
+   "Usar agonista dopaminérgico como primeira escolha rotineira ou subir a dose diante de piora, em vez de reconhecer o aumento.",
+   "Prescrever levodopa, que tem o maior risco de aumento.",
+   "Não perguntar sobre jogo, compras, sexo ou compulsão alimentar em uso de agonista dopaminérgico.",
+   "Prescrever doses plenas de gabapentina ou pregabalina na doença renal crônica.",
+   "Suspender abruptamente o agonista dopaminérgico ou o opioide."
+  ],
+  "diretrizes": "AASM 2024 (Winkelman et al., tratamento da SPI em adultos); IRLSSG e EURLSSG 2016 (Garcia-Borreguero et al., prevenção e tratamento do aumento); critérios diagnósticos do IRLSSG (Allen et al., 2014); algoritmo da Mayo Clinic 2021 (Silber et al.); DSM-5-TR (APA, 2022)."
+ },
+ "Apatia": {
+  "avaliacao": [
+   "Confirmar a síndrome pelos critérios de Robert 2018 e diferenciar de depressão (tristeza, culpa, desesperança, ideação suicida) com GDS ou Cornell em paralelo.",
+   "Quantificar com escala padronizada (AES, Starkstein, domínio apatia do NPI) para comparar após cada intervenção.",
+   "Revisar fármacos que causam apatia: ISRS, antipsicóticos, benzodiazepínicos, anticolinérgicos, anticonvulsivantes, opioides.",
+   "Causas clínicas: TSH, cálcio, B12, hemograma, testosterona se suspeita de hipogonadismo; apneia do sono e déficits visuais ou auditivos.",
+   "Excluir delirium hipoativo e catatonia; neuroimagem se abulia grave, instalação recente ou sinais focais.",
+   "Antes de estimulante: PA, FC, peso, história de arritmia, angina, psicose, agitação e ansiedade intensa; ECG se cardiopatia.",
+   "Etiologia de base (Alzheimer, frontotemporal, vascular, Parkinson, AVC, TCE, esquizofrenia) e se o inibidor de colinesterase está otimizado.",
+   "Sobrecarga e recursos do cuidador."
+  ],
+  "nao_farmacologico": [
+   "Atividades estruturadas e significativas, ajustadas ao interesse e à capacidade prévia do paciente.",
+   "Ativação comportamental com agenda de atividades.",
+   "Musicoterapia e terapia de reminiscência.",
+   "Exercício físico regular e programas de reabilitação (fisioterapia e terapia ocupacional após AVC ou TCE).",
+   "Orientação ao cuidador: oferecer escolhas simples, iniciar a tarefa junto com o paciente, rotina previsível e estímulos externos.",
+   "Correção de déficits sensoriais (óculos, aparelho auditivo) e participação em centro-dia."
+  ],
+  "etapas": [
+   {
+    "titulo": "Diferenciar e remover causas",
+    "texto": "Separar apatia de depressão, delirium e sonolência; retirar ou reduzir sedativos, antipsicóticos e anticolinérgicos; se apatia em uso de ISRS, reduzir a dose ou trocar por bupropiona, vortioxetina ou agomelatina; tratar hipotireoidismo, apneia e déficits sensoriais."
+   },
+   {
+    "titulo": "Intervenções não farmacológicas e otimização da doença de base",
+    "texto": "Iniciar atividades estruturadas e orientação ao cuidador; na demência de Alzheimer ou por corpos de Lewy, otimizar o inibidor de colinesterase; no Parkinson, otimizar dopaminérgicos. Reavaliar com escala em 4 a 8 semanas."
+   },
+   {
+    "titulo": "Metilfenidato no Alzheimer",
+    "texto": "Se a apatia persiste com prejuízo e não há contraindicação cardiovascular: 5 mg pela manhã e ao meio-dia por 1 semana, depois 10 mg 2 vezes ao dia (última dose até as 14 h). Medir PA e FC em 2 a 4 semanas; reavaliar em 4 a 8 semanas e suspender se não houver ganho funcional."
+   },
+   {
+    "titulo": "Alternativas com evidência menor",
+    "texto": "Bupropiona se houver depressão associada; modafinila (fora da bula); pramipexol ou rotigotina e rivastigmina na doença de Parkinson; metilfenidato ou amantadina após TCE."
+   },
+   {
+    "titulo": "Encaminhar",
+    "texto": "Neurologia ou psicogeriatria se abulia grave de instalação recente, sinais focais, suspeita de demência frontotemporal, apatia após estimulação cerebral profunda ou falha das etapas anteriores."
+   }
+  ],
+  "armadilhas": [
+   "Tratar apatia como depressão e aumentar ou iniciar ISRS, que pode piorá-la.",
+   "Não revisar antipsicóticos, benzodiazepínicos e anticolinérgicos como causa.",
+   "Prescrever metilfenidato sem medir PA e FC ou em paciente com arritmia, psicose ou agitação.",
+   "Não medir com escala antes e depois, mantendo estimulante sem benefício documentado.",
+   "Deixar passar delirium hipoativo, hipotireoidismo ou apneia do sono.",
+   "Na doença de Parkinson, reduzir levodopa em excesso ou usar antipsicóticos típicos.",
+   "Ignorar a sobrecarga do cuidador, que interpreta a apatia como má vontade."
+  ],
+  "diretrizes": "Critérios diagnósticos de apatia (Robert et al., 2018); ADMET 2 (Mintzer et al., 2021); revisão Cochrane de intervenções farmacológicas para apatia no Alzheimer (Ruthirakuhan et al., 2018); consenso de sintomas neuropsiquiátricos na demência (Lanctôt et al., 2017); MDS evidence-based review de sintomas não motores do Parkinson (2019); AHA/ASA 2016 (reabilitação pós-AVC)."
+ },
+ "Demência vascular": {
+  "avaliacao": [
+   "RM de crânio (preferível à TC) para infartos, lacunas, lesões de substância branca (Fazekas), micro-hemorragias e siderose superficial.",
+   "Exames para causas reversíveis: hemograma, TSH, B12, glicemia, HbA1c, perfil lipídico, função renal e hepática, eletrólitos, cálcio, sorologia para sífilis e HIV conforme contexto.",
+   "Fatores de risco e fonte embólica: PA (incluindo ortostática), ECG e Holter (fibrilação atrial), Doppler de carótidas, ecocardiograma se AVC.",
+   "Avaliação cognitiva com MoCA, fluência verbal, trilhas e relógio; funcionalidade e escala de Hachinski.",
+   "Depressão, apatia, labilidade emocional (afeto pseudobulbar) e apneia do sono.",
+   "Antes de inibidor de colinesterase: FC, ECG (bradicardia, bloqueio atrioventricular), história de síncope, úlcera péptica e asma.",
+   "Uso de antitrombóticos e anticoagulantes, risco de quedas e de sangramento (micro-hemorragias lobares sugerem angiopatia amiloide).",
+   "Em pacientes jovens ou com história familiar: CADASIL (NOTCH3), vasculites, síndrome antifosfolípide."
+  ],
+  "nao_farmacologico": [
+   "Controle rigoroso de fatores de risco vascular com mudanças de estilo de vida: cessação do tabagismo, dieta mediterrânea, redução de sal e álcool.",
+   "Atividade física aeróbica regular, adaptada à marcha e ao risco de quedas.",
+   "Reabilitação cognitiva, fisioterapia, terapia ocupacional e fonoaudiologia após AVC.",
+   "Tratamento da apneia do sono com CPAP quando indicada.",
+   "Estimulação cognitiva e atividades sociais estruturadas.",
+   "Orientação e suporte ao cuidador, adaptação do domicílio e prevenção de quedas.",
+   "Planejamento de cuidados avançados enquanto o paciente ainda decide."
+  ],
+  "etapas": [
+   {
+    "titulo": "Prevenção secundária vascular (base do tratamento)",
+    "texto": "PA alvo abaixo de 130/80 mmHg em prevenção secundária, individualizada em idosos frágeis; estatina de alta intensidade após AVC aterosclerótico (LDL abaixo de 70 mg/dL); antiagregação após AVC ou ataque isquêmico transitório; anticoagulação na fibrilação atrial; controle de diabetes. Não antiagregar só por lesão de substância branca."
+   },
+   {
+    "titulo": "Demência mista ou dúvida sobre Alzheimer associado",
+    "texto": "Inibidor de colinesterase: donepezila 5 mg, após 4 a 6 semanas 10 mg; galantamina 8 a 24 mg/dia; ou rivastigmina oral 3 a 12 mg/dia ou adesivo 4,6 a 13,3 mg/24 horas. Memantina 5 mg titulada até 20 mg/dia na fase moderada a grave. Reavaliar em 3 a 6 meses e manter só com benefício percebido."
+   },
+   {
+    "titulo": "Demência vascular pura",
+    "texto": "Não usar rotineiramente inibidores de colinesterase ou memantina para cognição (efeito pequeno, sem ganho funcional consistente, NICE NG97); considerar teste apenas se houver dúvida diagnóstica. Evitar ginkgo biloba e vasodilatadores cerebrais."
+   },
+   {
+    "titulo": "Sintomas neuropsiquiátricos",
+    "texto": "Depressão e afeto pseudobulbar: ISRS (citalopram até 20 mg/dia em idosos, sertralina 50 a 100 mg/dia). Apatia e agitação conforme os protocolos específicos, priorizando medidas não farmacológicas e evitando antipsicóticos pelo risco de AVC e morte."
+   },
+   {
+    "titulo": "Encaminhar",
+    "texto": "Neurologia se AVC recente, piora em degraus, início antes dos 65 anos, suspeita de CADASIL, vasculite ou angiopatia amiloide, ou dúvida sobre antitrombóticos."
+   }
+  ],
+  "armadilhas": [
+   "Atribuir todo declínio cognitivo em idoso a lesões de substância branca leves, sem considerar Alzheimer associado (demência mista).",
+   "Prescrever inibidor de colinesterase na demência vascular pura esperando grande ganho, sem reavaliar e retirar se não houver benefício.",
+   "Negligenciar o controle de PA, diabetes, lipídios, tabagismo e fibrilação atrial, que é a principal intervenção.",
+   "Baixar a PA agressivamente em idoso frágil com hipotensão ortostática, aumentando quedas e hipoperfusão.",
+   "Iniciar antitrombóticos por lesões de substância branca sem evento isquêmico, ou ignorar micro-hemorragias lobares (angiopatia amiloide).",
+   "Usar antipsicóticos para sintomas comportamentais sem necessidade, apesar do risco aumentado de AVC.",
+   "Confundir choro patológico com depressão maior ou deixar de tratar a depressão vascular."
+  ],
+  "diretrizes": "DSM-5-TR (APA, 2022); critérios VASCOG (Sachdev et al., 2014); AHA/ASA (Gorelick et al., 2011, contribuições vasculares ao comprometimento cognitivo; diretriz de prevenção secundária de AVC, 2021); NICE NG97 (2018, demência); Academia Brasileira de Neurologia 2022 (comprometimento cognitivo vascular); SPRINT MIND (2019)."
+ }
+}

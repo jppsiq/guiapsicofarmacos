@@ -1,0 +1,67 @@
+[
+ {
+  "f": "buprenorfina",
+  "add": {
+   "g": "Abstinência de opioides",
+   "c": "Manejo da abstinência de opioides (retirada ou ponte para manutenção)",
+   "s": "o",
+   "e": "A",
+   "p": "1",
+   "d": "2 a 4 mg SL com COWS de 8 a 12 ou mais, até 8 a 16 mg no primeiro dia; reduzir em 1 a 2 semanas ou manter",
+   "t": "Mais eficaz que clonidina em aliviar sintomas e completar a desintoxicação (Cochrane, Gowing) e semelhante à metadona. Iniciar só com abstinência objetiva, pelo risco de abstinência precipitada. A forma sublingual não é comercializada no Brasil; o adesivo para dor não serve para essa indicação."
+  },
+  "motivo": "ASAM 2020: agonistas (buprenorfina ou metadona) são preferíveis aos alfa-2 agonistas no manejo da abstinência; faltava o uso na condição"
+ },
+ {
+  "f": "naloxona",
+  "add": {
+   "g": "Dependência de opioides",
+   "c": "Prevenção de morte por sobredose (naloxona para paciente e família)",
+   "s": "a",
+   "e": "B",
+   "p": "S",
+   "d": "0,4 mg IM ou IV, repetir a cada 2 a 3 minutos conforme a respiração",
+   "t": "ASAM 2020 e OMS recomendam oferecer naloxona e treinamento a todo paciente com transtorno por uso de opioides e seus familiares, sobretudo após desintoxicação, alta hospitalar ou saída da prisão. Formulações para uso leigo têm acesso limitado no Brasil."
+  },
+  "motivo": "ASAM 2020 e OMS: naloxona para todos os pacientes com transtorno por uso de opioides; faltava o uso na condição"
+ },
+ {
+  "f": "haloperidol",
+  "add": {
+   "g": "Abstinência alcoólica",
+   "c": "Alucinações ou agitação persistentes na abstinência alcoólica, como adjuvante do benzodiazepínico",
+   "s": "o",
+   "e": "C",
+   "p": "S",
+   "d": "0,5 a 5 mg VO, IM ou IV, repetir conforme necessidade",
+   "t": "Apenas associado a benzodiazepínico em dose adequada: isolado, baixa o limiar convulsivo e não previne convulsões nem delirium. Monitorar QTc e eletrólitos."
+  },
+  "motivo": "ASAM 2020: antipsicóticos só como adjuvantes para agitação ou perturbações da percepção não controladas pelo benzodiazepínico"
+ },
+ {
+  "f": "naltrexona",
+  "g": "Dependência de opioides",
+  "set": {
+   "d": "50 mg/dia após 7 a 10 dias sem opioide de curta ação (10 a 14 dias após metadona)"
+  },
+  "motivo": "ASAM 2020: dose e intervalo mínimo sem opioide antes de iniciar; faltava a dose"
+ },
+ {
+  "f": "metadona",
+  "g": "Abstinência de opioides",
+  "set": {
+   "d": "10 a 20 mg com sinais objetivos, até 30 a 40 mg no primeiro dia; reduzir em 1 a 3 semanas ou mais",
+   "t": "Alivia todos os componentes da abstinência. A ASAM 2020 recomenda oferecer manutenção em vez de retirada, pois a desintoxicação isolada tem recaída acima de 90% e aumenta o risco de sobredose pela perda de tolerância. Gestantes: não desintoxicar."
+  },
+  "motivo": "ASAM 2020: dose inicial máxima de 30 a 40 mg no primeiro dia e preferência por manutenção; faltava a dose"
+ },
+ {
+  "f": "vareniclina",
+  "g": "Tabagismo",
+  "c": "Cessação do tabagismo",
+  "set": {
+   "t": "Monoterapia mais eficaz no EAGLES (cerca de 33% de abstinência nas semanas 9 a 12), segura em transtornos psiquiátricos estáveis; a ATS 2020 a prefere ao adesivo e à bupropiona. A marca de referência teve a comercialização suspensa no Brasil em 2021 e a oferta de genéricos é irregular: conferir disponibilidade."
+  },
+  "motivo": "Disponibilidade restrita no Brasil (ficha: comercialização restrita) não constava na discussão do uso"
+ }
+]

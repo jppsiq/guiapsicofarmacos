@@ -1,0 +1,1085 @@
+{
+  "fluoxetina": {
+    "alvos": [
+      "Humor deprimido",
+      "Energia, motivação e interesse",
+      "Ansiedade (a longo prazo; pode piorar no início)",
+      "Distúrbios do sono, tanto insônia quanto hipersonia (a longo prazo; pode causar insônia no início)"
+    ],
+    "latencia": "Alguns pacientes notam mais energia ou ativação logo no início. O efeito terapêutico costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia. Pela meia-vida longa, mudanças de dose só se refletem plenamente no plasma após várias semanas.",
+    "se_funciona": [
+      "Meta: remissão completa e prevenção de recaídas; tratar até a remissão ou redução importante (TOC, TEPT).",
+      "Primeiro episódio depressivo: manter por 1 ano após a remissão; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade e na bulimia, o tratamento também pode precisar ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum (persistem insônia, fadiga e dificuldade de concentração); há também não respondedores e perda de efeito com o tempo.",
+      "Aumentar a dose, trocar de fármaco ou potencializar; associar psicoterapia.",
+      "Reavaliar diagnóstico e comorbidades (doença clínica, uso de substâncias).",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Trazodona, sobretudo para insônia",
+      "Bupropiona, mirtazapina, reboxetina ou atomoxetina (atomoxetina em dose menor, pois a fluoxetina eleva seus níveis); cautela com associações de antidepressivos pelo risco de ativar bipolaridade e ideação suicida",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente e na ansiedade resistente",
+      "Combinação com olanzapina: excelentes resultados na depressão bipolar, resistente e psicótica",
+      "Benzodiazepínicos; hipnóticos para insônia",
+      "Na ansiedade refratária, gabapentina ou tiagabina",
+      "Clássicos: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Nenhum exame de rotina em pessoas saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Excesso de serotonina em receptores fora dos circuitos terapêuticos: insônia (centros do sono), diarreia (intestino).",
+      "Aumento de serotonina pode reduzir a liberação de dopamina: embotamento afetivo, lentificação cognitiva e apatia.",
+      "O antagonismo 5-HT2C, próprio da fluoxetina, pode contribuir para agitação, ansiedade e ativação, sobretudo no início.",
+      "A maioria dos efeitos surge logo e tende a ceder com o tempo, ao contrário do efeito terapêutico."
+    ],
+    "peso": "Relatado, mas não esperado; pode haver perda de peso, sobretudo a curto prazo.",
+    "sedacao": "Relatada, mas não esperada; tende a ser ativadora.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de mania (rara).",
+      "Ativação de ideação e comportamento suicidas (rara); nos estudos de curto prazo, sem aumento de risco acima dos 24 anos."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos são transitórios.",
+      "Se ativadora, tomar pela manhã.",
+      "Reduzir para 10 mg; manter se tolerado e eficaz, ou voltar a subir para 20 mg ou mais se tolerado mas ineficaz.",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro ISRS ou outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual: bupropiona, sildenafila, vardenafila ou tadalafila. Embotamento e apatia: bupropiona.",
+      "Insônia, agitação e efeitos gastrointestinais: mirtazapina. Inquietação e ansiedade iniciais: benzodiazepínico.",
+      "Ativação e agitação podem indicar virada para estado misto bipolar (às vezes com ideação suicida): associar lítio, estabilizador ou atípico, e/ou suspender a fluoxetina."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 20 a 80 mg/dia na depressão e nos transtornos de ansiedade; 60 a 80 mg/dia na bulimia.",
+      "Depressão e TOC: iniciar com 20 mg pela manhã e esperar algumas semanas antes de subir; máximo geralmente 80 mg/dia (alguns pacientes recebem mais).",
+      "Bulimia: iniciar com 60 mg/dia pela manhã; alguns precisam começar mais baixo e titular em alguns dias.",
+      "Dose única diária, em geral pela manhã, mas a qualquer hora tolerada.",
+      "A solução oral facilita doses abaixo de 10 mg em pacientes muito intolerantes ou para titulação muito lenta.",
+      "Quanto mais ansioso e agitado o paciente, menor a dose inicial, mais lenta a titulação e maior a chance de precisar de trazodona ou benzodiazepínico.",
+      "Ansiedade, insônia, agitação, acatisia ou ativação intoleráveis ao iniciar ou suspender: considerar bipolaridade ativada e trocar para estabilizador ou atípico.",
+      "Nos EUA existe cápsula semanal de 90 mg, que pode melhorar a adesão."
+    ],
+    "superdosagem": "Raramente letal em monoterapia; depressão respiratória (sobretudo com álcool), ataxia, sedação e possíveis convulsões.",
+    "longo_prazo": "Seguro.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirada gradual raramente necessária: a meia-vida longa da fluoxetina e da norfluoxetina produz uma autorredução após a suspensão."
+    ],
+    "interacoes": [
+      "Inibe CYP2D6 e CYP3A4. Meia-vida de 2 a 3 dias; norfluoxetina (ativa), cerca de 2 semanas.",
+      "IMAO: síndrome serotoninérgica fatal; não usar junto nem até 14 dias após o IMAO; iniciar IMAO só 5 semanas após suspender a fluoxetina.",
+      "Pode elevar níveis de tricíclicos; cautela na associação e na troca de tricíclico para fluoxetina.",
+      "Tramadol aumenta o risco de convulsões.",
+      "Pode deslocar fármacos muito ligados a proteínas (varfarina). Risco de sangramento com anticoagulantes e AINE; AINE podem reduzir a eficácia dos ISRS.",
+      "Com sumatriptana ou outros triptanos, raramente fraqueza, hiper-reflexia e incoordenação.",
+      "Via CYP2D6: pode reduzir a analgesia da codeína e elevar betabloqueadores, atomoxetina e tioridazina (arritmias).",
+      "Pode reduzir a depuração de diazepam e trazodona.",
+      "Via CYP3A4: eleva alprazolam, buspirona, triazolam, pimozida (QTc) e sinvastatina, atorvastatina e lovastatina (rabdomiólise); pravastatina e fluvastatina não são afetadas."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Uso de tioridazina.",
+      "Uso de pimozida.",
+      "Uso de tamoxifeno.",
+      "Alergia comprovada à fluoxetina."
+    ],
+    "advertencias": [
+      "Associar ou iniciar outros antidepressivos com cautela por até 5 semanas após suspender a fluoxetina.",
+      "Cautela em epilepsia e em bipolares sem estabilizador do humor.",
+      "Alertar paciente e cuidadores sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Sem ajuste; não é removida por hemodiálise.",
+      "hepatica": "Reduzir a dose ou a frequência, talvez à metade.",
+      "cardiaca": "Dados preliminares sugerem segurança. Tratar a depressão com ISRS após infarto ou na angina pode reduzir eventos cardíacos e melhorar a sobrevida.",
+      "idosos": "Alguns toleram melhor doses menores; maior risco de SIADH. Em maiores de 65 anos, os antidepressivos reduzem o risco de suicidalidade em relação ao placebo.",
+      "criancas": "Aprovada nos EUA para depressão (a partir de 8 anos) e TOC (a partir de 7 anos). Adolescentes costumam usar dose de adulto; crianças, um pouco menos. Pode haver redução do crescimento, com efeitos a longo prazo desconhecidos. Documentar risco e benefício, monitorar presencialmente nas primeiras semanas e vigiar ativação e ideação suicida.",
+      "gestacao": "Não recomendada de rotina, sobretudo no primeiro trimestre, mas o tratamento contínuo pode ser necessário e não se provou nocivo; registros com fluoxetina não mostram consequências adversas. Riscos dos ISRS: pequeno aumento absoluto de defeitos septais no início da gestação, possível hipertensão pulmonar neonatal após a 20.ª semana, hipertensão gestacional e pré-eclâmpsia, mais sangramento materno no parto e síndrome de adaptação neonatal (desconforto respiratório, hipoglicemia, tremor, irritabilidade) com uso no fim do terceiro trimestre.",
+      "lactacao": "Há passagem para o leite e traços no lactente; se irritabilidade ou sedação, suspender a amamentação ou o fármaco. O pós-parto imediato é de alto risco para recorrência, e muitas pacientes precisarão manter o tratamento."
+    },
+    "vantagens": [
+      "Depressão atípica (hipersonia, aumento do apetite).",
+      "Fadiga e baixa energia.",
+      "Comorbidade entre transtorno alimentar e transtorno do humor.",
+      "Quando se deseja administração semanal.",
+      "Crianças com TOC ou depressão."
+    ],
+    "desvantagens": [
+      "Anorexia nervosa.",
+      "Início de tratamento em pacientes ansiosos e agitados.",
+      "Início de tratamento com insônia grave."
+    ],
+    "perolas": [
+      "Pode ser primeira escolha na depressão atípica (hipersonia, hiperfagia, baixa energia, reatividade do humor); evitar em agitados com insônia.",
+      "O antagonismo 5-HT2C pode explicar o perfil ativador e parte da eficácia da combinação com olanzapina (que tem a mesma propriedade) na depressão bipolar e resistente.",
+      "Menos tolerada que outros ISRS no pânico e em outros transtornos de ansiedade no início, a menos que associada a benzodiazepínico ou trazodona.",
+      "Pode causar embotamento cognitivo e afetivo.",
+      "Transtornos do humor associados a transtornos alimentares, sobretudo em adolescentes, podem responder bem à fluoxetina.",
+      "ISRS podem ser menos eficazes em mulheres acima de 50 anos sem estrogênio; algumas respondem melhor com potencialização estrogênica. Podem ajudar nos fogachos da perimenopausa.",
+      "Falta de resposta em idosos deve levantar suspeita de comprometimento cognitivo leve ou doença de Alzheimer.",
+      "ISRS talvez levem menos pacientes à remissão que outras classes, como os IRSN."
+    ],
+    "troca": [
+      "Ao trocar de tricíclico para fluoxetina, cautela: a fluoxetina eleva os níveis do tricíclico.",
+      "Após suspender a fluoxetina, iniciar outro antidepressivo com cautela por até 5 semanas e IMAO só após 5 semanas."
+    ]
+  },
+  "sertralina": {
+    "alvos": [
+      "Humor deprimido",
+      "Ansiedade",
+      "Distúrbios do sono, tanto insônia quanto hipersonia (a longo prazo; pode causar insônia no início)",
+      "Ataques de pânico, evitação, revivescência e hiperexcitabilidade"
+    ],
+    "latencia": "Alguns pacientes notam mais energia ou ativação logo no início. O efeito terapêutico costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia. Pode seguir prevenindo recaídas por anos.",
+    "se_funciona": [
+      "Meta: remissão completa e prevenção de recaídas; tratar até a remissão ou redução importante (TOC, TEPT).",
+      "Primeiro episódio depressivo: manter por 1 ano após a remissão; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum (persistem insônia, fadiga e dificuldade de concentração); há também não respondedores e perda de efeito com o tempo.",
+      "Aumentar a dose, trocar de fármaco ou potencializar; associar psicoterapia.",
+      "Reavaliar diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Trazodona, sobretudo para insônia",
+      "Bupropiona: associação comum nos EUA, com bons resultados",
+      "Mirtazapina, reboxetina ou atomoxetina (atomoxetina em dose menor, pois a sertralina pode elevar seus níveis); cautela com associações de antidepressivos",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente e na ansiedade resistente",
+      "Benzodiazepínicos; hipnóticos para insônia",
+      "Na ansiedade refratária, gabapentina ou tiagabina",
+      "Clássicos: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Nenhum exame de rotina em pessoas saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Excesso de serotonina em receptores fora dos circuitos terapêuticos: insônia, diarreia.",
+      "Redução da liberação de dopamina pela serotonina pode causar embotamento afetivo, lentificação cognitiva e apatia; a inibição da recaptação de dopamina pela sertralina talvez atenue isso em alguns pacientes.",
+      "A inibição da recaptação de dopamina pode contribuir para agitação, ansiedade e ativação no início."
+    ],
+    "peso": "Relatado, mas não esperado; alguns perdem peso.",
+    "sedacao": "Relatada, mas não esperada; pode ser ativadora em alguns pacientes.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de mania (rara).",
+      "Ativação de ideação e comportamento suicidas (rara); sem aumento de risco acima dos 24 anos nos estudos de curto prazo.",
+      "Hiponatremia rara, sobretudo em idosos, em geral reversível com a suspensão; hipotensão rara."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos são transitórios.",
+      "Se ativadora, tomar pela manhã.",
+      "Reduzir para 25 mg ou até 12,5 mg até os efeitos cederem e depois subir conforme tolerância, em geral até pelo menos 50 mg/dia.",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual (dose-dependente): bupropiona, sildenafila, vardenafila ou tadalafila. Apatia: bupropiona. Efeitos gastrointestinais e agitação: mirtazapina. Inquietação inicial: benzodiazepínico.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou atípico, e/ou suspender."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 50 a 200 mg/dia, em dose única, geralmente pela manhã.",
+      "Depressão e TOC: iniciar com 50 mg/dia; pode subir semanalmente, mas em geral espera-se algumas semanas; máximo geralmente 200 mg/dia.",
+      "Pânico, TEPT e ansiedade social: 25 mg/dia na primeira semana, depois 50 mg/dia; máximo geralmente 200 mg/dia.",
+      "TDPM: 50 mg/dia, contínuo ou só na fase lútea.",
+      "Muitos pacientes acabam precisando de mais de 50 mg/dia; alguns recebem mais de 200 mg.",
+      "No TOC resistente, há evidência de resposta segura com até 400 mg/dia, uso restrito a especialistas.",
+      "Com história de intolerância a antidepressivos, iniciar com 12,5 mg (meio comprimido de 25 mg).",
+      "Quanto mais ansioso e agitado o paciente, menor a dose inicial, mais lenta a titulação e maior a chance de precisar de trazodona ou benzodiazepínico."
+    ],
+    "superdosagem": "Raramente letal em monoterapia; vômitos, sedação, alterações do ritmo cardíaco, midríase e agitação. Houve mortes em associação com outros fármacos ou álcool.",
+    "longo_prazo": "Segura.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirar gradualmente para evitar sintomas de retirada: tontura, náuseas, cólicas, sudorese, formigamento e disestesias.",
+      "Muitos toleram reduzir 50% por 3 dias, mais 50% por 3 dias e então suspender.",
+      "Se surgirem sintomas de retirada, voltar à dose anterior e retomar a redução bem mais devagar."
+    ],
+    "interacoes": [
+      "Meia-vida de 22 a 36 horas (metabólito, 62 a 104 horas). Inibe CYP2D6 e CYP3A4, fracamente em doses baixas.",
+      "IMAO: não associar nem usar até 14 dias após o IMAO; iniciar IMAO só após 5 meias-vidas (5 a 7 dias) da suspensão.",
+      "Pode elevar níveis de tricíclicos. Tramadol aumenta o risco de convulsões.",
+      "Pode deslocar fármacos muito ligados a proteínas (varfarina); risco de sangramento com anticoagulantes e AINE; AINE podem reduzir a eficácia dos ISRS.",
+      "Com triptanos, raramente fraqueza, hiper-reflexia e incoordenação.",
+      "Via CYP2D6: pode reduzir a analgesia da codeína e elevar betabloqueadores, atomoxetina e tioridazina.",
+      "Via CYP3A4: pode elevar alprazolam, buspirona, triazolam, pimozida (QTc) e sinvastatina, atorvastatina e lovastatina (rabdomiólise).",
+      "Pode causar falso-positivo para benzodiazepínicos na triagem urinária por imunoensaio, inclusive por alguns dias após a suspensão."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Uso de pimozida.",
+      "Uso de tioridazina.",
+      "Solução oral concentrada com dissulfiram (contém álcool).",
+      "Alergia comprovada à sertralina."
+    ],
+    "advertencias": [
+      "Associar ou iniciar outros antidepressivos com cautela por até 2 semanas após suspender a sertralina.",
+      "Cautela em epilepsia e em bipolares sem estabilizador do humor.",
+      "Alertar sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Sem ajuste; não é removida por hemodiálise.",
+      "hepatica": "Reduzir a dose ou a frequência, talvez à metade.",
+      "cardiaca": "Segurança cardiovascular comprovada em deprimidos com infarto recente ou angina; tratar a depressão nesses casos pode reduzir eventos e melhorar a sobrevida.",
+      "idosos": "Alguns toleram melhor doses menores ou titulação mais lenta; maior risco de SIADH. Acima de 65 anos, os antidepressivos reduzem o risco de suicidalidade.",
+      "criancas": "Aprovada nos EUA para TOC. De 6 a 12 anos, iniciar com 25 mg/dia; a partir de 13 anos, doses de adulto. Efeitos a longo prazo, inclusive no crescimento, não estudados. Documentar risco e benefício e vigiar ativação e ideação suicida.",
+      "gestacao": "Não recomendada de rotina, sobretudo no primeiro trimestre, mas o tratamento contínuo pode ser necessário e não se provou nocivo. Riscos habituais dos ISRS: pequeno aumento absoluto de defeitos septais, possível hipertensão pulmonar neonatal após a 20.ª semana, hipertensão gestacional e pré-eclâmpsia, sangramento no parto e síndrome de adaptação neonatal com uso no fim do terceiro trimestre.",
+      "lactacao": "Passa ao leite em pequena quantidade, com traços no lactente. Tem eficácia demonstrada na depressão pós-parto. Se irritabilidade ou sedação no bebê, reavaliar amamentação ou fármaco; muitas pacientes precisarão manter o tratamento."
+    },
+    "vantagens": [
+      "Depressão atípica (hipersonia, aumento do apetite).",
+      "Fadiga e baixa energia.",
+      "Quando se quer evitar hiperprolactinemia (púberes, galactorreia, amenorreia sem causa, pós-menopausa sem reposição hormonal): é o ISRS que em geral não eleva a prolactina."
+    ],
+    "desvantagens": [
+      "Início em ansiosos com insônia.",
+      "Síndrome do intestino irritável comórbida.",
+      "Pode exigir titulação."
+    ],
+    "perolas": [
+      "Possível ação dual: inibição potente da recaptação de serotonina e mais fraca da de dopamina, de significado clínico incerto; a ligação a sigma 1 talvez reforce o efeito ansiolítico.",
+      "Pode ser primeira escolha na depressão atípica.",
+      "A segurança cardiovascular mais bem documentada entre os antidepressivos.",
+      "Mais efeitos gastrointestinais, sobretudo diarreia, que alguns antidepressivos.",
+      "Menos tolerada que alguns ISRS no início do tratamento do pânico, salvo com benzodiazepínico ou trazodona.",
+      "Talvez mais eficaz em mulheres que em homens com TEPT ou depressão.",
+      "No TDPM, o uso só na fase lútea pode ser mais eficaz que o contínuo.",
+      "ISRS podem ser menos eficazes em mulheres acima de 50 anos sem estrogênio e úteis nos fogachos da perimenopausa.",
+      "Falta de resposta em idosos deve levantar suspeita de comprometimento cognitivo leve ou Alzheimer."
+    ]
+  },
+  "paroxetina": {
+    "alvos": [
+      "Humor deprimido",
+      "Ansiedade",
+      "Distúrbios do sono, sobretudo insônia",
+      "Ataques de pânico, evitação, revivescência e hiperexcitabilidade"
+    ],
+    "latencia": "Alguns pacientes têm alívio precoce de insônia ou ansiedade. O efeito antidepressivo costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia. No TAG, a resposta e a remissão podem continuar aumentando após 8 semanas e por até 6 meses.",
+    "se_funciona": [
+      "Meta: remissão completa e prevenção de recaídas; tratar até a remissão ou redução importante (TOC, TEPT).",
+      "Primeiro episódio depressivo: manter por 1 ano após a remissão; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; há também não respondedores e perda de efeito com o tempo.",
+      "Aumentar a dose, trocar ou potencializar; associar psicoterapia.",
+      "Reavaliar diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Trazodona, sobretudo para insônia",
+      "Bupropiona, mirtazapina, reboxetina ou atomoxetina (atomoxetina em dose menor, pois a paroxetina eleva seus níveis); cautela com associações de antidepressivos",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente e na ansiedade resistente",
+      "Benzodiazepínicos; hipnóticos para insônia",
+      "Na ansiedade refratária, gabapentina ou tiagabina",
+      "Clássicos: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Nenhum exame de rotina em pessoas saudáveis."
+    ],
+    "tabela": {
+      "titulo": "Doses por indicação: liberação imediata e CR (Stahl 2017)",
+      "colunas": ["Indicação", "Dose inicial", "Incremento semanal", "Máximo usual"],
+      "linhas": [
+        ["Depressão", "20 mg (CR 25 mg)", "10 mg (CR 12,5 mg)", "50 mg (CR 62,5 mg)"],
+        ["Pânico", "10 mg (CR 12,5 mg)", "10 mg (CR 12,5 mg)", "60 mg (CR 75 mg)"],
+        ["Ansiedade social e outros transtornos de ansiedade", "20 mg (CR 25 mg)", "10 mg (CR 12,5 mg)", "60 mg (CR 75 mg)"],
+        ["Idosos, insuficiência renal ou hepática", "10 mg (CR 12,5 mg)", "Conforme tolerância", "40 mg (CR 50 mg)"],
+        ["Sintomas vasomotores (formulação de 7,5 mg nos EUA)", "7,5 mg ao deitar", "Não se aplica", "7,5 mg"]
+      ],
+      "nota": "Embora se possa subir semanalmente, em geral espera-se algumas semanas para avaliar o efeito. Dose única diária."
+    },
+    "mecanismo_ea": [
+      "Excesso de serotonina em receptores fora dos circuitos terapêuticos: insônia, diarreia e demais efeitos serotoninérgicos.",
+      "Redução da liberação de dopamina pode causar embotamento afetivo, lentificação cognitiva e apatia.",
+      "Ação antimuscarínica fraca: constipação, boca seca e sedação."
+    ],
+    "peso": "Ocorre em minoria significativa; relatos sugerem mais ganho de peso que outros ISRS.",
+    "sedacao": "Frequente e às vezes importante, em geral transitória.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de mania (rara).",
+      "Ativação de ideação e comportamento suicidas (rara); sem aumento de risco acima dos 24 anos nos estudos de curto prazo."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos são transitórios.",
+      "Se sedar, tomar à noite.",
+      "Reduzir para 5 a 10 mg (CR 12,5 mg) até os efeitos cederem e depois subir, em geral até pelo menos 20 mg (CR 25 mg).",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual (dose-dependente): bupropiona, sildenafila, vardenafila ou tadalafila. Apatia: bupropiona. Efeitos gastrointestinais e agitação: mirtazapina. Inquietação inicial: benzodiazepínico.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou atípico, e/ou suspender."
+    ],
+    "dicas_dose": [
+      "Faixa na depressão: 20 a 50 mg/dia (CR 25 a 62,5 mg); 20 mg (CR 25 mg) costuma bastar na ansiedade social e na depressão; outros transtornos de ansiedade e casos difíceis podem exigir mais.",
+      "Incrementos de 50% (20, 30, 40 mg; CR 25, 37,5, 50 mg), e não duplicando a dose: a paroxetina inibe o próprio metabolismo, e a concentração pode dobrar com aumento de 50% e subir 2 a 7 vezes com a dose dobrada.",
+      "Dose única diária, frequentemente ao deitar.",
+      "Acima de 60 mg/dia (CR 75 mg) só com especialista e cautela.",
+      "A CR não deve ser partida nem mastigada; sua principal vantagem é reduzir efeitos adversos, sobretudo náusea e talvez sedação, disfunção sexual e retirada.",
+      "A solução oral facilita doses abaixo de 10 mg, útil em intolerantes e na retirada muito lenta.",
+      "Ansiedade, insônia, agitação, acatisia ou ativação intoleráveis ao iniciar ou suspender: considerar bipolaridade ativada."
+    ],
+    "superdosagem": "Raramente letal em monoterapia; vômitos, sedação, alterações do ritmo cardíaco, midríase e boca seca.",
+    "longo_prazo": "Segura.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirar gradualmente: sintomas de retirada podem ser mais frequentes ou intensos que com outros ISRS (tontura, náuseas, cólicas, sudorese, formigamento, disestesias, acatisia e inquietação).",
+      "Muitos toleram reduzir 50% por 3 dias, mais 50% por 3 dias e suspender; se surgirem sintomas, voltar à dose e reduzir bem mais devagar.",
+      "Ao ser retirada, deixa de inibir o próprio metabolismo e seus níveis caem mais rápido; a readaptação dos receptores colinérgicos também contribui. A CR pode suavizar a queda.",
+      "Casos graves: retirada ao longo de meses, reduzindo cerca de 1% a cada 3 dias (comprimido de liberação imediata dissolvido em 100 mL de suco, descartando 1 mL e depois 2 mL a cada 3 a 7 dias).",
+      "Alternativa: associar fluoxetina, retirar lentamente a paroxetina e depois a fluoxetina.",
+      "Diferenciar retirada de reaparecimento dos sintomas, que exige retomar o tratamento."
+    ],
+    "interacoes": [
+      "Meia-vida de cerca de 24 horas, metabólitos inativos; inibidor potente do CYP2D6.",
+      "IMAO: não associar nem usar até 14 dias após o IMAO; iniciar IMAO só após 5 meias-vidas (5 a 7 dias).",
+      "Pode elevar níveis de tricíclicos. Tramadol aumenta o risco de convulsões.",
+      "Relatos de aumento de teofilina: monitorar os níveis.",
+      "Soma efeitos anticolinérgicos com prociclidina e outros anticolinérgicos.",
+      "Pode deslocar fármacos muito ligados a proteínas (varfarina); risco de sangramento com anticoagulantes e AINE.",
+      "Com triptanos, raramente fraqueza, hiper-reflexia e incoordenação.",
+      "Via CYP2D6: reduz a analgesia da codeína e eleva betabloqueadores, atomoxetina e tioridazina; eleva pimozida (associação contraindicada pelo QT)."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Uso de tioridazina.",
+      "Uso de pimozida.",
+      "Uso de tamoxifeno.",
+      "Alergia comprovada à paroxetina."
+    ],
+    "advertencias": [
+      "Associar ou iniciar outros antidepressivos com cautela por até 2 semanas após suspender a paroxetina.",
+      "Cautela em epilepsia e em bipolares sem estabilizador do humor.",
+      "Alertar sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Reduzir a dose: iniciar com 10 mg/dia (CR 12,5 mg), máximo 40 mg/dia (CR 50 mg).",
+      "hepatica": "Reduzir a dose: iniciar com 10 mg/dia (CR 12,5 mg), máximo 40 mg/dia (CR 50 mg).",
+      "cardiaca": "Dados preliminares sugerem segurança; tratar a depressão com ISRS após infarto ou na angina pode reduzir eventos e melhorar a sobrevida.",
+      "idosos": "Iniciar com 10 mg/dia (CR 12,5 mg), máximo 40 mg/dia (CR 50 mg); maior risco de SIADH.",
+      "criancas": "Sem aprovação específica; dados preliminares sugerem eficácia no TOC, na fobia social e na depressão. Documentar risco e benefício e vigiar ativação e ideação suicida.",
+      "gestacao": "Não recomendada, sobretudo no primeiro trimestre: dados epidemiológicos mostram aumento de malformações cardiovasculares (defeitos septais), com risco absoluto pequeno. Salvo benefício que justifique, considerar suspender ou trocar. Uso no fim da gestação associado a mais complicações neonatais (desconforto respiratório), além dos riscos habituais dos ISRS.",
+      "lactacao": "Passa ao leite em pequena quantidade, com traços no lactente; se irritabilidade ou sedação, reavaliar. Muitas pacientes precisarão manter o tratamento no pós-parto."
+    },
+    "vantagens": [
+      "Transtornos de ansiedade com insônia.",
+      "Quadros mistos de ansiedade e depressão."
+    ],
+    "desvantagens": [
+      "Hipersonia.",
+      "Doença de Alzheimer e transtornos cognitivos.",
+      "Lentificação psicomotora, fadiga e baixa energia."
+    ],
+    "perolas": [
+      "Frequentemente preferida na depressão ansiosa e na depressão com transtornos de ansiedade comórbidos.",
+      "A ação anticolinérgica leve pode acelerar o efeito ansiolítico e hipnótico, mas causa efeitos anticolinérgicos leves.",
+      "Talvez menos ativadora que outros ISRS; pode reduzir ansiedade e insônia já no início.",
+      "Inibe o próprio metabolismo, por isso a cinética não é linear; inibidor potente do CYP2D6.",
+      "Relatos sugerem mais ganho de peso e disfunção sexual que outros ISRS.",
+      "A CR melhora a tolerabilidade, sobretudo quanto à náusea.",
+      "Pode causar embotamento cognitivo e afetivo.",
+      "ISRS podem ser menos eficazes em mulheres acima de 50 anos sem estrogênio e úteis nos fogachos da perimenopausa.",
+      "Falta de resposta em idosos deve levantar suspeita de comprometimento cognitivo leve ou Alzheimer."
+    ]
+  },
+  "citalopram": {
+    "alvos": [
+      "Humor deprimido",
+      "Ansiedade",
+      "Ataques de pânico, evitação, revivescência e hiperexcitabilidade",
+      "Distúrbios do sono, tanto insônia quanto hipersonia"
+    ],
+    "latencia": "Efeito terapêutico costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia. Pode seguir prevenindo recaídas por anos.",
+    "se_funciona": [
+      "Meta: remissão completa e prevenção de recaídas; tratar até a remissão ou redução importante (TOC, TEPT).",
+      "Primeiro episódio depressivo: manter por 1 ano após a remissão; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; há também não respondedores e perda de efeito com o tempo.",
+      "Aumentar a dose (dentro do limite de 40 mg), trocar ou potencializar; associar psicoterapia.",
+      "Reavaliar diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Trazodona, sobretudo para insônia",
+      "Bupropiona, mirtazapina, reboxetina ou atomoxetina (atomoxetina em dose menor); cautela com associações de antidepressivos",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente e na ansiedade resistente",
+      "Benzodiazepínicos; hipnóticos para insônia",
+      "Na ansiedade refratária, gabapentina ou tiagabina",
+      "Clássicos: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Nenhum exame de rotina em pessoas saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Excesso de serotonina em receptores fora dos circuitos terapêuticos: insônia, diarreia e demais efeitos serotoninérgicos.",
+      "Redução da liberação de dopamina pode causar embotamento afetivo, lentificação cognitiva e apatia.",
+      "O leve antagonismo H1 pode contribuir para sedação e fadiga.",
+      "O enantiômero R, inativo, pode interferir na ação do enantiômero S no transportador de serotonina."
+    ],
+    "peso": "Relatado, mas não esperado; associado tanto a ganho quanto a perda de peso, em geral neutro.",
+    "sedacao": "Ocorre em minoria significativa.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de mania (rara).",
+      "Ativação de ideação e comportamento suicidas (rara); sem aumento de risco acima dos 24 anos nos estudos de curto prazo.",
+      "Alterações da atividade elétrica cardíaca (prolongamento de QT) em doses acima de 40 mg/dia.",
+      "Hiponatremia rara, sobretudo em idosos, em geral reversível."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos são transitórios.",
+      "Tomar pela manhã se houver insônia e à noite se houver sedação diurna.",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual (dose-dependente): bupropiona, sildenafila, vardenafila ou tadalafila. Apatia: bupropiona. Efeitos gastrointestinais e agitação: mirtazapina. Inquietação inicial: benzodiazepínico.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou atípico, e/ou suspender."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 20 a 40 mg/dia, dose única pela manhã ou à noite.",
+      "Iniciar com 20 mg/dia e subir 20 mg após 1 semana ou mais; máximo 40 mg/dia.",
+      "Não prescrever acima de 40 mg/dia pelo risco de alterações elétricas cardíacas; o limite da FDA é controverso e especialistas às vezes usam mais.",
+      "Máximo de 20 mg/dia acima de 60 anos, na insuficiência hepática e com inibidores do CYP2C19 (critério da FDA; a bula brasileira usa 65 anos para idosos).",
+      "Muitos pacientes respondem melhor a 40 mg que a 20 mg.",
+      "Ansiedade, insônia, agitação, acatisia ou ativação intoleráveis ao iniciar ou suspender: considerar bipolaridade ativada."
+    ],
+    "superdosagem": "Há mortes raras, isolado ou em associação; vômitos, sedação, arritmias, tontura, sudorese, náuseas e tremor; raramente amnésia, confusão, coma e convulsões.",
+    "longo_prazo": "Seguro.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirada gradual em geral não é necessária, mas é prudente.",
+      "Muitos toleram reduzir 50% por 3 dias, mais 50% por 3 dias e suspender.",
+      "Se surgirem sintomas de retirada, voltar à dose e reduzir bem mais devagar."
+    ],
+    "interacoes": [
+      "Meia-vida de 23 a 45 horas; metabolizado pelos CYP3A4 e CYP2C19; inibidor fraco do CYP2D6.",
+      "Com inibidor do CYP2C19 (por exemplo, cimetidina), não passar de 20 mg/dia pelo risco de prolongar o QT.",
+      "IMAO: não associar nem usar até 14 dias após o IMAO; iniciar IMAO só após 5 meias-vidas (5 a 7 dias).",
+      "Pode elevar níveis de tricíclicos. Tramadol aumenta o risco de convulsões.",
+      "Pode deslocar fármacos muito ligados a proteínas (varfarina); risco de sangramento com anticoagulantes e AINE; AINE podem reduzir a eficácia dos ISRS.",
+      "Com triptanos, raramente fraqueza, hiper-reflexia e incoordenação.",
+      "Via CYP2D6: pode reduzir a analgesia da codeína e elevar betabloqueadores, atomoxetina e tioridazina."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Uso de tioridazina ou pimozida.",
+      "Alergia comprovada a citalopram ou escitalopram."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia e em bipolares sem estabilizador do humor.",
+      "Alertar sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Sem ajuste na insuficiência leve a moderada; cautela na grave.",
+      "hepatica": "Não passar de 20 mg/dia; alguns pacientes toleram melhor doses no limite inferior.",
+      "cardiaca": "Pode alterar a atividade elétrica cardíaca acima de 40 mg/dia. Tratar a depressão com ISRS após infarto ou na angina pode reduzir eventos e melhorar a sobrevida.",
+      "idosos": "Não passar de 20 mg/dia acima de 60 anos; pode ser um ISRS especialmente bem tolerado nessa faixa; maior risco de SIADH.",
+      "criancas": "Sem aprovação específica; dados preliminares sugerem segurança e eficácia no TOC e na depressão. Documentar risco e benefício e vigiar ativação e ideação suicida.",
+      "gestacao": "Não recomendado de rotina, sobretudo no primeiro trimestre, mas o tratamento contínuo pode ser necessário. Riscos habituais dos ISRS: pequeno aumento absoluto de defeitos septais, possível hipertensão pulmonar neonatal após a 20.ª semana, hipertensão gestacional e pré-eclâmpsia, sangramento no parto e síndrome de adaptação neonatal com uso tardio.",
+      "lactacao": "Passa ao leite, com traços no lactente; se irritabilidade ou sedação, reavaliar. Muitas pacientes precisarão manter o tratamento no pós-parto."
+    },
+    "vantagens": [
+      "Idosos.",
+      "Pacientes excessivamente ativados ou sedados por outros ISRS."
+    ],
+    "desvantagens": [
+      "Pode exigir titulação para eficácia ótima.",
+      "Pode sedar alguns pacientes."
+    ],
+    "perolas": [
+      "Pode ser mais bem tolerado que alguns antidepressivos, talvez com menos disfunção sexual que outros ISRS, e especialmente bem tolerado em idosos.",
+      "Talvez menos bem tolerado que o escitalopram; a documentação nos transtornos de ansiedade é menos ampla que a do escitalopram e de outros ISRS.",
+      "No TDPM, o uso só na fase lútea pode ser mais eficaz que o contínuo.",
+      "Pode causar embotamento cognitivo e afetivo.",
+      "ISRS podem ser menos eficazes em mulheres acima de 50 anos sem estrogênio e úteis nos fogachos da perimenopausa.",
+      "Falta de resposta em idosos deve levantar suspeita de comprometimento cognitivo leve ou Alzheimer."
+    ]
+  },
+  "escitalopram": {
+    "alvos": [
+      "Humor deprimido",
+      "Ansiedade",
+      "Ataques de pânico, evitação, revivescência e hiperexcitabilidade",
+      "Distúrbios do sono, tanto insônia quanto hipersonia"
+    ],
+    "latencia": "Efeito terapêutico costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia. Estado de equilíbrio em 1 semana. Talvez tenha início de ação mais rápido que o citalopram.",
+    "se_funciona": [
+      "Meta: remissão completa e prevenção de recaídas; tratar até a remissão ou redução importante (TOC, TEPT).",
+      "Primeiro episódio depressivo: manter por 1 ano após a remissão; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; há também não respondedores e perda de efeito com o tempo.",
+      "Aumentar a dose, trocar ou potencializar; associar psicoterapia.",
+      "Reavaliar diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Trazodona, sobretudo para insônia",
+      "Bupropiona, mirtazapina, reboxetina ou atomoxetina; cautela com associações de antidepressivos",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente e na ansiedade resistente",
+      "Benzodiazepínicos; hipnóticos para insônia",
+      "Na ansiedade refratária, gabapentina ou tiagabina",
+      "Clássicos: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Nenhum exame de rotina em pessoas saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Sem propriedades farmacológicas secundárias relevantes: os efeitos adversos decorrem, presumivelmente, só do bloqueio da recaptação de serotonina.",
+      "Excesso de serotonina fora dos circuitos terapêuticos: insônia, diarreia e demais efeitos serotoninérgicos.",
+      "Redução da liberação de dopamina pode causar embotamento afetivo, lentificação cognitiva e apatia."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Relatada, mas não esperada.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de mania (rara).",
+      "Ativação de ideação e comportamento suicidas (rara); sem aumento de risco acima dos 24 anos nos estudos de curto prazo.",
+      "Hiponatremia rara, sobretudo em idosos, em geral reversível."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos são transitórios; em algumas semanas, trocar ou associar outro fármaco.",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual: bupropiona, sildenafila, vardenafila ou tadalafila. Apatia: bupropiona. Efeitos gastrointestinais e agitação: mirtazapina. Inquietação inicial: benzodiazepínico.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou atípico, e/ou suspender."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 10 a 20 mg/dia, dose única pela manhã ou à noite.",
+      "Iniciar com 10 mg/dia e subir para 20 mg/dia se necessário.",
+      "10 mg de escitalopram podem equivaler em eficácia a 40 mg de citalopram, com menos efeitos adversos: fazer um teste adequado com 10 mg antes de ir a 20 mg.",
+      "Alguns pacientes precisam de 30 ou 40 mg/dia.",
+      "Idosos e insuficiência hepática: 10 mg/dia.",
+      "Ansiedade, insônia, agitação, acatisia ou ativação intoleráveis ao iniciar ou suspender: considerar bipolaridade ativada."
+    ],
+    "superdosagem": "Poucos relatos; provavelmente semelhante ao citalopram: vômitos, sedação, arritmias, tontura, sudorese, náuseas e tremor, raramente amnésia, confusão, coma e convulsões; mortes raras.",
+    "longo_prazo": "Seguro.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirada gradual em geral não é necessária, mas é prudente.",
+      "Muitos toleram reduzir 50% por 3 dias, mais 50% por 3 dias e suspender.",
+      "Se surgirem sintomas de retirada, voltar à dose e reduzir bem mais devagar."
+    ],
+    "interacoes": [
+      "Meia-vida terminal de 27 a 32 horas; sem ação significativa sobre as enzimas do CYP450; poucas interações conhecidas.",
+      "IMAO: não associar nem usar até 14 dias após o IMAO; iniciar IMAO só após 5 meias-vidas (5 a 7 dias).",
+      "Tramadol aumenta o risco de convulsões.",
+      "Com triptanos, teoricamente fraqueza, hiper-reflexia e incoordenação.",
+      "Risco de sangramento com anticoagulantes e AINE; AINE podem reduzir a eficácia dos ISRS."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Uso de pimozida.",
+      "Alergia comprovada a escitalopram ou citalopram."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia e em bipolares sem estabilizador do humor.",
+      "Alertar sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Sem ajuste na insuficiência leve a moderada; cautela na grave.",
+      "hepatica": "Dose recomendada de 10 mg/dia.",
+      "cardiaca": "Não avaliado sistematicamente; os dados do citalopram sugerem segurança. Tratar a depressão com ISRS após infarto ou na angina pode reduzir eventos e melhorar a sobrevida.",
+      "idosos": "Dose recomendada de 10 mg/dia; maior risco de SIADH.",
+      "criancas": "Aprovado nos EUA para depressão de 12 a 17 anos. Documentar risco e benefício, monitorar presencialmente nas primeiras semanas e vigiar ativação e ideação suicida.",
+      "gestacao": "Não recomendado de rotina, sobretudo no primeiro trimestre, mas o tratamento contínuo pode ser necessário. Riscos habituais dos ISRS: pequeno aumento absoluto de defeitos septais, possível hipertensão pulmonar neonatal após a 20.ª semana, hipertensão gestacional e pré-eclâmpsia, sangramento no parto e síndrome de adaptação neonatal com uso tardio.",
+      "lactacao": "Passa ao leite, com traços no lactente; se irritabilidade ou sedação, reavaliar. Muitas pacientes precisarão manter o tratamento no pós-parto."
+    },
+    "vantagens": [
+      "Pacientes em uso de outros fármacos (poucas interações, menos ainda que o citalopram).",
+      "Quando se deseja início de ação mais rápido."
+    ],
+    "desvantagens": [
+      "Mais caro que o citalopram onde este é genérico."
+    ],
+    "perolas": [
+      "Pode estar entre os antidepressivos mais bem tolerados, talvez com menos disfunção sexual que outros ISRS e melhor tolerância que o citalopram.",
+      "O R-citalopram pode atrapalhar a ligação do S-citalopram ao transportador; por isso o escitalopram pode ser mais que duas vezes mais potente que o citalopram racêmico, com início talvez mais rápido e menos efeitos adversos.",
+      "Alguns dados sugerem taxas de remissão comparáveis às dos IRSN, sem comprovação.",
+      "É o ISRS com menor interação com CYP2D6 e 3A4, o que o torna conveniente para associar agentes potencializadores.",
+      "Pode causar embotamento cognitivo e afetivo.",
+      "ISRS podem ser menos eficazes em mulheres acima de 50 anos sem estrogênio; algumas respondem melhor com potencialização estrogênica. Úteis nos fogachos da perimenopausa.",
+      "Falta de resposta em idosos deve levantar suspeita de comprometimento cognitivo leve ou Alzheimer."
+    ]
+  },
+  "fluvoxamina": {
+    "alvos": [
+      "Humor deprimido",
+      "Ansiedade"
+    ],
+    "latencia": "Alguns pacientes têm alívio precoce de insônia ou ansiedade. O efeito terapêutico costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia.",
+    "se_funciona": [
+      "Meta: remissão completa e prevenção de recaídas; tratar até a remissão ou redução importante (TOC).",
+      "Primeiro episódio depressivo: manter por 1 ano após a remissão; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; há também não respondedores e perda de efeito com o tempo.",
+      "Aumentar a dose, trocar ou potencializar; associar psicoterapia.",
+      "Reavaliar diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "TOC resistente: associação cuidadosa com clomipramina, por especialista e em dose baixa (a fluvoxamina eleva a clomipramina)",
+      "No TOC (prática norte-americana): antipsicóticos atípicos, buspirona ou clomipramina",
+      "Na depressão e na ansiedade (prática europeia e japonesa): sobretudo benzodiazepínicos e lítio",
+      "Trazodona, sobretudo para insônia",
+      "Bupropiona, mirtazapina, reboxetina ou atomoxetina; cautela com associações de antidepressivos",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente e na ansiedade resistente",
+      "Na ansiedade refratária, gabapentina ou tiagabina; hipnóticos para insônia",
+      "Clássicos: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Nenhum exame de rotina em pessoas saudáveis."
+    ],
+    "mecanismo_ea": [
+      "Excesso de serotonina em receptores fora dos circuitos terapêuticos: insônia, diarreia e demais efeitos serotoninérgicos.",
+      "Redução da liberação de dopamina pode causar embotamento afetivo, lentificação cognitiva e apatia.",
+      "A ação em receptores sigma 1 pode contribuir para sedação e fadiga."
+    ],
+    "peso": "Relatado, mas não esperado; pode haver perda de peso.",
+    "sedacao": "Frequente e às vezes importante.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de mania (rara).",
+      "Ativação de ideação e comportamento suicidas (rara); sem aumento de risco acima dos 24 anos nos estudos de curto prazo."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos são transitórios.",
+      "Se sedar, tomar à noite; reduzir a dose.",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual: bupropiona, sildenafila, vardenafila ou tadalafila. Apatia: bupropiona. Efeitos gastrointestinais e agitação: mirtazapina. Inquietação inicial: benzodiazepínico.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou atípico, e/ou suspender."
+    ],
+    "dicas_dose": [
+      "Faixa usual: 100 a 300 mg/dia no TOC e na ansiedade social; 100 a 200 mg/dia na depressão.",
+      "Liberação imediata: iniciar com 50 mg/dia e subir 50 mg em 4 a 7 dias; depois, em geral esperar algumas semanas, mas pode-se subir 50 mg a cada 4 a 7 dias; máximo 300 mg/dia (alguns usam mais).",
+      "Até 100 mg/dia, dose única ao deitar; acima disso, pode-se dividir em duas tomadas, a maior à noite, ou manter dose única ao deitar.",
+      "Liberação controlada (CR, disponível nos EUA): iniciar com 100 mg/dia e subir 50 mg por semana; máximo geralmente 300 mg/dia; não mastigar nem triturar as cápsulas.",
+      "Fumantes metabolizam mais a fluvoxamina e podem precisar de doses maiores.",
+      "Ansiedade, insônia, agitação, acatisia ou ativação intoleráveis ao iniciar ou suspender: considerar bipolaridade ativada."
+    ],
+    "superdosagem": "Há mortes raras, isolada ou em associação; sedação, tontura, vômitos, diarreia, arritmia, convulsões, coma e dificuldade respiratória.",
+    "longo_prazo": "Segura.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirar gradualmente para evitar tontura, náuseas, cólicas, sudorese, formigamento e disestesias; sintomas gastrointestinais são os mais típicos.",
+      "Muitos toleram reduzir 50% por 3 dias, mais 50% por 3 dias e suspender.",
+      "Se surgirem sintomas de retirada, voltar à dose e reduzir bem mais devagar."
+    ],
+    "interacoes": [
+      "Meia-vida de 9 a 28 horas; inibe CYP1A2, CYP3A4 e CYP2C9/2C19.",
+      "IMAO: não associar nem usar até 14 dias após o IMAO; iniciar IMAO só após 5 meias-vidas (5 a 7 dias).",
+      "Pode elevar níveis de tricíclicos. Tramadol aumenta o risco de convulsões.",
+      "Via CYP1A2: reduz a depuração de teofilina e clozapina, exigindo redução de dose; com cafeína ou teofilina, inquietação, estimulação excessiva e raramente convulsões.",
+      "Via CYP3A4: eleva carbamazepina, alprazolam e triazolam (reduzir doses), pimozida (QTc) e sinvastatina, atorvastatina e lovastatina (rabdomiólise).",
+      "Pode deslocar fármacos muito ligados a proteínas (varfarina); risco de sangramento com anticoagulantes e AINE; AINE podem reduzir a eficácia dos ISRS.",
+      "Com triptanos, raramente fraqueza, hiper-reflexia e incoordenação."
+    ],
+    "nao_usar": [
+      "Uso de IMAO.",
+      "Uso de tioridazina, pimozida, tizanidina, alosetrona ou ramelteona.",
+      "Alergia comprovada à fluvoxamina."
+    ],
+    "advertencias": [
+      "Associar ou iniciar outros antidepressivos com cautela por até 2 semanas após a suspensão.",
+      "Pode causar fotossensibilidade.",
+      "Cautela em epilepsia e em bipolares sem estabilizador do humor.",
+      "Alertar sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Considerar dose inicial menor.",
+      "hepatica": "Reduzir a dose ou a frequência, talvez à metade, e titular mais devagar.",
+      "cardiaca": "Dados preliminares sugerem segurança; tratar a depressão com ISRS após infarto ou na angina pode reduzir eventos e melhorar a sobrevida.",
+      "idosos": "Pode exigir dose inicial menor e titulação mais lenta.",
+      "criancas": "Liberação imediata aprovada nos EUA para TOC de 8 a 17 anos: iniciar com 25 mg ao deitar e subir 25 mg a cada 4 a 7 dias; máximo 200 mg/dia; acima de 50 mg/dia, dividir em duas tomadas, a maior ao deitar. Dados preliminares sugerem eficácia em outros transtornos de ansiedade e na depressão.",
+      "gestacao": "Não recomendada de rotina, sobretudo no primeiro trimestre, mas o tratamento contínuo pode ser necessário. Riscos habituais dos ISRS: pequeno aumento absoluto de defeitos septais, possível hipertensão pulmonar neonatal após a 20.ª semana, hipertensão gestacional e pré-eclâmpsia, sangramento no parto e síndrome de adaptação neonatal com uso tardio.",
+      "lactacao": "Passa ao leite, com traços no lactente; se irritabilidade ou sedação, reavaliar. Muitas pacientes precisarão manter o tratamento no pós-parto."
+    },
+    "vantagens": [
+      "Quadros mistos de ansiedade e depressão."
+    ],
+    "desvantagens": [
+      "Síndrome do intestino irritável ou múltiplas queixas gastrointestinais.",
+      "Pode exigir titulação e duas tomadas diárias."
+    ],
+    "perolas": [
+      "Frequentemente preferida na depressão ansiosa e na depressão com transtornos de ansiedade comórbidos.",
+      "A ação em sigma 1 pode explicar o efeito às vezes rápido na ansiedade e na insônia e possíveis vantagens na depressão psicótica ou delirante.",
+      "Pode causar menos disfunção sexual que outros ISRS.",
+      "Dados preliminares sugerem eficácia em sintomas obsessivo-compulsivos na esquizofrenia, associada a antipsicóticos.",
+      "Não aprovada pela FDA para depressão, mas muito usada para isso em outros países.",
+      "A CR pode ser mais bem tolerada, com menos sedação.",
+      "Fluvoxamina com clomipramina no TOC resistente: ao inibir o CYP1A2, bloqueia a conversão da clomipramina em desmetilclomipramina (noradrenérgica) e aumenta a proporção do composto original, mais serotoninérgico. Uso por especialista, com cautela.",
+      "ISRS podem ser menos eficazes em mulheres acima de 50 anos sem estrogênio e úteis nos fogachos da perimenopausa."
+    ]
+  },
+  "venlafaxina": {
+    "alvos": [
+      "Humor deprimido",
+      "Energia, motivação e interesse",
+      "Distúrbios do sono",
+      "Ansiedade"
+    ],
+    "latencia": "Efeito antidepressivo costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia. No TAG, resposta e remissão podem continuar aumentando após 8 semanas e por até 6 meses.",
+    "se_funciona": [
+      "Meta: remissão completa e prevenção de recaídas; tratar até a remissão, sobretudo na depressão e, quando possível, na ansiedade.",
+      "Primeiro episódio depressivo: manter por 1 ano após a remissão; a partir do segundo, o tratamento pode ser indefinido.",
+      "Nos transtornos de ansiedade o uso também pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; há também não respondedores e perda de efeito com o tempo.",
+      "Não respondedores em doses baixas devem tentar doses maiores para garantir a ação dual.",
+      "Trocar ou potencializar; associar psicoterapia; reavaliar diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Mirtazapina: combinação dual potente, vigiando ativação de bipolaridade e ideação suicida",
+      "Bupropiona, reboxetina, nortriptilina, desipramina, maprotilina ou atomoxetina (reforço noradrenérgico), com a mesma vigilância",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente",
+      "Benzodiazepínicos; hipnóticos ou trazodona para insônia",
+      "Na ansiedade refratária, gabapentina ou tiagabina",
+      "Clássicos: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Pressão arterial antes de iniciar e regularmente durante o tratamento, sobretudo acima de 225 mg/dia."
+    ],
+    "tabela": {
+      "titulo": "Ação conforme a dose (Stahl 2017)",
+      "colunas": ["Dose diária", "Ação predominante"],
+      "linhas": [
+        ["75 a 225 mg", "Bloqueio potente da recaptação de serotonina em todas as doses; ação dual em alguns pacientes"],
+        ["225 a 375 mg", "Ação dual (serotonina e noradrenalina) na maioria"],
+        ["Acima de 375 mg", "Também bloqueio da recaptação de dopamina em alguns pacientes"]
+      ],
+      "nota": "Por isso, não respondedores em doses baixas devem ser testados em doses maiores."
+    },
+    "mecanismo_ea": [
+      "Excesso de serotonina e noradrenalina em receptores fora dos circuitos terapêuticos: insônia (serotonina nos centros do sono), constipação e boca seca (noradrenalina sobre a liberação de acetilcolina).",
+      "A maioria dos efeitos surge logo e tende a ceder; muitos aumentam com a dose, ao menos transitoriamente."
+    ],
+    "peso": "Relatado, mas não esperado; pode haver perda de peso, sobretudo a curto prazo.",
+    "sedacao": "Ocorre em minoria significativa; pode ser ativadora em alguns pacientes.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de hipomania (rara).",
+      "Ativação de ideação e comportamento suicidas (rara); sem aumento de risco acima dos 24 anos nos estudos de curto prazo.",
+      "Elevação dose-dependente da pressão arterial; SIADH e hiponatremia."
+    ],
+    "manejo": [
+      "Esperar; reduzir a dose; em algumas semanas, trocar ou associar outro fármaco.",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual: bupropiona, sildenafila, vardenafila ou tadalafila. Inquietação inicial: benzodiazepínico. Insônia, agitação e efeitos gastrointestinais: mirtazapina.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou atípico, e/ou suspender."
+    ],
+    "dicas_dose": [
+      "Depressão: 75 a 225 mg/dia, dose única (liberação prolongada) ou dividida em 2 a 3 tomadas (liberação imediata). TAG: 150 a 225 mg/dia.",
+      "Iniciar com 37,5 mg/dia (liberação prolongada) ou 25 a 50 mg/dia divididos (imediata) por 1 semana; subir no máximo 75 mg a cada 4 dias; em geral testar cada patamar por algumas semanas antes de novo aumento de 75 mg.",
+      "Máximo geralmente 375 mg/dia (critério do Stahl; a bula limita a formulação de liberação prolongada a 225 mg/dia); até 600 mg/dia já foi usado em casos extremos.",
+      "Em não respondedores que toleram doses altas, dosar venlafaxina e O-desmetilvenlafaxina: se os níveis forem baixos, especialistas podem passar de 375 mg/dia com monitorização.",
+      "A O-desmetilvenlafaxina (ativa) é formada pelo CYP2D6; sua inibição reduz a formação do metabólito, de relevância clínica incerta.",
+      "Não abrir nem mastigar a cápsula de liberação prolongada."
+    ],
+    "superdosagem": "Pode ser letal ou assintomática; sedação, convulsões e taquicardia. Dados do Reino Unido sugerem mais mortes por superdosagem que com ISRS, embora a toxicidade seja menor que a dos tricíclicos; não se sabe se isso reflete o perfil dos pacientes ou toxicidade cardiovascular.",
+    "longo_prazo": "Monitorar a pressão arterial regularmente, sobretudo acima de 225 mg/dia.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirar gradualmente: sintomas de retirada podem ser mais frequentes ou intensos que com outros antidepressivos (tontura, náuseas, cólicas, sudorese, formigamento, disestesias).",
+      "Muitos toleram reduzir 50% por 3 dias, mais 50% por 3 dias e suspender; se surgirem sintomas, voltar à dose e reduzir bem mais devagar.",
+      "Casos graves: retirada ao longo de meses, reduzindo cerca de 1% a cada 3 dias (comprimido de liberação imediata dissolvido em 100 mL de suco, descartando volumes crescentes a cada 3 a 7 dias).",
+      "Alternativa: associar fluoxetina, retirar lentamente a venlafaxina e depois a fluoxetina.",
+      "Diferenciar retirada de reaparecimento dos sintomas."
+    ],
+    "interacoes": [
+      "Meia-vida de 3 a 7 horas (metabólito ativo, 9 a 13 horas); alimentos não alteram a absorção; poucas interações conhecidas.",
+      "IMAO: não associar nem usar até 14 dias após o IMAO; iniciar IMAO só após 5 meias-vidas (5 a 7 dias).",
+      "Tramadol aumenta o risco de convulsões.",
+      "Risco de sangramento com anticoagulantes e AINE.",
+      "Cimetidina pode reduzir a depuração e elevar os níveis de venlafaxina.",
+      "Pode, teoricamente, reduzir a analgesia da codeína."
+    ],
+    "nao_usar": [
+      "Glaucoma de ângulo fechado não controlado.",
+      "Uso de IMAO.",
+      "Alergia comprovada à venlafaxina."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia, cardiopatia e bipolares sem estabilizador do humor.",
+      "Alertar sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Reduzir a dose em 25 a 50%; em diálise, dar a dose seguinte só após a sessão.",
+      "hepatica": "Reduzir a dose em 50%.",
+      "cardiaca": "Usar com cautela. Controlar a hipertensão antes de iniciar e monitorar; efeito pressor dose-dependente. Bloqueia canais iônicos cardíacos in vitro e reduz a variabilidade da frequência cardíaca. Contraindicada em cardiopatas no Reino Unido.",
+      "idosos": "Alguns toleram melhor doses menores; maior risco de SIADH.",
+      "criancas": "Sem aprovação específica; dados preliminares sugerem eficácia na depressão, na ansiedade e no TDAH. Documentar risco e benefício e vigiar ativação e ideação suicida.",
+      "gestacao": "Não recomendada de rotina, sobretudo no primeiro trimestre, mas o tratamento contínuo pode ser necessário e não se provou nocivo. Com uso no fim do terceiro trimestre, risco de síndrome de adaptação neonatal com complicações que podem exigir suporte ventilatório e alimentação por sonda.",
+      "lactacao": "Passa ao leite, com traços no lactente; se irritabilidade ou sedação, reavaliar. Muitas pacientes precisarão manter o tratamento no pós-parto."
+    },
+    "vantagens": [
+      "Depressão com lentificação.",
+      "Depressão atípica.",
+      "Ansiedade comórbida.",
+      "Depressão com sintomas somáticos, fadiga e dor.",
+      "Pacientes que não respondem ou não remitem com ISRS; possíveis taxas de remissão maiores que com ISRS."
+    ],
+    "desvantagens": [
+      "Sensibilidade a náuseas.",
+      "Hipertensão limítrofe ou não controlada.",
+      "Cardiopatia."
+    ],
+    "perolas": [
+      "Pode ser eficaz em quem falha com ISRS e é uma das opções preferidas na depressão resistente, inclusive em associações.",
+      "A formulação de liberação prolongada melhora a tolerabilidade, reduz a náusea e permite dose única; aumentos de PA são raros com ela até 225 mg.",
+      "Eficácia e efeitos adversos (sobretudo náusea e PA) são dose-dependentes; faixa eficaz ampla, de 75 a 375 mg em casos difíceis.",
+      "Mais potente na recaptação de serotonina que na de noradrenalina; estudos in vitro subestimam a potência in vivo (metabólito ativo, doses altas em mg, baixa ligação proteica).",
+      "Pode ser eficaz em vários transtornos de ansiedade, no TDAH do adulto, na dor neuropática e na fibromialgia (dados preliminares) e nos fogachos da perimenopausa.",
+      "No Reino Unido, só especialistas podem prescrevê-la, pelos dados de mortalidade em superdosagem; esses dados não controlam as características dos pacientes."
+    ]
+  },
+  "desvenlafaxina": {
+    "alvos": [
+      "Humor deprimido",
+      "Energia, motivação e interesse",
+      "Distúrbios do sono",
+      "Sintomas físicos",
+      "Dor"
+    ],
+    "latencia": "Efeito antidepressivo costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia. Sintomas vasomotores da perimenopausa, com ou sem depressão, podem melhorar em 1 semana.",
+    "se_funciona": [
+      "Meta: remissão completa e prevenção de recaídas.",
+      "Primeiro episódio depressivo: manter por 1 ano após a remissão; a partir do segundo, o tratamento pode ser indefinido."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; há também não respondedores e perda de efeito com o tempo.",
+      "Não respondedores em doses baixas podem tentar doses maiores para garantir a ação dual.",
+      "Trocar ou potencializar; associar psicoterapia; reavaliar diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "Mirtazapina: combinação dual potente, vigiando ativação de bipolaridade e ideação suicida",
+      "Bupropiona, reboxetina, nortriptilina, desipramina, maprotilina ou atomoxetina (reforço noradrenérgico)",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente",
+      "Benzodiazepínicos; hipnóticos ou trazodona para insônia",
+      "Na ansiedade refratária, gabapentina ou tiagabina",
+      "Clássicos: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Pressão arterial antes de iniciar e regularmente durante o tratamento."
+    ],
+    "mecanismo_ea": [
+      "Excesso de serotonina e noradrenalina em receptores fora dos circuitos terapêuticos: insônia (serotonina), constipação e boca seca (noradrenalina sobre a liberação de acetilcolina).",
+      "A maioria dos efeitos surge logo e tende a ceder; muitos aumentam com a dose, ao menos transitoriamente."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Ocorre em minoria significativa; pode ser ativadora em alguns pacientes.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de hipomania (rara).",
+      "Ativação de ideação e comportamento suicidas (rara); sem aumento de risco acima dos 24 anos nos estudos de curto prazo.",
+      "Elevação da pressão arterial; SIADH e hiponatremia."
+    ],
+    "manejo": [
+      "Esperar; reduzir a dose; em algumas semanas, trocar ou associar outro fármaco.",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual: bupropiona, sildenafila, vardenafila ou tadalafila. Inquietação inicial: benzodiazepínico. Insônia, agitação e efeitos gastrointestinais: mirtazapina.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou atípico, e/ou suspender."
+    ],
+    "dicas_dose": [
+      "Depressão: 50 mg uma vez ao dia é a dose usual e inicial.",
+      "Máximo recomendado geralmente 100 mg/dia; doses até 400 mg/dia mostraram eficácia, com mais efeitos adversos, e podem ser tentadas em não respondedores que tolerem.",
+      "Sintomas vasomotores: 100 mg/dia parece eficaz.",
+      "Não partir nem mastigar o comprimido de liberação prolongada.",
+      "É a O-desmetilvenlafaxina, metabólito ativo da venlafaxina; mais potente no SERT que no NET, mas com inibição relativa do NET maior que a da venlafaxina."
+    ],
+    "superdosagem": "Sem mortes relatadas em monoterapia; cefaleia, vômitos, agitação, tontura, náuseas, constipação, diarreia, boca seca, parestesias e taquicardia. Para a venlafaxina, dados do Reino Unido sugerem mais mortes por superdosagem que com ISRS.",
+    "longo_prazo": "Monitorar a pressão arterial regularmente.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirar gradualmente para evitar tontura, náuseas, diarreia, sudorese, ansiedade e irritabilidade.",
+      "Esquema recomendado: dar a dose diária completa (50 mg) com menor frequência.",
+      "Se surgirem sintomas de retirada, voltar à dose e reduzir bem mais devagar.",
+      "Casos difíceis: associar fluoxetina, retirar lentamente a desvenlafaxina e depois a fluoxetina.",
+      "Diferenciar retirada de reaparecimento dos sintomas."
+    ],
+    "interacoes": [
+      "Meia-vida de 9 a 13 horas; metabolismo mínimo pelo CYP3A4 e nenhum pelo CYP2D6; alimentos não alteram a absorção; poucas interações conhecidas.",
+      "IMAO: não associar nem usar até 14 dias após o IMAO; iniciar IMAO só após 5 meias-vidas (5 a 7 dias).",
+      "Tramadol aumenta o risco de convulsões.",
+      "Com triptanos, raramente fraqueza, hiper-reflexia e incoordenação.",
+      "Risco de sangramento com anticoagulantes e AINE.",
+      "Inibidores potentes do CYP3A4 podem elevar os níveis, de relevância clínica incerta.",
+      "Falso-positivo para fenciclidina e anfetamina na triagem urinária por imunoensaio, inclusive por alguns dias após a suspensão."
+    ],
+    "nao_usar": [
+      "Glaucoma de ângulo fechado não controlado.",
+      "Uso de IMAO.",
+      "Alergia comprovada à desvenlafaxina ou à venlafaxina."
+    ],
+    "advertencias": [
+      "Cautela em epilepsia, cardiopatia e bipolares sem estabilizador do humor.",
+      "Alertar sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Insuficiência moderada: 50 mg/dia. Grave: 50 mg em dias alternados. Em diálise, dar a dose seguinte só após a sessão.",
+      "hepatica": "Não passar de 100 mg/dia.",
+      "cardiaca": "Usar com cautela. Controlar a hipertensão antes de iniciar e monitorar; efeito pressor dose-dependente. A venlafaxina, da qual é metabólito, é contraindicada em cardiopatas no Reino Unido.",
+      "idosos": "Alguns toleram melhor doses menores; maior risco de SIADH.",
+      "criancas": "Documentar risco e benefício, monitorar presencialmente nas primeiras semanas e vigiar ativação e ideação suicida.",
+      "gestacao": "Não recomendada de rotina, sobretudo no primeiro trimestre, mas o tratamento contínuo pode ser necessário. Possível aumento de hipertensão gestacional e pré-eclâmpsia; síndrome de adaptação neonatal com uso no fim do terceiro trimestre.",
+      "lactacao": "Passa ao leite, com traços no lactente; se irritabilidade ou sedação, reavaliar. Muitas pacientes precisarão manter o tratamento no pós-parto."
+    },
+    "vantagens": [
+      "Depressão com lentificação.",
+      "Depressão atípica.",
+      "Depressão com sintomas somáticos, fadiga e dor.",
+      "Depressão com sintomas vasomotores.",
+      "Pacientes que não respondem ou não remitem com ISRS; possíveis taxas de remissão maiores que com ISRS."
+    ],
+    "desvantagens": [
+      "Sensibilidade a náuseas.",
+      "Hipertensão limítrofe ou não controlada.",
+      "Cardiopatia."
+    ],
+    "perolas": [
+      "Por não depender do CYP2D6 e quase não usar o CYP3A4, deve ter níveis plasmáticos mais constantes que a venlafaxina.",
+      "A maior ação relativa no NET pode torná-la preferível em condições ligadas à noradrenalina, como sintomas vasomotores e fibromialgia; particularmente útil nos fogachos da perimenopausa.",
+      "Pode ser eficaz em quem falha com ISRS e em associações na depressão resistente.",
+      "Pode ser eficaz em transtornos de ansiedade e talvez no TDAH do adulto, embora não estudada nessas condições.",
+      "A toxicidade da venlafaxina em superdosagem é maior que a dos ISRS e menor que a dos tricíclicos."
+    ]
+  },
+  "duloxetina": {
+    "alvos": [
+      "Humor deprimido",
+      "Energia, motivação e interesse",
+      "Distúrbios do sono",
+      "Ansiedade",
+      "Sintomas físicos",
+      "Dor"
+    ],
+    "latencia": "Na depressão, o efeito costuma começar em 2 a 4 semanas; sem resposta em 6 a 8 semanas, aumentar a dose ou considerar ineficácia. Pode reduzir a dor neuropática em 1 semana, embora às vezes demore mais. Sintomas vasomotores da perimenopausa podem melhorar em 1 semana.",
+    "se_funciona": [
+      "Depressão e ansiedade: tratar até a remissão; primeiro episódio depressivo, manter por 1 ano; a partir do segundo, pode ser indefinido; na ansiedade, também pode ser indefinido.",
+      "Dor neuropática diabética, fibromialgia e dor neuropática crônica: o objetivo é reduzir ao máximo os sintomas, sobretudo em associação com outros tratamentos; raramente eliminam a dor. O uso pode ser indefinido, mas o tratamento prolongado é pouco estudado."
+    ],
+    "se_nao_funciona": [
+      "Resposta parcial é comum; há também não respondedores e perda de efeito com o tempo.",
+      "Aumentar a dose, trocar ou potencializar; psicoterapia na depressão, biofeedback ou hipnose na dor.",
+      "Verificar adesão e orientar o paciente; reavaliar diagnóstico e comorbidades.",
+      "Falta de eficácia consistente pode refletir bipolaridade latente ativada: suspender o antidepressivo e usar estabilizador do humor."
+    ],
+    "potencializacao": [
+      "A experiência com potencialização é limitada; na depressão, seguir a prática de ISRS e IRSN, por especialistas e com monitorização",
+      "Na dor neuropática e na fibromialgia, teoricamente gabapentina, pregabalina ou tiagabina (sem estudos controlados)",
+      "Mirtazapina: combinação dual potente na depressão, vigiando ativação de bipolaridade e ideação suicida",
+      "Bupropiona, reboxetina, nortriptilina, desipramina, maprotilina ou atomoxetina (reforço noradrenérgico)",
+      "Modafinila para fadiga, sonolência e falta de concentração",
+      "Estabilizadores do humor ou antipsicóticos atípicos na depressão bipolar, psicótica ou resistente",
+      "Benzodiazepínicos; hipnóticos ou trazodona para insônia",
+      "Na ansiedade refratária, gabapentina, pregabalina ou tiagabina",
+      "Clássicos na depressão: lítio, buspirona, hormônio tireoidiano"
+    ],
+    "exames": [
+      "Pressão arterial antes de iniciar e regularmente durante o tratamento."
+    ],
+    "mecanismo_ea": [
+      "Excesso de serotonina e noradrenalina em receptores fora dos circuitos terapêuticos: insônia (serotonina), redução do apetite, aumento de PA e retenção urinária (noradrenalina).",
+      "A maioria dos efeitos surge logo e tende a ceder com o tempo."
+    ],
+    "peso": "Relatado, mas não esperado.",
+    "sedacao": "Ocorre em minoria significativa; pode ser ativadora em alguns pacientes.",
+    "ea_graves": [
+      "Convulsões (raras).",
+      "Indução de hipomania (rara).",
+      "Ativação de ideação suicida, tentativas e suicídio (raros); sem aumento de risco acima dos 24 anos nos estudos de curto prazo.",
+      "Hepatotoxicidade (relatos raros, causalidade não estabelecida): suspender se icterícia ou disfunção hepática significativa."
+    ],
+    "manejo": [
+      "Esperar; reduzir a dose; em algumas semanas, trocar ou associar outro fármaco.",
+      "Hesitação urinária: bloqueador alfa-1, como tansulosina.",
+      "Antes de potencializar para tratar efeitos adversos, preferir trocar para outro antidepressivo.",
+      "Insônia: trazodona ou hipnótico. Disfunção sexual: bupropiona, sildenafila, vardenafila ou tadalafila. Inquietação inicial: benzodiazepínico. Insônia, agitação e efeitos gastrointestinais: mirtazapina.",
+      "Ativação e agitação podem indicar estado misto bipolar: associar lítio, estabilizador ou atípico, e/ou suspender."
+    ],
+    "dicas_dose": [
+      "Depressão: iniciar com 40 mg/dia em 2 tomadas; subir para 60 mg/dia em 1 ou 2 tomadas se necessário; máximo geralmente 120 mg/dia.",
+      "Dor neuropática e fibromialgia: 30 mg uma vez ao dia, 60 mg após 1 semana; máximo geralmente 60 mg/dia (acima disso, mais efeitos sem mais eficácia).",
+      "TAG: iniciar com 60 mg uma vez ao dia; máximo geralmente 120 mg/dia.",
+      "Incontinência urinária de esforço: 40 mg duas vezes ao dia.",
+      "Os estudos não mostraram mais eficácia acima de 60 mg/dia na depressão, mas em estudos de prevenção de recaída muitos que recaíram com 60 mg responderam a 120 mg.",
+      "Acima de 120 mg/dia, em duas tomadas, só com especialista e cautela; experiência limitada.",
+      "Bloqueio de serotonina e noradrenalina parece presente já com 40 a 60 mg/dia.",
+      "Engolir inteira; não mastigar, triturar, abrir sobre alimentos nem misturar com comida (revestimento entérico).",
+      "Dose noturna: absorção pode atrasar até 3 horas e depuração aumentar um terço em relação à dose matinal."
+    ],
+    "superdosagem": "Mortes raras; síndrome serotoninérgica, sedação, vômitos, convulsões, coma e alterações da pressão arterial.",
+    "longo_prazo": "Monitorar a pressão arterial regularmente.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Retirar gradualmente para evitar tontura, náuseas, vômitos, cefaleia, parestesias e irritabilidade.",
+      "Muitos toleram reduzir 50% por 3 dias, mais 50% por 3 dias e suspender.",
+      "Se surgirem sintomas de retirada, voltar à dose e reduzir bem mais devagar."
+    ],
+    "interacoes": [
+      "Meia-vida de cerca de 12 horas; metabolizada pelos CYP2D6 e CYP1A2; inibe o CYP2D6 (provavelmente relevante) e o CYP1A2 (provavelmente não).",
+      "IMAO: não associar nem usar até 14 dias após o IMAO; iniciar IMAO só após 5 meias-vidas (5 a 7 dias).",
+      "Pode elevar níveis de tricíclicos; cautela na troca de tricíclico para duloxetina.",
+      "Inibidores do CYP1A2 (fluvoxamina) e do CYP2D6 (paroxetina, fluoxetina, quinidina) elevam a duloxetina e podem exigir redução de dose.",
+      "Tabagismo induz o CYP1A2 e reduz os níveis, mas não se recomenda ajustar a dose em fumantes.",
+      "Via CYP2D6: pode reduzir a analgesia da codeína e elevar betabloqueadores, atomoxetina e tioridazina (arritmias).",
+      "Via CYP1A2, poderia elevar teofilina e clozapina, embora estudos com teofilina não tenham mostrado efeito relevante.",
+      "Risco de sangramento com anticoagulantes e AINE."
+    ],
+    "nao_usar": [
+      "Glaucoma de ângulo fechado não controlado.",
+      "Uso substancial de álcool.",
+      "Uso de IMAO.",
+      "Uso de tioridazina.",
+      "Alergia comprovada à duloxetina."
+    ],
+    "advertencias": [
+      "Pode elevar a pressão arterial: monitorar.",
+      "Suspender se icterícia ou outra evidência de disfunção hepática significativa.",
+      "Cautela em epilepsia e em bipolares sem estabilizador do humor.",
+      "Alertar sobre efeitos ativadores e monitorar ideação suicida, sobretudo em crianças e adolescentes."
+    ],
+    "pop": {
+      "renal": "Sem ajuste na insuficiência leve a moderada; não recomendada na insuficiência grave nem na doença renal terminal em diálise.",
+      "hepatica": "Não usar em qualquer insuficiência hepática nem com uso substancial de álcool; maior risco de elevação de transaminases.",
+      "cardiaca": "Usar com cautela; pode elevar a pressão arterial.",
+      "idosos": "Alguns toleram melhor doses menores. Acima de 65 anos, os antidepressivos reduzem o risco de suicidalidade.",
+      "criancas": "Não estudada no Stahl 2017, mas pode ser usada por especialistas. Documentar risco e benefício e vigiar ativação e ideação suicida.",
+      "gestacao": "Não recomendada de rotina, sobretudo no primeiro trimestre, mas o tratamento contínuo pode ser necessário. Síndrome de adaptação neonatal com uso no fim do terceiro trimestre.",
+      "lactacao": "Passa ao leite; se irritabilidade ou sedação no lactente, reavaliar. Muitas pacientes precisarão manter o tratamento no pós-parto."
+    },
+    "vantagens": [
+      "Depressão com sintomas físicos, fadiga e dor.",
+      "Depressão com lentificação.",
+      "Depressão atípica.",
+      "Ansiedade comórbida.",
+      "Pacientes que não respondem ou não remitem com ISRS; possíveis taxas de remissão maiores que com ISRS."
+    ],
+    "desvantagens": [
+      "Doenças urológicas e prostáticas (por exemplo, homens idosos).",
+      "Sensibilidade a náuseas."
+    ],
+    "perolas": [
+      "Eficácia bem documentada nos sintomas físicos dolorosos da depressão.",
+      "Potência só um pouco maior para serotonina que para noradrenalina; ações pró-noradrenérgicas intensas podem surgir acima de 60 mg/dia.",
+      "Sem estudos comparativos diretos, mas talvez cause menos hipertensão que a venlafaxina de liberação prolongada.",
+      "Aprovada em muitos países para incontinência urinária de esforço.",
+      "Pouco estudada no TDAH, mas pode ser eficaz.",
+      "Associar ou trocar com cautela com outros agentes pró-noradrenérgicos (atomoxetina, reboxetina, outros IRSN, mirtazapina, maprotilina, nortriptilina, desipramina, bupropiona) e com substratos do CYP2D6 (atomoxetina, maprotilina, nortriptilina, desipramina)."
+    ]
+  }
+}

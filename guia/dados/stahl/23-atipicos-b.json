@@ -1,0 +1,634 @@
+{
+  "aripiprazol": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Sintomas cognitivos",
+      "Instabilidade do humor e depressão",
+      "Agressividade"
+    ],
+    "latencia": "Sintomas psicóticos e maníacos podem melhorar em 1 semana; o efeito pleno sobre comportamento, cognição e estabilização afetiva leva várias semanas. Avaliar a eficácia após pelo menos 4 a 6 semanas, mas alguns pacientes precisam de 16 a 20 semanas. Pela meia-vida longa, demora mais que outros atípicos para atingir o equilíbrio e para ser eliminado.",
+    "se_funciona": [
+      "Na esquizofrenia reduz sobretudo sintomas positivos, sem eliminá-los (em média cerca de um terço); pode melhorar sintomas negativos, cognitivos, afetivos e agressividade. Uma minoria (5 a 15%) melhora mais de 50 a 60%, sobretudo com tratamento estável por mais de 1 ano.",
+      "Muitos pacientes bipolares têm redução de metade ou mais dos sintomas; além de tratar a mania, pode prevenir recorrências.",
+      "Continuar até o platô de melhora e manter por pelo menos 1 ano após o primeiro episódio psicótico; a partir do segundo episódio, e mesmo após o primeiro, o tratamento indefinido pode ser preferível."
+    ],
+    "se_nao_funciona": [
+      "Tentar outro atípico (risperidona, olanzapina, quetiapina, ziprasidona, paliperidona, amissulprida, asenapina, lurasidona).",
+      "Após falha de duas ou mais monoterapias, considerar clozapina.",
+      "Se nenhum atípico de primeira linha funcionar, considerar doses maiores ou potencialização com valproato ou lamotrigina; alguns pacientes precisam de antipsicótico convencional.",
+      "Investigar má adesão (considerar depósito), abuso de substâncias e associar reabilitação e remediação cognitiva."
+    ],
+    "potencializacao": [
+      "Valproato",
+      "Outros anticonvulsivantes estabilizadores (carbamazepina, oxcarbazepina, lamotrigina)",
+      "Lítio",
+      "Benzodiazepínicos"
+    ],
+    "exames": [
+      "Monitorização metabólica padrão dos atípicos: IMC mensal por 3 meses e depois trimestral; PA, glicemia e lipídios em jejum em 3 meses e depois anualmente. O risco de diabetes e dislipidemia parece baixo, mas a monitorização continua indicada.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia ou neutropenia por fármaco; suspender se neutrófilos abaixo de 1.000/mm³.",
+      "Perguntar ativamente sobre impulsividade (jogo, compras, compulsão alimentar, sexualidade)."
+    ],
+    "mecanismo_ea": [
+      "Agonismo parcial D2 estriatal: acatisia e outros efeitos motores.",
+      "Agonismo parcial D2: náuseas, vômitos ocasionais e ativação.",
+      "Bloqueio alfa-1: tontura, sedação e hipotensão.",
+      "Ganho de peso, diabetes e dislipidemia são pouco comuns e, quando ocorrem, provavelmente têm mecanismo diferente do dos atípicos que engordam.",
+      "Ausência de antagonismo D1, anticolinérgico e anti-histamínico explica a pouca sedação e o baixo impacto cognitivo."
+    ],
+    "peso": "Menos frequente e menos intenso que com a maioria dos antipsicóticos; em crianças o risco parece maior que em adultos.",
+    "sedacao": "Pouco esperada, mas pode ocorrer; com frequência é ativador (insônia, inquietação).",
+    "ea_graves": [
+      "Problemas de controle de impulsos (raros).",
+      "Síndrome neuroléptica maligna (rara, com risco muito menor que com convencionais).",
+      "Convulsões (raras).",
+      "Aumento de mortalidade e de eventos cerebrovasculares em idosos com psicose associada à demência."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos, como náuseas e ativação, diminuem com o tempo.",
+      "Reduzir a dose (ativação e acatisia costumam ceder com dose menor ou início mais baixo).",
+      "Acatisia: anticolinérgico (biperideno, triexifenidil), benzodiazepínico em dose baixa ou betabloqueador.",
+      "Se sedação for desejada no início (agitação, insônia), associar benzodiazepínico por curto prazo.",
+      "Peso e metabolismo: dieta, exercício e manejo clínico; trocar por outro atípico se persistir."
+    ],
+    "dicas_dose": [
+      "Esquizofrenia e mania: início de 10 a 15 mg/dia; faixa usual 15 a 30 mg/dia; máximo aprovado 30 mg/dia. Raramente alguém precisa de mais de 30 mg/dia.",
+      "Depressão (adjuvante a ISRS ou IRSN): início de 2 a 5 mg/dia, aumentos de 5 mg com intervalos de pelo menos 1 semana; faixa 2 a 10 mg/dia; máximo 15 mg/dia. Parece funcionar melhor em doses baixas.",
+      "Autismo (irritabilidade): início de 2 mg/dia, aumentos de 5 mg a cada semana ou mais; faixa 5 a 15 mg/dia; máximo 15 mg/dia.",
+      "Tourette: 2 mg/dia por 2 dias e depois 5 mg/dia; com menos de 50 kg, pode chegar a 10 mg/dia após 1 semana; com mais de 50 kg, 10 mg/dia após mais 5 dias e aumentos de 5 mg por semana até 20 mg/dia.",
+      "Menos pode ser mais: pacientes fora de crise aguda costumam tolerar melhor 2,5 a 10 mg/dia, com menos acatisia e ativação.",
+      "Crianças, adolescentes, idosos e adultos sensíveis: considerar 1 a 5 mg com a solução oral. A solução substitui o comprimido mg por mg até 25 mg; quem toma 30 mg em comprimido deve receber 25 mg em solução.",
+      "Em agitação aguda ou resposta parcial, em vez de ultrapassar essas doses, associar benzodiazepínico ou antipsicótico convencional (agitação) ou anticonvulsivante estabilizador (resposta parcial).",
+      "IM de ação curta para agitação: 9,75 mg por aplicação; máximo de 30 mg/dia.",
+      "Pode ser tomado com ou sem alimento; suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "superdosagem": "Sem óbitos relatados; sedação e vômitos.",
+    "longo_prazo": "Aprovado nos EUA para prevenir recaída na esquizofrenia e para manutenção no transtorno bipolar; muito usado na manutenção de diversos transtornos de comportamento.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "A suspensão rápida pode, em tese, causar psicose de rebote, mas isso é menos provável pela meia-vida longa.",
+      "O modo de retirada depende do fármaco para o qual se está trocando."
+    ],
+    "interacoes": [
+      "Inibidores do CYP3A4 (cetoconazol, nefazodona, fluvoxamina, fluoxetina) aumentam os níveis.",
+      "Inibidores do CYP2D6 (quinidina, paroxetina, fluoxetina, duloxetina) aumentam os níveis.",
+      "Carbamazepina e outros indutores do CYP3A4 reduzem os níveis.",
+      "Pode potencializar anti-hipertensivos.",
+      "Pode antagonizar levodopa e agonistas dopaminérgicos.",
+      "Pela alta afinidade D2, pode reverter a ação de outros antipsicóticos antagonistas D2 quando combinado a eles."
+    ],
+    "nao_usar": [
+      "Alergia comprovada ao aripiprazol."
+    ],
+    "advertencias": [
+      "Relatos de descontrole de impulsos (jogo, compras, compulsão alimentar, sexualidade): cautela em bipolares, personalidade impulsiva, TOC e uso de substâncias; reduzir ou suspender se surgirem.",
+      "Cautela em condições que predispõem a hipotensão (desidratação, calor excessivo).",
+      "Disfagia: cautela em quem tem risco de pneumonia aspirativa."
+    ],
+    "pop": {
+      "renal": "Sem ajuste.",
+      "hepatica": "Sem ajuste.",
+      "cardiaca": "Não estudado; cautela pelo risco de hipotensão ortostática.",
+      "idosos": "Em geral sem ajuste, mas alguns toleram melhor doses menores. Aumento de mortalidade e de AVC em idosos com psicose associada à demência.",
+      "criancas": "Aprovado nos EUA para esquizofrenia (13 anos ou mais), mania ou episódio misto (10 anos ou mais), irritabilidade no autismo (6 a 17 anos) e Tourette (6 a 18 anos). Tende a funcionar em doses menores; monitorar com mais frequência; risco de ganho de peso maior que em adultos.",
+      "gestacao": "Sem estudos controlados; toxicidade no desenvolvimento em animais com doses acima da máxima humana. Risco de EPS e abstinência no recém-nascido após uso no terceiro trimestre. Pode ser preferível aos anticonvulsivantes estabilizadores se for preciso tratar.",
+      "lactacao": "Passa ao leite; recomendado suspender ou usar mamadeira. Se amamentar, vigiar o lactente."
+    },
+    "vantagens": [
+      "Pacientes que temem ganhar peso ou já têm sobrepeso ou obesidade.",
+      "Diabetes ou dislipidemia (sobretudo triglicerídeos altos).",
+      "Quem precisa de efeito rápido sem titulação.",
+      "Quem quer evitar sedação.",
+      "Alguns casos de psicose e transtorno bipolar refratários a outros antipsicóticos."
+    ],
+    "desvantagens": [
+      "Quando se deseja sedação.",
+      "Mais difícil de dosar em crianças, idosos e usos fora da bula."
+    ],
+    "perolas": [
+      "Adjuvante na depressão (aprovado nos EUA): tende a funcionar melhor com 2 a 10 mg/dia do que em doses maiores.",
+      "Muito usado na depressão bipolar como potencializador de lítio, valproato ou lamotrigina.",
+      "Perfil de tolerabilidade favorável, o que levou a usos fora da bula (bipolar II em todas as fases, depressão resistente, ansiedade).",
+      "Doses baixas (1 a 5 mg) revertem hiperprolactinemia e galactorreia causadas por outros antipsicóticos, o que confirma que interfere na ação D2 deles; fora essa situação, costuma não fazer sentido combiná-lo com outros antipsicóticos.",
+      "A ativação pode ser reduzida baixando a dose ou começando mais baixo.",
+      "Relatos anedóticos de utilidade em psicose resistente.",
+      "A forma de depósito pode ser especialmente útil no primeiro episódio psicótico, para melhorar a adesão e reduzir reinternações."
+    ],
+    "troca": [
+      "Para aripiprazol: iniciar em dose intermediária e subir rapidamente em 3 a 7 dias.",
+      "Na prática, muitos vão melhor acrescentando dose intermediária ou plena de aripiprazol à dose de manutenção do antipsicótico anterior por alguns dias até 3 a 4 semanas, e só então reduzir lentamente o anterior.",
+      "Olanzapina, quetiapina e asenapina: reduzir ao longo de 3 a 4 semanas (readaptação ao bloqueio colinérgico, histaminérgico e alfa-1). Clozapina: 4 semanas ou mais.",
+      "Risperidona, paliperidona, ziprasidona e lurasidona: redução em cerca de 1 semana.",
+      "Benzodiazepínico ou anticolinérgico podem aliviar insônia, agitação ou psicose durante a transição."
+    ]
+  },
+  "aripiprazol-lai": {
+    "alvos": [
+      "Sintomas positivos",
+      "Recaídas por baixa adesão"
+    ],
+    "latencia": "Monoidratado (mensal): pico em 6,5 a 7,1 dias, meia-vida de 30 a 47 dias em doses repetidas e equilíbrio após cerca de 4 aplicações mensais. Lauroxila (aripiprazol lauroxila, comercializado nos EUA): pico em 44 a 50 dias e meia-vida de 29 a 35 dias. Nenhum dos dois permite dose de ataque no esquema do Stahl (2017), por isso exigem cobertura oral.",
+    "exames": [
+      "Nível sérico, se usado, colhido na manhã do dia da próxima aplicação.",
+      "Níveis periódicos ajudam a evitar acúmulo progressivo, já que a necessidade de dose pode cair com o tempo."
+    ],
+    "tabela": {
+      "titulo": "Ajuste de dose das formulações de depósito (Stahl 2017)",
+      "colunas": [
+        "Situação",
+        "Monoidratado: dose habitual 400 mg",
+        "Monoidratado: dose habitual 300 mg",
+        "Lauroxila: 662 mg",
+        "Lauroxila: 882 mg"
+      ],
+      "linhas": [
+        ["Metabolizador lento do CYP2D6", "300 mg", "Sem dado", "Sem ajuste", "Sem ajuste"],
+        ["Inibidor forte do CYP2D6 ou do 3A4", "300 mg", "200 mg", "441 mg", "662 mg"],
+        ["Metabolizador lento do 2D6 com inibidor do 3A4", "200 mg", "Sem dado", "441 mg", "441 mg"],
+        ["Inibidores do 2D6 e do 3A4 juntos", "200 mg", "160 mg", "Evitar", "Evitar"],
+        ["Indutor do CYP3A4", "Evitar", "Evitar", "Sem ajuste", "Sem ajuste"]
+      ],
+      "nota": "Na lauroxila, quem usa 441 mg dispensa ajuste com inibidores, e com indutor do 3A4 a dose de 441 mg deve subir para 662 mg. Com indutor forte do 3A4, evitar o monoidratado pelo risco de níveis subterapêuticos."
+    },
+    "dicas_dose": [
+      "Só iniciar em quem já demonstrou tolerar o aripiprazol oral (nos estudos, 2 doses orais ou IM de ação curta).",
+      "Monoidratado: primeira aplicação de 400 mg com 14 dias de aripiprazol oral sobreposto; manutenção de 300 a 400 mg a cada 4 semanas.",
+      "Lauroxila: 441, 662 ou 882 mg mensais, ou 882 mg a cada 6 semanas, com 21 dias de aripiprazol oral sobreposto na primeira aplicação.",
+      "Local: monoidratado no glúteo (esquema de 2017); lauroxila no deltoide (só a dose de 441 mg) ou no glúteo (todas as doses).",
+      "Volumes: monoidratado 200 mg/mL (0,8 mL para 160 mg até 2 mL para 400 mg); lauroxila 441 mg em 1,6 mL, 662 mg em 2,4 mL e 882 mg em 3,2 mL.",
+      "Cinética de flip-flop: a absorção lenta do local de aplicação, e não o metabolismo, limita os níveis. São necessárias cerca de 5 meias-vidas para 97% do equilíbrio; sem cobertura oral adequada, os níveis ficam subterapêuticos por semanas ou meses.",
+      "Reduzir a dose em metabolizadores lentos do CYP2D6 e com inibidores fortes do 2D6 ou 3A4 (ver tabela)."
+    ],
+    "troca": [
+      "O antipsicótico oral anterior pode começar a ser retirado após a cobertura oral de 14 dias (monoidratado) ou 21 dias (lauroxila).",
+      "Suspender sem redução: amissulprida, aripiprazol, brexpiprazol, cariprazina, paliperidona. Redução em 1 semana: lurasidona, risperidona, ziprasidona. Em 3 a 4 semanas: asenapina, olanzapina, quetiapina. Clozapina: 4 semanas ou mais.",
+      "Benzodiazepínico ou anticolinérgico em uso podem ser mantidos durante a transição e retirados um a um quando o paciente estiver estável no depósito."
+    ],
+    "vantagens": [
+      "Não precisa de refrigeração.",
+      "Opção de intervalo de 6 semanas com a lauroxila.",
+      "Baixa carga de efeitos adversos; pode ser particularmente útil no primeiro episódio psicótico, para melhorar a adesão e reduzir reinternações."
+    ],
+    "desvantagens": [
+      "Ambas as formulações exigem cobertura oral no início (14 ou 21 dias), sem opção de dose de ataque no esquema de 2017.",
+      "Ajustes de dose com metabolizadores lentos do CYP2D6 e com inibidores ou indutores."
+    ],
+    "perolas": [
+      "O melhor momento para dosar o nível sérico é a manhã do dia da próxima aplicação.",
+      "Como os níveis sobem gradualmente ao longo dos meses, a dose necessária pode acabar menor que a inicial."
+    ]
+  },
+  "brexpiprazol": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Sintomas cognitivos",
+      "Instabilidade do humor e depressão",
+      "Agressividade"
+    ],
+    "latencia": "Na psicose, melhora pode começar em 1 semana, mas o efeito pleno leva semanas; avaliar após 4 a 6 semanas (alguns precisam de 16 a 20). Na depressão, o efeito costuma aparecer em 2 a 4 semanas.",
+    "se_funciona": [
+      "Esquizofrenia: reduz sobretudo sintomas positivos, sem eliminá-los; pode melhorar sintomas negativos, cognitivos, afetivos e agressividade. Manter por pelo menos 1 ano após o primeiro episódio; a partir do segundo, tratamento possivelmente indefinido.",
+      "Depressão: buscar remissão completa; manter por 1 ano após o primeiro episódio e possivelmente de forma indefinida a partir do segundo."
+    ],
+    "se_nao_funciona": [
+      "Esquizofrenia: tentar outro atípico; após falha de duas ou mais monoterapias, clozapina. Se nenhum de primeira linha funcionar, considerar doses maiores ou potencialização com valproato ou lamotrigina.",
+      "Investigar má adesão (considerar depósito) e abuso de substâncias; associar reabilitação e psicoterapia.",
+      "Depressão: considerar psicoterapia, outro diagnóstico, comorbidade clínica ou uso de substâncias, e bipolaridade latente."
+    ],
+    "potencializacao": [
+      "Na depressão, o próprio brexpiprazol é o agente potencializador.",
+      "Valproato",
+      "Anticonvulsivantes estabilizadores (carbamazepina, oxcarbazepina, lamotrigina)",
+      "Lítio",
+      "Benzodiazepínicos"
+    ],
+    "exames": [
+      "Antes: peso e IMC, circunferência abdominal, PA, glicemia e lipídios em jejum, história pessoal e familiar de diabetes, obesidade, dislipidemia, hipertensão e doença cardiovascular.",
+      "Depois: IMC mensal por 3 meses e depois trimestral; PA, glicemia e lipídios em 3 meses e depois anualmente (mais cedo e mais vezes em diabéticos ou com ganho de mais de 5% do peso). Considerar triglicerídeos mensais nos primeiros meses em quem tem alto risco metabólico.",
+      "Vigiar sinais de cetoacidose diabética mesmo em quem não é diabético.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia ou neutropenia por fármaco."
+    ],
+    "tabela": {
+      "titulo": "Ajuste de dose do brexpiprazol por interação ou genótipo (Stahl 2017)",
+      "colunas": ["Situação", "Dose"],
+      "linhas": [
+        ["Inibidor forte ou moderado do CYP3A4 (ex.: cetoconazol)", "Metade da dose usual"],
+        ["Inibidor forte ou moderado do CYP2D6 (ex.: quinidina) ou metabolizador lento do 2D6, na esquizofrenia", "Metade da dose usual"],
+        ["Inibidor forte do CYP2D6 (paroxetina, fluoxetina) na depressão adjuvante", "Sem ajuste"],
+        ["Inibidor do 3A4 junto com inibidor do 2D6", "Um quarto da dose usual"],
+        ["Inibidor do 3A4 em metabolizador lento do 2D6", "Um quarto da dose usual"],
+        ["Indutor forte do CYP3A4 (ex.: carbamazepina)", "Dobro da dose usual"]
+      ],
+      "nota": "Na depressão, os estudos já incluíam pacientes com inibidores fortes do 2D6, por isso a dose não precisa ser reduzida nesse caso."
+    },
+    "mecanismo_ea": [
+      "Bloqueio alfa-1: tontura, sedação e hipotensão.",
+      "Agonismo parcial D2 estriatal: efeitos motores, como acatisia.",
+      "Agonismo parcial D2 e 5-HT1A: náuseas, vômitos ocasionais e ativação.",
+      "Bloqueio alfa-1B pode reduzir a acatisia.",
+      "O mecanismo do ganho de peso e das alterações metabólicas dos atípicos é desconhecido."
+    ],
+    "peso": "Ocorre em uma minoria significativa.",
+    "sedacao": "Ocorre em uma minoria significativa.",
+    "ea_graves": [
+      "Hiperglicemia, às vezes extrema, com cetoacidose, coma hiperosmolar ou óbito (efeito de classe).",
+      "Aumento de mortalidade e de eventos cerebrovasculares em idosos com psicose associada à demência.",
+      "Síndrome neuroléptica maligna (rara).",
+      "Convulsões (raras)."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Efeitos motores: anticolinérgico (biperideno, triexifenidil).",
+      "Acatisia (dose-dependente): betabloqueador ou, às vezes, benzodiazepínico.",
+      "Peso e metabolismo: dieta, exercício e manejo clínico; trocar por outro atípico se persistir."
+    ],
+    "dicas_dose": [
+      "Esquizofrenia: 1 mg/dia nos dias 1 a 4, 2 mg/dia nos dias 5 a 7 e 4 mg/dia a partir do dia 8; faixa 2 a 4 mg/dia; máximo 4 mg/dia.",
+      "Depressão (adjuvante): início de 0,5 a 1 mg/dia, aumentos semanais para 1 mg e depois 2 mg/dia; dose usual 2 mg/dia; máximo 3 mg/dia.",
+      "Dose única diária, com ou sem alimento.",
+      "Acatisia e inquietação são dose-dependentes."
+    ],
+    "superdosagem": "Experiência limitada.",
+    "longo_prazo": "Eficácia e segurança demonstradas na manutenção da esquizofrenia em estudo de mais de 1 ano; reavaliar periodicamente, mas o tratamento pode durar anos na esquizofrenia e na depressão resistente.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Pela pouca experiência clínica, reduzir gradualmente é prudente, sobretudo em troca cruzada.",
+      "A meia-vida longa (91 horas; metabólito DM-3411, 86 horas) sugere que a suspensão abrupta é possível, e o risco de psicose de rebote é menor."
+    ],
+    "interacoes": [
+      "Metabolizado pelo CYP2D6 e 3A4: ajustar a dose conforme a tabela.",
+      "Pode potencializar anti-hipertensivos.",
+      "Pode antagonizar levodopa e agonistas dopaminérgicos."
+    ],
+    "nao_usar": [
+      "Alergia comprovada ao brexpiprazol."
+    ],
+    "advertencias": [
+      "Cautela em condições que predispõem a hipotensão (desidratação, calor excessivo).",
+      "Disfagia: cautela em quem tem risco de pneumonia aspirativa."
+    ],
+    "pop": {
+      "renal": "Moderada, grave ou terminal: máximo de 2 mg/dia na depressão e 3 mg/dia na esquizofrenia.",
+      "hepatica": "Moderada a grave: máximo de 2 mg/dia na depressão e 3 mg/dia na esquizofrenia.",
+      "cardiaca": "Não estudado; usar com cautela.",
+      "idosos": "Alguns toleram melhor doses menores. Aumento de mortalidade e de AVC em idosos com psicose associada à demência.",
+      "criancas": "Segurança e eficácia não estabelecidas em 2017; monitorar com mais frequência que em adultos.",
+      "gestacao": "Sem estudos controlados; não teratogênico em animais. Risco de EPS e abstinência no recém-nascido após uso no terceiro trimestre. Pode ser preferível aos anticonvulsivantes estabilizadores se for preciso tratar.",
+      "lactacao": "Excreção no leite desconhecida; recomendado suspender ou usar mamadeira, salvo se o benefício justificar o risco. Se amamentar, vigiar o lactente."
+    },
+    "vantagens": [
+      "Pacientes que não toleram o aripiprazol."
+    ],
+    "desvantagens": [
+      "Custo alto."
+    ],
+    "perolas": [
+      "Aprovado nos EUA como adjuvante na depressão.",
+      "Em relação ao D2, liga-se com mais potência que o aripiprazol a 5-HT1A, 5-HT2A e alfa-1; pela farmacologia, espera-se menos acatisia, mas faltam estudos comparativos diretos.",
+      "Não aprovado para mania em 2017, mas quase todos os atípicos eficazes na esquizofrenia aguda também funcionam na mania aguda.",
+      "Dados em animais sugerem melhora cognitiva na esquizofrenia; em 2017 estava em estudo para TDAH, TEPT e agitação na doença de Alzheimer."
+    ],
+    "troca": [
+      "Para brexpiprazol: iniciar em dose intermediária e subir rapidamente em 3 a 7 dias.",
+      "Amissulprida, aripiprazol e cariprazina: retirada rápida. Risperidona, paliperidona, ziprasidona e lurasidona: redução em cerca de 1 semana.",
+      "Olanzapina, quetiapina e asenapina: reduzir em 3 a 4 semanas (readaptação ao bloqueio colinérgico, histaminérgico e alfa-1). Clozapina: 4 semanas ou mais.",
+      "Benzodiazepínico ou anticolinérgico podem aliviar insônia, agitação ou psicose durante a transição."
+    ]
+  },
+  "cariprazina": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Mania aguda e episódio misto",
+      "Sintomas cognitivos",
+      "Instabilidade do humor (depressão e mania)",
+      "Agressividade"
+    ],
+    "latencia": "Sintomas psicóticos e maníacos podem melhorar em 1 semana; o efeito pleno leva semanas (avaliar após 4 a 6; alguns precisam de 16 a 20). Meia-vida de 2 a 4 dias para a cariprazina e de 1 a 3 semanas para o metabólito ativo didesmetilcariprazina: resposta e efeitos adversos continuam mudando por várias semanas após iniciar ou ajustar a dose.",
+    "se_funciona": [
+      "Pode reduzir e até eliminar sintomas maníacos agudos.",
+      "Na esquizofrenia, reduz sintomas positivos (em média cerca de um terço) e pode melhorar sintomas negativos, cognitivos, afetivos e agressividade.",
+      "Manter por pelo menos 1 ano após o primeiro episódio psicótico; a partir do segundo, tratamento possivelmente indefinido."
+    ],
+    "se_nao_funciona": [
+      "Tentar outro atípico; após falha de duas ou mais monoterapias, clozapina.",
+      "Esquizofrenia: considerar doses maiores ou potencialização com valproato ou lamotrigina; alguns precisam de convencional.",
+      "Mania: considerar lítio e anticonvulsivantes estabilizadores.",
+      "Investigar má adesão (considerar depósito) e abuso de substâncias; associar reabilitação e psicoterapia."
+    ],
+    "potencializacao": [
+      "Valproato",
+      "Lamotrigina",
+      "Lítio",
+      "Benzodiazepínicos"
+    ],
+    "exames": [
+      "Monitorização metabólica padrão dos atípicos: peso, IMC e circunferência abdominal, PA, glicemia e lipídios em jejum antes; IMC mensal por 3 meses e depois trimestral; PA, glicemia e lipídios em 3 meses e depois anualmente.",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia ou neutropenia por fármaco.",
+      "Pelo acúmulo lento do metabólito, reavaliar efeitos adversos (sobretudo acatisia) por várias semanas após cada ajuste."
+    ],
+    "mecanismo_ea": [
+      "Agonismo parcial D2 estriatal: acatisia e outros efeitos motores.",
+      "Agonismo parcial D2: náuseas, vômitos ocasionais e ativação.",
+      "O mecanismo do ganho de peso e das alterações metabólicas dos atípicos é desconhecido."
+    ],
+    "peso": "Ocorre em uma minoria significativa; ganho pequeno e dose-dependente, com triglicerídeos, glicemia e colesterol semelhantes ao placebo nos estudos curtos.",
+    "sedacao": "Ocorre em uma minoria significativa.",
+    "ea_graves": [
+      "Hiperglicemia, às vezes extrema, com cetoacidose, coma hiperosmolar ou óbito (efeito de classe).",
+      "Aumento de mortalidade e de eventos cerebrovasculares em idosos com psicose associada à demência.",
+      "Síndrome neuroléptica maligna (rara).",
+      "Convulsões (raras)."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Acatisia: betabloqueador, benzodiazepínico em dose baixa ou anticolinérgico.",
+      "EPS: anticolinérgico (biperideno, triexifenidil).",
+      "Peso e metabolismo: dieta, exercício e manejo clínico; trocar por outro atípico se persistir."
+    ],
+    "dicas_dose": [
+      "Esquizofrenia: 1,5 mg/dia no dia 1, podendo passar a 3 mg/dia no dia 2; depois, aumentos de 1,5 a 3 mg; faixa 1,5 a 6 mg/dia.",
+      "Mania: mesmo início (1,5 mg no dia 1 e 3 mg no dia 2); faixa 3 a 6 mg/dia. Dose máxima recomendada: 6 mg/dia.",
+      "Dose única diária, com ou sem alimento.",
+      "Pela meia-vida longa, esquecer algumas doses prejudica menos que com outros antipsicóticos; a eliminação completa leva várias semanas."
+    ],
+    "superdosagem": "Experiência limitada.",
+    "longo_prazo": "Pouco estudada, mas a manutenção costuma ser necessária na esquizofrenia e na mania; reavaliar periodicamente.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Pela pouca experiência clínica, reduzir gradualmente é prudente, sobretudo em troca cruzada.",
+      "As meias-vidas longas da cariprazina e de seus dois metabólitos ativos sugerem que a suspensão abrupta é possível, com menor risco de psicose de rebote."
+    ],
+    "interacoes": [
+      "Ao iniciar inibidor forte do CYP3A4 em quem já usa cariprazina: reduzir a dose pela metade (de 4,5 mg para 1,5 ou 3 mg/dia; de 1,5 mg/dia para 1,5 mg em dias alternados).",
+      "Ao iniciar cariprazina em quem já usa inibidor forte do CYP3A4: 1,5 mg no dia 1, nenhuma dose no dia 2, 1,5 mg nos dias 3 e 4; máximo de 3 mg/dia.",
+      "Indutores do CYP3A4: associação não recomendada.",
+      "Pode potencializar anti-hipertensivos.",
+      "Pode antagonizar levodopa e agonistas dopaminérgicos."
+    ],
+    "nao_usar": [
+      "Alergia comprovada à cariprazina."
+    ],
+    "advertencias": [
+      "Efeitos adversos podem surgir semanas após o início, pelo acúmulo da cariprazina e de seus metabólitos.",
+      "Cautela em condições que predispõem a hipotensão (desidratação, calor excessivo).",
+      "Disfagia: cautela em quem tem risco de pneumonia aspirativa."
+    ],
+    "pop": {
+      "renal": "Leve a moderada (clearance de creatinina de 30 mL/min ou mais): sem ajuste. Grave ou terminal: não recomendada.",
+      "hepatica": "Leve a moderada (Child-Pugh 5 a 9): sem ajuste. Grave: não recomendada.",
+      "cardiaca": "Não estudada; usar com cautela.",
+      "idosos": "Alguns toleram melhor doses menores. Aumento de mortalidade e de AVC em idosos com psicose associada à demência.",
+      "criancas": "Segurança e eficácia não estabelecidas; monitorar com mais frequência que em adultos.",
+      "gestacao": "Sem estudos controlados. Em ratos, malformações, menor sobrevida e atraso no desenvolvimento com exposições menores que a humana na dose máxima (6 mg/dia); não teratogênica em coelhos. Risco de EPS e abstinência no recém-nascido após uso no terceiro trimestre.",
+      "lactacao": "Excreção no leite desconhecida; recomendado suspender ou usar mamadeira, salvo se o benefício justificar o risco. Se amamentar, vigiar o lactente."
+    },
+    "vantagens": [
+      "Pacientes que não toleram aripiprazol ou brexpiprazol.",
+      "Possivelmente sintomas negativos da esquizofrenia."
+    ],
+    "desvantagens": [
+      "Custo alto."
+    ],
+    "perolas": [
+      "Única com afinidade pelo receptor D3 maior que a da própria dopamina, e por isso o único antipsicótico com agonismo parcial D3 funcional no cérebro humano; a preferência D3 é mais marcada em doses baixas. Modelos animais sugerem vantagens em humor, sintomas negativos e uso de substâncias.",
+      "O metabólito de meia-vida muito longa lhe dá um perfil de \"depósito oral\"; efeitos adversos podem aparecer semanas depois do início.",
+      "Perfil metabólico favorável nos estudos curtos, com pequeno ganho de peso dose-dependente.",
+      "Em 2017 estava em estudo para depressão bipolar e como adjuvante na depressão unipolar resistente."
+    ],
+    "troca": [
+      "Para cariprazina: iniciar em dose intermediária e subir rapidamente em 3 a 7 dias.",
+      "Amissulprida, aripiprazol e brexpiprazol: retirada rápida. Risperidona, paliperidona, ziprasidona e lurasidona: redução em cerca de 1 semana.",
+      "Olanzapina, quetiapina e asenapina: reduzir em 3 a 4 semanas. Clozapina: 4 semanas ou mais.",
+      "Benzodiazepínico ou anticolinérgico podem aliviar insônia, agitação ou psicose durante a transição."
+    ]
+  },
+  "lurasidona": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Sintomas cognitivos",
+      "Instabilidade do humor (depressão e mania)",
+      "Agressividade"
+    ],
+    "latencia": "Sintomas psicóticos podem melhorar em 1 semana; o efeito pleno leva semanas. Avaliar após 4 a 6 semanas; alguns precisam de 16 a 20 semanas, sobretudo para cognição e funcionalidade.",
+    "se_funciona": [
+      "Na esquizofrenia, reduz sintomas positivos (em média cerca de um terço) e pode melhorar sintomas negativos, cognitivos, afetivos e agressividade.",
+      "Continuar até o platô e manter por pelo menos 1 ano após o primeiro episódio; a partir do segundo, tratamento possivelmente indefinido."
+    ],
+    "se_nao_funciona": [
+      "Tentar outro atípico (risperidona, olanzapina, quetiapina, ziprasidona, aripiprazol, paliperidona, asenapina, amissulprida); após falha de duas ou mais monoterapias, clozapina.",
+      "Considerar doses maiores ou potencialização com valproato ou lamotrigina; alguns precisam de convencional.",
+      "Resposta insuficiente: dosar o nível sérico e, se baixo, aumentar a dose, mesmo acima dos limites usuais.",
+      "Investigar má adesão (considerar depósito) e abuso de substâncias; associar reabilitação e psicoterapia."
+    ],
+    "potencializacao": [
+      "Valproato",
+      "Anticonvulsivantes estabilizadores (atenção à carbamazepina, indutora do CYP3A4)",
+      "Lítio",
+      "Benzodiazepínicos"
+    ],
+    "exames": [
+      "Monitorização metabólica padrão dos atípicos: IMC mensal por 3 meses e depois trimestral; PA, glicemia e lipídios em 3 meses e depois anualmente (mais cedo e mais vezes em diabéticos ou com ganho de mais de 5% do peso).",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia ou neutropenia por fármaco (efeito de classe)."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio D2 estriatal: efeitos motores.",
+      "Bloqueio D2 hipofisário: hiperprolactinemia.",
+      "Ausência de ação relevante em D1, M1 e H1: pouco impacto cognitivo, pouca sedação e pouco ganho de peso em comparação a outros agentes.",
+      "O mecanismo do ganho de peso e das alterações metabólicas dos atípicos é desconhecido."
+    ],
+    "peso": "Neutra: ganho de 0,5 a 1 kg acima do placebo em estudos de 6 semanas e perda semelhante nos estudos longos.",
+    "sedacao": "Dose-dependente; maior nos estudos curtos que no uso prolongado e bem menor com a dose à noite.",
+    "ea_graves": [
+      "Taquicardia e bloqueio atrioventricular de primeiro grau.",
+      "Hiperglicemia, às vezes extrema, com cetoacidose, coma hiperosmolar ou óbito (efeito de classe).",
+      "Aumento de mortalidade e de eventos cerebrovasculares em idosos com psicose associada à demência.",
+      "Síndrome neuroléptica maligna (rara).",
+      "Convulsões (raras)."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "Dar a dose à noite, com o jantar: reduz bastante sedação diurna, acatisia e EPS.",
+      "Acatisia: reduzir a dose, betabloqueador ou benzodiazepínico.",
+      "EPS: anticolinérgico (biperideno, triexifenidil).",
+      "Náuseas e vômitos: costumam ceder em poucos dias; titulação lenta e doses menores ajudam."
+    ],
+    "dicas_dose": [
+      "Tomar sempre com alimento (refeição de pelo menos 350 kcal): em jejum, a absorção cai até 50%.",
+      "Esquizofrenia: início de 40 a 80 mg/dia, sem titulação; faixa usual 40 a 80 mg/dia, até 160 mg/dia se necessário. Doses acima de 160 mg/dia podem ajudar casos difíceis, com mais efeitos adversos.",
+      "40 mg/dia pode bastar, sobretudo no primeiro episódio e na psicose de início precoce.",
+      "Depressão bipolar (e depressão com características mistas): início de 20 mg/dia; faixa 20 a 60 mg/dia, tão eficaz quanto 60 a 120 mg/dia; máximo 120 mg/dia.",
+      "Dose única diária, de preferência ao deitar com a refeição.",
+      "Com inibidor moderado do CYP3A4: início de 20 mg/dia e máximo de 80 mg/dia."
+    ],
+    "superdosagem": "Dados limitados.",
+    "longo_prazo": "Pouco estudada além de 52 semanas, mas a manutenção costuma ser necessária na esquizofrenia; reavaliar periodicamente.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir gradualmente, sobretudo em troca cruzada.",
+      "A suspensão rápida pode, em tese, causar psicose de rebote e piora dos sintomas."
+    ],
+    "interacoes": [
+      "Inibidores do CYP3A4 (nefazodona, fluvoxamina, fluoxetina, cetoconazol) aumentam os níveis.",
+      "Contraindicada com inibidor forte (cetoconazol) ou indutor forte (rifampicina) do CYP3A4.",
+      "Inibidor moderado do CYP3A4: início de 20 mg/dia, máximo de 80 mg/dia.",
+      "Indutores moderados do CYP3A4 podem reduzir os níveis.",
+      "Pode potencializar anti-hipertensivos.",
+      "Pode antagonizar levodopa e agonistas dopaminérgicos."
+    ],
+    "nao_usar": [
+      "Uso de inibidor forte (ex.: cetoconazol) ou indutor forte (ex.: rifampicina) do CYP3A4.",
+      "História de angioedema.",
+      "Alergia comprovada à lurasidona."
+    ],
+    "advertencias": [
+      "Cautela em condições que predispõem a hipotensão (desidratação, calor excessivo).",
+      "Disfagia: cautela em quem tem risco de pneumonia aspirativa."
+    ],
+    "pop": {
+      "renal": "Moderada e grave: início de 20 mg/dia; máximo de 80 mg/dia.",
+      "hepatica": "Moderada: início de 20 mg/dia, máximo de 80 mg/dia. Grave: início de 20 mg/dia, máximo de 40 mg/dia.",
+      "cardiaca": "Cautela pelo risco teórico de hipotensão ortostática, provavelmente menor pela baixa potência alfa-1. Sem advertência de prolongamento do QTc.",
+      "idosos": "Em geral sem ajuste, mas alguns toleram melhor doses menores. Aumento de mortalidade e de AVC em idosos com psicose associada à demência.",
+      "criancas": "Segurança e eficácia não estabelecidas no texto de 2017, embora aprovada nos EUA para esquizofrenia a partir de 13 anos; monitorar com mais frequência que em adultos.",
+      "gestacao": "Sem estudos controlados; sem efeitos adversos em animais. Risco de EPS e abstinência no recém-nascido após uso no terceiro trimestre. Pode ser preferível aos anticonvulsivantes estabilizadores se for preciso tratar.",
+      "lactacao": "Excreção no leite desconhecida; recomendado suspender ou usar mamadeira, salvo se o benefício justificar o risco. Se amamentar, vigiar o lactente."
+    },
+    "vantagens": [
+      "Quem precisa de efeito rápido sem titulação.",
+      "Quem prefere dose única diária.",
+      "Quem ganhou peso com outros antipsicóticos ou quer evitar ganho de peso."
+    ],
+    "desvantagens": [
+      "Quem não consegue tomar a medicação regularmente com alimento."
+    ],
+    "perolas": [
+      "Um dos poucos antipsicóticos metabolicamente neutros: sem efeito relevante sobre peso, lipídios e glicemia.",
+      "Único atípico documentado como sem prolongamento do QTc e um dos poucos sem advertência de QTc.",
+      "Sonolência e acatisia, os efeitos mais comuns nos estudos com dose diurna, diminuem com a dose noturna com alimento; EPS baixos, sobretudo à noite.",
+      "Elevação de prolactina baixa e em geral transitória; alguns pacientes ficam agitados.",
+      "Um dos agentes mais estudados na depressão com características mistas, com eficácia em ensaio randomizado grande.",
+      "O antagonismo 5-HT7 e o agonismo parcial 5-HT1A sugerem ação antidepressiva e pró-cognitiva e uso como potencializador de ISRS ou IRSN.",
+      "Não aprovada para mania em 2017, mas quase todos os atípicos eficazes na esquizofrenia aguda também funcionam na mania aguda.",
+      "Em resistentes com impulsividade, agressividade e autolesão, a associação prolongada com outro antipsicótico (inclusive um depósito com um oral) pode ser necessária, com vigilância."
+    ],
+    "troca": [
+      "De aripiprazol, amissulprida, brexpiprazol, cariprazina ou paliperidona: suspender de imediato e iniciar lurasidona em dose intermediária.",
+      "De risperidona ou ziprasidona: redução em cerca de 1 semana.",
+      "De quetiapina, olanzapina ou asenapina: reduzir em 3 a 4 semanas (readaptação ao bloqueio colinérgico, histaminérgico e alfa-1). Clozapina: 4 semanas ou mais.",
+      "Benzodiazepínico ou anticolinérgico podem aliviar insônia, agitação ou psicose durante a transição."
+    ]
+  },
+  "asenapina": {
+    "alvos": [
+      "Sintomas positivos",
+      "Sintomas negativos",
+      "Sintomas cognitivos",
+      "Instabilidade do humor (depressão e mania)",
+      "Agressividade"
+    ],
+    "latencia": "Sintomas psicóticos podem melhorar em 1 semana; o efeito pleno leva semanas. Avaliar após 4 a 6 semanas; alguns precisam de 16 a 20 semanas. Início de ação rápido após a dose sublingual.",
+    "se_funciona": [
+      "Na esquizofrenia, reduz sintomas positivos (em média cerca de um terço) e pode melhorar sintomas negativos, cognitivos, afetivos e agressividade.",
+      "Muitos pacientes bipolares têm redução de metade ou mais dos sintomas; além de tratar a mania, pode prevenir recorrências.",
+      "Manter por pelo menos 1 ano após o primeiro episódio psicótico; a partir do segundo, tratamento possivelmente indefinido."
+    ],
+    "se_nao_funciona": [
+      "Tentar outro atípico (risperidona, olanzapina, quetiapina, ziprasidona, aripiprazol, paliperidona, amissulprida, lurasidona); após falha de duas ou mais monoterapias, clozapina.",
+      "Considerar doses maiores ou potencialização com valproato ou lamotrigina; alguns precisam de convencional.",
+      "Resposta insuficiente: dosar o nível sérico e, se baixo, aumentar a dose, mesmo acima dos limites usuais.",
+      "Investigar má adesão (considerar depósito) e abuso de substâncias; associar reabilitação e remediação cognitiva."
+    ],
+    "potencializacao": [
+      "Valproato",
+      "Outros anticonvulsivantes estabilizadores (carbamazepina, oxcarbazepina, lamotrigina)",
+      "Lítio",
+      "Benzodiazepínicos"
+    ],
+    "exames": [
+      "Monitorização metabólica padrão dos atípicos: IMC mensal por 3 meses e depois trimestral; PA, glicemia e lipídios em 3 meses e depois anualmente (mais cedo e mais vezes em diabéticos ou com ganho de mais de 5% do peso).",
+      "Hemograma frequente nos primeiros meses em quem tem leucopenia prévia ou neutropenia por fármaco; suspender se neutrófilos abaixo de 1.000/mm³."
+    ],
+    "mecanismo_ea": [
+      "Bloqueio alfa-1: tontura, sedação e hipotensão.",
+      "Bloqueio D2 estriatal: efeitos motores.",
+      "Bloqueio D2 hipofisário: pode elevar a prolactina.",
+      "O mecanismo do ganho de peso e das alterações metabólicas dos atípicos é desconhecido."
+    ],
+    "peso": "Ocorre em uma minoria significativa; menos que com alguns antipsicóticos e mais que com outros.",
+    "sedacao": "Frequente e pode ser importante.",
+    "ea_graves": [
+      "Hipersensibilidade tipo 1: anafilaxia, angioedema, hipotensão, taquicardia, edema de língua, dispneia, sibilância, exantema.",
+      "Hiperglicemia, às vezes extrema, com cetoacidose, coma hiperosmolar ou óbito (efeito de classe).",
+      "Aumento de mortalidade e de eventos cerebrovasculares em idosos com psicose associada à demência.",
+      "Síndrome neuroléptica maligna (rara).",
+      "Convulsões (raras)."
+    ],
+    "manejo": [
+      "Esperar: muitos efeitos diminuem com o tempo.",
+      "EPS: anticolinérgico (biperideno, triexifenidil).",
+      "Peso e metabolismo: dieta, exercício e manejo clínico; trocar por outro atípico se persistir.",
+      "Hipoestesia oral e reações no local (úlceras, bolhas, descamação, inflamação da mucosa) são próprias da via sublingual."
+    ],
+    "dicas_dose": [
+      "Uso exclusivamente sublingual: biodisponibilidade de 35% sob a língua e menos de 2% se engolida. Deixar dissolver por completo; não partir, triturar, mastigar nem engolir.",
+      "Não comer nem beber por 10 minutos após a dose (a biodisponibilidade cai para 28%).",
+      "Esquizofrenia: início de 5 mg duas vezes ao dia; máximo em geral de 10 mg duas vezes ao dia.",
+      "Mania em monoterapia (adultos): 10 mg duas vezes ao dia, reduzindo para 5 mg duas vezes ao dia se houver efeitos adversos. Associada a lítio ou valproato: 5 mg duas vezes ao dia, podendo subir para 10 mg duas vezes ao dia.",
+      "Mania em crianças (10 anos ou mais, nos EUA): 2,5 mg duas vezes ao dia; após 3 dias, 5 mg duas vezes ao dia; após mais 3 dias, 10 mg duas vezes ao dia. Seguir a titulação reduz o risco de distonia.",
+      "Alguns respondem a mais de 20 mg/dia, mas nenhuma tomada deve passar de 10 mg, o que exige 3 ou 4 tomadas diárias.",
+      "Dose única diária é teoricamente possível (meia-vida de 13 a 39 horas), mas pouco estudada e limitada pela pequena área sublingual.",
+      "Pelo início rápido, pode ser usada como dose de resgate na agitação ou piora transitória de psicose ou mania, em vez de injeção."
+    ],
+    "superdosagem": "Agitação e confusão.",
+    "longo_prazo": "Não estudada, mas a manutenção costuma ser necessária na esquizofrenia e no transtorno bipolar.",
+    "dependencia": "Não causa dependência.",
+    "suspender": [
+      "Reduzir em 2 a 4 semanas quando possível, sobretudo em troca cruzada.",
+      "A suspensão rápida pode, em tese, causar psicose de rebote e piora dos sintomas."
+    ],
+    "interacoes": [
+      "Substrato do CYP1A2: fluvoxamina e outros inibidores do 1A2 aumentam os níveis.",
+      "Inibe o CYP2D6: pode reduzir a analgesia da codeína e aumentar os níveis de alguns betabloqueadores e da atomoxetina.",
+      "Pela inibição do 2D6, pode aumentar a tioridazina e causar arritmias perigosas.",
+      "Pode potencializar anti-hipertensivos.",
+      "Pode antagonizar levodopa e agonistas dopaminérgicos."
+    ],
+    "nao_usar": [
+      "Alergia comprovada à asenapina."
+    ],
+    "advertencias": [
+      "Cautela em condições que predispõem a hipotensão (desidratação, calor excessivo).",
+      "Disfagia: cautela em quem tem risco de pneumonia aspirativa."
+    ],
+    "pop": {
+      "renal": "Em geral sem ajuste.",
+      "hepatica": "Leve a moderada: sem ajuste. Grave: não recomendada.",
+      "cardiaca": "Cautela pelo risco de hipotensão ortostática.",
+      "idosos": "Alguns toleram melhor doses menores. Aumento de mortalidade e de AVC em idosos com psicose associada à demência.",
+      "criancas": "Aprovada nos EUA para mania ou episódio misto no bipolar I a partir de 10 anos; mais sensíveis a distonia se a titulação não for seguida; monitorar com mais frequência.",
+      "gestacao": "Sem estudos controlados; em animais, mais perdas pós-implantação e menor peso e sobrevida dos filhotes em doses próximas ou abaixo das clínicas, sem malformações. Risco de EPS e abstinência no recém-nascido após uso no terceiro trimestre. Pode ser preferível aos anticonvulsivantes estabilizadores se for preciso tratar.",
+      "lactacao": "Excreção no leite desconhecida; recomendado suspender ou usar mamadeira. Se amamentar, vigiar o lactente."
+    },
+    "vantagens": [
+      "Quem precisa de efeito rápido sem titulação.",
+      "Alternativa sublingual à injeção como resgate na agitação."
+    ],
+    "desvantagens": [
+      "Pacientes com menor probabilidade de adesão: a via sublingual exige paciente confiável ou administração supervisionada."
+    ],
+    "perolas": [
+      "Estrutura química relacionada à da mirtazapina, com a qual compartilha muitas propriedades de ligação a receptores.",
+      "Não aprovada para depressão, mas o perfil de receptores sugere potencial na depressão resistente e na bipolar.",
+      "Associação prolongada de convencional com atípico pode somar efeitos adversos sem ganho claro; em resistentes com impulsividade, agressividade e autolesão, pode ser necessária, com vigilância. Associar dois convencionais tem pouca lógica."
+    ],
+    "troca": [
+      "De aripiprazol, amissulprida, brexpiprazol, cariprazina ou paliperidona: suspender de imediato e iniciar asenapina em dose intermediária.",
+      "De risperidona, ziprasidona ou lurasidona: introduzir a asenapina gradualmente, ao longo de pelo menos 2 semanas, para permitir tolerância à sedação.",
+      "De olanzapina ou quetiapina: reduzir o anterior em cerca de 1 semana enquanto a asenapina sobe. Clozapina: reduzir lentamente, em 4 semanas ou mais."
+    ]
+  }
+}

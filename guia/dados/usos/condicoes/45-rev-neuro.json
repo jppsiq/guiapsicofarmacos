@@ -1,0 +1,495 @@
+{
+ "Irritabilidade no TEA": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022) para o transtorno do espectro autista; a irritabilidade não é diagnóstico à parte e é quantificada pela subescala de irritabilidade da Aberrant Behavior Checklist (ABC-I)",
+   "cid": "CID-10-MC F84.0 (DSM-5-TR); CID-10 F84.0 a F84.9; CID-11 6A02",
+   "itens": [
+    {"r": "A", "t": "Déficits persistentes na comunicação social e na interação social em múltiplos contextos, atuais ou pela história, com todos os 3 aspectos abaixo (os exemplos do manual são ilustrativos, não exaustivos):", "sub": [
+     "Reciprocidade socioemocional: desde abordagem social anormal e dificuldade de manter conversa até pouco compartilhamento de interesses, emoções ou afeto e falha em iniciar ou responder a interações.",
+     "Comportamentos comunicativos não verbais usados na interação: desde comunicação verbal e não verbal mal integrada, alterações do contato visual e da linguagem corporal, dificuldade de compreender e usar gestos, até ausência total de expressão facial e comunicação não verbal.",
+     "Desenvolver, manter e compreender relacionamentos: desde dificuldade de ajustar o comportamento a diferentes contextos sociais até dificuldade de compartilhar brincadeira imaginativa ou fazer amigos e ausência de interesse por pares."
+    ]},
+    {"r": "B", "t": "Padrões restritos e repetitivos de comportamento, interesses ou atividades, com pelo menos 2 dos 4 abaixo, atuais ou pela história:", "sub": [
+     "Movimentos motores, uso de objetos ou fala estereotipados ou repetitivos (estereotipias motoras simples, alinhar ou girar objetos, ecolalia, frases idiossincráticas).",
+     "Insistência na mesmice, adesão inflexível a rotinas ou rituais verbais ou não verbais (sofrimento extremo com pequenas mudanças, dificuldade com transições, pensamento rígido, rituais de saudação, mesmo trajeto ou mesma comida todos os dias).",
+     "Interesses fixos e muito restritos, anormais em intensidade ou foco (apego a objetos incomuns, interesses circunscritos ou perseverativos).",
+     "Hiper ou hiporreatividade a estímulos sensoriais ou interesse incomum por aspectos sensoriais do ambiente (indiferença aparente a dor ou temperatura, aversão a sons ou texturas, cheirar ou tocar objetos em excesso, fascínio visual por luzes ou movimento)."
+    ]},
+    {"r": "C", "t": "Sintomas presentes no início do período do desenvolvimento, embora possam só se manifestar plenamente quando as demandas sociais excedem as capacidades ou ficar mascarados por estratégias aprendidas mais tarde."},
+    {"r": "D", "t": "Os sintomas causam prejuízo clinicamente significativo no funcionamento social, profissional ou em outras áreas importantes no presente."},
+    {"r": "E", "t": "Não são mais bem explicados por transtorno do desenvolvimento intelectual ou atraso global do desenvolvimento. As duas condições são frequentemente comórbidas; para diagnosticar ambas, a comunicação social deve estar abaixo do esperado para o nível geral de desenvolvimento."}
+   ],
+   "especificadores": [
+    "Gravidade atual, separadamente para comunicação social e para comportamentos restritos e repetitivos: nível 3 (exigindo apoio muito substancial), nível 2 (exigindo apoio substancial), nível 1 (exigindo apoio).",
+    "Com ou sem comprometimento intelectual concomitante.",
+    "Com ou sem comprometimento da linguagem concomitante.",
+    "Associado a condição genética conhecida, outra condição médica ou fator ambiental (codificar a condição associada).",
+    "Associado a alteração do neurodesenvolvimento, mental ou comportamental.",
+    "Com catatonia (usar o código adicional F06.1, catatonia associada a TEA)."
+   ],
+   "notas": [
+    "Irritabilidade no TEA, como alvo de tratamento, é o conjunto de crises de raiva, agressividade, autolesão e mudanças bruscas de humor; nos ensaios (RUPP, aripiprazol) a entrada exigia ABC-I de 18 ou mais e CGI-S moderada ou pior.",
+    "Resposta nos ensaios: redução de pelo menos 25% na ABC-I com CGI-I muito melhor ou melhor.",
+    "Quem tinha diagnóstico bem estabelecido de transtorno autista, Asperger ou transtorno global do desenvolvimento sem outra especificação pelo DSM-IV recebe diagnóstico de TEA.",
+    "Déficits acentuados de comunicação social sem comportamentos restritos e repetitivos: avaliar transtorno da comunicação social (pragmática).",
+    "A gravidade descreve a necessidade de apoio atual e pode variar com o contexto e o tempo; não deve ser usada para definir elegibilidade a serviços.",
+    "CID-11 reúne o TEA em um só código, com subdivisões por deficiência intelectual e por linguagem funcional."
+   ]
+  },
+  "discussao": [
+   {"titulo": "Epidemiologia e curso", "texto": "O TEA afeta cerca de 1% a 3% das crianças nas estimativas recentes (a vigilância norte-americana do CDC chegou a 1 em 36 em 2020), com predomínio masculino de cerca de 3 a 4 para 1. Comportamentos de irritabilidade clinicamente relevantes (agressão, autolesão, crises explosivas) ocorrem em algo entre 20% e 60% das crianças e adolescentes com TEA, mais nos que têm deficiência intelectual, linguagem limitada e epilepsia.\n\nA irritabilidade tende a oscilar com transições de vida (entrada na escola, puberdade, saída da escola), mudanças de rotina e problemas clínicos intercorrentes. É uma das principais causas de internação, de afastamento escolar e de institucionalização, e o principal motivo de prescrição de antipsicóticos nessa população."},
+   {"titulo": "O comportamento como comunicação: buscar a causa antes do fármaco", "texto": "Em quem tem pouca linguagem, a agressividade frequentemente é a única forma de sinalizar dor ou desconforto. As causas médicas mais negligenciadas são dor dentária, otite, constipação e refluxo, cefaleia, crises epilépticas, distúrbios do sono, puberdade e cólicas menstruais, além de efeito adverso de medicamentos (acatisia por antipsicótico, ativação por ISRS, desinibição por benzodiazepínico).\n\nA análise funcional pergunta o que precede e o que se segue ao comportamento (fuga de demanda, obtenção de objeto ou atenção, sobrecarga sensorial, autorregulação). O plano comportamental derivado dela, o treino de comunicação funcional e o treino parental estruturado são a base do tratamento; no RUPP (Aman 2009), risperidona com treino parental reduziu mais a irritabilidade e permitiu dose menor que a risperidona isolada."},
+   {"titulo": "Neurobiologia e mecanismo dos antipsicóticos", "texto": "A irritabilidade no TEA é transdiagnóstica e envolve hiper-reatividade a estímulos, dificuldade de regulação emocional (circuitos entre amígdala e córtex pré-frontal) e baixa tolerância a frustração. Risperidona (antagonista D2 e 5-HT2A) e aripiprazol (agonista parcial D2 e 5-HT1A) reduzem a reatividade e a intensidade das explosões, sem tratar os sintomas centrais de comunicação social.\n\nPor isso a resposta esperada é menos crises, menor intensidade e maior tolerância a demandas, e não melhora do contato social. A família deve saber disso antes de começar, para não interpretar a falta de ganho social como falha."},
+   {"titulo": "O que dizem os ensaios", "texto": "RUPP (McCracken 2002, NEJM): risperidona 0,5 a 3,5 mg/dia por 8 semanas reduziu a ABC-I em 57% contra 14% com placebo, com 69% de respondedores contra 12%; o ganho médio de peso foi de 2,7 kg em 8 semanas. Na fase de retirada após 6 meses, a substituição por placebo levou a recaída em 62,5% contra 12,5% dos que mantiveram o fármaco.\n\nAripiprazol (Marcus 2009 com dose fixa, Owen 2009 com dose flexível de 2 a 15 mg/dia) teve redução da ABC-I cerca de 6 a 8 pontos maior que o placebo, com menos ganho de peso e prolactina, mas mais sedação e sintomas extrapiramidais que o placebo. Metanálises (Fung 2016; Salazar de Pablo 2023) confirmam efeito grande dos dois e evidência fraca ou negativa para outros antipsicóticos, ISRS (citalopram no STAART, King 2009, sem benefício e com ativação), memantina e ocitocina."},
+   {"titulo": "Comorbidades que mudam a conduta", "texto": "TDAH está presente em 30% a 50%: hiperatividade e impulsividade podem estar por trás de parte da irritabilidade. Metilfenidato funciona (RUPP 2005: cerca de 49% de resposta), com efeito menor e mais irritabilidade e retraimento que no TDAH isolado; atomoxetina e clonidina são alternativas. Ansiedade é comum e pode se expressar como explosões diante de mudanças; TCC adaptada é a primeira opção.\n\nInsônia agrava a irritabilidade do dia seguinte: melatonina (2 a 10 mg) tem ensaios positivos em TEA. Catatonia (lentificação, mutismo novo, posturas, perda de habilidades) deve ser reconhecida: aumentar antipsicótico piora; o teste com lorazepam e o encaminhamento são a conduta. Epilepsia (até 20% a 30% ao longo da vida) muda a escolha e exige cuidado com fármacos que baixam o limiar."},
+   {"titulo": "Armadilhas e segurança metabólica", "texto": "Crianças e adolescentes ganham mais peso com antipsicóticos que adultos, e a risperidona eleva a prolactina em quase todos. Monitorização de peso, IMC, circunferência abdominal, glicemia e lipídios é obrigatória; metformina reduziu o ganho de peso em ensaio controlado (Anagnostou 2016). Acatisia pode parecer piora da agitação e levar a aumento de dose indevido.\n\nOutra armadilha é a polifarmácia progressiva: cada crise leva a um fármaco novo sem retirada do anterior. Defina comportamento-alvo, medida (ABC-I, registro de frequência de crises) e prazo de avaliação antes de iniciar, e tente reduzir após 6 meses de estabilidade."},
+   {"titulo": "Prognóstico e conversa com a família", "texto": "Com intervenção comportamental e fármaco bem indicado, a maioria das famílias percebe menos crises em 4 a 8 semanas. Explique que o remédio é uma ferramenta para permitir que as intervenções funcionem, que o objetivo é a menor dose pelo menor tempo e que a retirada será tentada, mas que recaída após retirada é comum (RUPP) e não significa fracasso.\n\nOriente sinais de alerta: ganho de peso rápido, sonolência que prejudica a escola, movimentos anormais, galactorreia ou ginecomastia, perda de habilidades ou lentificação (catatonia)."}
+  ],
+  "fases": [
+   {"fase": "Avaliação e intervenção inicial", "duracao": "2 a 4 semanas", "objetivo": "Excluir dor e causas médicas, análise funcional, plano comportamental e medida basal (ABC-I, frequência de crises)"},
+   {"fase": "Tratamento agudo", "duracao": "8 a 12 semanas", "objetivo": "Titular antipsicótico até resposta (redução de 25% ou mais na ABC-I com CGI-I melhor) com monitorização metabólica"},
+   {"fase": "Manutenção", "duracao": "6 meses ou mais", "objetivo": "Manter a menor dose eficaz, consolidar ganhos comportamentais e vigiar peso, prolactina e movimentos"},
+   {"fase": "Tentativa de redução", "duracao": "Após 6 meses de estabilidade, em 2 a 3 meses", "objetivo": "Reduzir cerca de 25% a cada 2 a 4 semanas em período sem mudanças de rotina; retomar a dose eficaz se houver recaída"}
+  ],
+  "algoritmo": [
+   {"passo": "Avaliar causas e riscos", "acao": "Rastrear dor, constipação, dentes, sono, crises epilépticas, efeitos de fármacos, catatonia e mudanças ambientais; fazer análise funcional e registrar a linha de base", "se_falha": "Irritabilidade persistente com prejuízo grave ou risco apesar da correção das causas"},
+   {"passo": "Intervenção comportamental", "acao": "Plano baseado na análise funcional, treino de comunicação funcional, treino parental estruturado e adaptações escolares; tratar insônia com rotina e melatonina 2 a 10 mg", "se_falha": "Risco a si ou a outros, ou ausência de melhora em 4 a 8 semanas"},
+   {"passo": "Primeiro antipsicótico", "acao": "Risperidona 0,25 mg (menos de 20 kg) ou 0,5 mg, alvo de 0,5 a 1 mg e máximo usual de 3 mg/dia; ou aripiprazol 2 mg, subindo para 5 mg e até 10 a 15 mg/dia em intervalos de pelo menos 1 semana; preferir aripiprazol se houver sobrepeso ou prolactina alta", "se_falha": "Sem resposta após 6 a 8 semanas em dose adequada ou intolerância"},
+   {"passo": "Trocar o antipsicótico", "acao": "Trocar para o outro fármaco de primeira linha com titulação cruzada; tratar TDAH comórbido com metilfenidato, atomoxetina ou clonidina", "se_falha": "Falha dos dois antipsicóticos de primeira linha"},
+   {"passo": "Refratariedade", "acao": "Revisar diagnóstico e comorbidades (ansiedade, humor, catatonia), reforçar intervenção intensiva; clozapina só em casos graves e refratários, em serviço especializado", "se_falha": "Encaminhar a serviço especializado em TEA e deficiência intelectual"}
+  ]
+ },
+
+ "Tiques e Tourette": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022), transtornos de tique",
+   "cid": "CID-10-MC F95.2 (Tourette), F95.1 (tique motor ou vocal persistente), F95.0 (tique transitório), F95.8 (outro especificado), F95.9 (não especificado); CID-11 8A05.00 (Tourette)",
+   "itens": [
+    {"r": "Definição", "t": "Tique é um movimento motor ou uma vocalização súbito, rápido, recorrente e não rítmico."},
+    {"r": "Transtorno de Tourette (F95.2)", "t": "Todos os critérios:", "sub": [
+     "A. Múltiplos tiques motores e 1 ou mais tiques vocais presentes em algum momento da doença, não necessariamente ao mesmo tempo.",
+     "B. Os tiques podem aumentar e diminuir de frequência, mas persistem por mais de 1 ano desde o início do primeiro tique.",
+     "C. Início antes dos 18 anos.",
+     "D. Não atribuível aos efeitos fisiológicos de substância (por exemplo, cocaína) ou a outra condição médica (por exemplo, doença de Huntington, encefalite pós-viral)."
+    ]},
+    {"r": "Transtorno de tique motor ou vocal persistente (crônico) (F95.1)", "t": "Todos os critérios:", "sub": [
+     "A. Tiques motores ou vocais, únicos ou múltiplos, presentes durante a doença, mas não ambos os tipos.",
+     "B. Os tiques podem aumentar e diminuir de frequência, mas persistem por mais de 1 ano desde o início do primeiro tique.",
+     "C. Início antes dos 18 anos.",
+     "D. Não atribuível a substância ou a outra condição médica.",
+     "E. Nunca foram preenchidos critérios para transtorno de Tourette."
+    ]},
+    {"r": "Transtorno de tique transitório (F95.0)", "t": "Todos os critérios:", "sub": [
+     "A. Tiques motores e/ou vocais, únicos ou múltiplos.",
+     "B. Tiques presentes há menos de 1 ano desde o início do primeiro tique.",
+     "C. Início antes dos 18 anos.",
+     "D. Não atribuível a substância ou a outra condição médica.",
+     "E. Nunca foram preenchidos critérios para transtorno de Tourette ou para transtorno de tique motor ou vocal persistente."
+    ]},
+    {"r": "Outro transtorno de tique especificado (F95.8) ou não especificado (F95.9)", "t": "Tiques que causam sofrimento ou prejuízo significativos sem preencher todos os critérios acima, por exemplo com início após os 18 anos; no especificado, o clínico registra o motivo."}
+   ],
+   "especificadores": [
+    "Apenas com tiques motores ou apenas com tiques vocais: exigido somente no transtorno de tique motor ou vocal persistente (crônico)."
+   ],
+   "notas": [
+    "A tradução brasileira impressa traz, no critério B do tique transitório, a expressão pelo menos 1 ano; o original do DSM-5-TR (provisional tic disorder) exige presença por menos de 1 ano, que é o que diferencia esse transtorno dos crônicos.",
+    "Os critérios são hierárquicos: uma vez preenchido Tourette, não se volta a diagnosticar tique persistente ou transitório.",
+    "O intervalo de 1 ano conta desde o primeiro tique e admite períodos sem tiques.",
+    "Tiques costumam ser precedidos por impulso premonitório (sensação desconfortável aliviada pelo tique), são suprimíveis por pouco tempo e pioram com estresse, cansaço e excitação.",
+    "Idade típica de início entre 4 e 6 anos, pico de gravidade entre 10 e 12 anos, melhora substancial na adolescência em cerca de dois terços.",
+    "Coprolalia ocorre em minoria (cerca de 10% a 20%) e não é necessária para o diagnóstico.",
+    "Cerca de 85% a 90% dos pacientes com Tourette têm alguma comorbidade, sobretudo TDAH e TOC."
+   ]
+  },
+  "discussao": [
+   {"titulo": "Epidemiologia e curso natural", "texto": "Tiques transitórios são muito comuns na infância (até 1 em cada 5 crianças em idade escolar em algum momento), e a prevalência de Tourette em crianças está em torno de 0,3% a 0,9%, com predomínio masculino de 3 a 4 para 1. Tiques motores simples (piscar, caretas, movimentos de cabeça) aparecem primeiro, por volta dos 4 a 6 anos; os vocais surgem depois.\n\nO curso é flutuante, com ondas de melhora e piora em semanas ou meses e troca do repertório de tiques. O pico ocorre entre 10 e 12 anos, e cerca de dois terços melhoram muito ou ficam quase sem tiques no fim da adolescência. Essa história natural é a informação mais útil para a família e explica por que muitos casos não precisam de fármaco."},
+   {"titulo": "Neurobiologia e como os tratamentos agem", "texto": "Os tiques resultam de desinibição de circuitos córtico-estriado-tálamo-corticais, com hipersensibilidade dopaminérgica no estriado e falha de mecanismos inibitórios que selecionam movimentos. O impulso premonitório envolve ínsula e área motora suplementar. A herdabilidade é alta e poligênica.\n\nAntagonistas e agonistas parciais D2 (haloperidol, pimozida, risperidona, aripiprazol) reduzem a hiperatividade dopaminérgica estriatal; a tetrabenazina depleta dopamina pré-sináptica via VMAT2. Agonistas alfa-2 (clonidina, guanfacina) agem sobre o córtex pré-frontal e a noradrenalina, com efeito menor nos tiques e maior no TDAH associado. As intervenções comportamentais (CBIT) treinam a percepção do impulso premonitório e uma resposta competitiva, aproveitando a supressibilidade do tique."},
+   {"titulo": "Evidência: comportamento antes do fármaco", "texto": "O CBIT tem os melhores ensaios: em crianças (Piacentini 2010, JAMA), 52,5% de respondedores contra 18,5% com psicoeducação e suporte, e em adultos (Wilhelm 2012) resultado semelhante, com ganhos mantidos em 6 meses. AAN 2019 e ESSTS 2021 o recomendam como tratamento inicial quando disponível, e a versão por telemedicina ampliou o acesso.\n\nEntre os fármacos, haloperidol, pimozida, risperidona e aripiprazol são superiores ao placebo (AAN 2019, confiança moderada para aripiprazol e haloperidol). O aripiprazol (Yoo 2013, Sallee 2017) virou a primeira escolha europeia pelo perfil de efeitos adversos. Clonidina e guanfacina têm efeito pequeno a moderado, maior quando há TDAH. Topiramato tem 1 ensaio pequeno positivo; toxina botulínica é útil em tiques focais; estimulação cerebral profunda é reservada a adultos graves e refratários."},
+   {"titulo": "Comorbidades que mudam a conduta", "texto": "Frequentemente o que mais prejudica não são os tiques, e sim TDAH (50% a 60%), TOC ou sintomas obsessivos (30% a 50%), ansiedade, explosões de raiva e dificuldades escolares. A regra é tratar primeiro o que mais prejudica.\n\nNo TDAH, estimulantes são aceitáveis: a revisão Cochrane (Osland 2018) e o ensaio TACT (2002) mostraram que metilfenidato não piora tiques na maioria, e a associação metilfenidato com clonidina foi a mais eficaz para os dois. No TOC com tiques, a resposta ao ISRS isolado é menor, e a potencialização com antipsicótico em dose baixa funciona melhor justamente nesse subgrupo."},
+   {"titulo": "Armadilhas diagnósticas", "texto": "Tiques funcionais (comportamentos semelhantes a tiques de origem funcional), que aumentaram muito em adolescentes do sexo feminino a partir de 2020 com exposição a vídeos em redes sociais, têm início súbito e tardio, tiques complexos desde o início, ausência da progressão rostrocaudal típica, pouca supressibilidade e frequente coprolalia; não respondem a antipsicóticos e devem ser tratados com abordagem de transtornos neurológicos funcionais.\n\nOutros diferenciais: estereotipias (início antes dos 3 anos, rítmicas, sem impulso premonitório, comuns no TEA), coreia de Sydenham, discinesia tardia e tiques induzidos por fármacos (lamotrigina, estimulantes em raros casos), mioclonias e crises epilépticas. PANDAS e PANS são controversos; não há base para antibióticos prolongados ou imunoglobulina fora de pesquisa."},
+   {"titulo": "Escolha do fármaco e segurança", "texto": "Fármaco só quando há prejuízo real: dor ou lesão por tiques, isolamento, bullying, prejuízo escolar ou sofrimento importante. Com TDAH e tiques leves a moderados, clonidina (a guanfacina não é comercializada no Brasil). Com tiques moderados a graves, aripiprazol (2 mg, alvo de 5 a 10 mg; máximo 20 mg) ou risperidona (0,25 a 3 mg). Haloperidol e pimozida são eficazes, mas com mais sintomas extrapiramidais, discinesia tardia e, na pimozida (não comercializada no Brasil), QT longo e interações com inibidores de CYP3A4.\n\nClonidina exige medida de PA e FC e retirada gradual (rebote hipertensivo). Antipsicóticos exigem monitorização metabólica e de prolactina. Como os tiques flutuam, avaliar resposta em períodos de semanas e não mudar tratamento a cada piora transitória."},
+   {"titulo": "O que dizer ao paciente e à família", "texto": "Tiques não são voluntários nem manha; pedir para parar aumenta a tensão e a piora. A maioria melhora na adolescência, e inteligência e expectativa de vida são normais. O objetivo do tratamento é reduzir o prejuízo, não zerar os tiques.\n\nA escola deve ser informada, com permissão para sair da sala quando necessário e tempo extra em provas se houver prejuízo. Ansiedade, sono ruim e cansaço pioram os tiques; atividades que exigem concentração motora costumam reduzi-los."}
+  ],
+  "fases": [
+   {"fase": "Avaliação e psicoeducação", "duracao": "1 a 3 meses", "objetivo": "Confirmar o diagnóstico, medir gravidade (YGTSS), identificar a comorbidade que mais prejudica e orientar família e escola"},
+   {"fase": "Tratamento ativo", "duracao": "8 a 12 semanas por etapa", "objetivo": "CBIT em 8 a 10 sessões e, se indicado, fármaco titulado até a menor dose eficaz"},
+   {"fase": "Manutenção", "duracao": "6 a 12 meses", "objetivo": "Manter o ganho, julgar resposta em períodos longos pela flutuação natural e monitorar efeitos adversos"},
+   {"fase": "Reavaliação e redução", "duracao": "A cada 6 a 12 meses", "objetivo": "Tentar redução gradual em período de melhora, fora de provas ou estresse, aproveitando a melhora natural da adolescência"}
+  ],
+  "algoritmo": [
+   {"passo": "Decidir se precisa tratar", "acao": "Psicoeducação para paciente, família e escola; tratar primeiro a comorbidade mais prejudicial (TDAH, TOC, ansiedade); observar sem tratar se não há prejuízo", "se_falha": "Tiques com dor, lesão, isolamento, prejuízo escolar ou sofrimento importante"},
+   {"passo": "Intervenção comportamental", "acao": "CBIT ou treino de reversão de hábito (8 a 10 sessões, presencial ou por telemedicina); exposição com prevenção de resposta é alternativa", "se_falha": "CBIT indisponível ou insuficiente após 10 a 12 semanas, ou tiques graves que exigem efeito rápido"},
+   {"passo": "Tiques leves a moderados, sobretudo com TDAH", "acao": "Clonidina 0,025 a 0,05 mg à noite, subindo a cada 3 a 7 dias até 0,1 a 0,3 mg/dia em 2 a 3 tomadas, com PA e FC; no TDAH comórbido, estimulante associado é aceitável", "se_falha": "Sem melhora após 4 a 8 semanas na dose-alvo ou hipotensão e sedação"},
+   {"passo": "Tiques moderados a graves", "acao": "Aripiprazol 2 mg/dia, alvo de 5 mg (menos de 50 kg) ou 10 mg (50 kg ou mais), máximo de 20 mg; alternativa: risperidona 0,25 a 0,5 mg à noite, alvo de 1 a 3 mg/dia", "se_falha": "Sem resposta em 6 a 8 semanas em dose adequada ou intolerância: trocar para o outro"},
+   {"passo": "Refratários", "acao": "Haloperidol 0,5 a 4 mg/dia; tetrabenazina ou topiramato como alternativas; toxina botulínica para tique focal grave (vocal alto, cervical doloroso)", "se_falha": "Adultos com Tourette grave e refratária: encaminhar a centro de estimulação cerebral profunda"}
+  ]
+ },
+
+ "TDAH": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022)",
+   "cid": "CID-10-MC F90.2 (combinada), F90.0 (predominantemente desatenta), F90.1 (predominantemente hiperativa/impulsiva), F90.8 (outro especificado), F90.9 (não especificado); CID-11 6A05",
+   "itens": [
+    {"r": "A", "t": "Padrão persistente de desatenção e/ou hiperatividade e impulsividade que interfere no funcionamento ou no desenvolvimento, caracterizado por A1 e/ou A2."},
+    {"r": "A1", "t": "Desatenção: 6 ou mais sintomas (5 ou mais a partir dos 17 anos), persistentes por pelo menos 6 meses, em grau inconsistente com o nível de desenvolvimento e com impacto negativo direto nas atividades sociais e acadêmicas ou profissionais. Com frequência:", "sub": [
+     "a. Não presta atenção a detalhes ou comete erros por descuido (trabalho impreciso).",
+     "b. Tem dificuldade de manter a atenção em tarefas ou atividades lúdicas (aulas, conversas, leituras longas).",
+     "c. Parece não escutar quando lhe dirigem a palavra, como se estivesse com a cabeça longe mesmo sem distração óbvia.",
+     "d. Não segue instruções até o fim e não termina tarefas, perdendo o foco rapidamente.",
+     "e. Tem dificuldade de organizar tarefas e atividades (sequências, materiais, tempo, prazos).",
+     "f. Evita, não gosta ou reluta em se envolver em tarefas de esforço mental prolongado (lição de casa; em adultos, relatórios, formulários, revisão de textos longos).",
+     "g. Perde objetos necessários (material escolar, carteira, chaves, documentos, óculos, celular).",
+     "h. Distrai-se facilmente com estímulos externos (em adolescentes mais velhos e adultos, também pensamentos não relacionados).",
+     "i. É esquecido nas atividades cotidianas (tarefas; em adultos, retornar ligações, pagar contas, cumprir horários)."
+    ]},
+    {"r": "A2", "t": "Hiperatividade e impulsividade: 6 ou mais sintomas (5 ou mais a partir dos 17 anos), persistentes por pelo menos 6 meses, com o mesmo grau e impacto. Com frequência:", "sub": [
+     "a. Remexe ou batuca mãos ou pés, ou se contorce na cadeira.",
+     "b. Levanta-se em situações em que se espera que fique sentado (sala de aula, escritório).",
+     "c. Corre ou sobe nas coisas quando inapropriado (em adolescentes e adultos, pode ser só sensação de inquietude).",
+     "d. É incapaz de brincar ou se envolver em lazer calmamente.",
+     "e. Não para, como se estivesse com o motor ligado (desconforto em ficar parado em restaurantes ou reuniões).",
+     "f. Fala demais.",
+     "g. Deixa escapar respostas antes de a pergunta terminar (completa frases dos outros, não espera a vez de falar).",
+     "h. Tem dificuldade de esperar a vez (filas).",
+     "i. Interrompe ou se intromete (conversas, jogos, usar coisas alheias sem pedir; em adultos, assumir o que outros fazem)."
+    ]},
+    {"r": "B", "t": "Vários sintomas de desatenção ou de hiperatividade e impulsividade presentes antes dos 12 anos."},
+    {"r": "C", "t": "Vários sintomas presentes em 2 ou mais ambientes (casa, escola, trabalho, com amigos ou parentes, outras atividades)."},
+    {"r": "D", "t": "Evidências claras de que os sintomas interferem no funcionamento social, acadêmico ou profissional ou reduzem sua qualidade."},
+    {"r": "E", "t": "Os sintomas não ocorrem exclusivamente durante esquizofrenia ou outro transtorno psicótico e não são mais bem explicados por outro transtorno mental (humor, ansiedade, dissociativo, personalidade, intoxicação ou abstinência de substância)."}
+   ],
+   "especificadores": [
+    "Apresentação combinada (F90.2): A1 e A2 preenchidos nos últimos 6 meses.",
+    "Apresentação predominantemente desatenta (F90.0): A1 preenchido e A2 não, nos últimos 6 meses.",
+    "Apresentação predominantemente hiperativa/impulsiva (F90.1): A2 preenchido e A1 não, nos últimos 6 meses.",
+    "Em remissão parcial: todos os critérios preenchidos no passado, nem todos nos últimos 6 meses, e ainda com prejuízo funcional.",
+    "Gravidade atual: leve (poucos sintomas além do mínimo e prejuízo pequeno), moderada (intermediária) ou grave (muitos sintomas além do mínimo, sintomas particularmente graves ou prejuízo acentuado)."
+   ],
+   "notas": [
+    "Os sintomas não podem ser apenas manifestação de comportamento opositor, desafio, hostilidade ou dificuldade de compreender tarefas ou instruções.",
+    "A idade de início até 12 anos é estabelecida de preferência com informantes e registros escolares; a lembrança retrospectiva de adultos é pouco confiável.",
+    "Outro TDAH especificado (F90.8) e não especificado (F90.9) cobrem quadros com prejuízo que não preenchem todos os critérios (por exemplo, sintomas insuficientes).",
+    "A CID-11 não fixa número mínimo de sintomas nem idade exata de início (exige início na infância, tipicamente antes dos 12 anos).",
+    "Diagnóstico é clínico: escalas apoiam, não substituem a entrevista; testes neuropsicológicos não são necessários para o diagnóstico.",
+    "Comorbidade é regra: TOD, transtornos de aprendizagem, ansiedade, depressão, TEA, tiques, uso de substâncias."
+   ]
+  },
+  "discussao": [
+   {"titulo": "Epidemiologia e curso", "texto": "O TDAH afeta cerca de 5% a 7% das crianças e 2,5% a 3% dos adultos, com predomínio masculino na infância (2 a 3 para 1) que se atenua na vida adulta, quando mulheres com apresentação desatenta são mais diagnosticadas. A herdabilidade é de 70% a 80%, entre as mais altas da psiquiatria.\n\nA hiperatividade diminui com a idade, enquanto desatenção, desorganização e impulsividade tendem a persistir: cerca de metade a dois terços mantêm sintomas com prejuízo na vida adulta. Sem tratamento, associa-se a fracasso escolar, acidentes de trânsito, lesões, uso de substâncias, gravidez precoce, envolvimento criminal e maior mortalidade (Dalsgaard 2015)."},
+   {"titulo": "Neurobiologia e mecanismo dos fármacos", "texto": "O modelo atual envolve hipofunção catecolaminérgica em circuitos fronto-estriatais e fronto-cerebelares, com déficits de controle inibitório, memória de trabalho e processamento de recompensa (aversão à espera). A dopamina e a noradrenalina no córtex pré-frontal melhoram a relação sinal-ruído das redes de atenção.\n\nMetilfenidato bloqueia os transportadores de dopamina e noradrenalina. Lisdexanfetamina é pró-fármaco convertido em dextroanfetamina no sangue, que além de bloquear transportadores promove liberação de dopamina (VMAT2 e TAAR1); a conversão enzimática lenta reduz o potencial de abuso por via intranasal ou intravenosa. Atomoxetina inibe o transportador de noradrenalina, que no córtex pré-frontal também recapta dopamina, por isso eleva ambas ali sem ação no estriado (sem potencial de abuso). Guanfacina e clonidina estimulam receptores alfa-2A pós-sinápticos pré-frontais."},
+   {"titulo": "Por que estimulantes são primeira linha", "texto": "A metanálise em rede de Cortese 2018 (Lancet Psychiatry, 133 ensaios) mostrou que, considerando eficácia e tolerabilidade, metilfenidato é a melhor primeira escolha em crianças e adolescentes, e anfetaminas (lisdexanfetamina) em adultos; os tamanhos de efeito dos estimulantes (0,8 a 1 em crianças) superam os dos não estimulantes (cerca de 0,5 a 0,6). Cerca de 70% respondem ao primeiro estimulante e mais 15% a 20% ao outro, daí a troca de classe antes de ir para não estimulante.\n\nO MTA (1999) mostrou que o manejo medicamentoso bem titulado superou o tratamento comportamental intensivo nos sintomas centrais; a combinação acrescentou pouco nos sintomas, mas ajudou em comorbidades (ansiedade, oposição) e permitiu doses menores. Estudos de registro nórdicos (Chang, Lichtenstein 2012) mostram menos criminalidade, acidentes e lesões nos períodos de uso."},
+   {"titulo": "Comorbidades que mudam a conduta", "texto": "Uso de substâncias: tratar o TDAH não aumenta o risco de dependência; preferir lisdexanfetamina ou metilfenidato de liberação prolongada, atomoxetina se houver risco alto de desvio. Ansiedade: estimulantes continuam primeira linha, e atomoxetina é alternativa se a ansiedade piorar. Tiques: estimulantes costumam ser tolerados; clonidina associada ajuda.\n\nTranstorno bipolar: estabilizar o humor antes do estimulante. Depressão: tratar primeiro o que for mais grave; bupropiona pode cobrir as duas de forma modesta. TEA: resposta menor ao metilfenidato e mais irritabilidade. Compulsão alimentar: lisdexanfetamina é aprovada para isso nos EUA. Epilepsia controlada não contraindica metilfenidato."},
+   {"titulo": "Segurança cardiovascular, psicose e controvérsias", "texto": "Estimulantes elevam PA em 1 a 4 mmHg e FC em 1 a 5 bpm em média. Grandes coortes não mostraram aumento de eventos cardiovasculares graves em jovens, mas o estudo caso-controle sueco de Zhang 2024 (JAMA Psychiatry) associou uso prolongado a aumento pequeno, dependente de dose, de hipertensão e doença arterial, o que justifica medir PA a cada consulta e usar a menor dose eficaz. ECG só se houver cardiopatia, síncope ao esforço, palpitações ou morte súbita familiar.\n\nPsicose induzida é rara; Moran 2019 (NEJM) encontrou risco cerca de 2 vezes maior com anfetamina que com metilfenidato em jovens adultos. Insônia, perda de apetite e redução pequena da velocidade de crescimento (1 a 2 cm ao longo de anos no MTA) são os efeitos mais frequentes. O TDAH de início tardio em adultos sem história na infância (Moffitt 2015) é controverso; antes de aceitar, excluir ansiedade, depressão, uso de substâncias, apneia do sono e demandas ambientais novas."},
+   {"titulo": "Particularidades no Brasil", "texto": "Disponíveis: metilfenidato de liberação imediata (Ritalina), de liberação prolongada com sistema OROS (Concerta, 18 a 54 mg) e de liberação modificada (Ritalina LA, 10 a 40 mg), lisdexanfetamina (Venvanse, 30 a 70 mg), atomoxetina e clonidina de liberação imediata. Guanfacina e clonidina de liberação prolongada não são comercializadas. Metilfenidato e lisdexanfetamina exigem notificação de receita A (lista A3), com quantidade para até 30 dias.\n\nO SUS não oferece estimulantes na maioria dos municípios, o que pesa na escolha. Formulações de liberação prolongada reduzem desvio, estigma escolar e efeito rebote no fim do dia."},
+   {"titulo": "O que dizer ao paciente e à família", "texto": "TDAH é um transtorno do neurodesenvolvimento, não falta de esforço ou de limites. O fármaco não cura, mas reduz sintomas enquanto está em uso e facilita que estratégias comportamentais e escolares funcionem. O efeito dos estimulantes aparece já no primeiro dia e a titulação leva algumas semanas; a atomoxetina leva 6 a 12 semanas.\n\nDefina com a família metas funcionais (notas, conflitos em casa, direção segura) e reavalie ao menos anualmente; pausas planejadas podem mostrar se o tratamento ainda é necessário, mas não precisam ser feitas nas férias por rotina."}
+  ],
+  "fases": [
+   {"fase": "Titulação", "duracao": "2 a 6 semanas", "objetivo": "Aumentar semanalmente até resposta (redução de 25% a 30% ou mais nos sintomas e CGI-I muito melhor ou melhor) ou efeito limitante"},
+   {"fase": "Estabilização", "duracao": "1 a 3 meses", "objetivo": "Ajustar horários e formulação para cobrir as demandas do dia, tratar efeitos adversos e comorbidades"},
+   {"fase": "Manutenção", "duracao": "Anos, com revisão anual", "objetivo": "Manter funcionamento, medir PA, FC, peso e altura, e revisar a necessidade com pausas planejadas quando apropriado"}
+  ],
+  "algoritmo": [
+   {"passo": "Confirmar diagnóstico e intervenções de base", "acao": "Entrevista com informantes, escalas (SNAP-IV, ASRS), rastreio de comorbidades e de risco cardiovascular; psicoeducação, treino parental (obrigatório antes de fármaco em menores de 6 anos), adaptações escolares, TCC em adultos", "se_falha": "Prejuízo persistente em 6 anos ou mais, ou prejuízo moderado a grave em pré-escolar após treino parental"},
+   {"passo": "Primeiro estimulante", "acao": "Crianças: metilfenidato (liberação prolongada 18 a 54 mg ou 0,3 a 1 mg/kg/dia). Adultos: lisdexanfetamina 30 mg, subindo 20 mg por semana até 50 a 70 mg, ou metilfenidato até 1 mg/kg/dia; titular semanalmente", "se_falha": "Resposta insuficiente após 6 semanas em dose otimizada ou intolerância"},
+   {"passo": "Trocar de classe de estimulante", "acao": "Trocar metilfenidato por lisdexanfetamina ou vice-versa, com nova titulação", "se_falha": "Falha ou intolerância aos dois estimulantes"},
+   {"passo": "Não estimulante", "acao": "Atomoxetina 0,5 mg/kg/dia por 1 a 2 semanas, depois 1,2 mg/kg/dia (adultos, 40 mg até 80 a 100 mg); avaliar em 6 a 12 semanas. Clonidina 0,05 mg à noite até 0,1 a 0,4 mg/dia, isolada ou associada ao estimulante (insônia, tiques, agressividade)", "se_falha": "Sem resposta a atomoxetina em dose plena por 12 semanas"},
+   {"passo": "Opções finais", "acao": "Bupropiona 150 a 300 mg/dia em adultos (sobretudo com depressão ou tabagismo); combinação de estimulante com clonidina; revisar diagnóstico, adesão e comorbidades", "se_falha": "Encaminhar a serviço especializado em TDAH"}
+  ]
+ },
+
+ "Demência de Alzheimer": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022) para transtorno neurocognitivo maior ou leve devido à doença de Alzheimer; NIA-AA 2011 (clínico) e critérios revisados da Alzheimer's Association 2024 (biológico)",
+   "cid": "CID-10-MC (DSM-5-TR): G30.9 com F02.xy (maior, provável), F03.xy (maior, possível), G30.9 com F06.70 ou F06.71 (leve, provável), G31.84 (leve, possível); CID-10 (OMS) G30 com F00; CID-11 8A20 com 6D80",
+   "itens": [
+    {"r": "TNC maior", "t": "Critérios gerais do transtorno neurocognitivo maior:", "sub": [
+     "A. Declínio cognitivo importante em relação ao nível prévio em 1 ou mais domínios (atenção complexa, função executiva, aprendizagem e memória, linguagem, perceptomotor, cognição social), com base em: 1) preocupação do indivíduo, de informante confiável ou do clínico com declínio significativo; e 2) prejuízo substancial documentado, de preferência por teste neuropsicológico padronizado ou, na falta dele, por outra avaliação clínica quantificada.",
+     "B. Os déficits interferem na independência nas atividades cotidianas (no mínimo, precisa de ajuda em atividades instrumentais complexas, como pagar contas ou controlar medicamentos).",
+     "C. Não ocorrem exclusivamente no contexto de delirium.",
+     "D. Não são mais bem explicados por outro transtorno mental (por exemplo, depressão maior, esquizofrenia)."
+    ]},
+    {"r": "TNC leve", "t": "Critérios gerais do transtorno neurocognitivo leve:", "sub": [
+     "A. Declínio cognitivo pequeno em 1 ou mais domínios, com preocupação do indivíduo, informante ou clínico e prejuízo pequeno documentado por teste ou avaliação quantificada.",
+     "B. Os déficits não interferem na independência (atividades instrumentais preservadas), embora possam exigir mais esforço, estratégias compensatórias ou acomodação.",
+     "C. Não ocorrem exclusivamente no delirium.",
+     "D. Não são mais bem explicados por outro transtorno mental."
+    ]},
+    {"r": "Devido à doença de Alzheimer", "t": "Critérios do subtipo:", "sub": [
+     "A. Critérios de TNC maior ou leve preenchidos.",
+     "B. Início insidioso e progressão gradual do prejuízo em 1 ou mais domínios (no TNC maior, pelo menos 2 domínios prejudicados).",
+     "C. Critérios de doença de Alzheimer provável ou possível (ver abaixo).",
+     "D. Não é mais bem explicado por doença cerebrovascular, outra doença neurodegenerativa, efeitos de substância ou outro transtorno mental, neurológico ou sistêmico."
+    ]},
+    {"r": "Provável ou possível no TNC maior", "t": "Provável se houver qualquer um dos abaixo; caso contrário, possível:", "sub": [
+     "1. Mutação genética causadora de Alzheimer na história familiar ou em teste genético.",
+     "2. Todos os três: a) evidência clara de declínio em memória e aprendizagem e em pelo menos outro domínio (história detalhada ou testes seriados); b) declínio constantemente progressivo e gradual, sem platôs prolongados; c) ausência de etiologia mista (outra doença neurodegenerativa, cerebrovascular ou outra condição neurológica, mental ou sistêmica provavelmente contribuindo)."
+    ]},
+    {"r": "Provável ou possível no TNC leve", "t": "Provável apenas com mutação genética causadora documentada (teste ou história familiar). Possível quando não há evidência genética e estão presentes os três:", "sub": [
+     "1. Evidência clara de declínio em memória e aprendizagem.",
+     "2. Declínio constantemente progressivo e gradual, sem platôs prolongados.",
+     "3. Ausência de etiologia mista."
+    ]}
+   ],
+   "especificadores": [
+    "Gravidade do TNC maior: leve (dificuldade nas atividades instrumentais, como tarefas domésticas e dinheiro), moderada (dificuldade nas atividades básicas, como comer e vestir-se), grave (totalmente dependente).",
+    "TNC maior, perturbação comportamental ou psicológica (codificada no quinto e sexto caracteres): com agitação (.x11), com ansiedade (.x4), com sintomas de humor (.x3), com perturbação psicótica (.x2), com outra perturbação comportamental ou psicológica, como apatia (.x18), ou sem perturbação (.x0); gravidade no quarto caractere: A leve, B moderada, C grave (exemplo: F02.B2).",
+    "TNC leve: sem perturbação comportamental (F06.70) ou com perturbação comportamental (F06.71).",
+    "Alzheimer's Association 2024: doença de Alzheimer definida biologicamente por biomarcador central 1 alterado (PET amiloide, razão Aβ42/40 no líquor, razões p-tau181/Aβ42 ou t-tau/Aβ42 no líquor, p-tau217 plasmática de alta acurácia), com estadiamento biológico (A a D) e clínico (0 a 6); uso clínico recomendado apenas em pessoas sintomáticas."
+   ],
+   "notas": [
+    "Como referência, o prejuízo substancial do TNC maior costuma estar 2 ou mais desvios-padrão abaixo da norma e o pequeno do TNC leve entre 1 e 2 desvios-padrão.",
+    "No TNC leve o DSM-5-TR exige apenas declínio de memória e aprendizagem para possível Alzheimer; no maior, memória e mais 1 domínio.",
+    "NIA-AA 2011 descreve apresentações não amnésticas: linguagem (afasia logopênica), visuoespacial (atrofia cortical posterior) e disexecutiva (variante frontal).",
+    "Pistas contra Alzheimer: início súbito, sinais focais precoces, parkinsonismo precoce, alucinações visuais ou flutuações marcantes precoces, alterações comportamentais precoces dominantes, distúrbio de marcha precoce.",
+    "Na CID-11, codifica-se a demência (6D80) e a doença subjacente (8A20).",
+    "Sintomas depressivos podem ser pródromo; depressão com déficit cognitivo em idoso tem alto risco de conversão."
+   ]
+  },
+  "discussao": [
+   {"titulo": "Epidemiologia e curso", "texto": "A doença de Alzheimer responde por 60% a 70% das demências, isolada ou mista, e a prevalência de demência praticamente dobra a cada 5 anos após os 65 anos. A patologia começa 15 a 20 anos antes dos sintomas: acúmulo de amiloide, depois tau e neurodegeneração, passando por fase pré-clínica, comprometimento cognitivo leve e demência.\n\nApós o diagnóstico de demência, a sobrevida média fica em torno de 4 a 8 anos, com grande variação. O declínio médio no MEEM é de 2 a 4 pontos por ano, mais rápido nas fases intermediárias, em quem começou antes dos 65 anos e em quem tem sintomas psicóticos ou sinais extrapiramidais."},
+   {"titulo": "Neurobiologia e como os tratamentos agem", "texto": "Placas de amiloide e emaranhados de tau levam à perda sináptica, com déficit precoce de neurônios colinérgicos do núcleo basal de Meynert. Inibidores de colinesterase (donepezila, rivastigmina, que também inibe butirilcolinesterase, e galantamina, que também modula receptores nicotínicos) aumentam a acetilcolina sináptica e dão benefício sintomático. Memantina é antagonista não competitivo do receptor NMDA de baixa afinidade, que reduz a excitotoxicidade tônica sem bloquear a transmissão fisiológica.\n\nOs anticorpos monoclonais antiamiloide (lecanemabe, donanemabe) removem placas e são os primeiros tratamentos que modificam a biologia da doença, mas com benefício clínico modesto e risco de ARIA (edema e micro-hemorragias), maior nos portadores de APOE ε4."},
+   {"titulo": "O que dizem os ensaios", "texto": "Inibidores de colinesterase: a revisão Cochrane de donepezila (Birks 2018) mostra ganho de cerca de 2,7 pontos na ADAS-Cog e 1 ponto no MEEM em 6 meses, com efeito pequeno em funcionalidade e impressão global; os três inibidores têm eficácia equivalente e diferem em tolerabilidade. DOMINO-AD (Howard 2012, NEJM) mostrou que manter donepezila na doença moderada a grave preserva cognição e função e que suspender aumenta o risco de institucionalização no primeiro ano.\n\nMemantina tem benefício pequeno na doença moderada a grave e nenhum na leve. Anticorpos: CLARITY AD (van Dyck 2023) com lecanemabe reduziu o declínio no CDR-SB em 27% (0,45 ponto) em 18 meses, com ARIA-E em 12,6%; TRAILBLAZER-ALZ 2 (Sims 2023) com donanemabe reduziu o declínio em cerca de 35% no grupo com pouca tau, com ARIA-E em 24% e 3 mortes associadas."},
+   {"titulo": "Diagnóstico: onde estão as armadilhas", "texto": "Antes de rotular Alzheimer, excluir causas reversíveis e contribuintes: hipotireoidismo, deficiência de B12, sífilis, depressão, apneia do sono, hidrocefalia de pressão normal, hematoma subdural e, sobretudo, fármacos com carga anticolinérgica ou sedativa (benzodiazepínicos, tricíclicos, oxibutinina, anti-histamínicos). Delirium sobreposto é comum em internação.\n\nBiomarcadores (líquor, PET amiloide e agora p-tau217 plasmática) confirmam a patologia com alta acurácia, mas amiloide positivo em idoso sem sintomas não é diagnóstico de demência; o uso clínico de biomarcadores deve se restringir a pessoas sintomáticas e a quem a informação muda a conduta."},
+   {"titulo": "Escolha do fármaco e segurança", "texto": "Como a eficácia é semelhante, a escolha do inibidor de colinesterase se baseia em tolerabilidade e praticidade: donepezila em dose única, rivastigmina em adesivo quando há náusea ou dificuldade de engolir, galantamina de liberação prolongada como alternativa. Náusea, vômitos, diarreia, perda de peso e pesadelos (tomar donepezila pela manhã) são comuns; bradicardia, bloqueio atrioventricular e síncope são os riscos graves, com aumento de quedas e fraturas de quadril (Gill 2009).\n\nMemantina é bem tolerada (tontura, cefaleia, constipação) e exige ajuste renal. Evitar associar inibidores de colinesterase a anticolinérgicos, que anulam o efeito, e a betabloqueadores sem monitorar FC. Os anticorpos exigem RM seriada, genotipagem de APOE e evitar anticoagulação."},
+   {"titulo": "Comorbidades e sintomas neuropsiquiátricos", "texto": "Depressão, apatia, ansiedade, psicose e agitação afetam quase todos em algum momento e causam mais sobrecarga ao cuidador que o déficit cognitivo. Depressão na demência responde pouco a antidepressivos (HTA-SADD, Banerjee 2011, sem diferença de sertralina e mirtazapina para placebo), por isso as intervenções psicossociais vêm primeiro.\n\nApatia não é depressão e tem abordagem própria. Agitação e psicose seguem protocolo com prioridade ao não farmacológico. Crises epilépticas ocorrem em até 10% a 20% e podem se apresentar como episódios de confusão."},
+   {"titulo": "Prognóstico e conversa com a família", "texto": "Seja honesto: os fármacos atuais retardam modestamente a progressão dos sintomas e não interrompem a doença. Oriente o que esperar em cada fase, o planejamento antecipado de cuidados (diretivas, procuração, finanças, direção de veículos) enquanto o paciente ainda pode decidir, e a proteção contra golpes financeiros.\n\nO cuidador é paciente também: rastrear sobrecarga e depressão, indicar grupos de apoio (como os da ABRAz) e programas de psicoeducação, que reduzem institucionalização."}
+  ],
+  "fases": [
+   {"fase": "Diagnóstico e início", "duracao": "1 a 3 meses", "objetivo": "Confirmar TNC e etiologia, excluir causas reversíveis, retirar anticolinérgicos, iniciar e titular inibidor de colinesterase"},
+   {"fase": "Avaliação de resposta", "duracao": "3 a 6 meses após dose-alvo", "objetivo": "Estabilização ou declínio mais lento que o esperado na cognição, função e comportamento, com boa tolerância"},
+   {"fase": "Manutenção", "duracao": "Anos, com revisão a cada 6 a 12 meses", "objetivo": "Manter o inibidor, associar memantina na fase moderada, tratar sintomas neuropsiquiátricos e apoiar o cuidador"},
+   {"fase": "Fase avançada", "duracao": "Últimos 1 a 3 anos", "objetivo": "Cuidados paliativos, conforto, revisar e desprescrever fármacos sem benefício"}
+  ],
+  "algoritmo": [
+   {"passo": "Confirmar e preparar", "acao": "Avaliação cognitiva e funcional com informante, exames laboratoriais e RM; revisar e retirar anticolinérgicos e sedativos; ECG se FC abaixo de 60 bpm, síncope ou cardiopatia; biomarcadores se candidato a anticorpo", "se_falha": "Diagnóstico de TNC leve ou maior por Alzheimer confirmado"},
+   {"passo": "Inibidor de colinesterase (leve a moderada)", "acao": "Donepezila 5 mg por 4 a 6 semanas, depois 10 mg; ou rivastigmina adesivo 4,6 mg/24 h por 4 semanas, depois 9,5 mg/24 h (máximo 13,3 mg/24 h); ou galantamina de liberação prolongada 8 mg, subindo a cada 4 semanas até 16 a 24 mg", "se_falha": "Intolerância: trocar por outro inibidor ou pelo adesivo; declínio mais rápido que o esperado em 6 meses: associar memantina se moderada"},
+   {"passo": "Fase moderada a grave", "acao": "Associar memantina 5 mg/dia, aumentando 5 mg por semana até 20 mg/dia (10 mg se depuração de creatinina abaixo de 30 mL/min); memantina isolada se inibidor contraindicado", "se_falha": "Sintomas neuropsiquiátricos dominantes: protocolos de agitação, psicose, apatia ou depressão"},
+   {"passo": "Fase inicial com amiloide confirmado", "acao": "Discutir anticorpo antiamiloide (donanemabe e lecanemabe têm registro na Anvisa) em CCL ou demência leve, sem anticoagulação, sem mais de 4 micro-hemorragias na RM e com APOE genotipado; RM de vigilância nas primeiras infusões", "se_falha": "ARIA sintomática ou progressão para demência moderada: suspender"},
+   {"passo": "Fase avançada", "acao": "Rever benefício dos fármacos em demência grave com perda de função básica, disfagia ou efeitos adversos; retirar de forma gradual e observar piora em 4 a 6 semanas", "se_falha": "Piora nítida após retirada: reintroduzir; caso contrário, cuidados paliativos"}
+  ]
+ },
+
+ "Agitação na demência": {
+  "criterios": {
+   "fonte": "Definição de agitação em transtornos cognitivos da International Psychogeriatric Association (IPA; Cummings 2015, revisada por Sano 2023); no DSM-5-TR corresponde ao especificador com agitação do transtorno neurocognitivo maior",
+   "cid": "CID-10-MC (DSM-5-TR): quinto e sexto caracteres .x11 (com agitação) no código do TNC maior, por exemplo F02.B11",
+   "itens": [
+    {"r": "A", "t": "Ocorre em paciente com comprometimento cognitivo ou síndrome demencial."},
+    {"r": "B", "t": "O paciente apresenta comportamento compatível com sofrimento emocional, observado ou inferido (expressão facial, choro, mudanças rápidas de humor, irritabilidade)."},
+    {"r": "C", "t": "Apresenta pelo menos 1 dos seguintes:", "sub": [
+     "Atividade motora excessiva (andar sem rumo, balançar-se, gesticular, apontar, inquietação, maneirismos repetitivos).",
+     "Agressão verbal (gritar, falar alto demais, xingar, explosões).",
+     "Agressão física (agarrar, empurrar, resistir, bater, chutar, morder, arranhar, atirar objetos)."
+    ]},
+    {"r": "D", "t": "Os comportamentos são persistentes ou frequentemente recorrentes, representam mudança em relação ao padrão habitual e causam incapacidade excessiva, com pelo menos 1: prejuízo significativo nas relações interpessoais, no funcionamento social ou na capacidade de realizar ou participar de atividades cotidianas."},
+    {"r": "E", "t": "Não é atribuível exclusivamente a outro transtorno psiquiátrico, a condições de cuidado inadequadas, a outra condição médica ou aos efeitos fisiológicos de substância."}
+   ],
+   "notas": [
+    "A definição de 2015 exigia duração mínima de 2 semanas; a revisão de 2023 retirou essa exigência para permitir reconhecer episódios agudos e recorrentes.",
+    "DSM-5-TR: agitação é comum sobretudo no TNC maior moderado a grave, costuma surgir em contexto de confusão ou frustração e pode aparecer como agressão diante de cuidados (banho, vestir). Cada perturbação comportamental é registrada separadamente.",
+    "Psicose na demência tem critérios próprios (IPA 2020): delírios ou alucinações após o início da síndrome cognitiva, presentes com frequência por pelo menos 1 mês.",
+    "Medir com CMAI (inventário de agitação de Cohen-Mansfield) ou domínios de agitação do NPI antes e durante o tratamento.",
+    "Agitação é a causa mais frequente de sobrecarga do cuidador, contenção e institucionalização."
+   ]
+  },
+  "discussao": [
+   {"titulo": "Epidemiologia e curso", "texto": "Agitação afeta cerca de 30% a 50% das pessoas com demência na comunidade e mais da metade das que vivem em instituições, com pico nas fases moderada e grave. O curso é flutuante: em muitos pacientes o sintoma se resolve espontaneamente em semanas ou poucos meses, o que explica a alta resposta ao placebo nos ensaios (30% a 40%) e sustenta a regra de tentar retirar os fármacos.\n\nAgitação associa-se a declínio mais rápido, internação, contenção física, institucionalização precoce e sofrimento do cuidador, e muitas vezes é o motivo da primeira consulta psiquiátrica."},
+   {"titulo": "Por que a agitação aparece: modelo de necessidades não atendidas", "texto": "Neurobiologicamente, a degeneração de circuitos frontais, do cíngulo anterior e da amígdala, com desequilíbrio serotoninérgico, noradrenérgico e colinérgico, reduz a capacidade de modular a resposta a estímulos. Na prática, a agitação quase sempre é disparada por algo: dor (artrose, constipação, retenção urinária, fraturas, feridas), delirium por infecção ou fármaco, fome, sede, frio, sono ruim, excesso ou falta de estímulo, e abordagem do cuidador percebida como ameaçadora.\n\nO método DICE (Kales 2014) organiza isso: descrever o comportamento, investigar causas, criar plano e avaliar. O ensaio de Husebo 2011 mostrou que analgesia escalonada reduziu agitação em lares de idosos, e intervenções como DICE, treinamento de cuidadores e atividades personalizadas superam os fármacos em metanálises em rede (Watt 2019)."},
+   {"titulo": "Antipsicóticos: evidência e riscos", "texto": "Risperidona, aripiprazol e brexpiprazol têm efeito pequeno a moderado sobre agressão e agitação (diferença para placebo de cerca de 0,2 em tamanho de efeito); quetiapina e olanzapina são menos convincentes. O CATIE-AD (Schneider 2006, NEJM) mostrou que, na prática, os ganhos eram anulados pela descontinuação por efeitos adversos. Brexpiprazol 2 a 3 mg reduziu a CMAI em cerca de 5 pontos a mais que placebo (Lee 2023) e foi aprovado pela FDA em 2023 para agitação no Alzheimer.\n\nA metanálise de Schneider 2005 (JAMA) mostrou mortalidade de 3,5% contra 2,3% com placebo em 10 a 12 semanas (cerca de 1 morte a mais para cada 100 tratados), além de AVC, pneumonia, quedas e piora cognitiva; o DART-AD (Ballard 2009) confirmou mortalidade maior em uso prolongado. Por isso antipsicótico fica para agitação grave, perigosa ou com sofrimento intenso, na menor dose, com prazo e tentativa de retirada."},
+   {"titulo": "Alternativas farmacológicas", "texto": "Citalopram: no CitAD (Porsteinsson 2014, JAMA), 30 mg teve 40% de respondedores contra 26% com placebo, mas prolongou o QT em cerca de 18 ms e piorou discretamente a cognição; hoje se usa 10 a 20 mg (máximo de 20 mg acima de 60 anos) com ECG. Escitalopram e sertralina são alternativas por extrapolação. Trazodona é útil quando há agitação noturna e insônia.\n\nNão funcionam ou fazem mal: valproato (Cochrane 2018), mirtazapina (SYMBAD, Banerjee 2021, sem benefício e com mais mortes numericamente), memantina e donepezila especificamente para agitação (CALM-AD, MAGD) e benzodiazepínicos de uso contínuo (quedas, delirium, piora cognitiva). A associação dextrometorfano com bupropiona teve resultados em ensaios, mas não está disponível no Brasil com essa indicação."},
+   {"titulo": "Situações especiais", "texto": "Demência com corpos de Lewy e doença de Parkinson: sensibilidade grave a antipsicóticos, com risco de rigidez, queda de consciência e morte; otimizar o inibidor de colinesterase e, se inevitável, quetiapina ou clozapina em dose muito baixa. Nunca haloperidol.\n\nEmergência com risco imediato: preferir via oral; se necessário intramuscular, dose baixa (por exemplo, haloperidol 0,5 a 1 mg fora de Lewy e Parkinson, ou lorazepam 0,5 a 1 mg) e reavaliar causa médica, sobretudo delirium. QT longo: evitar citalopram, haloperidol e antipsicóticos em dose alta."},
+   {"titulo": "Retirada e prognóstico", "texto": "Ensaios de retirada (revisão Cochrane de Van Leeuwen 2018) mostram que a maioria dos pacientes com uso prolongado de antipsicótico não piora ao suspender. As exceções são quem teve recaída em tentativa anterior e quem respondeu inicialmente com agitação ou psicose muito graves (no estudo de Devanand 2012 com risperidona, a suspensão após resposta aumentou a recaída).\n\nExplique à família que o objetivo é reduzir sofrimento e risco, e não sedar; que o fármaco é temporário; e que mudanças na rotina e na abordagem do cuidado costumam ser mais duradouras que qualquer medicamento."}
+  ],
+  "fases": [
+   {"fase": "Avaliação e causas", "duracao": "Horas a dias", "objetivo": "Excluir delirium, dor, retenção urinária, constipação, infecção e fármacos; medir agitação com CMAI ou NPI"},
+   {"fase": "Intervenção não farmacológica", "duracao": "2 a 4 semanas", "objetivo": "Plano DICE, analgesia programada, rotina, atividades personalizadas e treinamento do cuidador"},
+   {"fase": "Tratamento farmacológico", "duracao": "4 a 12 semanas", "objetivo": "ISRS reavaliado em 8 a 12 semanas ou antipsicótico reavaliado em 4 a 6 semanas, com alvo e medida definidos"},
+   {"fase": "Redução e retirada", "duracao": "Até 3 a 4 meses do início", "objetivo": "Tentar retirar o antipsicótico gradualmente e vigiar recorrência mensalmente por 4 meses"}
+  ],
+  "algoritmo": [
+   {"passo": "Investigar causas", "acao": "Rastrear delirium, dor, infecção urinária ou respiratória, constipação, retenção urinária, fome, sono e fármacos (anticolinérgicos, benzodiazepínicos, opioides); descrever gatilhos e horários (DICE)", "se_falha": "Agitação persiste após correção das causas"},
+   {"passo": "Não farmacológico e analgesia", "acao": "Paracetamol programado 1 g 3 vezes ao dia por 1 a 2 semanas como teste; rotina estruturada, atividades personalizadas, música, exercício, luz diurna, comunicação simples, treinar cuidador", "se_falha": "Sem melhora em 2 a 4 semanas, ou sofrimento intenso ou risco"},
+   {"passo": "Agitação persistente sem risco imediato", "acao": "Citalopram 10 mg, até 20 mg/dia (ECG antes e após), escitalopram 5 a 10 mg ou sertralina 25 a 100 mg; trazodona 25 a 100 mg à noite se predominar agitação noturna com insônia", "se_falha": "Sem resposta em 8 a 12 semanas, ou risco de dano"},
+   {"passo": "Agressão grave ou psicose com risco", "acao": "Risperidona 0,25 mg à noite, até 0,5 a 1 mg/dia (máximo usual 2 mg), ou brexpiprazol 0,5 mg por 7 dias, 1 mg por 7 dias e depois 2 mg (máximo 3 mg), ou aripiprazol 2 a 10 mg; discutir mortalidade e AVC com o responsável; em Lewy ou Parkinson, quetiapina 12,5 a 50 mg", "se_falha": "Sem resposta em 4 semanas na dose adequada: reduzir e suspender, e trocar de estratégia"},
+   {"passo": "Reavaliar e retirar", "acao": "Com resposta, tentar redução gradual em até 4 meses (50% por 2 a 4 semanas e depois suspender); manter apenas se houve recaída em retirada anterior", "se_falha": "Recaída grave repetida: manter a menor dose com reavaliação a cada 3 meses e encaminhar à psicogeriatria"}
+  ]
+ },
+
+ "Demência com corpos de Lewy": {
+  "criterios": {
+   "fonte": "Quarto consenso do Consórcio DLB (McKeith e colaboradores, 2017); DSM-5-TR (APA, 2022) para transtorno neurocognitivo maior ou leve com corpos de Lewy",
+   "cid": "CID-10-MC (DSM-5-TR): G31.83 com F02.xy (maior, provável), F03.xy (maior, possível), G31.83 com F06.70 ou F06.71 (leve, provável), G31.84 (leve, possível); CID-10 (OMS) G31.8 com F02.8; CID-11 8A22 com 6D82",
+   "itens": [
+    {"r": "DSM-5-TR", "t": "Critérios do transtorno neurocognitivo maior ou leve com corpos de Lewy:", "sub": [
+     "A. Critérios de TNC maior ou leve preenchidos.",
+     "B. Início insidioso e progressão gradual.",
+     "C. Combinação de características centrais e sugestivas para provável ou possível doença com corpos de Lewy. Centrais: a) cognição oscilante, com variações acentuadas de atenção e alerta; b) alucinações visuais recorrentes, bem formadas e detalhadas; c) parkinsonismo espontâneo surgindo depois do início do declínio cognitivo. Sugestivas: a) critérios de transtorno comportamental do sono REM; b) sensibilidade grave a neurolépticos.",
+     "Provável: 2 características centrais, ou 1 sugestiva com 1 ou mais centrais. Possível: apenas 1 central, ou 1 ou mais sugestivas.",
+     "D. Não é mais bem explicado por doença cerebrovascular, outra doença neurodegenerativa, efeitos de substância ou outro transtorno mental, neurológico ou sistêmico."
+    ]},
+    {"r": "McKeith 2017: essencial", "t": "Demência: declínio cognitivo progressivo que interfere nas atividades sociais ou ocupacionais. Comprometimento de memória proeminente pode não ocorrer no início; déficits de atenção, função executiva e habilidade visuoperceptiva costumam ser proeminentes e precoces."},
+    {"r": "McKeith 2017: centrais", "t": "Características clínicas centrais (as 3 primeiras costumam surgir cedo e persistir):", "sub": [
+     "Cognição flutuante, com variações acentuadas de atenção e alerta.",
+     "Alucinações visuais recorrentes, geralmente bem formadas e detalhadas.",
+     "Transtorno comportamental do sono REM, que pode preceder o declínio cognitivo em anos.",
+     "Uma ou mais características cardinais espontâneas de parkinsonismo: bradicinesia, tremor de repouso ou rigidez."
+    ]},
+    {"r": "McKeith 2017: de suporte", "t": "Características clínicas de suporte:", "sub": [
+     "Sensibilidade grave a antipsicóticos.",
+     "Instabilidade postural, quedas repetidas.",
+     "Síncope ou episódios transitórios de ausência de resposta.",
+     "Disautonomia grave (constipação, hipotensão ortostática, incontinência urinária).",
+     "Hipersonia, hiposmia.",
+     "Alucinações em outras modalidades, delírios sistematizados.",
+     "Apatia, ansiedade, depressão."
+    ]},
+    {"r": "McKeith 2017: biomarcadores indicativos", "t": "Biomarcadores indicativos:", "sub": [
+     "Captação reduzida do transportador de dopamina nos núcleos da base em SPECT ou PET.",
+     "Captação reduzida na cintilografia miocárdica com MIBG.",
+     "Polissonografia confirmando sono REM sem atonia."
+    ]},
+    {"r": "McKeith 2017: biomarcadores de suporte", "t": "Biomarcadores de suporte:", "sub": [
+     "Preservação relativa das estruturas temporais mediais na TC ou RM.",
+     "Hipocaptação generalizada em SPECT ou PET de perfusão ou metabolismo, com redução occipital, com ou sem sinal da ilha do cíngulo no PET-FDG.",
+     "Atividade lenta posterior proeminente no EEG, com flutuações periódicas nas faixas pré-alfa e teta."
+    ]},
+    {"r": "McKeith 2017: provável", "t": "2 ou mais características centrais, com ou sem biomarcador indicativo; ou 1 característica central com 1 ou mais biomarcadores indicativos. Não deve ser diagnosticada apenas com biomarcadores."},
+    {"r": "McKeith 2017: possível", "t": "1 característica central sem biomarcador indicativo; ou 1 ou mais biomarcadores indicativos sem característica central."}
+   ],
+   "especificadores": [
+    "DSM-5-TR, TNC maior: gravidade leve, moderada ou grave e perturbação comportamental (com agitação, ansiedade, sintomas de humor, perturbação psicótica, outra, ou sem perturbação), codificadas no código F02 ou F03.",
+    "DSM-5-TR, TNC leve: com ou sem perturbação comportamental (F06.71 ou F06.70)."
+   ],
+   "notas": [
+    "Diferença importante: o DSM-5-TR trata o transtorno do sono REM como característica sugestiva e exige que o parkinsonismo surja depois do declínio cognitivo; McKeith 2017 o eleva a característica central e acrescenta biomarcadores.",
+    "Regra de 1 ano: demência antes ou até 1 ano após o parkinsonismo é DCL; demência que surge em doença de Parkinson já estabelecida é demência da doença de Parkinson.",
+    "Menos provável quando outra doença (por exemplo, doença cerebrovascular) explica o quadro ou quando o parkinsonismo aparece só na demência grave.",
+    "O SPECT com transportador de dopamina tem disponibilidade restrita no Brasil; a polissonografia é o biomarcador indicativo mais acessível.",
+    "Copatologia de Alzheimer é comum e se associa a pior evolução."
+   ]
+  },
+  "discussao": [
+   {"titulo": "Epidemiologia e curso", "texto": "A demência com corpos de Lewy é a segunda demência neurodegenerativa mais comum, com cerca de 5% dos diagnósticos clínicos e proporção maior em séries de necropsia, e é muito subdiagnosticada: grande parte recebe inicialmente o rótulo de Alzheimer, depressão com psicose ou delirium. Predomina em homens e começa em geral após os 60 anos.\n\nO transtorno comportamental do sono REM isolado precede a doença em anos: mais de 70% dos portadores desenvolvem uma sinucleinopatia (Parkinson, DCL ou atrofia de múltiplos sistemas) em cerca de 12 anos. Comparada ao Alzheimer, a DCL tem declínio mais rápido, mais quedas, hospitalizações, delirium e sobrevida menor."},
+   {"titulo": "Neurobiologia e por que os tratamentos funcionam", "texto": "Agregados de alfa-sinucleína (corpos e neuritos de Lewy) atingem tronco encefálico, sistema límbico e neocórtex. O déficit colinérgico é mais intenso e precoce que no Alzheimer, o que explica flutuações, alucinações visuais e a resposta melhor aos inibidores de colinesterase. A perda de neurônios dopaminérgicos nigroestriatais explica o parkinsonismo e a sensibilidade aos bloqueadores D2.\n\nA sensibilidade grave a neurolépticos ocorre em até metade dos expostos (McKeith 1992): rigidez súbita, queda de consciência, quadro semelhante à síndrome neuroléptica maligna e aumento de mortalidade, às vezes após dose única de haloperidol. Por isso a pergunta sobre alucinações visuais, flutuações e sono REM deve preceder qualquer prescrição de antipsicótico em idoso."},
+   {"titulo": "O que dizem os ensaios", "texto": "Rivastigmina (McKeith 2000, Lancet) melhorou apatia, alucinações, delírios e atenção; donepezila (Mori 2012) melhorou cognição e sintomas comportamentais e foi aprovada no Japão. Na demência da doença de Parkinson, o EXPRESS (Emre 2004) levou à aprovação da rivastigmina. Memantina tem efeito global pequeno (Emre 2010; Aarsland 2009).\n\nPara psicose, a clozapina em dose baixa tem ensaios positivos na doença de Parkinson (Parkinson Study Group 1999; French Clozapine Parkinson Study Group 1999), e a quetiapina, embora negativa nos ensaios, é bem tolerada e usada pela segurança motora. Pimavanserina é aprovada nos EUA para psicose da doença de Parkinson e não está disponível no Brasil."},
+   {"titulo": "Manejo integrado dos domínios", "texto": "A DCL exige equilibrar cognição, psicose, motricidade, autonomia e sono, e melhorar um domínio pode piorar outro: levodopa melhora o parkinsonismo e pode piorar alucinações; antipsicótico reduz alucinações e piora rigidez e quedas; clonazepam controla o sono REM e piora cognição e apneia.\n\nPrioridades práticas: inibidor de colinesterase para cognição, flutuações e alucinações; levodopa em dose baixa (evitar agonistas dopaminérgicos, amantadina e anticolinérgicos); melatonina para sono REM; medidas físicas, fludrocortisona ou midodrina para hipotensão ortostática; ISRS ou IRSN para depressão, evitando tricíclicos e paroxetina."},
+   {"titulo": "Armadilhas", "texto": "Tratar alucinações visuais bem toleradas não é necessário: muitas são não ameaçadoras e o paciente mantém crítica. Delirium em DCL é frequente e pode ser a primeira apresentação; flutuações cognitivas e delirium se confundem, e só a evolução e a investigação clínica diferenciam.\n\nNa internação, alertar a equipe e registrar no prontuário a contraindicação a haloperidol e antipsicóticos típicos. Quedas e síncope podem refletir hipotensão ortostática ou bradicardia pelo inibidor de colinesterase, por isso medir PA deitado e em pé e FC em cada consulta."},
+   {"titulo": "Prognóstico e conversa com a família", "texto": "A sobrevida média após o diagnóstico é menor que no Alzheimer (em torno de 4 a 5 anos em várias coortes), com carga maior de sintomas neuropsiquiátricos e de cuidado. Explique que as flutuações são parte da doença (dias bons e ruins não significam falta de adesão) e que o paciente pode ter reações graves a medicamentos comuns, o que justifica levar uma carta ou registro para emergências.\n\nA retirada do inibidor de colinesterase frequentemente causa piora rápida de cognição, alucinações e comportamento, por isso não deve ser feita sem planejamento."}
+  ],
+  "fases": [
+   {"fase": "Diagnóstico e segurança", "duracao": "1 a 3 meses", "objetivo": "Confirmar DCL (clínica e biomarcadores acessíveis), retirar anticolinérgicos e antipsicóticos, avaliar ortostatismo, quedas e sono"},
+   {"fase": "Início do inibidor de colinesterase", "duracao": "2 a 3 meses de titulação", "objetivo": "Melhorar cognição, flutuações e alucinações com dose-alvo tolerada"},
+   {"fase": "Manutenção", "duracao": "Contínua, com revisão a cada 3 a 6 meses", "objetivo": "Manter o inibidor, equilibrar parkinsonismo, psicose, sono e disautonomia, apoiar o cuidador"},
+   {"fase": "Crise ou internação", "duracao": "Dias a semanas", "objetivo": "Tratar delirium e causas clínicas sem antipsicóticos típicos; quetiapina ou clozapina em dose mínima se inevitável"}
+  ],
+  "algoritmo": [
+   {"passo": "Confirmar e proteger", "acao": "Aplicar McKeith 2017 e DSM-5-TR; polissonografia se disponível; suspender anticolinérgicos, antipsicóticos típicos e sedativos; medir PA deitado e em pé; alertar sobre sensibilidade a neurolépticos", "se_falha": "Sintomas cognitivos ou psicóticos persistem após retirada dos fármacos agravantes"},
+   {"passo": "Inibidor de colinesterase", "acao": "Rivastigmina oral 1,5 mg 2 vezes ao dia até 6 mg 2 vezes ao dia, ou adesivo 4,6 a 13,3 mg/24 h; ou donepezila 5 mg, após 4 a 6 semanas 10 mg", "se_falha": "Intolerância: trocar de inibidor ou usar adesivo; resposta insuficiente em 3 a 6 meses: associar memantina até 20 mg/dia"},
+   {"passo": "Psicose angustiante ou perigosa", "acao": "Rever levodopa e outros dopaminérgicos, tratar causas clínicas, otimizar o inibidor; se inevitável, quetiapina 12,5 mg à noite, até 25 a 50 mg (máximo usual 100 mg)", "se_falha": "Sem controle ou intolerância à quetiapina em 4 semanas"},
+   {"passo": "Psicose refratária", "acao": "Clozapina 6,25 a 12,5 mg à noite, até 25 a 50 mg/dia, com hemograma conforme protocolo e vigilância de ortostatismo e sialorreia", "se_falha": "Encaminhar a neurologia cognitiva ou psicogeriatria"},
+   {"passo": "Sono REM, humor e parkinsonismo", "acao": "Ambiente seguro e melatonina 3 a 12 mg à noite (clonazepam 0,25 a 0,5 mg só sem apneia e com cautela); sertralina ou escitalopram para depressão; levodopa em dose baixa se o parkinsonismo limitar a função", "se_falha": "Sintomas persistentes: revisão em serviço especializado de distúrbios do movimento"}
+  ]
+ },
+
+ "Apatia": {
+  "criterios": {
+   "fonte": "Critérios diagnósticos de apatia em transtornos neurocognitivos e neuropsiquiátricos (Robert e colaboradores, 2018); no DSM-5-TR, apatia é registrada como perturbação comportamental do transtorno neurocognitivo",
+   "cid": "CID-10-MC (DSM-5-TR): TNC maior com outra perturbação comportamental ou psicológica, como apatia (.x18, por exemplo F02.A18); TNC leve com perturbação comportamental (F06.71); CID-10 (OMS) R45.3 (apatia como sintoma)",
+   "itens": [
+    {"r": "A", "t": "Perda ou redução da motivação em relação ao nível prévio do paciente, não compatível com idade ou cultura, relatada pelo paciente ou observada por outros."},
+    {"r": "B", "t": "Pelo menos 1 sintoma em pelo menos 2 das 3 dimensões, presentes na maior parte do tempo por pelo menos 4 semanas:", "sub": [
+     "B1 Comportamento e cognição: redução de atividades dirigidas a objetivos (nível geral de atividade, persistência, iniciar tarefas, fazer escolhas, interesse por notícias, atividades de lazer, cuidado com a própria saúde).",
+     "B2 Emoção: redução das emoções espontâneas (sentimentos expressos) ou da reatividade emocional a eventos positivos ou negativos e a outras pessoas.",
+     "B3 Interação social: redução da iniciativa social espontânea ou da interação quando estimulado pelo ambiente (conversas, contato com amigos e família)."
+    ]},
+    {"r": "C", "t": "Os sintomas causam prejuízo clinicamente significativo no funcionamento pessoal, social, ocupacional ou em outras áreas."},
+    {"r": "D", "t": "Não são explicados exclusivamente por incapacidade física (por exemplo, cegueira, perda auditiva), incapacidade motora, redução do nível de consciência, efeitos fisiológicos de substância ou grandes mudanças ambientais."}
+   ],
+   "notas": [
+    "DSM-5-TR descreve a apatia nos transtornos neurocognitivos como motivação diminuída e comportamento dirigido a metas reduzido, com menor responsividade emocional; é comum no TNC leve e maior, especialmente no Alzheimer, e pode ser proeminente na degeneração frontotemporal.",
+    "Apatia é síndrome, não diagnóstico psiquiátrico isolado: ocorre em Alzheimer (é o sintoma neuropsiquiátrico mais frequente), demência frontotemporal, vascular, Parkinson, AVC, TCE, esquizofrenia (sintomas negativos) e depressão.",
+    "Diferencia-se de depressão pela ausência de tristeza, culpa, desesperança e ideação suicida; o paciente costuma não se incomodar com a própria inércia.",
+    "Instrumentos: domínio apatia do NPI, Apathy Evaluation Scale (AES), Apathy Inventory e Dimensional Apathy Scale.",
+    "Associa-se a progressão mais rápida do declínio cognitivo e funcional, maior mortalidade e sobrecarga do cuidador.",
+    "Apatia pode ser induzida por ISRS (síndrome de apatia por ISRS), antipsicóticos e benzodiazepínicos."
+   ]
+  },
+  "discussao": [
+   {"titulo": "Epidemiologia e curso", "texto": "Apatia é o sintoma neuropsiquiátrico mais frequente e persistente do Alzheimer, presente em cerca de metade dos pacientes, e aparece já no comprometimento cognitivo leve, quando prediz conversão para demência. É muito comum também na demência frontotemporal (sintoma central da variante comportamental), na vascular, no Parkinson (cerca de 40%), após AVC (cerca de um terço) e após TCE.\n\nDiferente da agitação, a apatia raramente leva a família a pedir ajuda, porque o paciente não incomoda. Mesmo assim associa-se a perda funcional mais rápida, pior adesão, institucionalização, mortalidade maior e grande frustração do cuidador."},
+   {"titulo": "Neurobiologia e como os tratamentos agem", "texto": "Apatia resulta de disfunção dos circuitos frontais-subcorticais de motivação: cíngulo anterior, córtex orbitofrontal e pré-frontal medial, estriado ventral e globo pálido, com papel central da dopamina na avaliação de esforço e recompensa. Lesões em qualquer ponto desse circuito (lacunas nos núcleos da base, infartos talâmicos ou frontais, degeneração frontotemporal) podem produzir abulia.\n\nIsso explica por que agentes dopaminérgicos e noradrenérgicos (metilfenidato, agonistas dopaminérgicos no Parkinson, bupropiona) são os candidatos racionais, e por que ISRS, que reduzem a transmissão dopaminérgica frontal por via serotoninérgica, podem piorá-la."},
+   {"titulo": "O que dizem os ensaios", "texto": "ADMET (Rosenberg 2013) e principalmente ADMET 2 (Mintzer 2021, JAMA Neurology, 200 pacientes com Alzheimer, 6 meses) mostraram que metilfenidato 10 mg 2 vezes ao dia melhora a apatia medida pelo NPI, com efeito já nos 2 primeiros meses e segurança aceitável. A revisão Cochrane (Ruthirakuhan 2018) chegou à mesma conclusão, com evidência de qualidade baixa a moderada.\n\nBupropiona em Alzheimer sem depressão (Maier 2020) não foi superior ao placebo; modafinila (Frakey 2012) também foi negativa. No Parkinson, rivastigmina (STEEP-PD, Devos 2014) e o agonista piribedil (Thobois 2013, não disponível no Brasil) melhoraram apatia em ensaios pequenos. Inibidores de colinesterase têm efeito pequeno sobre apatia no Alzheimer e na DCL."},
+   {"titulo": "Diferenciar de depressão e de outras causas", "texto": "O erro mais comum é tratar apatia como depressão e prescrever ISRS, que pode piorá-la. Pergunte por tristeza, culpa, desesperança, ideação de morte e sofrimento com a própria inércia: se estão ausentes, é apatia; se presentes, trate a depressão, lembrando que as duas coexistem.\n\nOutros diferenciais: sonolência diurna por fármacos ou apneia, hipotireoidismo, delirium hipoativo, sintomas negativos e parkinsonismo induzido por antipsicótico, abulia por lesão aguda (AVC frontal ou talâmico, hidrocefalia) e fadiga de doenças clínicas. A instalação recente de abulia grave exige neuroimagem."},
+   {"titulo": "Intervenções e escolha do fármaco", "texto": "Intervenções não farmacológicas são a base: atividades estruturadas, significativas e ajustadas à capacidade, musicoterapia, exercício, ativação comportamental e orientação ao cuidador para oferecer escolhas simples e iniciar a tarefa junto (o déficit costuma ser de iniciação, não de execução).\n\nQuando a apatia persiste com prejuízo no Alzheimer, metilfenidato é a opção com melhor evidência, desde que não haja hipertensão não controlada, arritmia, angina, ansiedade intensa, psicose, agitação ou perda de peso importante. Na apatia por ISRS, reduzir a dose ou trocar por bupropiona, vortioxetina ou agomelatina. No Parkinson, otimizar dopaminérgicos antes de tudo."},
+   {"titulo": "Prognóstico e o que dizer ao cuidador", "texto": "Explique que a falta de iniciativa é um sintoma da doença cerebral, e não preguiça ou má vontade, e que cobranças aumentam o conflito. Estratégias concretas (rotina previsível, tarefas em etapas curtas, começar junto) costumam dar mais resultado que exortações.\n\nO benefício de fármacos é modesto e deve ser medido com escala antes e depois; se não houver ganho funcional percebido em 4 a 8 semanas, suspender. Apatia tende a persistir e aumentar com a progressão da demência, então o objetivo é preservar participação e qualidade de vida."}
+  ],
+  "fases": [
+   {"fase": "Diferenciação e remoção de causas", "duracao": "2 a 4 semanas", "objetivo": "Separar apatia de depressão, sonolência e delirium; reduzir ISRS, sedativos, antipsicóticos e anticolinérgicos; medir com NPI ou AES"},
+   {"fase": "Intervenção não farmacológica e otimização da doença de base", "duracao": "4 a 8 semanas", "objetivo": "Atividades estruturadas, orientação ao cuidador, inibidor de colinesterase ou dopaminérgico otimizados"},
+   {"fase": "Ensaio farmacológico", "duracao": "4 a 8 semanas", "objetivo": "Metilfenidato titulado com PA e FC; manter só com ganho funcional"},
+   {"fase": "Manutenção", "duracao": "Revisão a cada 3 a 6 meses", "objetivo": "Manter ganho, vigiar pressão, peso, sono e agitação, e suspender se o benefício se perder"}
+  ],
+  "algoritmo": [
+   {"passo": "Confirmar apatia e excluir mimetizadores", "acao": "Critérios de Robert 2018 com informante; excluir depressão maior, sonolência, delirium hipoativo, hipotireoidismo, apneia e parkinsonismo por fármaco", "se_falha": "Depressão presente: tratar a depressão; apatia sem depressão persiste: seguir"},
+   {"passo": "Retirar fármacos agravantes", "acao": "Reduzir ou suspender ISRS (trocar por bupropiona, vortioxetina ou agomelatina se ainda houver indicação), benzodiazepínicos, antipsicóticos e anticolinérgicos", "se_falha": "Apatia persiste 4 semanas após a retirada"},
+   {"passo": "Intervenção não farmacológica e doença de base", "acao": "Atividades estruturadas, música, exercício, orientação ao cuidador; otimizar inibidor de colinesterase no Alzheimer ou DCL e dopaminérgicos no Parkinson (rivastigmina é opção no Parkinson)", "se_falha": "Prejuízo funcional persistente após 4 a 8 semanas"},
+   {"passo": "Metilfenidato (Alzheimer)", "acao": "5 mg pela manhã e ao meio-dia por 1 semana, depois 10 mg 2 vezes ao dia (última dose até as 14 h); PA e FC em 2 a 4 semanas", "se_falha": "Sem ganho em 4 a 8 semanas, ou agitação, insônia, perda de peso ou elevação pressórica: suspender"},
+   {"passo": "Alternativas e encaminhamento", "acao": "Bupropiona se houver depressão associada; metilfenidato ou amantadina após TCE; modafinila com evidência fraca; encaminhar se abulia grave recente, sinais focais ou suspeita de demência frontotemporal", "se_falha": "Encaminhar a neurologia cognitiva ou psicogeriatria"}
+  ]
+ },
+
+ "Demência vascular": {
+  "criterios": {
+   "fonte": "DSM-5-TR (APA, 2022) para transtorno neurocognitivo vascular maior ou leve; critérios VASCOG (Sachdev e colaboradores, 2014)",
+   "cid": "CID-10-MC (DSM-5-TR): F01.xy (maior, provável, sem código médico adicional), F03.xy (maior, possível), I67.9 com F06.70 ou F06.71 (leve, provável), G31.84 (leve, possível); CID-10 (OMS) F01; CID-11 6D81",
+   "itens": [
+    {"r": "A", "t": "Critérios de transtorno neurocognitivo maior ou leve preenchidos."},
+    {"r": "B", "t": "Características clínicas compatíveis com etiologia vascular, sugeridas por qualquer um:", "sub": [
+     "Início dos déficits cognitivos relacionado temporalmente a um ou mais eventos cerebrovasculares.",
+     "Declínio proeminente em atenção complexa (incluindo velocidade de processamento) e função executiva frontal."
+    ]},
+    {"r": "C", "t": "Evidência de doença cerebrovascular pela história, exame físico e/ou neuroimagem, considerada suficiente para explicar os déficits."},
+    {"r": "D", "t": "Os sintomas não são mais bem explicados por outra doença cerebral ou transtorno sistêmico."},
+    {"r": "Provável", "t": "Diagnosticado quando há pelo menos um; caso contrário, possível:", "sub": [
+     "Critérios clínicos apoiados por neuroimagem mostrando lesão parenquimatosa significativa atribuída a doença cerebrovascular.",
+     "Síndrome neurocognitiva relacionada temporalmente a um ou mais eventos cerebrovasculares documentados.",
+     "Evidência clínica e genética de doença cerebrovascular (por exemplo, CADASIL, arteriopatia cerebral autossômica dominante com infartos subcorticais e leucoencefalopatia)."
+    ]},
+    {"r": "Possível", "t": "Critérios clínicos preenchidos, mas sem neuroimagem disponível e sem relação temporal estabelecida com eventos cerebrovasculares."}
+   ],
+   "especificadores": [
+    "TNC maior, gravidade atual: leve (atividades instrumentais), moderada (atividades básicas), grave (totalmente dependente).",
+    "TNC maior, perturbação comportamental ou psicológica: com agitação, com ansiedade, com sintomas de humor, com perturbação psicótica, com outra perturbação (por exemplo, apatia) ou sem perturbação (exemplo: F01.B2, moderado com perturbação psicótica).",
+    "TNC leve: com ou sem perturbação comportamental (F06.71 ou F06.70)."
+   ],
+   "notas": [
+    "Para TNC maior provavelmente vascular não se usa código médico adicional (o F01 já indica a etiologia); I67.9 só entra no TNC vascular leve ou em múltiplas etiologias com TNC leve.",
+    "VASCOG 2014: sem história de AVC, o predomínio de lentificação, atenção complexa e disfunção frontal-executiva deve vir acompanhado de alteração precoce da marcha, urgência ou incontinência urinária não explicadas, ou mudanças de personalidade e humor (abulia, depressão, labilidade emocional).",
+    "VASCOG, neuroimagem mínima para demência vascular: 2 ou mais infartos de grandes vasos, infarto extenso ou em localização estratégica (tálamo, cápsula interna, giro angular), mais de 2 infartos lacunares fora do tronco encefálico, ou lesão de substância branca extensa e confluente; para a forma leve, 1 infarto de grande vaso pode bastar.",
+    "O curso pode ser em degraus após AVCs ou gradualmente progressivo na doença de pequenos vasos.",
+    "Doença mista (Alzheimer com doença cerebrovascular) é a forma mais comum em idosos acima de 80 anos; no DSM-5-TR codifica-se como TNC devido a múltiplas etiologias.",
+    "Escala isquêmica de Hachinski: 7 ou mais sugere causa vascular; 4 ou menos sugere degenerativa."
+   ]
+  },
+  "discussao": [
+   {"titulo": "Epidemiologia e curso", "texto": "A doença cerebrovascular é a segunda causa de demência, responsável isoladamente por cerca de 15% a 20% dos casos e contribuindo para muitos mais como patologia mista. No estudo de Pendlebury e Rothwell (2009), cerca de 10% dos pacientes já tinham demência antes do primeiro AVC, cerca de 10% desenvolveram logo após o primeiro AVC e mais de um terço após AVC recorrente.\n\nO curso depende do mecanismo: em degraus nos infartos múltiplos ou estratégicos e insidioso e progressivo na doença de pequenos vasos (lacunas e lesões de substância branca), que é a forma mais comum e a mais confundida com Alzheimer. A sobrevida média é semelhante ou menor que a do Alzheimer, pela carga cardiovascular associada."},
+   {"titulo": "Neurobiologia e mecanismo dos tratamentos", "texto": "A lesão vascular interrompe circuitos frontais-subcorticais e as vias colinérgicas que atravessam a substância branca, o que explica o perfil de lentificação, disfunção executiva, apatia, labilidade emocional e alteração da marcha, com memória de reconhecimento relativamente preservada. Hipoperfusão crônica, disfunção da barreira hematoencefálica e inflamação contribuem para a progressão.\n\nComo não há tratamento que reverta a lesão, o objetivo é prevenir novos eventos (controle pressórico, antitrombóticos, estatina) e reduzir o dano cumulativo. O racional para inibidores de colinesterase é o déficit colinérgico por desconexão e a copatologia de Alzheimer, frequente em idosos."},
+   {"titulo": "O que dizem os ensaios", "texto": "A metanálise de Kavirajan e Schneider (2007, Lancet Neurology) mostrou que donepezila, galantamina, rivastigmina e memantina produzem ganho cognitivo pequeno na demência vascular (cerca de 1 a 2 pontos na ADAS-Cog), sem benefício global ou funcional consistente, e com mais efeitos adversos. Os ensaios de memantina (MMM 300 e MMM 500) tiveram resultado semelhante. Por isso o NICE NG97 não recomenda esses fármacos na demência vascular pura, reservando-os para suspeita de Alzheimer, DCL ou Parkinson associados.\n\nNa prevenção, o SPRINT MIND (2019) mostrou que PA sistólica alvo abaixo de 120 mmHg reduziu o comprometimento cognitivo leve, sem efeito significativo na demência. Não há evidência para ginkgo biloba, nimodipina de rotina ou vasodilatadores cerebrais."},
+   {"titulo": "Sintomas neuropsiquiátricos e comorbidades", "texto": "Depressão, apatia e labilidade emocional (afeto pseudobulbar) são mais frequentes que no Alzheimer. Depressão pós-AVC afeta cerca de um terço dos pacientes e piora a recuperação: ISRS (sertralina, escitalopram, citalopram até 20 mg em idosos) são a primeira opção, com atenção a hiponatremia e sangramento quando associados a antiagregantes ou anticoagulantes.\n\nAfeto pseudobulbar responde a ISRS em dose baixa, muitas vezes em dias. Agitação e psicose seguem o protocolo geral, com cuidado redobrado com antipsicóticos, que aumentam risco de AVC. Fibrilação atrial, apneia do sono, hipotensão ortostática e quedas são comorbidades a investigar ativamente."},
+   {"titulo": "Armadilhas", "texto": "Hipertensão tratada de forma agressiva em idoso frágil pode causar hipotensão ortostática, quedas e hipoperfusão; a meta deve ser individualizada. Antiagregar só por lesões de substância branca sem evento isquêmico não tem benefício e aumenta sangramento; micro-hemorragias lobares sugerem angiopatia amiloide e mudam a decisão sobre antitrombóticos.\n\nLeucoaraiose leve é achado comum em idosos e não prova demência vascular; é preciso proporcionalidade entre carga vascular na imagem e quadro clínico. Declínio progressivo com memória episódica muito comprometida sugere Alzheimer associado."},
+   {"titulo": "Prognóstico e conversa com a família", "texto": "Explique que o controle dos fatores de risco é o tratamento mais eficaz e depende do paciente e da família: tomar anti-hipertensivos, estatina e antitrombóticos, parar de fumar, mover-se, tratar diabetes e apneia. Reabilitação física, fonoaudiológica e cognitiva após AVC melhora a funcionalidade.\n\nNovos déficits súbitos exigem atendimento de emergência imediato (possível novo AVC). O curso pode ter longos períodos de estabilidade entre eventos."}
+  ],
+  "fases": [
+   {"fase": "Diagnóstico e estratificação vascular", "duracao": "1 a 3 meses", "objetivo": "RM, avaliação cardiovascular (ECG, Holter se indicado, carótidas), confirmar TNC vascular ou misto e excluir causas reversíveis"},
+   {"fase": "Prevenção secundária e reabilitação", "duracao": "Contínua desde o início", "objetivo": "PA, lipídios, diabetes, antitrombóticos quando indicados, cessação do tabagismo, atividade física e reabilitação"},
+   {"fase": "Tratamento sintomático", "duracao": "Reavaliação em 3 a 6 meses", "objetivo": "Inibidor de colinesterase ou memantina na doença mista; ISRS para depressão e afeto pseudobulbar"},
+   {"fase": "Seguimento", "duracao": "A cada 6 a 12 meses", "objetivo": "Monitorar novos eventos, quedas, humor e cuidador; desprescrever sem benefício"}
+  ],
+  "algoritmo": [
+   {"passo": "Confirmar e caracterizar", "acao": "Avaliação cognitiva com foco executivo (MoCA, fluência, Trilhas), RM com sequências para micro-hemorragias, investigação de fonte embólica; escala de Hachinski e critérios VASCOG", "se_falha": "Suspeita de CADASIL, vasculite, angiopatia amiloide ou AVC recente: neurologia"},
+   {"passo": "Prevenção secundária", "acao": "PA abaixo de 130/80 mmHg individualizada; estatina de alta intensidade após AVC aterosclerótico (LDL abaixo de 70 mg/dL); antiagregante após AVC ou ataque isquêmico transitório; anticoagulante na fibrilação atrial; controle de diabetes e tabagismo", "se_falha": "Declínio cognitivo continua apesar do controle vascular"},
+   {"passo": "Doença mista ou dúvida sobre Alzheimer", "acao": "Donepezila 5 mg, após 4 a 6 semanas 10 mg, ou galantamina 8 a 24 mg/dia, ou rivastigmina adesivo 4,6 a 13,3 mg/24 h; memantina até 20 mg/dia na fase moderada a grave", "se_falha": "Sem benefício percebido em 3 a 6 meses ou intolerância: suspender"},
+   {"passo": "Sintomas neuropsiquiátricos", "acao": "Depressão ou choro patológico: sertralina 25 a 100 mg ou citalopram 10 a 20 mg; apatia e agitação pelos protocolos próprios, evitando antipsicóticos", "se_falha": "Sem resposta em 8 a 12 semanas: revisar diagnóstico e encaminhar"},
+   {"passo": "Encaminhar", "acao": "Neurologia se piora em degraus, início antes dos 65 anos, dúvida sobre antitrombóticos; psicogeriatria se sintomas comportamentais graves", "se_falha": "Cuidados paliativos na fase avançada"}
+  ]
+ }
+}

@@ -1,0 +1,1756 @@
+{
+ "Alcoolismo": [
+  {
+   "id": "o-que-e-alcool",
+   "titulo": "Álcool: quando o beber vira problema",
+   "subtitulo": "O que é o transtorno por uso de álcool e como se trata",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "O **transtorno por uso de álcool** acontece quando a bebida passa a controlar a vida da pessoa: ela bebe mais do que planejava, tenta parar e não consegue, sente vontade forte de beber (a **fissura**) e continua bebendo mesmo com prejuízos na saúde, no trabalho ou em casa.\n\nNão é falta de caráter nem de força de vontade. O álcool muda o funcionamento do cérebro, principalmente as áreas ligadas ao prazer e ao controle dos impulsos. Por isso é uma condição de saúde, que tem tratamento."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Sinais comuns",
+     "itens": [
+      "Precisar beber cada vez mais para sentir o mesmo efeito.",
+      "Tremor, suor, enjoo ou ansiedade pela manhã, que melhoram ao beber.",
+      "Esconder a bebida ou mentir sobre quanto bebe.",
+      "Deixar de lado família, trabalho ou lazer por causa do álcool.",
+      "Brigas, acidentes, esquecimentos (apagões) depois de beber."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "O tratamento combina várias partes, e elas funcionam melhor juntas:\n\n**Conversa e terapia:** a entrevista motivacional ajuda a pessoa a encontrar os próprios motivos para mudar. A terapia cognitivo-comportamental (TCC) ensina a lidar com gatilhos e com a fissura.\n\n**Remédios:** existem medicamentos que reduzem a vontade de beber ou ajudam a manter a abstinência, como a naltrexona. Menos de 1 em cada 10 pessoas com esse problema recebe remédio, embora eles funcionem.\n\n**Grupos de ajuda mútua:** Alcoólicos Anônimos (AA) e outros grupos ajudam muita gente. Para a família, existe o Al-Anon.\n\n**Cuidado com a saúde geral:** exames do fígado, vitaminas (principalmente a **tiamina**, vitamina B1) e tratamento de depressão, ansiedade ou insônia que caminhem junto."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "A meta é combinada com você",
+     "texto": "Para algumas pessoas a meta é **parar totalmente**. Para outras, no começo, é **reduzir** o beber pesado. A equipe ajuda a escolher o caminho mais seguro para o seu caso."
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Quem tem problema com álcool bebe todo dia.",
+       "fato": "Muitas pessoas bebem só nos fins de semana, mas em grande quantidade, e mesmo assim têm o transtorno."
+      },
+      {
+       "mito": "É só ter força de vontade.",
+       "fato": "O álcool muda o cérebro. Força de vontade ajuda, mas tratamento aumenta muito as chances."
+      },
+      {
+       "mito": "Recaída significa que o tratamento falhou.",
+       "fato": "Recaídas são comuns no caminho. Elas mostram o que precisa ser ajustado no plano."
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Atenção: não pare de repente sozinho",
+     "texto": "Quem bebe muito todos os dias pode ter **abstinência perigosa** ao parar de uma vez, com convulsões ou confusão mental. Converse com a equipe antes de parar para planejar uma retirada segura."
+    }
+   ],
+   "ajuda": [
+    "Convulsão, confusão mental, falar coisas sem sentido ou não reconhecer pessoas.",
+    "Ver ou ouvir coisas que não existem, com agitação, suor intenso e tremor forte.",
+    "Vômitos que não param, vômito com sangue ou fezes pretas.",
+    "Andar cambaleando, olhos com movimentos estranhos e confusão (pode ser falta de vitamina B1).",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "APA 2018 (farmacoterapia do transtorno por uso de álcool); NICE CG115; DSM-5-TR"
+  },
+  {
+   "id": "prevencao-recaida-alcool",
+   "titulo": "Prevenção de recaída",
+   "subtitulo": "Conhecer seus gatilhos e atravessar a fissura",
+   "publico": "Paciente",
+   "figura": "onda-fissura",
+   "figura_legenda": "A fissura sobe, chega a um pico e passa, em geral em 15 a 30 minutos, mesmo sem beber.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A onda da fissura",
+     "texto": "A **fissura** é aquela vontade forte de beber. Ela parece que vai durar para sempre, mas funciona como uma onda: sobe, atinge o ponto mais alto e desce. Na maioria das vezes passa em **15 a 30 minutos**.\n\nCada vez que você atravessa uma onda sem beber, a próxima tende a ser um pouco mais fraca. O objetivo não é nunca sentir vontade, e sim aprender a **surfar a onda** até ela passar."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meus gatilhos",
+     "texto": "Gatilhos são pessoas, lugares, horários, emoções ou situações que despertam a vontade de beber. Anote os seus e o que você pode fazer no lugar.",
+     "colunas": [
+      "Gatilho (situação, lugar, pessoa, emoção)",
+      "O que costuma acontecer",
+      "O que vou fazer no lugar"
+     ],
+     "linhas": [
+      [
+       "Ex.: sexta à noite, saída do trabalho",
+       "Passo no bar com colegas",
+       "Combinar academia ou ir direto para casa"
+      ]
+     ],
+     "linhas_vazias": 5
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que fazer quando a fissura chegar",
+     "itens": [
+      "**Adie:** diga a si mesmo \"vou esperar 20 minutos\". Olhe o relógio.",
+      "**Saia** do lugar ou da situação de risco.",
+      "**Distraia-se:** caminhe, tome um banho, beba água ou um suco, coma alguma coisa.",
+      "**Fale com alguém** da sua lista de apoio.",
+      "**Lembre** dos seus motivos para mudar (escreva-os no fim desta ficha).",
+      "**Respire devagar:** puxe o ar em 4 segundos, segure 2, solte em 6."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "No dia a dia",
+     "sim": [
+      "Tirar as bebidas de casa.",
+      "Ter sempre uma resposta pronta para recusar: \"não, obrigado, estou sem beber\".",
+      "Dormir, comer e se exercitar com regularidade.",
+      "Ir às consultas e grupos mesmo quando estiver bem."
+     ],
+     "nao": [
+      "Testar se consegue \"beber só um pouco\" sem combinar com a equipe.",
+      "Ficar muito tempo com fome, raiva, sozinho ou cansado.",
+      "Carregar dinheiro sobrando em momentos de risco."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Se escorregar",
+     "texto": "Um lapso (beber uma vez) **não precisa virar recaída**. Pare assim que puder, avise alguém de confiança e a equipe. Pense no que levou ao lapso e ajuste o plano. Culpa excessiva costuma empurrar para mais bebida."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meu plano",
+     "texto": "Meus motivos para mudar. Pessoas que posso chamar (nome e telefone). O que vou fazer se tiver um lapso.",
+     "linhas_vazias": 7
+    }
+   ],
+   "fonte": "Marlatt e Gordon (modelo de prevenção de recaída); NICE CG115"
+  },
+  {
+   "id": "remedios-alcool",
+   "titulo": "Remédios para o álcool: naltrexona e dissulfiram",
+   "subtitulo": "Como funcionam e quais cuidados tomar",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Remédio ajuda, mas não faz tudo sozinho",
+     "texto": "Os remédios para o álcool funcionam melhor quando usados **junto** com terapia, grupos e apoio da família. Eles não tiram a vontade de mudar, mas deixam o caminho mais leve. Quem escolhe o remédio é a equipe, conversando com você."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Os principais remédios",
+     "colunas": [
+      "Remédio",
+      "Como ajuda",
+      "Cuidados importantes"
+     ],
+     "linhas": [
+      [
+       "**Naltrexona**",
+       "Diminui a vontade de beber e o \"prazer\" da bebida. Serve para quem quer parar ou reduzir.",
+       "Não pode ser usada junto com remédios opioides (morfina, tramadol, codeína, metadona). Pode causar enjoo no começo. A equipe acompanha exames do fígado."
+      ],
+      [
+       "**Dissulfiram**",
+       "Não tira a vontade, mas faz a pessoa passar muito mal se beber. Funciona como uma \"barreira\".",
+       "Só deve ser tomado com o **conhecimento e o acordo** da pessoa. Nunca beba enquanto estiver tomando e por até 2 semanas depois de parar."
+      ],
+      [
+       "**Acamprosato**",
+       "Ajuda a manter a abstinência depois que a pessoa parou.",
+       "Seguro para o fígado. No Brasil o acesso é mais difícil."
+      ],
+      [
+       "**Topiramato, gabapentina**",
+       "Opções de segunda linha para reduzir a vontade de beber.",
+       "Podem dar sonolência, tontura ou lentidão para pensar."
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "A reação do dissulfiram",
+     "texto": "Se a pessoa beber enquanto usa dissulfiram, pode ter **vermelhidão no rosto, coração acelerado, dor de cabeça forte, falta de ar, vômitos e queda da pressão**. Em casos graves, a reação pode ser perigosa. Por isso a tomada precisa ser uma decisão da própria pessoa.\n\nMuitos produtos têm álcool escondido. Enquanto estiver usando dissulfiram, leia os rótulos."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Com dissulfiram, evite produtos com álcool",
+     "itens": [
+      "Enxaguante bucal com álcool.",
+      "Xaropes, tinturas e alguns remédios em gotas.",
+      "Molhos, doces e pratos preparados com vinho, cerveja ou licor.",
+      "Vinagre de vinho em grande quantidade.",
+      "Perfumes, loções pós-barba e álcool em gel usados em grande quantidade na pele."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Recado para a família",
+     "sim": [
+      "Apoiar a pessoa a tomar o remédio combinado, se ela pedir essa ajuda.",
+      "Avisar outros médicos e o dentista sobre o remédio em uso."
+     ],
+     "nao": [
+      "**Nunca** colocar dissulfiram escondido na comida ou bebida. Isso é perigoso e desrespeita a pessoa.",
+      "Usar o remédio como castigo ou ameaça."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Leve esta informação sempre",
+     "texto": "Anote na carteira ou no celular o nome do remédio que você usa. Em uma emergência, a equipe de saúde precisa saber, principalmente se você usa naltrexona (muda o efeito de remédios para dor)."
+    }
+   ],
+   "ajuda": [
+    "Com dissulfiram: falta de ar, dor no peito, desmaio ou vômitos intensos após contato com álcool.",
+    "Pele ou olhos amarelados, urina escura ou dor na barriga do lado direito."
+   ],
+   "fonte": "APA 2018; NICE CG115; bulas de naltrexona e dissulfiram"
+  },
+  {
+   "id": "familia-alcool",
+   "titulo": "Para a família: como ajudar sem se perder",
+   "subtitulo": "Apoio, limites e cuidado com você mesmo",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Você não causou e não controla",
+     "texto": "Conviver com alguém que bebe demais cansa, assusta e machuca. Muitas famílias sentem culpa, raiva e vergonha ao mesmo tempo. Saiba que **você não causou** o problema e **não consegue controlá-lo** sozinho. Mas você pode influenciar positivamente e, principalmente, cuidar de si."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "O que costuma ajudar",
+     "sim": [
+      "Conversar quando a pessoa estiver **sóbria**, com calma, falando de fatos: \"ontem você não foi buscar as crianças\".",
+      "Falar do que você sente, usando \"eu\": \"eu fico com medo quando você dirige depois de beber\".",
+      "Elogiar os dias sem bebida e os passos na direção do tratamento.",
+      "Oferecer ajuda concreta: marcar consulta, ir junto ao CAPS AD ou à UBS.",
+      "Deixar que a pessoa enfrente as consequências naturais do beber."
+     ],
+     "nao": [
+      "Discutir ou tentar conversar com a pessoa bêbada.",
+      "Humilhar, xingar ou fazer ameaças que você não vai cumprir.",
+      "Encobrir: ligar para o trabalho inventando desculpas, pagar dívidas de bebida.",
+      "Esconder ou jogar fora bebida escondido como forma de controle.",
+      "Colocar remédio escondido na comida."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Cuide de você",
+     "texto": "O **Al-Anon** é um grupo de ajuda mútua para familiares e amigos de pessoas com problemas com álcool. Lá você encontra pessoas que passam pelo mesmo e aprende a colocar limites sem culpa. Os CAPS AD também costumam acolher familiares.\n\nSe houver violência, proteja-se primeiro. Sua segurança e a das crianças vêm antes de qualquer conversa."
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Sinais de alerta",
+     "verde": [
+      "Pessoa em tratamento, indo às consultas, dias sem beber.",
+      "Mantenha o apoio e elogie o esforço."
+     ],
+     "amarelo": [
+      "Voltou a beber, falta às consultas, está mais isolada ou triste.",
+      "Converse com calma e avise a equipe."
+     ],
+     "vermelho": [
+      "Tremor forte, confusão, alucinações ou convulsão ao parar de beber.",
+      "Fala em morrer, violência ou mistura de álcool com calmantes.",
+      "Ligue 192 ou procure um pronto-socorro."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Minhas anotações",
+     "texto": "Grupos e serviços perto de mim. Limites que quero combinar em casa.",
+     "linhas_vazias": 5
+    }
+   ],
+   "ajuda": [
+    "Convulsão, confusão mental, falar coisas sem sentido ou não reconhecer pessoas.",
+    "Ver ou ouvir coisas que não existem, com agitação, suor intenso e tremor forte.",
+    "Vômitos que não param, vômito com sangue ou fezes pretas.",
+    "Andar cambaleando, olhos com movimentos estranhos e confusão (pode ser falta de vitamina B1).",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "Abordagem CRAFT (Smith e Meyers); NICE CG115"
+  }
+ ],
+ "Abstinência alcoólica": [
+  {
+   "id": "o-que-e-abstinencia-alcool",
+   "titulo": "Abstinência do álcool",
+   "subtitulo": "O que acontece no corpo quando a pessoa para de beber",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Quando uma pessoa bebe muito e por muito tempo, o cérebro se acostuma com o álcool. Se ela para ou reduz de repente, o cérebro fica \"acelerado\": é a **síndrome de abstinência**.\n\nNa maior parte das vezes o quadro é leve. Mas em algumas pessoas pode ser **grave**, com convulsões e **delirium tremens** (um estado de confusão mental intensa). Por isso parar de beber, para quem bebe muito, deve ser feito com acompanhamento."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Quando os sintomas aparecem",
+     "colunas": [
+      "Tempo após a última dose",
+      "O que pode acontecer"
+     ],
+     "linhas": [
+      [
+       "6 a 24 horas",
+       "Tremor, suor, ansiedade, enjoo, coração acelerado, insônia."
+      ],
+      [
+       "12 a 48 horas",
+       "Risco de **convulsão**. Algumas pessoas veem ou ouvem coisas que não existem."
+      ],
+      [
+       "48 a 96 horas",
+       "Risco de **delirium tremens**: confusão, agitação, alucinações, febre, suor intenso. É uma emergência."
+      ]
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Quem tem mais risco",
+     "itens": [
+      "Quem já teve convulsão ou delirium tremens em outra parada.",
+      "Quem bebe grande quantidade todos os dias há muito tempo.",
+      "Quem tem doença no fígado, infecção, pancreatite ou bateu a cabeça.",
+      "Quem também usa calmantes ou outras drogas.",
+      "Pessoas idosas."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "O tratamento principal usa **calmantes da família dos benzodiazepínicos** (como o diazepam) por poucos dias, em doses que vão diminuindo. Eles previnem convulsões e delirium. Também se dá **tiamina** (vitamina B1), que protege o cérebro, além de hidratação, alimentação e correção de sais minerais.\n\nQuadros leves podem ser tratados em casa ou no CAPS AD, com acompanhamento próximo. Quadros moderados a graves, ou em quem tem risco alto, precisam de **internação**."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Importante",
+     "texto": "O calmante usado na abstinência é para **poucos dias**. Não continue por conta própria nem misture com álcool: juntos, eles podem parar a respiração."
+    }
+   ],
+   "ajuda": [
+    "Convulsão, confusão mental, falar coisas sem sentido ou não reconhecer pessoas.",
+    "Ver ou ouvir coisas que não existem, com agitação, suor intenso e tremor forte.",
+    "Vômitos que não param, vômito com sangue ou fezes pretas.",
+    "Andar cambaleando, olhos com movimentos estranhos e confusão (pode ser falta de vitamina B1).",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "ASAM 2020 (manejo da abstinência alcoólica); NICE CG100"
+  },
+  {
+   "id": "sinais-perigo-abstinencia-alcool",
+   "titulo": "Sinais de abstinência perigosa",
+   "subtitulo": "Guia rápido para a família acompanhar a parada em casa",
+   "publico": "Família",
+   "figura": "semaforo",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Seu papel",
+     "texto": "Se a equipe combinou que a pessoa vai parar de beber em casa, ela **não deve ficar sozinha** nos primeiros dias, principalmente nos 3 a 4 primeiros. Você não precisa ser profissional de saúde. Basta observar, oferecer água e comida, dar os remédios como a equipe orientou e saber quando pedir ajuda."
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "O que observar",
+     "verde": [
+      "Tremor leve nas mãos, suor, ansiedade, enjoo leve, dificuldade para dormir.",
+      "Mantenha o ambiente calmo, ofereça líquidos e refeições leves e siga o plano da equipe."
+     ],
+     "amarelo": [
+      "Tremor que piora, coração muito acelerado, vômitos repetidos, não consegue comer nem beber líquidos.",
+      "Muito agitado ou ansioso, sem dormir nada.",
+      "Ligue para a equipe ou procure a UBS, o CAPS AD ou uma UPA no mesmo dia."
+     ],
+     "vermelho": [
+      "**Convulsão** (ataque, perda da consciência com tremores).",
+      "**Confusão**: não sabe onde está, não reconhece pessoas, fala coisas sem sentido.",
+      "Vê bichos ou pessoas que não existem, com agitação e suor intenso.",
+      "Febre, sonolência muito forte ou dificuldade para respirar.",
+      "Ligue **192 (SAMU)** imediatamente."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Se acontecer uma convulsão",
+     "itens": [
+      "Mantenha a calma e afaste objetos que possam machucar.",
+      "Deite a pessoa de lado e proteja a cabeça.",
+      "Não coloque nada na boca e não tente segurar os movimentos.",
+      "Ligue 192 e observe quanto tempo dura.",
+      "Fique junto até a pessoa acordar e a ajuda chegar."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Nos primeiros dias",
+     "sim": [
+      "Oferecer água, sucos e refeições leves várias vezes ao dia.",
+      "Deixar o quarto calmo, com pouca luz e pouco barulho.",
+      "Guardar os remédios e dar exatamente como a equipe orientou."
+     ],
+     "nao": [
+      "Deixar a pessoa sozinha, principalmente à noite.",
+      "Deixar dirigir, cozinhar no fogão ou subir em lugares altos.",
+      "Oferecer bebida \"para acalmar\" ou dar calmantes além do combinado."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Contatos",
+     "texto": "Equipe ou CAPS AD (telefone). Pronto-socorro mais perto. Remédios em uso e horários.",
+     "linhas_vazias": 5
+    }
+   ],
+   "ajuda": [
+    "Convulsão, confusão mental, falar coisas sem sentido ou não reconhecer pessoas.",
+    "Ver ou ouvir coisas que não existem, com agitação, suor intenso e tremor forte.",
+    "Vômitos que não param, vômito com sangue ou fezes pretas.",
+    "Andar cambaleando, olhos com movimentos estranhos e confusão (pode ser falta de vitamina B1).",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "ASAM 2020; NICE CG100"
+  }
+ ],
+ "Dependência de opioides": [
+  {
+   "id": "o-que-e-opioides",
+   "titulo": "Dependência de opioides",
+   "subtitulo": "O que é e por que o tratamento de manutenção salva vidas",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que são opioides",
+     "texto": "Opioides são substâncias que aliviam a dor e dão sensação de bem-estar. Incluem remédios (morfina, codeína, tramadol, oxicodona, fentanil, metadona) e drogas como a heroína.\n\nCom o uso repetido, o corpo se acostuma (**tolerância**) e passa a precisar da substância para não passar mal (**abstinência**). Na **dependência**, a pessoa perde o controle sobre o uso, mesmo com prejuízos. Isso pode começar até com um remédio receitado para dor."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "O tratamento mais eficaz é o **tratamento de manutenção com agonista**: um remédio de ação longa, como a **metadona**, tomado todos os dias com acompanhamento. Ele tira a abstinência e a fissura sem causar a \"onda\", e permite que a pessoa reorganize a vida.\n\nEsse tratamento **reduz as mortes pela metade**, além de diminuir o uso de drogas, infecções e problemas com a lei. Ele costuma durar **muito tempo**, às vezes anos. Não é \"trocar uma droga por outra\": é um remédio usado com dose certa, horário fixo e supervisão, como a insulina no diabetes.\n\nJunto com o remédio, a terapia, os grupos (como Narcóticos Anônimos) e o apoio social ajudam muito."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "O perigo da desintoxicação isolada",
+     "texto": "Só desintoxicar e parar tudo leva à recaída em mais de 9 em cada 10 pessoas. E depois de alguns dias sem usar, o corpo **perde a tolerância**: a mesma quantidade que a pessoa usava antes pode **matar por sobredose**."
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Quem toma metadona continua viciado.",
+       "fato": "A metadona em dose estável permite trabalhar, estudar e cuidar da família. Ela trata a doença e protege a vida."
+      },
+      {
+       "mito": "O bom é tirar a metadona o mais rápido possível.",
+       "fato": "Retiradas rápidas aumentam a recaída e a sobredose. Qualquer redução é planejada com a equipe, sem pressa."
+      },
+      {
+       "mito": "Se eu ficar bem, posso ajustar a dose sozinho.",
+       "fato": "Mudanças de dose só com a equipe. Tomar a mais, ou misturar com outras substâncias, pode parar a respiração."
+      }
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Cuidados com a metadona",
+     "itens": [
+      "Tome no horário combinado e **nunca** divida ou venda a sua dose: para quem não está acostumado, ela pode ser fatal.",
+      "Guarde longe de crianças. Uma pequena quantidade pode matar uma criança.",
+      "Evite álcool, calmantes (como clonazepam, diazepam) e remédios para dormir sem falar com a equipe.",
+      "Avise todos os médicos que você usa metadona. Ela interage com muitos remédios e pode alterar o ritmo do coração (a equipe pode pedir eletrocardiograma).",
+      "Avise se tiver desmaios, palpitações ou sonolência forte."
+     ]
+    }
+   ],
+   "ajuda": [
+    "Pessoa que não acorda, respira muito devagar ou ronca de forma estranha, com lábios ou unhas arroxeados: ligue 192 imediatamente.",
+    "Pupilas muito pequenas (como a ponta de um alfinete) junto com sonolência profunda.",
+    "Febre, dor no peito, falta de ar ou inchaço e vermelhidão no local de injeção.",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "OMS 2009 (tratamento assistido por fármacos na dependência de opioides); ASAM 2020"
+  },
+  {
+   "id": "sobredose-reducao-danos-opioides",
+   "titulo": "Sobredose: como prevenir e o que fazer",
+   "subtitulo": "Redução de danos para quem usa e para quem convive",
+   "publico": "Paciente e família",
+   "figura": "semaforo",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Redução de danos",
+     "texto": "**Redução de danos** é uma forma de cuidado que busca diminuir os riscos para quem ainda usa, sem exigir que a pessoa pare antes de receber ajuda. Estar vivo e com saúde é o primeiro passo para qualquer mudança."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Quando o risco de sobredose é maior",
+     "itens": [
+      "**Depois de um tempo sem usar** (internação, prisão, desintoxicação): a tolerância cai.",
+      "Misturar com **álcool, calmantes** (benzodiazepínicos) ou gabapentina/pregabalina.",
+      "Usar sozinho, trancado ou em lugar desconhecido.",
+      "Droga de origem desconhecida, que pode conter **fentanil** (muito mais forte).",
+      "Trocar a forma de uso (por exemplo, passar a injetar)."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para usar com menos risco",
+     "sim": [
+      "Não usar sozinho. Se usar, avise alguém.",
+      "Começar com quantidade menor, principalmente depois de um tempo sem usar.",
+      "Usar material novo e próprio. Não compartilhar agulhas, seringas ou cachimbos.",
+      "Fazer testes de HIV, hepatites e sífilis na UBS ou no CAPS AD."
+     ],
+     "nao": [
+      "Misturar opioides com álcool ou calmantes.",
+      "Usar remédio de outra pessoa.",
+      "Ficar sem procurar ajuda por medo: o cuidado no SUS é sigiloso."
+     ]
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Reconheça uma sobredose",
+     "verde": [
+      "Sonolência leve, mas acorda e conversa normalmente."
+     ],
+     "amarelo": [
+      "Muito sonolento, \"cochilando\" no meio da frase, fala enrolada.",
+      "Não deixe sozinho, mantenha acordado e observe a respiração."
+     ],
+     "vermelho": [
+      "Não acorda quando chamado ou sacudido.",
+      "Respiração muito lenta, parada ou com ronco estranho.",
+      "Lábios e unhas arroxeados, pupilas muito pequenas.",
+      "Ligue **192** agora."
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "O que fazer numa sobredose",
+     "itens": [
+      "Chame a pessoa em voz alta e esfregue o meio do peito com força.",
+      "Se não acordar, ligue **192 (SAMU)** e diga que a pessoa não responde e respira mal.",
+      "Se tiver **naloxona** (o remédio que reverte a sobredose) e souber usar, aplique conforme orientado.",
+      "Se não estiver respirando, siga as orientações do SAMU para respiração ou massagem no peito.",
+      "Se respirar, deite de lado (posição de recuperação) e não saia de perto.",
+      "O efeito da naloxona pode passar antes do efeito do opioide: a pessoa **precisa ser avaliada** no hospital."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Naloxona",
+     "texto": "Pergunte à sua equipe se existe acesso à naloxona e peça que ensinem você e sua família a usá-la."
+    }
+   ],
+   "ajuda": [
+    "Pessoa que não acorda, respira muito devagar ou ronca de forma estranha, com lábios ou unhas arroxeados: ligue 192 imediatamente.",
+    "Pupilas muito pequenas (como a ponta de um alfinete) junto com sonolência profunda.",
+    "Febre, dor no peito, falta de ar ou inchaço e vermelhidão no local de injeção.",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "OMS 2014 (manejo comunitário da sobredose de opioides); ASAM 2020"
+  },
+  {
+   "id": "prevencao-recaida-opioides",
+   "titulo": "Prevenção de recaída",
+   "subtitulo": "Gatilhos, fissura e um plano para os momentos difíceis",
+   "publico": "Paciente",
+   "figura": "onda-fissura",
+   "figura_legenda": "A fissura sobe e desce como uma onda. Em geral dura de 15 a 30 minutos.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A fissura passa",
+     "texto": "A vontade forte de usar costuma vir em ondas. Parece que não vai passar, mas passa. Atravessar cada onda sem usar fortalece você para a próxima.\n\nSe a fissura for frequente e intensa mesmo em tratamento, **conte para a equipe**: pode ser sinal de que a dose do remédio de manutenção precisa ser revista."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meus gatilhos e minhas saídas",
+     "colunas": [
+      "Gatilho",
+      "Sinal de alerta em mim",
+      "O que vou fazer"
+     ],
+     "linhas": [
+      [
+       "Ex.: encontrar antigos parceiros de uso",
+       "Começo a pensar em \"só uma vez\"",
+       "Mudo o caminho e ligo para meu padrinho"
+      ]
+     ],
+     "linhas_vazias": 5
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Minha rotina de proteção",
+     "itens": [
+      "Tomei meu remédio no horário.",
+      "Fui à consulta, ao CAPS AD ou ao grupo desta semana.",
+      "Evitei lugares e pessoas ligados ao uso.",
+      "Comi, dormi e me movimentei.",
+      "Falei com alguém de apoio sobre como estou.",
+      "Cuidei da dor física com a equipe, sem automedicação."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Se houver um lapso",
+     "texto": "Use **menos**, **não use sozinho**, não misture com álcool ou calmantes, e volte ao tratamento o quanto antes. Um lapso não apaga o que você conquistou."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meu plano",
+     "texto": "Meus motivos para continuar. Pessoas e serviços que posso procurar (nomes e telefones).",
+     "linhas_vazias": 6
+    }
+   ],
+   "ajuda": [
+    "Pessoa que não acorda, respira muito devagar ou ronca de forma estranha, com lábios ou unhas arroxeados: ligue 192 imediatamente.",
+    "Pupilas muito pequenas (como a ponta de um alfinete) junto com sonolência profunda.",
+    "Febre, dor no peito, falta de ar ou inchaço e vermelhidão no local de injeção.",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "Marlatt e Gordon (prevenção de recaída); ASAM 2020"
+  }
+ ],
+ "Abstinência de opioides": [
+  {
+   "id": "o-que-e-abstinencia-opioides",
+   "titulo": "Abstinência de opioides",
+   "subtitulo": "O que esperar e como atravessar com mais segurança",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "Quando alguém que usa opioides todos os dias para ou reduz de repente, o corpo reage com a **abstinência**. É um quadro muito desconfortável, parecido com uma gripe forte com diarreia, mas **raramente põe a vida em risco** em adultos saudáveis. O perigo maior vem depois: a vontade de usar e a sobredose por perda de tolerância."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Sintomas comuns",
+     "itens": [
+      "Nariz escorrendo, olhos lacrimejando, bocejos.",
+      "Arrepios, suor, pupilas dilatadas.",
+      "Dores no corpo, cólicas, diarreia, enjoo e vômitos.",
+      "Ansiedade, irritação, tristeza, insônia.",
+      "Vontade intensa de usar."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Tempo aproximado",
+     "texto": "Varia conforme a substância e a pessoa.",
+     "colunas": [
+      "Tipo de opioide",
+      "Quando começa",
+      "Quanto dura"
+     ],
+     "linhas": [
+      [
+       "Ação curta (heroína, morfina, tramadol)",
+       "6 a 12 horas após a última dose",
+       "Pior em 1 a 3 dias, melhora em cerca de 1 semana"
+      ],
+      [
+       "Ação longa (metadona)",
+       "1 a 2 dias",
+       "Pode durar 2 semanas ou mais"
+      ],
+      [
+       "Após a fase aguda",
+       "",
+       "Cansaço, insônia, desânimo e fissura podem durar semanas"
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "A forma mais eficaz é usar um opioide de ação longa, como a **metadona**, com redução gradual e acompanhamento, ou já iniciar o tratamento de manutenção. Remédios como a **clonidina** aliviam suor, ansiedade e coração acelerado; outros ajudam na diarreia, nas dores e no sono.\n\nA equipe pode discutir também a manutenção com metadona ou, para quem está muito motivado, a naltrexona depois da desintoxicação completa."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Durante a abstinência",
+     "sim": [
+      "Beber bastante líquido (água, soro caseiro ou de farmácia) para não desidratar.",
+      "Comer pouco e várias vezes.",
+      "Ter alguém por perto.",
+      "Tomar só os remédios que a equipe indicou."
+     ],
+     "nao": [
+      "Tomar calmantes ou beber álcool para aliviar: aumenta o risco de parar a respiração.",
+      "Voltar a usar a quantidade antiga depois de alguns dias sem usar."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Depois da desintoxicação",
+     "texto": "Desintoxicar é só o começo. Sem um tratamento de continuidade, a recaída é muito comum e a **sobredose é mais provável**, porque o corpo perdeu a tolerância. Combine com a equipe o próximo passo antes de terminar."
+    }
+   ],
+   "ajuda": [
+    "Pessoa que não acorda, respira muito devagar ou ronca de forma estranha, com lábios ou unhas arroxeados: ligue 192 imediatamente.",
+    "Pupilas muito pequenas (como a ponta de um alfinete) junto com sonolência profunda.",
+    "Febre, dor no peito, falta de ar ou inchaço e vermelhidão no local de injeção.",
+    "Pensamentos de se machucar ou de não querer viver.",
+    "Vômitos ou diarreia que impedem de beber líquidos, tontura ao levantar, pouca urina (desidratação)."
+   ],
+   "fonte": "OMS 2009; ASAM 2020"
+  },
+  {
+   "id": "abstinencia-opioides-familia",
+   "titulo": "Para a família: acompanhar a abstinência",
+   "subtitulo": "Como apoiar nos dias difíceis e proteger depois",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Os primeiros dias",
+     "texto": "A pessoa vai se sentir muito mal, irritada e com vontade de usar. Isso **faz parte** da abstinência e não é falta de esforço. Um ambiente calmo e acolhedor faz diferença."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Como ajudar no dia a dia",
+     "itens": [
+      "Deixar água, soro e comida leve sempre à mão.",
+      "Organizar os remédios da equipe nos horários combinados.",
+      "Oferecer banho morno, cobertor e um lugar tranquilo para descansar.",
+      "Ajudar a distrair com conversa, filmes ou uma caminhada curta.",
+      "Anotar sintomas que preocupam para contar à equipe.",
+      "Guardar em local trancado remédios da casa, principalmente calmantes e remédios para dor."
+     ]
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Quando buscar ajuda",
+     "verde": [
+      "Mal-estar, dores, diarreia leve, insônia, irritação.",
+      "Continue o cuidado em casa conforme o plano."
+     ],
+     "amarelo": [
+      "Vômitos ou diarreia intensos, não consegue beber líquidos, muito fraco.",
+      "Fala em desistir do tratamento ou em voltar a usar.",
+      "Ligue para a equipe ou procure a UBS, o CAPS AD ou uma UPA."
+     ],
+     "vermelho": [
+      "Não acorda, respira devagar ou está arroxeado (pode ter usado e ter sobredose).",
+      "Fala em morrer ou em se machucar.",
+      "Ligue **192**."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "O momento de mais risco",
+     "texto": "Se a pessoa voltar a usar depois de alguns dias sem usar, a mesma quantidade de antes pode causar sobredose. Converse sobre isso abertamente, sem julgamento, e combinem que ela **não use sozinha**."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Cuide de você também",
+     "texto": "Grupos de familiares, como os ligados a Narcóticos Anônimos, e o acolhimento de familiares nos CAPS AD podem ajudar a lidar com o cansaço e o medo."
+    }
+   ],
+   "ajuda": [
+    "Pessoa que não acorda, respira muito devagar ou ronca de forma estranha, com lábios ou unhas arroxeados: ligue 192 imediatamente.",
+    "Pupilas muito pequenas (como a ponta de um alfinete) junto com sonolência profunda.",
+    "Febre, dor no peito, falta de ar ou inchaço e vermelhidão no local de injeção.",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "OMS 2009; abordagem CRAFT (Smith e Meyers)"
+  }
+ ],
+ "Tabagismo": [
+  {
+   "id": "parar-de-fumar-passo-a-passo",
+   "titulo": "Parar de fumar passo a passo",
+   "subtitulo": "Do dia D às primeiras semanas sem cigarro",
+   "publico": "Paciente",
+   "figura": "onda-fissura",
+   "figura_legenda": "A vontade de fumar vem em ondas e passa em poucos minutos, mesmo sem acender o cigarro.",
+   "figura_posicao": "fim",
+   "blocos": [
+    {
+     "tipo": "destaque",
+     "titulo": "Vale a pena, sempre",
+     "texto": "Parar de fumar traz benefícios em qualquer idade. E, ao contrário do que muitos pensam, **parar costuma melhorar a ansiedade e o humor** depois das primeiras semanas. Com apoio e remédio, as chances de conseguir dobram ou triplicam."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "O caminho",
+     "itens": [
+      "**Escolha o dia D:** uma data nas próximas 2 a 4 semanas, de preferência um dia mais tranquilo. Marque no calendário e conte para pessoas próximas.",
+      "**Prepare-se:** anote quando e por que você fuma. Esses são seus gatilhos (café, depois das refeições, estresse, bebida).",
+      "**Combine o remédio com a equipe:** muitos começam a reposição de nicotina no dia D. A bupropiona começa 1 a 2 semanas antes.",
+      "**Na véspera:** jogue fora cigarros, isqueiros e cinzeiros. Lave roupas e limpe o carro.",
+      "**No dia D:** nenhum cigarro, nem uma tragada. Use a reposição como orientado e mude a rotina (troque o café por suco, levante da mesa logo após comer).",
+      "**Primeiras semanas:** a vontade é mais forte nos primeiros dias e diminui com o tempo. Beba água, mastigue algo, caminhe, respire devagar.",
+      "**Continue o tratamento** pelo tempo combinado, mesmo se estiver bem."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Reposição de nicotina: como usar",
+     "texto": "A dose é definida pela equipe conforme quanto você fuma. Não ajuste por conta.",
+     "colunas": [
+      "Forma",
+      "Como usar",
+      "Dica"
+     ],
+     "linhas": [
+      [
+       "**Adesivo**",
+       "Cole um por dia na pele sem pelos (braço, costas, peito). Troque o local todo dia.",
+       "Se atrapalhar o sono ou der sonhos vívidos, pergunte se pode tirar à noite."
+      ],
+      [
+       "**Goma (chiclete)**",
+       "Mastigue devagar até sentir um formigamento, depois \"estacione\" entre a bochecha e a gengiva. Repita por cerca de 30 minutos.",
+       "Mastigar como chiclete comum causa enjoo e soluço. Evite café e refrigerante 15 minutos antes."
+      ],
+      [
+       "**Pastilha**",
+       "Deixe dissolver na boca, mudando de lado. Não mastigue nem engula.",
+       "Útil para as vontades súbitas, junto com o adesivo."
+      ]
+     ]
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Sintomas de abstinência (passam em 2 a 4 semanas)",
+     "itens": [
+      "Irritação, ansiedade, dificuldade de concentração.",
+      "Vontade forte de fumar, mais apetite, insônia.",
+      "Tosse temporária, prisão de ventre."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Dicas",
+     "sim": [
+      "Procure o **Programa Nacional de Controle do Tabagismo** na sua UBS: oferece grupos, adesivo, goma, pastilha e bupropiona pelo SUS.",
+      "Faça atividade física e tenha lanches saudáveis à mão.",
+      "Se escorregar, não desista: volte no mesmo dia."
+     ],
+     "nao": [
+      "Achar que \"um só\" não faz mal: um cigarro costuma trazer outros.",
+      "Trocar o cigarro por narguilé ou cigarro eletrônico sem conversar com a equipe.",
+      "Beber álcool nas primeiras semanas: é um gatilho forte."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meu plano",
+     "texto": "Meu dia D. Meus motivos para parar. O que farei no lugar do cigarro.",
+     "linhas_vazias": 5
+    }
+   ],
+   "fonte": "INCA e Ministério da Saúde (Protocolo Clínico e Diretrizes Terapêuticas do Tabagismo); NICE NG209"
+  },
+  {
+   "id": "fumar-e-saude-mental",
+   "titulo": "Cigarro e saúde mental",
+   "subtitulo": "Por que parar é possível e o que muda nos remédios",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Um problema comum e sério",
+     "texto": "Pessoas com depressão, esquizofrenia, transtorno bipolar e outros transtornos mentais fumam mais e morrem mais cedo, principalmente por doenças ligadas ao cigarro (coração, pulmão, câncer). O cigarro é a **principal causa evitável de morte** nesse grupo."
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "O cigarro me acalma.",
+       "fato": "O alívio é da abstinência que o próprio cigarro criou. Depois de algumas semanas sem fumar, ansiedade e humor em geral melhoram."
+      },
+      {
+       "mito": "Quem tem transtorno mental não consegue parar.",
+       "fato": "Consegue, sim. Com apoio e remédio, as taxas de sucesso são parecidas com as de outras pessoas."
+      },
+      {
+       "mito": "Parar vai piorar minha doença.",
+       "fato": "Estudos grandes mostram que o tratamento para parar de fumar é seguro para pessoas com transtornos mentais estáveis. A equipe acompanha de perto."
+      }
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Atenção aos remédios",
+     "texto": "A fumaça do cigarro acelera a eliminação de alguns remédios, como **clozapina, olanzapina**, fluvoxamina, duloxetina e outros. Quando a pessoa para de fumar, o nível desses remédios no sangue **sobe**, mesmo usando adesivo de nicotina. Pode surgir sonolência, tontura, salivação ou outros efeitos. **Avise a equipe antes de parar**, para que a dose seja ajustada."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Avise a equipe se, depois de parar de fumar, surgir",
+     "itens": [
+      "Sonolência forte, tontura, confusão ou fala enrolada.",
+      "Muita saliva, tremor ou movimentos estranhos.",
+      "Piora do humor, agitação ou pensamentos estranhos.",
+      "Com clozapina: qualquer convulsão é emergência."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para a família",
+     "sim": [
+      "Apoiar a decisão e comemorar cada semana sem cigarro.",
+      "Não fumar dentro de casa ou perto da pessoa.",
+      "Ajudar a notar os efeitos acima e avisar a equipe."
+     ],
+     "nao": [
+      "Oferecer cigarro como recompensa ou para \"acalmar\".",
+      "Criticar se houver lapso: incentive a tentar de novo."
+     ]
+    }
+   ],
+   "ajuda": [
+    "Convulsão, desmaio ou confusão mental depois de parar de fumar, especialmente em quem usa clozapina.",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "Ensaio EAGLES (Anthony e cols., 2016); NICE NG209; INCA"
+  },
+  {
+   "id": "balanca-decisao-fumar",
+   "titulo": "Minha balança: fumar ou parar",
+   "subtitulo": "Colocar no papel ajuda a decidir",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Como usar",
+     "texto": "É normal ter sentimentos misturados: uma parte de você quer parar e outra não. Preencha a tabela com calma, com as suas palavras. Não existe resposta certa. Depois, olhe o conjunto e pense no que pesa mais para você."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Minha balança",
+     "colunas": [
+      "",
+      "Coisas boas",
+      "Coisas ruins"
+     ],
+     "linhas": [
+      [
+       "**Continuar fumando**",
+       "",
+       ""
+      ],
+      [
+       "**Parar de fumar**",
+       "",
+       ""
+      ]
+     ],
+     "linhas_vazias": 0
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Quanto eu gasto",
+     "texto": "Faça a conta e pense no que poderia fazer com esse dinheiro.",
+     "colunas": [
+      "Maços por dia",
+      "Preço do maço",
+      "Gasto por mês",
+      "Gasto por ano"
+     ],
+     "linhas": [],
+     "linhas_vazias": 2
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "De 0 a 10",
+     "colunas": [
+      "Pergunta",
+      "Minha nota (0 a 10)"
+     ],
+     "linhas": [
+      [
+       "Quanto é importante para mim parar de fumar?",
+       ""
+      ],
+      [
+       "Quanto eu me sinto confiante de que consigo?",
+       ""
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "E agora?",
+     "texto": "Se a sua nota de confiança for baixa, pergunte a si mesmo: o que me ajudaria a subir 1 ou 2 pontos? Pode ser um remédio, um grupo, uma pessoa, um tratamento anterior que funcionou em parte. Leve esta folha para a próxima consulta."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "O que me faria subir a nota",
+     "linhas_vazias": 4
+    }
+   ],
+   "fonte": "Miller e Rollnick (entrevista motivacional); INCA"
+  }
+ ],
+ "Cocaína e estimulantes": [
+  {
+   "id": "o-que-e-estimulantes",
+   "titulo": "Cocaína, crack e estimulantes",
+   "subtitulo": "O que acontece no cérebro e como se trata",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que são",
+     "texto": "Estimulantes são substâncias que \"aceleram\" o cérebro e o corpo: **cocaína** (pó), **crack**, anfetaminas e metanfetamina, e alguns remédios para emagrecer ou para TDAH quando usados fora da orientação médica.\n\nEles dão energia e euforia por pouco tempo. Depois vem a \"queda\": cansaço, tristeza, irritação e uma **fissura** muito forte, que puxa para usar de novo. No crack esse ciclo é muito rápido, o que explica por que é tão difícil parar."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Riscos para a saúde",
+     "itens": [
+      "Coração: infarto, arritmias e derrame, mesmo em pessoas jovens.",
+      "Mente: ansiedade, pânico, desconfiança intensa, alucinações (psicose), depressão depois do uso.",
+      "Nariz, pulmões, dentes e pele machucados.",
+      "Infecções como HIV, hepatites e sífilis.",
+      "Problemas de dinheiro, trabalho e relacionamentos."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "Ainda não existe um remédio aprovado que trate diretamente a dependência de cocaína ou crack. Mas **existe tratamento, e ele funciona**:\n\n**Manejo de contingências:** a pessoa ganha incentivos (vales, prêmios) quando os exames mostram que ela não usou. É a estratégia com melhor resultado nos estudos.\n\n**Terapia:** entrevista motivacional e TCC ajudam a entender os gatilhos e a atravessar a fissura.\n\n**Tratar o que vem junto:** depressão, ansiedade, TDAH, insônia e outros problemas, com remédios quando indicado.\n\n**Apoio social:** CAPS AD, Narcóticos Anônimos, moradia, trabalho e família."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "A abstinência de estimulantes",
+     "texto": "Ao parar, é comum sentir muito sono, fome, cansaço e tristeza por alguns dias. A tristeza pode ser intensa. Se surgirem pensamentos de morte, **peça ajuda na hora**."
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Quem usa crack não tem recuperação.",
+       "fato": "Muitas pessoas se recuperam. Quanto mais apoio e tratamento, maiores as chances."
+      },
+      {
+       "mito": "Só precisa de internação.",
+       "fato": "Internação ajuda em crises, mas a recuperação acontece principalmente no dia a dia, com acompanhamento contínuo."
+      }
+     ]
+    }
+   ],
+   "ajuda": [
+    "Dor ou aperto no peito, falta de ar ou coração muito disparado.",
+    "Convulsão, desmaio, fraqueza de um lado do corpo, fala enrolada ou dor de cabeça muito forte e súbita.",
+    "Febre alta, corpo muito quente e agitação intensa.",
+    "Desconfiança extrema, ver ou ouvir coisas, agressividade.",
+    "Pensamentos de se machucar ou de não querer viver, comuns na \"fissura\" e na \"ressaca\" depois do uso."
+   ],
+   "fonte": "NICE CG51; revisões Cochrane de manejo de contingências; DSM-5-TR"
+  },
+  {
+   "id": "reducao-danos-estimulantes",
+   "titulo": "Redução de danos",
+   "subtitulo": "Cuidar da vida e da saúde enquanto o uso continua",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que falar disso",
+     "texto": "Nem todo mundo consegue ou quer parar de uma vez. **Redução de danos** é cuidar para que o uso cause o menor prejuízo possível, enquanto você decide os próximos passos. Você merece cuidado em qualquer fase."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Cuidados práticos",
+     "sim": [
+      "Usar menos quantidade e com intervalos maiores.",
+      "Beber água, comer e dormir. Passar dias sem comer e sem dormir aumenta muito os riscos.",
+      "Usar material próprio: canudo, cachimbo e piteira só seus (compartilhar transmite hepatite).",
+      "Cuidar dos lábios e do nariz: manteiga de cacau, soro fisiológico.",
+      "Usar preservativo e fazer testes de HIV, sífilis e hepatites na UBS ou no CAPS AD.",
+      "Estar com alguém de confiança e ter um combinado de como voltar para casa."
+     ],
+     "nao": [
+      "Misturar com álcool: a combinação forma uma substância mais tóxica para o coração.",
+      "Misturar com outros estimulantes, energéticos ou remédios sem saber a interação.",
+      "Usar sozinho ou em lugares perigosos.",
+      "Dirigir sob efeito.",
+      "Usar se tiver problema no coração, pressão alta ou estiver grávida sem conversar com a equipe."
+     ]
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Sinais de alerta durante o uso",
+     "verde": [
+      "Sente-se bem, conversa normalmente, consegue parar para comer e descansar."
+     ],
+     "amarelo": [
+      "Coração muito acelerado, ansiedade forte, desconfiança, sem dormir há mais de um dia.",
+      "Pare de usar, vá para um lugar calmo e fresco, beba água e peça companhia."
+     ],
+     "vermelho": [
+      "Dor no peito, falta de ar, convulsão, febre alta, confusão, alucinações ou agressividade.",
+      "Ligue **192**. No atendimento, conte o que foi usado: isso ajuda a salvar vidas."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Onde buscar apoio sem julgamento",
+     "texto": "O **CAPS AD** atende pessoas que usam álcool e outras drogas, inclusive quem ainda não parou. O atendimento no SUS é **sigiloso**. A UBS também pode acolher e encaminhar."
+    }
+   ],
+   "ajuda": [
+    "Dor ou aperto no peito, falta de ar ou coração muito disparado.",
+    "Convulsão, desmaio, fraqueza de um lado do corpo, fala enrolada ou dor de cabeça muito forte e súbita.",
+    "Febre alta, corpo muito quente e agitação intensa.",
+    "Desconfiança extrema, ver ou ouvir coisas, agressividade.",
+    "Pensamentos de se machucar ou de não querer viver, comuns na \"fissura\" e na \"ressaca\" depois do uso."
+   ],
+   "fonte": "Ministério da Saúde (política de redução de danos); NICE CG51"
+  },
+  {
+   "id": "fissura-estimulantes",
+   "titulo": "Surfando a fissura",
+   "subtitulo": "Um plano para os momentos de vontade forte",
+   "publico": "Paciente",
+   "figura": "onda-fissura",
+   "figura_legenda": "Como uma onda: sobe, chega ao pico e desce. Em geral passa em 15 a 30 minutos.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "A fissura é forte, mas passa",
+     "texto": "Com estimulantes, a fissura pode ser muito intensa e vir de repente, por exemplo ao receber dinheiro, ver um lugar de uso ou sentir cheiro de algo ligado à droga. Saber que ela **tem começo, meio e fim** ajuda a não agir no impulso."
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Quando a onda vier",
+     "itens": [
+      "**Perceba e nomeie:** \"estou com fissura, ela vai passar\".",
+      "**Afaste-se** do gatilho: saia do lugar, desligue a conversa, guarde o dinheiro.",
+      "**Adie 20 minutos** e faça outra coisa: banho frio, caminhada, comer algo, ligar para alguém.",
+      "**Respire devagar:** puxe o ar em 4 segundos, segure 2, solte em 6. Repita algumas vezes.",
+      "**Lembre** das consequências do último uso e dos seus motivos para mudar.",
+      "**Parabenize-se** quando a onda passar. Isso fortalece você para a próxima."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meus gatilhos",
+     "colunas": [
+      "Gatilho",
+      "Como vou me proteger"
+     ],
+     "linhas": [
+      [
+       "Ex.: dia do pagamento",
+       "Deixar o cartão com alguém de confiança, pagar contas no mesmo dia"
+      ]
+     ],
+     "linhas_vazias": 5
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Proteções que posso combinar",
+     "itens": [
+      "Limitar o dinheiro que ando na carteira.",
+      "Apagar contatos de quem vende.",
+      "Mudar trajetos que passam por locais de uso.",
+      "Ter uma pessoa para ligar a qualquer hora.",
+      "Ir ao CAPS AD ou grupo nos dias e horários de mais risco."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Pessoas e lugares de apoio",
+     "linhas_vazias": 4
+    }
+   ],
+   "ajuda": [
+    "Dor ou aperto no peito, falta de ar ou coração muito disparado.",
+    "Convulsão, desmaio, fraqueza de um lado do corpo, fala enrolada ou dor de cabeça muito forte e súbita.",
+    "Febre alta, corpo muito quente e agitação intensa.",
+    "Desconfiança extrema, ver ou ouvir coisas, agressividade.",
+    "Pensamentos de se machucar ou de não querer viver, comuns na \"fissura\" e na \"ressaca\" depois do uso."
+   ],
+   "fonte": "Marlatt e Gordon (prevenção de recaída); NICE CG51"
+  }
+ ],
+ "Dependência de benzodiazepínicos": [
+  {
+   "id": "o-que-sao-benzodiazepinicos",
+   "titulo": "Calmantes: quando o uso vira dependência",
+   "subtitulo": "O que são os benzodiazepínicos e por que rever o uso prolongado",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que são",
+     "texto": "Os **benzodiazepínicos** são remédios usados para ansiedade, insônia e convulsões. Alguns nomes comuns: clonazepam, diazepam, alprazolam, lorazepam, bromazepam. Remédios para dormir como o zolpidem têm riscos parecidos.\n\nEles funcionam bem por **pouco tempo** (em geral poucas semanas). Com o uso prolongado, o corpo se acostuma: o efeito diminui (**tolerância**) e a pessoa passa mal quando tenta parar (**dependência física**). Isso não quer dizer que você fez algo errado: acontece com muita gente que usa pelo tempo que foi receitado."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Problemas do uso por muito tempo",
+     "itens": [
+      "Memória e concentração piores, sensação de \"lentidão\".",
+      "Mais **quedas** e fraturas, principalmente em idosos.",
+      "Mais acidentes de trânsito.",
+      "Ansiedade e insônia que voltam entre as doses.",
+      "Risco grave quando misturado com álcool ou opioides: a respiração pode parar."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "A boa notícia",
+     "texto": "Com uma **redução lenta e planejada**, a maioria das pessoas consegue diminuir ou parar. Muitas relatam que ficam mais atentas, dormem de forma mais natural e têm menos quedas. A equipe também pode oferecer tratamentos que cuidam da ansiedade e da insônia por outros caminhos, como a terapia cognitivo-comportamental."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Nunca pare de repente",
+     "texto": "Parar de uma vez, principalmente depois de usar doses altas por muito tempo, pode causar **convulsões** e confusão mental. A retirada deve ser feita **aos poucos, com a equipe**."
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Se eu tomo do jeito que o médico mandou, não posso ficar dependente.",
+       "fato": "A dependência física pode acontecer mesmo com o uso receitado, depois de algumas semanas."
+      },
+      {
+       "mito": "Sem o calmante eu nunca mais vou dormir.",
+       "fato": "O sono se reorganiza com o tempo, e existem técnicas eficazes para insônia sem remédio."
+      }
+     ]
+    }
+   ],
+   "ajuda": [
+    "Convulsão, confusão mental ou alucinações durante a redução.",
+    "Sonolência muito forte, respiração lenta ou dificuldade para acordar, principalmente se misturou com álcool ou opioides.",
+    "Queda com batida na cabeça em pessoa idosa.",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "Diretriz conjunta de retirada de benzodiazepínicos (ASAM e sociedades parceiras, 2025); NICE NG215"
+  },
+  {
+   "id": "reducao-benzodiazepinico",
+   "titulo": "Como reduzir o calmante com segurança",
+   "subtitulo": "Devagar se vai longe",
+   "publico": "Paciente",
+   "figura": "reducao-gradual",
+   "figura_legenda": "A dose desce em pequenos degraus, com pausas. A velocidade é ajustada ao seu ritmo.",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Como funciona",
+     "texto": "Você e a equipe montam um plano de redução. Em geral a dose cai em **pequenos degraus** a cada 2 a 4 semanas. O processo costuma levar **meses**, e está tudo bem. Às vezes a equipe troca o remédio por outro de efeito mais longo (como diazepam ou clonazepam), que facilita reduções suaves.\n\nNo final, os degraus costumam ficar ainda menores, porque as últimas reduções podem ser as mais difíceis."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "O que pode aparecer a cada degrau",
+     "texto": "Esses sintomas costumam ser leves e passageiros, e melhoram em alguns dias.",
+     "itens": [
+      "Ansiedade, irritação, inquietação.",
+      "Dificuldade para dormir.",
+      "Tremor, suor, coração acelerado.",
+      "Sensibilidade maior a luz e barulho, dores musculares."
+     ]
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Durante a redução",
+     "sim": [
+      "Seguir exatamente o plano combinado.",
+      "Anotar os sintomas na tabela abaixo e levar às consultas.",
+      "Se ficar difícil, pedir para **pausar** no degrau atual: pausar não é fracassar.",
+      "Praticar técnicas de relaxamento, atividade física e rotina de sono.",
+      "Contar com alguém de confiança para apoio."
+     ],
+     "nao": [
+      "Pular degraus ou acelerar por conta própria.",
+      "Voltar à dose antiga sem falar com a equipe.",
+      "Compensar com álcool, remédios de outras pessoas ou outros calmantes.",
+      "Parar tudo de uma vez."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu diário da redução",
+     "texto": "Preencha a dose que a equipe combinou e dê uma nota de 0 a 10 para os sintomas.",
+     "colunas": [
+      "Data",
+      "Dose combinada",
+      "Ansiedade (0 a 10)",
+      "Sono (0 a 10)",
+      "Outros sintomas"
+     ],
+     "linhas": [],
+     "linhas_vazias": 10
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Lembre",
+     "texto": "O objetivo é chegar ao fim com segurança, não com pressa. Muitas pessoas conseguem. Você pode ser uma delas."
+    }
+   ],
+   "ajuda": [
+    "Convulsão, confusão mental ou alucinações durante a redução.",
+    "Sonolência muito forte, respiração lenta ou dificuldade para acordar, principalmente se misturou com álcool ou opioides.",
+    "Queda com batida na cabeça em pessoa idosa.",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "Diretriz conjunta de retirada de benzodiazepínicos (2025); Ashton (manual de retirada de benzodiazepínicos); NICE NG215"
+  },
+  {
+   "id": "benzodiazepinico-familia",
+   "titulo": "Para a família: apoiar a retirada do calmante",
+   "subtitulo": "O que observar e como ajudar",
+   "publico": "Família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Seu apoio faz diferença",
+     "texto": "Reduzir um calmante usado há anos pode ser difícil. A pessoa pode ficar mais ansiosa, irritada ou dormir mal por alguns dias após cada redução. Paciência e encorajamento ajudam muito."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Como ajudar",
+     "itens": [
+      "Ajudar a organizar os comprimidos (uma caixinha semanal facilita).",
+      "Guardar os remédios longe de crianças e de outras pessoas da casa.",
+      "Incentivar caminhadas, rotina de sono e atividades prazerosas.",
+      "Evitar álcool em casa durante o período de redução.",
+      "Ir junto às consultas, se a pessoa quiser."
+     ]
+    },
+    {
+     "tipo": "semaforo",
+     "titulo": "Sinais de alerta",
+     "verde": [
+      "Um pouco mais ansiosa ou com sono ruim por alguns dias após cada redução.",
+      "Encoraje e siga o plano."
+     ],
+     "amarelo": [
+      "Sintomas fortes que não melhoram em uma semana, muito tremor, pânico, sem dormir.",
+      "Usando comprimidos a mais, de outras pessoas, ou bebendo álcool.",
+      "Avise a equipe: o plano pode precisar de uma pausa."
+     ],
+     "vermelho": [
+      "Convulsão, confusão, alucinações.",
+      "Sonolência profunda e respiração lenta.",
+      "Fala em morrer ou em se machucar.",
+      "Ligue **192**."
+     ]
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Em idosos",
+     "texto": "Em pessoas idosas, a redução do calmante costuma **diminuir quedas e melhorar a memória**. Durante o processo, redobre os cuidados com tapetes, escadas e banheiro."
+    }
+   ],
+   "ajuda": [
+    "Convulsão, confusão mental ou alucinações durante a redução.",
+    "Sonolência muito forte, respiração lenta ou dificuldade para acordar, principalmente se misturou com álcool ou opioides.",
+    "Queda com batida na cabeça em pessoa idosa.",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "Diretriz conjunta de retirada de benzodiazepínicos (2025); Critérios de Beers (AGS 2023)"
+  }
+ ],
+ "Cannabis": [
+  {
+   "id": "o-que-e-cannabis",
+   "titulo": "Maconha: riscos, dependência e tratamento",
+   "subtitulo": "Informação honesta para decidir melhor",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Pode causar dependência?",
+     "texto": "Sim. Uma parte das pessoas que usam maconha desenvolve o **transtorno por uso de cannabis**: usa mais do que queria, não consegue diminuir, deixa de lado estudos, trabalho ou relações, e continua mesmo com prejuízos. O risco é maior em quem começa jovem e usa todos os dias, e com produtos de **THC alto** (a substância que dá a \"onda\")."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Riscos para a saúde mental",
+     "itens": [
+      "Piora da memória, da atenção e da motivação, principalmente no uso diário.",
+      "Ansiedade e crises de pânico.",
+      "Pode desencadear ou piorar **psicoses** (ver ou ouvir coisas, desconfiança), sobretudo em quem tem histórico familiar.",
+      "Piora do transtorno bipolar e da depressão.",
+      "O cérebro de adolescentes e jovens é mais sensível."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "A abstinência",
+     "texto": "Quem usa todos os dias e para pode sentir **irritação, ansiedade, insônia, sonhos estranhos, falta de apetite e inquietação**. Esses sintomas começam em 1 a 2 dias, são mais fortes na primeira semana e costumam passar em **1 a 2 semanas**. Não é perigoso, mas é desconfortável e é uma causa comum de recaída. Saber que passa ajuda."
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "Não há um remédio aprovado para a dependência de maconha. O que funciona melhor é **conversa e terapia**: entrevista motivacional, terapia cognitivo-comportamental e programas de incentivo. A equipe também trata ansiedade, depressão ou insônia que estejam junto. O CAPS AD e grupos como Narcóticos Anônimos podem ajudar."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Se você ainda usa: reduzir riscos",
+     "sim": [
+      "Usar menos dias por semana e em menor quantidade.",
+      "Evitar produtos muito fortes e \"maconha sintética\" (K2, K4, spice), que é muito mais perigosa.",
+      "Não usar se tiver histórico de psicose na família ou se já teve sintomas psicóticos."
+     ],
+     "nao": [
+      "Dirigir ou operar máquinas após usar.",
+      "Misturar com álcool ou outras drogas.",
+      "Usar na gravidez ou amamentação."
+     ]
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "É natural, então não faz mal.",
+       "fato": "Natural não quer dizer seguro. O efeito depende da quantidade de THC, da frequência e da pessoa."
+      },
+      {
+       "mito": "Maconha não vicia.",
+       "fato": "Pode viciar, e a abstinência existe."
+      }
+     ]
+    }
+   ],
+   "ajuda": [
+    "Ver ou ouvir coisas que não existem, desconfiança intensa, confusão.",
+    "Vômitos repetidos e intensos com dor na barriga em quem usa muito (pode ser uma síndrome ligada ao uso pesado).",
+    "Pensamentos de se machucar ou de não querer viver."
+   ],
+   "fonte": "NICE CG51; revisões Cochrane de intervenções psicossociais para cannabis; DSM-5-TR"
+  },
+  {
+   "id": "balanca-cannabis",
+   "titulo": "Balança de prós e contras",
+   "subtitulo": "Pensar no próprio uso, com sinceridade",
+   "publico": "Paciente",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que fazer isso",
+     "texto": "A maioria das pessoas tem motivos para usar e motivos para mudar. Colocar tudo no papel ajuda a enxergar melhor e a tomar uma decisão que seja **sua**. Não há resposta certa ou errada."
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Minha balança",
+     "texto": "Escreva nas quatro caixas. Pense em saúde, estudos, trabalho, dinheiro, família, amigos e em como você se sente.",
+     "colunas": [
+      "",
+      "Vantagens",
+      "Desvantagens"
+     ],
+     "linhas": [
+      [
+       "**Continuar usando como estou**",
+       "",
+       ""
+      ],
+      [
+       "**Diminuir ou parar**",
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu uso nesta semana",
+     "colunas": [
+      "Dia",
+      "Usei? Quanto?",
+      "Onde e com quem",
+      "Como eu estava antes",
+      "Como fiquei depois"
+     ],
+     "linhas": [
+      [
+       "Segunda",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Terça",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Quarta",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Quinta",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Sexta",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Sábado",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Domingo",
+       "",
+       "",
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Se decidir mudar",
+     "texto": "Escolha uma meta concreta, por exemplo \"não usar em dias de aula\" ou \"parar a partir do dia 10\". Planeje o que fazer nos momentos em que costumava usar, e prepare-se para 1 a 2 semanas de irritação e sono ruim: isso passa."
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Minha meta e meu plano",
+     "linhas_vazias": 5
+    }
+   ],
+   "fonte": "Miller e Rollnick (entrevista motivacional); NICE CG51"
+  }
+ ],
+ "Jogo patológico": [
+  {
+   "id": "o-que-e-jogo",
+   "titulo": "Quando o jogo vira doença",
+   "subtitulo": "O que é o transtorno do jogo e como se trata",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "O que é",
+     "texto": "O **transtorno do jogo** acontece quando apostar deixa de ser diversão e passa a controlar a vida. Vale para cassinos, bingos, loterias, jogo do bicho e, cada vez mais, **apostas on-line** e jogos no celular.\n\nO jogo ativa o sistema de recompensa do cérebro de modo parecido com as drogas. A pessoa pensa no jogo o tempo todo, aposta cada vez mais e tenta **recuperar o que perdeu** apostando de novo. Não é falta de caráter: é uma condição de saúde, com tratamento."
+    },
+    {
+     "tipo": "lista",
+     "titulo": "Sinais de alerta",
+     "itens": [
+      "Apostar valores cada vez maiores para sentir a mesma emoção.",
+      "Ficar irritado quando tenta diminuir.",
+      "Voltar para \"recuperar\" o que perdeu.",
+      "Mentir sobre quanto joga ou perde.",
+      "Pedir dinheiro emprestado, fazer dívidas ou vender coisas para jogar.",
+      "Jogar para fugir de tristeza, ansiedade ou problemas."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Como se trata",
+     "texto": "**Terapia cognitivo-comportamental (TCC):** ajuda a reconhecer pensamentos enganosos (\"agora vou ganhar\", \"estou com sorte\") e a lidar com a vontade de jogar.\n\n**Grupos de apoio:** Jogadores Anônimos e o acolhimento no CAPS AD ou em serviços de saúde mental.\n\n**Remédios:** a naltrexona pode reduzir a fissura de jogar em algumas pessoas. A equipe também trata depressão, ansiedade ou uso de álcool que estejam junto.\n\n**Proteção financeira:** bloquear o acesso ao dinheiro e às apostas é parte do tratamento (veja a ficha sobre bloqueios)."
+    },
+    {
+     "tipo": "destaque",
+     "titulo": "Alguns remédios podem provocar jogo",
+     "texto": "Remédios usados na doença de Parkinson e na síndrome das pernas inquietas (como pramipexol e ropinirol) e, mais raramente, o aripiprazol podem despertar vontade compulsiva de jogar. Se o problema começou depois de um remédio novo, **conte à equipe**. Não pare o remédio por conta própria."
+    },
+    {
+     "tipo": "mitos",
+     "titulo": "Mitos e fatos",
+     "itens": [
+      {
+       "mito": "Se eu continuar, vou recuperar o que perdi.",
+       "fato": "Os jogos são feitos para que a casa ganhe no longo prazo. Correr atrás das perdas aumenta as dívidas."
+      },
+      {
+       "mito": "Estou numa maré de sorte.",
+       "fato": "Cada aposta é independente. Resultados anteriores não mudam a próxima jogada."
+      }
+     ]
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de se matar, de \"sumir\" ou de que a família estaria melhor sem você. Pessoas com problemas de jogo e dívidas têm risco maior: fale na hora.",
+    "Ameaças de agiotas ou de pessoas a quem deve dinheiro.",
+    "Uso pesado de álcool ou drogas junto com o jogo."
+   ],
+   "fonte": "DSM-5-TR; revisões sobre TCC e naltrexona no transtorno do jogo"
+  },
+  {
+   "id": "bloqueios-financeiros-jogo",
+   "titulo": "Bloqueios financeiros e de acesso",
+   "subtitulo": "Colocar barreiras entre você e a aposta",
+   "publico": "Paciente e família",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "titulo": "Por que bloquear",
+     "texto": "A vontade de jogar costuma ser muito forte e rápida. Quanto **mais difícil** for chegar ao dinheiro e à aposta, maior a chance de a vontade passar antes de você agir. Barreiras não são castigo: são uma forma de proteger você nos momentos de fraqueza, escolhida por você mesmo."
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Bloqueios de acesso às apostas",
+     "itens": [
+      "Pedir a **autoexclusão** em todos os sites e aplicativos de apostas em que tem conta (as casas autorizadas no Brasil devem oferecer essa opção).",
+      "Apagar os aplicativos de apostas e sair de grupos e perfis de dicas.",
+      "Instalar bloqueador de sites de apostas no celular e no computador.",
+      "Cancelar o recebimento de e-mails, mensagens e promoções das casas de apostas.",
+      "Evitar caminhos que passam por lotéricas, bingos ou locais de jogo."
+     ]
+    },
+    {
+     "tipo": "checklist",
+     "titulo": "Bloqueios financeiros",
+     "itens": [
+      "Perguntar ao seu banco quais bloqueios existem: limite de Pix, bloqueio de compras em sites de apostas, redução de limite do cartão.",
+      "Cancelar cartões de crédito extras e o cheque especial.",
+      "Não pedir novos empréstimos. Não fazer empréstimo consignado.",
+      "Combinar que o salário caia em conta com acesso controlado ou compartilhado com alguém de confiança, por um tempo.",
+      "Andar só com o dinheiro necessário para o dia.",
+      "Pagar contas fixas logo que receber."
+     ]
+    },
+    {
+     "tipo": "texto",
+     "titulo": "Dívidas",
+     "texto": "Faça uma lista de todas as dívidas, com valor e credor. Não tente pagá-las jogando. Procure renegociar com calma; órgãos de defesa do consumidor, como o Procon, e alguns bancos oferecem orientação para renegociação.\n\nEvite agiotas: o risco de ameaças é grande. Se isso já aconteceu, conte à equipe e a alguém de confiança."
+    },
+    {
+     "tipo": "fazer",
+     "titulo": "Para a família",
+     "sim": [
+      "Proteger primeiro o dinheiro da casa: separar contas, trocar senhas.",
+      "Combinar os bloqueios **junto** com a pessoa, de forma transparente.",
+      "Buscar apoio para você também."
+     ],
+     "nao": [
+      "Pagar as dívidas de jogo sem um plano de tratamento: isso costuma alimentar o ciclo.",
+      "Emprestar dinheiro \"só dessa vez\".",
+      "Humilhar ou expor a pessoa."
+     ]
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Meus bloqueios feitos",
+     "texto": "O que já bloqueei, com a data, e quem me ajuda a manter.",
+     "linhas_vazias": 5
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de se matar, de \"sumir\" ou de que a família estaria melhor sem você. Pessoas com problemas de jogo e dívidas têm risco maior: fale na hora.",
+    "Ameaças de agiotas ou de pessoas a quem deve dinheiro.",
+    "Uso pesado de álcool ou drogas junto com o jogo."
+   ],
+   "fonte": "Diretrizes de TCC e prevenção de recaída no transtorno do jogo; DSM-5-TR"
+  },
+  {
+   "id": "prevencao-recaida-jogo",
+   "titulo": "Vontade de jogar: um plano para os momentos difíceis",
+   "subtitulo": "Gatilhos, pensamentos enganosos e registro",
+   "publico": "Paciente",
+   "figura": "onda-fissura",
+   "figura_legenda": "A vontade de apostar sobe e desce como uma onda. Esperar é uma das melhores ferramentas.",
+   "blocos": [
+    {
+     "tipo": "lista",
+     "titulo": "Gatilhos comuns",
+     "itens": [
+      "Dia do pagamento ou dinheiro extra na mão.",
+      "Propagandas de apostas, jogos de futebol na TV, grupos de palpites.",
+      "Estresse, tédio, solidão, discussões.",
+      "Álcool.",
+      "Uma perda recente (vontade de \"recuperar\") ou um ganho (\"estou com sorte\")."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Pensamento enganoso e resposta realista",
+     "colunas": [
+      "Quando eu penso",
+      "Posso responder"
+     ],
+     "linhas": [
+      [
+       "\"Dessa vez eu ganho.\"",
+       "A casa sempre ganha no longo prazo. Já pensei isso muitas vezes antes."
+      ],
+      [
+       "\"Só vou recuperar o que perdi.\"",
+       "Correr atrás das perdas foi o que aumentou minhas dívidas."
+      ],
+      [
+       "\"Eu entendo de futebol, é diferente.\"",
+       "Conhecimento não controla o resultado, e as cotações das apostas já são calculadas para a casa lucrar."
+      ],
+      [
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "tipo": "passos",
+     "titulo": "Quando a vontade vier",
+     "itens": [
+      "Pare e diga para si: \"é a vontade falando, ela vai passar\".",
+      "Afaste-se do celular ou do lugar de jogo.",
+      "Espere 20 minutos fazendo outra coisa.",
+      "Ligue para alguém do seu plano.",
+      "Lembre das perdas e dos seus motivos para parar."
+     ]
+    },
+    {
+     "tipo": "tabela",
+     "titulo": "Meu registro",
+     "colunas": [
+      "Data",
+      "Gatilho",
+      "Vontade (0 a 10)",
+      "O que fiz",
+      "Joguei? Quanto?"
+     ],
+     "linhas": [],
+     "linhas_vazias": 7
+    },
+    {
+     "tipo": "anotar",
+     "titulo": "Pessoas que posso chamar",
+     "linhas_vazias": 3
+    }
+   ],
+   "ajuda": [
+    "Pensamentos de se matar, de \"sumir\" ou de que a família estaria melhor sem você. Pessoas com problemas de jogo e dívidas têm risco maior: fale na hora.",
+    "Ameaças de agiotas ou de pessoas a quem deve dinheiro.",
+    "Uso pesado de álcool ou drogas junto com o jogo."
+   ],
+   "fonte": "TCC para transtorno do jogo (Ladouceur e cols.); Marlatt e Gordon (prevenção de recaída)"
+  }
+ ]
+}
