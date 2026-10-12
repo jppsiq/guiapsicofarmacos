@@ -1813,6 +1813,8 @@ main select:hover{border-color:color-mix(in srgb,var(--accent) 45%,var(--line-2)
 .pcard .pn-fonte{color:var(--ink-3)}
 .pcard>:last-child{padding-bottom:14px}
 @media print{.pcard>svg:first-child,.pcard>.pdoses{background:none}.pcard .pd span{background:none;border:1px solid #999;color:#222}}
+/* carregador das escalas: o brilho só anima quando está à vista */
+.esc-host.fora .esc-sk,.esc-host.fora .esc-sk-chips i,.esc-host.pronto .esc-sk,.esc-host.pronto .esc-sk-chips i{animation:none}
 /* =====================================================================
    ILUSTRAÇÕES DIDÁTICAS
    ===================================================================== */
@@ -2293,6 +2295,20 @@ main.quieto .itx-v,main.quieto .totop,main.quieto .cg-pan.on,main.quieto .tf-pan
 main.quieto .tabs button[aria-selected="true"]::before,main.quieto .tf-tabs [aria-selected="true"]::before,main.quieto .cg-tabs [data-cg],
 main.quieto .pdia.troca .pd-t,main.quieto .pdia.troca .pd-f{animation:none !important}
 main.quieto .page-h,main.quieto .fhead,main.quieto .res-head,main.quieto .ps-mt-h,main.quieto .page-h::after,main.quieto .res-head::after,main.quieto .itx-v-ic{animation-delay:var(--fase,0s) !important}
+
+/* =====================================================================
+   CELULAR E TELA DE TOQUE: sem animação de troca de página nem de entrada.
+   A navegação fica instantânea e estável (barra inferior e busca não se mexem);
+   ficam só os retornos curtos de toque, os avisos rápidos, a folha de menu, o sumário que abre e a barra que recolhe.
+   ===================================================================== */
+@media (max-width:900px),(hover:none) and (pointer:coarse){
+  main.entra,.hero2 *,.fhead>*,.page-h>*,.res-head>*,.ps-mt-h>*,.cg-pan.on,.tf-pan.on,details[open]>summary~*,
+  .tabs button[aria-selected="true"]::before,.tf-tabs [aria-selected="true"]::before,.cg-tabs [data-cg],.itx-v,.totop,
+  .page-h,.fhead,.res-head,.ps-mt-h,.page-h::after,.res-head::after,.aviso{animation:none !important}
+  details::details-content{transition:none !important}
+  .progresso{display:none !important}
+  .il-fig,.fg-fig,.iv-fig,.drow,.tool,.ccard,.ps-card{transition:none !important}
+}
 /* ---------- página inicial: o que é o guia, pérola do dia, casos prontos ---------- */
 .ig{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:28px;align-items:start;margin:44px 0 18px}
 .ig-k,.pd-k{display:block;font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
@@ -7178,7 +7194,8 @@ Object.assign(PE_FIG,{
 /* ---------- troca de página com transição de vista (quando o navegador oferece) ---------- */
 function vtRender(){
   const reduz=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if(reduz||!document.startViewTransition||document.hidden){ render(); return; }
+  const celular=window.matchMedia&&matchMedia('(max-width: 900px), (hover: none) and (pointer: coarse)').matches;
+  if(reduz||celular||!document.startViewTransition||document.hidden){ render(); return; }
   const R=document.documentElement; R.classList.add('vt');
   try{ const t=document.startViewTransition(()=>{ render(); }); t.finished.finally(()=>{ const m=document.getElementById('main'); if(m) m.classList.remove('entra'); R.classList.remove('vt'); }); }
   catch(e){ R.classList.remove('vt'); render(); }
